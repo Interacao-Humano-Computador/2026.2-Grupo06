@@ -228,10 +228,10 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Estrutura e datas oficiais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.4` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | Luis Henrique Arruda Luna | A definir |
+| `0.1` | 04/09/2026 | Estrutura e datas oficiais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.4` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

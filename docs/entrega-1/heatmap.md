@@ -40,9 +40,9 @@ Com base no heatmap, a janela recorrente sugerida deve priorizar uma célula com
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Grade inicial para coleta | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Faixas de horário e legenda para preenchimento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 05/09/2026 | Inclusão do heatmap consolidado e de sua explicação | Luis Henrique Arruda Luna | A definir |
+| `0.1` | 04/09/2026 | Grade inicial para coleta | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.2` | 04/09/2026 | Faixas de horário e legenda para preenchimento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.3` | 05/09/2026 | Inclusão do heatmap consolidado e de sua explicação | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
