@@ -1,0 +1,144 @@
+site_name: Grupo 06
+site_description: Documentação do projeto de Interação Humano-Computador do Grupo 06, FCTE/UnB, 2026.2.
+site_author: Grupo 06 — IHC 2026.2
+site_url: https://interacao-humano-computador.github.io/2026.2-Grupo06/
+
+repo_url: https://github.com/Interacao-Humano-Computador/2026.2-Grupo06
+repo_name: 2026.2-Grupo06
+edit_uri: edit/main/docs/
+
+copyright: Grupo 06 · Interação Humano-Computador · FCTE/UnB · 2026.2
+
+theme:
+  name: material
+  language: pt-BR
+  custom_dir: overrides
+  logo: assets/img/marca/portal-icon.png
+  favicon: assets/img/marca/portal-icon.png
+  font:
+    text: Outfit
+    code: IBM Plex Mono
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Ativar modo escuro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Ativar modo claro
+
+exclude_docs: |
+  includes/**
+
+plugins:
+  - search:
+      lang: pt
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      skip_classes:
+        - team-photo
+        - no-lightbox
+        - portal-mark
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      permalink_title: Ligação permanente para esta seção
+  - tables
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+      base_path:
+        - docs
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+  - assets/css/extra.css
+
+extra_javascript:
+  - assets/js/a11y.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Interacao-Humano-Computador/2026.2-Grupo06
+      name: Repositório do grupo no GitHub
+
+nav:
+  - Início: index.md
+  - Equipe: equipe.md
+  - Planejamento:
+      - entrega-1/index.md
+      - Cronograma: entrega-1/cronograma.md
+      - Heatmap de disponibilidade: entrega-1/heatmap.md
+      - Sites avaliados: entrega-1/sites-avaliados.md
+      - Site escolhido: entrega-1/site-escolhido.md
+      - Processo de Design: entrega-1/processo-design.md
+      - Ferramentas: entrega-1/ferramentas.md
+      - Lista de verificação: entrega-1/lista-verificacao.md
+  - Atas:
+      - atas/index.md
+      - Ata 01: atas/ata-01.md
+  - Apresentações:
+      - apresentacoes/index.md
+      - Etapa 1: apresentacoes/etapa-01.md
+  - Padrões:
+      - guia/index.md
+      - Template de artefato: guia/template-artefato.md
+      - Autoria, revisão e versões: guia/autoria-revisao-versoes.md
+      - Figuras, tabelas e referências: guia/figuras-tabelas-referencias.md
+      - Acessibilidade: guia/acessibilidade.md
+      - Como contribuir: guia/como-contribuir.md
+  - Próximas etapas:
+      - proximas/index.md
+      - Etapa 2: proximas/etapa-02.md
+      - Etapa 3: proximas/etapa-03.md
+      - Etapa 4: proximas/etapa-04.md
+      - Etapa 5: proximas/etapa-05.md
+      - Etapa 6: proximas/etapa-06.md
+      - Etapa 7: proximas/etapa-07.md
+      - Etapa 8: proximas/etapa-08.md
+      - Entrega final: proximas/entrega-final.md

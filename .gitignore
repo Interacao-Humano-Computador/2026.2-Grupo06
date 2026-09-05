@@ -1,0 +1,11 @@
+site/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+*.local.md
+planejamento-interno.md
+mapa-mental.md
+especificacao-temporaria.md
