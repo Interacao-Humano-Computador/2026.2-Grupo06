@@ -118,13 +118,19 @@ nav:
       - Site escolhido: entrega-1/site-escolhido.md
       - Processo de Design: entrega-1/processo-design.md
       - Ferramentas: entrega-1/ferramentas.md
-      - Lista de verificação: entrega-1/lista-verificacao.md
   - Atas:
       - atas/index.md
       - Ata 01: atas/ata-01.md
   - Apresentações:
       - apresentacoes/index.md
       - Etapa 1: apresentacoes/etapa-01.md
+  - Verificação:
+      - verificacao/index.md
+      - Verificação do Grupo:
+          - verificacao/grupo-06/index.md
+          - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
+      - Verificação do Grupo 7:
+          - verificacao/grupo-07/index.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md
