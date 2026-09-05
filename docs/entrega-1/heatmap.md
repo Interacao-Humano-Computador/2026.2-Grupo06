@@ -2,50 +2,35 @@
 
 # Heatmap de disponibilidade
 
-O plano de ensino pede o heatmap na Entrega 1. No [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/) o grupo primeiro coletou horários numa planilha e só então marcou reunião fixa (sábado, 10h). Faça o mesmo: preencha a Tabela 1 e feche a janela em seguida.
-
-Luis Henrique pergunta a cada pessoa e troca o traço pela letra. Não deixe célula vazia.
+O heatmap consolida as disponibilidades informadas pelos integrantes do Grupo 06 e facilita a identificação dos melhores horários para reuniões e atividades coletivas.
 
 ## Legenda
 
-- **L** — livre para reunião ou produção
-- **P** — possível com aviso prévio
-- **X** — indisponível
-- **—** — ainda não informado
-
-A célula ganha cor sozinha quando o valor for L, P ou X.
+- **0 (vermelho):** nenhum integrante disponível;
+- **1 (laranja):** um integrante disponível;
+- **2 (amarelo):** dois integrantes disponíveis;
+- **3 (verde-claro):** três integrantes disponíveis;
+- **4 (verde):** quatro integrantes disponíveis;
+- **5 (verde-escuro):** todos os integrantes disponíveis.
 
 ## Disponibilidade semanal
 
-| Horário | Bruno | Caio | Heitor | Israel | Luis Henrique |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Seg. 08–12 | — | P | — | — | — |
-| Seg. 12–18 | — | — | — | — | — |
-| Seg. 18–22 | — | — | — | — | — |
-| Ter. 08–12 | — | — | — | — | — |
-| Ter. 12–18 | — | — | — | — | — |
-| Ter. 18–22 | — | — | — | — | — |
-| Qua. 08–12 | — | — | — | — | — |
-| Qua. 12–18 | — | — | — | — | — |
-| Qua. 18–22 | — | — | — | — | — |
-| Qui. 08–12 | — | — | — | — | — |
-| Qui. 12–18 | — | — | — | — | — |
-| Qui. 18–22 | — | — | — | — | — |
-| Sex. 08–12 | — | — | — | — | — |
-| Sex. 12–18 | — | — | — | — | — |
-| Sex. 18–22 | — | — | — | — | — |
-| Sáb. 08–12 | — | — | — | — | — |
-| Sáb. 12–18 | — | — | — | — | — |
-| Dom. | — | — | — | — | — |
+<figure markdown="span">
+  ![Grade horária colorida que apresenta a quantidade de integrantes disponíveis em cada horário da semana.](../assets/img/heatmap/heatmap-disponibilidade.png)
+  <figcaption>Figura 1 — Heatmap de disponibilidade do Grupo 06.</figcaption>
+</figure>
 
-<p class="caption">Tabela 1 — Heatmap de disponibilidade do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A Tabela 1 usa faixas de horário, e não só manhã/tarde/noite, para o grupo marcar um horário recorrente com precisão.
+## Como interpretar o heatmap
+
+As colunas representam os dias da semana e as linhas representam intervalos de uma hora, entre 08h e 22h. O número exibido em cada célula corresponde à quantidade de integrantes disponíveis naquele período.
+
+As cores variam do vermelho ao verde-escuro. Os horários vermelhos apresentam menor disponibilidade, enquanto os horários verdes apresentam maior disponibilidade. Dessa forma, os períodos com valor **5** são os mais adequados para reuniões, pois contam com a disponibilidade de todos os integrantes do grupo.
 
 ## Janela sugerida de reunião
 
-Preencha depois que a Tabela 1 tiver pelo menos um **L** em comum:
+Com base no heatmap, a janela recorrente sugerida deve priorizar uma célula com valor **5**:
 
 - Dia e horário recorrente:
 - Canal (Teams / outro):
@@ -57,6 +42,7 @@ Preencha depois que a Tabela 1 tiver pelo menos um **L** em comum:
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Grade inicial para coleta | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `0.2` | 04/09/2026 | Faixas de horário e legenda para preenchimento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.3` | 05/09/2026 | Inclusão do heatmap consolidado e de sua explicação | Luis Henrique Arruda Luna | A definir |
 
 ## Referências
 
