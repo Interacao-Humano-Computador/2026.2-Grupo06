@@ -24,7 +24,7 @@ Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota c
 3. Histórico de versão
 4. Referências
 
-A tabela de contribuição da etapa fica na página da entrega — na Entrega 1, no [Planejamento](../entrega-1/index.md).
+A tabela de contribuição da etapa fica na página da apresentação da etapa — na Entrega 1, na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ## Histórico de versão
 
@@ -32,6 +32,7 @@ A tabela de contribuição da etapa fica na página da entrega — na Entrega 1,
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação dos padrões da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `1.1` | 05/09/2026 | Tira a tabela de contribuição da ordem mínima de cada página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

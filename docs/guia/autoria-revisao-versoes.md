@@ -40,13 +40,13 @@ No início da página, mantenha a faixa `Responsável` e, nos itens de conteúdo
 
 ## Tabela de contribuição
 
-A tabela de contribuição fica **na página da entrega**, não no início de cada artefato. Na Entrega 1 ela está no [Planejamento](../entrega-1/index.md). Inclua o nome de todos, o que cada um fez, ligação para a atividade e para a gravação, se houver.
+A tabela de contribuição fica **na página da apresentação da etapa**, não no início de cada artefato. Na Entrega 1 ela está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md). Inclua o nome de todos, o que cada um fez e a ligação para a atividade.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Nome completo | Frase objetiva | [Nome da página](../entrega-1/index.md) | [Vídeo da reunião](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| Nome completo | Frase objetiva | [Nome da página](../apresentacoes/etapa-01.md) |
 
-<p class="caption">Tabela 3 — Modelo de contribuição consolidada da entrega.</p>
+<p class="caption">Tabela 3 — Modelo de contribuição consolidada da etapa.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão desta página
@@ -55,6 +55,7 @@ A tabela de contribuição fica **na página da entrega**, não no início de ca
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Definição do padrão de autoria e versões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `1.1` | 05/09/2026 | Consolida a tabela de contribuição na página da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 05/09/2026 | Remove a coluna de gravação e aponta a tabela para a Etapa 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

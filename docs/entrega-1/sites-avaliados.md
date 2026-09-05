@@ -6,7 +6,7 @@
 
 Na Entrega 1, o grupo precisava apresentar os sites considerados antes de justificar o objeto do semestre. Quatro integrantes concluíram o planejamento e a avaliação individuais de um portal governamental, com o framework DECIDE e avaliação heurística. Este artefato reúne esses candidatos e disponibiliza, para cada site, os **dois documentos padronizados** — planejamento e relatório — para consulta do professor.
 
-O objeto já combinado pelo grupo é o **Portal da Transparência do Distrito Federal**. Os demais candidatos existem para mostrar que a escolha foi comparada, e não assumida. A justificativa final está em [Site escolhido](site-escolhido.md). A contribuição de cada integrante nesta etapa está no [Planejamento](index.md).
+O objeto já combinado pelo grupo é o **Portal da Transparência do Distrito Federal**. Os demais candidatos existem para mostrar que a escolha foi comparada, e não assumida. A justificativa final está em [Site escolhido](site-escolhido.md). A contribuição de cada integrante nesta etapa está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ## Sites e documentos padronizados
 

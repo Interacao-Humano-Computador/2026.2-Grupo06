@@ -15,7 +15,7 @@ A Tabela 1 apresenta os itens de planejamento geral exigidos para a Entrega 1.
 | 5 | Motivação e critérios para a escolha do site? | Sim | Caio Breno | [Site escolhido](site-escolhido.md) |
 | 6 | Planejamento e avaliação dos sites selecionados? | Sim | Caio Breno | [Sites avaliados](sites-avaliados.md) |
 | 7 | Opção de contraste de cores? | Sim | Caio Breno | [Acessibilidade](../guia/acessibilidade.md) |
-| 8 | Artefatos: planejamento, equipe, sites, site escolhido, ferramentas, processo e cronograma? | Sim | Equipe | [Planejamento](index.md) |
+| 8 | Artefatos: planejamento, equipe, sites, site escolhido, ferramentas, processo e cronograma? | Sim | Equipe | [Cronograma](cronograma.md) |
 | 9 | Página de atas com acesso à gravação, quando houver? | Sim | Bruno Ferreira | [Atas](../atas/index.md) |
 
 <p class="caption">Tabela 1 — Itens de planejamento geral da Entrega 1.</p>
@@ -36,7 +36,7 @@ A Tabela 2 lista os itens de desenvolvimento do projeto exigidos para a Entrega 
 | 7 | Atas com data, horário de início e fim, participantes, objetivo e decisões? | Sim | Bruno Ferreira |
 | 8 | Gravação da reunião do grupo? | Sim | Bruno Ferreira |
 | 9 | Vídeo de apresentação não listado no YouTube? | Incompleto | Bruno Ferreira |
-| 10 | Tabela de contribuição da etapa, com hiperligação para atividade e gravação? | Sim | Caio Breno — [Planejamento](index.md) |
+| 10 | Tabela de contribuição da etapa, com hiperligação para atividade? | Sim | Caio Breno — [Apresentação da Etapa 1](../apresentacoes/etapa-01.md) |
 | 11 | Seção de agradecimentos, quando couber | Sim | Bruno Ferreira |
 
 <p class="caption">Tabela 2 — Itens de desenvolvimento da Entrega 1.</p>
