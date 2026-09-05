@@ -12,6 +12,8 @@ O proceso de design é composto por três atividades: análise,sítese e avalia�
 
 ![Processo1](../assets/img/referencias/processo1.png)
 
+**Descrição do Processo de Design**
+
 ## Processos possíveis
 
 ### Ciclo de vida simples
@@ -68,9 +70,15 @@ O Portal da Transparência do DF é um sistema que já está no ar e em uso real
 
 ![Processo3](../assets/img/referencias/processo3.png)
 
+**Introdução de Usuabilidade de Mayhew** 
+
 ![Processo4](../assets/img/referencias/processo4.png)
 
+**Parte do Gráfico**
+
 ![Processo5](../assets/img/referencias/processo5.png)
+
+**Fase de Instalação**
 
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 109-111). Foto a inserir.</p>
 
