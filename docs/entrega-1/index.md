@@ -10,7 +10,7 @@ A Tabela 1 concentra a contribuição da Entrega 1. Cada artefato liga a página
 
 | Integrante | Contribuição | Artefato / atividade | Gravação |
 | --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Infraestrutura do GitHub Pages, equipe e padrões do site | [Equipe](../equipe.md) e [Padrões](../guia/index.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação do GitHub Pages e padrões do site | [Início](../index.md) e [Padrões](../guia/index.md) | [Ata 01](../atas/ata-01.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos e justificativa do site escolhido | [Sites avaliados](sites-avaliados.md) e [site escolhido](site-escolhido.md) | [Ata 01](../atas/ata-01.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento e relatório individuais do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) e [relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) | Não se aplica |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Cronograma por etapa e heatmap de disponibilidade | [Cronograma](cronograma.md) e [heatmap](heatmap.md) | [Ata 01](../atas/ata-01.md) |
@@ -71,6 +71,7 @@ O [template](../guia/template-artefato.md) e o guia de [figuras e referências](
 | `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Atualiza os responsáveis de sites, processo de design e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 05/09/2026 | Consolida a tabela de contribuição da Entrega 1 e links de verificação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 05/09/2026 | Registra a estruturação do GitHub Pages na contribuição do Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
