@@ -36,9 +36,9 @@ Abra <http://127.0.0.1:8000/2026.2-Grupo06/>. Se a porta 8000 estiver ocupada, o
 | Você é | Arquivo principal |
 | --- | --- |
 | Luis Henrique Arruda Luna | `docs/entrega-1/cronograma.md` e `docs/entrega-1/heatmap.md` |
-| Israel Soares | `docs/entrega-1/sites-avaliados.md` e `docs/entrega-1/site-escolhido.md` |
-| Heitor Pinheiro | `docs/entrega-1/processo-design.md` e `docs/entrega-1/ferramentas.md` |
-| Caio Breno | `docs/equipe.md`, `docs/guia/`, tema e workflow |
+| Caio Breno | `docs/entrega-1/sites-avaliados.md`, `docs/entrega-1/site-escolhido.md`, `docs/equipe.md`, `docs/guia/`, tema e workflow |
+| Israel Soares | `docs/entrega-1/processo-design.md` |
+| Heitor Pinheiro | `docs/entrega-1/ferramentas.md` |
 | Bruno Ferreira | `docs/atas/`, `docs/apresentacoes/` e tabelas de contribuição |
 
 Imagens novas vão para `docs/assets/img/`, em pasta óbvia (`referencias/`, `equipe/`, `evidencias/`).
@@ -69,6 +69,7 @@ Use nome e sobrenome reconhecíveis. O plano de ensino cobra isso para individua
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Fluxo de contribuição da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.1` | 05/09/2026 | Atualiza os arquivos de sites, processo de design e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

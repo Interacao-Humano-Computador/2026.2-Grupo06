@@ -4,19 +4,12 @@
 
 Copie o bloco abaixo para um arquivo novo em `docs/`. Troque os campos entre colchetes.
 
+A tabela de contribuição da etapa fica na página da entrega — na Entrega 1, no [Planejamento](../entrega-1/index.md) — e não se repete em cada artefato. Cada página começa pela introdução.
+
 ```markdown
 <span class="owner">Responsável: [Nome — papel] · Autor do item: [Nome]</span>
 
 # [Título do artefato]
-
-## Tabela de contribuição
-
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Nome] | [O que fez] | [Texto do link](../entrega-1/index.md) | [Vídeo](https://youtube.com) |
-
-<p class="caption">Tabela N — Contribuição neste artefato.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
@@ -67,7 +60,7 @@ No texto: “A Tabela N sintetiza…”.
 O mesmo contrato está em pedaços reutilizáveis:
 
 - `docs/includes/historico.md`
-- `docs/includes/contribuicao.md`
+- `docs/includes/contribuicao.md` — modelo da tabela consolidada na página da entrega
 
 Depois de copiar, acrescente a página em `mkdocs.yml` na seção correta da `nav`.
 
@@ -76,6 +69,7 @@ Depois de copiar, acrescente a página em `mkdocs.yml` na seção correta da `na
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação do template reutilizável | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.1` | 05/09/2026 | Tira a tabela de contribuição de cada página e aponta a da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

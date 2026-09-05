@@ -19,17 +19,19 @@ Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota c
 
 ## Ordem mínima de um artefato
 
-1. Tabela de contribuição com hiperligações
-2. Introdução
-3. Conteúdo, com figuras e tabelas nomeadas
-4. Histórico de versão
-5. Referências
+1. Introdução
+2. Conteúdo, com figuras e tabelas nomeadas
+3. Histórico de versão
+4. Referências
+
+A tabela de contribuição da etapa fica na página da entrega — na Entrega 1, no [Planejamento](../entrega-1/index.md).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação dos padrões da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.1` | 05/09/2026 | Tira a tabela de contribuição da ordem mínima de cada página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

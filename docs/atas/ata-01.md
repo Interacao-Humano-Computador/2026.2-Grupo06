@@ -46,8 +46,9 @@
 | Atividade | Responsável | Prazo |
 | --- | --- | :---: |
 | Completar cronograma e heatmap | Luis Henrique | 05/09/2026 |
-| Completar sites e justificativa | Israel Soares | 05/09/2026 |
-| Completar processo e ferramentas | Heitor Pinheiro | 05/09/2026 |
+| Completar sites e justificativa | Caio Breno | 05/09/2026 |
+| Completar Processo de Design | Israel Soares | 05/09/2026 |
+| Completar ferramentas | Heitor Pinheiro | 05/09/2026 |
 | Revisar artefatos no GitHub Pages | Todos | 05/09/2026 |
 | Publicar ata, contribuição e vídeo | Bruno Ferreira | 06/09/2026 |
 
@@ -65,6 +66,7 @@ Link: a inserir (categoria **não listado**).
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo da Ata 01 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 05/09/2026 | Atualiza os responsáveis de sites, processo e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

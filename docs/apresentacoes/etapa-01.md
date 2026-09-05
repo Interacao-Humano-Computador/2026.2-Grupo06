@@ -6,10 +6,10 @@
 
 | Integrante | Contribuição | Artefato apresentado | Trecho no vídeo |
 | --- | --- | --- | --- |
-| Caio Breno | Infraestrutura, equipe, contraste e template | [Equipe](../equipe.md), [Padrões](../guia/index.md) | A inserir |
+| Caio Breno | Infraestrutura, sites avaliados e site escolhido | [Equipe](../equipe.md), [Sites avaliados](../entrega-1/sites-avaliados.md), [Site escolhido](../entrega-1/site-escolhido.md) | A inserir |
 | Luis Henrique | Cronograma e heatmap | [Cronograma](../entrega-1/cronograma.md) | A inserir |
-| Israel Soares | Sites e escolha | [Site escolhido](../entrega-1/site-escolhido.md) | A inserir |
-| Heitor Pinheiro | Processo e ferramentas | [Processo de Design](../entrega-1/processo-design.md) | A inserir |
+| Israel Soares | Processo de Design | [Processo de Design](../entrega-1/processo-design.md) | A inserir |
+| Heitor Pinheiro | Ferramentas | [Ferramentas](../entrega-1/ferramentas.md) | A inserir |
 | Bruno Ferreira | Ata, edição e publicação do vídeo | Esta página | A inserir |
 
 <p class="caption">Tabela 1 — Contribuição na apresentação da Etapa 1.</p>
@@ -43,6 +43,7 @@ Cole o embed depois que o vídeo existir:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo da apresentação da Etapa 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 05/09/2026 | Atualiza quem apresenta sites, processo e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
