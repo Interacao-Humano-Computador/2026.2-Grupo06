@@ -13,11 +13,11 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Documentação da equipe | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Luis Henrique |
-| Levantamento da lista de sites candidatos | 03/09 | 04/09 | Israel Soares | 04/09 - 05/09 | Heitor Pinheiro |
-| Avaliação dos sites candidatos | 03/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
-| Seleção e justificativa do site | 04/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
+| Levantamento da lista de sites candidatos | 03/09 | 04/09 | Caio Breno | 04/09 - 05/09 | Heitor Pinheiro |
+| Avaliação dos sites candidatos | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Heitor Pinheiro |
+| Seleção e justificativa do site | 04/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Heitor Pinheiro |
 | Documentação das ferramentas do projeto | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
-| Definição e justificativa do Processo de Design | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
+| Definição e justificativa do Processo de Design | 03/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Bruno Ferreira |
 | Elaboração do cronograma detalhado | 03/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
 | Coleta das disponibilidades da equipe | 03/09 | 05/09 | Luis Henrique | - | - |
 | Consolidação do heatmap de disponibilidade | 04/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
@@ -211,11 +211,11 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | Atividade | Quem fez | Início real | Fim real | Observação |
 | --- | --- | :---: | :---: | --- |
 | Documentação da equipe | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
-| Levantamento da lista de sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluído |
-| Avaliação dos sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
-| Seleção e justificativa do site | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
+| Levantamento da lista de sites candidatos | Caio Breno | 04/09/2026 | 05/09/2026 | Concluído |
+| Avaliação dos sites candidatos | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
+| Seleção e justificativa do site | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
 | Documentação das ferramentas do projeto | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
-| Definição e justificativa do Processo de Design | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
+| Definição e justificativa do Processo de Design | Israel Soares | 05/09/2026 | 05/09/2026 | Concluída |
 | Elaboração do cronograma detalhado | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Coleta das disponibilidades da equipe | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Consolidação do heatmap de disponibilidade | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
@@ -232,6 +232,7 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.4` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.5` | 05/09/2026 | Corrige autores da Etapa 1: Caio nos sites, Israel no processo e Heitor nas ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

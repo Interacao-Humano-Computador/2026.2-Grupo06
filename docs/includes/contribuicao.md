@@ -1,4 +1,4 @@
-<!-- Uma linha por integrante. A atividade e a gravação devem ser hiperligações. -->
+<!-- Modelo da tabela consolidada na página da entrega, não em cada artefato. -->
 
 | Integrante | Contribuição | Artefato / atividade | Gravação |
 | --- | --- | --- | --- |
