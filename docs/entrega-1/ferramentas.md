@@ -40,8 +40,8 @@ Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Versão inicial da lista de ferramentas para revisão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/heitorpinheiro) |
-| `1.1` | 05/09/2026 | Inclusão de novas ferramentas (Figma, This Person Doesn't Exist, Google Planilhas, Miro), remoção do Draw.io, adequação ao template de artefatos e inserção das logos | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/heitorpinheiro) | A definir |
+| `1.0` | 04/09/2026 | Versão inicial da lista de ferramentas para revisão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.1` | 05/09/2026 | Inclusão de novas ferramentas (Figma, This Person Doesn't Exist, Google Planilhas, Miro), remoção do Draw.io, adequação ao template de artefatos e inserção das logos | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
