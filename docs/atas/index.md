@@ -10,7 +10,7 @@ As atas comprovam o trabalho em equipe. Cada registro precisa de data, horário 
 
 | Ata | Data | Início | Fim | Objetivo | Gravação | Página |
 | :---: | :---: | :---: | :---: | --- | --- | --- |
-| 01 | A definir | A definir | A definir | Alinhar Entrega 1, papéis e site | A inserir | [Ata 01](ata-01.md) |
+| 01 | 04/09/2026 | 20:35 | 21:16 | Alinhar Entrega 1: objeto de estudo, papéis e site | [Vídeo](ata-01.md#gravacao) | [Ata 01](ata-01.md) |
 
 <p class="caption">Tabela 1 — Índice das atas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -26,7 +26,8 @@ As atas comprovam o trabalho em equipe. Cada registro precisa de data, horário 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Índice e modelo da primeira ata | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Índice e modelo da primeira ata | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 05/09/2026 | Atualização dos dados da Ata 01 e hiperligação da gravação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -31,7 +31,6 @@ A Tabela 1 cobre tanto os artefatos coletivos da etapa quanto as inspeções ind
 | Página | Quem escreve | O que precisa ficar pronto |
 | --- | --- | --- |
 | [Cronograma](cronograma.md) | Luis Henrique Arruda Luna | Uma tabela por etapa, com início, fim, autor, revisão e revisor |
-| [Heatmap](heatmap.md) | Luis Henrique Arruda Luna | Grade L / P / X de todo o grupo e horário recorrente |
 | [Sites avaliados](sites-avaliados.md) | Caio Breno | Quem inspecionou o quê, um tópico por site e os dois PDFs padronizados |
 | [Site escolhido](site-escolhido.md) | Caio Breno | Justificativa do Portal da Transparência do DF |
 | [Processo de Design](processo-design.md) | Israel Soares | Ciclo escolhido, por quê, e foto legível do trecho |
@@ -43,7 +42,7 @@ A Tabela 1 cobre tanto os artefatos coletivos da etapa quanto as inspeções ind
 <p class="caption">Tabela 2 — Páginas do planejamento e responsável.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Antes de gravar, passe pela [lista de verificação](lista-verificacao.md).
+Antes de gravar, passe pela [lista de verificação](../verificacao/grupo-06/etapa-1/lista-verificacao.md).
 
 ## Como começar a sua página
 
@@ -69,9 +68,9 @@ O [template](../guia/template-artefato.md) e o guia de [figuras e referências](
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.1` | 05/09/2026 | Atualiza os responsáveis de sites, processo de design e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
-| `1.2` | 05/09/2026 | Consolida a tabela de contribuição da Entrega 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 05/09/2026 | Atualiza os responsáveis de sites, processo de design e ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 05/09/2026 | Consolida a tabela de contribuição da Entrega 1 e links de verificação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
