@@ -1,169 +1,225 @@
 <span class="owner">Responsável: Luis Henrique Arruda Luna — Cronograma e planejamento</span>
 
-# Cronograma
+# Cronograma Planejado — IHC 2026.2
 
-O plano de ensino pede um cronograma de **todas as etapas**, com responsável, início, fim, período de revisão e gravação da apresentação. Cada etapa tem a sua tabela. A gravação entra como **linha**, não como coluna extra. Datas oficiais vêm de SALES (2026). Luis Henrique confirma nomes e o que de fato foi feito.
+O cronograma está organizado por etapa. Para cada atividade são apresentados o período de desenvolvimento, o autor, o período de revisão e o revisor.
 
-## Datas oficiais
+> **Regra de revisão:** a revisão começa no mesmo dia em que a atividade termina e permanece prevista por 2 dias corridos. Exemplo: atividade com término em `05/09` → revisão em `05/09 - 06/09`.
 
-| Etapa | Entrega | Inspeção | Apresentação |
-| --- | :---: | :---: | :---: |
-| 1. Planejamento | 06/09/2026 | 07/09/2026 | 08/09/2026 |
-| 2. Perfil, ética e tarefas | 27/09/2026 | 28/09/2026 | 29/09/2026 |
-| 3. Princípios e guia de estilo | 06/10/2026 | 07/10/2026 | 08/10/2026 |
-| 4. Planejamento da avaliação | 13/10/2026 | 14/10/2026 | 15/10/2026 |
-| 5. Relatos e protótipo de papel | 25/10/2026 | 26/10/2026 | 27/10/2026 |
-| 6. Papel e alta fidelidade | 03/11/2026 | 04/11/2026 | 05/11/2026 |
-| 7. Relato da alta fidelidade | 15/11/2026 | 16/11/2026 | 17/11/2026 |
-| 8. Verificação | 22/11/2026 | 23/11/2026 | 24/11/2026 |
-| Final | 30/11/2026 | — | 01 a 08/12/2026 |
+## Etapa 1 - Planejamento do Projeto
 
-<p class="caption">Tabela 1 — Datas oficiais da disciplina.</p>
-<p class="source">Fonte: SALES (2026).</p>
-
-## Como preencher
-
-1. Autor e revisor são **pessoas diferentes**.
-2. A revisão termina **antes** da entrega no Aprender.
-3. A gravação fica **antes** da entrega (na Etapa 1, 05–06/09).
-4. Depois da inspeção do Grupo +1, preencha a linha de ajuste.
-5. O que já aconteceu vai para o [cronograma executado](#cronograma-executado).
-
-Os revisores da Etapa 1 já estão sugeridos em rodízio. Luis Henrique pode trocar, desde que ninguém revise o próprio texto.
-
-## Etapa 1 — Planejamento
+**Entrega: 06/09 | Inspeção: 07/09 | Apresentação: 08/09**
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| GitHub Pages, equipe e contraste | 04/09 | 05/09 | Caio Breno | 05/09 | Luis Henrique |
-| Cronograma e heatmap | 04/09 | 05/09 | Luis Henrique | 06/09 | Israel Soares |
-| Sites avaliados e site escolhido | 04/09 | 05/09 | Israel Soares | 06/09 | Heitor Pinheiro |
-| Processo de Design e ferramentas | 04/09 | 05/09 | Heitor Pinheiro | 06/09 | Bruno Ferreira |
-| Atas e tabela de contribuição | 04/09 | 06/09 | Bruno Ferreira | 06/09 | Caio Breno |
-| Gravação e edição da apresentação | 05/09 | 06/09 | Bruno Ferreira | 06/09 | Caio Breno |
-| Ajuste após inspeção do Grupo +1 | 08/09 | 10/09 | Autores de cada página | 10/09 | Caio Breno |
+| --- | --- | --- | --- | --- | --- |
+| Documentação da equipe | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Luis Henrique |
+| Levantamento da lista de sites candidatos | 03/09 | 04/09 | Israel Soares | 04/09 - 05/09 | Heitor Pinheiro |
+| Avaliação dos sites candidatos | 03/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
+| Seleção e justificativa do site | 04/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
+| Documentação das ferramentas do projeto | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
+| Definição e justificativa do Processo de Design | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
+| Elaboração do cronograma detalhado | 03/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
+| Coleta das disponibilidades da equipe | 03/09 | 05/09 | Luis Henrique | - | - |
+| Consolidação do heatmap de disponibilidade | 04/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
+| Revisão geral dos artefatos | 05/09 | 05/09 | Todos | 05/09 - 06/09 | Revisão cruzada |
+| Ajustes finais da GitPages | 05/09 | 06/09 | Caio Breno | 06/09 - 07/09 | Luis Henrique |
+| Gravação da apresentação | 05/09 | 06/09 | Todos | 06/09 - 07/09 | Revisão cruzada |
+| Edição e publicação do vídeo | 06/09 | 06/09 | Bruno Ferreira | 06/09 - 07/09 | Caio Breno |
+| Entrega da Etapa 1 | 06/09 | 06/09 | Todos | - | - |
+| Inspeção do Grupo +1 | 07/09 | 07/09 | Todos | - | - |
+| Apresentação da Etapa 1 | 08/09 | 08/09 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 09/09 | 12/09 | Autores dos artefatos | 12/09 - 13/09 | Revisores correspondentes |
 
-<p class="caption">Tabela 2 — Cronograma planejado da Etapa 1.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+## Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
 
-## Etapa 2 — Perfil, ética e análise de tarefas
-
-Entrega 27/09 · inspeção 28/09 · apresentação 29/09.
-
-| Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Perfil de usuário (mais de uma técnica) | 10/09 | 25/09 | A definir | 26/09 | A definir |
-| Ética, princípios e TCLE | 10/09 | 25/09 | A definir | 26/09 | A definir |
-| Análise de tarefas (HTA e GOMS) | 10/09 | 25/09 | Cada integrante | 26/09 | A definir |
-| Gravação da apresentação | 26/09 | 27/09 | A definir | 27/09 | A definir |
-| Ajuste após inspeção | 29/09 | 01/10 | Autores | 01/10 | A definir |
-
-<p class="caption">Tabela 3 — Cronograma planejado da Etapa 2.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-## Etapa 3 — Princípios, metas e guia de estilo
-
-Entrega 06/10 · inspeção 07/10 · apresentação 08/10.
+**Entrega: 27/09 | Inspeção: 28/09 | Apresentação: 29/09**
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Princípios gerais de projeto | 30/09 | 05/10 | A definir | 05/10 | A definir |
-| Metas de usabilidade | 30/09 | 05/10 | A definir | 05/10 | A definir |
-| Guia de estilo e plataforma | 30/09 | 05/10 | A definir | 05/10 | A definir |
-| Gravação da apresentação | 05/10 | 06/10 | A definir | 06/10 | A definir |
-| Ajuste após inspeção | 08/10 | 10/10 | Autores | 10/10 | A definir |
+| --- | --- | --- | --- | --- | --- |
+| Correções da Etapa 1 | 09/09 | 12/09 | Autores da etapa anterior | 12/09 - 13/09 | Revisores correspondentes |
+| Planejamento da elicitação do perfil de usuário | 10/09 | 13/09 | Bruno Ferreira | 13/09 - 14/09 | Caio Breno |
+| Aplicação de técnicas para definição do perfil | 13/09 | 18/09 | Todos | 18/09 - 19/09 | Revisão cruzada |
+| Consolidação do perfil do usuário | 18/09 | 20/09 | Bruno Ferreira | 20/09 - 21/09 | Caio Breno |
+| Aspectos éticos e TCLE | 15/09 | 20/09 | Israel Soares | 20/09 - 21/09 | Heitor Pinheiro |
+| Elaboração dos cenários | 18/09 | 20/09 | Caio Breno | 20/09 - 21/09 | Luis Henrique |
+| Definição das tarefas | 17/09 | 20/09 | Todos | 20/09 - 21/09 | Revisão cruzada |
+| Modelagem das tarefas com HTA | 18/09 | 21/09 | Todos | 21/09 - 22/09 | Revisão cruzada |
+| Modelagem das tarefas com segunda técnica (GOMS/KLM/CTT etc.) | 18/09 | 21/09 | Todos | 21/09 - 22/09 | Revisão cruzada |
+| Atualização do cronograma planejado/executado | 20/09 | 25/09 | Luis Henrique | 25/09 - 26/09 | Israel Soares |
+| Revisão geral da etapa | 25/09 | 26/09 | Todos | 26/09 - 27/09 | Revisão cruzada |
+| Gravação da apresentação | 26/09 | 27/09 | Todos | 27/09 - 28/09 | Revisão cruzada |
+| Edição e publicação do vídeo | 27/09 | 27/09 | Heitor Pinheiro | 27/09 - 28/09 | Bruno Ferreira |
+| Entrega da Etapa 2 | 27/09 | 27/09 | Todos | - | - |
+| Inspeção do Grupo +1 | 28/09 | 28/09 | Todos | - | - |
+| Apresentação da Etapa 2 | 29/09 | 29/09 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 30/09 | 02/10 | Autores dos artefatos | 02/10 - 03/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 4 — Cronograma planejado da Etapa 3.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+## Etapa 3 - Análise de Requisitos
 
-## Etapa 4 — Planejamento da avaliação
-
-Entrega 13/10 · inspeção 14/10 · apresentação 15/10.
-
-| Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Planejamento DECIDE do storyboard | 09/10 | 12/10 | A definir | 12/10 | A definir |
-| Planejamento DECIDE da análise de tarefas | 09/10 | 12/10 | A definir | 12/10 | A definir |
-| Storyboards (um por integrante) | 09/10 | 12/10 | Cada integrante | 12/10 | A definir |
-| Gravação da apresentação | 12/10 | 13/10 | A definir | 13/10 | A definir |
-| Ajuste após inspeção | 15/10 | 17/10 | Autores | 17/10 | A definir |
-
-<p class="caption">Tabela 5 — Cronograma planejado da Etapa 4.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-## Etapa 5 — Relatos e protótipo de papel
-
-Entrega 25/10 · inspeção 26/10 · apresentação 27/10.
+**Entrega: 06/10 | Inspeção: 07/10 | Apresentação: 08/10**
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | :---: | :---: | --- |
-| Relato do storyboard e da análise de tarefas | 16/10 | 24/10 | A definir | 24/10 | A definir |
-| Planejamento da avaliação do protótipo de papel | 16/10 | 24/10 | A definir | 24/10 | A definir |
-| Gravação da apresentação | 24/10 | 25/10 | A definir | 25/10 | A definir |
-| Ajuste após inspeção | 27/10 | 29/10 | Autores | 29/10 | A definir |
+| --- | --- | --- | --- | --- | --- |
+| Correções da Etapa 2 | 30/09 | 02/10 | Autores da etapa anterior | 02/10 - 03/10 | Revisores correspondentes |
+| Definição das características da plataforma | 29/09 | 02/10 | Caio Breno | 02/10 - 03/10 | Luis Henrique |
+| Princípios Gerais de Projeto | 29/09 | 03/10 | Israel Soares | 03/10 - 04/10 | Heitor Pinheiro |
+| Definição das metas de usabilidade | 30/09 | 03/10 | Bruno Ferreira | 03/10 - 04/10 | Caio Breno |
+| Justificativa da seleção das metas de usabilidade | 02/10 | 03/10 | Heitor Pinheiro | 03/10 - 04/10 | Bruno Ferreira |
+| Elaboração do Guia de Estilo | 30/09 | 04/10 | Heitor Pinheiro | 04/10 - 05/10 | Bruno Ferreira |
+| Atualização do cronograma planejado/executado | 04/10 | 05/10 | Luis Henrique | 05/10 - 06/10 | Israel Soares |
+| Revisão geral da etapa | 04/10 | 05/10 | Todos | 05/10 - 06/10 | Revisão cruzada |
+| Gravação da apresentação | 05/10 | 06/10 | Todos | 06/10 - 07/10 | Revisão cruzada |
+| Edição e publicação do vídeo | 06/10 | 06/10 | Bruno Ferreira | 06/10 - 07/10 | Caio Breno |
+| Entrega da Etapa 3 | 06/10 | 06/10 | Todos | - | - |
+| Inspeção do Grupo +1 | 07/10 | 07/10 | Todos | - | - |
+| Apresentação da Etapa 3 | 08/10 | 08/10 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 09/10 | 10/10 | Autores dos artefatos | 10/10 - 11/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 6 — Cronograma planejado da Etapa 5.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+## Etapa 4 - Planejamento das Avaliações
 
-## Etapa 6 — Papel e planejamento da alta fidelidade
-
-Entrega 03/11 · inspeção 04/11 · apresentação 05/11.
-
-| Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Relato do protótipo de papel | 28/10 | 02/11 | A definir | 02/11 | A definir |
-| Planejamento da avaliação de alta fidelidade | 28/10 | 02/11 | A definir | 02/11 | A definir |
-| Gravação da apresentação | 02/11 | 03/11 | A definir | 03/11 | A definir |
-| Ajuste após inspeção | 05/11 | 07/11 | Autores | 07/11 | A definir |
-
-<p class="caption">Tabela 7 — Cronograma planejado da Etapa 6.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-## Etapa 7 — Relato da alta fidelidade
-
-Entrega 15/11 · inspeção 16/11 · apresentação 17/11.
+**Entrega: 13/10 | Inspeção: 14/10 | Apresentação: 15/10**
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Relato do protótipo de alta fidelidade | 06/11 | 14/11 | A definir | 14/11 | A definir |
-| Gravação da apresentação | 14/11 | 15/11 | A definir | 15/11 | A definir |
-| Ajuste após inspeção | 17/11 | 19/11 | Autores | 19/11 | A definir |
+| --- | --- | --- | --- | --- | --- |
+| Correções da Etapa 3 | 09/10 | 10/10 | Autores da etapa anterior | 10/10 - 11/10 | Revisores correspondentes |
+| Planejamento da avaliação do Storyboard | 08/10 | 11/10 | Israel Soares | 11/10 - 12/10 | Heitor Pinheiro |
+| Planejamento da avaliação da Análise de Tarefas | 08/10 | 11/10 | Heitor Pinheiro | 11/10 - 12/10 | Bruno Ferreira |
+| Planejamento do relato de resultados do Storyboard | 09/10 | 11/10 | Caio Breno | 11/10 - 12/10 | Luis Henrique |
+| Planejamento do relato de resultados da Análise de Tarefas | 09/10 | 11/10 | Bruno Ferreira | 11/10 - 12/10 | Caio Breno |
+| Aplicação do Framework DECIDE ao planejamento | 08/10 | 11/10 | Israel Soares | 11/10 - 12/10 | Heitor Pinheiro |
+| Planejamento do teste piloto | 10/10 | 11/10 | Caio Breno | 11/10 - 12/10 | Luis Henrique |
+| Cronograma e local das avaliações | 10/10 | 11/10 | Luis Henrique | 11/10 - 12/10 | Israel Soares |
+| Atualização do cronograma planejado/executado | 11/10 | 12/10 | Luis Henrique | 12/10 - 13/10 | Israel Soares |
+| Revisão geral da etapa | 11/10 | 12/10 | Todos | 12/10 - 13/10 | Revisão cruzada |
+| Gravação da apresentação | 12/10 | 13/10 | Todos | 13/10 - 14/10 | Revisão cruzada |
+| Edição e publicação do vídeo | 13/10 | 13/10 | Bruno Ferreira | 13/10 - 14/10 | Caio Breno |
+| Entrega da Etapa 4 | 13/10 | 13/10 | Todos | - | - |
+| Inspeção do Grupo +1 | 14/10 | 14/10 | Todos | - | - |
+| Apresentação da Etapa 4 | 15/10 | 15/10 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 16/10 | 18/10 | Autores dos artefatos | 18/10 - 19/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 8 — Cronograma planejado da Etapa 7.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+## Etapa 5 - Relatos e Planejamento do Protótipo de Papel
 
-## Etapa 8 — Verificação
-
-Entrega 22/11 · inspeção 23/11 · apresentação 24/11.
-
-| Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Verificação dos artefatos | 18/11 | 21/11 | A definir | 21/11 | A definir |
-| Gravação da apresentação | 21/11 | 22/11 | A definir | 22/11 | A definir |
-| Ajuste após inspeção | 24/11 | 26/11 | Autores | 26/11 | A definir |
-
-<p class="caption">Tabela 9 — Cronograma planejado da Etapa 8.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-## Entrega final
-
-Entrega 30/11 · apresentação entre 01 e 08/12.
+**Entrega: 25/10 | Inspeção: 26/10 | Apresentação: 27/10**
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
-| --- | :---: | :---: | --- | :---: | --- |
-| Sínteses, tabelas finais e vídeo de 20 a 30 minutos | 25/11 | 30/11 | Todos | 30/11 | A definir |
+| --- | --- | --- | --- | --- | --- |
+| Correções da Etapa 4 | 16/10 | 18/10 | Autores da etapa anterior | 18/10 - 19/10 | Revisores correspondentes |
+| Execução da avaliação dos Storyboards | 16/10 | 20/10 | Caio Breno | 20/10 - 21/10 | Luis Henrique |
+| Execução da avaliação da Análise de Tarefas | 16/10 | 20/10 | Israel Soares | 20/10 - 21/10 | Heitor Pinheiro |
+| Elaboração dos relatos das avaliações | 19/10 | 22/10 | Bruno Ferreira | 22/10 - 23/10 | Caio Breno |
+| Planejamento da avaliação do Protótipo de Papel | 20/10 | 23/10 | Heitor Pinheiro | 23/10 - 24/10 | Bruno Ferreira |
+| Planejamento do relato da avaliação do Protótipo de Papel | 20/10 | 23/10 | Heitor Pinheiro | 23/10 - 24/10 | Bruno Ferreira |
+| Atualização do cronograma planejado/executado | 23/10 | 24/10 | Luis Henrique | 24/10 - 25/10 | Israel Soares |
+| Revisão geral da etapa | 23/10 | 24/10 | Todos | 24/10 - 25/10 | Revisão cruzada |
+| Gravação da apresentação | 24/10 | 25/10 | Todos | 25/10 - 26/10 | Revisão cruzada |
+| Edição e publicação do vídeo | 25/10 | 25/10 | Caio Breno | 25/10 - 26/10 | Luis Henrique |
+| Entrega da Etapa 5 | 25/10 | 25/10 | Todos | - | - |
+| Inspeção do Grupo +1 | 26/10 | 26/10 | Todos | - | - |
+| Apresentação da Etapa 5 | 27/10 | 27/10 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 28/10 | 29/10 | Autores dos artefatos | 29/10 - 30/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 10 — Cronograma planejado da entrega final.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+## Etapa 6 - Protótipo de Papel e Planejamento da Alta Fidelidade
+
+**Entrega: 03/11 | Inspeção: 04/11 | Apresentação: 05/11**
+
+| Atividade | Início | Fim | Autor | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Correções da Etapa 5 | 28/10 | 29/10 | Autores da etapa anterior | 29/10 - 30/10 | Revisores correspondentes |
+| Execução da avaliação do Protótipo de Papel | 28/10 | 30/10 | Israel Soares | 30/10 - 31/10 | Heitor Pinheiro |
+| Consolidação dos resultados da avaliação | 30/10 | 01/11 | Caio Breno | 01/11 - 02/11 | Luis Henrique |
+| Relato dos resultados do Protótipo de Papel | 30/10 | 01/11 | Bruno Ferreira | 01/11 - 02/11 | Caio Breno |
+| Planejamento da avaliação do Protótipo de Alta Fidelidade | 29/10 | 01/11 | Heitor Pinheiro | 01/11 - 02/11 | Bruno Ferreira |
+| Planejamento do relato da avaliação de Alta Fidelidade | 29/10 | 01/11 | Israel Soares | 01/11 - 02/11 | Heitor Pinheiro |
+| Atualização do cronograma planejado/executado | 01/11 | 02/11 | Luis Henrique | 02/11 - 03/11 | Israel Soares |
+| Revisão geral da etapa | 01/11 | 02/11 | Todos | 02/11 - 03/11 | Revisão cruzada |
+| Gravação da apresentação | 02/11 | 03/11 | Todos | 03/11 - 04/11 | Revisão cruzada |
+| Edição e publicação do vídeo | 03/11 | 03/11 | Caio Breno | 03/11 - 04/11 | Luis Henrique |
+| Entrega da Etapa 6 | 03/11 | 03/11 | Todos | - | - |
+| Inspeção do Grupo +1 | 04/11 | 04/11 | Todos | - | - |
+| Apresentação da Etapa 6 | 05/11 | 05/11 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 06/11 | 08/11 | Autores dos artefatos | 08/11 - 09/11 | Revisores correspondentes |
+
+## Etapa 7 - Avaliação do Protótipo de Alta Fidelidade
+
+**Entrega: 15/11 | Inspeção: 16/11 | Apresentação: 17/11**
+
+| Atividade | Início | Fim | Autor | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Correções e ajustes do protótipo | 06/11 | 08/11 | Heitor Pinheiro | 08/11 - 09/11 | Bruno Ferreira |
+| Realização do teste piloto | 09/11 | 10/11 | Bruno Ferreira | 10/11 - 11/11 | Caio Breno |
+| Avaliação do protótipo com participantes | 10/11 | 12/11 | Israel Soares | 12/11 - 13/11 | Heitor Pinheiro |
+| Consolidação dos resultados | 12/11 | 13/11 | Caio Breno | 13/11 - 14/11 | Luis Henrique |
+| Elaboração do relato final da avaliação | 12/11 | 14/11 | Heitor Pinheiro | 14/11 - 15/11 | Bruno Ferreira |
+| Atualização do cronograma planejado/executado | 13/11 | 14/11 | Luis Henrique | 14/11 - 15/11 | Israel Soares |
+| Revisão geral da etapa | 13/11 | 14/11 | Todos | 14/11 - 15/11 | Revisão cruzada |
+| Gravação da apresentação | 14/11 | 15/11 | Todos | 15/11 - 16/11 | Revisão cruzada |
+| Edição e publicação do vídeo | 15/11 | 15/11 | Bruno Ferreira | 15/11 - 16/11 | Caio Breno |
+| Entrega da Etapa 7 | 15/11 | 15/11 | Todos | - | - |
+| Inspeção do Grupo +1 | 16/11 | 16/11 | Todos | - | - |
+| Apresentação da Etapa 7 | 17/11 | 17/11 | Todos | - | - |
+| Ajustes após considerações do professor/monitores | 18/11 | 19/11 | Autores dos artefatos | 19/11 - 20/11 | Revisores correspondentes |
+
+## Etapa 8 - Verificação dos Artefatos
+
+**Entrega: 22/11 | Inspeção: 23/11 | Apresentação: 24/11**
+
+| Atividade | Início | Fim | Autor | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Planejamento da verificação | 18/11 | 19/11 | Israel Soares | 19/11 - 20/11 | Heitor Pinheiro |
+| Preparação das listas de verificação | 18/11 | 19/11 | Todos | 19/11 - 20/11 | Revisão cruzada |
+| Verificação dos artefatos | 19/11 | 20/11 | Todos | 20/11 - 21/11 | Revisão cruzada |
+| Registro e consolidação dos resultados | 20/11 | 21/11 | Heitor Pinheiro | 21/11 - 22/11 | Bruno Ferreira |
+| Ajustes identificados na verificação | 20/11 | 21/11 | Autores dos artefatos | 21/11 - 22/11 | Revisores correspondentes |
+| Atualização do cronograma planejado/executado | 20/11 | 21/11 | Luis Henrique | 21/11 - 22/11 | Israel Soares |
+| Revisão geral da etapa | 20/11 | 21/11 | Todos | 21/11 - 22/11 | Revisão cruzada |
+| Gravação da apresentação | 21/11 | 22/11 | Todos | 22/11 - 23/11 | Revisão cruzada |
+| Edição e publicação do vídeo | 22/11 | 22/11 | Caio Breno | 22/11 - 23/11 | Luis Henrique |
+| Entrega da Etapa 8 | 22/11 | 22/11 | Todos | - | - |
+| Inspeção do Grupo +1 | 23/11 | 23/11 | Todos | - | - |
+| Apresentação da Etapa 8 | 24/11 | 24/11 | Todos | - | - |
+| Ajustes finais após considerações do professor/monitores | 25/11 | 27/11 | Autores dos artefatos | 27/11 - 28/11 | Revisores correspondentes |
+
+## Projeto Final
+
+**Entrega: 30/11 | Avaliações do projeto final: 01/12, 03/12 e 08/12**
+
+| Atividade | Início | Fim | Autor | Revisão | Revisor |
+| --- | --- | --- | --- | --- | --- |
+| Levantamento de correções pendentes | 25/11 | 26/11 | Todos | 26/11 - 27/11 | Revisão cruzada |
+| Correção dos artefatos pendentes | 25/11 | 27/11 | Autores dos artefatos | 27/11 - 28/11 | Revisores correspondentes |
+| Atualização do cronograma executado | 25/11 | 27/11 | Luis Henrique | 27/11 - 28/11 | Israel Soares |
+| Consolidação das contribuições de cada integrante | 25/11 | 27/11 | Todos | 27/11 - 28/11 | Revisão cruzada |
+| Consolidação das ferramentas utilizadas | 25/11 | 27/11 | Heitor Pinheiro | 27/11 - 28/11 | Bruno Ferreira |
+| Consolidação das técnicas utilizadas | 25/11 | 27/11 | Israel Soares | 27/11 - 28/11 | Heitor Pinheiro |
+| Consolidação das avaliações realizadas | 26/11 | 27/11 | Caio Breno | 27/11 - 28/11 | Luis Henrique |
+| Consolidação dos vídeos, reuniões e apresentações | 26/11 | 27/11 | Bruno Ferreira | 27/11 - 28/11 | Caio Breno |
+| Registro das facilidades e dificuldades por integrante | 26/11 | 28/11 | Todos | 28/11 - 29/11 | Revisão cruzada |
+| Registro do uso de IA Generativa | 26/11 | 28/11 | Todos | 28/11 - 29/11 | Revisão cruzada |
+| Revisão completa da GitPages | 28/11 | 29/11 | Todos | 29/11 - 30/11 | Revisão cruzada |
+| Preparação do roteiro da apresentação final | 28/11 | 29/11 | Todos | 29/11 - 30/11 | Revisão cruzada |
+| Gravação da apresentação final | 29/11 | 30/11 | Todos | 30/11 - 01/12 | Revisão cruzada |
+| Edição e conferência final | 30/11 | 30/11 | Bruno Ferreira | 30/11 - 01/12 | Revisão cruzada |
+| Entrega do Projeto Final | 30/11 | 30/11 | Todos | - | - |
+
+> Observação: após cada inspeção, o cronograma executado deve ser atualizado com as datas e responsáveis efetivos.
 
 ## Cronograma executado
 
-A Tabela 11 registra o que já foi feito. Luis Henrique atualiza início real, fim real e observação.
+Esta tabela registra as atividades efetivamente realizadas, com suas datas e responsáveis reais. Ela deve ser atualizada após cada etapa do projeto.
 
 | Atividade | Quem fez | Início real | Fim real | Observação |
 | --- | --- | :---: | :---: | --- |
-| GitHub Pages, equipe e contraste | Caio Breno | 04/09/2026 | 04/09/2026 | Infraestrutura no ar |
-| Cronograma e heatmap | Luis Henrique | — | — | — |
+| Documentação da equipe | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
+| Levantamento da lista de sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluído |
+| Avaliação dos sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
+| Seleção e justificativa do site | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
+| Documentação das ferramentas do projeto | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
+| Definição e justificativa do Processo de Design | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
+| Elaboração do cronograma detalhado | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
+| Coleta das disponibilidades da equipe | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
+| Consolidação do heatmap de disponibilidade | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
+| Revisão geral dos artefatos | Todos | 04/09/2026 | 05/09/2026 | Concluída por revisão cruzada |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -173,6 +229,9 @@ A Tabela 11 registra o que já foi feito. Luis Henrique atualiza início real, f
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Estrutura e datas oficiais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.4` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | Luis Henrique Arruda Luna | A definir |
 
 ## Referências
 
