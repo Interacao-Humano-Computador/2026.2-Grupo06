@@ -2,14 +2,7 @@
 
 # Processo de Design
 
-O plano de ensino pede o processo escolhido, a **referência bibliográfica** e a **foto do trecho**, com o nome de quem escreveu o item. No [Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/processo_de_design/) o grupo:
-
-1. explicou análise, síntese e avaliação
-2. descreveu os ciclos (simples, estrela, Nielsen, Mayhew)
-3. escolheu um e justificou pelo detalhamento e pelo semestre
-4. ligou a escolha ao cronograma
-
-Heitor faz o mesmo, em voz do Grupo 06, para o Portal da Transparência. Os resumos abaixo são o mapa do capítulo; o texto final precisa ser do Heitor, com citação de página.
+O plano de ensino pede o processo escolhido, a **referência bibliográfica** e a **foto do trecho**, com o nome de quem escreveu o item. Os resumos abaixo são o mapa do capítulo 4; o texto final precisa ser do Heitor, com citação de página.
 
 **Autor do item:** Heitor Pinheiro Gonçalves das Chagas
 
@@ -29,7 +22,7 @@ Barbosa e Silva (2010, cap. 4) organizam o design de IHC em análise, síntese e
 
 ### Ciclo de vida simples
 
-A síntese se divide em design (ou redesign) e construção de uma versão interativa. A iteração pode repetir. No Lichess, o grupo registrou que o modelo é pouco detalhado e mais adequado a designers experientes.
+A síntese se divide em design (ou redesign) e construção de uma versão interativa. A iteração pode repetir. É um modelo pouco detalhado, mais adequado a quem já tem prática de design.
 
 ### Ciclo de vida em estrela
 
@@ -37,13 +30,13 @@ O designer pode começar por qualquer ponta, desde que avalie o resultado de cad
 
 ### Engenharia de usabilidade de Mayhew
 
-As atividades se organizam em análise de requisitos, design/avaliação/desenvolvimento e instalação. É o modelo mais detalhado entre os do capítulo. O Lichess o escolheu por isso e porque o produto já existia — a “instalação” virou inspeção do site no ar.
+As atividades se organizam em análise de requisitos, design/avaliação/desenvolvimento e instalação. É o modelo mais detalhado entre os do capítulo. Se o grupo o escolher, a fase de instalação, neste projeto, corresponde à inspeção do Portal já publicado.
 
 ### Outros
 
 Nielsen lista atividades essenciais de engenharia de usabilidade, sem impor uma ordem única. Só use se Heitor argumentar melhor do que Mayhew ou o ciclo em estrela.
 
-Não copie o texto de outro grupo. Leia o capítulo e argumente.
+Leia o capítulo e argumente com as palavras do grupo.
 
 ## Comparação rápida
 
@@ -54,7 +47,7 @@ Não copie o texto de outro grupo. Leia o capítulo e argumente.
 | Mayhew | Alto | Requisitos → design/avaliação → instalação | A definir |
 
 <p class="caption">Tabela 1 — Comparação dos processos do capítulo 4.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de BARBOSA; SILVA (2010) e Lichess (2022).</p>
+<p class="source">Fonte: elaboração do Grupo 06 a partir de BARBOSA; SILVA (2010).</p>
 
 ## Processo escolhido
 
@@ -100,13 +93,9 @@ Coloque a imagem em `docs/assets/img/referencias/processo-design.png`. A foto pr
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo com foto da referência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Roteiro alinhado ao Lichess e ao plano de ensino | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 04/09/2026 | Mapa dos ciclos e tabela de comparação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 
 [1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. cap. 4.
 
 [2] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[3] Processo de Design. In: Lichess — IHC 2022.2. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/processo_de_design/. Acesso em: 4 set. 2026.

@@ -17,7 +17,7 @@ Use esta página no ensaio da apresentação e na inspeção interna. As pergunt
 | 9 | Página de atas com acesso à gravação, quando houver? | Incompleto | Bruno Ferreira | [Atas](../atas/index.md) |
 
 <p class="caption">Tabela 1 — Itens de planejamento geral da Entrega 1.</p>
-<p class="source">Fonte: adaptado de SALES (2026).</p>
+<p class="source">Fonte: SALES (2026).</p>
 
 ## Itens de desenvolvimento do projeto
 
@@ -36,7 +36,7 @@ Use esta página no ensaio da apresentação e na inspeção interna. As pergunt
 | 11 | Seção de agradecimentos, quando couber | A preencher | Bruno Ferreira |
 
 <p class="caption">Tabela 2 — Itens de desenvolvimento da Entrega 1.</p>
-<p class="source">Fonte: adaptado de SALES (2026).</p>
+<p class="source">Fonte: SALES (2026).</p>
 
 ## Itens de conteúdo da disciplina
 
@@ -46,7 +46,7 @@ Use esta página no ensaio da apresentação e na inspeção interna. As pergunt
 | 2 | Cada integrante elaborou ao menos um item de conteúdo com referência e foto? | Incompleto | Todos |
 
 <p class="caption">Tabela 3 — Itens de conteúdo da disciplina na Entrega 1.</p>
-<p class="source">Fonte: adaptado de SALES (2026).</p>
+<p class="source">Fonte: SALES (2026).</p>
 
 ## Histórico de versão
 

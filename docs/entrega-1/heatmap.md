@@ -47,5 +47,3 @@ Com base no heatmap, a janela recorrente sugerida deve priorizar uma célula com
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[2] Metodologia. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/. Acesso em: 4 set. 2026.

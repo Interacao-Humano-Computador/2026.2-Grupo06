@@ -2,13 +2,7 @@
 
 # Sites avaliados
 
-O plano de ensino pede a lista dos sites considerados e os critérios usados em todos. No [Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/sites_avaliados/) o grupo fez três coisas, nesta ordem:
-
-1. uma tabela curta — quem inspecionou qual site
-2. um tópico por candidato, com as heurísticas violadas e a dor principal
-3. o endereço ou o link da avaliação completa
-
-Israel escreve esta página. Pode pedir um parágrafo a cada integrante, como no Lichess, ou redigir os três candidatos sozinho. O objeto já combinado é o **Portal da Transparência do DF**; os outros existem para mostrar que a escolha foi comparada.
+O plano de ensino pede a lista dos sites considerados e os critérios usados em todos. Israel escreve esta página. Pode pedir um parágrafo a cada integrante ou redigir os candidatos sozinho. O objeto já combinado é o **Portal da Transparência do DF**; os outros existem para mostrar que a escolha foi comparada.
 
 ## Quem inspecionou o quê
 
@@ -21,7 +15,7 @@ Israel escreve esta página. Pode pedir um parágrafo a cada integrante, como no
 | Caio Breno | A definir | URL |
 
 <p class="caption">Tabela 1 — Distribuição das inspeções preliminares.</p>
-<p class="source">Fonte: elaboração do Grupo 06, no formato de Lichess (2022).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 Não é obrigatório ter cinco candidatos finais. Se o grupo ficar com três, apague as linhas que sobrarem e mantenha o Portal.
 
@@ -55,7 +49,7 @@ A comparação da Tabela 3 deve aparecer no texto: “A pontuação da Tabela 3 
 
 ## Como escrever cada tópico
 
-No Lichess, cada seção tinha: responsável, heurísticas violadas, dor principal e link da avaliação. Copie este bloco e troque o conteúdo:
+Em cada tópico, registre:
 
 1. Quem inspecionou e qual método usou (heurística de Nielsen, e-MAG, inspeção informal).
 2. Três a cinco problemas, com o nome da heurística ou do critério da Tabela 2.
@@ -83,8 +77,6 @@ Uma captura da página inicial de cada candidato, com legenda e fonte, no format
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo da lista | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Tabelas separadas e um tópico por site | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 04/09/2026 | Distribuição por integrante, no formato do Lichess | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 
@@ -92,6 +84,4 @@ Uma captura da página inicial de cada candidato, com legenda e fonte, no format
 
 [2] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[3] Sítios avaliados. In: Lichess — IHC 2022.2. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/sites_avaliados/. Acesso em: 4 set. 2026.
-
-[4] NIELSEN, Jakob. 10 usability heuristics for user interface design. Nielsen Norman Group, 1994.
+[3] NIELSEN, Jakob. 10 usability heuristics for user interface design. Nielsen Norman Group, 1994.

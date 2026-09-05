@@ -236,9 +236,3 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[2] Cronograma. In: Lichess — IHC 2022.2. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/. Acesso em: 4 set. 2026.
-
-[3] Cronograma. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/. Acesso em: 4 set. 2026.
-
-[4] Cronograma. In: Domínio Público — IHC 2023.2. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/. Acesso em: 4 set. 2026.
