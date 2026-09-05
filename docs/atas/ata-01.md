@@ -2,21 +2,9 @@
 
 # Ata 01
 
-## Tabela de contribuição
-
-A Tabela 1 apresenta a participação e as atribuições dos integrantes na elaboração desta ata e na reunião realizada.
-
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Bruno Ferreira | Redação da ata, consolidação dos tópicos e inserção do vídeo | Esta página | [Vídeo da reunião](#gravacao) |
-| Caio Breno | Criação da estrutura base da ata | Esta página | [Vídeo da reunião](#gravacao) |
-
-<p class="caption">Tabela 1 — Contribuição na Ata 01.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
 ## Identificação
 
-A Tabela 2 apresenta os dados de identificação, canal, horários e participantes da primeira reunião do grupo.
+A Tabela 1 apresenta os dados de identificação, canal, horários e participantes da primeira reunião do grupo.
 
 | Campo | Registro |
 | --- | --- |
@@ -28,7 +16,7 @@ A Tabela 2 apresenta os dados de identificação, canal, horários e participant
 | Ausências | Nenhuma |
 | Objetivo | Alinhar o planejamento da Entrega 1: definição do site do projeto, divisão de papéis, estruturação do repositório/Pages, heatmap de disponibilidade e cronograma |
 
-<p class="caption">Tabela 2 — Identificação da reunião.</p>
+<p class="caption">Tabela 1 — Identificação da reunião.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Pauta
@@ -50,7 +38,7 @@ A Tabela 2 apresenta os dados de identificação, canal, horários e participant
 
 ## Atividades definidas
 
-A Tabela 3 consolida as atividades estabelecidas, seus responsáveis diretos e os prazos pactuados.
+A Tabela 2 consolida as atividades estabelecidas, seus responsáveis diretos e os prazos pactuados.
 
 | Atividade | Responsável | Prazo |
 | --- | --- | :---: |
@@ -62,7 +50,7 @@ A Tabela 3 consolida as atividades estabelecidas, seus responsáveis diretos e o
 | Atualização das fotos de perfil no GitHub e inserção de referências ABNT | Todos os integrantes | 05/09/2026 |
 | Revisão cruzada de todos os artefatos e reunião de inspeção | Todos os integrantes | 05/09/2026 |
 
-<p class="caption">Tabela 3 — Encaminhamentos e atribuições da Ata 01.</p>
+<p class="caption">Tabela 2 — Encaminhamentos e atribuições da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Gravação
@@ -88,17 +76,17 @@ Declaramos que ferramentas de Inteligência Artificial Generativa foram utilizad
 
 ## Histórico de versão
 
-A Tabela 4 documenta o histórico de versões deste artefato.
+A Tabela 3 documenta o histórico de versões deste artefato.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Criação da estrutura base da Ata 01 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Preenchimento dos dados da reunião, consolidação dos tópicos da discussão e inserção da gravação via iframe | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Remoção da tabela de contribuição e renumeração das tabelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
-<p class="caption">Tabela 4 — Histórico de versão da Ata 01.</p>
+<p class="caption">Tabela 3 — Histórico de versão da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-

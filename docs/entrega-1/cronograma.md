@@ -2,7 +2,11 @@
 
 # Cronograma Planejado — IHC 2026.2
 
-O cronograma está organizado por etapa. Para cada atividade são apresentados o período de desenvolvimento, o autor, o período de revisão e o revisor.
+## Introdução
+
+O cronograma da equipe foi estabelecido com base nas datas e prazos definidos no plano de ensino da disciplina de Interação Humano-Computador [1].
+
+Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indicando os períodos de desenvolvimento, autores, períodos de revisão e respectivos revisores. Ao final, a Tabela 10 apresenta o cronograma executado com o andamento real das entregas.
 
 > **Regra de revisão:** a revisão começa no mesmo dia em que a atividade termina e permanece prevista por 2 dias corridos. Exemplo: atividade com término em `05/09` → revisão em `05/09 - 06/09`.
 
@@ -13,11 +17,11 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Documentação da equipe | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Luis Henrique |
-| Levantamento da lista de sites candidatos | 03/09 | 04/09 | Israel Soares | 04/09 - 05/09 | Heitor Pinheiro |
-| Avaliação dos sites candidatos | 03/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
-| Seleção e justificativa do site | 04/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Heitor Pinheiro |
+| Levantamento da lista de sites candidatos | 03/09 | 04/09 | Caio Breno | 04/09 - 05/09 | Heitor Pinheiro |
+| Avaliação dos sites candidatos | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Heitor Pinheiro |
+| Seleção e justificativa do site | 04/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Heitor Pinheiro |
 | Documentação das ferramentas do projeto | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
-| Definição e justificativa do Processo de Design | 03/09 | 05/09 | Heitor Pinheiro | 05/09 - 06/09 | Bruno Ferreira |
+| Definição e justificativa do Processo de Design | 03/09 | 05/09 | Israel Soares | 05/09 - 06/09 | Bruno Ferreira |
 | Elaboração do cronograma detalhado | 03/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
 | Coleta das disponibilidades da equipe | 03/09 | 05/09 | Luis Henrique | - | - |
 | Consolidação do heatmap de disponibilidade | 04/09 | 05/09 | Luis Henrique | 05/09 - 06/09 | Israel Soares |
@@ -29,6 +33,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Inspeção do Grupo +1 | 07/09 | 07/09 | Todos | - | - |
 | Apresentação da Etapa 1 | 08/09 | 08/09 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 09/09 | 12/09 | Autores dos artefatos | 12/09 - 13/09 | Revisores correspondentes |
+
+<p class="caption">Tabela 1 — Cronograma planejado da Etapa 1 (Planejamento do Projeto).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
 
@@ -54,6 +61,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Apresentação da Etapa 2 | 29/09 | 29/09 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 30/09 | 02/10 | Autores dos artefatos | 02/10 - 03/10 | Revisores correspondentes |
 
+<p class="caption">Tabela 2 — Cronograma planejado da Etapa 2 (Perfil do Usuário, Aspectos Éticos e Análise de Tarefas).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Etapa 3 - Análise de Requisitos
 
 **Entrega: 06/10 | Inspeção: 07/10 | Apresentação: 08/10**
@@ -74,6 +84,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Inspeção do Grupo +1 | 07/10 | 07/10 | Todos | - | - |
 | Apresentação da Etapa 3 | 08/10 | 08/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 09/10 | 10/10 | Autores dos artefatos | 10/10 - 11/10 | Revisores correspondentes |
+
+<p class="caption">Tabela 3 — Cronograma planejado da Etapa 3 (Análise de Requisitos).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 4 - Planejamento das Avaliações
 
@@ -98,6 +111,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Apresentação da Etapa 4 | 15/10 | 15/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 16/10 | 18/10 | Autores dos artefatos | 18/10 - 19/10 | Revisores correspondentes |
 
+<p class="caption">Tabela 4 — Cronograma planejado da Etapa 4 (Planejamento das Avaliações).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Etapa 5 - Relatos e Planejamento do Protótipo de Papel
 
 **Entrega: 25/10 | Inspeção: 26/10 | Apresentação: 27/10**
@@ -118,6 +134,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Inspeção do Grupo +1 | 26/10 | 26/10 | Todos | - | - |
 | Apresentação da Etapa 5 | 27/10 | 27/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 28/10 | 29/10 | Autores dos artefatos | 29/10 - 30/10 | Revisores correspondentes |
+
+<p class="caption">Tabela 5 — Cronograma planejado da Etapa 5 (Relatos e Planejamento do Protótipo de Papel).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 6 - Protótipo de Papel e Planejamento da Alta Fidelidade
 
@@ -140,6 +159,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Apresentação da Etapa 6 | 05/11 | 05/11 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 06/11 | 08/11 | Autores dos artefatos | 08/11 - 09/11 | Revisores correspondentes |
 
+<p class="caption">Tabela 6 — Cronograma planejado da Etapa 6 (Protótipo de Papel e Planejamento da Alta Fidelidade).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Etapa 7 - Avaliação do Protótipo de Alta Fidelidade
 
 **Entrega: 15/11 | Inspeção: 16/11 | Apresentação: 17/11**
@@ -160,6 +182,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Apresentação da Etapa 7 | 17/11 | 17/11 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 18/11 | 19/11 | Autores dos artefatos | 19/11 - 20/11 | Revisores correspondentes |
 
+<p class="caption">Tabela 7 — Cronograma planejado da Etapa 7 (Avaliação do Protótipo de Alta Fidelidade).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Etapa 8 - Verificação dos Artefatos
 
 **Entrega: 22/11 | Inspeção: 23/11 | Apresentação: 24/11**
@@ -179,6 +204,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Inspeção do Grupo +1 | 23/11 | 23/11 | Todos | - | - |
 | Apresentação da Etapa 8 | 24/11 | 24/11 | Todos | - | - |
 | Ajustes finais após considerações do professor/monitores | 25/11 | 27/11 | Autores dos artefatos | 27/11 - 28/11 | Revisores correspondentes |
+
+<p class="caption">Tabela 8 — Cronograma planejado da Etapa 8 (Verificação dos Artefatos).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Projeto Final
 
@@ -202,6 +230,9 @@ O cronograma está organizado por etapa. Para cada atividade são apresentados o
 | Edição e conferência final | 30/11 | 30/11 | Bruno Ferreira | 30/11 - 01/12 | Revisão cruzada |
 | Entrega do Projeto Final | 30/11 | 30/11 | Todos | - | - |
 
+<p class="caption">Tabela 9 — Cronograma planejado do Projeto Final.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 > Observação: após cada inspeção, o cronograma executado deve ser atualizado com as datas e responsáveis efetivos.
 
 ## Cronograma executado
@@ -211,27 +242,28 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | Atividade | Quem fez | Início real | Fim real | Observação |
 | --- | --- | :---: | :---: | --- |
 | Documentação da equipe | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
-| Levantamento da lista de sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluído |
-| Avaliação dos sites candidatos | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
-| Seleção e justificativa do site | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
+| Levantamento da lista de sites candidatos | Caio Breno | 04/09/2026 | 05/09/2026 | Concluído |
+| Avaliação dos sites candidatos | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
+| Seleção e justificativa do site | Caio Breno | 04/09/2026 | 05/09/2026 | Concluída |
 | Documentação das ferramentas do projeto | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
-| Definição e justificativa do Processo de Design | Heitor Pinheiro | 04/09/2026 | 05/09/2026 | Concluída |
+| Definição e justificativa do Processo de Design | Israel Soares | 04/09/2026 | 05/09/2026 | Concluída |
 | Elaboração do cronograma detalhado | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Coleta das disponibilidades da equipe | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Consolidação do heatmap de disponibilidade | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Revisão geral dos artefatos | Todos | 04/09/2026 | 05/09/2026 | Concluída por revisão cruzada |
 
-<p class="caption">Tabela 11 — Cronograma executado.</p>
+<p class="caption">Tabela 10 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Estrutura e datas oficiais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.4` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | Luis Henrique Arruda Luna | A definir |
+| `0.1` | 04/09/2026 | Estrutura e datas oficiais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 04/09/2026 | Uma tabela por etapa, no formato dos sites da disciplina | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 05/09/2026 | Adição da introdução, legendas e redistribuição de tarefas da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
