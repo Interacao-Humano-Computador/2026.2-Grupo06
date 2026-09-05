@@ -48,8 +48,6 @@ O [template](../guia/template-artefato.md) e o guia de [figuras e referências](
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.1` | 04/09/2026 | Mapa de quem preenche cada página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.2` | 04/09/2026 | Ajuste do mapa ao formato Lichess / Bilheteria | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

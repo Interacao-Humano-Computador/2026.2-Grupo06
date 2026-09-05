@@ -56,7 +56,6 @@ Preencha depois que a Tabela 1 tiver pelo menos um **L** em comum:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Grade inicial para coleta | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Faixas de horário e legenda para preenchimento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

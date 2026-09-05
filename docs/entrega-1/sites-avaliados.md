@@ -83,8 +83,6 @@ Uma captura da página inicial de cada candidato, com legenda e fonte, no format
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo da lista | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Tabelas separadas e um tópico por site | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 04/09/2026 | Distribuição por integrante, no formato do Lichess | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

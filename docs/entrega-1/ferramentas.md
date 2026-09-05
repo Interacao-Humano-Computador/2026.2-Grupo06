@@ -33,7 +33,6 @@ No texto, chame a tabela: “A Tabela 1 resume as ferramentas e o ponto do proce
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Primeira lista para Heitor revisar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 04/09/2026 | Inclusão do WhatsApp e recorte por etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 
