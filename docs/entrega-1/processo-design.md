@@ -10,7 +10,7 @@ Compreender esse processo é essencial explorar pois destaca a importância de e
 
 O proceso de design é composto por três atividades: análise,sítese e avaliação. Análise busca entender e conhever elemento envolvidos e as relações entre eles, como resultado, obtemos diferentes interpretações da realidade e podemos ver as necessidades do usuário. a síntese é o momento de gerar as soluções proprimente ditas(protótipos e ideis conceituais), a avaliação é a forma de verificar o que foi produzido atende às necessidades identificadas, e seus resultados normalmente realimentam uma nova rodada de análise ou síntese, o que torna o processo cíclico em vez de linear. 
 
-![Processo1]/docs/assets/img/referencias/processo1.png
+![Processo1](../assets/img/referencias/processo1.png)
 
 ## Processos possíveis
 
@@ -66,11 +66,11 @@ O Portal da Transparência do DF é um sistema que já está no ar e em uso real
 
 ## Foto do trecho
 
-![Processo3]/docs/assets/img/referencias/processo3.png
+![Processo3](../assets/img/referencias/processo3.png)
 
-![Processo4]/docs/assets/img/referencias/processo4.png
+![Processo4](../assets/img/referencias/processo4.png)
 
-![Processo5]/docs/assets/img/referencias/processo5.png
+![Processo5](../assets/img/referencias/processo5.png)
 
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 109-111). Foto a inserir.</p>
 
