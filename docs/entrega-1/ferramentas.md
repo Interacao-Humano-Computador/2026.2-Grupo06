@@ -1,20 +1,14 @@
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Ferramentas do projeto</span>
+
 # Ferramentas do projeto
-
-## Tabela de contribuição
-
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Heitor Pinheiro Gonçalves das Chagas | Edição do artefato e seleção de ferramentas | [Ferramentas do projeto](./ferramentas.md) | Não se aplica |
-| Caio Breno de Souza Bezerra | Versão inicial da lista de ferramentas | [Ferramentas do projeto](./ferramentas.md) | Não se aplica |
-
-<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo ao longo do semestre para facilitar a comunicação, documentação, design e gestão do projeto. A Tabela 2 resume essas ferramentas e o ponto do processo em que cada uma aparece.
+Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo ao longo do semestre para facilitar a comunicação, documentação, design e gestão do projeto. A Tabela 1 resume essas ferramentas e o ponto do processo em que cada uma aparece. A contribuição de cada integrante nesta etapa está no [Planejamento](index.md).
 
 ## Ferramentas utilizadas
+
+A Tabela 1 apresenta as ferramentas utilizadas, a finalidade de cada uma no projeto, a etapa em que são empregadas e os responsáveis pelo seu uso.
 
 | Ferramenta | Para que serve | Onde entra | Quem cuida |
 | --- | --- | --- | --- |
@@ -33,7 +27,7 @@ Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo 
 | <img src="https://cdn.simpleicons.org/googlechrome" width="20" alt="Navegador"> Navegador com DevTools | Inspeção e avaliação do site escolhido | Etapas 1 a 8 | Autores da avaliação |
 | ♿ ASES e WAVE | Apoio à verificação de acessibilidade | Etapas 1, 3 e 8 | Quem for avaliar conformidade |
 
-<p class="caption">Tabela 2 — Ferramentas do projeto e uso por etapa.</p>
+<p class="caption">Tabela 1 — Ferramentas do projeto e uso por etapa.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
@@ -42,6 +36,7 @@ Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo 
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Versão inicial da lista de ferramentas para revisão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Inclusão de novas ferramentas (Figma, This Person Doesn't Exist, Google Planilhas, Miro), remoção do Draw.io, adequação ao template de artefatos e inserção das logos | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/09/2026 | Remoção da tabela de contribuição e renumeração da tabela de ferramentas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
