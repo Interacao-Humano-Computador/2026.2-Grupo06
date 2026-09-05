@@ -10,9 +10,9 @@ O plano de ensino pede, nesta etapa: equipe, heatmap, sites avaliados, site esco
 | --- | --- | --- |
 | [Cronograma](cronograma.md) | Luis Henrique Arruda Luna | Uma tabela por etapa, com início, fim, autor, revisão e revisor |
 | [Heatmap](heatmap.md) | Luis Henrique Arruda Luna | Grade L / P / X de todo o grupo e horário recorrente |
-| [Sites avaliados](sites-avaliados.md) | Israel Soares | Quem inspecionou o quê, critérios iguais e um tópico por site |
-| [Site escolhido](site-escolhido.md) | Israel Soares | Justificativa do Portal da Transparência do DF |
-| [Processo de Design](processo-design.md) | Heitor Pinheiro | Ciclo escolhido, por quê, e foto legível do trecho |
+| [Sites avaliados](sites-avaliados.md) | Caio Breno | Quem inspecionou o quê, critérios iguais e um tópico por site |
+| [Site escolhido](site-escolhido.md) | Caio Breno | Justificativa do Portal da Transparência do DF |
+| [Processo de Design](processo-design.md) | Israel Soares | Ciclo escolhido, por quê, e foto legível do trecho |
 | [Ferramentas](ferramentas.md) | Heitor Pinheiro | Só o que o grupo usa de verdade, com etapa |
 | [Atas](../atas/index.md) | Bruno Ferreira | Ata com horários, decisões e link da gravação |
 | [Apresentação](../apresentacoes/etapa-01.md) | Bruno Ferreira | Vídeo não listado; cada autor apresenta o próprio artefato |
@@ -21,7 +21,7 @@ O plano de ensino pede, nesta etapa: equipe, heatmap, sites avaliados, site esco
 <p class="caption">Tabela 1 — Páginas do planejamento e responsável.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Antes de gravar, passe pela [lista de verificação](lista-verificacao.md).
+Antes de gravar, passe pela [lista de verificação](../verificacao/grupo-06/etapa-1/lista-verificacao.md).
 
 ## Como começar a sua página
 
@@ -47,7 +47,8 @@ O [template](../guia/template-artefato.md) e o guia de [figuras e referências](
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Abertura do planejamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 05/09/2026 | Atualização dos responsáveis das páginas e links | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
