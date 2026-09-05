@@ -50,9 +50,9 @@ hide:
 | Integrante | Papel | Artefatos |
 | --- | --- | --- |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Cronograma e planejamento | [Cronograma](entrega-1/cronograma.md) e [heatmap](entrega-1/heatmap.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Processo de design | [Processo de Design](entrega-1/processo-design.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Infraestrutura, sites avaliados e site escolhido | Esta página, [sites avaliados](entrega-1/sites-avaliados.md), [site escolhido](entrega-1/site-escolhido.md), [acessibilidade](guia/acessibilidade.md) e [template](guia/template-artefato.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Processo de Design | [Processo de Design](entrega-1/processo-design.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Ferramentas do projeto | [Ferramentas](entrega-1/ferramentas.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Infraestrutura e pesquisa do site | Esta página, [acessibilidade](guia/acessibilidade.md), [template](guia/template-artefato.md), [sites avaliados](entrega-1/sites-avaliados.md) e [site escolhido](entrega-1/site-escolhido.md) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atas, registro e vídeo | [Atas](atas/index.md) e [apresentação](apresentacoes/etapa-01.md) |
 
 <p class="caption">Tabela 1 — Divisão de responsabilidades da Entrega 1.</p>
@@ -63,7 +63,7 @@ hide:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação inicial da página da equipe | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.1` | 05/09/2026 | Atualização da divisão de papéis e artefatos da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Ajusta os papéis da Entrega 1: Caio nos sites, Israel no processo e Heitor nas ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

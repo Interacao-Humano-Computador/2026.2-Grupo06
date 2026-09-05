@@ -42,13 +42,12 @@ A Tabela 2 consolida as atividades estabelecidas, seus responsáveis diretos e o
 
 | Atividade | Responsável | Prazo |
 | --- | --- | :---: |
-| Estruturação do repositório no GitHub Pages e templates de artefatos | Caio Breno | 05/09/2026 |
-| Elaboração do cronograma detalhado, cronograma geral e mapa de calor (Heatmap) | Luis Henrique | 05/09/2026 |
-| Documentação dos sites avaliados e justificativa do site escolhido | Israel Soares | 05/09/2026 |
-| Detalhamento do processo de design e das ferramentas utilizadas | Heitor Pinheiro e Israel Soares | 05/09/2026 |
-| Redação da Ata 01, consolidação das discussões e publicação dos registros/vídeo | Bruno Ferreira | 05/09/2026 |
-| Atualização das fotos de perfil no GitHub e inserção de referências ABNT | Todos os integrantes | 05/09/2026 |
-| Revisão cruzada de todos os artefatos e reunião de inspeção | Todos os integrantes | 05/09/2026 |
+| Completar cronograma e heatmap | Luis Henrique | 05/09/2026 |
+| Completar sites e justificativa | Caio Breno | 05/09/2026 |
+| Completar Processo de Design | Israel Soares | 05/09/2026 |
+| Completar ferramentas | Heitor Pinheiro | 05/09/2026 |
+| Revisar artefatos no GitHub Pages | Todos | 05/09/2026 |
+| Publicar ata, registro e vídeo | Bruno Ferreira | 06/09/2026 |
 
 <p class="caption">Tabela 2 — Encaminhamentos e atribuições da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -82,7 +81,7 @@ A Tabela 3 documenta o histórico de versões deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Criação da estrutura base da Ata 01 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Preenchimento dos dados da reunião, consolidação dos tópicos da discussão e inserção da gravação via iframe | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 05/09/2026 | Remoção da tabela de contribuição e renumeração das tabelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Remoção da tabela de contribuição, renumeração das tabelas e atualização das atividades | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 3 — Histórico de versão da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

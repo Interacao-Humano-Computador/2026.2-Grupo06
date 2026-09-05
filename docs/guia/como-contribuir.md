@@ -35,11 +35,10 @@ Abra <http://127.0.0.1:8000/2026.2-Grupo06/>. Se a porta 8000 estiver ocupada, o
 
 | Você é | Arquivo principal |
 | --- | --- |
-| Luis Henrique Arruda Luna | `docs/entrega-1/cronograma.md` e `docs/entrega-1/heatmap.md` |
-| Caio Breno | `docs/equipe.md`, `docs/guia/`, `docs/entrega-1/sites-avaliados.md` e `docs/entrega-1/site-escolhido.md` |
+| Caio Breno | `docs/entrega-1/sites-avaliados.md`, `docs/entrega-1/site-escolhido.md`, `docs/equipe.md`, `docs/guia/`, tema e workflow |
 | Israel Soares | `docs/entrega-1/processo-design.md` |
 | Heitor Pinheiro | `docs/entrega-1/ferramentas.md` |
-| Bruno Ferreira | `docs/atas/`, `docs/apresentacoes/`, `docs/verificacao/` e tabelas de contribuição |
+| Bruno Ferreira | `docs/atas/`, `docs/apresentacoes/` e `docs/verificacao/` |
 
 Imagens novas vão para `docs/assets/img/`, em pasta óbvia (`referencias/`, `equipe/`, `evidencias/`).
 
