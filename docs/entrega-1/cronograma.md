@@ -2,12 +2,7 @@
 
 # Cronograma
 
-O plano de ensino pede um cronograma de **todas as etapas**, com responsável, início, fim, período de revisão e gravação da apresentação. Os sites da disciplina resolvem isso do mesmo jeito:
-
-- [Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/): uma tabela por etapa, com data de entrega, data de revisão, autor e revisor distintos.
-- [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/) e [Domínio Público](https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/): a mesma ideia, mais uma tabela **executada** ao lado da planejada.
-
-A gravação entra como **linha** da etapa, não como coluna extra. Datas oficiais vêm de SALES (2026). Luis Henrique confirma nomes e o que de fato foi feito.
+O plano de ensino pede um cronograma de **todas as etapas**, com responsável, início, fim, período de revisão e gravação da apresentação. Cada etapa tem a sua tabela. A gravação entra como **linha**, não como coluna extra. Datas oficiais vêm de SALES (2026). Luis Henrique confirma nomes e o que de fato foi feito.
 
 ## Datas oficiais
 
@@ -28,7 +23,7 @@ A gravação entra como **linha** da etapa, não como coluna extra. Datas oficia
 
 ## Como preencher
 
-1. Autor e revisor são **pessoas diferentes** — o Lichess e o Bilheteria não abrem exceção.
+1. Autor e revisor são **pessoas diferentes**.
 2. A revisão termina **antes** da entrega no Aprender.
 3. A gravação fica **antes** da entrega (na Etapa 1, 05–06/09).
 4. Depois da inspeção do Grupo +1, preencha a linha de ajuste.
@@ -49,7 +44,7 @@ Os revisores da Etapa 1 já estão sugeridos em rodízio. Luis Henrique pode tro
 | Ajuste após inspeção do Grupo +1 | 08/09 | 10/09 | Autores de cada página | 10/09 | Caio Breno |
 
 <p class="caption">Tabela 2 — Cronograma planejado da Etapa 1.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026), no formato de Lichess (2022) e Bilheteria Digital (2023).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 2 — Perfil, ética e análise de tarefas
 
@@ -64,7 +59,7 @@ Entrega 27/09 · inspeção 28/09 · apresentação 29/09.
 | Ajuste após inspeção | 29/09 | 01/10 | Autores | 01/10 | A definir |
 
 <p class="caption">Tabela 3 — Cronograma planejado da Etapa 2.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 3 — Princípios, metas e guia de estilo
 
@@ -79,7 +74,7 @@ Entrega 06/10 · inspeção 07/10 · apresentação 08/10.
 | Ajuste após inspeção | 08/10 | 10/10 | Autores | 10/10 | A definir |
 
 <p class="caption">Tabela 4 — Cronograma planejado da Etapa 3.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 4 — Planejamento da avaliação
 
@@ -94,7 +89,7 @@ Entrega 13/10 · inspeção 14/10 · apresentação 15/10.
 | Ajuste após inspeção | 15/10 | 17/10 | Autores | 17/10 | A definir |
 
 <p class="caption">Tabela 5 — Cronograma planejado da Etapa 4.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 5 — Relatos e protótipo de papel
 
@@ -108,7 +103,7 @@ Entrega 25/10 · inspeção 26/10 · apresentação 27/10.
 | Ajuste após inspeção | 27/10 | 29/10 | Autores | 29/10 | A definir |
 
 <p class="caption">Tabela 6 — Cronograma planejado da Etapa 5.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 6 — Papel e planejamento da alta fidelidade
 
@@ -122,7 +117,7 @@ Entrega 03/11 · inspeção 04/11 · apresentação 05/11.
 | Ajuste após inspeção | 05/11 | 07/11 | Autores | 07/11 | A definir |
 
 <p class="caption">Tabela 7 — Cronograma planejado da Etapa 6.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 7 — Relato da alta fidelidade
 
@@ -135,7 +130,7 @@ Entrega 15/11 · inspeção 16/11 · apresentação 17/11.
 | Ajuste após inspeção | 17/11 | 19/11 | Autores | 19/11 | A definir |
 
 <p class="caption">Tabela 8 — Cronograma planejado da Etapa 7.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 8 — Verificação
 
@@ -148,7 +143,7 @@ Entrega 22/11 · inspeção 23/11 · apresentação 24/11.
 | Ajuste após inspeção | 24/11 | 26/11 | Autores | 26/11 | A definir |
 
 <p class="caption">Tabela 9 — Cronograma planejado da Etapa 8.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Entrega final
 
@@ -159,11 +154,11 @@ Entrega 30/11 · apresentação entre 01 e 08/12.
 | Sínteses, tabelas finais e vídeo de 20 a 30 minutos | 25/11 | 30/11 | Todos | 30/11 | A definir |
 
 <p class="caption">Tabela 10 — Cronograma planejado da entrega final.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Cronograma executado
 
-No Bilheteria e no Domínio Público, cada etapa ganha uma tabela executada quando a atividade acontece. Aqui o grupo acumula o que já foi feito na Tabela 11. Luis Henrique atualiza início real, fim real e observação.
+A Tabela 11 registra o que já foi feito. Luis Henrique atualiza início real, fim real e observação.
 
 | Atividade | Quem fez | Início real | Fim real | Observação |
 | --- | --- | :---: | :---: | --- |
@@ -182,9 +177,3 @@ No Bilheteria e no Domínio Público, cada etapa ganha uma tabela executada quan
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[2] Cronograma. In: Lichess — IHC 2022.2. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/. Acesso em: 4 set. 2026.
-
-[3] Cronograma. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/. Acesso em: 4 set. 2026.
-
-[4] Cronograma. In: Domínio Público — IHC 2023.2. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/planejamento/cronograma/. Acesso em: 4 set. 2026.

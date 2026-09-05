@@ -17,7 +17,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
 <p class="caption">Tabela 1 — Vídeos de apresentação do projeto.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
 

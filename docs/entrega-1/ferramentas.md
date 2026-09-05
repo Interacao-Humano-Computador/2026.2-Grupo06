@@ -4,7 +4,7 @@
 
 ## Introdução
 
-O plano de ensino pede a lista de ferramentas na Entrega 1 e de novo na final. No [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/) o grupo listou só o que usava de verdade e numerou a referência de cada ferramenta. Heitor faz o mesmo: a Tabela 1 fica com o uso real; apague a linha se o grupo não for usar.
+O plano de ensino pede a lista de ferramentas na Entrega 1 e de novo na final. A Tabela 1 fica com o que o grupo for usar de verdade; apague a linha se não for o caso.
 
 ## Tabela de ferramentas
 
@@ -24,7 +24,7 @@ O plano de ensino pede a lista de ferramentas na Entrega 1 e de novo na final. N
 | Draw.io ou similar | HTA, fluxos e storyboard digitalizado | Etapas 2 a 5 | A definir |
 
 <p class="caption">Tabela 1 — Ferramentas do projeto e uso por etapa.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026), no formato de Bilheteria Digital (2023).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 No texto, chame a tabela: “A Tabela 1 resume as ferramentas e o ponto do processo em que cada uma aparece.”
 
@@ -38,10 +38,8 @@ No texto, chame a tabela: “A Tabela 1 resume as ferramentas e o ponto do proce
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[2] Ferramentas. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/ferramentas/. Acesso em: 4 set. 2026.
+[2] GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 4 set. 2026.
 
-[3] GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 4 set. 2026.
+[3] MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 4 set. 2026.
 
-[4] MkDocs. Disponível em: https://www.mkdocs.org/. Acesso em: 4 set. 2026.
-
-[5] Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software. Acesso em: 4 set. 2026.
+[4] Microsoft Teams. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software. Acesso em: 4 set. 2026.

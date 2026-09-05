@@ -2,7 +2,7 @@
 
 # Heatmap de disponibilidade
 
-O plano de ensino pede o heatmap na Entrega 1. No [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/) o grupo primeiro coletou horários numa planilha e só então marcou reunião fixa (sábado, 10h). Faça o mesmo: preencha a Tabela 1 e feche a janela em seguida.
+O plano de ensino pede o heatmap na Entrega 1. Preencha a Tabela 1 e, em seguida, feche o horário recorrente de reunião.
 
 Luis Henrique pergunta a cada pessoa e troca o traço pela letra. Não deixe célula vazia.
 
@@ -60,5 +60,3 @@ Preencha depois que a Tabela 1 tiver pelo menos um **L** em comum:
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[2] Metodologia. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/. Acesso em: 4 set. 2026.

@@ -2,7 +2,7 @@
 
 A Entrega 1 é o planejamento do projeto. O material precisa estar no GitHub Pages e no Aprender até **06/09/2026**. A inspeção do Grupo +1 é dia **07/09** e a apresentação, dia **08/09**.
 
-O plano de ensino pede, nesta etapa: equipe, heatmap, sites avaliados, site escolhido, processo de Design (com referência e foto do texto), ferramentas, cronograma e atas. É o mesmo conjunto da aba Planejamento do [Lichess](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/) e do [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/).
+O plano de ensino pede, nesta etapa: equipe, heatmap, sites avaliados, site escolhido, processo de Design (com referência e foto do texto), ferramentas, cronograma e atas.
 
 ## Quem preenche o quê
 
@@ -19,7 +19,7 @@ O plano de ensino pede, nesta etapa: equipe, heatmap, sites avaliados, site esco
 | [Equipe](../equipe.md) | Caio Breno | Fotos, nomes e papéis — já publicada |
 
 <p class="caption">Tabela 1 — Páginas do planejamento e responsável.</p>
-<p class="source">Fonte: elaboração do Grupo 06 a partir de SALES (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 Antes de gravar, passe pela [lista de verificação](lista-verificacao.md).
 
@@ -52,7 +52,3 @@ O [template](../guia/template-artefato.md) e o guia de [figuras e referências](
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
-
-[2] Cronograma. In: Bilheteria Digital — IHC 2023.1. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/. Acesso em: 4 set. 2026.
-
-[3] Planejamento. In: Lichess — IHC 2022.2. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/. Acesso em: 4 set. 2026.
