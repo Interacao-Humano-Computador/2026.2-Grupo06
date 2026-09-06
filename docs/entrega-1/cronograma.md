@@ -251,6 +251,9 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | Coleta das disponibilidades da equipe | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Consolidação do heatmap de disponibilidade | Luis Henrique | 04/09/2026 | 05/09/2026 | Concluída |
 | Revisão geral dos artefatos | Todos | 04/09/2026 | 05/09/2026 | Concluída por revisão cruzada |
+| Ajustes finais do GitHub Pages | Caio Breno | 05/09/2026 | 06/09/2026 | Concluída |
+| Gravação da apresentação | Todos | 05/09/2026 | 06/09/2026 | Concluída |
+| Edição e publicação do vídeo | Bruno Ferreira | 05/09/2026 | 06/09/2026 | Concluída |
 
 <p class="caption">Tabela 10 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -264,6 +267,7 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Adição da introdução, legendas e redistribuição de tarefas da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

@@ -31,15 +31,19 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 ## Vídeo
 
 - Categoria no YouTube: **não listado**
-- Link: a inserir
-- Data da gravação: a inserir (janela prevista: 05 e 06/09/2026)
-- Duração prevista: a definir pelo grupo
+- Link: [https://youtu.be/NQzcNg32G2k](https://youtu.be/NQzcNg32G2k)
+- Data da gravação: 05/09/2026
 
-Cole o embed depois que o vídeo existir:
-
-```html
-<iframe title="Apresentação da Etapa 1 do Grupo 06" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ID_DO_VIDEO" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    src="https://www.youtube-nocookie.com/embed/NQzcNg32G2k" 
+    title="Apresentação da Etapa 1 do Grupo 06" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Roteiro sugerido
 
@@ -59,6 +63,7 @@ Cole o embed depois que o vídeo existir:
 | `1.0` | 05/09/2026 | Redistribuição das partes dos integrantes, links diretos e introdução | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Consolida a contribuição da etapa, sem coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 05/09/2026 | Inclui a página da equipe na estruturação do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 05/09/2026 | Adição do vídeo da apresentação (link e gravação) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
