@@ -1,10 +1,11 @@
 <span class="owner">Responsável: Israel Soares de Paiva — Processo de Design</span>
 
-# Processo de Design
+# Introdução
+
+## Processo de Design
 
 Compreender esse processo é essencial explorar pois destaca a importância de envolver o usuário durante suas atividades possibilitando participar direta ou indiretamente, nas decisões tomadas. Segundo Barbosa e Silva,design pode ser definido como processo composto por três atividades fundamentais:análise da situação atual(identificação de um problema), síntese de uma intervenção e avaliação da nova situação resultante dessa intervenção.
 
-**Autor do item:** Israel Soares de Paiva
 
 ## Atividades básicas
 
@@ -12,7 +13,7 @@ O proceso de design é composto por três atividades: análise,sítese e avalia�
 
 ![Processo1](../assets/img/referencias/processo1.png)
 
-**Descrição do Processo de Design**
+**Figura1: Descrição do Processo de Design**
 
 ## Processos possíveis
 
@@ -70,17 +71,17 @@ O Portal da Transparência do DF é um sistema que já está no ar e em uso real
 
 ![Processo3](../assets/img/referencias/processo3.png)
 
-**Introdução de Usuabilidade de Mayhew** 
+**Figura 1: Introdução de Usuabilidade de Mayhew** 
 
 ![Processo4](../assets/img/referencias/processo4.png)
 
-**Parte do Gráfico**
+**Figura 2: Parte do Gráfico**
 
 ![Processo5](../assets/img/referencias/processo5.png)
 
-**Fase de Instalação**
+**Figura 3: Fase de Instalação**
 
-<p class="source">Fonte: BARBOSA; SILVA (2010, p. 109-111). Foto a inserir.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 109-111).</p>
 
 ## Histórico de versão
 

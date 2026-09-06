@@ -111,7 +111,6 @@ nav:
   - Início: index.md
   - Equipe: equipe.md
   - Planejamento:
-      - entrega-1/index.md
       - Cronograma: entrega-1/cronograma.md
       - Heatmap de disponibilidade: entrega-1/heatmap.md
       - Sites avaliados: entrega-1/sites-avaliados.md

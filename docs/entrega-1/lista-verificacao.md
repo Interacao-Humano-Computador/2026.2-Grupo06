@@ -22,7 +22,7 @@ A Tabela 1 apresenta a avaliação dos itens de planejamento geral exigidos para
 | 5 | A motivação e os critérios para a escolha do site? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Site escolhido](site-escolhido.md) |
 | 6 | O planejamento e avaliação dos sites selecionados? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Sites avaliados](sites-avaliados.md) |
 | 7 | Possui opção de contraste de cores? | Sim | `v1.0` — 05/09/2026 às 21:00 | [Acessibilidade](../guia/acessibilidade.md) |
-| 8 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Planejamento](index.md) |
+| 8 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Cronograma](cronograma.md) |
 | 9 | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Atas](../atas/index.md) |
 
 <p class="caption">Tabela 1 — Itens de planejamento geral da Entrega 1.</p>
@@ -43,7 +43,7 @@ A Tabela 2 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
 | 7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md) |
 | 8 | A gravação da reunião do grupo? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#gravacao) |
 | 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Incompleto | `v1.0` — 05/09/2026 às 21:00 | [Apresentação](../apresentacoes/etapa-01.md) (Previsto no cronograma) |
-| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Planejamento](index.md#tabela-de-contribuicao) |
+| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Apresentação da Etapa 1](../apresentacoes/etapa-01.md) |
 | 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#agradecimentos) |
 
 <p class="caption">Tabela 2 — Itens de desenvolvimento da Entrega 1.</p>

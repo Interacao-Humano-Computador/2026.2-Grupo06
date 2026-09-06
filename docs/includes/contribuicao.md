@@ -1,5 +1,5 @@
-<!-- Modelo da tabela consolidada na página da entrega, não em cada artefato. -->
+<!-- Modelo da tabela consolidada na página da apresentação da etapa, sem coluna de gravação. -->
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Nome | Descrever o que fez | [Página do artefato](../entrega-1/index.md) | [Vídeo](https://youtube.com) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| Nome | Descrever o que fez | [Página do artefato](../apresentacoes/etapa-01.md) |

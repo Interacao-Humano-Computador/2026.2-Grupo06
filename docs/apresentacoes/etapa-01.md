@@ -4,18 +4,25 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 indica a contribuição de cada membro na apresentação, os respectivos artefatos apresentados e a marcação de tempo no vídeo.
+A Tabela 1 concentra a contribuição da Entrega 1. Cada linha liga o que a pessoa fez ao artefato correspondente.
 
-| Integrante | Contribuição | Artefato apresentado | Trecho no vídeo |
-| --- | --- | --- | --- |
-| Caio Breno | Infraestrutura, equipe, template, sites avaliados e escolha | [Equipe](../equipe.md), [Padrões](../guia/index.md), [Sites avaliados](../entrega-1/sites-avaliados.md), [Site escolhido](../entrega-1/site-escolhido.md) | A inserir |
-| Luis Henrique | Cronograma e heatmap de disponibilidade | [Cronograma](../entrega-1/cronograma.md), [Heatmap](../entrega-1/heatmap.md) | A inserir |
-| Israel Soares | Processo de Design | [Processo de Design](../entrega-1/processo-design.md) | A inserir |
-| Heitor Pinheiro | Ferramentas do projeto | [Ferramentas](../entrega-1/ferramentas.md) | A inserir |
-| Bruno Ferreira | Atas, verificação, edição e publicação do vídeo | [Atas](../atas/index.md), [Apresentação](etapa-01.md) | A inserir |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação do GitHub Pages e padrões do site | [Início](../index.md), [equipe](../equipe.md) e [padrões](../guia/index.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos e justificativa do site escolhido | [Sites avaliados](../entrega-1/sites-avaliados.md) e [site escolhido](../entrega-1/site-escolhido.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento e relatório individuais do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) e [relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Cronograma por etapa e heatmap de disponibilidade | [Cronograma](../entrega-1/cronograma.md) e [heatmap](../entrega-1/heatmap.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Documentação das ferramentas do projeto | [Ferramentas](../entrega-1/ferramentas.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento e relatório individuais do Portal da Transparência do DF | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Definição e justificativa do Processo de Design | [Processo de Design](../entrega-1/processo-design.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE e planejamento da avaliação do Senado | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) e [planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atas, registro e vídeo da apresentação | [Atas](../atas/index.md) e [esta página](etapa-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento e relatório individuais do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) e [relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) |
 
-<p class="caption">Tabela 1 — Contribuição na apresentação da Etapa 1.</p>
+<p class="caption">Tabela 1 — Contribuição da Entrega 1.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+A Tabela 1 cobre tanto os artefatos coletivos da etapa quanto as inspeções individuais que alimentam a lista de sites.
 
 ## Introdução
 
@@ -50,6 +57,8 @@ Cole o embed depois que o vídeo existir:
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo da apresentação da Etapa 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Redistribuição das partes dos integrantes, links diretos e introdução | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Consolida a contribuição da etapa, sem coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 05/09/2026 | Inclui a página da equipe na estruturação do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

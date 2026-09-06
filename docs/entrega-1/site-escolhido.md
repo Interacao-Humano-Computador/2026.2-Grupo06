@@ -4,7 +4,7 @@
 
 ## Introdução
 
-O grupo selecionou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/) como objeto do projeto. Esta página justifica a escolha a partir da comparação em [Sites avaliados](sites-avaliados.md), registra os aspectos que serão trabalhados nas oito etapas e aponta o planejamento e o relatório individuais já existentes — os dois PDFs padronizados que o professor pode abrir neste site. A contribuição de cada integrante nesta etapa está no [Planejamento](index.md).
+O grupo selecionou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/) como objeto do projeto. Esta página justifica a escolha a partir da comparação em [Sites avaliados](sites-avaliados.md), registra os aspectos que serão trabalhados nas oito etapas e aponta o planejamento e o relatório individuais já existentes — os dois PDFs padronizados que o professor pode abrir neste site. A contribuição de cada integrante nesta etapa está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ## Identificação
 

@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo ao longo do semestre para facilitar a comunicação, documentação, design e gestão do projeto. A Tabela 1 resume essas ferramentas e o ponto do processo em que cada uma aparece. A contribuição de cada integrante nesta etapa está no [Planejamento](index.md).
+Este artefato lista as ferramentas tecnológicas e de apoio adotadas pelo grupo ao longo do semestre para facilitar a comunicação, documentação, design e gestão do projeto. A Tabela 1 resume essas ferramentas e o ponto do processo em que cada uma aparece. A contribuição de cada integrante nesta etapa está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ## Ferramentas utilizadas
 

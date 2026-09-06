@@ -15,7 +15,7 @@ hide:
 <p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal da Transparência do Distrito Federal.</p>
 
 <p class="actions">
-<a class="btn btn-gold" href="entrega-1/">Ver o planejamento</a>
+<a class="btn btn-gold" href="entrega-1/cronograma/">Ver o planejamento</a>
 <a class="btn btn-ghost" href="equipe/">Ver a equipe</a>
 </p>
 
@@ -37,7 +37,7 @@ hide:
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
-  <a class="tile" href="entrega-1/">
+  <a class="tile" href="entrega-1/cronograma/">
     <span class="tile-num">01</span>
     <strong>Planejamento</strong>
     <span>Cronograma, heatmap, sites avaliados e site escolhido.</span>
@@ -113,7 +113,6 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
