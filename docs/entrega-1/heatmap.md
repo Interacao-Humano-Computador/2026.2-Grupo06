@@ -54,6 +54,10 @@ Com base no heatmap, a janela recorrente sugerida prioriza os intervalos com val
 - **Canal:** Google Meet;
 - **Responsável por emitir a ata:** Bruno Ferreira Dornelas.
 
+## Agradecimentos
+
+A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

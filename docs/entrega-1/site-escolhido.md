@@ -112,6 +112,10 @@ Os cinco problemas do relatório padronizado viram hipóteses do projeto coletiv
 
 O plano de reprojeto individual já aponta correções verificáveis (atributos `alt`, razão de contraste 4,5:1, rótulos, `scope` em tabelas e restrição de `target="_blank"`). O grupo trata essas correções como ponto de partida, a ser confrontado com perfil de usuário, ética e prototipação nas etapas seguintes.
 
+## Agradecimentos
+
+A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

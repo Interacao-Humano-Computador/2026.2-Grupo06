@@ -163,6 +163,10 @@ A comparação dos quatro candidatos leva o grupo ao Portal da Transparência do
 
 O detalhamento da escolha está em [Site escolhido](site-escolhido.md).
 
+## Agradecimentos
+
+A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

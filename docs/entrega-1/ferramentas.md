@@ -41,6 +41,10 @@ A Tabela 2 apresenta as ferramentas utilizadas, a finalidade de cada uma no proj
 <p class="caption">Tabela 2 — Ferramentas do projeto e uso por etapa.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
+## Agradecimentos
+
+A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
