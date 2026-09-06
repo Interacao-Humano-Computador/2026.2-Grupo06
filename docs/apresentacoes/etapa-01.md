@@ -4,20 +4,29 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 concentra a contribuição da Entrega 1. Cada linha liga o que a pessoa fez ao artefato correspondente e à gravação, quando houver.
+A Tabela 1 concentra a contribuição da Entrega 1. Cada linha é uma atividade, com a hiperligação correspondente.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação do GitHub Pages e padrões do site | [Início](../index.md), [equipe](../equipe.md) e [padrões](../guia/index.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos e justificativa do site escolhido | [Sites avaliados](../entrega-1/sites-avaliados.md) e [site escolhido](../entrega-1/site-escolhido.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento e relatório individuais do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) e [relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) | Não se aplica |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Cronograma por etapa e heatmap de disponibilidade | [Cronograma](../entrega-1/cronograma.md) e [heatmap](../entrega-1/heatmap.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Documentação das ferramentas do projeto | [Ferramentas](../entrega-1/ferramentas.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento e relatório individuais do Portal da Transparência do DF | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) | Não se aplica |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Definição e justificativa do Processo de Design | [Processo de Design](../entrega-1/processo-design.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE e planejamento da avaliação do Senado | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) e [planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) | Não se aplica |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atas, registro e vídeo da apresentação | [Atas](../atas/index.md) e [esta página](etapa-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento e relatório individuais do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) e [relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) | Não se aplica |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação do GitHub Pages | [Início](../index.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da equipe e papéis | [Equipe](../equipe.md#papeis-da-entrega-1) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Padrões do site | [Padrões](../guia/index.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos | [Sites avaliados](../entrega-1/sites-avaliados.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Justificativa do site escolhido | [Site escolhido](../entrega-1/site-escolhido.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento individual do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatório individual do LexML | [Relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Cronograma por etapa | [Cronograma](../entrega-1/cronograma.md#etapa-1-planejamento-do-projeto) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Heatmap de disponibilidade | [Heatmap](../entrega-1/heatmap.md#disponibilidade-semanal) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Documentação das ferramentas do projeto | [Ferramentas](../entrega-1/ferramentas.md#ferramentas-utilizadas) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento individual do Portal da Transparência do DF | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Relatório individual do Portal da Transparência do DF | [Relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Definição e justificativa do Processo de Design | [Processo escolhido](../entrega-1/processo-design.md#processo-escolhido) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento da avaliação do Senado | [Planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atas e registro | [Atas](../atas/index.md#reunioes) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Vídeo da apresentação | [Vídeo](etapa-01.md#video) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento individual do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Relatório individual do portal de Unaí | [Relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) |
 
 <p class="caption">Tabela 1 — Contribuição da Entrega 1.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

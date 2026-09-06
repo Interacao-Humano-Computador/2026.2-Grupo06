@@ -4,15 +4,11 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice da verificação interna do grupo | [Esta página](index.md) | [Ata 01](../../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Revisão deste índice | [Esta página](index.md) | [Ata 01](../../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Autor de artefato coberto pela lista da Etapa 1 | [Lista da Etapa 1](etapa-1/lista-verificacao.md) | [Ata 01](../../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Autor de artefato coberto pela lista da Etapa 1 | [Lista da Etapa 1](etapa-1/lista-verificacao.md) | [Ata 01](../../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Autor de artefato coberto pela lista da Etapa 1 | [Lista da Etapa 1](etapa-1/lista-verificacao.md) | [Ata 01](../../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice da verificação interna do grupo | [Etapas verificadas](index.md#etapas-verificadas) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

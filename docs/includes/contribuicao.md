@@ -1,5 +1,6 @@
-<!-- Modelo da tabela no início de cada artefato. Liste os cinco integrantes. -->
+<!-- Modelo da tabela no início de cada artefato. Uma linha por atividade. -->
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Nome completo | Frase objetiva do que a pessoa fez neste artefato | [Página ou PDF](../apresentacoes/etapa-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| Nome completo | Primeira atividade | [Seção ou PDF](../apresentacoes/etapa-01.md) |
+| Nome completo | Segunda atividade | [Outra seção](../apresentacoes/etapa-01.md) |

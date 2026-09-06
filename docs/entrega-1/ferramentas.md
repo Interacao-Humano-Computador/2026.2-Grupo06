@@ -4,15 +4,11 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Edição do artefato, seleção e formatação das ferramentas | [Esta página](ferramentas.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Versão inicial da lista de ferramentas | [Esta página](ferramentas.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Ajuste das tabelas deste artefato | [Esta página](ferramentas.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição das ferramentas na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição das ferramentas na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Edição do artefato, seleção e formatação das ferramentas | [Ferramentas utilizadas](ferramentas.md#ferramentas-utilizadas) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

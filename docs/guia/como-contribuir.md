@@ -4,15 +4,11 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Fluxo de publicação no GitHub Pages | [Esta página](como-contribuir.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão deste fluxo | [Esta página](como-contribuir.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Fluxo de publicação no GitHub Pages | [Edite só a sua página](como-contribuir.md#3-edite-so-a-sua-pagina) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

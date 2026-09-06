@@ -4,15 +4,11 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo inicial do índice | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Autor de artefato a ser apresentado na Etapa 1 | [Ferramentas](../entrega-1/ferramentas.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Autor de artefato a ser apresentado na Etapa 1 | [Processo de Design](../entrega-1/processo-design.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Autor de artefato a ser apresentado na Etapa 1 | [Cronograma](../entrega-1/cronograma.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

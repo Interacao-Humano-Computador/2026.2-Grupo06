@@ -4,15 +4,12 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Redação, justificativa e fotos da referência do processo | [Esta página](processo-design.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo inicial da página e revisão do conteúdo | [Esta página](processo-design.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Redação e justificativa do processo | [Processo escolhido](processo-design.md#processo-escolhido) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Fotos da referência do processo | [Foto do trecho](processo-design.md#foto-do-trecho) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
