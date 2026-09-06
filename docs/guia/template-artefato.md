@@ -68,7 +68,7 @@ Depois de copiar, acrescente a página em `mkdocs.yml` na seção correta da `na
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Publicação do template reutilizável | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Publicação do template reutilizável | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Tira a tabela de contribuição de cada página e aponta a da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 

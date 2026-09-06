@@ -113,8 +113,7 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Grupo 06 |
+| `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

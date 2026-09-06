@@ -22,7 +22,7 @@ Quando uma etapa abrir, crie os arquivos dentro de uma pasta nova e troque o lin
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Abertura das âncoras das etapas 2 a 8 e final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Abertura das âncoras das etapas 2 a 8 e final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

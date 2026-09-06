@@ -23,7 +23,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Índice das apresentações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Índice das apresentações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

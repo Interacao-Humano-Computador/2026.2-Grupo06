@@ -64,7 +64,7 @@ Todo integrante precisa de pelo menos um item por entrega pertinente, com:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Padronização de legendas e ABNT | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Padronização de legendas e ABNT | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
