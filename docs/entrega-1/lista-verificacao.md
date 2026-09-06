@@ -65,7 +65,7 @@ A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Transposição da lista oficial para o site | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Transposição da lista oficial para o site | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Marca sites e escolha como prontos e atribui o processo a Israel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Aponta a tabela de contribuição para o Planejamento da Entrega 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.3` | 05/09/2026 | Preenchimento dos itens concluídos da lista de verificação da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

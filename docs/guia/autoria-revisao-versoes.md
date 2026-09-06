@@ -53,7 +53,7 @@ A tabela de contribuição fica **na página da entrega**, não no início de ca
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 04/09/2026 | Definição do padrão de autoria e versões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.0` | 04/09/2026 | Definição do padrão de autoria e versões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Consolida a tabela de contribuição na página da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
