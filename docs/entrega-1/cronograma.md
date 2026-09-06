@@ -4,15 +4,12 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado e do cronograma executado | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estrutura inicial das tabelas por etapa e padronização | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Introdução, legendas e redistribuição das tarefas da Etapa 1 | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Revisão prevista deste artefato no planejamento da etapa | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição dos prazos na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado | [Etapa 1](cronograma.md#etapa-1-planejamento-do-projeto) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

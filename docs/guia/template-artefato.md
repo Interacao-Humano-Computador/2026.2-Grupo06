@@ -4,22 +4,18 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo reutilizável de artefato do GitHub Pages | [Esta página](template-artefato.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Revisão anterior deste contrato de autoria | [Esta página](template-artefato.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo reutilizável de artefato do GitHub Pages | [Arquivo-espelho](template-artefato.md#arquivo-espelho) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 Copie o bloco abaixo para um arquivo novo em `docs/`. Troque os campos entre colchetes.
 
-A tabela de contribuição fica no início de cada artefato, com o nome de todos, a atividade e a gravação, se houver. A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
+A tabela de contribuição fica no início de cada artefato, só com quem atuou naquela página e com hiperligação da seção correspondente. A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ```markdown
 <span class="owner">Responsável: [Nome — papel] · Autor do item: [Nome]</span>
@@ -28,11 +24,12 @@ A tabela de contribuição fica no início de cada artefato, com o nome de todos
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Nome](https://github.com/usuario) | Frase objetiva | [Esta página](./arquivo.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Nome](https://github.com/usuario) | Primeira atividade | [Seção da página](./arquivo.md#secao) |
+| [Nome](https://github.com/usuario) | Segunda atividade | [Outra seção](./arquivo.md#outra) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -98,6 +95,7 @@ Depois de copiar, acrescente a página em `mkdocs.yml` na seção correta da `na
 | `1.1` | 05/09/2026 | Tira a tabela de contribuição de cada página e aponta a da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 05/09/2026 | Restringe a tabela a quem atuou no artefato e tira a coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

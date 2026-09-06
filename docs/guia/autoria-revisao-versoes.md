@@ -4,15 +4,11 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição do contrato de autoria, revisão e versões | [Esta página](autoria-revisao-versoes.md) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão deste contrato na Entrega 1 | [Esta página](autoria-revisao-versoes.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Revisão anterior da consolidação da contribuição | [Esta página](autoria-revisao-versoes.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição do contrato de autoria, revisão e versões | [Autor e revisor](autoria-revisao-versoes.md#autor-e-revisor) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -55,11 +51,12 @@ No início da página, mantenha a faixa `Responsável` e, nos itens de conteúdo
 
 ## Tabela de contribuição
 
-A tabela de contribuição fica **no início de cada artefato**. Inclua o nome de todos os integrantes, o que cada um fez neste artefato, a hiperligação da atividade e a da gravação, se houver. A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
+A tabela de contribuição fica **no início de cada artefato**. Liste só quem atuou naquela página. Cada atividade vira uma linha, com a hiperligação da seção ou do arquivo correspondente. A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| Nome completo | Frase objetiva do que fez neste artefato | [Nome da página](../apresentacoes/etapa-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| Nome completo | Primeira atividade | [Seção da página](../apresentacoes/etapa-01.md) |
+| Nome completo | Segunda atividade | [Outra seção](../apresentacoes/etapa-01.md) |
 
 <p class="caption">Tabela 4 — Modelo de contribuição no início do artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -72,6 +69,7 @@ A tabela de contribuição fica **no início de cada artefato**. Inclua o nome d
 | `1.1` | 05/09/2026 | Consolida a tabela de contribuição na página da entrega | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Remove a coluna de gravação e aponta a tabela para a Etapa 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 05/09/2026 | Restringe a tabela a quem atuou no artefato e tira a coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

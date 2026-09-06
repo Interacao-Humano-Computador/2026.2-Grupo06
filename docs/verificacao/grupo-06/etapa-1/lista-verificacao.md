@@ -4,15 +4,12 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento e atualização da lista da Etapa 1 | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Transposição inicial da lista oficial e revisão | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e atributo de versão, data e hora | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Responsável pelo item de Processo de Design nesta lista | [Processo de Design](../../../entrega-1/processo-design.md) | [Ata 01](../../../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Responsável pelos itens de cronograma e heatmap nesta lista | [Cronograma](../../../entrega-1/cronograma.md) | [Ata 01](../../../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento e atualização da lista da Etapa 1 | [Planejamento geral](lista-verificacao.md#itens-do-planejamento-geral) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e atributo de versão, data e hora | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

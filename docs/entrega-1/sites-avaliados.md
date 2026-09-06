@@ -4,15 +4,23 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos e inspeção individual do LexML | [Esta página](sites-avaliados.md), [planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) e [relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inspeção individual do Portal da Transparência do DF e revisão desta página | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) | Não se aplica |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inspeção individual do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) e [relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) | Não se aplica |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE e inspeção do Senado | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) e [planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) | Não se aplica |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a comparação dos candidatos na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos | [Lista de candidatos](sites-avaliados.md#sites-e-documentos-padronizados) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inspeção individual do LexML | [LexML](sites-avaliados.md#lexml-brasil) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento individual do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatório individual do LexML | [Relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inspeção individual do Portal da Transparência do DF | [Portal da Transparência](sites-avaliados.md#portal-da-transparencia-do-distrito-federal) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento individual do Portal da Transparência do DF | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Relatório individual do Portal da Transparência do DF | [Relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inspeção individual do portal de Unaí | [Unaí](sites-avaliados.md#portal-da-prefeitura-municipal-de-unai) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento individual do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Relatório individual do portal de Unaí | [Relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Inspeção do Senado | [Senado](sites-avaliados.md#portal-do-senado-federal) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento da avaliação do Senado | [Planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

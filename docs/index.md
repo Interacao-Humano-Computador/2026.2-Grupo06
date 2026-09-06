@@ -71,15 +71,11 @@ hide:
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê nesta página.
+A Tabela 1 registra quem atuou nesta página.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação e manutenção da página inicial e da estrutura do GitHub Pages | [Esta página](index.md) | [Ata 01](atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão cruzada da Entrega 1 e atas ligadas a este site | [Atas](atas/index.md) | [Ata 01](atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação e manutenção da página inicial e da estrutura do GitHub Pages | [Equipe](index.md#equipe) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

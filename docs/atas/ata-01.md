@@ -4,15 +4,13 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento da ata, decisões e publicação da gravação | [Esta página](ata-01.md) | [Gravação](ata-01.md#gravacao) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estrutura base da ata | [Esta página](ata-01.md) | [Gravação](ata-01.md#gravacao) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participou da reunião e das decisões registradas | [Esta página](ata-01.md) | [Gravação](ata-01.md#gravacao) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participou da reunião e das decisões registradas | [Esta página](ata-01.md) | [Gravação](ata-01.md#gravacao) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Participou da reunião e das decisões registradas | [Esta página](ata-01.md) | [Gravação](ata-01.md#gravacao) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Identificação da reunião | [Identificação](ata-01.md#identificacao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das decisões | [Decisões](ata-01.md#decisoes) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Encaminhamentos e atividades | [Atividades](ata-01.md#atividades-definidas) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

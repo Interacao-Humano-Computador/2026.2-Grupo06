@@ -4,15 +4,15 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Redação da justificativa e do recorte do projeto | [Esta página](site-escolhido.md) | [Ata 01](../atas/ata-01.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inspeção individual do portal escolhido e revisão desta página | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) | [Ata 01](../atas/ata-01.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Identificação do site escolhido | [Identificação](site-escolhido.md#identificacao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Redação da justificativa | [Justificativa](site-escolhido.md#por-que-este-site-e-nao-os-outros) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Aproveitamento do planejamento prévio no projeto coletivo | [Planejamento prévio](site-escolhido.md#planejamento-e-avaliacao-previa) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento individual do portal escolhido | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Relatório individual do portal escolhido | [Relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

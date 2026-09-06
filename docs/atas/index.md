@@ -4,15 +4,12 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem fez o quê neste artefato.
+A Tabela 1 registra quem atuou neste artefato.
 
-| Integrante | Contribuição | Artefato / atividade | Gravação |
-| --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das atas e ligação da gravação | [Esta página](index.md) | [Ata 01](ata-01.md#gravacao) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo inicial do índice | [Esta página](index.md) | [Ata 01](ata-01.md#gravacao) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participou da reunião registrada neste índice | [Ata 01](ata-01.md) | [Ata 01](ata-01.md#gravacao) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participou da reunião registrada neste índice | [Ata 01](ata-01.md) | [Ata 01](ata-01.md#gravacao) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Participou da reunião registrada neste índice | [Ata 01](ata-01.md) | [Ata 01](ata-01.md#gravacao) |
+| Integrante | Contribuição | Artefato / atividade |
+| --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das atas | [Reuniões](index.md#reunioes) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro da Ata 01 | [Ata 01](ata-01.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
