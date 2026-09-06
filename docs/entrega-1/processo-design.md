@@ -2,6 +2,21 @@
 
 # Introdução
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Redação, justificativa e fotos da referência do processo | [Esta página](processo-design.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo inicial da página e revisão do conteúdo | [Esta página](processo-design.md) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a escolha do processo na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Processo de Design
 
 Compreender esse processo é essencial explorar pois destaca a importância de envolver o usuário durante suas atividades possibilitando participar direta ou indiretamente, nas decisões tomadas. Segundo Barbosa e Silva,design pode ser definido como processo composto por três atividades fundamentais:análise da situação atual(identificação de um problema), síntese de uma intervenção e avaliação da nova situação resultante dessa intervenção.
@@ -36,13 +51,15 @@ Nielsen lista atividades essenciais de engenharia de usabilidade, sem impor uma 
 
 ## Comparação rápida
 
+A Tabela 2 compara os processos do capítulo usado neste artefato.
+
 | Processo | Detalhamento | Ordem das atividades | Encaixa no semestre? |
 | --- | --- | --- | --- |
 | Ciclo simples | Baixo | Análise → design → construção → avaliação | 0 |
 | Ciclo em estrela | Médio | Qualquer ponta, com avaliação depois de cada uma | 0 |
 | Mayhew | Alto | Requisitos → design/avaliação → instalação | X |
 
-<p class="caption">Tabela 1 — Comparação dos processos do capítulo 4.</p>
+<p class="caption">Tabela 2 — Comparação dos processos do capítulo 4.</p>
 <p class="source">Fonte: elaboração do Grupo 06 a partir de BARBOSA; SILVA (2010) e Lichess (2022).</p>
 
 ## Processo escolhido
@@ -60,11 +77,13 @@ O Portal da Transparência do DF é um sistema que já está no ar e em uso real
 
 ### Como vamos percorrê-lo
 
+A Tabela 3 liga as fases do processo escolhido às entregas da disciplina.
+
 | Fase do processo | O que o grupo faz | Entrega |
 | --- | --- | :---: |
 | Inicial | Documento Inicial | 1 |
 
-<p class="caption">Tabela 2 — Processo de design e entregas da disciplina.</p>
+<p class="caption">Tabela 3 — Processo de design e entregas da disciplina.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Foto do trecho
@@ -89,6 +108,7 @@ O Portal da Transparência do DF é um sistema que já está no ar e em uso real
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Modelo com foto da referência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 05/09/2026 | Preenchimento da página | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

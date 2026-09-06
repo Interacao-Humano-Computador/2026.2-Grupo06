@@ -69,6 +69,21 @@ hide:
   </a>
 </nav>
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê nesta página.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação e manutenção da página inicial e da estrutura do GitHub Pages | [Esta página](index.md) | [Ata 01](atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão cruzada da Entrega 1 e atas ligadas a este site | [Atas](atas/index.md) | [Ata 01](atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](atas/ata-01.md) | [Ata 01](atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Equipe
 
 <div class="team" markdown>
@@ -113,7 +128,9 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| :---: | :---: | --- | --- | --- |
+| `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Grupo 06 |
+| `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

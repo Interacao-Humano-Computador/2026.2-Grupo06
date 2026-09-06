@@ -2,9 +2,24 @@
 
 # Site escolhido
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Redação da justificativa e do recorte do projeto | [Esta página](site-escolhido.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inspeção individual do portal escolhido e revisão desta página | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Participou da decisão de escolha do objeto | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
-O grupo selecionou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/) como objeto do projeto. Esta página justifica a escolha a partir da comparação em [Sites avaliados](sites-avaliados.md), registra os aspectos que serão trabalhados nas oito etapas e aponta o planejamento e o relatório individuais já existentes — os dois PDFs padronizados que o professor pode abrir neste site. A contribuição de cada integrante nesta etapa está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
+O grupo selecionou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/) como objeto do projeto. Esta página justifica a escolha a partir da comparação em [Sites avaliados](sites-avaliados.md), registra os aspectos que serão trabalhados nas oito etapas e aponta o planejamento e o relatório individuais já existentes — os dois PDFs padronizados que o professor pode abrir neste site.
 
 ## Identificação
 
@@ -17,10 +32,10 @@ O grupo selecionou o [Portal da Transparência do Distrito Federal](https://www.
 | Recorte inicial | Consulta pública a receitas, despesas e painéis de transparência |
 | Documentos padronizados | [Planejamento da avaliação](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório de avaliação](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
 
-<p class="caption">Tabela 1 — Identificação do site selecionado.</p>
+<p class="caption">Tabela 2 — Identificação do site selecionado.</p>
 <p class="source">Fonte: DISTRITO FEDERAL (2026); GONÇALVES DAS CHAGAS (2026).</p>
 
-A Tabela 1 identifica o portal e liga os dois documentos padronizados da inspeção individual.
+A Tabela 2 identifica o portal e liga os dois documentos padronizados da inspeção individual.
 
 <figure markdown="span">
   ![Página inicial do Portal da Transparência do DF, com o banner sobre participação e o painel do WAVE listando erros de acessibilidade.](../assets/img/sites/transparencia-wave.jpg)
@@ -65,17 +80,17 @@ Esses quatro eixos saem dos problemas P01 a P05 do relatório padronizado e cabe
 
 ## Planejamento e avaliação prévia
 
-A avaliação individual do Heitor usou inspeção heurística com apoio dos validadores ASES e WAVE. Esse material **não substitui** os artefatos do grupo; serve de ponto de partida. O que o grupo aproveita e o que será refeito no processo de design coletivo aparece na Tabela 2.
+A avaliação individual do Heitor usou inspeção heurística com apoio dos validadores ASES e WAVE. Esse material **não substitui** os artefatos do grupo; serve de ponto de partida. O que o grupo aproveita e o que será refeito no processo de design coletivo aparece na Tabela 3.
 
 | Fonte | O que oferece | Como o grupo usa | Documento padronizado |
 | --- | --- | --- | --- |
 | Planejamento DECIDE (Heitor, 2026) | Objetivos, perguntas e método de conformidade | Base para delimitar o recorte das etapas 2 a 4 | [PDF](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) |
 | Relatório de avaliação (Heitor, 2026) | Problemas de contraste, `alt`, rótulos e `target="_blank"` | Hipóteses a revalidar nas etapas 2 a 7 | [PDF](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
 
-<p class="caption">Tabela 2 — Aproveitamento do planejamento individual no projeto coletivo.</p>
+<p class="caption">Tabela 3 — Aproveitamento do planejamento individual no projeto coletivo.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A Tabela 2 deixa explícito que os dois PDFs padronizados permanecem acessíveis neste site e que o processo coletivo vai revalidar, e não copiar, a inspeção individual.
+A Tabela 3 deixa explícito que os dois PDFs padronizados permanecem acessíveis neste site e que o processo coletivo vai revalidar, e não copiar, a inspeção individual.
 
 <figure markdown="span">
   ![Painel do ASES com nota de acessibilidade 72,23 por cento e 77 erros, concentrados em marcação.](../assets/img/sites/transparencia-ases.jpg)
@@ -104,6 +119,7 @@ O plano de reprojeto individual já aponta correções verificáveis (atributos 
 | `0.1` | 04/09/2026 | Registro do domínio combinado e gancho para a justificativa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.0` | 05/09/2026 | Justificativa da escolha, recorte e PDFs padronizados | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Remove a tabela de contribuição e a pontuação numérica da justificativa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

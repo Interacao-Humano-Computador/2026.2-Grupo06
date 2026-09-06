@@ -2,6 +2,21 @@
 
 # Heatmap de disponibilidade
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Consolidação do heatmap e da janela sugerida de reunião | [Esta página](heatmap.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Grade inicial, faixas de horário e padronização | [Esta página](heatmap.md) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Introdução, referências e preenchimento da janela de reunião | [Esta página](heatmap.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Informou a própria disponibilidade para a consolidação | [Esta página](heatmap.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Informou a própria disponibilidade para a consolidação | [Esta página](heatmap.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
 O heatmap ou mapa de calor de disponibilidade é um instrumento visual preenchido pelo grupo com a finalidade de mapear os horários livres e ocupados de cada integrante ao longo de toda a semana [1].
@@ -51,6 +66,7 @@ Com base no heatmap, a janela recorrente sugerida prioriza os intervalos com val
 | `1.0` | 05/09/2026 | Inclusão do heatmap consolidado e de sua explicação | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Adição da introdução e padronização das referências no texto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.2` | 05/09/2026 | Citação bibliográfica e preenchimento da janela sugerida de reunião | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

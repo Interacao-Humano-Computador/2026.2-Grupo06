@@ -2,6 +2,20 @@
 
 # Verificação
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Criação da seção de verificação | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Revisão desta seção | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a organização da verificação da etapa | [Lista da Etapa 1](grupo-06/etapa-1/lista-verificacao.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a organização da verificação da etapa | [Lista da Etapa 1](grupo-06/etapa-1/lista-verificacao.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a organização da verificação da etapa | [Lista da Etapa 1](grupo-06/etapa-1/lista-verificacao.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
@@ -20,6 +34,7 @@ A seção está organizada em dois grupos:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 05/09/2026 | Criação do índice de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

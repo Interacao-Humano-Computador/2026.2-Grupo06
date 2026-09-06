@@ -2,7 +2,22 @@
 
 # Apresentações
 
-Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo.
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Modelo inicial do índice | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Autor de artefato a ser apresentado na Etapa 1 | [Ferramentas](../entrega-1/ferramentas.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Autor de artefato a ser apresentado na Etapa 1 | [Processo de Design](../entrega-1/processo-design.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Autor de artefato a ser apresentado na Etapa 1 | [Cronograma](../entrega-1/cronograma.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo. A Tabela 2 organiza esses vídeos.
 
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
@@ -16,7 +31,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | 8 | 24/11/2026 | — | — | — |
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
-<p class="caption">Tabela 1 — Vídeos de apresentação do projeto.</p>
+<p class="caption">Tabela 2 — Vídeos de apresentação do projeto.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
@@ -24,6 +39,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Índice das apresentações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `0.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
