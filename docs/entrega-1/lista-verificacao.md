@@ -43,7 +43,7 @@ A Tabela 2 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
 | 7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md) |
 | 8 | A gravação da reunião do grupo? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#gravacao) |
 | 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Incompleto | `v1.0` — 05/09/2026 às 21:00 | [Apresentação](../apresentacoes/etapa-01.md) (Previsto no cronograma) |
-| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Apresentação da Etapa 1](../apresentacoes/etapa-01.md) |
+| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.5` — 05/09/2026 às 21:55 | Início de cada artefato e [Apresentação da Etapa 1](../apresentacoes/etapa-01.md) |
 | 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#agradecimentos) |
 
 <p class="caption">Tabela 2 — Itens de desenvolvimento da Entrega 1.</p>
@@ -70,6 +70,7 @@ A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 | `1.2` | 05/09/2026 | Aponta a tabela de contribuição para o Planejamento da Entrega 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.3` | 05/09/2026 | Preenchimento dos itens concluídos da lista de verificação da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/09/2026 | Adição do atributo de Versão, data e hora da avaliação e alinhamento com a lista oficial | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 05/09/2026 | Atualiza o item 10 para a tabela no início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

@@ -2,6 +2,21 @@
 
 # Como contribuir
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Fluxo de publicação no GitHub Pages | [Esta página](como-contribuir.md) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão deste fluxo | [Esta página](como-contribuir.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição da infraestrutura na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
 Este guia é o caminho mais curto para publicar o próprio artefato sem quebrar o site.
@@ -69,6 +84,7 @@ Use nome e sobrenome reconhecíveis. O plano de ensino cobra isso para individua
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Fluxo de contribuição da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Atualização dos arquivos principais por integrante | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

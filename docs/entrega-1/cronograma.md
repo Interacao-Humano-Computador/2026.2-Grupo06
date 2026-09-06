@@ -2,11 +2,26 @@
 
 # Cronograma Planejado — IHC 2026.2
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado e do cronograma executado | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estrutura inicial das tabelas por etapa e padronização | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Introdução, legendas e redistribuição das tarefas da Etapa 1 | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Revisão prevista deste artefato no planejamento da etapa | [Esta página](cronograma.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Acompanhou a definição dos prazos na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
 O cronograma da equipe foi estabelecido com base nas datas e prazos definidos no plano de ensino da disciplina de Interação Humano-Computador [1].
 
-Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indicando os períodos de desenvolvimento, autores, períodos de revisão e respectivos revisores. Ao final, a Tabela 10 apresenta o cronograma executado com o andamento real das entregas.
+Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), indicando os períodos de desenvolvimento, autores, períodos de revisão e respectivos revisores. Ao final, a Tabela 11 apresenta o cronograma executado com o andamento real das entregas.
 
 > **Regra de revisão:** a revisão começa no mesmo dia em que a atividade termina e permanece prevista por 2 dias corridos. Exemplo: atividade com término em `05/09` → revisão em `05/09 - 06/09`.
 
@@ -34,7 +49,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 1 | 08/09 | 08/09 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 09/09 | 12/09 | Autores dos artefatos | 12/09 - 13/09 | Revisores correspondentes |
 
-<p class="caption">Tabela 1 — Cronograma planejado da Etapa 1 (Planejamento do Projeto).</p>
+<p class="caption">Tabela 2 — Cronograma planejado da Etapa 1 (Planejamento do Projeto).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
@@ -61,7 +76,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 2 | 29/09 | 29/09 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 30/09 | 02/10 | Autores dos artefatos | 02/10 - 03/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 2 — Cronograma planejado da Etapa 2 (Perfil do Usuário, Aspectos Éticos e Análise de Tarefas).</p>
+<p class="caption">Tabela 3 — Cronograma planejado da Etapa 2 (Perfil do Usuário, Aspectos Éticos e Análise de Tarefas).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 3 - Análise de Requisitos
@@ -85,7 +100,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 3 | 08/10 | 08/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 09/10 | 10/10 | Autores dos artefatos | 10/10 - 11/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 3 — Cronograma planejado da Etapa 3 (Análise de Requisitos).</p>
+<p class="caption">Tabela 4 — Cronograma planejado da Etapa 3 (Análise de Requisitos).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 4 - Planejamento das Avaliações
@@ -111,7 +126,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 4 | 15/10 | 15/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 16/10 | 18/10 | Autores dos artefatos | 18/10 - 19/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 4 — Cronograma planejado da Etapa 4 (Planejamento das Avaliações).</p>
+<p class="caption">Tabela 5 — Cronograma planejado da Etapa 4 (Planejamento das Avaliações).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 5 - Relatos e Planejamento do Protótipo de Papel
@@ -135,7 +150,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 5 | 27/10 | 27/10 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 28/10 | 29/10 | Autores dos artefatos | 29/10 - 30/10 | Revisores correspondentes |
 
-<p class="caption">Tabela 5 — Cronograma planejado da Etapa 5 (Relatos e Planejamento do Protótipo de Papel).</p>
+<p class="caption">Tabela 6 — Cronograma planejado da Etapa 5 (Relatos e Planejamento do Protótipo de Papel).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 6 - Protótipo de Papel e Planejamento da Alta Fidelidade
@@ -159,7 +174,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 6 | 05/11 | 05/11 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 06/11 | 08/11 | Autores dos artefatos | 08/11 - 09/11 | Revisores correspondentes |
 
-<p class="caption">Tabela 6 — Cronograma planejado da Etapa 6 (Protótipo de Papel e Planejamento da Alta Fidelidade).</p>
+<p class="caption">Tabela 7 — Cronograma planejado da Etapa 6 (Protótipo de Papel e Planejamento da Alta Fidelidade).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 7 - Avaliação do Protótipo de Alta Fidelidade
@@ -182,7 +197,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 7 | 17/11 | 17/11 | Todos | - | - |
 | Ajustes após considerações do professor/monitores | 18/11 | 19/11 | Autores dos artefatos | 19/11 - 20/11 | Revisores correspondentes |
 
-<p class="caption">Tabela 7 — Cronograma planejado da Etapa 7 (Avaliação do Protótipo de Alta Fidelidade).</p>
+<p class="caption">Tabela 8 — Cronograma planejado da Etapa 7 (Avaliação do Protótipo de Alta Fidelidade).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Etapa 8 - Verificação dos Artefatos
@@ -205,7 +220,7 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Apresentação da Etapa 8 | 24/11 | 24/11 | Todos | - | - |
 | Ajustes finais após considerações do professor/monitores | 25/11 | 27/11 | Autores dos artefatos | 27/11 - 28/11 | Revisores correspondentes |
 
-<p class="caption">Tabela 8 — Cronograma planejado da Etapa 8 (Verificação dos Artefatos).</p>
+<p class="caption">Tabela 9 — Cronograma planejado da Etapa 8 (Verificação dos Artefatos).</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Projeto Final
@@ -230,14 +245,14 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 1 a 9), indi
 | Edição e conferência final | 30/11 | 30/11 | Bruno Ferreira | 30/11 - 01/12 | Revisão cruzada |
 | Entrega do Projeto Final | 30/11 | 30/11 | Todos | - | - |
 
-<p class="caption">Tabela 9 — Cronograma planejado do Projeto Final.</p>
+<p class="caption">Tabela 10 — Cronograma planejado do Projeto Final.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 > Observação: após cada inspeção, o cronograma executado deve ser atualizado com as datas e responsáveis efetivos.
 
 ## Cronograma executado
 
-Esta tabela registra as atividades efetivamente realizadas, com suas datas e responsáveis reais. Ela deve ser atualizada após cada etapa do projeto.
+A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e responsáveis reais. Ela deve ser atualizada após cada etapa do projeto.
 
 | Atividade | Quem fez | Início real | Fim real | Observação |
 | --- | --- | :---: | :---: | --- |
@@ -255,7 +270,7 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | Gravação da apresentação | Todos | 05/09/2026 | 06/09/2026 | Concluída |
 | Edição e publicação do vídeo | Bruno Ferreira | 05/09/2026 | 06/09/2026 | Concluída |
 
-<p class="caption">Tabela 10 — Cronograma executado.</p>
+<p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
@@ -267,7 +282,8 @@ Esta tabela registra as atividades efetivamente realizadas, com suas datas e res
 | `0.3` | 04/09/2026 | Início e fim separados; revisores da Etapa 1 em rodízio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Preenchimento do cronograma executado da Etapa 1 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Adição da introdução, legendas e redistribuição de tarefas da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.2` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

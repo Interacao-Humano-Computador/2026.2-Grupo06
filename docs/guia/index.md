@@ -2,9 +2,26 @@
 
 # Padrões do projeto
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Índice dos contratos do GitHub Pages | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão da ordem mínima dos artefatos | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Revisão anterior deste índice | [Esta página](index.md) | [Ata 01](../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a definição dos padrões na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota cortada em histórico de versão, autoria, legendas e referências.
 
 ## O que reutilizar
+
+A Tabela 2 lista os contratos que o grupo reutiliza.
 
 | Padrão | Para que serve | Página |
 | --- | --- | --- |
@@ -14,17 +31,18 @@ Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota c
 | Acessibilidade | Contraste, texto e imagens | [Acessibilidade](acessibilidade.md) |
 | Fluxo de publicação | Branch, commit e o que não esquecer | [Como contribuir](como-contribuir.md) |
 
-<p class="caption">Tabela 1 — Contratos que o grupo reutiliza em todas as entregas.</p>
+<p class="caption">Tabela 2 — Contratos que o grupo reutiliza em todas as entregas.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Ordem mínima de um artefato
 
-1. Introdução
-2. Conteúdo, com figuras e tabelas nomeadas
-3. Histórico de versão
-4. Referências
+1. Tabela de contribuição, com todos os integrantes, atividade e gravação, se houver
+2. Introdução
+3. Conteúdo, com figuras e tabelas nomeadas
+4. Histórico de versão
+5. Referências
 
-A tabela de contribuição da etapa fica na página da apresentação da etapa — na Entrega 1, na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
+A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
 
 ## Histórico de versão
 
@@ -33,6 +51,7 @@ A tabela de contribuição da etapa fica na página da apresentação da etapa �
 | `1.0` | 04/09/2026 | Publicação dos padrões da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Tira a tabela de contribuição da ordem mínima de cada página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -2,13 +2,28 @@
 
 # Lista de verificação — Etapa 1
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento e atualização da lista da Etapa 1 | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Transposição inicial da lista oficial e revisão | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e atributo de versão, data e hora | [Esta página](lista-verificacao.md) | [Ata 01](../../../atas/ata-01.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Responsável pelo item de Processo de Design nesta lista | [Processo de Design](../../../entrega-1/processo-design.md) | [Ata 01](../../../atas/ata-01.md) |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Responsável pelos itens de cronograma e heatmap nesta lista | [Cronograma](../../../entrega-1/cronograma.md) | [Ata 01](../../../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
 Este artefato reúne a lista de verificação da Entrega 1, elaborada com base nos critérios definidos pelo professor André Barros no plano de ensino [1]. Use esta página no ensaio da apresentação e na autoavaliação para garantir que todos os requisitos estejam atendidos antes da entrega. Conforme a rubrica da disciplina, cada item registra a resposta (**Sim**, **Não** ou **Incompleto**), a **versão, data e hora da avaliação** e a respectiva **evidência** no repositório.
 
 ## Itens do planejamento geral
 
-A Tabela 1 apresenta a avaliação dos itens de planejamento geral exigidos para a Entrega 1.
+A Tabela 2 apresenta a avaliação dos itens de planejamento geral exigidos para a Entrega 1.
 
 | # | Questão: O GitHub Pages possui… | Resposta | Versão, data e hora da avaliação | Evidência |
 | :---: | --- | :---: | :---: | --- |
@@ -22,12 +37,12 @@ A Tabela 1 apresenta a avaliação dos itens de planejamento geral exigidos para
 | 8 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Cronograma](../../../entrega-1/cronograma.md) |
 | 9 | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Atas](../../../atas/index.md) |
 
-<p class="caption">Tabela 1 — Itens de planejamento geral da Entrega 1.</p>
+<p class="caption">Tabela 2 — Itens de planejamento geral da Entrega 1.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
 ## Itens de desenvolvimento do projeto
 
-A Tabela 2 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
+A Tabela 3 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
 
 | # | Questão: O GitHub Pages possui… | Resposta | Versão, data e hora da avaliação | Evidência |
 | :---: | --- | :---: | :---: | --- |
@@ -39,23 +54,23 @@ A Tabela 2 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
 | 6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Cronograma executado](../../../entrega-1/cronograma.md#cronograma-executado) |
 | 7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../../../atas/ata-01.md) |
 | 8 | A gravação da reunião do grupo? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../../../atas/ata-01.md#gravacao) |
-| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Sim | `v1.3` — 05/09/2026 às 22:15 | [Apresentação](../../../apresentacoes/etapa-01.md) |
-| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Apresentação da Etapa 1](../../../apresentacoes/etapa-01.md) |
+| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Sim | `v1.6` — 05/09/2026 às 22:15 | [Apresentação](../../../apresentacoes/etapa-01.md) |
+| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.5` — 05/09/2026 às 21:55 | Início de cada artefato e [Apresentação da Etapa 1](../../../apresentacoes/etapa-01.md) |
 | 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../../../atas/ata-01.md#agradecimentos) |
 
-<p class="caption">Tabela 2 — Itens de desenvolvimento da Entrega 1.</p>
+<p class="caption">Tabela 3 — Itens de desenvolvimento da Entrega 1.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
 ## Itens de conteúdo da disciplina
 
-A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 1.
+A Tabela 4 apresenta os itens de conteúdo da disciplina verificados na Entrega 1.
 
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor(es) / Evidência |
 | :---: | --- | :---: | :---: | --- |
 | 1 | A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es) | Sim | `v1.0` — 05/09/2026 às 21:00 | [Israel Soares de Paiva](../../../entrega-1/processo-design.md) |
 | 2 | Todos os integrantes da equipe devem elaborar itens de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência e o nome do autor do item. Cada item deve ter o(s) autor(es) do item. Quantos mais item melhor. | Sim | `v1.2` — 05/09/2026 às 21:00 | [Processo de Design](../../../entrega-1/processo-design.md), [Ferramentas](../../../entrega-1/ferramentas.md), [Heatmap](../../../entrega-1/heatmap.md) e [Sites avaliados](../../../entrega-1/sites-avaliados.md) |
 
-<p class="caption">Tabela 3 — Itens de conteúdo da disciplina na Entrega 1.</p>
+<p class="caption">Tabela 4 — Itens de conteúdo da disciplina na Entrega 1.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
 ## Histórico de versão
@@ -67,7 +82,8 @@ A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 | `1.2` | 05/09/2026 | Remoção da tabela de contribuição, renumeração das tabelas e atualização dos responsáveis | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 05/09/2026 | Preenchimento dos itens concluídos da lista de verificação da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/09/2026 | Adição do atributo de Versão, data e hora da avaliação e alinhamento com a lista oficial | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.5` | 05/09/2026 | Atualização do status do vídeo de apresentação para concluído | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.6` | 05/09/2026 | Atualização do status do vídeo de apresentação para concluído | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

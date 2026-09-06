@@ -2,15 +2,30 @@
 
 # Sites avaliados
 
+## Tabela de contribuição
+
+A Tabela 1 registra quem fez o quê neste artefato.
+
+| Integrante | Contribuição | Artefato / atividade | Gravação |
+| --- | --- | --- | --- |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação da lista de candidatos e inspeção individual do LexML | [Esta página](sites-avaliados.md), [planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) e [relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) | [Ata 01](../atas/ata-01.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inspeção individual do Portal da Transparência do DF e revisão desta página | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) e [relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) | Não se aplica |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inspeção individual do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) e [relatório](../assets/docs/sites/03_Bruno_Dornelas_Relatorio_Avaliacao_Unai.pdf) | Não se aplica |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE e inspeção do Senado | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) e [planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) | Não se aplica |
+| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Acompanhou a comparação dos candidatos na reunião de planejamento | [Ata 01](../atas/ata-01.md) | [Ata 01](../atas/ata-01.md) |
+
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Introdução
 
 Na Entrega 1, o grupo precisava apresentar os sites considerados antes de justificar o objeto do semestre. Quatro integrantes concluíram o planejamento e a avaliação individuais de um portal governamental, com o framework DECIDE e avaliação heurística. Este artefato reúne esses candidatos e disponibiliza, para cada site, os **dois documentos padronizados** — planejamento e relatório — para consulta do professor.
 
-O objeto já combinado pelo grupo é o **Portal da Transparência do Distrito Federal**. Os demais candidatos existem para mostrar que a escolha foi comparada, e não assumida. A justificativa final está em [Site escolhido](site-escolhido.md). A contribuição de cada integrante nesta etapa está na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
+O objeto já combinado pelo grupo é o **Portal da Transparência do Distrito Federal**. Os demais candidatos existem para mostrar que a escolha foi comparada, e não assumida. A justificativa final está em [Site escolhido](site-escolhido.md).
 
 ## Sites e documentos padronizados
 
-A Tabela 1 lista o site inspecionado por cada integrante e os dois PDFs padronizados correspondentes. Os arquivos são a versão entregue na atividade individual, já padronizada, e abrem neste site.
+A Tabela 2 lista o site inspecionado por cada integrante e os dois PDFs padronizados correspondentes. Os arquivos são a versão entregue na atividade individual, já padronizada, e abrem neste site.
 
 | Site | Endereço | Integrante | Planejamento | Relatório / segundo documento |
 | --- | --- | --- | --- | --- |
@@ -19,10 +34,10 @@ A Tabela 1 lista o site inspecionado por cada integrante e os dois PDFs padroniz
 | LexML Brasil | <https://www.lexml.gov.br/> | Caio Breno de Souza Bezerra | [PDF](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) | [PDF](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) |
 | Portal do Senado Federal | <https://www12.senado.leg.br/> | Israel Soares de Paiva | [PDF](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) | [PDF](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
 
-<p class="caption">Tabela 1 — Candidatos, responsáveis e documentos padronizados.</p>
+<p class="caption">Tabela 2 — Candidatos, responsáveis e documentos padronizados.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A Tabela 1 concentra o acesso aos oito PDFs. Luis Henrique Arruda Luna não produziu inspeção individual de um quinto portal; o grupo trabalhou com os quatro candidatos acima.
+A Tabela 2 concentra o acesso aos oito PDFs. Luis Henrique Arruda Luna não produziu inspeção individual de um quinto portal; o grupo trabalhou com os quatro candidatos acima.
 
 ## Método das inspeções individuais
 
@@ -60,7 +75,7 @@ A dor principal é o acesso de pessoas que usam tecnologias assistivas a receita
 </figure>
 <p class="source">Fonte: GONÇALVES DAS CHAGAS (2026); DISTRITO FEDERAL (2026).</p>
 
-A Figura 2 mostra a página inicial no momento da inspeção. Os documentos padronizados estão na Tabela 1.
+A Figura 2 mostra a página inicial no momento da inspeção. Os documentos padronizados estão na Tabela 2.
 
 ## Portal da Prefeitura Municipal de Unaí
 
@@ -82,7 +97,7 @@ A dor principal são interrupções não pedidas no primeiro acesso. O site **n�
 </figure>
 <p class="source">Fonte: DORNELAS (2026); PREFEITURA MUNICIPAL DE UNAÍ (2026).</p>
 
-A Figura 3 apresenta a homepage depois do fechamento do painel automático. Os dois PDFs padronizados estão na Tabela 1.
+A Figura 3 apresenta a homepage depois do fechamento do painel automático. Os dois PDFs padronizados estão na Tabela 2.
 
 ## LexML Brasil
 
@@ -106,7 +121,7 @@ A dor principal é a linguagem da pesquisa avançada e a escolha entre versões 
 </figure>
 <p class="source">Fonte: BEZERRA (2026); LEXML BRASIL (2026).</p>
 
-A Figura 4 mostra a busca da página inicial, ponto de partida das tarefas T1 a T3. Os dois PDFs padronizados estão na Tabela 1.
+A Figura 4 mostra a busca da página inicial, ponto de partida das tarefas T1 a T3. Os dois PDFs padronizados estão na Tabela 2.
 
 ## Portal do Senado Federal
 
@@ -127,7 +142,7 @@ A dor principal é a arquitetura de informação da homepage. O site **não** se
 </figure>
 <p class="source">Fonte: PAIVA (2026); SENADO FEDERAL (2026).</p>
 
-A Figura 5 ilustra a densidade de seções e atalhos da homepage. Os dois PDFs padronizados estão na Tabela 1.
+A Figura 5 ilustra a densidade de seções e atalhos da homepage. Os dois PDFs padronizados estão na Tabela 2.
 
 ## Síntese da comparação
 
@@ -147,6 +162,7 @@ O detalhamento da escolha está em [Site escolhido](site-escolhido.md).
 | `0.1` | 04/09/2026 | Modelo da lista | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.0` | 05/09/2026 | Lista dos quatro candidatos e PDFs padronizados | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Remove pontuação numérica e a tabela de contribuição da página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
