@@ -17,22 +17,63 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Este artefato reúne a lista de verificação da Entrega 1 referente à avaliação do Grupo 07, elaborada com base nos critérios definidos pelo plano de ensino [1].
 
-## Itens verificados
+## Itens do planejamento geral
 
-A Tabela 2 apresenta a avaliação dos itens exigidos para a Entrega 1.
+A Tabela 2 apresenta a avaliação dos itens de planejamento geral exigidos para a Entrega 1.
 
 | # | Questão: O GitHub Pages possui... | Resposta | Versão, data e hora da avaliação |
 | :---: | --- | :---: | :---: |
-| 1 |  |  |  |
+| 1 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | | 07/09/2026 às 09:20 |
+| 2 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | | 07/09/2026 às 09:20 |
+| 3 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | | 07/09/2026 às 09:20 |
+| 4 | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | | 07/09/2026 às 09:20 |
+| 5 | A motivação e os critérios para a escolha do site? | | 07/09/2026 às 09:20 |
+| 6 | O planejamento e avaliação dos sites selecionados? | | 07/09/2026 às 09:20 |
+| 7 | Possui opção de contraste de cores? | | 07/09/2026 às 09:20 |
+| 8 | Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | | 07/09/2026 às 09:20 |
+| 9 | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | | 07/09/2026 às 09:20 |
 
-<p class="caption">Tabela 2 — Verificação dos itens da Entrega 1.</p>
+<p class="caption">Tabela 2 — Verificação dos itens de planejamento geral.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+## Itens de desenvolvimento do projeto
+
+A Tabela 3 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
+
+| # | Questão: O GitHub Pages possui... | Resposta | Versão, data e hora da avaliação |
+| :---: | --- | :---: | :---: |
+| 1 | O histórico de versão padronizado? | | 07/09/2026 às 09:20 |
+| 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | | 07/09/2026 às 09:20 |
+| 3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | | 07/09/2026 às 09:20 |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | | 07/09/2026 às 09:20 |
+| 5 | Um texto fazendo uma introdução dos artefatos? | | 07/09/2026 às 09:20 |
+| 6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | | 07/09/2026 às 09:20 |
+| 7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | | 07/09/2026 às 09:20 |
+| 8 | A gravação da reunião do grupo? | | 07/09/2026 às 09:20 |
+| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | | 07/09/2026 às 09:20 |
+| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | | 07/09/2026 às 09:20 |
+| 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | | 07/09/2026 às 09:20 |
+
+<p class="caption">Tabela 3 — Verificação dos itens de desenvolvimento.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+## Itens de conteúdo da disciplina
+
+A Tabela 4 apresenta os itens de conteúdo da disciplina verificados na Entrega 1.
+
+| # | Item | Resposta | Versão, data e hora da avaliação |
+| :---: | --- | :---: | :---: |
+| 1 | A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es) | | 07/09/2026 às 09:20 |
+| 2 | Todos os integrantes da equipe devem elaborar itens de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência e o nome do autor do item. Cada item deve ter o(s) autor(es) do item. Quantos mais item melhor. | | 07/09/2026 às 09:20 |
+
+<p class="caption">Tabela 4 — Verificação dos itens de conteúdo da disciplina.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 07/09/2026 | Criação da estrutura da lista de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
+| `1.0` | 07/09/2026 | Criação da estrutura da lista de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -33,7 +33,7 @@ Esta seção apresenta os resultados da inspeção dos artefatos produzidos pelo
 | `1.0` | 05/09/2026 | Criação do índice de verificação do Grupo 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Remoção da tabela de contribuição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.3` | 07/09/2026 | Adição do link para a verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
+| `1.3` | 07/09/2026 | Adição do link para a verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
