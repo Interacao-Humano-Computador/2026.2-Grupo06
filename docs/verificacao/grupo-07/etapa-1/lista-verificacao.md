@@ -82,8 +82,8 @@ A Tabela 4 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 
 | # | Item | Resposta | Versão, data e hora da avaliação |
 | :---: | --- | :---: | :---: |
-| 1 | A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es) | | 07/09/2026 às 09:20 |
-| 2 | Todos os integrantes da equipe devem elaborar itens de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência e o nome do autor do item. Cada item deve ter o(s) autor(es) do item. Quantos mais item melhor. | | 07/09/2026 às 09:20 |
+| 1 | A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es) | Sim | 07/09/2026 às 09:20 |
+| 2 | Todos os integrantes da equipe devem elaborar itens de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência e o nome do autor do item. Cada item deve ter o(s) autor(es) do item. Quantos mais item melhor. | Não | 07/09/2026 às 09:20 |
 
 <p class="caption">Tabela 4 — Verificação dos itens de conteúdo da disciplina.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
