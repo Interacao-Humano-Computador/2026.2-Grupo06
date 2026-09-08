@@ -1,7 +1,7 @@
 name: "🔍 Revisão por Pares / Inspeção"
 description: "Registrar a revisão formal e inspeção de um artefato realizada por um integrante revisor."
-title: "[Etapa X] Revisão: Nome do Artefato"
-labels: ["revisão"]
+title: "[Entrega X] Revisão: Nome do Artefato"
+labels: ["Tipo: Verificação"]
 body:
   - type: markdown
     attributes:
@@ -15,14 +15,14 @@ body:
       label: "Etapa do Projeto"
       description: "Selecione a etapa do artefato avaliado:"
       options:
-        - "Etapa 1 - Planejamento do Projeto"
-        - "Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
-        - "Etapa 3 - Análise de Requisitos"
-        - "Etapa 4 - Planejamento da Avaliação e Storyboard"
-        - "Etapa 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
-        - "Etapa 6 - Verificação e Protótipo de Alta Fidelidade"
-        - "Etapa 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
-        - "Etapa 8 - Verificação dos Artefatos Finais"
+        - "Entrega 1 - Planejamento do Projeto"
+        - "Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
+        - "Entrega 3 - Análise de Requisitos"
+        - "Entrega 4 - Planejamento da Avaliação e Storyboard"
+        - "Entrega 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
+        - "Entrega 6 - Verificação e Protótipo de Alta Fidelidade"
+        - "Entrega 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
+        - "Entrega 8 - Verificação dos Artefatos Finais"
         - "Entrega Final"
     validations:
       required: true

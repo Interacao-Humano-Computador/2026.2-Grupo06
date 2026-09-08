@@ -1,7 +1,7 @@
 name: "⚙️ Infraestrutura, Gestão e Mídia"
 description: "Demandas de infraestrutura do site MkDocs, atas de reunião, gravação/edição de vídeos e planejamento."
 title: "[Gestão/Infra] Nome da Demanda"
-labels: ["infraestrutura"]
+labels: ["Tipo: Infraestrutura"]
 body:
   - type: markdown
     attributes:

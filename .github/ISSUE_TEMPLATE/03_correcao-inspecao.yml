@@ -1,7 +1,7 @@
 name: "🛠️ Correção pós-Feedback / Inspeção"
 description: "Registrar ajustes e correções solicitados pelo professor, monitores ou inspeção do Grupo +1."
-title: "[Etapa X] Correção: Nome do Artefato / Problema"
-labels: ["correção", "melhoria"]
+title: "[Entrega X] Correção: Nome do Artefato / Problema"
+labels: ["Tipo: Correção"]
 body:
   - type: markdown
     attributes:
@@ -15,14 +15,14 @@ body:
       label: "Etapa de Origem do Artefato"
       description: "Selecione a etapa à qual o artefato original pertence:"
       options:
-        - "Etapa 1 - Planejamento do Projeto"
-        - "Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
-        - "Etapa 3 - Análise de Requisitos"
-        - "Etapa 4 - Planejamento da Avaliação e Storyboard"
-        - "Etapa 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
-        - "Etapa 6 - Verificação e Protótipo de Alta Fidelidade"
-        - "Etapa 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
-        - "Etapa 8 - Verificação dos Artefatos Finais"
+        - "Entrega 1 - Planejamento do Projeto"
+        - "Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
+        - "Entrega 3 - Análise de Requisitos"
+        - "Entrega 4 - Planejamento da Avaliação e Storyboard"
+        - "Entrega 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
+        - "Entrega 6 - Verificação e Protótipo de Alta Fidelidade"
+        - "Entrega 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
+        - "Entrega 8 - Verificação dos Artefatos Finais"
     validations:
       required: true
 
