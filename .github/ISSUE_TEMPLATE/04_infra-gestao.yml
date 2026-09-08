@@ -1,0 +1,73 @@
+name: "⚙️ Infraestrutura, Gestão e Mídia"
+description: "Demandas de infraestrutura do site MkDocs, atas de reunião, gravação/edição de vídeos e planejamento."
+title: "[Gestão/Infra] Nome da Demanda"
+labels: ["infraestrutura"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### ⚙️ Atividades Operacionais, de Gestão e Suporte
+        Utilize para tarefas que dão sustentação ao projeto, como pipelines de CI/CD, atas de reunião, organização de repositório e mídias.
+
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: "Categoria da Demanda"
+      options:
+        - "Infraestrutura / Tema MkDocs / GitHub Pages"
+        - "Gravação e Edição de Vídeo (Apresentação / Reunião)"
+        - "Redação e Publicação de Ata de Reunião"
+        - "Planejamento / Cronograma / Heatmap de Disponibilidade"
+        - "Gestão do Repositório (Branches, Labels, Milestones)"
+        - "Outro"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: responsavel
+    attributes:
+      label: "Responsável Principal"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: validador
+    attributes:
+      label: "Validador / Acompanhamento"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: "Detalhamento da Demanda"
+      description: "Explique o que precisa ser feito, ferramentas necessárias e critérios de sucesso."
+      placeholder: "Ex: Configurar plugin glightbox para expansão de imagens ou upload do vídeo da Etapa 2 no YouTube e inclusão do link na página de apresentações..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist_conclusao
+    attributes:
+      label: "Critérios de Conclusão"
+      options:
+        - label: "Tarefa executada conforme o planejado"
+          required: false
+        - label: "Links, mídias ou arquivos integrados à documentação em docs/"
+          required: false
+        - label: "'mkdocs build --strict' testado e validado sem erros"
+          required: false
+        - label: "Validador/equipe ciente da conclusão"
+          required: false

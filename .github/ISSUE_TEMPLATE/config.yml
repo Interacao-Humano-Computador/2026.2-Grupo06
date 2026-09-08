@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Guia de Contribuição do Projeto"
+    url: "https://interacao-humano-computador.github.io/2026.2-Grupo06/guia/como-contribuir/"
+    about: "Consulte as instruções de branch, padrão de commits, MkDocs e fluxo de revisão."
+  - name: "Padrão de Autoria e Versões"
+    url: "https://interacao-humano-computador.github.io/2026.2-Grupo06/guia/autoria-revisao-versoes/"
+    about: "Regras sobre autor vs. revisor, histórico de versões e tabela de contribuição."

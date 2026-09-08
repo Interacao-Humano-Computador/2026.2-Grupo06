@@ -9,6 +9,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Fluxo de publicação no GitHub Pages | [Edite só a sua página](como-contribuir.md#3-edite-so-a-sua-pagina) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Padronização de templates de issues e fluxo no GitHub | [Antes de abrir o pull request](como-contribuir.md#4-antes-de-abrir-o-pull-request) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -55,6 +56,7 @@ Imagens novas vão para `docs/assets/img/`, em pasta óbvia (`referencias/`, `eq
 
 ## 4. Antes de abrir o pull request
 
+- [ ] Abriu ou vinculou a [Issue](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/issues) correspondente do artefato ou tarefa
 - [ ] Copiou o [template](template-artefato.md)
 - [ ] Preencheu histórico, autor e revisor — revisor diferente do autor
 - [ ] Tabelas e figuras têm número, legenda, fonte e chamada no texto
@@ -68,7 +70,7 @@ git commit -m "docs: descreva o motivo da mudança"
 git push -u origin HEAD
 ```
 
-Abra o pull request no GitHub. O Caio ou o revisor do artefato faz o merge em `main`. O workflow publica o site sozinho.
+Abra o pull request no GitHub vinculando a issue correspondente (ex: `Closes #12`). O Caio ou o revisor do artefato faz o merge em `main`. O workflow publica o site sozinho.
 
 ## 5. Nomes no Git
 
@@ -81,6 +83,7 @@ Use nome e sobrenome reconhecíveis. O plano de ensino cobra isso para individua
 | `1.0` | 04/09/2026 | Fluxo de contribuição da infraestrutura | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 05/09/2026 | Atualização dos arquivos principais por integrante | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 08/09/2026 | Inclusão do vínculo com issues e padronização | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

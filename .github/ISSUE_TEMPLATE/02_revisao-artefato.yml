@@ -1,0 +1,107 @@
+name: "🔍 Revisão por Pares / Inspeção"
+description: "Registrar a revisão formal e inspeção de um artefato realizada por um integrante revisor."
+title: "[Etapa X] Revisão: Nome do Artefato"
+labels: ["revisão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🔍 Registro de Revisão por Pares
+        A revisão formal por pares comprova a atuação do revisor e garante a qualidade dos artefatos antes da entrega e apresentação.
+
+  - type: dropdown
+    id: etapa
+    attributes:
+      label: "Etapa do Projeto"
+      description: "Selecione a etapa do artefato avaliado:"
+      options:
+        - "Etapa 1 - Planejamento do Projeto"
+        - "Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
+        - "Etapa 3 - Análise de Requisitos"
+        - "Etapa 4 - Planejamento da Avaliação e Storyboard"
+        - "Etapa 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
+        - "Etapa 6 - Verificação e Protótipo de Alta Fidelidade"
+        - "Etapa 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
+        - "Etapa 8 - Verificação dos Artefatos Finais"
+        - "Entrega Final"
+    validations:
+      required: true
+
+  - type: input
+    id: artefato_ou_pr
+    attributes:
+      label: "Artefato ou Pull Request em Avaliação"
+      description: "Link do Pull Request ou caminho do arquivo no repositório:"
+      placeholder: "Ex: docs/entrega-2/aspectos-eticos.md ou PR #15"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: autor
+    attributes:
+      label: "Autor do Artefato"
+      description: "Quem produziu o conteúdo original:"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: revisor
+    attributes:
+      label: "Revisor Responsável"
+      description: "Quem executou a revisão técnica e metodológica (deve ser diferente do autor):"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist_inspecao
+    attributes:
+      label: "Itens Verificados na Inspeção"
+      description: "Marque os itens conferidos durante a leitura crítica do artefato:"
+      options:
+        - label: "O revisor é formalmente diferente do autor"
+          required: false
+        - label: "A Tabela de Contribuição no topo do arquivo reflete quem realmente atuou"
+          required: false
+        - label: "O Histórico de Versões foi atualizado com a data, descrição e revisor"
+          required: false
+        - label: "Todas as figuras e tabelas têm número, legenda, fonte e chamada no texto"
+          required: false
+        - label: "As referências bibliográficas seguem a ABNT e embasam o conteúdo teórico"
+          required: false
+        - label: "A estrutura textual e a clareza estão adequadas ao padrão da disciplina"
+          required: false
+        - label: "O site compila localmente ('mkdocs build --strict') sem quebras"
+          required: false
+
+  - type: textarea
+    id: observacoes_melhorias
+    attributes:
+      label: "Apontamentos, Dúvidas e Sugestões de Melhoria"
+      description: "Detalhe os problemas encontrados (erros gramaticais, links quebrados, falta de citações, inconsistências) ou pontos fortes identificados:"
+      placeholder: "1. Na Tabela 2, falta colocar a chamada no texto...\n2. O link da referência 2 está quebrado...\n3. Recomendo detalhar mais a justificativa da técnica X..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: veredito
+    attributes:
+      label: "Veredito da Revisão"
+      description: "Avaliação final do revisor para merge na branch main:"
+      options:
+        - "Aprovado (pronto para merge)"
+        - "Aprovado com ressalvas (ajustes pequenos a cargo do autor)"
+        - "Necessita correções substanciais (necessita nova rodada de revisão antes do merge)"
+    validations:
+      required: true

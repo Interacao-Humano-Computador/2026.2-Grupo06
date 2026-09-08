@@ -1,0 +1,108 @@
+name: "🛠️ Correção pós-Feedback / Inspeção"
+description: "Registrar ajustes e correções solicitados pelo professor, monitores ou inspeção do Grupo +1."
+title: "[Etapa X] Correção: Nome do Artefato / Problema"
+labels: ["correção", "melhoria"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🛠️ Correção e Ajuste Pós-Feedback
+        Utilize este modelo para registrar e rastrear alterações em artefatos que receberam apontamentos nas apresentações ou nas inspeções.
+
+  - type: dropdown
+    id: etapa
+    attributes:
+      label: "Etapa de Origem do Artefato"
+      description: "Selecione a etapa à qual o artefato original pertence:"
+      options:
+        - "Etapa 1 - Planejamento do Projeto"
+        - "Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
+        - "Etapa 3 - Análise de Requisitos"
+        - "Etapa 4 - Planejamento da Avaliação e Storyboard"
+        - "Etapa 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
+        - "Etapa 6 - Verificação e Protótipo de Alta Fidelidade"
+        - "Etapa 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
+        - "Etapa 8 - Verificação dos Artefatos Finais"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: origem_feedback
+    attributes:
+      label: "Origem do Feedback"
+      description: "Onde o problema foi apontado?"
+      options:
+        - "Feedback da Apresentação Oficial (Professor / Monitores)"
+        - "Lista de Verificação do Grupo +1 (Inspeção Cruzada)"
+        - "Inspeção Interna do Grupo 06"
+    validations:
+      required: true
+
+  - type: input
+    id: artefato_afetado
+    attributes:
+      label: "Artefato(s) Afetado(s)"
+      description: "Caminho do arquivo ou seção:"
+      placeholder: "docs/entrega-1/cronograma.md"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: responsavel_correcao
+    attributes:
+      label: "Responsável pela Correção"
+      description: "Integrante encarregado de aplicar as correções:"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: revisor_correcao
+    attributes:
+      label: "Revisor da Correção"
+      description: "Quem validará a correção (diferente do responsável):"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao_problema
+    attributes:
+      label: "Problema Apontado / Oportunidade de Melhoria"
+      description: "Transcreva ou descreva os apontamentos feitos pelo avaliador:"
+      placeholder: "Ex: O professor apontou que faltou justificar a escolha do método de análise de tarefas com base na bibliografia recomendada..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: plano_acao
+    attributes:
+      label: "Ações Corretivas a Serem Executadas"
+      description: "O que será alterado para solucionar o apontamento?"
+      placeholder: "Ex: 1. Adicionar citação de Barbosa e Silva (2021) na seção 3;\n2. Detalhar as limitações do método escolhido;\n3. Atualizar a tabela de histórico de versão para 1.1."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist_correcao
+    attributes:
+      label: "Checklist de Validação da Correção"
+      options:
+        - label: "Alterações implementadas no artefato"
+          required: false
+        - label: "Histórico de versão incrementado (ex: 1.1 para ajustes ou 2.0 para mudanças estruturais)"
+          required: false
+        - label: "Revisor conferiu e aprovou a alteração realizada"
+          required: false
+        - label: "'mkdocs build --strict' compilado com sucesso localmente"
+          required: false

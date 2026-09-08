@@ -1,0 +1,104 @@
+name: "📄 Elaboração de Artefato"
+description: "Propor a criação ou elaboração de um novo artefato documental no projeto."
+title: "[Etapa X] Elaboração: Nome do Artefato"
+labels: ["documentação"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 📋 Registro de Elaboração de Artefato
+        Preencha os campos abaixo para garantir a rastreabilidade da disciplina de IHC e o cumprimento do cronograma planejado.
+
+  - type: dropdown
+    id: etapa
+    attributes:
+      label: "Etapa do Projeto"
+      description: "Selecione a etapa correspondente à entrega deste artefato:"
+      options:
+        - "Etapa 1 - Planejamento do Projeto"
+        - "Etapa 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas"
+        - "Etapa 3 - Análise de Requisitos"
+        - "Etapa 4 - Planejamento da Avaliação e Storyboard"
+        - "Etapa 5 - Relato da Avaliação do Storyboard e Protótipo de Papel"
+        - "Etapa 6 - Verificação e Protótipo de Alta Fidelidade"
+        - "Etapa 7 - Relato da Avaliação do Protótipo de Alta Fidelidade"
+        - "Etapa 8 - Verificação dos Artefatos Finais"
+        - "Entrega Final"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: autor
+    attributes:
+      label: "Autor Principal"
+      description: "Integrante responsável pela elaboração do artefato:"
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: input
+    id: coautores
+    attributes:
+      label: "Coautores (opcional)"
+      description: "Caso outros integrantes participem da elaboração, informe aqui seus nomes ou usuários do GitHub:"
+      placeholder: "Ex: Bruno Ferreira, Luis Henrique"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: revisor
+    attributes:
+      label: "Revisor Designado"
+      description: "⚠️ REGRA MANDATÓRIA: De acordo com o guia do projeto, o revisor NÃO pode ser o mesmo que o autor."
+      options:
+        - "Bruno Ferreira Dornelas"
+        - "Caio Breno de Souza Bezerra"
+        - "Heitor Pinheiro Gonçalves das Chagas"
+        - "Israel Soares de Paiva"
+        - "Luis Henrique Arruda Luna"
+    validations:
+      required: true
+
+  - type: input
+    id: arquivo
+    attributes:
+      label: "Caminho Planejado do Arquivo"
+      description: "Caminho do arquivo Markdown dentro da pasta docs/:"
+      placeholder: "docs/entrega-2/perfil-usuario.md"
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: "Descrição e Objetivos do Artefato"
+      description: "Descreva o propósito do artefato, as fontes ou metodologias que serão adotadas e o que será abordado."
+      placeholder: "Ex: Elaboração do questionário para elicitação do perfil de usuários do Portal da Transparência, definição de metas e análise dos dados coletados..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist_conformidade
+    attributes:
+      label: "Checklist de Qualidade e Conformidade (Guia do Projeto)"
+      description: "Critérios essenciais que devem ser cumpridos antes de solicitar o merge:"
+      options:
+        - label: "Criar o arquivo a partir do template oficial (docs/guia/template-artefato.md)"
+          required: false
+        - label: "Incluir a Tabela de Contribuição no início do artefato com links das seções"
+          required: false
+        - label: "Tabelas e figuras numeradas, com legendas, fontes e chamadas textuais (ABNT)"
+          required: false
+        - label: "Histórico de versão preenchido com autor(es) e revisor(es) distintos"
+          required: false
+        - label: "Citações e referências bibliográficas formatadas segundo a ABNT"
+          required: false
+        - label: "Adicionar o novo documento à estrutura de navegação em 'mkdocs.yml'"
+          required: false
+        - label: "Testar localmente com 'mkdocs build --strict' garantindo que não haja alertas nem links quebrados"
+          required: false
