@@ -50,6 +50,8 @@ A Tabela 1 registra quem atuou neste artefato.
 
 No texto: “A Figura N mostra…”.
 
+A partir de três capturas de tela no mesmo artefato, as imagens vão para um apêndice no fim da página e o corpo do texto fica só com a chamada. A regra e o modelo estão em [Onde a figura fica](figuras-tabelas-referencias.md#onde-a-figura-fica).
+
 <p class="caption">Tabela N — [Título da tabela].</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
