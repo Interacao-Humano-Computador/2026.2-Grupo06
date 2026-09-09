@@ -12,7 +12,7 @@ hide:
 
 # Grupo 06
 
-<p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal da Transparência do Distrito Federal.</p>
+<p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal do Senado Federal.</p>
 
 <p class="actions">
 <a class="btn btn-gold" href="entrega-1/cronograma/">Ver o planejamento</a>
@@ -21,10 +21,10 @@ hide:
 
 </div>
 
-<a class="subject" href="https://www.transparencia.df.gov.br/">
+<a class="subject" href="https://www12.senado.leg.br/">
   <span class="subject-kicker">Site avaliado</span>
-  <img src="assets/img/marca/portal.png" class="no-lightbox portal-mark" alt="Logotipo do Portal da Transparência do Distrito Federal">
-  <strong>Portal da Transparência do DF</strong>
+  <img src="assets/img/marca/senado.svg" class="no-lightbox brand-mark" alt="Logotipo do Senado Federal">
+  <strong>Portal do Senado Federal</strong>
   <span class="subject-go">Abrir o site oficial</span>
 </a>
 
@@ -127,9 +127,10 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Grupo 06 |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 09/09/2026 | Portal do Senado Federal como objeto do projeto e identidade visual institucional | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
-[1] DISTRITO FEDERAL. Portal da Transparência do Distrito Federal. Disponível em: https://www.transparencia.df.gov.br/. Acesso em: 4 set. 2026.
+[1] SENADO FEDERAL. Portal do Senado Federal. Disponível em: https://www12.senado.leg.br/. Acesso em: 9 set. 2026.
 
 [2] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.

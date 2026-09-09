@@ -21,8 +21,8 @@ A Tabela 1 concentra a contribuição da Entrega 1. Cada linha é uma atividade,
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento individual do Portal da Transparência do DF | [Planejamento](../assets/docs/sites/02_Heitor_Chagas_Planejamento_Avaliacao_IHC.pdf) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Relatório individual do Portal da Transparência do DF | [Relatório](../assets/docs/sites/01_Heitor_Chagas_Relatorio_Avaliacao_IHC.pdf) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Definição e justificativa do Processo de Design | [Processo escolhido](../entrega-1/processo-design.md#processo-escolhido) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento DECIDE | [DECIDE](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento da avaliação do Senado | [Planejamento](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento individual do Portal do Senado Federal | [Planejamento](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Avaliação individual do Portal do Senado Federal | [Avaliação](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atas e registro | [Atas](../atas/index.md#reunioes) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Vídeo da apresentação | [Vídeo](etapa-01.md#video) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento individual do portal de Unaí | [Planejamento](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) |
