@@ -1,20 +1,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap");
 
+/* Paleta institucional do Senado Federal.
+   Valores conferidos na folha de estilo de producao do portal
+   (senado_hpsenado-css-bundle.min.css): tertiary #00305C, secondary #005B9E,
+   primary #007DB8, destaque #FAA731, neutros #F1F1F1 e #C3C3C3. */
 :root {
   --ihc-width: 80rem;
-  --navy: #0a2342;
-  --navy-2: #12355c;
-  --ink: #102033;
-  --paper: #f3f6fa;
+  --navy: #00305c;
+  --navy-2: #005b9e;
+  --ink: #1b1b1b;
+  --paper: #f1f1f1;
   --card: #ffffff;
-  --line: #d5deea;
-  --mute: #4b5d73;
-  --cyan: #1aa6d6;
-  --cyan-deep: #0a5f8a;
-  --gold: #e8b80e;
-  --gold-ink: #3a2d00;
+  --line: #cccccc;
+  --mute: #4a5a6a;
+  --cyan: #007db8;
+  --cyan-deep: #005b9e;
+  --gold: #faa731;
+  --gold-ink: #3d2600;
   --photo-ring: #ffffff;
   --header: var(--navy);
+  --nav: #007db8;
   --text: var(--ink);
 }
 
@@ -82,7 +87,7 @@ html {
 }
 
 .md-header__button {
-  color: #f3f6fa;
+  color: #f1f1f1;
 }
 
 .md-header__button.md-logo {
@@ -100,7 +105,7 @@ html {
 
 .md-header__title,
 .md-header__topic {
-  color: #f3f6fa;
+  color: #f1f1f1;
 }
 
 .md-header__title {
@@ -154,7 +159,7 @@ html {
 .md-search__form {
   height: 2.3rem;
   border-radius: 0.45rem;
-  background: rgba(243, 246, 250, 0.12);
+  background: rgba(241, 241, 241, 0.14);
 }
 
 .md-header input[name="__palette"] {
@@ -169,7 +174,7 @@ html {
 }
 
 .md-tabs {
-  background: var(--navy);
+  background: var(--nav);
   border-bottom: 3px solid var(--gold);
 }
 
@@ -190,6 +195,11 @@ html {
 .md-tabs__link--active,
 .md-tabs__link:hover {
   color: #fff;
+}
+
+.md-tabs__item--active .md-tabs__link,
+.md-tabs__link--active {
+  box-shadow: inset 0 -3px 0 var(--gold);
 }
 
 .md-sidebar {
@@ -289,44 +299,45 @@ html {
 }
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #0a2342;
-  --md-primary-fg-color--light: #12355c;
-  --md-primary-fg-color--dark: #071628;
-  --md-accent-fg-color: #0a5f8a;
-  --md-accent-fg-color--transparent: rgba(26, 166, 214, 0.14);
-  --md-default-bg-color: #f3f6fa;
-  --md-default-fg-color: #102033;
-  --md-default-fg-color--light: #3a4d63;
-  --md-default-fg-color--lighter: #6a7d93;
-  --md-typeset-a-color: #0a5f8a;
-  --md-footer-bg-color: #0a2342;
-  --md-footer-bg-color--dark: #071628;
-  --md-code-bg-color: #e6edf5;
-  --md-code-fg-color: #102033;
+  --md-primary-fg-color: #00305c;
+  --md-primary-fg-color--light: #005b9e;
+  --md-primary-fg-color--dark: #002443;
+  --md-accent-fg-color: #005b9e;
+  --md-accent-fg-color--transparent: rgba(0, 125, 184, 0.12);
+  --md-default-bg-color: #f1f1f1;
+  --md-default-fg-color: #1b1b1b;
+  --md-default-fg-color--light: #3d4a56;
+  --md-default-fg-color--lighter: #6b7883;
+  --md-typeset-a-color: #005b9e;
+  --md-footer-bg-color: #00305c;
+  --md-footer-bg-color--dark: #002443;
+  --md-code-bg-color: #e6eef5;
+  --md-code-fg-color: #1b1b1b;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-hue: 214;
-  --md-primary-fg-color: #071628;
-  --md-accent-fg-color: #7dd3fc;
-  --md-default-bg-color: #0b1522;
-  --md-default-fg-color: #e8eef6;
-  --md-default-fg-color--light: #c5d2e2;
-  --md-typeset-a-color: #7dd3fc;
-  --md-footer-bg-color: #071628;
-  --md-code-bg-color: #152536;
-  --md-code-fg-color: #e8eef6;
-  --navy: #071628;
-  --navy-2: #10263d;
-  --ink: #e8eef6;
-  --paper: #0b1522;
-  --card: #122033;
-  --line: #2a3d55;
-  --mute: #b7c6d8;
-  --cyan: #7dd3fc;
-  --cyan-deep: #7dd3fc;
-  --photo-ring: #1a2d42;
-  --text: #e8eef6;
+  --md-hue: 208;
+  --md-primary-fg-color: #002443;
+  --md-accent-fg-color: #6ec6f0;
+  --md-default-bg-color: #071e33;
+  --md-default-fg-color: #eaf1f7;
+  --md-default-fg-color--light: #c3d3e0;
+  --md-typeset-a-color: #6ec6f0;
+  --md-footer-bg-color: #002443;
+  --md-code-bg-color: #10304c;
+  --md-code-fg-color: #eaf1f7;
+  --navy: #002443;
+  --navy-2: #00305c;
+  --ink: #eaf1f7;
+  --paper: #071e33;
+  --card: #0d2a44;
+  --line: #1d4468;
+  --mute: #b4c6d6;
+  --cyan: #6ec6f0;
+  --cyan-deep: #6ec6f0;
+  --photo-ring: #123a5c;
+  --nav: #00305c;
+  --text: #eaf1f7;
 }
 
 .a11y-tools {
@@ -345,7 +356,7 @@ html {
   border: 1.5px solid rgba(243, 246, 250, 0.38);
   border-radius: 999px;
   background: transparent;
-  color: #f3f6fa;
+  color: #f1f1f1;
   font: inherit;
   font-size: 0.86rem;
   font-weight: 700;
@@ -368,9 +379,9 @@ html {
   margin: 0 -1.2rem 1.6rem;
   padding: 2.8rem 1.6rem 2.2rem;
   background:
-    radial-gradient(ellipse 50% 80% at 90% 0%, rgba(26, 166, 214, 0.28), transparent 50%),
-    linear-gradient(160deg, #0a2342 0%, #12355c 100%);
-  color: #f3f6fa;
+    radial-gradient(ellipse 50% 80% at 90% 0%, rgba(0, 125, 184, 0.42), transparent 55%),
+    linear-gradient(160deg, #00305c 0%, #005b9e 100%);
+  color: #f1f1f1;
 }
 
 .splash-copy,
@@ -386,7 +397,7 @@ html {
   letter-spacing: 0.16em;
   font-size: 0.86rem;
   font-weight: 700;
-  color: #8ad8f0;
+  color: var(--gold);
 }
 
 .splash .headerlink {
@@ -407,7 +418,7 @@ html {
   margin: 0 0 1.5rem;
   font-size: clamp(1.15rem, 2vw, 1.35rem);
   line-height: 1.45;
-  color: #d7e6f4;
+  color: #d5e6f2;
 }
 
 .actions {
@@ -465,10 +476,13 @@ html {
   color: var(--gold);
 }
 
-.portal-mark {
-  width: min(100%, 22rem);
+/* Marca institucional do Senado no cartao do site avaliado.
+   O SVG oficial e branco, entao so aparece sobre fundo escuro. */
+.brand-mark {
+  width: min(100%, 17rem);
   height: auto;
   display: block;
+  margin: 0.2rem 0 0.1rem;
 }
 
 .subject strong {
@@ -477,7 +491,7 @@ html {
 }
 
 .subject-go {
-  color: #8ad8f0;
+  color: #9ecff0;
   font-weight: 700;
 }
 
@@ -534,14 +548,14 @@ html {
   background: var(--card);
   color: var(--ink) !important;
   text-decoration: none !important;
-  box-shadow: 0 8px 24px rgba(10, 35, 66, 0.05);
+  box-shadow: 0 8px 24px rgba(0, 48, 92, 0.06);
   transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
 }
 
 .tile:hover,
 .tile:focus-visible {
   border-color: var(--cyan);
-  box-shadow: 0 14px 32px rgba(10, 35, 66, 0.1);
+  box-shadow: 0 14px 32px rgba(0, 48, 92, 0.12);
   transform: translateY(-3px);
 }
 
@@ -596,7 +610,7 @@ html {
   display: block;
   margin: 0 auto 0.85rem;
   border: 4px solid var(--photo-ring);
-  box-shadow: 0 12px 28px rgba(10, 35, 66, 0.12);
+  box-shadow: 0 12px 28px rgba(0, 48, 92, 0.14);
 }
 
 .member p,
@@ -630,6 +644,8 @@ html {
 .md-typeset .caption,
 .md-typeset figcaption {
   display: block;
+  /* o tema limita a legenda a 24rem; a legenda acompanha a largura da figura */
+  max-width: 100%;
   font-size: 0.98rem;
   font-weight: 700;
   margin: 0.65rem 0 0.1rem;
@@ -687,7 +703,7 @@ html {
 
 .md-typeset table:not([class]) th {
   background: var(--navy);
-  color: #f3f6fa;
+  color: #f1f1f1;
   font-weight: 700;
 }
 
@@ -722,7 +738,7 @@ html {
   margin: 0 0 1rem;
   padding: 0.3rem 0.85rem;
   border-radius: 999px;
-  background: rgba(26, 166, 214, 0.16);
+  background: rgba(0, 125, 184, 0.14);
   color: var(--cyan);
   font-size: 0.86rem;
   font-weight: 750;
@@ -742,7 +758,7 @@ html {
 }
 
 .pill-wait {
-  background: rgba(232, 184, 14, 0.22);
+  background: rgba(250, 167, 49, 0.24);
   color: #6a5200;
 }
 
@@ -791,12 +807,12 @@ html {
 [data-md-color-scheme="slate"] .tile-num,
 [data-md-color-scheme="slate"] .owner,
 [data-md-color-scheme="slate"] .md-typeset a {
-  color: #7dd3fc;
+  color: #6ec6f0;
 }
 
 [data-md-color-scheme="slate"] .ihc-table {
-  background: #152238;
-  border-color: #2a3f5c;
+  background: #0d2a44;
+  border-color: #1d4468;
 }
 
 [data-md-color-scheme="slate"] .hm-l {
@@ -815,8 +831,8 @@ html {
 }
 
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
-  background: #12355c;
-  color: #f3f6fa;
+  background: #005b9e;
+  color: #f1f1f1;
 }
 
 [data-md-color-scheme="slate"] .pill-ok {
@@ -825,12 +841,13 @@ html {
 }
 
 [data-md-color-scheme="slate"] .pill-wait {
-  background: rgba(232, 184, 14, 0.2);
-  color: #f5d76a;
+  background: rgba(250, 167, 49, 0.22);
+  color: #f9c67d;
 }
 
 .md-footer {
   background: var(--navy);
+  border-top: 3px solid var(--gold);
 }
 
 .md-footer__title {
@@ -855,6 +872,7 @@ html {
 
 html.hc {
   color-scheme: dark;
+  --nav: #000;
   --navy: #000;
   --navy-2: #000;
   --ink: #fff;
