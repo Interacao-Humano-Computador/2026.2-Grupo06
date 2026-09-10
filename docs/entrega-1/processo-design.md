@@ -70,7 +70,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usuabilidade
 
 ### Por que este processo
 
-O Portal da Transparência do DF é um sistema que já está no ar e em uso real, não um produto sendo criado do zero. Isso muda o tipo de trabalho que o Grupo 06 precisa fazer: em vez de propor uma interface inédita, a tarefa é analisar como usuários reais tentam encontrar informações públicas (gastos, contratos, salários) na interface existente, e verificar onde ela falha em atender a esse objetivo. É exatamente esse cenário — avaliação de um sistema existente, com foco em requisitos de usabilidade bem definidos — que o modelo de Mayhew foi criado para atender, ao contrário do ciclo simples ou do ciclo em estrela, que pressupõem que o design ainda será construído do zero
+O Portal do Senado Federal é um sistema que já está no ar e em uso real, não um produto sendo criado do zero. Isso muda o tipo de trabalho que o Grupo 06 precisa fazer: em vez de propor uma interface inédita, a tarefa é analisar como usuários reais tentam encontrar informações e serviços públicos (a tramitação de um projeto de lei, os dados de um senador, um canal de participação) na interface existente, e verificar onde ela falha em atender a esse objetivo. É exatamente esse cenário — avaliação de um sistema existente, com foco em requisitos de usabilidade bem definidos — que o modelo de Mayhew foi criado para atender, ao contrário do ciclo simples ou do ciclo em estrela, que pressupõem que o design ainda será construído do zero
 
 ### Como vamos percorrê-lo
 
