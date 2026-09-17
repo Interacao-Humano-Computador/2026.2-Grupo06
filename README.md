@@ -24,7 +24,7 @@ Professor: André Barros de Sales.
 | Caio Breno de Souza Bezerra | [CaioBezerra-Dev](https://github.com/CaioBezerra-Dev) |
 | Heitor Pinheiro Gonçalves das Chagas | [Heitorovski01](https://github.com/Heitorovski01) |
 | Israel Soares de Paiva | [IsraelSoares-25](https://github.com/IsraelSoares-25) |
-| Luis Henrique Arruda Luna | [Donnk61](https://github.com/Donnk61) |
+| Luis Henrique Luna de Arruda | [Donnk61](https://github.com/Donnk61) |
 
 ## Identidade visual
 
