@@ -6,3 +6,7 @@
 *[ABNT]: Associação Brasileira de Normas Técnicas
 *[TCLE]: Termo de Consentimento Livre e Esclarecido
 *[DECIDE]: Framework de planejamento de avaliação de IHC
+*[HTA]: Hierarchical Task Analysis — Análise Hierárquica de Tarefas
+*[CTT]: ConcurTaskTrees — Árvore de Tarefas Concorrentes
+*[GOMS]: Goals, Operators, Methods and Selection Rules
+*[KLM]: Keystroke-Level Model

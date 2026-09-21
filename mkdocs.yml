@@ -117,6 +117,24 @@ nav:
       - Site escolhido: entrega-1/site-escolhido.md
       - Processo de Design: entrega-1/processo-design.md
       - Ferramentas: entrega-1/ferramentas.md
+  - Perfil de usuário:
+      - Artefatos do grupo:
+          - Aspectos éticos: entrega-2/etica.md
+          - Técnicas de coleta: entrega-2/tecnicas-coleta.md
+          - Perfil do usuário: entrega-2/perfil-usuario.md
+          - Elenco de personas: entrega-2/elenco-personas.md
+          - Cenários: entrega-2/cenarios.md
+          - Análise de tarefas: entrega-2/analise-tarefas.md
+      - Trabalhos individuais:
+          - Bruno Ferreira: entrega-2/individual/bruno.md
+          - Caio Breno:
+              - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
+              - Persona: entrega-2/individual/caio/persona.md
+              - Cenário: entrega-2/individual/caio/cenario.md
+              - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
+          - Heitor Pinheiro: entrega-2/individual/heitor.md
+          - Israel Soares: entrega-2/individual/israel.md
+          - Luis Henrique: entrega-2/individual/luis.md
   - Atas:
       - atas/index.md
       - Ata 01: atas/ata-01.md
