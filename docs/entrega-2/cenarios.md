@@ -55,7 +55,7 @@ A Tabela 3 reúne os cenários, um por integrante.
 | Integrante | Cenário | Ator |
 | --- | --- | --- |
 | Bruno Ferreira Dornelas | — | — |
-| Caio Breno de Souza Bezerra | [Levantamento das notícias do setor aeroespacial](individual/caio/cenario.md) | [Persona](individual/caio/persona.md) |
+| Caio Breno de Souza Bezerra | [A lista de “drone” mistura 2013 com 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) |
 | Heitor Pinheiro Gonçalves das Chagas | — | — |
 | Israel Soares de Paiva | — | — |
 | Luis Henrique Arruda Luna | — | — |
@@ -72,6 +72,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 21/09/2026 | Item de conteúdo sobre cenários, estrutura dos cenários e índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 24/09/2026 | Inclui o cenário de Renata Moreira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

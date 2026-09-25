@@ -622,6 +622,88 @@ html {
   overflow-wrap: break-word;
 }
 
+.persona-card {
+  display: grid;
+  grid-template-columns: 15rem 1fr;
+  gap: 1.4rem;
+  align-items: center;
+  margin: 1.2rem 0 0.4rem;
+  padding: 1.2rem 1.35rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--gold);
+  border-radius: 1.15rem;
+}
+
+.persona-card img {
+  width: 13.5rem;
+  height: 13.5rem;
+  max-width: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  border: 4px solid var(--photo-ring);
+  box-shadow: 0 12px 28px rgba(0, 48, 92, 0.14);
+}
+
+.persona-kicker {
+  margin: 0 0 0.25rem;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--cyan);
+}
+
+.persona-name {
+  margin: 0 0 0.2rem;
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--navy);
+}
+
+.persona-role {
+  margin: 0 0 0.7rem;
+  color: var(--mute);
+  font-weight: 600;
+}
+
+.persona-quote {
+  margin: 0;
+  padding-left: 0.85rem;
+  border-left: 3px solid var(--gold);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.session-video {
+  margin: 0.6rem 0 1.2rem;
+  border-radius: 0.8rem;
+  overflow: hidden;
+  background: #0a2342;
+  box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);
+}
+
+.session-video video {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 720px) {
+  .persona-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .persona-quote {
+    text-align: left;
+  }
+}
+
 .handle {
   display: block;
   margin-top: 0.15rem;
@@ -810,9 +892,19 @@ html {
   color: #6ec6f0;
 }
 
-[data-md-color-scheme="slate"] .ihc-table {
+[data-md-color-scheme="slate"] .ihc-table,
+[data-md-color-scheme="slate"] .persona-card {
   background: #0d2a44;
   border-color: #1d4468;
+  color: #e8eef6;
+}
+
+[data-md-color-scheme="slate"] .persona-name {
+  color: #e8eef6;
+}
+
+[data-md-color-scheme="slate"] .persona-role {
+  color: #b7c6d8;
 }
 
 [data-md-color-scheme="slate"] .hm-l {

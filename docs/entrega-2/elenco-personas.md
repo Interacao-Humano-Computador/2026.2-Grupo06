@@ -35,7 +35,7 @@ A Tabela 2 reúne as personas do grupo, uma por integrante. O status de cada uma
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
 | Bruno Ferreira Dornelas | — | — | — |
-| Caio Breno de Souza Bezerra | [Persona](individual/caio/persona.md) | Cidadão com consulta pontual | — |
+| Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que compila notícias do setor para um anuário | A definir |
 | Heitor Pinheiro Gonçalves das Chagas | — | — | — |
 | Israel Soares de Paiva | — | — | — |
 | Luis Henrique Arruda Luna | — | Servidor do Senado | — |
@@ -52,6 +52,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 21/09/2026 | Item de conteúdo sobre personas e estrutura do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 24/09/2026 | Inclui Renata Moreira e corrige o perfil depois da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

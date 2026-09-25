@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Identificação do cenário | [Identificação](cenario.md#identificacao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -24,9 +25,9 @@ A Tabela 2 identifica o cenário.
 
 | Campo | Registro |
 | --- | --- |
-| Título | Levantamento das notícias do setor aeroespacial para o anuário |
-| Ator | [Persona](persona.md) do perfil cidadão com consulta pontual |
-| Objetivo principal | Reunir as notícias do Senado sobre o setor aeroespacial publicadas no período do anuário |
+| Título | A lista de “drone” mistura 2013 com 2026 |
+| Ator | [Renata Moreira](persona.md), estagiária que compila notícias para um anuário |
+| Objetivo principal | Separar, no período do anuário, notícias do setor que valham ser salvas para a análise da equipe |
 | Tipo | Cenário de problema: situação atual, antes do reprojeto |
 | Sistema envolvido | Portal do Senado Federal, com foco nas notícias e na busca |
 | Tarefa modelada | [Análise de tarefas (HTA e CTT)](analise-tarefas.md) |
@@ -50,23 +51,39 @@ Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário pre
 
 ## Narrativa
 
-!!! info "A preencher após a sessão"
-    Narrativa com os elementos de Rosson e Carroll e as perguntas anotadas entre colchetes.
+A narrativa é um cenário de problema: conta a atividade como ela existe hoje, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). O número entre colchetes aponta a pergunta da lista acima, como no Exemplo 6.5 (p. 190). O caminho até a lista foi observado. Salvar, aprovar e mudar de site são o que ela descreveu como o passo seguinte, e não foram vistos nessa sessão.
+
+**A lista de “drone” mistura 2013 com 2026**
+
+Atores: Renata Moreira (estagiária)
+
+Numa semana em que a fonte da vez é o Senado, Renata precisa ver o que saiu no ano sobre a área espacial e as forças armadas para o anuário do órgão em que estagia [1]. O anuário sai uma vez por ano, fica público, e quem o lê depende do que a equipe aprovar [8]. Ela está no computador pessoal. No trabalho usa o da instituição. Abre o Google, pesquisa “Senado Federal” e entra no primeiro resultado [2]. Sabe que Senado Notícias está logo abaixo e serve quando quer o conjunto das notícias, mas, para um tema, o plano dela é a lupa do portal [2].
+
+Digita “drone”, a palavra do dia. As palavras de sempre são aeroespacial, aeronáutico, drone, foguete, avião, caça, jato e nomes de empresas. Se aparece uma sigla que ela não conhece, pesquisa no Google [3]. A busca devolve as abas Tudo, Notícias, Proposições, Pronunciamentos, Legislação e Vídeos. Ela abre Legislação, vê normas de 2026 em que a palavra aparece, e passa para Notícias [4]. Não mexe em “Classificar por” nem em Filtros. Percorre a lista e descarta no olho o que está fora do período. Um item de 05/07/2013 aparece entre itens de 14/04/2026 e de 26/03/2026 [4] [9].
+
+Chegar na lista foi fácil. A ordem é o difícil, e a abertura do portal, cheia de assuntos que não são do anuário, é a outra coisa que ela mudaria: um menu direto com os links de que precisa [9]. Notícia no período e no tema seria salva. Não entra direto no anuário: outras pessoas do órgão analisam e, se aprovarem, o texto é editado [5] [7]. Ela não tem como confirmar que achou tudo. O critério é o período; notícia antiga demais fica de fora [6]. Se o período não rende, busca em outro site ou encerra esta fonte naquela semana [6]. Notícia importante que escapa costuma chegar por outro veículo ou por rede social, e então entra na fila de aprovação [8]. Na demonstração, ela não salvou nenhuma notícia.
 
 ## Análise do cenário
 
-!!! info "A preencher após a sessão"
-    Pontos problemáticos revelados pela narrativa, que o reprojeto deve considerar.
+Como no Exemplo 6.4, estes pontos são problemáticos e o reprojeto precisa considerá-los (BARBOSA; SILVA, 2010, p. 185):
+
+- a página inicial mistura assuntos que não são da tarefa e atrasa quem já sabe aonde ir;
+- a lista da busca não vem em ordem cronológica, e Renata descarta a data no olho, embora “Classificar por” e “Filtros” estejam na tela;
+- a palavra-chave em Legislação devolve norma em que o termo só aparece de passagem;
+- não há sinal de que o período foi esgotado: o critério de parada é dela, não do portal;
+- salvar, aprovar e editar acontecem fora do portal. A tarefa no site termina quando a lista aparece.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa (Claude, da Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na transcrição do áudio da sessão e na formatação Markdown. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.2` | 24/09/2026 | Narrativa e análise do cenário a partir da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 
