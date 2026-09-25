@@ -70,6 +70,7 @@ A validação da persona fica por último para não influenciar as respostas nem
 - O TCLE é apresentado antes da sessão, e a participante e o entrevistador ficam cada um com uma via assinada (BARBOSA; SILVA, 2010, p. 141).
 - A permissão para gravar é pedida **antes** de a gravação começar (BARBOSA; SILVA, 2010, p. 140).
 - O primeiro termo previa só a gravação do áudio, sem publicação. Como a sessão foi gravada em vídeo e os vídeos foram publicados, o TCLE foi refeito para esta sessão: o novo termo descreve a gravação em vídeo, a publicação como não listado no YouTube e nesta página, e o risco de a voz ser reconhecida, e dá à participante a opção de recusar a publicação.
+- A participante e o entrevistador assinaram o TCLE pelo assinador do gov.br em 25/09/2026, e a participante autorizou a gravação em vídeo e a publicação. A [cópia do TCLE assinado](../../../assets/docs/tcle/tcle-caio-assinado.pdf) publicada aqui tem o nome da participante tarjado, como o próprio termo garante. O arquivo original, com as assinaturas digitais, fica com a participante e com o entrevistador.
 - Nenhuma informação interna ou sigilosa do trabalho da participante é coletada.
 - Nos vídeos publicados, o trecho em que a participante diz o nome foi retirado e a legenda com o nome foi coberta. Nome, órgão e cargo exato continuam fora do texto.
 - A participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento, sem prejuízo.
