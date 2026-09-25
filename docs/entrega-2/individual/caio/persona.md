@@ -24,12 +24,11 @@ Renata Moreira representa quem acompanha notícias e normas do setor aeroespacia
 Uma persona é um personagem fictício que representa um usuário típico, não a pessoa entrevistada (BARBOSA; SILVA, 2010, p. 176). O livro pede nome, idade e foto para ela ficar concreta, e manda deixar o passo a passo da tarefa para o [cenário](cenario.md) (p. 177). Só o nome e o retrato são inventados. O restante é o tipo que a [sessão](entrevista-observacao.md#resultados) revelou, escrito como no Exemplo 6.2 (p. 178), e não a transcrição do que ela disse naquele dia.
 
 <div class="persona-card">
-  <img src="../../../../assets/img/personas/renata-moreira.png" alt="Retrato fictício de uma mulher jovem, de cabelo escuro preso e blusa verde, usado como Renata Moreira.">
+  <img class="no-lightbox" src="../../../../assets/img/personas/renata-moreira.png" alt="Retrato fictício de uma mulher jovem, de cabelo escuro preso e blusa verde, usado como Renata Moreira.">
   <div>
     <p class="persona-kicker">Estagiária</p>
     <p class="persona-name">Renata Moreira</p>
     <p class="persona-role">24 anos · engenharia na área espacial · cerca de seis meses de estágio</p>
-    <p class="persona-quote">“As notícias aparecem amontoadas e não tem uma ordem nem cronológica nem de tema.”</p>
   </div>
 </div>
 
@@ -120,6 +119,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.4` | 24/09/2026 | Narrativa generalizada: a persona deixa de repetir o episódio da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `1.0` | 24/09/2026 | Validação registrada: a participante aprovou a persona sem correções | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `1.1` | 24/09/2026 | Vídeo da validação no YouTube, não listado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `1.2` | 24/09/2026 | Recoloca o retrato no cartão e tira a frase de destaque | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 

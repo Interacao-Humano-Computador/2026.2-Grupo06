@@ -622,7 +622,7 @@ html {
   overflow-wrap: break-word;
 }
 
-.persona-card {
+.md-typeset .persona-card {
   display: grid;
   grid-template-columns: 15rem 1fr;
   gap: 1.4rem;
@@ -635,10 +635,17 @@ html {
   border-radius: 1.15rem;
 }
 
-.persona-card img {
+.md-typeset .persona-card > a {
+  display: block;
+  width: 13.5rem;
+  margin-inline: auto;
+  line-height: 0;
+}
+
+.md-typeset .persona-card img {
   width: 13.5rem;
   height: 13.5rem;
-  max-width: 100%;
+  max-width: 13.5rem;
   object-fit: cover;
   object-position: center 20%;
   border-radius: 50%;
@@ -666,17 +673,9 @@ html {
 }
 
 .persona-role {
-  margin: 0 0 0.7rem;
+  margin: 0;
   color: var(--mute);
   font-weight: 600;
-}
-
-.persona-quote {
-  margin: 0;
-  padding-left: 0.85rem;
-  border-left: 3px solid var(--gold);
-  font-size: 1.05rem;
-  line-height: 1.45;
 }
 
 .session-video {
@@ -694,13 +693,9 @@ html {
 }
 
 @media (max-width: 720px) {
-  .persona-card {
+  .md-typeset .persona-card {
     grid-template-columns: 1fr;
     text-align: center;
-  }
-
-  .persona-quote {
-    text-align: left;
   }
 }
 
