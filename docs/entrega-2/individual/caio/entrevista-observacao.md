@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Roteiro da entrevista | [Roteiro](entrevista-observacao.md#roteiro-da-entrevista) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Protocolo de observação | [Observação](entrevista-observacao.md#protocolo-de-observacao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Atributos da participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -50,26 +51,27 @@ Definir os objetivos é o primeiro passo de uma coleta de dados, porque são ele
 3. observar a tarefa real no portal, para embasar o cenário e a análise de tarefas;
 4. identificar dificuldades, contornos e expectativas em relação ao portal.
 
-A Tabela 3 mostra a estrutura da sessão e o que cada parte produz.
+A Tabela 3 mostra a estrutura da sessão, o que cada parte produz e quanto cada uma durou de fato.
 
-| Parte | Atividade | Duração | Alimenta |
-| :---: | --- | :---: | --- |
-| — | Abertura: TCLE e permissão de gravação | 5 min | Aspectos éticos |
-| 1 | Entrevista semiestruturada | 20 min | Perfil, persona e cenário |
-| 2 | Observação da tarefa no ambiente da participante | 15 min | Cenário, HTA e CTT |
-| 3 | Validação da persona com a participante | 10 min | Persona |
+| Parte | Atividade | Duração prevista | Duração real | Alimenta |
+| :---: | --- | :---: | :---: | --- |
+| — | Abertura: TCLE e permissão de gravação | 5 min | — | Aspectos éticos |
+| 1 | Entrevista semiestruturada | 20 min | cerca de 9 min | Perfil, persona e cenário |
+| 2 | Observação da tarefa, com relato em voz alta | 15 min | cerca de 3 min | Cenário, HTA e CTT |
+| 3 | Validação da persona com a participante | 10 min | cerca de 3 min | Persona |
 
 <p class="caption">Tabela 3 — Estrutura da sessão.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A validação da persona fica por último para não influenciar as respostas nem o modo como a tarefa é executada. A sessão foi gravada em vídeo, com autorização. As duas gravações estão em [Resultados](entrevista-observacao.md#resultados), porque o quadro da etapa marca a coleta como item a gravar e a publicar no site. A participante usa o computador e o navegador que costuma usar no dia a dia.
+A validação da persona fica por último para não influenciar as respostas nem o modo como a tarefa é executada. O plano era a participante usar o computador e o navegador do dia a dia; na sessão, feita por videochamada, ela usou o computador pessoal. A sessão foi gravada em vídeo, com autorização, e as gravações estão em [Gravações](entrevista-observacao.md#gravacoes).
 
 ## Cuidados éticos
 
-- O TCLE é lido e assinado em duas vias antes do início, e uma via fica com a participante (BARBOSA; SILVA, 2010, p. 141).
-- A permissão para gravar o áudio é pedida **antes** de ligar o gravador e confirmada logo no início da gravação (BARBOSA; SILVA, 2010, p. 140).
+- O TCLE é apresentado antes da sessão, e a participante e o entrevistador ficam cada um com uma via assinada (BARBOSA; SILVA, 2010, p. 141).
+- A permissão para gravar é pedida **antes** de a gravação começar (BARBOSA; SILVA, 2010, p. 140).
+- O primeiro termo previa só a gravação do áudio, sem publicação. Como a sessão foi gravada em vídeo e os vídeos foram publicados, o TCLE foi refeito para esta sessão: o novo termo descreve a gravação em vídeo, a publicação como não listado no YouTube e nesta página, e o risco de a voz ser reconhecida, e dá à participante a opção de recusar a publicação.
 - Nenhuma informação interna ou sigilosa do trabalho da participante é coletada.
-- A gravação da entrevista e a da observação ficam nesta página, no YouTube, na categoria não listado. A legenda com o nome da participante foi coberta. Nome, órgão e cargo exato continuam fora do texto.
+- Nos vídeos publicados, o trecho em que a participante diz o nome foi retirado e a legenda com o nome foi coberta. Nome, órgão e cargo exato continuam fora do texto.
 - A participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento, sem prejuízo.
 - A participante vê como seus dados foram usados antes da publicação, na validação da persona (BARBOSA; SILVA, 2010, p. 140).
 
@@ -118,42 +120,48 @@ Cada passo registrado vira uma operação da HTA e uma tarefa da CTT na [anális
 
 ## Resultados
 
-A sessão aconteceu em 24/09/2026, por videochamada. A entrevista durou cerca de 9 minutos e a observação, cerca de 3. A participante usou o computador pessoal; no trabalho, usa o computador do órgão. As gravações estão abaixo. No arquivo da entrevista, a gravação já está em curso quando a participante é informada. O pedido de permissão anterior ao gravador, previsto no protocolo, não aparece nesse arquivo. Se ele ocorreu antes do corte, precisa constar do registro do TCLE.
+A sessão aconteceu em 24/09/2026, por videochamada. A entrevista durou cerca de 9 minutos e a observação, cerca de 3. A participante usou o computador pessoal; no trabalho, usa o computador do órgão. A permissão para gravar foi pedida e dada antes de a gravação começar. Esse trecho ficou fora do arquivo publicado, que começa com o aviso de que a gravação está em curso. A pergunta 3 do roteiro não foi feita separadamente: a resposta veio junto com a da pergunta 2 (“tem outros estagiários”).
 
 ### Gravações
 
-Categoria no YouTube: **não listado**. Data: 24/09/2026. A legenda com o nome da participante foi coberta.
+Categoria no YouTube: **não listado**. Data: 24/09/2026. O trecho em que a participante diz o nome foi retirado e a legenda com o nome foi coberta. O Vídeo 1 é a entrevista, e o Vídeo 2, a observação.
 
 - Entrevista: [https://youtu.be/bxmG_hs1soQ](https://youtu.be/bxmG_hs1soQ)
 - Observação: [https://youtu.be/c9ibBrYnL_Y](https://youtu.be/c9ibBrYnL_Y)
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-  <iframe
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/bxmG_hs1soQ"
-    title="Entrevista semiestruturada da sessão de coleta"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+??? note "Vídeo 1 — Entrevista semiestruturada"
 
-<p class="caption">Vídeo 1 — Entrevista semiestruturada.</p>
-<p class="source">Fonte: sessão de 24/09/2026.</p>
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/bxmG_hs1soQ"
+        title="Entrevista semiestruturada da sessão de coleta"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-  <iframe
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/c9ibBrYnL_Y"
-    title="Observação da tarefa no Portal do Senado"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-  </iframe>
-</div>
+    <p class="caption">Vídeo 1 — Entrevista semiestruturada.</p>
+    <p class="source">Fonte: sessão de 24/09/2026.</p>
 
-<p class="caption">Vídeo 2 — Observação da tarefa, com relato em voz alta.</p>
-<p class="source">Fonte: sessão de 24/09/2026.</p>
+??? note "Vídeo 2 — Observação da tarefa, com relato em voz alta"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/c9ibBrYnL_Y"
+        title="Observação da tarefa no Portal do Senado"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <p class="caption">Vídeo 2 — Observação da tarefa, com relato em voz alta.</p>
+    <p class="source">Fonte: sessão de 24/09/2026.</p>
 
 ### Síntese da entrevista
 
@@ -198,6 +206,36 @@ Na Figura 1, o item de 05/07/2013 aparece entre um item de 14/04/2026 e outro de
 - A sessão foi remota e no computador pessoal, não no ambiente de trabalho.
 - A observação durou cerca de 3 minutos e parou antes de salvar notícia. Salvar, aprovar e editar o anuário vêm da entrevista, não da observação.
 - O controle “Classificar por” estava visível e não foi usado. Não dá para afirmar que ela o procurou e não achou. O que ela fez foi filtrar a data no olho.
+- Por ser uma sessão remota, a observação não é um estudo de campo no sentido do livro, em que o pesquisador vai ao ambiente do usuário (BARBOSA; SILVA, 2010, p. 164). Foi uma observação remota da tarefa, com a tela compartilhada e o relato em voz alta.
+- Os dados vêm de uma só participante. A persona e a análise de tarefas herdam as particularidades dela (BARBOSA; SILVA, 2010, p. 178).
+
+### Atributos para o perfil do usuário
+
+A Tabela 6 organiza o que a sessão revelou segundo os tipos de dados de Hackos e Redish e de Courage e Baxter, citados por Barbosa e Silva (2010, p. 134–135), e segundo os grupos de atributos do perfil (p. 175). Serve de insumo para o [perfil do usuário](../../perfil-usuario.md) do grupo.
+
+| Atributo | Participante | Origem |
+| --- | --- | --- |
+| Dados demográficos | Mulher, 24 anos | Pergunta 1 |
+| Experiência no cargo | Estagiária há cerca de seis meses, com outros estagiários. Responsável, com eles, pelo compilado de notícias do anuário | Pergunta 2 |
+| Informações sobre a empresa | Secretaria de um órgão público federal. Tamanho não informado | Pergunta 2 |
+| Educação | Graduação em andamento, engenharia na área espacial | Pergunta 1 |
+| Experiência com computadores | Autoavaliação 4, numa escala de 1 a 5 | Pergunta 4 |
+| Experiência com o produto | Uso recorrente e de trabalho. Última visita cerca de duas semanas antes. Chega pelo Google | Perguntas 6 e 7 |
+| Tecnologia disponível | Computador do órgão no trabalho; computador pessoal na sessão | Observação |
+| Treinamento e aprendizado | Em site novo, explora sozinha. Em sistema novo, usa vídeo ou IA | Pergunta 5 |
+| Atitudes e valores | Gosta do visual e das opções de acessibilidade. Não gosta do excesso de assuntos na abertura nem da lista fora de ordem | Pergunta 8 |
+| Conhecimento do domínio | Conhece bem o setor aeroespacial. Descreveu-se como leiga em legislação do Senado | Perguntas 9 e 13; fechamento |
+| Objetivos | Reunir, ao longo do ano, as notícias relevantes do setor para o anuário | Perguntas 10 e 11 |
+| Tarefas | Levantar notícias e normas por palavra-chave, descartar as antigas e salvar as relevantes para aprovação | Perguntas 12 e 15; observação |
+| Gravidade dos erros | Baixa a média: notícia importante que escapa costuma chegar por outro veículo ou rede social | Pergunta 17 |
+| Idiomas e jargões | Vocabulário do setor: aeroespacial, aeronáutico, drone, foguete, avião, caça, jato, nomes de empresas. Sigla desconhecida vai para o Google | Perguntas 9 e 13 |
+| **Grupo: idade** | Jovem adulta | — |
+| **Grupo: experiência** | Especialista no domínio; usuária frequente do portal, sem uso dos controles de ordenação | — |
+| **Grupo: atitude** | Tecnófila: explora sozinha e recorre a vídeo ou IA | — |
+| **Grupo: tarefa primária** | Levantar notícias do setor por tema e período | — |
+
+<p class="caption">Tabela 6 — Atributos da participante para o perfil do usuário.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), a partir da sessão de 24/09/2026; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>
 
 A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](analise-tarefas.md) usam este registro. A participante validou a persona no mesmo dia, sem pedir correção. O registro está em [Validação](persona.md#validacao-com-a-participante).
 

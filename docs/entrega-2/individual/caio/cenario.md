@@ -28,6 +28,7 @@ A Tabela 2 identifica o cenário.
 | Título | A lista de “drone” mistura 2013 com 2026 |
 | Ator | [Renata Moreira](persona.md), estagiária que compila notícias para um anuário |
 | Objetivo principal | Separar, no período do anuário, notícias do setor que valham ser salvas para a análise da equipe |
+| Situação inicial | Semana em que a fonte da vez é o Senado. Renata está no computador, com o navegador aberto numa aba em branco, e ainda não sabe o que o portal publicou sobre o setor no ano |
 | Tipo | Cenário de problema: situação atual, antes do reprojeto |
 | Sistema envolvido | Portal do Senado Federal, com foco nas notícias e na busca |
 | Tarefa modelada | [Análise de tarefas (HTA e CTT)](analise-tarefas.md) |
@@ -37,7 +38,7 @@ A Tabela 2 identifica o cenário.
 
 ## Perguntas exploradas
 
-Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário precisa esclarecer. Na narrativa, o número de cada pergunta aparece entre colchetes logo depois do trecho que a responde (BARBOSA; SILVA, 2010, p. 190).
+Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário precisa esclarecer. Na narrativa, o número de cada pergunta aparece entre colchetes logo depois do trecho que a responde (BARBOSA; SILVA, 2010, p. 189–190).
 
 1. Quando o levantamento acontece e o que o dispara?
 2. Por onde a persona chega às notícias do Senado?
@@ -51,17 +52,17 @@ Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário pre
 
 ## Narrativa
 
-A narrativa é um cenário de problema: conta a atividade como ela existe hoje, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). O número entre colchetes aponta a pergunta da lista acima, como no Exemplo 6.5 (p. 190). O caminho até a lista foi observado. Salvar, aprovar e mudar de site são o que ela descreveu como o passo seguinte, e não foram vistos nessa sessão.
+A narrativa é um cenário de problema: conta a atividade como ela existe hoje, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). O número entre colchetes aponta a pergunta da lista acima, como no Exemplo 6.5 (p. 190). O caminho até a lista vem da observação. Salvar, aprovar e mudar de site vêm da entrevista, e não foram observados; as limitações estão na [página da sessão](entrevista-observacao.md#limitacoes-da-coleta).
 
 **A lista de “drone” mistura 2013 com 2026**
 
 Atores: Renata Moreira (estagiária)
 
-Numa semana em que a fonte da vez é o Senado, Renata precisa ver o que saiu no ano sobre a área espacial e as forças armadas para o anuário do órgão em que estagia [1]. O anuário sai uma vez por ano, fica público, e quem o lê depende do que a equipe aprovar [8]. Ela está no computador pessoal. No trabalho usa o da instituição. Abre o Google, pesquisa “Senado Federal” e entra no primeiro resultado [2]. Sabe que Senado Notícias está logo abaixo e serve quando quer o conjunto das notícias, mas, para um tema, o plano dela é a lupa do portal [2].
+Numa semana em que a fonte da vez é o Senado, Renata precisa ver o que saiu no ano sobre a área espacial e as forças armadas para o anuário do órgão em que estagia [1]. O anuário sai uma vez por ano, fica público, e quem o lê depende do que a equipe aprovar [8]. Abre o Google, pesquisa “Senado Federal” e entra no primeiro resultado [2]. Sabe que Senado Notícias está logo abaixo e serve quando quer o conjunto das notícias, mas, para um tema, o plano dela é a lupa do portal [2].
 
-Digita “drone”, a palavra do dia. As palavras de sempre são aeroespacial, aeronáutico, drone, foguete, avião, caça, jato e nomes de empresas. Se aparece uma sigla que ela não conhece, pesquisa no Google [3]. A busca devolve as abas Tudo, Notícias, Proposições, Pronunciamentos, Legislação e Vídeos. Ela abre Legislação, vê normas de 2026 em que a palavra aparece, e passa para Notícias [4]. Não mexe em “Classificar por” nem em Filtros. Percorre a lista e descarta no olho o que está fora do período. Um item de 05/07/2013 aparece entre itens de 14/04/2026 e de 26/03/2026 [4] [9].
+Digita “drone”, a palavra do dia. As palavras de sempre são aeroespacial, aeronáutico, drone, foguete, avião, caça, jato e nomes de empresas. Se aparece uma sigla que ela não conhece, pesquisa no Google [3]. A busca devolve as abas Tudo, Notícias, Proposições, Pronunciamentos, Legislação e Vídeos. Ela abre Legislação, vê normas de 2026 em que a palavra aparece, e passa para Notícias [4]. Na tela há um controle “Classificar por” e um botão de Filtros, mas Renata não os usa: percorre a lista e descarta no olho o que está fora do período. Um item de 05/07/2013 aparece entre itens de 14/04/2026 e de 26/03/2026 [4] [9].
 
-Chegar na lista foi fácil. A ordem é o difícil, e a abertura do portal, cheia de assuntos que não são do anuário, é a outra coisa que ela mudaria: um menu direto com os links de que precisa [9]. Notícia no período e no tema seria salva. Não entra direto no anuário: outras pessoas do órgão analisam e, se aprovarem, o texto é editado [5] [7]. Ela não tem como confirmar que achou tudo. O critério é o período; notícia antiga demais fica de fora [6]. Se o período não rende, busca em outro site ou encerra esta fonte naquela semana [6]. Notícia importante que escapa costuma chegar por outro veículo ou por rede social, e então entra na fila de aprovação [8]. Na demonstração, ela não salvou nenhuma notícia.
+Chegar na lista foi fácil. A ordem é o difícil, e a abertura do portal, cheia de assuntos que não são do anuário, é a outra coisa que ela mudaria: um menu direto com os links de que precisa [9]. Notícia no período e no tema é salva [7]. Não entra direto no anuário: outras pessoas do órgão analisam e, se aprovarem, o texto é editado [5]. Ela não tem como confirmar que achou tudo. O critério é o período; notícia antiga demais fica de fora [6]. Se o período não rende, busca em outro site ou encerra esta fonte naquela semana [6]. Notícia importante que escapa costuma chegar por outro veículo ou por rede social, e então entra na fila de aprovação [8].
 
 ## Análise do cenário
 
@@ -69,9 +70,10 @@ Como no Exemplo 6.4, estes pontos são problemáticos e o reprojeto precisa cons
 
 - a página inicial mistura assuntos que não são da tarefa e atrasa quem já sabe aonde ir;
 - a lista da busca não vem em ordem cronológica, e Renata descarta a data no olho, embora “Classificar por” e “Filtros” estejam na tela;
-- a palavra-chave em Legislação devolve norma em que o termo só aparece de passagem;
 - não há sinal de que o período foi esgotado: o critério de parada é dela, não do portal;
 - salvar, aprovar e editar acontecem fora do portal. A tarefa no site termina quando a lista aparece.
+
+Como no Exemplo 6.5, pensar nas perguntas também mostra lacunas (BARBOSA; SILVA, 2010, p. 190–191). A pergunta 7 fica só em parte respondida: o cenário diz que a notícia é salva, mas não onde nem em que formato, porque a sessão não chegou a esse passo. Fica como pergunta aberta para as próximas etapas.
 
 ## Agradecimentos
 
@@ -84,6 +86,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `0.2` | 24/09/2026 | Narrativa e análise do cenário a partir da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.4` | 25/09/2026 | Situação inicial, narrativa só com a persona, lacuna da pergunta 7 e retirada de problema sem base na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 
 ## Referências
 
