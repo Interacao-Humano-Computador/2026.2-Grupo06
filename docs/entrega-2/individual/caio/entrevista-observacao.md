@@ -248,11 +248,11 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Caracterização da participante, planejamento da sessão, roteiro da entrevista e protocolo de observação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 24/09/2026 | Resultados da entrevista e da observação, com correção do perfil prévio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 24/09/2026 | Gravações da entrevista e da observação publicadas na página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.4` | 24/09/2026 | Aponta a validação da persona, feita no mesmo dia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.5` | 24/09/2026 | Gravações da entrevista e da observação no YouTube, não listadas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 21/09/2026 | Caracterização da participante, planejamento da sessão, roteiro da entrevista e protocolo de observação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 24/09/2026 | Resultados da entrevista e da observação, com correção do perfil prévio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/09/2026 | Gravações da entrevista e da observação publicadas na página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 24/09/2026 | Aponta a validação da persona, feita no mesmo dia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 24/09/2026 | Gravações da entrevista e da observação no YouTube, não listadas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

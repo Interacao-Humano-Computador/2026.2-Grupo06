@@ -126,7 +126,11 @@ nav:
           - Cenários: entrega-2/cenarios.md
           - Análise de tarefas: entrega-2/analise-tarefas.md
       - Trabalhos individuais:
-          - Bruno Ferreira: entrega-2/individual/bruno.md
+          - Bruno Ferreira:
+              - Entrevista e observação: entrega-2/individual/bruno/entrevista-observacao.md
+              - Persona: entrega-2/individual/bruno/persona.md
+              - Cenário: entrega-2/individual/bruno/cenario.md
+              - Análise de tarefas: entrega-2/individual/bruno/analise-tarefas.md
           - Caio Breno:
               - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
               - Persona: entrega-2/individual/caio/persona.md

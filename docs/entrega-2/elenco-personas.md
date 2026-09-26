@@ -34,7 +34,7 @@ A Tabela 2 reúne as personas do grupo, uma por integrante. O status de cada uma
 
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
-| Bruno Ferreira Dornelas | — | — | — |
+| Bruno Ferreira Dornelas | [Mariana Costa](individual/bruno/persona.md) | Assistente administrativa / Cidadã leiga que consulta o portal esporadicamente | A definir |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que compila notícias do setor para um anuário | A definir |
 | Heitor Pinheiro Gonçalves das Chagas | — | — | — |
 | Israel Soares de Paiva | — | — | — |
@@ -51,8 +51,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Item de conteúdo sobre personas e estrutura do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 24/09/2026 | Inclui Renata Moreira e corrige o perfil depois da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 21/09/2026 | Item de conteúdo sobre personas e estrutura do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 24/09/2026 | Inclui Renata Moreira e corrige o perfil depois da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

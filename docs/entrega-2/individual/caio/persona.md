@@ -119,14 +119,14 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Estrutura da persona e plano de validação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 24/09/2026 | Persona Renata Moreira preenchida com a sessão, ainda sem o ok da participante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 24/09/2026 | Retrato fictício e redação no formato dos Exemplos 6.2 e 6.3 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.4` | 24/09/2026 | Narrativa generalizada: a persona deixa de repetir o episódio da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.0` | 24/09/2026 | Validação registrada: a participante aprovou a persona sem correções | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.1` | 24/09/2026 | Vídeo da validação no YouTube, não listado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.2` | 24/09/2026 | Recoloca o retrato no cartão e tira a frase de destaque | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `1.3` | 25/09/2026 | Objetivos sem falsos objetivos, status proposto, frequência e duração da tarefa, citações nos requisitos, limitação da validação e origem do retrato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 21/09/2026 | Estrutura da persona e plano de validação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 24/09/2026 | Persona Renata Moreira preenchida com a sessão, ainda sem o ok da participante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/09/2026 | Retrato fictício e redação no formato dos Exemplos 6.2 e 6.3 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 24/09/2026 | Narrativa generalizada: a persona deixa de repetir o episódio da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 24/09/2026 | Validação registrada: a participante aprovou a persona sem correções | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 24/09/2026 | Vídeo da validação no YouTube, não listado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 24/09/2026 | Recoloca o retrato no cartão e tira a frase de destaque | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 25/09/2026 | Objetivos sem falsos objetivos, status proposto, frequência e duração da tarefa, citações nos requisitos, limitação da validação e origem do retrato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

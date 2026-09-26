@@ -1,4 +1,4 @@
-# Etapa 8 — Verificação dos artefatos
+﻿# Etapa 8 — Verificação dos artefatos
 
 Entrega em 22/11/2026; inspeção em 23/11; apresentação em 24/11.
 
@@ -8,7 +8,7 @@ Artefatos previstos: verificação do próprio grupo e do Grupo +1, com evidênc
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

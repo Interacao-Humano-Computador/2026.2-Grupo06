@@ -83,10 +83,10 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 24/09/2026 | Narrativa e análise do cenário a partir da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.4` | 25/09/2026 | Situação inicial, narrativa só com a persona, lacuna da pergunta 7 e retirada de problema sem base na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 24/09/2026 | Narrativa e análise do cenário a partir da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 25/09/2026 | Situação inicial, narrativa só com a persona, lacuna da pergunta 7 e retirada de problema sem base na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

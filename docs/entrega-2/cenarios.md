@@ -54,7 +54,7 @@ A Tabela 3 reúne os cenários, um por integrante.
 
 | Integrante | Cenário | Ator |
 | --- | --- | --- |
-| Bruno Ferreira Dornelas | — | — |
+| Bruno Ferreira Dornelas | [A busca por "jornada de trabalho" se perde em jargões regimentais e siglas](individual/bruno/cenario.md) | [Mariana Costa](individual/bruno/persona.md) |
 | Caio Breno de Souza Bezerra | [A lista de “drone” mistura 2013 com 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) |
 | Heitor Pinheiro Gonçalves das Chagas | — | — |
 | Israel Soares de Paiva | — | — |
@@ -71,8 +71,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Item de conteúdo sobre cenários, estrutura dos cenários e índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
-| `0.2` | 24/09/2026 | Inclui o cenário de Renata Moreira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 21/09/2026 | Item de conteúdo sobre cenários, estrutura dos cenários e índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 24/09/2026 | Inclui o cenário de Renata Moreira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
