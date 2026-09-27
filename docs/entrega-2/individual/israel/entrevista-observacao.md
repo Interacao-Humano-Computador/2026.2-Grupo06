@@ -102,10 +102,10 @@ A Tabela 5 registra os passos observados.
 
 | # | O que ela fez | Onde | O que ela disse | Hesitou, errou ou voltou? | Tempo |
 | :---: | --- | --- | --- | --- | :---: |
-| 1 | Abriu o Portal do Senado no computador (em vez do celular, que é seu dispositivo habitual) | Portal do Senado |"Disponibilidade "| Trocou de dispositivo para a tarefa | 0:15 |
-| 2 | Tentou localizar informação sobre o auditório usando termos do dia a dia | Busca / seções do portal | | A busca "tem uma deficiência" (não atendeu à necessidade) | |
-| 3 | Ao buscar por outro assunto (informação sobre um senador), procurou pelas seções "senador" e "transparência" — não usou termos técnicos como "matéria" ou "tramitação" | Seções do portal | | Não | |
-| 4 | Não encontrou uma resposta clara sobre a disponibilidade do auditório e desistiu da tarefa | Portal do Senado | "Eu só queria saber se o auditório tava livre" | Realizado | |
+| 1 | Abriu o Portal do Senado no computador (em vez do celular, que é seu dispositivo habitual) | Portal do Senado |"Disponibilidade do espaço de um auditório "| Trocou de dispositivo para a tarefa | 1:51 |
+| 2 | Tentou localizar informação sobre o auditório usando termos do dia a dia | Busca / seções do portal | "Tive um pouco de dificuldade precisei de um link em espécifico" | A busca "tem uma deficiência" (não atendeu à necessidade) | 2:15 |
+| 3 | Ao buscar por outro assunto (informação sobre um senador), procurou pelas seções "senador" e "transparência" — não usou termos técnicos como "matéria" ou "tramitação" | Seções do portal | "sobre senador não mas para deputados" | - | 3:30 |
+| 4 | Procura clara sobre a disponibilidade do auditório | Portal do Senado | "Eu só queria saber se o auditório tava livre" | Voltou | - |
 
 <p class="caption">Tabela 5 — Registro da observação.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
