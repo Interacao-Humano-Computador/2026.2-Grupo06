@@ -154,6 +154,27 @@ flowchart LR
 <p class="caption">Figura 3 — Árvore CTT da tarefa.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
 
+## Teste de usabilidade
+ 
+O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a tentativa da participante de verificar a disponibilidade do auditório no Portal do Senado, incluindo o ponto em que ela desiste. Categoria no YouTube: a definir. Link: [https://youtu.be/1C8-P9m7bwg](https://youtu.be/1C8-P9m7bwg). Data: a definir.
+ 
+??? note "Vídeo 4 — Teste de usabilidade da tarefa analisada"
+ 
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/1C8-P9m7bwg"
+        title="Teste de usabilidade — tarefa de Marta Oliveira"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+ 
+    <p class="caption">Vídeo 4 — Teste de usabilidade da tarefa analisada.</p>
+    <p class="source">Fonte: elaboração do autor (2026).</p>
+
 ## Agradecimentos
 
 <!-- Preencher, se aplicável. -->

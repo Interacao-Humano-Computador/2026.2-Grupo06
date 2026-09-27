@@ -32,8 +32,8 @@ A Tabela 2 caracteriza a participante sem identificá-la.
 | Perfil de usuário | Servidora pública que precisa resolver, ocasionalmente, tarefas administrativas pontuais junto ao Senado (ex.: reserva de espaço) e que acompanha notícias e leis de seu interesse |
 | Descrição | 47 anos, servidora pública. Acompanha notícias diariamente pela internet e por jornal. Usa o celular como dispositivo principal, mas recorreu ao computador para a tarefa observada |
 | Tarefa de interesse | Verificar a disponibilidade do auditório do Senado; de forma secundária, acompanhar leis e projetos de seu interesse |
-| Recrutamento | A definir |
-| Data, local e duração | A definir |
+| Recrutamento | Por conveniência, na rede de contatos do entrevistador. Há relação pessoal próxima, registrada como limitação nesta página |
+| Data, local e duração | 29/07 na casa do participante, duração de 21 minutos e 40 segundos |
 
 <p class="caption">Tabela 2 — Caracterização da participante.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
