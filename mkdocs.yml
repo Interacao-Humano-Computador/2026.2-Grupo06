@@ -147,7 +147,11 @@ nav:
               - Persona: entrega-2/individual/heitor/persona.md
               - Cenário: entrega-2/individual/heitor/cenario.md
               - Análise de tarefas: entrega-2/individual/heitor/analise-tarefas.md
-          - Israel Soares: entrega-2/individual/israel.md
+          - Israel Soares:
+              - Entrevista e observação: entrega-2/individual/israel/entrevista-observacao.md
+              - Persona: entrega-2/individual/israel/persona.md
+              - Cenário: entrega-2/individual/israel/cenario.md
+              - Análise de tarefas: entrega-2/individual/israel/analise-tarefas.md
           - Luis Henrique: entrega-2/individual/luis.md
   - Atas:
       - atas/index.md
