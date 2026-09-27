@@ -56,7 +56,7 @@ A Tabela 3 reúne os cenários, um por integrante.
 | --- | --- | --- |
 | Bruno Ferreira Dornelas | [A busca por "jornada de trabalho" se perde em jargões regimentais e siglas](individual/bruno/cenario.md) | [Mariana Costa](individual/bruno/persona.md) |
 | Caio Breno de Souza Bezerra | [A lista de “drone” mistura 2013 com 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) |
-| Heitor Pinheiro Gonçalves das Chagas | — | — |
+| Heitor Pinheiro Gonçalves das Chagas | [A busca rápida do PL 1215/2025 e o labirinto para encontrar onde votar](individual/heitor/cenario.md) | [Letícia Oliveira](individual/heitor/persona.md) |
 | Israel Soares de Paiva | [Só queria saber se o auditório estava livre](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) |
 | Luis Henrique Arruda Luna | — | — |
 
@@ -74,6 +74,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 21/09/2026 | Item de conteúdo sobre cenários, estrutura dos cenários e índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 24/09/2026 | Inclui o cenário de Renata Moreira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 27/09/2026 | Inclui o cenário de Marta Oliveira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.4` | 27/09/2026 | Inclui o cenário de Letícia Oliveira no índice do grupo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A definir |
 
 ## Referências
 

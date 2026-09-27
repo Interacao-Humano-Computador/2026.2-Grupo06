@@ -18,7 +18,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 ## Introdução
 
-A coleta de dados do Grupo 06 envolve pessoas: cada integrante entrevista e observa uma participante para construir sua persona e seu cenário. Por isso, antes de qualquer sessão, é preciso garantir que a participação seja voluntária, informada e sem riscos além de leve desconforto, e que a identidade da participante seja preservada. Esta página reúne a base teórica que orienta esses cuidados e explica como eles se aplicam, na prática, às [entrevistas e observações](entrevista-observacao.md), às gravações feitas nessas sessões e ao [Termo de Consentimento Livre e Esclarecido (TCLE)](etica.md#termo-de-consentimento-livre-e-esclarecido-tcle) usado por todo o grupo.
+A coleta de dados do Grupo 06 envolve pessoas: cada integrante entrevista e observa uma participante para construir sua persona e seu cenário. Por isso, antes de qualquer sessão, é preciso garantir que a participação seja voluntária, informada e sem riscos além de leve desconforto, e que a identidade da participante seja preservada. Esta página reúne a base teórica que orienta esses cuidados e explica como eles se aplicam, na prática, às entrevistas e observações de [Bruno](individual/bruno/entrevista-observacao.md), [Caio](individual/caio/entrevista-observacao.md), [Heitor](individual/heitor/entrevista-observacao.md) e [Israel](individual/israel/entrevista-observacao.md), às gravações feitas nessas sessões e ao [Termo de Consentimento Livre e Esclarecido (TCLE)](etica.md#termo-de-consentimento-livre-e-esclarecido-tcle) usado por todo o grupo.
 
 ## Aspectos éticos de pesquisas envolvendo pessoas
 

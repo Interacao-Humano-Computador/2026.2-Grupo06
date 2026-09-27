@@ -11,6 +11,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Item de conteúdo sobre perfil do usuário | [Item de conteúdo](perfil-usuario.md#item-de-conteudo-da-disciplina) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da elicitação | [Planejamento](perfil-usuario.md#planejamento-da-elicitacao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Consolidação do perfil do grupo | [Perfil consolidado](perfil-usuario.md#perfil-consolidado) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Atributos da participante P2 (Caio) | [Sessão Caio](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Atributos da participante P3 (Heitor) | [Sessão Heitor](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Atributos da participante P4 (Israel) | [Sessão Israel](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -61,8 +64,8 @@ A Tabela 2 registra as sessões realizadas pelo grupo.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | P1 — Bruno | Cidadão leigo | 27/09/2026 | ✅ Concluída |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — (análise documental e de similares) | Estudante/pesquisador | 26/09/2026 | ✅ Concluída |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | P2 — Caio | Estagiária / cidadã com consulta recorrente | 24/09/2026 | ✅ Concluída |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | P3 — Heitor | A definir | A realizar | ⏳ Pendente |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | P4 — Israel | Servidora pública, tarefa administrativa pontual | 29/07 | ✅ Concluída |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | P3 — Heitor | Participante / Militante de movimento social | 27/09/2026 | ✅ Concluída |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | P4 — Israel | Servidora pública, tarefa administrativa pontual | 29/07/2026 | ✅ Concluída |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | P5 — Luis | Servidor do Senado | A realizar | ⏳ Pendente |
 
 <p class="caption">Tabela 2 — Sessões de coleta do grupo.</p>
@@ -70,34 +73,34 @@ A Tabela 2 registra as sessões realizadas pelo grupo.
 
 ## Perfil consolidado
 
-O perfil consolidado reúne os dados coletados nas sessões individuais, organizados segundo os atributos de Hackos e Redish e os grupos de Courage e Baxter. A Tabela 3 apresenta os dados disponíveis até o momento; as colunas de perfis ainda não entrevistados serão preenchidas após as sessões.
+O perfil consolidado reúne os dados coletados nas sessões individuais, organizados segundo os atributos de Hackos e Redish e os grupos de Courage e Baxter. A Tabela 3 apresenta os dados disponíveis até o momento; a coluna do perfil ainda não entrevistado será preenchida após a sessão.
 
 | Atributo | P1 — Bruno (Cidadão leigo) | P2 — Caio (Estagiária/recorrente) | P3 — Heitor | P4 — Israel | P5 — Luis (Servidor) |
 | --- | --- | --- | --- | --- | --- |
-| Dados demográficos | Mulher, 22 anos | Mulher, 24 anos | — | Mulher, 47 anos | — |
+| Dados demográficos | Mulher, 22 anos | Mulher, 24 anos | Mulher, 21 anos | Mulher, 47 anos | — |
 | Status socioeconômico | Classe média (inferida); auxiliar administrativo, empresa de tecnologia, setor privado | Classe média (inferida); estagiária em órgão público federal | — | Classe média (inferida); servidora pública | — |
-| Experiência no cargo | Auxiliar administrativo em empresa de tecnologia | Estagiária há ~6 meses em órgão público | — | Servidora pública | — |
-| Informações sobre a empresa | Empresa de tecnologia, setor privado | Órgão público federal | — | — | — |
-| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | — | — | — |
-| Experiência com computadores | Autoavaliação 3 em escala de 1 a 5 | Alta — autoavaliação 4 em escala de 1 a 5 | — | Baixa familiaridade com sites institucionais | — |
-| Experiência com o produto | Esporádica; última visita ~3 meses antes (PEC 6×1) | Recorrente e de trabalho; última visita ~2 semanas antes | — | Uma visita pontual; não concluiu a tarefa do auditório | — |
-| Tecnologia disponível | Computador desktop no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | — | Celular no dia a dia; computador na tarefa observada | — |
-| Treinamento e aprendizado | Explora sozinha; se travar, procura vídeo rápido no YouTube | Explora sozinha; usa vídeo ou IA para sistemas novos | — | Quando trava, busca ajuda ou informação por fora | — |
-| Atitudes e valores | Gosta da aparência visual do portal; não gosta dos status opacos de tramitação | Gosta do visual e das opções de acessibilidade | — | Desiste se a busca não responde em linguagem simples | — |
-| Conhecimento do domínio | Leiga em legislação; busca informações que afetam seu círculo de convivência | Especialista no setor aeroespacial; leiga em legislação | — | Leiga em processo legislativo; usa termos do dia a dia | — |
-| Objetivos | Entender a situação e o impacto da PEC 6×1 para familiares e amigos afetados | Reunir notícias do setor para o anuário anual | — | Confirmar se o auditório está livre e acompanhar leis de interesse | — |
-| Tarefas | Pesquisar termos do cotidiano, interpretar status de tramitação, recorrer a portal jornalístico quando o portal não entrega resposta direta | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | — | Verificar a disponibilidade do auditório | — |
-| Gravidade dos erros | Média: informação incorreta circula no grupo de família; efeito social, não operacional | Baixa a média: notícia perdida costuma chegar por outro veículo | — | Alta para ela: a tarefa fica sem resposta e ela sai do site | — |
-| Idiomas e jargões | Sem jargão legislativo; siglas desconhecidas vão para o Google | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | — | Sem jargão legislativo; busca "senador" e "transparência" | — |
-| **Grupo: idade** | Jovem adulta | Jovem adulta | — | 47 anos | — |
-| **Grupo: experiência** | Iniciante no portal; uso esporádico e motivado por impacto pessoal | Usuária frequente; sem uso dos controles de ordenação | — | Iniciante no portal; uma tentativa sem conclusão | — |
-| **Grupo: atitude** | Pragmática: desiste rápido quando o portal não entrega resposta direta e recorre a fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | — | Desiste e busca ajuda fora do site | — |
-| **Grupo: tarefa primária** | Verificar aprovação e situação de projeto de lei de interesse cotidiano | Levantar notícias do setor por tema e período | — | Verificar a disponibilidade do auditório | — |
+| Experiência no cargo | Auxiliar administrativo em empresa de tecnologia | Estagiária há ~6 meses em órgão público | Secretária técnica há ~9 meses em organização camponesa / movimento social | Servidora pública | — |
+| Informações sobre a empresa | Empresa de tecnologia, setor privado | Órgão público federal | Movimento social e articulação comunitária (CLOC / Via Campesina) | — | — |
+| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | Graduação em andamento, Geografia | — | — |
+| Experiência com computadores | Autoavaliação 3 em escala de 1 a 5 | Alta — autoavaliação 4 em escala de 1 a 5 | Média a alta — uso constante de smartphone e ferramentas básicas no computador | Baixa familiaridade com sites institucionais | — |
+| Experiência com o produto | Esporádica; última visita ~3 meses antes (PEC 6×1) | Recorrente e de trabalho; última visita ~2 semanas antes | Esporádica; acessa sob demanda/campanhas de votação no e-Cidadania | Uma visita pontual; não concluiu a tarefa do auditório | — |
+| Tecnologia disponível | Computador desktop no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | Smartphone pessoal (acesso principal) e computador pessoal/notebook | Celular no dia a dia; computador na tarefa observada | — |
+| Treinamento e aprendizado | Explora sozinha; se travar, procura vídeo rápido no YouTube | Explora sozinha; usa vídeo ou IA para sistemas novos | Autodidata; não lê manuais; prefere resumos rápidos e diretos | Quando trava, busca ajuda ou informação por fora | — |
+| Atitudes e valores | Gosta da aparência visual do portal; não gosta dos status opacos de tramitação | Gosta do visual e das opções de acessibilidade | Pragmática e engajada; apoia interfaces intuitivas; critica baixa divulgação | Desiste se a busca não responde em linguagem simples | — |
+| Conhecimento do domínio | Leiga em legislação; busca informações que afetam seu círculo de convivência | Especialista no setor aeroespacial; leiga em legislação | Intermediário em processo legislativo; especialista em pautas do campo e reforma agrária | Leiga em processo legislativo; usa termos do dia a dia | — |
+| Objetivos | Entender a situação e o impacto da PEC 6×1 para familiares e amigos afetados | Reunir notícias do setor para o anuário anual | Votar em matérias de relevância para a agricultura familiar e direitos coletivos | Confirmar se o auditório está livre e acompanhar leis de interesse | — |
+| Tarefas | Pesquisar termos do cotidiano, interpretar status de tramitação, recorrer a portal jornalístico quando o portal não entrega resposta direta | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | Buscar projeto (PL 1215/2025), avaliar ementa e votar no e-Cidadania | Verificar a disponibilidade do auditório | — |
+| Gravidade dos erros | Média: informação incorreta circula no grupo de família; efeito social, não operacional | Baixa a média: notícia perdida costuma chegar por outro veículo | Média a alta: voto divergente desvirtua posicionamento do coletivo | Alta para ela: a tarefa fica sem resposta e ela sai do site | — |
+| Idiomas e jargões | Sem jargão legislativo; siglas desconhecidas vão para o Google | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | Jargões de movimentos sociais ("soberania alimentar") e termos legislativos | Sem jargão legislativo; busca "senador" e "transparência" | — |
+| **Grupo: idade** | Jovem adulta | Jovem adulta | Jovem adulta (21 anos) | 47 anos | — |
+| **Grupo: experiência** | Iniciante no portal; uso esporádico e motivado por impacto pessoal | Usuária frequente; sem uso dos controles de ordenação | Pontual / sob demanda de trabalho | Iniciante no portal; uma tentativa sem conclusão | — |
+| **Grupo: atitude** | Pragmática: desiste rápido quando o portal não entrega resposta direta e recorre a fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | Autodidata, pragmática e pró-participação popular | Desiste e busca ajuda fora do site | — |
+| **Grupo: tarefa primária** | Verificar aprovação e situação de projeto de lei de interesse cotidiano | Levantar notícias do setor por tema e período | Votar em consultas públicas de relevância socioambiental | Verificar a disponibilidade do auditório | — |
 
 <p class="caption">Tabela 3 — Perfil consolidado do usuário do Portal do Senado Federal.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base nas sessões individuais; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>
 
-Os dados de P3 e P5 serão atualizados após a realização das respectivas sessões de coleta. P1, P2 e P4 estão completos; os detalhes estão em [Atributos para o perfil do usuário — P1](individual/bruno/entrevista-observacao.md#atributos-para-o-perfil-do-usuario), [Atributos para o perfil do usuário — P2](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) e [Atributos para o perfil do usuário — P4](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario).
+Os dados de P5 serão atualizados após a realização da sessão de coleta. P1, P2, P3 e P4 estão completos; os detalhes estão em [Atributos para o perfil do usuário — P1](individual/bruno/entrevista-observacao.md#atributos-para-o-perfil-do-usuario), [Atributos para o perfil do usuário — P2](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario), [Atributos para o perfil do usuário — P3](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) e [Atributos para o perfil do usuário — P4](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario).
 
 ## Agradecimentos
 
@@ -106,10 +109,11 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura, item de conteúdo, planejamento da elicitação e perfil com dados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Inclui os dados da sessão do Israel na coluna P4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
 | `0.3` | 27/09/2026 | Atualiza dados da sessão de P1 (Bruno), inclui status socioeconômico e consolida com P4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.4` | 27/09/2026 | Inclui os dados da sessão do Heitor na coluna P3 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A definir |
 
 ## Referências
 

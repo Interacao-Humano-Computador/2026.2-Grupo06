@@ -36,7 +36,7 @@ A Tabela 2 reúne as personas do grupo, uma por integrante. O status de cada uma
 | --- | --- | --- | --- |
 | Bruno Ferreira Dornelas | [Mariana Costa](individual/bruno/persona.md) | Assistente administrativa / Cidadã leiga que consulta o portal esporadicamente | A definir |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que compila notícias do setor para um anuário | A definir |
-| Heitor Pinheiro Gonçalves das Chagas | — | — | — |
+| Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas | A definir |
 | Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública que resolve tarefas administrativas pontuais no portal | A definir |
 | Luis Henrique Arruda Luna | — | Servidor do Senado | — |
 
@@ -54,6 +54,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 21/09/2026 | Item de conteúdo sobre personas e estrutura do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 24/09/2026 | Inclui Renata Moreira e corrige o perfil depois da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 27/09/2026 | Inclui Marta Oliveira, persona da sessão do Israel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.4` | 27/09/2026 | Inclui Letícia Oliveira, persona da sessão do Heitor | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A definir |
 
 ## Referências
 
