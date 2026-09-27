@@ -58,7 +58,7 @@ A Tabela 3 reúne os cenários, um por integrante.
 | Caio Breno de Souza Bezerra | [A lista de “drone” mistura 2013 com 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) |
 | Heitor Pinheiro Gonçalves das Chagas | — | — |
 | Israel Soares de Paiva | [Só queria saber se o auditório estava livre](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) |
-| Luis Henrique Arruda Luna | — | — |
+| Luís Henrique Luna de Arruda | [Da reunião da CCJ ao resultado de um item](individual/luis/cenario.md) | [Marina Alves](individual/luis/persona.md) |
 
 <p class="caption">Tabela 3 — Cenários do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -74,6 +74,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 21/09/2026 | Item de conteúdo sobre cenários, estrutura dos cenários e índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 24/09/2026 | Inclui o cenário de Renata Moreira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 27/09/2026 | Inclui o cenário de Marta Oliveira no índice do grupo | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.4` | 27/09/2026 | Inclui o cenário preliminar de Marina Alves | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.5` | 27/09/2026 | Atualiza o cenário de Marina Alves com o percurso e o resultado relatados | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

@@ -12,6 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da elicitação | [Planejamento](perfil-usuario.md#planejamento-da-elicitacao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Consolidação do perfil do grupo | [Perfil consolidado](perfil-usuario.md#perfil-consolidado) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Atributos da participante P1 (Caio) | [Sessão Caio](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Planejamento e dados confirmados da participante P5 | [Sessão Luís](individual/luis/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -63,7 +64,7 @@ A Tabela 2 registra as sessões realizadas pelo grupo.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | P2 — Caio | Estagiária / cidadã com consulta recorrente | 24/09/2026 | ✅ Concluída |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | P3 — Heitor | A definir | A realizar | ⏳ Pendente |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | P4 — Israel | Servidora pública, tarefa administrativa pontual | 29/07 | ✅ Concluída |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | P5 — Luis | Servidor do Senado | A realizar | ⏳ Pendente |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | P5 — Luís | Engenheira química formada e estudante para concursos | 27/09/2026 | 🟡 Dados preliminares incorporados; transcrição pendente |
 
 <p class="caption">Tabela 2 — Sessões de coleta do grupo.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -72,31 +73,31 @@ A Tabela 2 registra as sessões realizadas pelo grupo.
 
 O perfil consolidado reúne os dados coletados nas sessões individuais, organizados segundo os atributos de Hackos e Redish e os grupos de Courage e Baxter. A Tabela 3 apresenta os dados disponíveis até o momento; as colunas de perfis ainda não entrevistados serão preenchidas após as sessões.
 
-| Atributo | P1 — Bruno (Cidadão leigo) | P2 — Caio (Estagiária/recorrente) | P3 — Heitor | P4 — Israel | P5 — Luis (Servidor) |
+| Atributo | P1 — Bruno (Cidadão leigo) | P2 — Caio (Estagiária/recorrente) | P3 — Heitor | P4 — Israel | P5 — Luís (Estudante/concurseira) |
 | --- | --- | --- | --- | --- | --- |
-| Dados demográficos | Mulher, 23 anos | Mulher, 24 anos | — | Mulher, 47 anos | — |
-| Experiência no cargo | Assistente administrativa, setor privado | Estagiária há ~6 meses em órgão público | — | Servidora pública | — |
-| Informações sobre a empresa | Escritório de médio porte, setor privado | Órgão público federal | — | — | — |
-| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | — | — | — |
-| Experiência com computadores | Média — domina ferramentas de escritório | Alta — autoavaliação 4 em escala de 1 a 5 | — | Baixa familiaridade com sites institucionais | — |
-| Experiência com o produto | Baixa — acessa esporadicamente, por links externos | Recorrente e de trabalho; última visita ~2 semanas antes | — | Uma visita pontual; não concluiu a tarefa do auditório | — |
-| Tecnologia disponível | Computador no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | — | Celular no dia a dia; computador na tarefa observada | — |
-| Treinamento e aprendizado | Explora sozinha se intuitivo; assiste vídeos curtos | Explora sozinha; usa vídeo ou IA para sistemas novos | — | Quando trava, busca ajuda ou informação por fora | — |
-| Atitudes e valores | Desiste rápido se não encontrar o que quer | Gosta do visual e das opções de acessibilidade | — | Desiste se a busca não responde em linguagem simples | — |
-| Conhecimento do domínio | Leiga em legislação e processo legislativo | Especialista no setor aeroespacial; leiga em legislação | — | Leiga em processo legislativo; usa termos do dia a dia | — |
-| Objetivos | Confirmar informação legislativa vista em redes sociais | Reunir notícias do setor para o anuário anual | — | Confirmar se o auditório está livre e acompanhar leis de interesse | — |
-| Tarefas | Verificar status de projeto de lei por tema popular | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | — | Verificar a disponibilidade do auditório | — |
-| Gravidade dos erros | Alta para ela (confia em fonte incorreta); baixa para o sistema | Baixa a média: notícia perdida costuma chegar por outro veículo | — | Alta para ela: a tarefa fica sem resposta e ela sai do site | — |
-| Idiomas e jargões | Sem jargão legislativo; usa linguagem coloquial | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | — | Sem jargão legislativo; busca "senador" e "transparência" | — |
-| **Grupo: idade** | Jovem adulta | Jovem adulta | — | 47 anos | — |
-| **Grupo: experiência** | Iniciante no portal; esporádica | Usuária frequente; sem uso dos controles de ordenação | — | Iniciante no portal; uma tentativa sem conclusão | — |
-| **Grupo: atitude** | Pragmática: desiste rápido e busca fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | — | Desiste e busca ajuda fora do site | — |
-| **Grupo: tarefa primária** | Verificar aprovação de lei de interesse cotidiano | Levantar notícias do setor por tema e período | — | Verificar a disponibilidade do auditório | — |
+| Dados demográficos | Mulher, 23 anos | Mulher, 24 anos | — | Mulher, 47 anos | Mulher, 24 anos |
+| Experiência no cargo | Assistente administrativa, setor privado | Estagiária há ~6 meses em órgão público | — | Servidora pública | Estuda para concursos há aproximadamente um ano |
+| Informações sobre a empresa | Escritório de médio porte, setor privado | Órgão público federal | — | — | Não se aplica à ocupação atual informada |
+| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | — | — | Graduação concluída em Engenharia Química |
+| Experiência com computadores | Média — domina ferramentas de escritório | Alta — autoavaliação 4 em escala de 1 a 5 | — | Baixa familiaridade com sites institucionais | Intermediária, segundo autoavaliação; usou computador com Microsoft Edge |
+| Experiência com o produto | Baixa — acessa esporadicamente, por links externos | Recorrente e de trabalho; última visita ~2 semanas antes | — | Uma visita pontual; não concluiu a tarefa do auditório | Uso ocasional, por demanda, para consultas relacionadas aos estudos |
+| Tecnologia disponível | Computador no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | — | Celular no dia a dia; computador na tarefa observada | Computador com Microsoft Edge na sessão |
+| Treinamento e aprendizado | Explora sozinha se intuitivo; assiste vídeos curtos | Explora sozinha; usa vídeo ou IA para sistemas novos | — | Quando trava, busca ajuda ou informação por fora | Aguardando transcrição |
+| Atitudes e valores | Desiste rápido se não encontrar o que quer | Gosta do visual e das opções de acessibilidade | — | Desiste se a busca não responde em linguagem simples | Explora os menus, retorna de páginas incorretas e persiste até concluir sem ajuda |
+| Conhecimento do domínio | Leiga em legislação e processo legislativo | Especialista no setor aeroespacial; leiga em legislação | — | Leiga em processo legislativo; usa termos do dia a dia | Conhecia pauta e resultado de reunião, mas não conhecia CCJ nem comissões |
+| Objetivos | Confirmar informação legislativa vista em redes sociais | Reunir notícias do setor para o anuário anual | — | Confirmar se o auditório está livre e acompanhar leis de interesse | Passar em concurso relacionado à Engenharia Química, considerando oportunidades no Senado, e usar fontes oficiais nos estudos |
+| Tarefas | Verificar status de projeto de lei por tema popular | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | — | Verificar a disponibilidade do auditório | Encontrar reunião realizada da CCJ e consultar data, pauta, item e resultado da votação |
+| Gravidade dos erros | Alta para ela (confia em fonte incorreta); baixa para o sistema | Baixa a média: notícia perdida costuma chegar por outro veículo | — | Alta para ela: a tarefa fica sem resposta e ela sai do site | Entradas incorretas aumentam o tempo de navegação, mas não impediram a conclusão observada |
+| Idiomas e jargões | Sem jargão legislativo; usa linguagem coloquial | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | — | Sem jargão legislativo; busca "senador" e "transparência" | Não conhecia “CCJ” e “comissão”; compreendia “pauta” e “resultado de reunião” |
+| **Grupo: idade** | Jovem adulta | Jovem adulta | — | 47 anos | Jovem adulta, 24 anos |
+| **Grupo: experiência** | Iniciante no portal; esporádica | Usuária frequente; sem uso dos controles de ordenação | — | Iniciante no portal; uma tentativa sem conclusão | Usuária ocasional do portal, com acesso por demanda |
+| **Grupo: atitude** | Pragmática: desiste rápido e busca fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | — | Desiste e busca ajuda fora do site | Exploratória e persistente; concluiu sem ajuda |
+| **Grupo: tarefa primária** | Verificar aprovação de lei de interesse cotidiano | Levantar notícias do setor por tema e período | — | Verificar a disponibilidade do auditório | Consultar pauta e resultado de reunião realizada da CCJ |
 
 <p class="caption">Tabela 3 — Perfil consolidado do usuário do Portal do Senado Federal.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base nas sessões individuais; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>
 
-Os dados de P1, P3 e P5 serão atualizados após a realização das respectivas sessões de coleta. P2 está completo; os detalhes estão em [Atributos para o perfil do usuário](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario). P4 está completo; os detalhes estão em [Atributos para o perfil do usuário](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario).
+Os dados de P1 e P3 serão atualizados após as respectivas sessões de coleta. P2 está completo; os detalhes estão em [Atributos para o perfil do usuário](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario). P4 está completo; os detalhes estão em [Atributos para o perfil do usuário](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario). Em P5, os dados preliminares foram incorporados a partir do relato do entrevistador e serão conferidos na [transcrição](individual/luis/entrevista-observacao.md#resultados).
 
 ## Agradecimentos
 
@@ -108,6 +109,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura, item de conteúdo, planejamento da elicitação e perfil com dados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Inclui os dados da sessão do Israel na coluna P4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.3` | 27/09/2026 | Inclui a sessão e os dados já confirmados de P5, mantendo explícitos os campos que aguardam transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.4` | 27/09/2026 | Consolida os dados preliminares de P5 informados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 
