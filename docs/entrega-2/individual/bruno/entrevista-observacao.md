@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Entrevista e observação</span>
+﻿<span class="owner">Responsável: Bruno Ferreira Dornelas — Entrevista e observação</span>
 
 # Entrevista e observação
 
@@ -118,10 +118,9 @@ A sessão aconteceu em 27/09/2026, presencialmente. A entrevista durou cerca de 
 
 ### Gravações
 
-Categoria no YouTube: **não listado**. Data: 27/09/2026. O trecho em que a participante diz o nome foi retirado. O Vídeo 1 é a entrevista, e o Vídeo 2, a observação.
+Categoria no YouTube: **nao listado**. Data: 27/09/2026. O trecho em que a participante diz o nome foi retirado.
 
 - Entrevista: a preencher após upload
-- Observação: a preencher após upload
 
 ??? note "Vídeo 1 — Entrevista semiestruturada"
 
@@ -140,53 +139,78 @@ Categoria no YouTube: **não listado**. Data: 27/09/2026. O trecho em que a part
     <p class="caption">Vídeo 1 — Entrevista semiestruturada.</p>
     <p class="source">Fonte: sessão de 27/09/2026.</p>
 
-??? note "Vídeo 2 — Observação da tarefa, com relato em voz alta"
-
-    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-      <iframe
-        loading="lazy"
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-        src="https://www.youtube-nocookie.com/embed/"
-        title="Observação da tarefa no Portal do Senado"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin"
-        allowfullscreen>
-      </iframe>
-    </div>
-
-    <p class="caption">Vídeo 2 — Observação da tarefa, com relato em voz alta.</p>
-    <p class="source">Fonte: sessão de 27/09/2026.</p>
-
 ### Síntese da entrevista
 
 Ela se avalia em 3, numa escala de 1 a 5, com computador e sites. No trabalho usa bem Excel, e-mail e sistemas internos, mas portais de governo são uma realidade diferente. Quando aparece algo novo, tenta sozinha primeiro; se não funcionar, procura um vídeo rápido no YouTube. Sigla desconhecida vai para o Google.
 
-A última visita ao portal foi cerca de três meses antes, motivada pela discussão sobre a PEC da jornada 6×1 que circulava no WhatsApp da família. A mãe e a irmã trabalham em regime que seria afetado pela proposta; ela quis confirmar na fonte oficial antes de opinar no grupo. Não digitou o endereço do Senado; pesquisou no Google e clicou no primeiro resultado institucional.
+A última visita ao portal foi cerca de três meses antes, motivada pela discussão sobre a PEC da jornada 6×1 que circulava no WhatsApp da família. A mãe e a irmã trabalham em regime que seria afetado pela proposta; ela quis confirmar na fonte oficial antes de opinar no grupo. Não digitou o endereço do Senado; pesquisou no Google com o termo “senado jornada de trabalho” e o primeiro resultado institucional foi uma matéria do Senado Notícias, não a página inicial do portal. A partir da matéria, usou a lupa do cabeçalho para buscar a proposição.
 
-Ao acessar o portal, ficou confusa com o volume de informação na página inicial. Achou a lupa, digitou “jornada de trabalho” e recebeu uma lista misturada de notícias, propostas e pronunciamentos. Não sabia diferenciar PL de PEC. Clicou num resultado que parecia o certo, viu o badge "Em tramitação" e o estado "AGUARDANDO DESPACHO" e não entendeu o que significava. Saiu do site e enviou para o grupo um link de matéria jornalista que explicava em linguagem simples.
+Ao usar a busca interna, recebeu uma lista misturada de noticias, proposicoes e pronunciamentos. Nao sabia diferenciar PL de PEC. Clicou num resultado que parecia o certo (PL 5253/2026), viu o badge "Em tramitacao" e o estado "AGUARDANDO DESPACHO" (01/09/2026) e nao entendeu o que significava. Tentou a secao "Entenda a proposta" mas percebeu que descrevia o texto original, nao o estado atual. Saiu do site e enviou para o grupo um link de materia jornalistica que explicava em linguagem simples.
 
-Gosta da aparência visual do portal, que considera profissional. O que mudaria: um resumo em linguagem comum logo abaixo do título do projeto — "esse projeto foi aprovado" ou "ainda está sendo votado" — sem exigir leitura da tabela de tramitação. Também reduz a página inicial para mostrar só o que ela precisa.
+Gosta da aparencia visual do portal, que considera profissional. O que mudaria: um resumo em linguagem comum logo abaixo do titulo do projeto — "esse projeto foi aprovado" ou "ainda esta sendo votado" — sem exigir leitura da tabela de tramitacao.
 
-### Registro da observação
+### Registro da observacao
 
-A instrução foi verificar a situação da PEC da jornada 6×1, em voz alta, sem ajuda. A Tabela 5 registra os passos. Os tempos são os da gravação.
+A instrucao foi verificar a situacao da PEC da jornada 6x1, em voz alta, sem ajuda. A Tabela 5 registra os passos, e as capturas correspondentes estao na secao [Capturas da observacao](#capturas-da-observacao) abaixo.
 
-| # | O que ela fez | Onde | O que ela disse | Hesitou, errou ou voltou? | Tempo |
+| # | O que ela fez | Onde | O que ela disse | Hesitou, errou ou voltou? | Captura |
 | :---: | --- | --- | --- | --- | :---: |
-| 1 | Abriu o navegador e pesquisou “senado jornada de trabalho” | Google | “Vou pesquisar no Google, não sei o endereço de cabeça” | Não | 0:15 |
-| 2 | Clicou no primeiro resultado do senado.leg.br | Google | — | Não | 0:28 |
-| 3 | Olhou a página inicial e procurou um campo de busca visível | Página inicial do portal | “Não tem onde digitar... ah, tem uma lupinha aqui” | Hesitou alguns segundos antes de achar a lupa | 0:42 |
-| 4 | Clicou na lupa e digitou “jornada de trabalho” | Overlay de busca | “Vou digitar 'jornada de trabalho'” | Não | 0:55 |
-| 5 | Olhou a lista de resultados na aba Tudo | Página de resultados | “Tem muita coisa aqui... tem notícia, tem projeto de lei, tem pronunciamento de senador... não sei qual é o certo” | Percorreu a lista sem clicar por cerca de 20 segundos | 1:18 |
-| 6 | Clicou num resultado com badge “Em tramitação” que parecia ser sobre a PEC 6×1 | Lista de resultados | “Esse aqui parece ser o que eu quero” | Não | 1:40 |
-| 7 | Leu o título formal e a ementa do projeto | Página da proposição | “Tá, é isso mesmo. Mas esse texto é muito técnico...” | Não | 2:00 |
-| 8 | Abriu a caixa “Entenda a proposta”, gerada por IA | Página da proposição | “Ah, tem um resumo aqui, ótimo”. Leu e ficou confusa porque o resumo descrevia o texto original, não o estado atual | Ficou parada relendo o resumo | 2:30 |
-| 9 | Localizou o cartão “Situação Atual” | Página da proposição | “Aguardando despacho... o que é isso? Não entendo se está quase sendo votado ou vai ficar parado” | Olhou para o entrevistador buscando ajuda; retomou sem receber | 3:05 |
-| 10 | Abriu a seção “Tramitação” | Página da proposição | “Vou tentar aqui... mas também não entendo. Só tem código de órgão e essas notas técnicas” | Não | 3:40 |
-| 11 | Fechou a aba e encerrou a busca no portal | — | “Não consegui saber se a lei já foi aprovada ou não. Ia mandar o link de um portal de notícia pro grupo, que explica melhor” | A tarefa parou sem resposta à pergunta original | 4:50 |
+| 1 | Abriu o navegador e pesquisou "senado jornada de trabalho" no Google | Google | "Vou pesquisar no Google, nao sei o endereco de cabeca" | Nao | Figura 1 |
+| 2 | Clicou no primeiro resultado do senado.leg.br — uma materia do Senado Noticias, nao a homepage | Google | — | Nao | Figura 2 |
+| 3 | Localizou a lupa no cabecalho e a clicou para expandir o campo de busca | Senado Noticias | "Nao tem campo aberto... ah, tem a lupa aqui em cima" | Hesitou alguns segundos | Figura 3 |
+| 4 | Digitou "jornada de trabalho" e aperta Enter; recebeu lista misturada de tipos | Pagina de resultados | "Tem muita coisa aqui... nao sei se e noticia ou o projeto de lei" | Percorreu sem clicar por ~20 segundos | Figura 4 |
+| 5 | Clicou no PL 5253/2026 | Lista de resultados | "Esse aqui parece ser o certo" | Nao | Figura 5 |
+| 6 | Abriu a caixa "Entenda a proposta" gerada por IA | Pagina da proposicao | "Ah, tem um resumo aqui, otimo". Ficou confusa porque o resumo descreve o texto original, nao o estado atual | Parou relendo o resumo | Figura 6 |
+| 7 | Localizou o cartao "Situacao Atual" | Pagina da proposicao | "Aguardando despacho... o que e isso? Nao entendo se esta quase sendo votado ou vai ficar parado" | Buscou ajuda com os olhos; retomou sem receber | Figura 7 |
+| 8 | Abriu a secao "Tramitacao" | Pagina da proposicao | "Vou tentar aqui... tambem nao entendo. So tem codigo e notas tecnicas" | Nao | Figura 8 |
+| 9 | Fechou a aba e encerrou a busca | — | "Nao consegui saber se a lei ja foi aprovada. Ia mandar um link de noticia pro grupo" | Tarefa encerrada sem resposta | — |
 
-<p class="caption">Tabela 5 — Registro da observação.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026), a partir da sessão de 27/09/2026.</p>
+<p class="caption">Tabela 5 — Registro da observacao.</p>
+<p class="source">Fonte: elaboracao do Grupo 06 (2026), a partir da sessao de 27/09/2026.</p>
+
+### Capturas da observacao
+
+As Figuras 1 a 8 reproduzem o percurso registrado na Tabela 5, na mesma ordem dos passos.
+
+![Figura 1 — Resultados do Google para "senado jornada de trabalho". O primeiro link institucional e uma materia do Senado Noticias, nao a pagina inicial do portal.](../../../../assets/img/observacao/obs-01-google.png)
+
+<p class="caption">Figura 1 — Google: resultados para "senado jornada de trabalho".</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 2 — Materia do Senado Noticias aberta a partir do Google. Ponto de entrada real, nao a homepage do portal.](../../../../assets/img/observacao/obs-02-materia-senado.png)
+
+<p class="caption">Figura 2 — Senado Noticias: materia sobre a escala 6x1.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 3 — Lupa no cabecalho expandida. O campo de busca nao e visivel por padrao.](../../../../assets/img/observacao/obs-03-lupa.png)
+
+<p class="caption">Figura 3 — Campo de busca interno ativado pela lupa do cabecalho.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 4 — Lista de resultados da busca interna: mistura noticias, proposicoes, pronunciamentos e legislacao, todos com badge "Em tramitacao", sem distincao visual por tipo.](../../../../assets/img/observacao/obs-04-resultados-busca.png)
+
+<p class="caption">Figura 4 — Resultados da busca interna: lista misturada por tipo de conteudo.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 5 — Topo da pagina do PL 5253/2026, com titulo formal e ementa tecnica.](../../../../assets/img/observacao/obs-05-proposicao-topo.png)
+
+<p class="caption">Figura 5 — Pagina do PL 5253/2026: titulo e ementa.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 6 — Caixa "Entenda a proposta", gerada por IA, expandida. Descreve o texto original, nao o estado atual da tramitacao.](../../../../assets/img/observacao/obs-06-entenda-proposta.png)
+
+<p class="caption">Figura 6 — Caixa "Entenda a proposta" aberta: resume o texto original, nao o estado atual.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 7 — Cartao "Situacao Atual" exibindo badge "Em tramitacao" e estado "AGUARDANDO DESPACHO" em 01/09/2026, sem explicacao do significado.](../../../../assets/img/observacao/obs-07-situacao-atual.png)
+
+<p class="caption">Figura 7 — Cartao "Situacao Atual": "AGUARDANDO DESPACHO" sem contextualizacao para o leigo.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
+
+![Figura 8 — Secao "Tramitacao" expandida com codigos de orgao (PLEN) e notas tecnicas sem glossario.](../../../../assets/img/observacao/obs-08-tramitacao.png)
+
+<p class="caption">Figura 8 — Secao "Tramitacao": codigos tecnicos sem contexto para o cidadao leigo.</p>
+<p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
 ### Limitações da coleta
 
