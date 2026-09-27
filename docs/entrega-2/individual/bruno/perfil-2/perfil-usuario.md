@@ -34,8 +34,8 @@ A análise documental consiste em examinar registros já existentes — relatór
 
 A análise de similares examina sistemas com funções comparáveis para identificar padrões de tarefas e dificuldades recorrentes (BARBOSA; SILVA, 2010, p. 143). Foram inspecionados:
 
-- o portal da Câmara dos Deputados (`camara.leg.br`), que serve ao mesmo público pesquisador e oferece busca avançada de proposições;
-- o LexML Brasil, agregador de normas e documentos legislativos utilizado por estudantes e advogados.
+- o portal da Câmara dos Deputados [4], que serve ao mesmo público pesquisador e oferece busca avançada de proposições com filtros por tema, tipo e período;
+- o LexML Brasil [5], agregador de normas e documentos legislativos utilizado por estudantes e advogados para acesso ao inteiro teor.
 
 A comparação com esses sistemas permitiu identificar que o perfil pesquisador espera busca avançada por tema, acesso ao inteiro teor em PDF, e histórico de tramitação legível — recursos que o portal do Senado oferece mas apresenta de forma fragmentada.
 
@@ -46,6 +46,7 @@ A Tabela 2 organiza os atributos do perfil segundo Hackos e Redish (1998 apud BA
 | Atributo | Registro | Origem |
 | --- | --- | --- |
 | Dados demográficos | Homem ou mulher, 20–28 anos | Análise documental |
+| Status socioeconômico | Classe média (inferida); estudante universitário com acesso a dispositivos pessoais e internet | Análise documental |
 | Experiência no cargo | Estudante de graduação ou pós-graduação | Análise documental |
 | Informações sobre a empresa | Universidade pública ou privada, cursos de Direito, Ciência Política ou Políticas Públicas | Análise documental |
 | Educação | Ensino superior em andamento ou completo; leitura fluente de textos jurídicos | Análise documental |
@@ -84,3 +85,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 [2] HACKOS, JoAnn T.; REDISH, Janice C. User and task analysis for interface design. New York: John Wiley & Sons, 1998.
 
 [3] COURAGE, Catherine; BAXTER, Kathy. Understanding your users. San Francisco: Morgan Kaufmann, 2005.
+
+[4] CÂMARA DOS DEPUTADOS. Busca de proposições. Disponível em: https://www.camara.leg.br/busca-portal. Acesso em: 26 set. 2026.
+
+[5] LEXML BRASIL. Rede de informação legislativa e jurídica. Disponível em: https://www.lexml.gov.br/. Acesso em: 26 set. 2026.
