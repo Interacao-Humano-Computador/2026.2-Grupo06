@@ -152,7 +152,11 @@ nav:
               - Persona: entrega-2/individual/israel/persona.md
               - Cenário: entrega-2/individual/israel/cenario.md
               - Análise de tarefas: entrega-2/individual/israel/analise-tarefas.md
-          - Luis Henrique: entrega-2/individual/luis.md
+          - Luís Henrique:
+              - Entrevista e observação: entrega-2/individual/luis/entrevista-observacao.md
+              - Persona: entrega-2/individual/luis/persona.md
+              - Cenário: entrega-2/individual/luis/cenario.md
+              - Análise de tarefas: entrega-2/individual/luis/analise-tarefas.md
   - Atas:
       - atas/index.md
       - Ata 01: atas/ata-01.md

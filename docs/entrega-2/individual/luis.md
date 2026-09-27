@@ -1,1 +1,0 @@
-# Luis Henrique Arruda Luna

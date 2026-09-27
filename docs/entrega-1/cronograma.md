@@ -266,6 +266,12 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Ajustes finais do GitHub Pages | Caio Breno | 05/09/2026 | 06/09/2026 | Concluída |
 | Gravação da apresentação | Todos | 05/09/2026 | 06/09/2026 | Concluída |
 | Edição e publicação do vídeo | Bruno Ferreira | 05/09/2026 | 06/09/2026 | Concluída |
+| Preparação do perfil e do roteiro de entrevista | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída |
+| Entrevista e observação da participante P5 | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Sessão concluída das 15h40 às 16h06; transcrição pendente |
+| Elaboração preliminar da persona e do cenário | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída em caráter preliminar; validação detalhada depende da transcrição |
+| Elaboração preliminar da HTA e da CTT | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída em caráter preliminar; ajustes dependem da observação transcrita |
+| Documentação das técnicas de coleta e evidências bibliográficas | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída |
+| Integração dos artefatos individuais ao GitHub Pages | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Integração parcial concluída; resultados finais aguardam a transcrição |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -285,6 +291,7 @@ A equipe agradece o apoio de ferramentas de inteligência artificial generativa 
 | `1.1` | 05/09/2026 | Adição da introdução, legendas e redistribuição de tarefas da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.3` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `2.0` | 27/09/2026 | Registro parcial das atividades executadas por Luís Henrique na Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 
