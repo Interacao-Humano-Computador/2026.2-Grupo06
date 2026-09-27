@@ -25,7 +25,7 @@ A Tabela 2 identifica o cenário.
 
 | Campo | Registro |
 | --- | --- |
-| Título | Só queria saber se o auditório estava livre |
+| Título | Marta desiste sem saber se o auditório está livre |
 | Ator | [Marta Oliveira](persona.md), servidora pública que precisa verificar a disponibilidade de um espaço |
 | Objetivo principal | Confirmar se o auditório do Senado está disponível para uso numa data específica |
 | Situação inicial | Marta está no computador, e não no celular que costuma usar no dia a dia, porque a tarefa exige mais atenção. Nunca usou a busca do portal para algo assim |
@@ -49,7 +49,7 @@ As perguntas abaixo expressam o que o cenário precisa esclarecer. Na narrativa,
 
 ## Narrativa
 
-**Só queria saber se o auditório estava livre**
+**Marta desiste sem saber se o auditório está livre**
 
 Atores: Marta Oliveira (servidora pública)
 
@@ -76,8 +76,9 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
-| `0.2` | 27/09/2026 | Narrativa e análise preenchidas a partir da sessão com a persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
+| `0.1` | 27/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.2` | 27/09/2026 | Narrativa e análise preenchidas a partir da sessão com a persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marta desiste sem saber se o auditório está livre | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

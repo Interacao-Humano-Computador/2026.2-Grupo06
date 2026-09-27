@@ -25,7 +25,7 @@ A Tabela 2 identifica o cenário.
 
 | Campo | Registro |
 | --- | --- |
-| Título | A lista de “drone” mistura 2013 com 2026 |
+| Título | Na busca por drone, notícias de 2013 aparecem entre as de 2026 |
 | Ator | [Renata Moreira](persona.md), estagiária que compila notícias para um anuário |
 | Objetivo principal | Separar, no período do anuário, notícias do setor que valham ser salvas para a análise da equipe |
 | Situação inicial | Semana em que a fonte da vez é o Senado. Renata está no computador, com o navegador aberto numa aba em branco, e ainda não sabe o que o portal publicou sobre o setor no ano |
@@ -54,7 +54,7 @@ Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário pre
 
 A narrativa é um cenário de problema: conta a atividade como ela existe hoje, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). O número entre colchetes aponta a pergunta da lista acima, como no Exemplo 6.5 (p. 190). O caminho até a lista vem da observação. Salvar, aprovar e mudar de site vêm da entrevista, e não foram observados; as limitações estão na [página da sessão](entrevista-observacao.md#limitacoes-da-coleta).
 
-**A lista de “drone” mistura 2013 com 2026**
+**Na busca por drone, notícias de 2013 aparecem entre as de 2026**
 
 Atores: Renata Moreira (estagiária)
 
@@ -87,6 +87,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.2` | 24/09/2026 | Narrativa e análise do cenário a partir da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 25/09/2026 | Situação inicial, narrativa só com a persona, lacuna da pergunta 7 e retirada de problema sem base na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 27/09/2026 | Ajusta o título para descrever a situação: a lista de notícias mistura 2013 e 2026 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

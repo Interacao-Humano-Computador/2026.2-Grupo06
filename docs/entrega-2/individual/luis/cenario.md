@@ -20,7 +20,7 @@ Este cenário de problema descreve a consulta à pauta e ao resultado de uma reu
 
 | Campo | Registro |
 | --- | --- |
-| Título | Da reunião da CCJ ao resultado de um item |
+| Título | Marina erra o caminho até a reunião da CCJ |
 | Ator | [Marina Alves](persona.md), engenheira química formada e estudante para concursos |
 | Objetivo principal | Relacionar o estudo sobre comissões a uma reunião real, consultando pauta e resultado de um item |
 | Situação inicial | Em casa, diante de um computador com Microsoft Edge, Marina recebe a tarefa sem um endereço direto da reunião |
@@ -47,7 +47,7 @@ Como no Exemplo 6.5 de Barbosa e Silva (2010, p. 189–190), os números entre c
 
 ## Narrativa
 
-**Da reunião da CCJ ao resultado de um item**
+**Marina erra o caminho até a reunião da CCJ**
 
 Atores: Marina Alves (estudante/concurseira)
 
@@ -106,8 +106,9 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 27/09/2026 | Cenário preliminar e separação entre hipóteses e evidências pendentes | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.2` | 27/09/2026 | Incorpora percurso, dificuldades, conclusão e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.1` | 27/09/2026 | Cenário preliminar e separação entre hipóteses e evidências pendentes | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.2` | 27/09/2026 | Incorpora percurso, dificuldades, conclusão e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marina erra o caminho até a reunião da CCJ | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

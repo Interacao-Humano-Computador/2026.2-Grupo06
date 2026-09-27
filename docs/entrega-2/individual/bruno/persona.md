@@ -66,7 +66,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Mariana Costa, 23 anos, assistente administrativa e estudante universitária de Administração. Nome e retrato inventados; a idade reflete a faixa de jovens adultos que ingressam no mercado e no ensino superior | Sessão, sintetizada |
-| Status | Primária, como proposta a confirmar no [elenco](../../elenco-personas.md). Uma persona primária precisa de uma interface que não serviria a nenhuma outra (p. 179–180). O que Mariana mais demanda — linguagem simplificada, status visual claro e direto da tramitação e contextualização em linguagem cidadã — não é suprido por interfaces pensadas para operadores do direito ou servidores | Proposta do autor |
+| Status | Primária no [elenco](../../elenco-personas.md). Uma interface que explique, em linguagem comum, se a lei já vale não serviria à Letícia, que precisa ver o voto, nem à Marina, que precisa achar a reunião da comissão | Decisão do elenco |
 | Objetivos | Os das listas acima: fins estáveis, não os cliques de uma busca | Sessão, sintetizada |
 | Habilidades | Habilidade digital intermediária para ferramentas de escritório (planilhas, e-mails, navegador web); preferência acentuada por celular no uso pessoal; baixo letramento jurídico-legislativo | Sessão, sintetizada |
 | Tarefas | Em linhas gerais: verificar a situação de uma proposição noticiada, entender o impacto de uma lei aprovada e consultar informações de senadores para a faculdade. Frequência: esporádica (poucas vezes ao ano). Importância: média para trabalhos acadêmicos e alta para projetos com reflexo em sua renda ou direitos. Duração: não medida; a expectativa é resolver a busca em até dois minutos. O detalhe de uma busca está no cenário | Sessão, sintetizada |
@@ -119,8 +119,9 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Estrutura da persona e planejamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
-| `1.0` | 26/09/2026 | Persona Mariana Costa consolidada conforme os oito elementos de Courage e Baxter e registro de validação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
+| `0.1` | 21/09/2026 | Estrutura da persona e planejamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 26/09/2026 | Persona Mariana Costa consolidada conforme os oito elementos de Courage e Baxter e registro de validação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 27/09/2026 | Confirma Mariana Costa como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

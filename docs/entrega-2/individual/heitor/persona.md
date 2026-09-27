@@ -64,7 +64,7 @@ A Tabela 2 sintetiza os oito elementos propostos por Courage e Baxter (2005 apud
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Letícia Oliveira, 21 anos, graduanda em Geografia e secretária técnica de movimento social camponês. Nome e imagem fictícios. | Sessão empírica, sintetizada |
-| Status | Primária, no âmbito do perfil de Participante focado no módulo e-Cidadania (consultas públicas e engajamento cívico). | Proposta do autor |
+| Status | Primária no [elenco](../../elenco-personas.md), no perfil de participante do e-Cidadania. Uma interface que explique a tramitação ou que abra o caminho das comissões não coloca o voto na frente dela | Decisão do elenco |
 | Objetivos | Fazer valer o posicionamento coletivo do movimento por meio do voto; verificar a ementa com agilidade; concluir a votação sem fricção. | Sessão empírica, sintetizada |
 | Habilidades | Alta familiaridade com dispositivos móveis e aplicativos de comunicação; familiaridade intermediária com computadores; boa interpretação de textos normativos e ementas. | Sessão empírica, sintetizada |
 | Tarefas | Acessar a página de consulta pública de uma proposição legislativa (ex.: PL 1215/2025), compreender seu teor e registrar o voto. Frequência: episódica/sob demanda de votações no Senado. Importância: alta para o exercício da cidadania e manifestação coletiva. Duração: rápida (cerca de 1 a 2 minutos), atrasada pela baixa visibilidade da área de votação. | Sessão empírica, sintetizada |
@@ -98,6 +98,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | :---: | --- | --- | --- | --- |
 | `0.1` | 27/09/2026 | Estrutura inicial e planejamento da persona | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Elaboração completa da persona Letícia Oliveira fundamentada na sessão empírica e validada com a participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 27/09/2026 | Confirma Letícia Oliveira como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

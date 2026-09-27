@@ -25,7 +25,7 @@ A Tabela 2 resume as características do cenário.
 
 | Campo | Registro |
 | --- | --- |
-| Título | A busca rápida do PL 1215/2025 e o labirinto para encontrar onde votar |
+| Título | O projeto aparece na busca, mas o voto não aparece na página |
 | Ator | [Letícia Oliveira](persona.md), secretária técnica de movimento social e estudante de graduação |
 | Objetivo principal | Acessar a consulta pública de uma proposição legislativa de interesse popular (PL 1215/2025) e registrar o voto favorável ("Sim") no e-Cidadania |
 | Situação inicial | Letícia está no notebook de estudos, com abas de pesquisa acadêmica abertas, e recebe no grupo de mensagens do movimento a convocatória urgente para votar no projeto de lei da agricultura familiar |
@@ -54,7 +54,7 @@ Conforme formulado por Barbosa e Silva (2010, p. 189–190), a elaboração de p
 
 A narrativa a seguir adota o formato de cenário de problema, expondo as ações, percepções e impasses vivenciados pela usuária na interface atual (BARBOSA; SILVA, 2010, p. 184–190).
 
-**A busca rápida do PL 1215/2025 e o labirinto para encontrar onde votar**
+**O projeto aparece na busca, mas o voto não aparece na página**
 
 Atores: Letícia Oliveira (secretária técnica e militante social)
 
@@ -87,6 +87,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | :---: | --- | --- | --- | --- |
 | `0.1` | 27/09/2026 | Estruturação inicial do cenário de problema | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Redação completa do cenário de problema baseada na observação empírica com o PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 27/09/2026 | Ajusta o título para descrever a situação: o projeto é encontrado e o voto fica escondido | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
