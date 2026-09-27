@@ -65,7 +65,7 @@ A Tabela 3 registra os TCLE aplicados pelo grupo.
 | Integrante | Participante | Data | Modo de assinatura | Observações |
 | --- | --- | :---: | --- | --- |
 | Luís Henrique Luna de Arruda | P5 — identidade preservada | 27/09/2026 | Assinatura no TCLE e autorização oral registrada em vídeo, conforme relato do entrevistador | O entrevistador relata autorização para voz, tela e imagem. O TCLE recebido autoriza apenas áudio e precisa ter a data e o escopo corrigidos. A gravação bruta não será publicada. |
-[Israel Soares](https://github.com/IsraelSoares-25) | Marta Oliveira | 27/09/2026 | Assinatura manuscrita, em via física, duas vias | Consentimento para participação, entrevistador relata autorização para voz, tela e imagem. A gravação bruta não será publicada |
+[Israel Soares](https://github.com/IsraelSoares-25) | Identidade preservada | 27/09/2026 | Assinatura via gov digital | Consentimento para participação, entrevistador relata autorização para voz, tela e imagem. A gravação bruta não será publicada |
 
 <p class="caption">Tabela 3 — Registro dos TCLE aplicados.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
