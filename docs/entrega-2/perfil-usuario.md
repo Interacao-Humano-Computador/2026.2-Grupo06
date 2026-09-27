@@ -74,24 +74,24 @@ O perfil consolidado reúne os dados coletados nas sessões individuais, organiz
 
 | Atributo | P1 — Bruno (Cidadão leigo) | P2 — Caio (Estagiária/recorrente) | P3 — Heitor | P4 — Israel | P5 — Luis (Servidor) |
 | --- | --- | --- | --- | --- | --- |
-| Dados demográficos | Mulher, 23 anos | Mulher, 24 anos | — | — | — |
-| Experiência no cargo | Assistente administrativa, setor privado | Estagiária há ~6 meses em órgão público | — | — | — |
-| Informações sobre a empresa | Escritório de médio porte, setor privado | Órgão público federal | — | — | — |
-| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | — | — | — |
-| Experiência com computadores | Média — domina ferramentas de escritório | Alta — autoavaliação 4 em escala de 1 a 5 | — | — | — |
-| Experiência com o produto | Baixa — acessa esporadicamente, por links externos | Recorrente e de trabalho; última visita ~2 semanas antes | — | — | — |
-| Tecnologia disponível | Computador no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | — | — | — |
-| Treinamento e aprendizado | Explora sozinha se intuitivo; assiste vídeos curtos | Explora sozinha; usa vídeo ou IA para sistemas novos | — | — | — |
-| Atitudes e valores | Desiste rápido se não encontrar o que quer | Gosta do visual e das opções de acessibilidade | — | — | — |
-| Conhecimento do domínio | Leiga em legislação e processo legislativo | Especialista no setor aeroespacial; leiga em legislação | — | — | — |
-| Objetivos | Confirmar informação legislativa vista em redes sociais | Reunir notícias do setor para o anuário anual | — | — | — |
-| Tarefas | Verificar status de projeto de lei por tema popular | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | — | — | — |
-| Gravidade dos erros | Alta para ela (confia em fonte incorreta); baixa para o sistema | Baixa a média: notícia perdida costuma chegar por outro veículo | — | — | — |
-| Idiomas e jargões | Sem jargão legislativo; usa linguagem coloquial | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | — | — | — |
-| **Grupo: idade** | Jovem adulta | Jovem adulta | — | — | — |
-| **Grupo: experiência** | Iniciante no portal; esporádica | Usuária frequente; sem uso dos controles de ordenação | — | — | — |
-| **Grupo: atitude** | Pragmática: desiste rápido e busca fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | — | — | — |
-| **Grupo: tarefa primária** | Verificar aprovação de lei de interesse cotidiano | Levantar notícias do setor por tema e período | — | — | — |
+| Dados demográficos | Mulher, 23 anos | Mulher, 24 anos | Mulher, 21 anos | — | — |
+| Experiência no cargo | Assistente administrativa, setor privado | Estagiária há ~6 meses em órgão público | Secretária técnica há ~9 meses em movimento social | — | — |
+| Informações sobre a empresa | Escritório de médio porte, setor privado | Órgão público federal | CLOC / Via Campesina (movimento social camponês) | — | — |
+| Educação | Graduação em andamento, Administração | Graduação em andamento, engenharia espacial | Graduação em andamento, Geografia | — | — |
+| Experiência com computadores | Média — domina ferramentas de escritório | Alta — autoavaliação 4 em escala de 1 a 5 | Alta — usa computador no trabalho há ~5 anos e internet há 10+ anos | — | — |
+| Experiência com o produto | Baixa — acessa esporadicamente, por links externos | Recorrente e de trabalho; última visita ~2 semanas antes | Pontual / sob demanda de trabalho ou campanhas | — | — |
+| Tecnologia disponível | Computador no trabalho; smartphone pessoal | Computador do órgão no trabalho; pessoal na sessão | Computador de trabalho, notebook pessoal e smartphone | — | — |
+| Treinamento e aprendizado | Explora sozinha se intuitivo; assiste vídeos curtos | Explora sozinha; usa vídeo ou IA para sistemas novos | Autodidata; não lê manuais; prefere resumos rápidos | — | — |
+| Atitudes e valores | Desiste rápido se não encontrar o que quer | Gosta do visual e das opções de acessibilidade | Pragmática e engajada; apoia interfaces intuitivas; critica baixa divulgação | — | — |
+| Conhecimento do domínio | Leiga em legislação e processo legislativo | Especialista no setor aeroespacial; leiga em legislação | Intermediário em processo legislativo; especialista em pautas do campo | — | — |
+| Objetivos | Confirmar informação legislativa vista em redes sociais | Reunir notícias do setor para o anuário anual | Votar em matérias de relevância para a agricultura familiar e direitos coletivos | — | — |
+| Tarefas | Verificar status de projeto de lei por tema popular | Levantar notícias por palavra-chave, descartar antigas e salvar para aprovação | Buscar projeto (PL 1215/2025), avaliar ementa e votar no e-Cidadania | — | — |
+| Gravidade dos erros | Alta para ela (confia em fonte incorreta); baixa para o sistema | Baixa a média: notícia perdida costuma chegar por outro veículo | Média a alta: voto divergente desvirtua posicionamento do coletivo | — | — |
+| Idiomas e jargões | Sem jargão legislativo; usa linguagem coloquial | Vocabulário do setor aeroespacial; sigla desconhecida vai para o Google | Jargões de movimentos sociais ("soberania alimentar") e termos legislativos | — | — |
+| **Grupo: idade** | Jovem adulta | Jovem adulta | Jovem adulta (21 anos) | — | — |
+| **Grupo: experiência** | Iniciante no portal; esporádica | Usuária frequente; sem uso dos controles de ordenação | Pontual / sob demanda de trabalho | — | — |
+| **Grupo: atitude** | Pragmática: desiste rápido e busca fonte externa | Tecnófila: explora sozinha e recorre a vídeo ou IA | Autodidata, pragmática e pró-participação popular | — | — |
+| **Grupo: tarefa primária** | Verificar aprovação de lei de interesse cotidiano | Levantar notícias do setor por tema e período | Votar em consultas públicas de relevância socioambiental | — | — |
 
 <p class="caption">Tabela 3 — Perfil consolidado do usuário do Portal do Senado Federal.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base nas sessões individuais; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>

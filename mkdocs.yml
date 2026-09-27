@@ -142,7 +142,11 @@ nav:
               - Persona: entrega-2/individual/caio/persona.md
               - Cenário: entrega-2/individual/caio/cenario.md
               - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
-          - Heitor Pinheiro: entrega-2/individual/heitor.md
+          - Heitor Pinheiro:
+              - Entrevista e observação: entrega-2/individual/heitor/entrevista-observacao.md
+              - Persona: entrega-2/individual/heitor/persona.md
+              - Cenário: entrega-2/individual/heitor/cenario.md
+              - Análise de tarefas: entrega-2/individual/heitor/analise-tarefas.md
           - Israel Soares: entrega-2/individual/israel.md
           - Luis Henrique: entrega-2/individual/luis.md
   - Atas:
