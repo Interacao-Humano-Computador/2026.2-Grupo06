@@ -66,7 +66,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Renata Moreira, 24 anos, estudante de engenharia na área espacial. Nome e retrato inventados; a idade representa a faixa de quem está no início da carreira | Sessão, sintetizada |
-| Status | Secundária, como proposta a confirmar no [elenco](../../elenco-personas.md). Uma persona primária precisa de uma interface que não serviria a nenhuma outra (p. 179–180). O que Renata mais precisa, a lista em ordem de data e o acesso direto às notícias, tende a ser atendido por uma interface feita para quem procura notícias no portal. O que é só dela é saber quando o período acabou | Proposta do autor |
+| Status | Secundária no [elenco](../../elenco-personas.md). A busca por assunto e a lista em ordem de data, úteis também a quem procura uma lei, cobrem o essencial dela. O que é só dela é saber quando o período do anuário se esgotou | Decisão do elenco |
 | Objetivos | Os das listas acima: fins estáveis, não os cliques de uma busca | Sessão, sintetizada |
 | Habilidades | Confortável com sites; aprende sistema novo com vídeo ou explicação. Conhece a busca do portal o bastante para a tarefa, sem ser especialista em tramitação | Sessão, sintetizada |
 | Tarefas | Em linhas gerais: levantar notícias e normas do setor no período do anuário, descartar o que é antigo e encaminhar o que segue para aprovação. Frequência: ao longo de todo o ano, com a fonte mudando de semana em semana; o Senado é uma das fontes. Importância: média a alta, porque o anuário depende do levantamento, mas notícia perdida costuma chegar por outro veículo. Duração: não medida; na observação, ir do buscador até a lista de notícias levou cerca de um minuto. O detalhe de uma busca está no cenário | Sessão, sintetizada |
@@ -127,6 +127,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `1.1` | 24/09/2026 | Vídeo da validação no YouTube, não listado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 24/09/2026 | Recoloca o retrato no cartão e tira a frase de destaque | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 25/09/2026 | Objetivos sem falsos objetivos, status proposto, frequência e duração da tarefa, citações nos requisitos, limitação da validação e origem do retrato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 27/09/2026 | Confirma Renata Moreira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

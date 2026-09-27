@@ -60,7 +60,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Marta Oliveira, 47 anos, servidora pública. Nome e retrato inventados | Sessão, sintetizada |
-| Status | Secundária, como proposta a confirmar no elenco de personas do grupo. O que Marta mais precisa — uma busca que entenda linguagem simples e um canal de aviso por e-mail — tende a beneficiar qualquer usuário do portal, não só ela | Proposta do autor |
+| Status | Secundária no [elenco](../../elenco-personas.md). A linguagem comum de que ela precisa é a mesma necessidade da Mariana Costa. Uma interface que explique a situação em palavras simples também a ajuda a descobrir se um espaço está disponível | Decisão do elenco |
 | Objetivos | Os das listas acima: resolver tarefas pontuais, acompanhar leis de interesse, ser avisada sem precisar voltar ao site | Sessão, sintetizada |
 | Habilidades | Pouca familiaridade técnica com sites institucionais; busca ajuda ou informação complementar por fora quando trava; usa vocabulário do dia a dia, não jargão legislativo | Sessão, sintetizada |
 | Tarefas | Resolver tarefas administrativas pontuais junto ao Senado (ex.: verificar disponibilidade de auditório) e acompanhar leis/projetos de interesse. Frequência: esporádica no portal, diária no consumo de notícias em geral. Importância: pontual, mas decisiva quando ocorre — na tentativa observada, a tarefa não foi concluída | Sessão, sintetizada |
@@ -111,8 +111,9 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
-| `0.2` | 27/09/2026 | Persona Marta Oliveira preenchida com os dados da sessão, ainda sem o ok da participante | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
+| `0.1` | 27/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.2` | 27/09/2026 | Persona Marta Oliveira preenchida com os dados da sessão, ainda sem o ok da participante | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Confirma Marta Oliveira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

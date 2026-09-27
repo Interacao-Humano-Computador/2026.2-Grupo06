@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Marina Alves é a persona provisória do perfil de uma engenheira química formada que estuda para concursos e utiliza o Portal do Senado quando precisa fazer consultas para seus estudos. O nome é fictício. A persona foi apresentada à participante em 27/09/2026 e, segundo o entrevistador, todos os seus atributos foram aprovados sem correções. A redação final e a seleção de uma fala representativa aguardam a transcrição da [sessão](entrevista-observacao.md).
+Marina Alves é a persona do perfil de uma engenheira química formada que estuda para concursos e utiliza o Portal do Senado quando precisa fazer consultas para seus estudos. O nome é fictício. A persona foi apresentada à participante em 27/09/2026 e, segundo o entrevistador, todos os seus atributos foram aprovados sem correções. No [elenco](../../elenco-personas.md) ela é primária. A seleção de uma fala representativa aguarda a transcrição da [sessão](entrevista-observacao.md).
 
 !!! warning "Versão provisória"
 
@@ -53,7 +53,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter. Os campos assinalados
 | Elemento | Descrição atual | Situação/origem |
 | --- | --- | --- |
 | Identidade | Marina Alves, 24 anos, engenheira química formada e estudante para concursos; nome fictício | Relato do entrevistador |
-| Status | A definir no elenco do grupo | Decisão coletiva pendente |
+| Status | Primária no [elenco](../../elenco-personas.md). A busca por assunto e o botão de voto não mostram onde ficam as reuniões de comissão para quem não conhece a sigla CCJ | Decisão do elenco |
 | Objetivos | Passar em concurso relacionado à Engenharia Química, considerando oportunidades no Senado, e usar fontes oficiais com autonomia | Relato do entrevistador e planejamento da tarefa |
 | Habilidades | Habilidade intermediária com computadores e internet; uso ocasional do Portal do Senado por demanda | Relato do entrevistador |
 | Tarefas | Encontrar reunião realizada da CCJ, consultar pauta, item e resultado da votação | Tarefa concluída na observação |
@@ -83,8 +83,9 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 27/09/2026 | Persona provisória, objetivos, elementos e registro inicial da validação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.2` | 27/09/2026 | Incorpora atributos, comportamento, necessidades e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.1` | 27/09/2026 | Persona provisória, objetivos, elementos e registro inicial da validação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.2` | 27/09/2026 | Incorpora atributos, comportamento, necessidades e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Confirma Marina Alves como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
