@@ -30,7 +30,7 @@ A Tabela 2 caracteriza a participante preservando sua privacidade, em conformida
 | Campo | Registro |
 | --- | --- |
 | Perfil de usuário | Participante — atuante em movimentos sociais do campo e engajada em causas coletivas e participação cidadã |
-| Descrição | 21 anos, mulher, estudante de graduação em Geografia, atuando há 9 meses como secretária técnica na Coordenadora Latino-Americana de Organizações do Campo (CLOC / Via Campesina) |
+| Descrição | 21 anos, mulher, estudante de graduação em Geografia, atuando há 9 meses11 como secretária técnica na Coordenadora Latino-Americana de Organizações do Campo (CLOC / Via Campesina) |
 | Responsabilidades | Agendar reuniões com lideranças populares, preparar eventos, articular lutas unificadas e redigir comunicados |
 | Tarefa de interesse | Localizar no portal do Senado a consulta pública sobre o PL 1215/2025 (Crédito emergencial para a agricultura familiar atingida por eventos climáticos adversos) e registrar o voto favorável no e-Cidadania |
 | Recrutamento | Por conveniência, na rede de contatos do entrevistador |
