@@ -18,7 +18,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 ## Introdução
 
-<!-- Preencher: por que a coleta de dados do grupo precisa observar aspectos éticos, e quais artefatos esta página orienta (entrevistas, observações, gravações e TCLE usados nas sessões). -->
+A coleta de dados do Grupo 06 envolve pessoas: cada integrante entrevista e observa uma participante para construir sua persona e seu cenário. Por isso, antes de qualquer sessão, é preciso garantir que a participação seja voluntária, informada e sem riscos além de leve desconforto, e que a identidade da participante seja preservada. Esta página reúne a base teórica que orienta esses cuidados e explica como eles se aplicam, na prática, às [entrevistas e observações](entrevista-observacao.md), às gravações feitas nessas sessões e ao [Termo de Consentimento Livre e Esclarecido (TCLE)](etica.md#termo-de-consentimento-livre-e-esclarecido-tcle) usado por todo o grupo.
 
 ## Aspectos éticos de pesquisas envolvendo pessoas
 
@@ -66,7 +66,7 @@ A Tabela 3 registra os TCLE aplicados pelo grupo.
 
 ## Agradecimentos
 
-<!-- Preencher, se aplicável. -->
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 
