@@ -51,22 +51,22 @@ A Tabela 3 mostra a estrutura da sessão.
 
 | Parte | Atividade | Duração prevista | Duração real | Alimenta |
 | :---: | --- | :---: | :---: | --- |
-| — | Abertura: TCLE e permissão de gravação | | | |
-| 1 | Entrevista semiestruturada | | | |
-| 2 | Observação da tarefa (verificar disponibilidade do auditório), com relato em voz alta | | | |
-| 3 | Validação da persona com a participante | | | |
+| — | Abertura: TCLE e permissão de gravação | - | - | - |
+| 1 | Entrevista semiestruturada | 5:45 | 5:08 | |
+| 2 | Observação da tarefa (verificar disponibilidade do auditório), com relato em voz alta | 3:00 | 2:38 | |
+| 3 | Validação da persona com a participante | 3:00 | 3:38 | |
 
 <p class="caption">Tabela 3 — Estrutura da sessão.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
 
 ## Cuidados éticos
 
-- [ ] TCLE apresentado antes da sessão, com via assinada para a participante e para o entrevistador.
-- [ ] Permissão para gravar pedida antes de a gravação começar.
-- [ ] TCLE assinado (registrar data e meio de assinatura).
-- [ ] Nenhuma informação interna ou sigilosa do trabalho da participante coletada.
-- [ ] Participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento.
-- [ ] Participante vê como seus dados foram usados antes da publicação.
+- [x] TCLE apresentado antes da sessão, com via assinada para a participante e para o entrevistador.
+- [x] Permissão para gravar pedida antes de a gravação começar.
+- [x] TCLE assinado (registrar data e meio de assinatura).
+- [x] Nenhuma informação interna ou sigilosa do trabalho da participante coletada.
+- [x] Participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento.
+- [x] Participante vê como seus dados foram usados antes da publicação.
 
 ## Roteiro da entrevista
 
@@ -94,7 +94,7 @@ A participante foi convidada a, usando o computador, tentar verificar se o audit
 
 ### Síntese da entrevista
 
-Marta acompanha notícias todos os dias, pela internet e pelo jornal, mas não tem muita familiaridade técnica com sites institucionais: quando precisa, busca ajuda ou informação complementar por fora para concluir o que quer. Ela já acessou o Portal do Senado uma vez, com um objetivo pontual — verificar a disponibilidade do auditório —, mas acabou desistindo: "Eu só queria saber se o auditório tava livre, mas acabei desistindo." Ao final da entrevista, não deu nenhuma sugestão para o site, o que pode indicar tanto conformismo quanto dificuldade de articular problemas específicos de UX.
+Marta acompanha notícias todos os dias, pela internet e pelo jornal, mas não tem muita familiaridade técnica com sites institucionais: quando precisa, busca ajuda ou informação complementar por fora para concluir o que quer. Ela já acessou o Portal do Senado uma vez, com um objetivo pontual — verificar a disponibilidade do auditório : "Eu só queria saber se o auditório tava livre" Ao final da entrevista, não deu nenhuma sugestão para o site, o que pode indicar tanto conformismo quanto dificuldade de articular problemas específicos de UX.
 
 ### Registro da observação
 
@@ -102,9 +102,9 @@ A Tabela 5 registra os passos observados.
 
 | # | O que ela fez | Onde | O que ela disse | Hesitou, errou ou voltou? | Tempo |
 | :---: | --- | --- | --- | --- | :---: |
-| 1 | Abriu o Portal do Senado no computador (em vez do celular, que é seu dispositivo habitual) | Portal do Senado | | Trocou de dispositivo para a tarefa | |
+| 1 | Abriu o Portal do Senado no computador (em vez do celular, que é seu dispositivo habitual) | Portal do Senado |"Disponibilidade "| Trocou de dispositivo para a tarefa | 0:15 |
 | 2 | Tentou localizar informação sobre o auditório usando termos do dia a dia | Busca / seções do portal | | A busca "tem uma deficiência" (não atendeu à necessidade) | |
-| 3 | Ao buscar por outro assunto (informação sobre um senador), procurou pelas seções "senador" e "transparência" — não usou termos técnicos como "matéria" ou "tramitação" | Seções do portal | | | |
+| 3 | Ao buscar por outro assunto (informação sobre um senador), procurou pelas seções "senador" e "transparência" — não usou termos técnicos como "matéria" ou "tramitação" | Seções do portal | | Não | |
 | 4 | Não encontrou uma resposta clara sobre a disponibilidade do auditório e desistiu da tarefa | Portal do Senado | "Eu só queria saber se o auditório tava livre" | Realizado | |
 
 <p class="caption">Tabela 5 — Registro da observação.</p>
@@ -156,7 +156,7 @@ O Vídeo 1 registra a entrevista e a observação. Categoria no YouTube: a defin
 
 ## Agradecimentos
 
-<!-- Preencher, se aplicável. -->
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 

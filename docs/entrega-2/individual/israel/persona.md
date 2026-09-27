@@ -105,7 +105,7 @@ A Tabela 3 registra o resultado.
 
 ## Agradecimentos
 
-<!-- Preencher, se aplicável. -->
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a validação com a participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
