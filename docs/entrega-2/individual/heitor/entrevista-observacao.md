@@ -69,7 +69,7 @@ A Tabela 3 resume a estrutura da sessão.
 
 ## Cuidados éticos
 
-- O Termo de Consentimento Livre e Esclarecido (TCLE) foi assinado previamente pelas partes.
+- O Termo de Consentimento Livre e Esclarecido (TCLE) foi assinado previamente pelas partes. [cópia do TCLE assinado](../../../assets/docs/tcle/Tcle-heitor-assinado.pdf)
 - No início do Vídeo 1 (Entrevista), o entrevistador reforçou verbalmente os termos do consentimento, o anonimato e o direito de interromper o teste a qualquer momento. A participante expressou oralmente a confirmação: *"Sim, eu autorizo a minha participação e a gravação"*.
 - No início do Vídeo 2 (Observação), o consentimento foi reiterado antes do compartilhamento de tela e início da navegação prática.
 
