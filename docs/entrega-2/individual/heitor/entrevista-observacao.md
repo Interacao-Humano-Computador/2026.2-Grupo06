@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Entrevista e observação</span>
+﻿<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Entrevista e observação</span>
 
 # Entrevista e observação
 
@@ -30,7 +30,7 @@ A Tabela 2 caracteriza a participante preservando sua privacidade, em conformida
 | Campo | Registro |
 | --- | --- |
 | Perfil de usuário | Participante — atuante em movimentos sociais do campo e engajada em causas coletivas e participação cidadã |
-| Descrição | 21 anos, mulher, estudante de graduação em Geografia, atuando há 9 meses11 como secretária técnica na Coordenadora Latino-Americana de Organizações do Campo (CLOC / Via Campesina) |
+| Descrição | 21 anos, mulher, estudante de graduação em Geografia, atuando há 9 meses como secretária técnica na Coordenadora Latino-Americana de Organizações do Campo (CLOC / Via Campesina) |
 | Responsabilidades | Agendar reuniões com lideranças populares, preparar eventos, articular lutas unificadas e redigir comunicados |
 | Tarefa de interesse | Localizar no portal do Senado a consulta pública sobre o PL 1215/2025 (Crédito emergencial para a agricultura familiar atingida por eventos climáticos adversos) e registrar o voto favorável no e-Cidadania |
 | Recrutamento | Por conveniência, na rede de contatos do entrevistador |
@@ -48,6 +48,12 @@ Os objetivos desta coleta foram estabelecidos com base em Barbosa e Silva (2010,
 2. Compreender a motivação, a frequência e a percepção da participante sobre o processo de participação popular no Senado;
 3. Observar a execução real da tarefa de busca e voto em consulta pública no e-Cidadania (PL 1215/2025) com relato em voz alta (*think aloud*);
 4. Mapear pontos de fricção, dúvidas cognitivas e barreiras de usabilidade na interface do portal.
+
+Antes do contato com a participante, foram consultadas as seguintes fontes documentais complementares de contextualização do domínio e do sistema (BARBOSA et al., 2021, p. 139):
+
+- **Portal e-Cidadania do Senado Federal** ([www12.senado.leg.br/ecidadania](https://www12.senado.leg.br/ecidadania)): navegação exploratória prévia nos módulos de Consultas Públicas, Ideia Legislativa e transmissão ao vivo para mapeamento da arquitetura de informação e do fluxo de votação;
+- **Texto oficial do PL 1215/2025** (Crédito emergencial para agricultores atingidos por eventos climáticos), consultado diretamente no portal para compreensão prévia da ementa e do contexto da matéria utilizada na tarefa observada;
+- **Portais legislativos comparativos** (Portal da Câmara dos Deputados e sistema de consulta pública do Diário Oficial da União): análise comparativa informal da arquitetura das páginas de participação popular para identificar padrões e divergências de usabilidade em relação ao e-Cidadania.
 
 A Tabela 3 resume a estrutura da sessão.
 
@@ -214,9 +220,12 @@ Esta página contou com o auxílio de inteligência artificial generativa na est
 | :---: | --- | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura, planejamento, roteiro e atributos preliminares | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Atualização completa com dados reais da participante, falas da entrevista e transcrição da observação no PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Adição de fontes documentais complementares consultadas antes da coleta (Item 20 da lista de verificação de IHC) e correção de erro tipográfico na descrição da participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
 [1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 
 [2] SENADO FEDERAL. Portal e-Cidadania. Disponível em: https://www12.senado.leg.br/ecidadania. Acesso em: 25 set. 2026.
+
+
