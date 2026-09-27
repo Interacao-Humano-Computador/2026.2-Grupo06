@@ -172,42 +172,42 @@ A instrucao foi verificar a situacao da PEC da jornada 6x1, em voz alta, sem aju
 
 As Figuras 1 a 8 reproduzem o percurso registrado na Tabela 5, na mesma ordem dos passos.
 
-![Figura 1 — Resultados do Google para "senado jornada de trabalho". O primeiro link institucional e uma materia do Senado Noticias, nao a pagina inicial do portal.](../../../../assets/img/observacao/obs-01-google.png)
+![Figura 1 — Resultados do Google para "senado jornada de trabalho". O primeiro link institucional e uma materia do Senado Noticias, nao a pagina inicial do portal.](../../../assets/img/observacao/obs-01-google.png)
 
 <p class="caption">Figura 1 — Google: resultados para "senado jornada de trabalho".</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 2 — Materia do Senado Noticias aberta a partir do Google. Ponto de entrada real, nao a homepage do portal.](../../../../assets/img/observacao/obs-02-materia-senado.png)
+![Figura 2 — Materia do Senado Noticias aberta a partir do Google. Ponto de entrada real, nao a homepage do portal.](../../../assets/img/observacao/obs-02-materia-senado.png)
 
 <p class="caption">Figura 2 — Senado Noticias: materia sobre a escala 6x1.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 3 — Lupa no cabecalho expandida. O campo de busca nao e visivel por padrao.](../../../../assets/img/observacao/obs-03-lupa.png)
+![Figura 3 — Lupa no cabecalho expandida. O campo de busca nao e visivel por padrao.](../../../assets/img/observacao/obs-03-lupa.png)
 
 <p class="caption">Figura 3 — Campo de busca interno ativado pela lupa do cabecalho.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 4 — Lista de resultados da busca interna: mistura noticias, proposicoes, pronunciamentos e legislacao, todos com badge "Em tramitacao", sem distincao visual por tipo.](../../../../assets/img/observacao/obs-04-resultados-busca.png)
+![Figura 4 — Lista de resultados da busca interna: mistura noticias, proposicoes, pronunciamentos e legislacao, todos com badge "Em tramitacao", sem distincao visual por tipo.](../../../assets/img/observacao/obs-04-resultados-busca.png)
 
 <p class="caption">Figura 4 — Resultados da busca interna: lista misturada por tipo de conteudo.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 5 — Topo da pagina do PL 5253/2026, com titulo formal e ementa tecnica.](../../../../assets/img/observacao/obs-05-proposicao-topo.png)
+![Figura 5 — Topo da pagina do PL 5253/2026, com titulo formal e ementa tecnica.](../../../assets/img/observacao/obs-05-proposicao-topo.png)
 
 <p class="caption">Figura 5 — Pagina do PL 5253/2026: titulo e ementa.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 6 — Caixa "Entenda a proposta", gerada por IA, expandida. Descreve o texto original, nao o estado atual da tramitacao.](../../../../assets/img/observacao/obs-06-entenda-proposta.png)
+![Figura 6 — Caixa "Entenda a proposta", gerada por IA, expandida. Descreve o texto original, nao o estado atual da tramitacao.](../../../assets/img/observacao/obs-06-entenda-proposta.png)
 
 <p class="caption">Figura 6 — Caixa "Entenda a proposta" aberta: resume o texto original, nao o estado atual.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 7 — Cartao "Situacao Atual" exibindo badge "Em tramitacao" e estado "AGUARDANDO DESPACHO" em 01/09/2026, sem explicacao do significado.](../../../../assets/img/observacao/obs-07-situacao-atual.png)
+![Figura 7 — Cartao "Situacao Atual" exibindo badge "Em tramitacao" e estado "AGUARDANDO DESPACHO" em 01/09/2026, sem explicacao do significado.](../../../assets/img/observacao/obs-07-situacao-atual.png)
 
 <p class="caption">Figura 7 — Cartao "Situacao Atual": "AGUARDANDO DESPACHO" sem contextualizacao para o leigo.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>
 
-![Figura 8 — Secao "Tramitacao" expandida com codigos de orgao (PLEN) e notas tecnicas sem glossario.](../../../../assets/img/observacao/obs-08-tramitacao.png)
+![Figura 8 — Secao "Tramitacao" expandida com codigos de orgao (PLEN) e notas tecnicas sem glossario.](../../../assets/img/observacao/obs-08-tramitacao.png)
 
 <p class="caption">Figura 8 — Secao "Tramitacao": codigos tecnicos sem contexto para o cidadao leigo.</p>
 <p class="source">Fonte: captura da sessao de observacao, 27/09/2026.</p>

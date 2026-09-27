@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Cenário 2</span>
+﻿<span class="owner">Responsável: Bruno Ferreira Dornelas — Cenário 2</span>
 
 # Cenário
 
@@ -15,7 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 ## Introdução
 
-Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta pesquisar proposições legislativas sobre um tema acadêmico no Portal do Senado Federal e acessa o inteiro teor do texto. A narrativa apoia-se no perfil elicitado por [análise documental e de similares](perfil-usuario.md) e segue a [estrutura dos cenários do grupo](../../../../cenarios.md#estrutura-dos-cenarios).
+Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta pesquisar proposições legislativas sobre um tema acadêmico no Portal do Senado Federal e acessa o inteiro teor do texto. A narrativa apoia-se no perfil elicitado por [análise documental e de similares](perfil-usuario.md) e segue a [estrutura dos cenários do grupo](../../../cenarios.md#estrutura-dos-cenarios).
 
 ## Identificação
 
