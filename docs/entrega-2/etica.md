@@ -42,7 +42,7 @@ A Tabela 2 apresenta os quatro princípios que orientam a coleta de dados do gru
 | Justiça e equidade | Assegura a relevância social da pesquisa e garante igual consideração dos interesses envolvidos, oferecendo vantagens significativas aos participantes e reduzindo o ônus para grupos vulneráveis|
 
 <p class="caption">Tabela 2 — Os quatro princípios éticos.</p>
-<p class="source">Fonte: elaboração do autor (2026).</p>
+<p class="source">Fonte: BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.</p>
 
 ## Permissão para gravar voz ou imagem
 
