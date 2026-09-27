@@ -1,4 +1,4 @@
-# Etapa 5 — Relatos e planejamento do protótipo de papel
+﻿# Etapa 5 — Relatos e planejamento do protótipo de papel
 
 Entrega em 25/10/2026; inspeção em 26/10; apresentação em 27/10.
 
@@ -8,7 +8,7 @@ Artefatos previstos: relato do storyboard; relato da análise de tarefas; planej
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
