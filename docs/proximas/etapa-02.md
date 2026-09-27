@@ -1,4 +1,4 @@
-# Etapa 2 — Perfil, ética e análise de tarefas
+﻿# Etapa 2 — Perfil, ética e análise de tarefas
 
 Entrega em 27/09/2026; inspeção em 28/09; apresentação em 29/09.
 
@@ -10,7 +10,7 @@ Crie as páginas desta etapa a partir do [template](../guia/template-artefato.md
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

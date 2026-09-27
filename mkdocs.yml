@@ -126,7 +126,17 @@ nav:
           - Cenários: entrega-2/cenarios.md
           - Análise de tarefas: entrega-2/analise-tarefas.md
       - Trabalhos individuais:
-          - Bruno Ferreira: entrega-2/individual/bruno.md
+          - Bruno Ferreira:
+              - Perfil de usuário 1:
+                  - Entrevista e observação: entrega-2/individual/bruno/entrevista-observacao.md
+                  - Persona: entrega-2/individual/bruno/persona.md
+                  - Cenário: entrega-2/individual/bruno/cenario.md
+                  - Análise de tarefas: entrega-2/individual/bruno/analise-tarefas.md
+              - Perfil de usuário 2:
+                  - Perfil do usuário: entrega-2/individual/bruno/perfil-2/perfil-usuario.md
+                  - Persona: entrega-2/individual/bruno/perfil-2/persona.md
+                  - Cenário: entrega-2/individual/bruno/perfil-2/cenario.md
+                  - Análise de tarefas: entrega-2/individual/bruno/perfil-2/analise-tarefas.md
           - Caio Breno:
               - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
               - Persona: entrega-2/individual/caio/persona.md
@@ -146,6 +156,10 @@ nav:
       - Verificação do Grupo:
           - verificacao/grupo-06/index.md
           - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
+          - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
+      - Verificação do Grupo 5:
+          - verificacao/grupo-05/index.md
+          - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
       - Verificação do Grupo 7:
           - verificacao/grupo-07/index.md
           - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md

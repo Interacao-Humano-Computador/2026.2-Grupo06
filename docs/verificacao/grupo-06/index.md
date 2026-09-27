@@ -24,6 +24,7 @@ A Tabela 2 lista as etapas verificadas pelo Grupo 06.
 | Etapa | Artefatos | Página |
 | :---: | --- | --- |
 | Etapa 1 | Lista de verificação da Entrega 1 | [Etapa 1](etapa-1/lista-verificacao.md) |
+| Etapa 2 | Lista de verificação da Entrega 2 | [Etapa 2](etapa-2/lista-verificacao.md) |
 
 <p class="caption">Tabela 2 — Etapas verificadas pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -35,6 +36,7 @@ A Tabela 2 lista as etapas verificadas pelo Grupo 06.
 | `1.0` | 05/09/2026 | Criação do índice de verificação do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Correção da numeração da tabela de etapas verificadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 26/09/2026 | Adiciona Etapa 2 à tabela de etapas verificadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

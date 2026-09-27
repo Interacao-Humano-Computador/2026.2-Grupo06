@@ -1,4 +1,4 @@
-# Etapa 3 — Princípios, metas e guia de estilo
+﻿# Etapa 3 — Princípios, metas e guia de estilo
 
 Entrega em 06/10/2026; inspeção em 07/10; apresentação em 08/10.
 
@@ -8,7 +8,7 @@ Artefatos previstos: características da plataforma; princípios gerais (oito t�
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

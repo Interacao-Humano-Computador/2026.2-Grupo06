@@ -20,9 +20,10 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-A seção está organizada em dois grupos:
+A seção está organizada em três grupos:
 
 - **Verificação do Grupo 06:** inspeção dos próprios artefatos produzidos pelo grupo, realizada de forma cruzada entre os integrantes.
+- **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
 
 ## Histórico de versão
@@ -31,6 +32,7 @@ A seção está organizada em dois grupos:
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 05/09/2026 | Criação do índice de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/09/2026 | Adiciona Verificação do Grupo 05 à estrutura da seção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

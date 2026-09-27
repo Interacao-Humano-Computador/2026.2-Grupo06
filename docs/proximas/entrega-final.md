@@ -1,4 +1,4 @@
-# Entrega final
+﻿# Entrega final
 
 Entrega em 30/11/2026. Apresentação entre 20 e 30 minutos.
 
@@ -10,7 +10,7 @@ As páginas específicas serão criadas no fim do semestre, reutilizando o [temp
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Âncora da entrega final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | A definir |
+| `0.1` | 04/09/2026 | Âncora da entrega final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
