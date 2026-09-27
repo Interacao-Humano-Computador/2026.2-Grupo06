@@ -70,7 +70,7 @@ Pensar nas perguntas também mostra uma lacuna: a pergunta 1 fica só em parte r
 
 ## Agradecimentos
 
-<!-- Preencher, se aplicável. -->
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar da narrativa. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 

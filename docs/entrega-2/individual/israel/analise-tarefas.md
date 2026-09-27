@@ -156,7 +156,7 @@ flowchart LR
 
 ## Teste de usabilidade
  
-O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a tentativa da participante de verificar a disponibilidade do auditório no Portal do Senado, incluindo o ponto em que ela desiste. Categoria no YouTube: a definir. Link: [https://youtu.be/1C8-P9m7bwg](https://youtu.be/1C8-P9m7bwg). Data: a definir.
+O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a tentativa da participante de verificar a lei de mals tratos aos animais no Portal do Senado. Categoria no YouTube: a definir. Link: [https://youtu.be/1C8-P9m7bwg](https://youtu.be/1C8-P9m7bwg). Data: a definir.
  
 ??? note "Vídeo 4 — Teste de usabilidade da tarefa analisada"
  
@@ -177,7 +177,7 @@ O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a
 
 ## Agradecimentos
 
-<!-- Preencher, se aplicável. -->
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 
