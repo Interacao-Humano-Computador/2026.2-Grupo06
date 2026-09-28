@@ -161,7 +161,7 @@ Ela acredita que talvez conseguisse repetir a mesma tarefa com maior facilidade,
 
 ### Gravação
 
-A gravação contém as vozes, a tela do computador e, segundo o entrevistador, imagens dos rostos da participante e do entrevistador. A transcrição comprova autorização verbal para **voz e tela**, mas não contém autorização específica para imagem facial. Como o TCLE recebido também não autoriza vídeo/imagem, o arquivo permanece privado e não será incorporado ao repositório nem publicado. Somente os resultados anonimizados e pequenos trechos textuais são utilizados.
+Link para o vídeo da entrevista + Observação: https://youtu.be/POJ8d5kLEmg?si=LXg6pzcyH30WE-oy
 
 ### Validação dos artefatos
 
