@@ -18,7 +18,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
 | 1 | 08/09/2026 | [YouTube](https://youtu.be/NQzcNg32G2k) | Autores dos artefatos da Entrega 1 | [Etapa 1](etapa-01.md) |
-| 2 | 29/09/2026 | [YouTube](https://youtu.be/IgM1H4qxgNs) | Autores dos artefatos da Entrega 2 | [Etapa 2](etapa-02.md) |
+| 2 | 29/09/2026 | [YouTube](https://youtu.be/Sw4IeebXzRQ) | Autores dos artefatos da Entrega 2 | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | — | — | — |
 | 4 | 15/10/2026 | — | — | — |
 | 5 | 27/10/2026 | — | — | — |

@@ -29,13 +29,13 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 ## Vídeo
 
 - Categoria no YouTube: **não listado**
-- Link: [https://youtu.be/IgM1H4qxgNs](https://youtu.be/IgM1H4qxgNs)
+- Link: [https://youtu.be/Sw4IeebXzRQ](https://youtu.be/Sw4IeebXzRQ)
 - Data da gravação: 27/09/2026
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/IgM1H4qxgNs" 
+    src="https://www.youtube-nocookie.com/embed/Sw4IeebXzRQ" 
     title="Apresentação da Etapa 2 do Grupo 06" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     referrerpolicy="strict-origin-when-cross-origin" 
