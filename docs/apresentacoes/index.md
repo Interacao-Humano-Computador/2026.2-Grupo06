@@ -18,7 +18,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
 | 1 | 08/09/2026 | [YouTube](https://youtu.be/NQzcNg32G2k) | Autores dos artefatos da Entrega 1 | [Etapa 1](etapa-01.md) |
-| 2 | 29/09/2026 | — | — | — |
+| 2 | 29/09/2026 | [YouTube](https://youtu.be/IgM1H4qxgNs) | Autores dos artefatos da Entrega 2 | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | — | — | — |
 | 4 | 15/10/2026 | — | — | — |
 | 5 | 27/10/2026 | — | — | — |
@@ -37,6 +37,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | `0.1` | 04/09/2026 | Índice das apresentações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `0.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 05/09/2026 | Adição do link do vídeo da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.4` | 27/09/2026 | Adição do link do vídeo da Entrega 2 e página da Etapa 2 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
