@@ -63,7 +63,7 @@ A Tabela 3 mostra a estrutura da sessão.
 
 - [x] TCLE apresentado antes da sessão, com via assinada para a participante e para o entrevistador.
 - [x] Permissão para gravar pedida antes de a gravação começar.
-- [x] TCLE assinado (registrar data e meio de assinatura).
+- [x] TCLE assinado (registrar data e meio de assinatura).[cópia do TCLE assinado](../../../assets/docs/tcle/tcle-israel-assinado.pdf)
 - [x] Nenhuma informação interna ou sigilosa do trabalho da participante coletada.
 - [x] Participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento.
 - [x] Participante vê como seus dados foram usados antes da publicação.
