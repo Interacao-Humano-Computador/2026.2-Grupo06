@@ -6,19 +6,19 @@
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Definição da tarefa e HTA preliminar | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
-| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | CTT preliminar | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Definição da tarefa e HTA | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Modelagem em CTT | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página modela a tarefa “encontrar a pauta e o resultado de uma reunião realizada da CCJ” em duas técnicas: **Análise Hierárquica de Tarefas (HTA)** e **Árvore de Tarefas Concorrentes (CTT)**. Os modelos foram preparados antes da sessão, apresentados à participante e, segundo o entrevistador, aprovados sem correções. O relato posterior da observação já permite identificar o caminho geral; a transcrição será usada para conferir retornos, sequência de telas e falas.
+Esta página modela a tarefa “encontrar a pauta e o resultado de uma reunião realizada da CCJ” em duas técnicas: **Análise Hierárquica de Tarefas (HTA)** e **Árvore de Tarefas Concorrentes (CTT)**. Os modelos iniciais foram preparados antes da sessão e agora incorporam o percurso registrado na transcrição: exploração de caminhos incorretos, retorno, descoberta de Atividade legislativa e conclusão na página da reunião.
 
-!!! warning "Validação pendente de conferência"
+!!! note "Validação informada"
 
-    A participante confirmou a HTA e a CTT, conforme relato do entrevistador. Como a transcrição ainda não foi incorporada, a aprovação e os passos observados permanecem identificados como relato, e não como citação direta.
+    Segundo o entrevistador, a participante confirmou a HTA e a CTT sem correções. Essa validação não aparece no arquivo transcrito; por isso, os modelos se apoiam principalmente no comportamento registrado durante a tarefa.
 
 ## Tarefa analisada
 
@@ -30,7 +30,7 @@ Esta página modela a tarefa “encontrar a pauta e o resultado de uma reunião 
 | Objetivo da análise | Identificar como o portal apoia ou dificulta a localização e a comparação entre pauta e resultado |
 | Evidência de sucesso | Reunião realizada identificada; data e tipo reconhecidos; pauta e resultado do mesmo item localizados e explicados |
 | Consequência da falha | A participante não consegue relacionar o conteúdo teórico a um caso real ou não tem segurança de que consultou a reunião/item corretos |
-| Fonte atual dos dados | Planejamento, estrutura do portal e relato do entrevistador sobre a observação; conferência final aguarda transcrição |
+| Fonte dos dados | Transcrição da sessão de 27/09/2026, planejamento da tarefa e estrutura observada do portal |
 
 <p class="caption">Tabela 2 — Definição preliminar da tarefa analisada.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -46,34 +46,40 @@ A HTA decompõe o objetivo em tarefas e subtarefas, ligadas por planos de ordem,
 | `1 / 2` | Seleção entre alternativas |
 | `*` | Repetição ou retorno |
 | Caixa tracejada | Agrupamento/objetivo abstrato |
-| Caixa grossa | Ponto a verificar na transcrição |
+| Caixa grossa | Operação em que ocorreu a principal dificuldade observada |
 
-<p class="caption">Tabela 3 — Legenda da HTA preliminar.</p>
+<p class="caption">Tabela 3 — Legenda da HTA.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base em BARBOSA; SILVA (2010, p. 193–196).</p>
 
 ```mermaid
 flowchart LR
     T0["0. Encontrar pauta e resultado<br/>plano: 1 > 2 > 3 > 4 > 5 > 6"]
-    T1["1. Acessar Comissões"]
-    T2["2. Localizar CCJ<br/>plano: 2.1 > 2.2"]
-    T3["3. Localizar reunião realizada<br/>plano: 3.1 > 3.2*"]
-    T4["4. Consultar pauta<br/>plano: 4.1 > 4.2"]
-    T5["5. Consultar resultado<br/>plano: 5.1 > 5.2"]
+    T1["1. Localizar Atividade legislativa<br/>plano: 1.1 > 1.2* > 1.3"]
+    T2["2. Acessar Comissões e localizar CCJ<br/>plano: 2.1 > 2.2"]
+    T3["3. Localizar reunião realizada<br/>plano: 3.1 > 3.2"]
+    T4["4. Consultar item da pauta<br/>plano: 4.1 > 4.2"]
+    T5["5. Interpretar resultado<br/>plano: 5.1 > 5.2"]
     T6["6. Confirmar conclusão"]
-    T21["2.1 Reconhecer sigla"]
-    T22["2.2 Abrir comissão"]
-    T31["3.1 Escolher reunião"]
+    T11["1.1 Abrir menu"]
+    T12["1.2 Explorar alternativa e retornar*"]
+    T13["1.3 Abrir Atividade legislativa"]
+    T21["2.1 Abrir Comissões"]
+    T22["2.2 Localizar e abrir CCJ"]
+    T31["3.1 Escolher reunião realizada"]
     T32["3.2 Confirmar data, tipo e situação"]
-    T41["4.1 Escolher item"]
-    T42["4.2 Registrar o previsto"]
-    T51["5.1 Reencontrar o item"]
-    T52["5.2 Interpretar o resultado"]
+    T41["4.1 Selecionar item numerado"]
+    T42["4.2 Ler assunto previsto"]
+    T51["5.1 Ler resultado no item"]
+    T52["5.2 Relacionar pauta e resultado"]
     T0 --> T1
     T0 --> T2
     T0 --> T3
     T0 --> T4
     T0 --> T5
     T0 --> T6
+    T1 --> T11
+    T1 --> T12
+    T1 --> T13
     T2 --> T21
     T2 --> T22
     T3 --> T31
@@ -84,48 +90,52 @@ flowchart LR
     T5 --> T52
     classDef abstrata stroke-dasharray: 6 4
     classDef verificar stroke-width: 3px
-    class T0,T2,T3,T4,T5 abstrata
-    class T1,T21,T31,T32,T41,T51,T52 verificar
+    class T0,T1,T2,T3,T4,T5 abstrata
+    class T1,T12,T13 verificar
 ```
 
-<p class="caption">Figura 1 — HTA preliminar da consulta à pauta e ao resultado de reunião da CCJ.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Figura 1 — HTA da consulta à pauta e ao resultado de reunião da CCJ.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na sessão de 27/09/2026.</p>
 
-| ID | Objetivo/operação | Condição ou observação preliminar |
+| ID | Objetivo/operação | Evidência da sessão |
 | --- | --- | --- |
 | 0 | Encontrar pauta e resultado `1 > 2 > 3 > 4 > 5 > 6` | Objetivo geral |
-| 1 | Acessar a área de Comissões | Explorar os menus laterais; a participante abriu opções incorretas antes de encontrar o caminho |
-| 2 | Localizar a CCJ `2.1 > 2.2` | Navegar pelos menus e pela lista; a participante não utilizou a busca |
-| 2.1 | Reconhecer a sigla CCJ | Confirmar o nome completo |
-| 2.2 | Abrir a página da comissão | Verificar que é a comissão correta |
-| 3 | Localizar reunião realizada `3.1 > 3.2*` | Maior dificuldade relatada; houve exploração de diferentes áreas e links antes da página correta |
-| 3.1 | Escolher uma reunião | Usar data, tipo e situação |
+| 1 | Localizar Atividade legislativa `1.1 > 1.2* > 1.3` | Principal dificuldade: entrada escondida em menu pequeno |
+| 1.1 | Abrir o menu do portal | A participante disse que não pensaria em abri-lo |
+| 1.2 | Explorar alternativa e retornar `*` | Passou por Especiais, Grandes Coberturas, notícia, tramitação, multimídia, datas e eventos |
+| 1.3 | Abrir Atividade legislativa | Encontrada após vários retornos, por volta de 13:54 |
+| 2 | Acessar Comissões e localizar CCJ `2.1 > 2.2` | Caminho bem-sucedido; sem uso da busca global |
+| 2.1 | Abrir Comissões | Opção disponível dentro de Atividade legislativa |
+| 2.2 | Localizar e abrir CCJ | Seleção da Comissão de Constituição, Justiça e Cidadania |
+| 3 | Localizar reunião realizada `3.1 > 3.2` | Passo considerado fácil após entrar na comissão |
+| 3.1 | Escolher uma reunião realizada | 13ª reunião extraordinária, 02/09/2026, 9h |
 | 3.2 | Confirmar os dados | Data, horário, tipo e situação |
-| 4 | Consultar pauta `4.1 > 4.2` | Considerada clara depois que a página da reunião foi localizada |
-| 4.1 | Escolher um item | Ler identificação e ementa |
-| 4.2 | Registrar o previsto | Assunto, relatoria e situação anterior à reunião |
-| 5 | Consultar resultado `5.1 > 5.2` | Item e resultado da votação foram localizados sem dificuldade relevante relatada nessa página |
-| 5.1 | Encontrar o mesmo item | Comparar pela identificação da matéria |
-| 5.2 | Interpretar o resultado | Por exemplo: aprovado, adiado ou vista concedida |
-| 6 | Confirmar conclusão | Tarefa concluída integralmente, sem ajuda, em aproximadamente 12–15 minutos |
+| 4 | Consultar item da pauta `4.1 > 4.2` | Itens numerados e claramente apresentados |
+| 4.1 | Selecionar item numerado | Item sobre alteração da Lei nº 9.605/1998 |
+| 4.2 | Ler assunto previsto | Aumento da pena por maus-tratos a animais |
+| 5 | Interpretar resultado `5.1 > 5.2` | Resultado aparece dentro do próprio item |
+| 5.1 | Ler resultado | Substitutivo definitivamente adotado, sem emendas apresentadas |
+| 5.2 | Relacionar pauta e resultado | Correspondência confirmada pela numeração e organização do item |
+| 6 | Confirmar conclusão | Tarefa concluída integralmente em aproximadamente 8min10s |
 
-<p class="caption">Tabela 4 — Decomposição da HTA preliminar.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Tabela 4 — Decomposição da HTA.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na transcrição da sessão.</p>
 
 ## Árvore de Tarefas Concorrentes (CTT)
 
-A CTT representa as relações temporais e diferencia tarefas da usuária, do sistema, interativas e abstratas. A notação abaixo preserva o modelo preliminar.
+A CTT representa as relações temporais e diferencia tarefas da usuária, do sistema, interativas e abstratas. A iteração representa as tentativas e retornos observados antes de a participante encontrar Atividade legislativa.
 
 ```text
 ConsultarReuniao =
-    AcessarComissoes >> ExibirComissoes >>
-    (PesquisarCCJ [] NavegarLista) >> ExibirCCJ >>
-    SelecionarReuniao* >> ExibirReuniao >>
-    (ConsultarPauta ||| ConsultarResultado) >> CompararItem
+    (ExplorarAlternativa >> Voltar)* >>
+    AbrirAtividadeLegislativa >> AbrirComissoes >>
+    LocalizarCCJ >> ExibirCCJ >>
+    SelecionarReuniao >> ExibirReuniao >>
+    SelecionarItem >> LerPauta >> LerResultado >> ConfirmarCorrespondencia
 ```
 
-<p class="caption">Figura 2 — CTT preliminar em notação textual.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Figura 2 — CTT da tarefa observada em notação textual.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na sessão de 27/09/2026.</p>
 
 | Operador | Significado |
 | :---: | --- |
@@ -139,73 +149,75 @@ ConsultarReuniao =
 
 | ID | Agente | Tarefa | Tipo |
 | --- | --- | --- | --- |
-| U1 | Usuária | Acessar a área de Comissões | Interativa |
-| S1 | Sistema | Exibir agenda, busca e lista de comissões | Sistema |
-| U2 | Usuária | Pesquisar por CCJ | Interativa; alternativa prevista, mas não utilizada na sessão |
-| U3 | Usuária | Navegar pelos menus e pela lista de comissões | Interativa; caminho utilizado |
-| S2 | Sistema | Exibir a página da CCJ | Sistema |
-| U4 | Usuária | Selecionar reunião realizada | Interativa e iterativa |
-| S3 | Sistema | Exibir dados e itens da reunião | Sistema |
-| U5 | Usuária | Consultar a pauta de um item | Interativa |
-| U6 | Usuária | Consultar o resultado do mesmo item | Interativa |
-| U7 | Usuária | Comparar previsão e resultado | Cognitiva |
+| U1 | Usuária | Explorar uma alternativa de navegação | Interativa e iterativa |
+| S1 | Sistema | Exibir conteúdo que não corresponde claramente a uma reunião | Sistema |
+| U2 | Usuária | Voltar e tentar outra opção | Interativa e iterativa |
+| U3 | Usuária | Abrir Atividade legislativa e Comissões | Interativa |
+| U4 | Usuária | Localizar e selecionar CCJ | Interativa |
+| S2 | Sistema | Exibir a página da CCJ e suas reuniões | Sistema |
+| U5 | Usuária | Selecionar reunião realizada | Interativa |
+| S3 | Sistema | Exibir data, tipo, situação e itens da reunião | Sistema |
+| U6 | Usuária | Selecionar um item e ler a pauta | Interativa |
+| U7 | Usuária | Ler o resultado no mesmo item | Interativa |
+| U8 | Usuária | Confirmar a correspondência entre pauta e resultado | Cognitiva |
 
-<p class="caption">Tabela 6 — Tarefas da CTT preliminar.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Tabela 6 — Tarefas da CTT.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na transcrição da sessão.</p>
 
 ```mermaid
 flowchart LR
     T0["ConsultarReuniao"]
-    U1["AcessarComissoes"]
-    S1{{"ExibirComissoes"}}
-    U2["PesquisarCCJ"]
-    U3["NavegarLista"]
+    U1["ExplorarAlternativa*"]
+    S1{{"ExibirConteudo"}}
+    U2["Voltar*"]
+    U3["AbrirAtividadeLegislativa"]
+    U4["AbrirComissoes / LocalizarCCJ"]
     S2{{"ExibirCCJ"}}
-    U4["SelecionarReuniao*"]
+    U5["SelecionarReuniao"]
     S3{{"ExibirReuniao"}}
-    U5["ConsultarPauta"]
-    U6["ConsultarResultado"]
-    U7(["CompararItem"])
+    U6["SelecionarItem / LerPauta"]
+    U7["LerResultado"]
+    U8(["ConfirmarCorrespondencia"])
     T0 --> U1
     U1 -->|">>"| S1
     S1 -->|">>"| U2
-    S1 -->|"[]"| U3
-    U2 -->|">>"| S2
-    U3 -->|">>"| S2
-    S2 -->|">>"| U4
-    U4 -->|">>"| S3
-    S3 -->|">>"| U5
-    S3 -->|"|||"| U6
-    U5 -->|">>"| U7
+    U2 -->|"*"| U1
+    U2 -->|">>"| U3
+    U3 -->|">>"| U4
+    U4 -->|">>"| S2
+    S2 -->|">>"| U5
+    U5 -->|">>"| S3
+    S3 -->|">>"| U6
     U6 -->|">>"| U7
+    U7 -->|">>"| U8
     classDef abstrata stroke-dasharray: 6 4
     class T0 abstrata
 ```
 
-<p class="caption">Figura 3 — Árvore CTT preliminar da consulta à reunião.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Figura 3 — Árvore CTT da consulta à reunião.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na sessão de 27/09/2026.</p>
 
 ## Validação pós-observação
 
-A Tabela 7 registra o que já pode ser respondido pelo relato do entrevistador.
+A Tabela 7 confronta os modelos com a transcrição.
 
 | Questão de validação | Registro atual |
 | --- | --- |
-| A participante usou busca ou menus? | Usou somente os menus e links; não realizou pesquisa |
-| Houve repetição ou retorno? | Sim. Abriu áreas incorretas e retornou para continuar a exploração |
-| Onde ocorreu a principal dificuldade? | Na localização do caminho até as reuniões da CCJ |
-| Houve ajuda do entrevistador? | Não |
-| A tarefa foi concluída? | Sim, integralmente, em aproximadamente 12–15 minutos |
-| Como foi a página da reunião? | Depois de localizada, data, pauta, item e resultado foram considerados claros |
-| A participante validou os modelos? | Segundo o entrevistador, a HTA e a CTT foram apresentadas e confirmadas sem correções |
-| O que ainda depende da transcrição? | Ordem exata entre pauta e resultado, páginas abertas, número de retornos, falas e formulação da validação |
+| A participante usou busca ou menus? | Navegou por menus, links e listas; no debriefing esclareceu que não usou a busca global |
+| Houve repetição ou retorno? | Sim. Passou por Especiais, Grandes Coberturas, notícia, tramitação, multimídia, datas e eventos antes de voltar e encontrar Atividade legislativa |
+| Onde ocorreu a principal dificuldade? | Na descoberta do pequeno menu e da entrada de Atividade legislativa que leva às comissões |
+| Houve ajuda do entrevistador? | Houve lembretes para verbalizar e repetição dos critérios, sem indicação do caminho correto |
+| A tarefa foi concluída? | Sim, integralmente, em aproximadamente 8min10s de navegação e explicação |
+| Como foi a página da reunião? | Depois de localizada, data, tipo, itens, pauta e resultado foram considerados claros e acessíveis |
+| A participante validou os modelos? | Segundo o entrevistador, HTA e CTT foram confirmadas sem correções; a validação não consta no arquivo transcrito |
+| Qual incerteza permanece? | O número do projeto consultado e alguns trechos da transcrição automática precisam de conferência por escuta |
 
-<p class="caption">Tabela 7 — Validação preliminar da HTA e da CTT.</p>
-<p class="source">Fonte: relato do entrevistador sobre a sessão de 27/09/2026.</p>
+<p class="caption">Tabela 7 — Validação da HTA e da CTT com a observação.</p>
+<p class="source">Fonte: transcrição da sessão e relato do entrevistador sobre a validação de 27/09/2026.</p>
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na transposição dos modelos preliminares para Mermaid e Markdown. A revisão dos modelos a partir da transcrição e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio de ferramenta de inteligência artificial generativa na análise da transcrição, na modelagem em Mermaid e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
@@ -213,6 +225,7 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 27/09/2026 | HTA e CTT preliminares, com marcação da validação pendente | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `0.2` | 27/09/2026 | Incorpora o caminho observado e a validação dos modelos relatada pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.0` | 27/09/2026 | Reestrutura HTA e CTT com o percurso, as iterações, os tempos e o resultado da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

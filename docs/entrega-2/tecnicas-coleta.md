@@ -47,7 +47,7 @@ As técnicas são aplicadas na mesma sessão, mas produzem evidências diferente
 <p class="caption">Tabela 2 — Funções complementares das técnicas de coleta.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Na sessão de Luís Henrique, realizada presencialmente em 27/09/2026, a entrevista ocupou aproximadamente os sete primeiros minutos. A participante utilizou um computador com Microsoft Edge e concluiu, em cerca de 12–15 minutos, a localização de uma reunião realizada da CCJ, sua pauta, um item e o resultado da votação. Segundo o entrevistador, ela explorou menus e links, entrou em áreas incorretas, não utilizou a busca e não recebeu ajuda. O restante da sessão, encerrada às 16:06, incluiu perguntas finais e a validação da persona, do cenário, da HTA e da CTT. O percurso detalhado será conferido na transcrição e está registrado na [página individual](individual/luis/entrevista-observacao.md).
+Na sessão de Luís Henrique, realizada presencialmente em 27/09/2026, a participante utilizou um computador com Microsoft Edge. O arquivo transcrito registra consentimento, entrevista, explicação da atividade, aproximadamente 8min10s de navegação e perguntas finais. Ela começou por Especiais e Grandes Coberturas, abriu notícia, tramitação, multimídia, datas e eventos, retornou várias vezes e depois encontrou Atividade legislativa, Comissões e CCJ. Não usou a busca global e não recebeu indicação do caminho. Concluiu a localização da 13ª reunião extraordinária da CCJ, sua pauta, um item e o resultado. O percurso detalhado está na [página individual](individual/luis/entrevista-observacao.md).
 
 ## Cuidados metodológicos e éticos
 
@@ -60,7 +60,7 @@ Na sessão de Luís Henrique, realizada presencialmente em 27/09/2026, a entrevi
 - anonimizar dados pessoais e não publicar gravações sem autorização específica;
 - distinguir o roteiro planejado do que efetivamente ocorreu.
 
-Na sessão de Luís, o entrevistador relata que a participante autorizou a captação de voz, tela e imagem, inclusive com confirmação registrada no início do vídeo. O TCLE recebido, entretanto, autoriza áudio e declara que não haveria vídeo ou imagem. A gravação não será publicada, e a divergência documental deve ser regularizada por termo complementar ou nova autorização específica.
+Na sessão de Luís, a transcrição registra dois aceites para participação e gravação de **voz e tela** (01:46–02:08). Não há autorização verbal transcrita para imagem facial. Como o entrevistador informou que o vídeo contém rostos e o TCLE recebido declara que não haveria vídeo/imagem, a gravação não será publicada. Qualquer uso das imagens exige regularização por termo complementar ou nova autorização específica.
 
 ## Agradecimentos
 
@@ -72,6 +72,7 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 27/09/2026 | Fundamentação das duas técnicas, aplicação conjunta e evidências bibliográficas | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `0.2` | 27/09/2026 | Atualiza a aplicação das técnicas com os resultados relatados da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.0` | 27/09/2026 | Consolida a aplicação das técnicas, o percurso e os cuidados éticos com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

@@ -48,9 +48,9 @@ A Tabela 2 apresenta os quatro princípios que orientam a coleta de dados do gru
 
 A autorização deve ser solicitada **antes de a gravação começar**, de forma separada do aceite geral em participar da pesquisa. A pessoa deve saber quais dados serão registrados (voz, imagem ou tela), para qual finalidade e quem terá acesso ao material bruto. Se ela não autorizar alguma modalidade, a equipe deve respeitar a decisão e conduzir a sessão apenas com anotações ou com as modalidades expressamente permitidas.
 
-Na sessão conduzida por Luís Henrique, o roteiro previa uma autorização específica para a gravação. O entrevistador relata que mostrou previamente um documento sobre o uso da gravação e da imagem, pediu permissão para registrar voz, tela e imagem e recebeu a concordância da participante. Segundo ele, essa confirmação também ficou registrada no começo do vídeo. A gravação contém as vozes, a tela, o rosto da participante e, em alguns momentos, o rosto do entrevistador.
+Na sessão conduzida por Luís Henrique, a participante confirmou que havia lido e entendido o TCLE (01:18–01:27) e aceitou participar da pesquisa (01:46–01:49). Em seguida, autorizou a gravação da **voz e da tela do computador** (01:50–01:59) e repetiu essa autorização quando a gravação foi formalmente iniciada (02:00–02:08).
 
-O TCLE anteriormente disponibilizado para análise, contudo, autoriza a gravação de áudio e declara que não haveria vídeo ou uso de imagem. A transcrição poderá comprovar a autorização oral, mas não elimina a divergência com o documento escrito. Por isso, o arquivo bruto não será publicado no GitHub Pages, e qualquer uso público de imagem ou vídeo exige a regularização do consentimento por escrito. A data registrada no TCLE também deverá ser corrigida em nova via ou termo de retificação.
+A autorização verbal transcrita não menciona imagem facial. O entrevistador informou que a gravação também contém os rostos da participante e, em alguns momentos, dele próprio. Além disso, o TCLE disponibilizado autoriza áudio e declara que não haveria vídeo ou imagem. Por isso, o arquivo bruto não será publicado no GitHub Pages, e qualquer uso público das imagens exige regularização do consentimento por escrito. A data divergente registrada no TCLE também deverá ser corrigida em nova via ou termo de retificação.
 
 ## Termo de Consentimento Livre e Esclarecido (TCLE)
 
@@ -64,8 +64,8 @@ A Tabela 3 registra os TCLE aplicados pelo grupo.
 
 | Integrante | Participante | Data | Modo de assinatura | Observações |
 | --- | --- | :---: | --- | --- |
-| Luís Henrique Luna de Arruda | P5 — identidade preservada | 27/09/2026 | Assinatura no TCLE e autorização oral registrada em vídeo, conforme relato do entrevistador | O entrevistador relata autorização para voz, tela e imagem. O TCLE recebido autoriza apenas áudio e precisa ter a data e o escopo corrigidos. A gravação bruta não será publicada. |
-[Israel Soares](https://github.com/IsraelSoares-25) | Identidade preservada | 27/09/2026 | Assinatura via gov digital | Consentimento para participação, entrevistador relata autorização para voz, tela e imagem. A gravação bruta não será publicada |
+| Luís Henrique Luna de Arruda | P5 — identidade preservada | 27/09/2026 | Assinatura no TCLE e dois aceites orais registrados no início da gravação | A transcrição comprova autorização para voz e tela, não para imagem facial. O TCLE recebido precisa ter data e escopo conferidos. A gravação bruta não será publicada. |
+| [Israel Soares](https://github.com/IsraelSoares-25) | Identidade preservada | 27/09/2026 | Assinatura via gov digital | Consentimento para participação; o entrevistador relata autorização para voz, tela e imagem. A gravação bruta não será publicada. |
 
 <p class="caption">Tabela 3 — Registro dos TCLE aplicados.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -81,6 +81,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 27/09/2026 | Registro ético da sessão P5 e indicação das pendências de consentimento | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `0.3` | 27/09/2026 | Atualiza o registro da autorização oral e do conteúdo da gravação segundo o entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.4` | 27/09/2026 | Confere na transcrição o aceite e limita a autorização verbal de P5 a voz e tela | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

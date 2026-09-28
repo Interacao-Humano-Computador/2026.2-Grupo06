@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este cenário de problema descreve a consulta à pauta e ao resultado de uma reunião da CCJ. O contexto e o objetivo vêm do planejamento da [sessão](entrevista-observacao.md), enquanto o percurso, as dificuldades e o desfecho foram incorporados a partir do relato posterior do entrevistador. A transcrição será usada para conferir a sequência e recuperar as falas da participante.
+Este cenário de problema descreve a consulta à pauta e ao resultado de uma reunião da CCJ. O contexto, o percurso, as dificuldades e o desfecho foram consolidados a partir da transcrição da [sessão](entrevista-observacao.md). O nome Marina Alves é fictício e representa o perfil observado, não a participante real.
 
 ## Identificação
 
@@ -24,7 +24,7 @@ Este cenário de problema descreve a consulta à pauta e ao resultado de uma reu
 | Ator | [Marina Alves](persona.md), engenheira química formada e estudante para concursos |
 | Objetivo principal | Relacionar o estudo sobre comissões a uma reunião real, consultando pauta e resultado de um item |
 | Situação inicial | Em casa, diante de um computador com Microsoft Edge, Marina recebe a tarefa sem um endereço direto da reunião |
-| Tipo | Cenário de problema, antes do reprojeto; versão baseada no relato do entrevistador |
+| Tipo | Cenário de problema, antes do reprojeto; versão baseada na transcrição |
 | Sistema envolvido | Portal do Senado Federal, área de Comissões |
 | Tarefa modelada | [Análise de tarefas](analise-tarefas.md) |
 
@@ -51,13 +51,13 @@ Como no Exemplo 6.5 de Barbosa e Silva (2010, p. 189–190), os números entre c
 
 Atores: Marina Alves (estudante/concurseira)
 
-Marina tem 24 anos, é formada em Engenharia Química e estuda para concursos há aproximadamente um ano. Ela utiliza o Portal do Senado quando precisa fazer consultas para seus estudos. Em casa, usando um computador com Microsoft Edge, recebe o objetivo de consultar uma situação real: encontrar uma reunião já realizada da Comissão de Constituição, Justiça e Cidadania, identificar sua data e seu tipo, consultar a pauta e verificar o resultado de pelo menos um item [9].
+Marina tem 24 anos, formou-se em Engenharia Química há seis meses e estuda para concursos há um ano. Usa diariamente o computador e consulta o Portal do Senado, ainda com pouca frequência, para acompanhar notícias e legislação. Em casa, usando o Microsoft Edge, recebe o objetivo de encontrar uma reunião já realizada da Comissão de Constituição, Justiça e Cidadania, identificar data e tipo, consultar a pauta e verificar o resultado de pelo menos um item [9].
 
-Marina não conhecia a sigla CCJ nem o funcionamento das comissões, embora já compreendesse os conceitos de pauta e resultado de reunião [2] [7]. Sem usar a busca, ela explora as opções dos menus laterais [1] [2]. Abre algumas áreas e links que parecem levar às reuniões, percebe que não contêm a informação desejada e retorna para continuar a exploração [3] [8]. A falta de uma opção direta torna essa etapa a parte mais difícil da tarefa [7] [8].
+Marina sabia apenas “mais ou menos” o que era uma comissão e não conhecia a sigla CCJ, embora compreendesse pauta e resultado [2] [7]. Sem usar a busca global, começa por **Especiais → Grandes Coberturas**, esperando encontrar uma notícia sobre reunião [1] [2]. Abre uma notícia da Comissão de Justiça, mas não consegue confirmar que seja a página de uma reunião [3]. Segue por links internos, uma mensagem legislativa, tramitação, multimídia, datas e eventos. Volta várias vezes, considera a tarefa difícil e quase desiste [7] [8].
 
-Depois de percorrer diferentes opções, Marina encontra a área correta, acessa a CCJ e abre uma reunião realizada [3] [4]. A partir desse ponto, considera clara a apresentação da data, da pauta, do item e do resultado da votação [5] [6]. Ela conclui toda a tarefa em aproximadamente 12–15 minutos, sem ajuda do entrevistador, e demonstra segurança ao explicar que as informações pertencem à reunião selecionada [9].
+Ao retornar para **Atividade legislativa**, Marina encontra **Comissões**, localiza a CCJ e abre a 13ª reunião extraordinária, realizada em 02/09/2026, às 9h [3] [4]. A partir desse ponto, a interface fica clara: os itens estão numerados, e cada resultado aparece associado à respectiva pauta [5] [6]. Ela escolhe o item sobre aumento da pena por maus-tratos a animais e informa que o substitutivo foi definitivamente adotado, sem emendas. A tarefa termina em aproximadamente oito minutos de navegação, sem ajuda sobre o caminho [9].
 
-Ao final, Marina sugere que os menus ofereçam opções mais claras e diretas para chegar às reuniões, evitando a exploração de várias páginas. Ela confirma que o cenário é realista e poderia ocorrer em seus estudos, embora ainda não tivesse realizado exatamente essa consulta antes da sessão.
+Ao final, Marina explica que nunca pensaria em abrir o pequeno menu onde se encontra Atividade legislativa. Sugere reunir as opções em um local visível para evitar idas e voltas, economizar tempo de estudo e facilitar o uso por pessoas leigas [7] [8]. Segundo o entrevistador, ela também confirmou que o cenário era realista, embora essa validação não apareça no arquivo transcrito.
 
 ## Critérios de sucesso
 
@@ -68,23 +68,23 @@ Ao final, Marina sugere que os menus ofereçam opções mais claras e diretas pa
 - relacionar o mesmo item nas duas visões;
 - explicar o resultado com suas próprias palavras.
 
-Segundo o relato do entrevistador, todos os critérios foram atendidos. A transcrição confirmará a sequência detalhada e a explicação fornecida pela participante.
+Todos os critérios foram atendidos na observação. O número do projeto consultado não foi reproduzido porque ficou incerto na transcrição automática.
 
 ## Análise do cenário
 
-A Tabela 3 separa o que já se sabe do que depende da transcrição.
+A Tabela 3 sintetiza as evidências da transcrição.
 
 | Elemento | Registro atual |
 | --- | --- |
 | Contexto e objetivo | Consulta para estudos de concurso, em ambiente residencial, usando computador e Microsoft Edge |
-| Caminho inicial | Exploração das opções dos menus laterais |
-| Termos pesquisados | Nenhum; a busca não foi utilizada |
-| Primeira dificuldade | Identificar em qual opção do portal estavam as reuniões das comissões |
-| Maior dificuldade | Localizar o caminho até a página da reunião da CCJ |
-| Ajuda oferecida | Nenhuma |
-| Resultado final | Tarefa totalmente concluída em aproximadamente 12–15 minutos |
-| Comentário da participante | A página da reunião apresenta claramente data, pauta e resultado; os menus deveriam oferecer um acesso mais direto |
-| Validação do cenário | Considerado realista e potencialmente útil, embora a participante ainda não tivesse vivido exatamente essa situação |
+| Caminho inicial | Especiais → Grandes Coberturas → notícia sobre Comissão de Justiça |
+| Termos pesquisados | Não utilizou a busca global; localizou/selecionou CCJ já na área de comissões |
+| Primeira dificuldade | Distinguir uma notícia sobre a comissão da página de uma reunião |
+| Maior dificuldade | Encontrar Atividade legislativa e o acesso às comissões no pequeno menu |
+| Ajuda oferecida | Lembretes para pensar em voz alta e repetição do objetivo, sem indicação do caminho |
+| Resultado final | Tarefa concluída em cerca de 8min10s; 13ª reunião extraordinária da CCJ, de 02/09/2026, às 9h |
+| Comentário da participante | A navegação até a comissão é difícil para leigos; dentro da reunião, pauta, resultado e linguagem são claros |
+| Validação do cenário | Considerado realista segundo o entrevistador; validação não presente no arquivo transcrito |
 
 <p class="caption">Tabela 3 — Estado das evidências do cenário.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -92,15 +92,16 @@ A Tabela 3 separa o que já se sabe do que depende da transcrição.
 Como no Exemplo 6.4 de Barbosa e Silva (2010, p. 185), os principais pontos problemáticos que o reprojeto deve considerar são:
 
 - a localização das reuniões não é evidente nos menus para uma pessoa que desconhece a estrutura das comissões;
-- a participante precisa abrir diferentes áreas e links antes de encontrar a entrada correta;
-- os menus não oferecem uma opção percebida como direta para chegar às reuniões;
+- “Atividade legislativa” fica escondida em um menu pequeno que a participante disse que não pensaria em abrir;
+- antes de encontrar a entrada correta, a participante passa por conteúdo editorial, tramitação, multimídia, datas e eventos;
+- notícia sobre a comissão e página da reunião não são facilmente distinguíveis no início do percurso;
 - depois que a página da reunião é encontrada, data, pauta, item e resultado deixam de ser um obstáculo relevante.
 
-Os registros acima são paráfrases do relato do entrevistador, e não citações da participante. A versão final será confrontada com a gravação para corrigir eventuais diferenças e incluir apenas falas confirmadas.
+O reprojeto deve preservar a clareza interna da página da reunião e melhorar principalmente a encontrabilidade do caminho até comissões e reuniões.
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na organização da narrativa preliminar e na formatação Markdown. A atualização com os dados observados e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio de ferramenta de inteligência artificial generativa na análise da transcrição, na organização da narrativa e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
@@ -109,6 +110,7 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | `0.1` | 27/09/2026 | Cenário preliminar e separação entre hipóteses e evidências pendentes | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Incorpora percurso, dificuldades, conclusão e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marina erra o caminho até a reunião da CCJ | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 27/09/2026 | Consolida caminho, reunião, resultado, problemas e avaliação com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

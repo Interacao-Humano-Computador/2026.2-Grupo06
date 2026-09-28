@@ -72,6 +72,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.5` | 27/09/2026 | Inclui Marina Alves, persona da sessão do Luís | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.6` | 27/09/2026 | Atualiza o perfil de Marina Alves com os dados relatados depois da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Fecha o elenco com as cinco personas, define primárias e secundárias e uniformiza os perfis | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 27/09/2026 | Confirma os atributos de Marina Alves a partir da transcrição da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

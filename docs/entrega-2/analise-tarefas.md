@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Criação da página e fundamentação teórica de Análise de Tarefas | [Item de conteúdo](analise-tarefas.md#item-de-conteudo-da-disciplina) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Fundamentação e conceituação de HTA e CTT | [HTA e CTT](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Estruturação da página e índice das análises do grupo | [Análises do grupo](analise-tarefas.md#analises-de-tarefas-do-grupo) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | HTA e CTT da consulta à reunião da CCJ | [Análise individual](individual/luis/analise-tarefas.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -80,6 +81,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 25/09/2026 | Criação do documento, introdução e fundamentação teórica de HTA e CTT | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Adição de tabela de contribuição padronizada, índice das tarefas do grupo e padronização do histórico de versões | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 27/09/2026 | Atualiza a análise da tarefa de Luís com os modelos validados pela transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 

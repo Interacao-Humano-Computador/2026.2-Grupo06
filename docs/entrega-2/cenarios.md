@@ -84,6 +84,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.5` | 27/09/2026 | Inclui o cenário de Marina Alves | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.6` | 27/09/2026 | Atualiza o cenário de Marina Alves com o percurso e o resultado relatados | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Alinha os títulos à situação de cada cenário, inclui a situação inicial e corrige o título desatualizado de Mariana Costa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 27/09/2026 | Confirma o cenário de Marina Alves com o percurso registrado na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 
 ## Referências
 
