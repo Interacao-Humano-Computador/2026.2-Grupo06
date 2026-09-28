@@ -78,7 +78,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
+| `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 27/09/2026 | Registro ético da sessão P5 e indicação das pendências de consentimento | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `0.3` | 27/09/2026 | Atualiza o registro da autorização oral e do conteúdo da gravação segundo o entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 

@@ -8,12 +8,12 @@ A Tabela 1 registra quem atuou neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Recrutamento e caracterização da participante | [Participante](entrevista-observacao.md#participante) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Recrutamento e caracterização do participante | [Participante](entrevista-observacao.md#participante) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da sessão | [Planejamento](entrevista-observacao.md#planejamento-da-sessao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Roteiro da entrevista | [Roteiro](entrevista-observacao.md#roteiro-da-entrevista) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Protocolo de observação | [Observação](entrevista-observacao.md#protocolo-de-observacao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atributos da participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atributos do participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -25,27 +25,27 @@ Esta página documenta a sessão de coleta de dados conduzida por Bruno Ferreira
 
 ## Participante
 
-A Tabela 2 caracteriza a participante sem identificá-la.
+A Tabela 2 caracteriza o participante sem identificá-lo.
 
 | Campo | Registro |
 | --- | --- |
-| Perfil de usuário | Cidadã leiga — acessa o portal esporadicamente para buscar informações sobre projetos de lei que afetam seu cotidiano ou o de pessoas próximas. O perfil previsto se confirmou na sessão |
-| Descrição | 22 anos, mulher, auxiliar administrativo em empresa de tecnologia, graduação em Administração em andamento |
-| Tarefa de interesse | Verificar a situação atual da PEC da jornada 6×1 e entender o que a proposta significa, motivada pelo impacto sobre seu núcleo familiar e amigos |
+| Perfil de usuário | Cidadão leigo — acessa o portal esporadicamente para buscar informações sobre projetos de lei que afetam seu cotidiano ou o de pessoas próximas. O perfil previsto se confirmou na sessão |
+| Descrição | 22 anos, homem, caixa de supermercado (turno tarde/noite), graduação em Ciências Econômicas em andamento (turno manhã) |
+| Tarefa de interesse | Verificar a situação atual da PEC da jornada 6×1 e entender o que a proposta significa, motivado pelo impacto sobre seu núcleo familiar e colegas de trabalho |
 | Recrutamento | Por conveniência, na rede de contatos do entrevistador |
 | Data, local e duração | 27/09/2026, presencialmente. Entrevista: ~18 min; observação: ~5 min |
 
-<p class="caption">Tabela 2 — Caracterização da participante.</p>
+<p class="caption">Tabela 2 — Caracterização do participante.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Nome e cargo exato não são divulgados, porque qualquer um deles permitiria identificar a pessoa (BARBOSA; SILVA, 2010, p. 140).
+Nome e cargo exatos não são divulgados, porque qualquer um deles permitiria identificar o participante (BARBOSA; SILVA, 2010, p. 140).
 
 ## Planejamento da sessão
 
 Definir os objetivos é o primeiro passo de uma coleta de dados, porque são eles que determinam o que coletar e com qual técnica (BARBOSA; SILVA, 2010, p. 133). Os objetivos desta sessão são:
 
-1. levantar os atributos da participante para o perfil do usuário do grupo;
-2. entender por que, quando e como ela acessa o Portal do Senado;
+1. levantar os atributos do participante para o perfil do usuário do grupo;
+2. entender por que, quando e como ele acessa o Portal do Senado;
 3. observar a tarefa real no portal, para embasar o cenário e a análise de tarefas;
 4. identificar dificuldades, contornos e expectativas em relação ao portal.
 
@@ -56,21 +56,21 @@ A Tabela 3 mostra a estrutura da sessão, o que cada parte produz e o tempo prev
 | — | Abertura: TCLE e permissão de gravação | 5 min | — | Aspectos éticos |
 | 1 | Entrevista semiestruturada | 20 min | ~18 min | Perfil, persona e cenário |
 | 2 | Observação da tarefa, com relato em voz alta | 15 min | ~5 min | Cenário, HTA e CTT |
-| 3 | Validação da persona com a participante | 10 min | — | Persona |
+| 3 | Validação da persona com o participante | 10 min | — | Persona |
 
 <p class="caption">Tabela 3 — Estrutura da sessão.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A sessão foi presencial, com a participante usando o dispositivo e o navegador habituais. A sessão foi gravada em vídeo, com autorização, e as gravações estão em [Gravações](entrevista-observacao.md#gravacoes).
+A sessão foi presencial, com o participante usando o dispositivo e o navegador habituais. A sessão foi gravada em vídeo, com autorização, e as gravações estão em [Gravações](entrevista-observacao.md#gravacoes).
 
 ## Cuidados éticos
 
-- O TCLE é apresentado antes da sessão, e a participante e o entrevistador ficam cada um com uma via assinada (BARBOSA; SILVA, 2010, p. 141).
+- O TCLE é apresentado antes da sessão, e o participante e o entrevistador ficam cada um com uma via assinada (BARBOSA; SILVA, 2010, p. 141).
 - A permissão para gravar é pedida **antes** de a gravação começar (BARBOSA; SILVA, 2010, p. 140).
-- O TCLE descreve a gravação em vídeo, a publicação como não listado no YouTube e nesta página, e o risco de a voz ser reconhecida, e dá à participante a opção de recusar a publicação.
-- Nenhuma informação interna ou sigilosa do trabalho da participante é coletada.
-- A participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento, sem prejuízo.
-- A participante vê como seus dados foram usados antes da publicação, na validação da persona (BARBOSA; SILVA, 2010, p. 140).
+- O TCLE descreve a gravação em vídeo, a publicação como não listado no YouTube e nesta página, e o risco de a voz ser reconhecida, e dá ao participante a opção de recusar a publicação.
+- Nenhuma informação interna ou sigilosa do trabalho do participante é coletada.
+- O participante pode pular perguntas, pedir pausa ou encerrar a sessão a qualquer momento, sem prejuízo.
+- O participante vê como seus dados foram usados antes da publicação, na validação da persona (BARBOSA; SILVA, 2010, p. 140).
 
 ## Roteiro da entrevista
 
@@ -81,7 +81,7 @@ A entrevista é **semiestruturada**: o roteiro traz perguntas abertas em ordem l
 | 1 | Sobre você | Qual é a sua faixa de idade e a sua formação? | Dados demográficos; educação |
 | 2 | Sobre você | O que você faz no trabalho, de forma geral? Há quanto tempo? | Experiência no cargo |
 | 3 | Sobre você | Em que tipo de empresa você trabalha? Qual o tamanho? | Informações sobre a empresa |
-| 4 | Sobre você | De 1 a 5, quanto você se vira sozinha com computador e sites? | Experiência com computadores |
+| 4 | Sobre você | De 1 a 5, quanto você se vira sozinho com computador e sites? | Experiência com computadores |
 | 5 | Sobre você | Quando aparece algo novo no computador, como você prefere aprender? | Atitudes; estilo de aprendizado |
 | 6 | Site do Senado | Quando foi a última vez que você entrou no site do Senado? Para quê? | Experiência com o produto |
 | 7 | Site do Senado | Com que frequência você usa o site? Como costuma chegar a ele? | Frequência de uso; tecnologia disponível |
@@ -101,26 +101,26 @@ As perguntas evitam induzir respostas: o roteiro usa formas neutras, não pressu
 
 ## Protocolo de observação
 
-Depois da entrevista, a participante executa a tarefa real no portal enquanto o entrevistador observa. A investigação contextual parte da ideia de que boa parte do trabalho não é bem descrita por quem o pratica, e por isso é preciso ver o trabalho acontecer (BARBOSA; SILVA, 2010, p. 166).
+Depois da entrevista, o participante executa a tarefa real no portal enquanto o entrevistador observa. A investigação contextual parte da ideia de que boa parte do trabalho não é bem descrita por quem o pratica, e por isso é preciso ver o trabalho acontecer (BARBOSA; SILVA, 2010, p. 166).
 
-- **Preparação:** a participante usa o dispositivo e o navegador habituais e começa de uma aba em branco.
+- **Preparação:** o participante usa o dispositivo e o navegador habituais e começa de uma aba em branco.
 - **Instrução:** *"Imagine que você quer verificar o que está acontecendo com a PEC da jornada 6×1 — se foi aprovada, onde está na tramitação, o que muda na prática. Faça do jeito que faria normalmente e vá falando em voz alta o que está pensando. Eu não vou ajudar, só observar e anotar."*
-- **Postura do observador:** não ajuda nem aponta caminhos. Se ela perguntar algo, a resposta é *"Como você faria se eu não estivesse aqui?"*; se ficar em silêncio, a pergunta é *"O que você está pensando agora?"*.
-- **Encerramento:** quando a participante declara que encontrou o que buscava, ou em cerca de 10 minutos.
-- **Registro:** para cada passo, o que ela fez, em que tela, o que disse, se hesitou, errou ou voltou, e o tempo.
+- **Postura do observador:** não ajuda nem aponta caminhos. Se ele perguntar algo, a resposta é *"Como você faria se eu não estivesse aqui?"*; se ficar em silêncio, a pergunta é *"O que você está pensando agora?"*.
+- **Encerramento:** quando o participante declara que encontrou o que buscava, ou em cerca de 10 minutos.
+- **Registro:** para cada passo, o que ele fez, em que tela, o que disse, se hesitou, errou ou voltou, e o tempo.
 - **Depois da tarefa:** *"O que foi mais fácil? E o mais difícil?"* e *"É assim que você faria normalmente?"*.
 
 Cada passo registrado vira uma operação da HTA e uma tarefa da CTT na [análise de tarefas](analise-tarefas.md).
 
 ## Resultados
 
-A sessão aconteceu em 27/09/2026, presencialmente. A entrevista durou cerca de 18 minutos e a observação, cerca de 5. A participante usou o computador pessoal. A permissão para gravar foi pedida e dada antes de a gravação começar.
+A sessão aconteceu em 27/09/2026, presencialmente. A entrevista durou cerca de 18 minutos e a observação, cerca de 5. O participante usou o computador pessoal. A permissão para gravar foi pedida e dada antes de a gravação começar.
 
 ### Gravações
 
-Categoria no YouTube: **nao listado**. Data: 27/09/2026. O trecho em que a participante diz o nome foi retirado.
+Categoria no YouTube: **não listado**. Data: 27/09/2026. O trecho em que o participante diz o nome foi retirado.
 
-- Entrevista: a preencher após upload
+- Entrevista: https://www.youtube.com/watch?v=Yxcm3ENSHMA
 
 ??? note "Vídeo 1 — Entrevista semiestruturada"
 
@@ -128,7 +128,7 @@ Categoria no YouTube: **nao listado**. Data: 27/09/2026. O trecho em que a parti
       <iframe
         loading="lazy"
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-        src="https://www.youtube-nocookie.com/embed/"
+        src="https://www.youtube-nocookie.com/embed/Yxcm3ENSHMA"
         title="Entrevista semiestruturada da sessão de coleta"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin"
@@ -141,9 +141,9 @@ Categoria no YouTube: **nao listado**. Data: 27/09/2026. O trecho em que a parti
 
 ### Síntese da entrevista
 
-Ela se avalia em 3, numa escala de 1 a 5, com computador e sites. No trabalho usa bem Excel, e-mail e sistemas internos, mas portais de governo são uma realidade diferente. Quando aparece algo novo, tenta sozinha primeiro; se não funcionar, procura um vídeo rápido no YouTube. Sigla desconhecida vai para o Google.
+Ele se avalia em 4, numa escala de 1 a 5, com computador e sites. Usa computador no dia a dia para estudar, redes sociais e pesquisas. Quando aparece algo novo, tenta sozinho primeiro; se não funcionar, procura um vídeo rápido no YouTube. Sigla desconhecida vai para o Google.
 
-A última visita ao portal foi cerca de três meses antes, motivada pela discussão sobre a PEC da jornada 6×1 que circulava no WhatsApp da família. A mãe e a irmã trabalham em regime que seria afetado pela proposta; ela quis confirmar na fonte oficial antes de opinar no grupo. Não digitou o endereço do Senado; pesquisou no Google com o termo “senado jornada de trabalho” e o primeiro resultado institucional foi uma matéria do Senado Notícias, não a página inicial do portal. A partir da matéria, usou a lupa do cabeçalho para buscar a proposição.
+A última visita ao portal foi cerca de três meses antes, motivada pela discussão sobre a PEC da jornada 6×1 que circulava no WhatsApp da família. Colegas de trabalho e familiares trabalham em regime que seria afetado pela proposta; ele quis confirmar na fonte oficial antes de opinar no grupo. Não digitou o endereço do Senado; pesquisou no Google com o termo “senado jornada de trabalho” e o primeiro resultado institucional foi uma matéria do Senado Notícias, não a página inicial do portal. A partir da matéria, usou a lupa do cabeçalho para buscar a proposição.
 
 Ao usar a busca interna, recebeu uma lista misturada de notícias, proposições e pronunciamentos. Não sabia diferenciar PL de PEC. Clicou num resultado que parecia o certo (PL 5253/2026), viu o badge "Em tramitação" e o estado "AGUARDANDO DESPACHO" (01/09/2026) e não entendeu o que significava. Tentou a seção "Entenda a proposta" mas percebeu que descrevia o texto original, não o estado atual. Saiu do site e enviou para o grupo um link de matéria jornalística que explicava em linguagem simples.
 
@@ -153,14 +153,14 @@ Gosta da aparência visual do portal, que considera profissional. O que mudaria:
 
 A instrução foi verificar a situação da PEC da jornada 6×1, em voz alta, sem ajuda. A Tabela 5 registra os passos, e as capturas correspondentes estão na seção [Capturas da observação](#capturas-da-observacao) abaixo.
 
-| # | O que ela fez | Onde | O que ela disse | Hesitou, errou ou voltou? | Captura |
+| # | O que ele fez | Onde | O que ele disse | Hesitou, errou ou voltou? | Captura |
 | :---: | --- | --- | --- | --- | :---: |
 | 1 | Abriu o navegador e pesquisou "senado jornada de trabalho" no Google | Google | "Vou pesquisar no Google, não sei o endereço de cabeça" | Não | Figura 1 |
 | 2 | Clicou no primeiro resultado do senado.leg.br — uma matéria do Senado Notícias, não a homepage | Google | — | Não | Figura 2 |
 | 3 | Localizou a lupa no cabeçalho e a clicou para expandir o campo de busca | Senado Notícias | "Não tem campo aberto... ah, tem a lupa aqui em cima" | Hesitou alguns segundos | Figura 3 |
 | 4 | Digitou "jornada de trabalho" e pressionou Enter; recebeu lista misturada de tipos | Página de resultados | "Tem muita coisa aqui... não sei se é notícia ou o projeto de lei" | Percorreu sem clicar por ~20 segundos | Figura 4 |
 | 5 | Clicou no PL 5253/2026 | Lista de resultados | "Esse aqui parece ser o certo" | Não | Figura 5 |
-| 6 | Abriu a caixa "Entenda a proposta" gerada por IA | Página da proposição | "Ah, tem um resumo aqui, ótimo". Ficou confusa porque o resumo descreve o texto original, não o estado atual | Parou relendo o resumo | Figura 6 |
+| 6 | Abriu a caixa "Entenda a proposta" gerada por IA | Página da proposição | "Ah, tem um resumo aqui, ótimo". Ficou confuso porque o resumo descreve o texto original, não o estado atual | Parou relendo o resumo | Figura 6 |
 | 7 | Localizou o cartão "Situação Atual" | Página da proposição | "Aguardando despacho... o que é isso? Não entendo se está quase sendo votado ou vai ficar parado" | Buscou ajuda com os olhos; retomou sem receber | Figura 7 |
 | 8 | Abriu a seção "Tramitação" | Página da proposição | "Vou tentar aqui... também não entendo. Só tem código e notas técnicas" | Não | Figura 8 |
 | 9 | Fechou a aba e encerrou a busca | — | "Não consegui saber se a lei já foi aprovada. Ia mandar um link de notícia pro grupo" | Tarefa encerrada sem resposta | — |
@@ -214,9 +214,9 @@ As Figuras 1 a 8 reproduzem o percurso registrado na Tabela 5, na mesma ordem do
 
 ### Limitações da coleta
 
-- A participante tem relação pessoal próxima com o entrevistador, o que aumenta o risco de respostas dadas para agradar. Para reduzir esse efeito, o roteiro usa perguntas abertas e neutras, o entrevistador reforça que **quem está sendo avaliado é o site, e não a participante** (BARBOSA; SILVA, 2010, p. 141), e a observação da tarefa real serve de contraponto ao que for relatado na entrevista (BARBOSA; SILVA, 2010, p. 149).
-- Os dados vêm de uma só participante. A persona e a análise de tarefas herdam as particularidades dela (BARBOSA; SILVA, 2010, p. 178).
-- A sessão foi presencial mas não no ambiente de trabalho habitual da participante.
+- O participante tem relação pessoal próxima com o entrevistador, o que aumenta o risco de respostas dadas para agradar. Para reduzir esse efeito, o roteiro usa perguntas abertas e neutras, o entrevistador reforça que **quem está sendo avaliado é o site, e não o participante** (BARBOSA; SILVA, 2010, p. 141), e a observação da tarefa real serve de contraponto ao que for relatado na entrevista (BARBOSA; SILVA, 2010, p. 149).
+- Os dados vêm de um só participante. A persona e a análise de tarefas herdam as particularidades dele (BARBOSA; SILVA, 2010, p. 178).
+- A sessão foi presencial mas não no ambiente de trabalho habitual do participante.
 
 ### Atributos para o perfil do usuário
 
@@ -224,41 +224,42 @@ A Tabela 6 organiza o que a sessão revelou segundo os tipos de dados de Hackos 
 
 | Atributo | Participante | Origem |
 | --- | --- | --- |
-| Dados demográficos | Mulher, 22 anos | Pergunta 1 |
-| Status socioeconômico | Classe média (inferida); auxiliar administrativo em empresa de tecnologia, setor privado | Não coletado diretamente; inferência pelo cargo |
-| Experiência no cargo | Auxiliar administrativo em empresa de tecnologia | Pergunta 2 |
-| Informações sobre a empresa | Empresa de tecnologia, setor privado | Pergunta 3 |
-| Educação | Graduação em andamento, Administração | Pergunta 1 |
-| Experiência com computadores | Autoavaliação 3, numa escala de 1 a 5 | Pergunta 4 |
+| Dados demográficos | Homem, 22 anos | Pergunta 1 |
+| Status socioeconômico | Classe média baixa (inferida); caixa de supermercado, setor privado | Não coletado diretamente; inferência pelo cargo |
+| Experiência no cargo | Caixa de supermercado (turno tarde/noite) | Pergunta 2 |
+| Informações sobre a empresa | Supermercado, setor privado | Pergunta 3 |
+| Educação | Graduação em andamento, Ciências Econômicas (turno manhã) | Pergunta 1 |
+| Experiência com computadores | Autoavaliação 4, numa escala de 1 a 5 | Pergunta 4 |
 | Experiência com o produto | Uso esporádico; última visita cerca de 3 meses antes, para buscar informações sobre a PEC 6×1 | Pergunta 6 |
-| Tecnologia disponível | Computador desktop no trabalho; smartphone pessoal | Observação |
-| Treinamento e aprendizado | Explora sozinha; se travar, procura vídeo rápido no YouTube | Pergunta 5 |
+| Tecnologia disponível | Computador pessoal/notebook para estudos; smartphone pessoal | Observação |
+| Treinamento e aprendizado | Explora sozinho; se travar, procura vídeo rápido no YouTube | Pergunta 5 |
 | Atitudes e valores | Gosta da aparência visual do portal; não gosta da sobrecarga na página inicial e dos status opacos de tramitação | Pergunta 8 |
-| Conhecimento do domínio | Leiga em legislação e processo legislativo; busca informações que afetam seu círculo de convivência | Perguntas 9 e 10 |
-| Objetivos | Entender a situação e o impacto da PEC 6×1 para familiares e amigos afetados pela proposta | Perguntas 10 e 11 |
+| Conhecimento do domínio | Leigo em legislação e processo legislativo; busca informações que afetam seu círculo de convivência | Perguntas 9 e 10 |
+| Objetivos | Entender a situação e o impacto da PEC 6×1 para colegas de trabalho e familiares afetados pela proposta | Perguntas 10 e 11 |
 | Tarefas | Pesquisar termos do cotidiano no portal, interpretar o status da tramitação, decidir se a fonte é suficiente ou recorrer a portal jornalístico | Pergunta 12; observação |
 | Gravidade dos erros | Média: informação incorreta circula no grupo de família; o efeito é social, não operacional | Pergunta 14 |
 | Idiomas e jargões | Sem jargão legislativo; siglas desconhecidas vão para o Google | Pergunta 9 |
-| **Grupo: idade** | Jovem adulta | — |
+| **Grupo: idade** | Jovem adulto | — |
 | **Grupo: experiência** | Iniciante no portal; uso esporádico e motivado por impacto pessoal | — |
-| **Grupo: atitude** | Pragmática: desiste rápido quando o portal não entrega resposta direta e recorre a fonte externa | — |
+| **Grupo: atitude** | Pragmático: desiste rápido quando o portal não entrega resposta direta e recorre a fonte externa | — |
 | **Grupo: tarefa primária** | Verificar aprovação e situação de projeto de lei de interesse cotidiano | — |
 
-<p class="caption">Tabela 6 — Atributos da participante para o perfil do usuário.</p>
+<p class="caption">Tabela 6 — Atributos do participante para o perfil do usuário.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), a partir da sessão de 27/09/2026; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>
 
 A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](analise-tarefas.md) usam este registro.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com a participante são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com o participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 26/09/2026 | Caracterização da participante, planejamento da sessão, roteiro da entrevista e protocolo de observação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.1` | 26/09/2026 | Caracterização do participante, planejamento da sessão, roteiro da entrevista e protocolo de observação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Resultados da sessão: síntese da entrevista, registro da observação com capturas, atributos para o perfil do usuário | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 27/09/2026 | Inclusão do link e incorporação da gravação da entrevista (YouTube) e atualização dos dados do participante | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

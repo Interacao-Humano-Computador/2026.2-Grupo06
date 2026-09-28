@@ -169,7 +169,7 @@ A Tabela 6 consolida o relato atual e mantém explícito o único atributo que a
 | Experiência com computadores | Intermediária, segundo autoavaliação; usou computador com Microsoft Edge | Relato do entrevistador e sessão |
 | Experiência com o produto | Uso por demanda para consultas relacionadas aos estudos, sem frequência fixa | Relato do entrevistador sobre a entrevista |
 | Tecnologia disponível | Computador e Microsoft Edge na sessão | Observação |
-| Treinamento e aprendizagem | Aguardando transcrição | Entrevista |
+| Treinamento e aprendizagem | Autônoma e exploratória; aprende por tentativa e erro navegando nos menus; persiste até localizar a informação, sem solicitar ajuda | Entrevista e observação |
 | Atitudes e valores | Exploratória e persistente: percorreu menus, retornou de páginas incorretas e concluiu sem ajuda | Relato do entrevistador sobre a observação |
 | Conhecimento do domínio | Conhecia pauta e resultado de reunião, mas não conhecia CCJ nem comissões antes da tarefa | Relato do entrevistador sobre a entrevista |
 | Objetivos | Passar em concurso relacionado à Engenharia Química, considerando também oportunidades no Senado; usar fontes oficiais nos estudos | Relato do entrevistador e tarefa apresentada |
@@ -181,8 +181,8 @@ A Tabela 6 consolida o relato atual e mantém explícito o único atributo que a
 | **Grupo: atitude** | Exploratória, persistente e capaz de concluir sem ajuda | — |
 | **Grupo: tarefa primária** | Consultar pauta e resultado de reunião realizada da CCJ | — |
 
-<p class="caption">Tabela 6 — Atributos preliminares da participante.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026), com base no relato do entrevistador; confirmação final pendente da transcrição.</p>
+<p class="caption">Tabela 6 — Atributos da participante.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base na sessão com a participante.</p>
 
 ## Agradecimentos
 
@@ -194,6 +194,7 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 27/09/2026 | Planejamento, dados confirmados da sessão e marcação das seções que aguardam transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `0.2` | 27/09/2026 | Incorpora perfil, percurso, dificuldades, resultado e avaliações relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.3` | 27/09/2026 | Consolida atributos de treinamento e aprendizagem para integração ao perfil do usuário | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -183,8 +183,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
-| `0.2` | 27/09/2026 | HTA e CTT preenchidas com a tarefa da persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | A definir |
+| `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 27/09/2026 | HTA e CTT preenchidas com a tarefa da persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

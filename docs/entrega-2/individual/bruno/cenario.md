@@ -88,9 +88,9 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
-| `0.2` | 26/09/2026 | Narrativa e análise a partir do perfil da sessão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
-| `1.0` | 26/09/2026 | Narrativa revisada com o comportamento real do portal verificado; análise do cenário alinhada às perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | A definir |
+| `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.2` | 26/09/2026 | Narrativa e análise a partir do perfil da sessão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 26/09/2026 | Narrativa revisada com o comportamento real do portal verificado; análise do cenário alinhada às perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
