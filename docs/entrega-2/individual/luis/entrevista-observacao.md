@@ -161,7 +161,7 @@ Ela acredita que talvez conseguisse repetir a mesma tarefa com maior facilidade,
 
 ### Gravação
 
-Link para o vídeo da entrevista + Observação: https://youtu.be/POJ8d5kLEmg?si=LXg6pzcyH30WE-oy
+[Link para o vídeo da entrevista + Observação](https://youtu.be/POJ8d5kLEmg?si=LXg6pzcyH30WE-oy)
 
 ### Validação dos artefatos
 
