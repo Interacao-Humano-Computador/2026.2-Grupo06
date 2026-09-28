@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Atas, registro e vídeo</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Atas, registro e vídeo</span>
 
 # Apresentação da Etapa 2
 
