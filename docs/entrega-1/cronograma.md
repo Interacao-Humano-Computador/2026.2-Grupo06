@@ -293,6 +293,7 @@ A equipe agradece o apoio de ferramentas de inteligência artificial generativa 
 | `1.3` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `2.0` | 27/09/2026 | Registro parcial das atividades executadas por Luís Henrique na Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
 | `2.1` | 27/09/2026 | Atualiza as atividades de Luís após a incorporação da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
