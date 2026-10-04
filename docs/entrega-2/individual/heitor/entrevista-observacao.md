@@ -15,6 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Atributos da participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
+| ChatGPT (OpenAI GPT-4o) | Organização de tabelas e estruturação do texto | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -212,7 +213,7 @@ A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](anal
 
 ## Agradecimentos
 
-Esta página contou com o auxílio de inteligência artificial generativa na estruturação textual preliminar e organização das tabelas em Markdown. O recrutamento, a condução da sessão, os dados empíricos e a validação do conteúdo são de inteira responsabilidade do autor.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar e organização das tabelas em Markdown. O recrutamento, a condução da sessão, os dados empíricos e a validação do conteúdo são de inteira responsabilidade do autor.
 
 ## Histórico de versão
 
@@ -221,6 +222,7 @@ Esta página contou com o auxílio de inteligência artificial generativa na est
 | `0.1` | 26/09/2026 | Estrutura, planejamento, roteiro e atributos preliminares | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Atualização completa com dados reais da participante, falas da entrevista e transcrição da observação no PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Adição de fontes documentais complementares consultadas antes da coleta (Item 20 da lista de verificação de IHC) e correção de erro tipográfico na descrição da participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

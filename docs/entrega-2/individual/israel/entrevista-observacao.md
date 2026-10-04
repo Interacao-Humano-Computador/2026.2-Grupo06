@@ -15,6 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Atributos da participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
+| Google Gemini | Transcrição, redação preliminar e formatação Markdown | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -135,7 +136,7 @@ A Tabela 6 organiza o que a sessão revelou segundo os grupos de atributos do pe
 
 ## Gravações
 
-O Vídeo 1 registra a entrevista e a observação. Categoria no YouTube: a definir. Link: [https://youtu.be/-GXpbcb-yl4](https://youtu.be/-GXpbcb-yl4). Data: a definir. Cuidados de edição para preservar o anonimato da participante: a definir.
+O Vídeo 1 registra a entrevista e a observação. Categoria no YouTube: **não listado**. Link: [https://youtu.be/-GXpbcb-yl4](https://youtu.be/-GXpbcb-yl4). Data: 27/09/2026. O arquivo bruto não entra no GitHub Pages; a publicação usa este vídeo não listado, sem identificação da participante no título.
 
 ??? note "Vídeo 1 — Entrevista e observação com a participante"
 
@@ -156,7 +157,7 @@ O Vídeo 1 registra a entrevista e a observação. Categoria no YouTube: a defin
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
+Esta página contou com o apoio do Google Gemini na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 
@@ -164,6 +165,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 27/09/2026 | Preenchimento com os dados coletados da participante (persona Marta Oliveira) | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

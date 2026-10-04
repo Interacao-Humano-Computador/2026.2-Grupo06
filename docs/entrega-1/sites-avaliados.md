@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inspeção individual do LexML | [LexML](sites-avaliados.md#lexml-brasil) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Planejamento individual do LexML | [Planejamento](../assets/docs/sites/05_Caio_Bezerra_Planejamento_Avaliacao_LexML.pdf) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatório individual do LexML | [Relatório](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf) |
+| Claude (Anthropic) | Organização do texto e formatação Markdown | [Agradecimentos](sites-avaliados.md#agradecimentos) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Inspeção individual do Portal do Senado Federal | [Senado](sites-avaliados.md#portal-do-senado-federal) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento individual do Portal do Senado Federal | [Planejamento](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Avaliação individual do Portal do Senado Federal | [Avaliação](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
@@ -148,7 +149,7 @@ O detalhamento da escolha está em [Site escolhido](site-escolhido.md).
 
 ## Agradecimentos
 
-A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+A equipe agradece o apoio do Claude (Anthropic) na organização do texto e na formatação Markdown desta página. O levantamento, as capturas e a análise são dos integrantes.
 
 ## Histórico de versão
 

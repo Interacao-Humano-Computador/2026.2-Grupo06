@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Definição da tarefa e dos objetivos da análise | [Tarefa analisada](analise-tarefas.md#tarefa-analisada) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | HTA | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | CTT | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
+| Google Gemini | Redação preliminar e formatação Markdown | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -156,7 +157,7 @@ flowchart LR
 
 ## Teste de usabilidade
  
-O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a tentativa da participante de verificar a lei de mals tratos aos animais no Portal do Senado. Categoria no YouTube: a definir. Link: [https://youtu.be/1C8-P9m7bwg](https://youtu.be/1C8-P9m7bwg). Data: a definir.
+O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a tentativa da participante de verificar a lei de maus-tratos aos animais no Portal do Senado. Categoria no YouTube: **não listado**. Link: [https://youtu.be/1C8-P9m7bwg](https://youtu.be/1C8-P9m7bwg). Data: 27/09/2026.
  
 ??? note "Vídeo 4 — Teste de usabilidade da tarefa analisada"
  
@@ -177,7 +178,7 @@ O Vídeo 4 registra o teste de usabilidade que embasa a tarefa modelada acima: a
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
+Esta página contou com o apoio do Google Gemini na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 
@@ -185,6 +186,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 27/09/2026 | HTA e CTT preenchidas com a tarefa da persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

@@ -1,4 +1,8 @@
-﻿# Etapa 2 — Perfil, ética e análise de tarefas
+# Etapa 2 — Perfil, ética e análise de tarefas
+
+## Introdução
+
+A Etapa 2 foi entregue em 27/09/2026. Os artefatos estão publicados e abrem a partir do [perfil do usuário](../entrega-2/perfil-usuario.md). Esta página registra o que a etapa pedia.
 
 Entrega em 27/09/2026; inspeção em 28/09; apresentação em 29/09.
 

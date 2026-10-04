@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Construção e validação da persona | [Descrição](persona.md#descricao-da-persona) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Objetivos e elementos da persona | [Elementos](persona.md#elementos) |
+| Google Gemini | Transcrição, retrato fictício e formatação Markdown | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -24,17 +25,19 @@ Marina Alves representa o perfil de uma engenheira química formada que estuda p
 
 Uma persona é um personagem fictício que representa um usuário típico, não a pessoa entrevistada (BARBOSA; SILVA, 2010, p. 176–177). A Figura 1 apresenta um retrato gerado exclusivamente para tornar a persona concreta; ele não representa nem reproduz a aparência da participante.
 
-<div class="persona-card">
-  <img class="no-lightbox" src="../../../../assets/img/personas/marina-alves.png" alt="Retrato fictício de uma mulher jovem, de camisa azul, usado para representar Marina Alves.">
-  <div>
-    <p class="persona-kicker">Engenheira química e concurseira</p>
-    <p class="persona-name">Marina Alves</p>
-    <p class="persona-role">24 anos · formada há seis meses · estuda para concursos há um ano</p>
-  </div>
-</div>
+??? note "Figura 1 — Retrato fictício de Marina Alves."
 
-<p class="caption">Figura 1 — Retrato fictício de Marina Alves.</p>
-<p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
+    <div class="persona-card">
+      <img class="no-lightbox" src="../../../../assets/img/personas/marina-alves.png" alt="Retrato fictício de uma mulher jovem, de camisa azul, usado para representar Marina Alves.">
+      <div>
+        <p class="persona-kicker">Engenheira química e concurseira</p>
+        <p class="persona-name">Marina Alves</p>
+        <p class="persona-role">24 anos · formada há seis meses · estuda para concursos há um ano</p>
+      </div>
+    </div>
+
+    <p class="caption">Figura 1 — Retrato fictício de Marina Alves.</p>
+    <p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
 
 Marina Alves tem 24 anos, concluiu Engenharia Química há seis meses e estuda para concursos há aproximadamente um ano, desde o oitavo semestre da graduação. Procura cargos relacionados à própria formação, inclusive na área de ensino superior. Estuda diariamente no computador e organiza sua rotina com Google Agenda, Gran Cursos, Estratégia Concursos e plataformas de notícias.
 
@@ -93,7 +96,7 @@ Em 27/09/2026, Luís Henrique informou ter apresentado todas as características
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na organização da persona, na análise da transcrição, na formatação Markdown e na geração do retrato fictício. A coleta, a validação e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio do Google Gemini na organização da persona, na análise da transcrição, na formatação Markdown e na geração do retrato fictício. A coleta, a validação e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
@@ -102,7 +105,8 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | `0.1` | 27/09/2026 | Persona provisória, objetivos, elementos e registro inicial da validação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Incorpora atributos, comportamento, necessidades e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Confirma Marina Alves como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.0` | 27/09/2026 | Consolida a persona com a transcrição, fala representativa e retrato fictício | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.0` | 27/09/2026 | Consolida a persona com a transcrição, fala representativa e retrato fictício | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

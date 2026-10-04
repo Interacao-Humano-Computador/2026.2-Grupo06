@@ -11,7 +11,9 @@ A Tabela 1 registra quem atuou neste artefato.
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Os controles de contraste e tamanho de texto ficam no cabeçalho, na mesma faixa da navegação.
+## Introdução
+
+Os controles de contraste e tamanho de texto ficam no cabeçalho, na mesma faixa da navegação. Eles atendem ao item de contraste do plano de ensino (SALES, 2026) e seguem o e-MAG (BRASIL, 2014) e as WCAG 2.1 (W3C, 2018).
 
 ## Como usar
 
@@ -47,6 +49,7 @@ O alto contraste é independente do tema claro/escuro: ele cobre cabeçalho, men
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Controles de contraste, tamanho de texto e persistência no cabeçalho | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 03/10/2026 | Inclui a introdução e cita no texto o e-MAG, as WCAG e o plano de ensino | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

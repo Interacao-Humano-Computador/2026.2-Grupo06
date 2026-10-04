@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Identificação e narrativa baseada na sessão | [Narrativa](cenario.md#narrativa) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Critérios de sucesso e lacunas de evidência | [Análise](cenario.md#analise-do-cenario) |
+| Google Gemini | Transcrição e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -101,7 +102,7 @@ O reprojeto deve preservar a clareza interna da página da reunião e melhorar p
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na análise da transcrição, na organização da narrativa e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio do Google Gemini na análise da transcrição, na organização da narrativa e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
@@ -110,7 +111,8 @@ Esta página contou com apoio de ferramenta de inteligência artificial generati
 | `0.1` | 27/09/2026 | Cenário preliminar e separação entre hipóteses e evidências pendentes | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Incorpora percurso, dificuldades, conclusão e validação relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marina erra o caminho até a reunião da CCJ | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.0` | 27/09/2026 | Consolida caminho, reunião, resultado, problemas e avaliação com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.0` | 27/09/2026 | Consolida caminho, reunião, resultado, problemas e avaliação com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

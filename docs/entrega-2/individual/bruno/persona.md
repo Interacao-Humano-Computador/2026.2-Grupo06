@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Construção da persona | [Persona](persona.md#descricao-da-persona) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Validação com o participante | [Validação](persona.md#validacao-com-a-participante) |
+| ChatGPT (OpenAI GPT-4o) | Retrato fictício, estruturação do texto e redação preliminar | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -23,17 +24,19 @@ Lucas Mendes representa o cidadão leigo que recorre ao Portal do Senado Federal
 
 Uma persona é um personagem fictício que representa um usuário típico, não a pessoa entrevistada (BARBOSA; SILVA, 2010, p. 176). O livro pede nome, idade e foto para ela ficar concreta, e manda deixar o passo a passo da tarefa para o [cenário](cenario.md) (p. 177). Só o nome e o retrato são inventados. O restante é o tipo que a [sessão](entrevista-observacao.md) revelou, escrito como no Exemplo 6.2 (p. 178), e não a transcrição do que ela disse naquele dia. A Figura 1 é o retrato fictício da persona.
 
-<div class="persona-card">
-  <img class="no-lightbox" src="../../../../assets/img/personas/lucas-mendes.jpg" alt="Retrato fictício de um homem jovem de cabelos curtos escuros e camiseta azul, usado como Lucas Mendes.">
-  <div>
-    <p class="persona-kicker">Caixa de supermercado · estudante de Economia</p>
-    <p class="persona-name">Lucas Mendes</p>
-    <p class="persona-role">22 anos · cursando Ciências Econômicas · usuário esporádico do portal</p>
-  </div>
-</div>
+??? note "Figura 1 — Retrato fictício de Lucas Mendes."
 
-<p class="caption">Figura 1 — Retrato fictício de Lucas Mendes.</p>
-<p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é o participante.</p>
+    <div class="persona-card">
+      <img class="no-lightbox" src="../../../../assets/img/personas/lucas-mendes.jpg" alt="Retrato fictício de um homem jovem de cabelos curtos escuros e camiseta azul, usado como Lucas Mendes.">
+      <div>
+        <p class="persona-kicker">Caixa de supermercado · estudante de Economia</p>
+        <p class="persona-name">Lucas Mendes</p>
+        <p class="persona-role">22 anos · cursando Ciências Econômicas · usuário esporádico do portal</p>
+      </div>
+    </div>
+
+    <p class="caption">Figura 1 — Retrato fictício de Lucas Mendes.</p>
+    <p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é o participante.</p>
 
 Lucas Mendes tem 22 anos, reside em Brasília e trabalha como caixa de supermercado nos turnos da tarde e da noite. De manhã, cursa Ciências Econômicas em uma instituição privada. Divide o tempo entre as aulas, o trabalho e os estudos, típico da rotina de quem concilia graduação com emprego de meio período.
 
@@ -113,7 +116,7 @@ A Tabela 3 registra o resultado.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo, a coleta e a validação com o participante são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo, a coleta e a validação com o participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -121,6 +124,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 21/09/2026 | Estrutura da persona e planejamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Persona Lucas Mendes consolidada conforme os oito elementos de Courage e Baxter e registro de validação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 
 ## Referências

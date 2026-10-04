@@ -15,6 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Atributos da participante P3 (Heitor) | [Sessão Heitor](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Atributos da participante P4 (Israel) | [Sessão Israel](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Planejamento e dados confirmados da participante P5 | [Sessão Luís](individual/luis/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
+| ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](perfil-usuario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -31,25 +32,34 @@ O perfil de usuário é uma descrição detalhada das características dos usuá
 
 Hackos e Redish (1998 apud BARBOSA; SILVA, 2010, p. 134–135) propõem que os dados de usuário incluam: **dados demográficos, experiência no cargo, informações sobre a empresa, educação, experiência com computadores, experiência com o produto, tecnologia disponível, treinamento, atitudes e valores, conhecimento do domínio, objetivos, tarefas, gravidade dos erros e idiomas e jargões.** As Figuras 1 e 2 reproduzem esse trecho.
 
-<figure markdown="span">
-  ![Recorte de Barbosa e Silva (2010, p. 134) listando os tipos de dados de Hackos e Redish para perfil de usuário.](../assets/img/referencias/barbosa-perfil-usuario1.png)
-  <figcaption>Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134.</figcaption>
-</figure>
-<p class="source">Fonte: BARBOSA; SILVA (2010, p. 134).</p>
+??? note "Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134."
 
-<figure markdown="span">
-  ![Recorte de Barbosa e Silva (2010, p. 135) continuando a lista de tipos de dados de Hackos e Redish.](../assets/img/referencias/barbosa-perfil-usuario2.png)
-  <figcaption>Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135.</figcaption>
-</figure>
-<p class="source">Fonte: BARBOSA; SILVA (2010, p. 135).</p>
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 134) listando os tipos de dados de Hackos e Redish para perfil de usuário.](../assets/img/referencias/barbosa-perfil-usuario1.png)
+      <figcaption>Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134.</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 134).</p>
+
+
+??? note "Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135."
+
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 135) continuando a lista de tipos de dados de Hackos e Redish.](../assets/img/referencias/barbosa-perfil-usuario2.png)
+      <figcaption>Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135.</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 135).</p>
+
 
 Courage e Baxter (2005 apud BARBOSA; SILVA, 2010, p. 175) agrupam os atributos do perfil em quatro categorias: **idade, experiência, atitudes e tarefas primárias.** As últimas quatro linhas da Tabela 3 seguem esses grupos. A Figura 3 reproduz esse trecho.
 
-<figure markdown="span">
-  ![Recorte de Barbosa e Silva (2010, p. 175) com os grupos de atributos de Courage e Baxter.](../assets/img/referencias/barbosa-grupos-atributos.png)
-  <figcaption>Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).</figcaption>
-</figure>
-<p class="source">Fonte: BARBOSA; SILVA (2010, p. 175).</p>
+??? note "Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005)."
+
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 175) com os grupos de atributos de Courage e Baxter.](../assets/img/referencias/barbosa-grupos-atributos.png)
+      <figcaption>Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 175).</p>
+
 
 ## Planejamento da elicitação
 
@@ -168,7 +178,7 @@ A Tabela 4 sintetiza a relação entre os três perfis consolidados, as sessões
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, o planejamento da elicitação e a consolidação dos dados das sessões são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, o planejamento da elicitação e a consolidação dos dados das sessões são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -182,8 +192,9 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `1.0` | 27/09/2026 | Atualiza perfil de usuario | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Conclui status da sessão de P5 (Luís) e consolida campos restantes na tabela de perfil | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 27/09/2026 | Adiciona seção de Perfis de Usuário Identificados, incorpora Estudante/Concurseira em Cidadão Comum e adiciona matriz comparativa dos perfis | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.3` | 27/09/2026 | Atualiza P5 e o perfil estudante/concurseira com as evidências da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.3` | 27/09/2026 | Atualiza P5 e o perfil estudante/concurseira com as evidências da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 27/09/2026 | Consolida os perfis em 3 grupos macro (unifica demanda de serviços/administrativa e estudos no Cidadão Comum) e atualiza matriz comparativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

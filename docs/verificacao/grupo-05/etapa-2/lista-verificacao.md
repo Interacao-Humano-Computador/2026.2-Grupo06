@@ -87,62 +87,16 @@ Além dos itens da Tabela 3, a lista oficial destaca como **importante** que cad
 
 ## Itens elaborados pelo grupo
 
-A Tabela 4 reúne os itens adicionais de verificação definidos pelo próprio Grupo 06, além dos itens oficiais da disciplina. Cada integrante criou ao menos um item, com base na literatura de Interação Humano-Computador.
+Os itens 13 a 17 são critérios do Grupo 06, um por integrante. O texto, a referência e a foto estão na [lista da Etapa 2 do Grupo 06](../../grupo-06/etapa-2/lista-verificacao.md#itens-elaborados-pelo-grupo). Eles não entram na nota do Grupo 05.
 
-| # | Item | Resposta | Versão, data e hora da avaliação | Autor |
-| :---: | --- | :---: | :---: | --- |
-| 13 | Cada cenário apresenta: (1) título que descreve brevemente a situação; (2) os atores que participam; e (3) uma breve descrição da situação inicial? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 14 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 15 | a preencher | — | — | [Heitor Pinheiro](https://github.com/heitor-pinheiro) |
-| 16 | a preencher | — | — | [Israel Soares](https://github.com/israel-soares) |
-| 17 | a preencher | — | — | [Luis Henrique](https://github.com/luis-henrique) |
-
-<p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-### Item 13 — Bruno Ferreira Dornelas
-
-**Referência:**
-
-BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel D. J. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021. Cap. 6, p. 183.
-
-**Trecho do livro:**
-
-![Barbosa et al. (2021), p. 183 — Estrutura básica do cenário: título, atores e situação inicial.](../../../assets/img/referencias/item13_etapa2.png)
-
-<p class="caption">Figura 1 — Barbosa et al. (2021), p. 183. Trecho: “Cada cenário costuma ter um título que descreve brevemente a situação, sem muitos detalhes; os atores que participam do cenário; uma breve descrição da situação inicial em que os atores se encontram.”</p>
-<p class="source">Fonte: BARBOSA et al. (2021, p. 183).</p>
-
-### Item 14 — Caio Breno de Souza Bezerra
-
-**Referência:** a preencher
-
-**Trecho do livro:** a preencher
-
-### Item 15 — Heitor Pinheiro
-
-**Referência:** a preencher
-
-**Trecho do livro:** a preencher
-
-### Item 16 — Israel Soares
-
-**Referência:** a preencher
-
-**Trecho do livro:** a preencher
-
-### Item 17 — Luis Henrique
-
-**Referência:** a preencher
-
-**Trecho do livro:** a preencher
-
+## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 26/09/2026 | Transposição da lista oficial da Entrega 2 para o site | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 01/10/2026 | Adição do vídeo de verificação da Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 01/10/2026 | Preenchimento dos itens de desenvolvimento e de conteúdo com base na reunião de inspeção de 30/09/2026 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 03/10/2026 | Tira os itens em branco do Grupo 06 desta inspeção e aponta a lista em que eles foram preenchidos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

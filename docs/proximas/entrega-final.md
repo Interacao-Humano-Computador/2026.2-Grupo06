@@ -1,4 +1,7 @@
-﻿# Entrega final
+# Entrega final
+
+## Introdução
+
 
 Entrega em 30/11/2026. Apresentação entre 20 e 30 minutos.
 

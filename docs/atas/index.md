@@ -24,7 +24,8 @@ A Tabela 2 lista as reuniões registradas até o momento.
 
 | Ata | Data | Início | Fim | Objetivo | Gravação | Página |
 | :---: | :---: | :---: | :---: | --- | --- | --- |
-| 01 | 04/09/2026 | 20:35 | 21:16 | Alinhar Entrega 1: objeto de estudo, papéis e site | [Vídeo](ata-01.md#gravacao) | [Ata 01](ata-01.md) |
+| 01 | 04/09/2026 | 20:35 | 21:16 | Alinhar Entrega 1; objeto discutido: Transparência do DF | [Vídeo](ata-01.md#gravacao) | [Ata 01](ata-01.md) |
+| 02 | 09/09/2026 | — | — | Troca formal do objeto para o Portal do Senado Federal | Sem gravação própria | [Ata 02](ata-02.md) |
 
 <p class="caption">Tabela 2 — Índice das atas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -43,6 +44,7 @@ A Tabela 2 lista as reuniões registradas até o momento.
 | `0.1` | 04/09/2026 | Índice e modelo da primeira ata | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 05/09/2026 | Atualização dos dados da Ata 01 e hiperligação da gravação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 03/10/2026 | Inclui a Ata 02, sobre a escolha do Senado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

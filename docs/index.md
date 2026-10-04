@@ -30,10 +30,10 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Entrega 1">
-  <div><b>06/09</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>07/09</b><span>Inspeção pelo Grupo +1</span></div>
-  <div><b>08/09</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da Etapa 3">
+  <div><b>06/10</b><span>Entrega da Etapa 3 no Aprender e no GitHub Pages</span></div>
+  <div><b>07/10</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>08/10</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -42,32 +42,36 @@ hide:
     <strong>Planejamento</strong>
     <span>Cronograma, heatmap, sites avaliados e site escolhido.</span>
   </a>
-  <a class="tile" href="equipe/">
+  <a class="tile" href="entrega-2/perfil-usuario/">
     <span class="tile-num">02</span>
+    <strong>Perfil de usuário</strong>
+    <span>Etapa 2 publicada: ética, personas, cenários e análise de tarefas.</span>
+  </a>
+  <a class="tile" href="equipe/">
+    <span class="tile-num">03</span>
     <strong>Equipe</strong>
-    <span>Fotos, nomes e papéis desta etapa.</span>
+    <span>Fotos, nomes e papéis.</span>
   </a>
   <a class="tile" href="atas/">
-    <span class="tile-num">03</span>
+    <span class="tile-num">04</span>
     <strong>Atas</strong>
     <span>Reuniões, decisões e gravações.</span>
   </a>
   <a class="tile" href="apresentacoes/">
-    <span class="tile-num">04</span>
-    <strong>Apresentações</strong>
-    <span>Vídeos de cada etapa.</span>
-  </a>
-  <a class="tile" href="guia/">
     <span class="tile-num">05</span>
-    <strong>Padrões</strong>
-    <span>Template, legendas, ABNT e como publicar.</span>
+    <strong>Apresentações</strong>
+    <span>Vídeos das etapas 1 e 2.</span>
   </a>
-  <a class="tile" href="proximas/">
+  <a class="tile" href="proximas/etapa-03/">
     <span class="tile-num">06</span>
-    <strong>Próximas etapas</strong>
-    <span>Etapas 2 a 8 e entrega final.</span>
+    <strong>Etapa 3</strong>
+    <span>Próxima entrega, em 06/10: princípios, metas, guia de estilo e plataforma.</span>
   </a>
 </nav>
+
+## Introdução
+
+Esta página abre o site do Grupo 06. As Entregas 1 e 2 já estão publicadas e podem ser abertas pelos cartões acima e pelo menu. A próxima entrega é a Etapa 3, em 06/10/2026, com inspeção em 07/10 e apresentação em 08/10. O objeto do projeto é o Portal do Senado Federal. Padrões de artefato, verificação e as etapas 4 a 8 continuam no menu.
 
 ## Tabela de contribuição
 
@@ -128,8 +132,9 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 | `1.0` | 04/09/2026 | Publicação inicial da estrutura do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Grupo 06 |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 09/09/2026 | Portal do Senado Federal como objeto do projeto e identidade visual institucional | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.3` | 03/10/2026 | Atualiza as datas para a Etapa 3 e os cartões do que já está publicado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
-## Referências
+## Bibliografia
 
 [1] SENADO FEDERAL. Portal do Senado Federal. Disponível em: https://www12.senado.leg.br/. Acesso em: 9 set. 2026.
 

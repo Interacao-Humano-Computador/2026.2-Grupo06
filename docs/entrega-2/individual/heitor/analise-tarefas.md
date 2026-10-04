@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Definição da tarefa e dos objetivos da análise | [Tarefa analisada](analise-tarefas.md#tarefa-analisada) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Análise Hierárquica de Tarefas (HTA) | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Árvore de Tarefas Concorrentes (CTT) | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
+| ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -264,7 +265,7 @@ flowchart LR
 
 ## Agradecimentos
 
-Esta página contou com o auxílio de ferramenta de inteligência artificial generativa na estruturação dos modelos, na redação preliminar e na formatação dos diagramas Mermaid e tabelas em Markdown. A coleta empírica, a identificação dos problemas na sessão de teste e a validação das análises são do autor, que permanece responsável pela publicação.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação dos modelos, na redação preliminar e na formatação dos diagramas Mermaid e tabelas em Markdown. A coleta empírica, a identificação dos problemas na sessão de teste e a validação das análises são do autor, que permanece responsável pela publicação.
 
 ## Histórico de versão
 
@@ -272,6 +273,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | :---: | --- | --- | --- | --- |
 | `0.1` | 27/09/2026 | Estruturação inicial da análise de tarefas e definição das legendas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Elaboração completa da HTA e da CTT a partir da observação empírica com o PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

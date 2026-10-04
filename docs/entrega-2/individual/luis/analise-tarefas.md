@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Definição da tarefa e HTA | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Modelagem em CTT | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
+| Google Gemini | Transcrição, diagramas e formatação Markdown | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -217,15 +218,16 @@ A Tabela 7 confronta os modelos com a transcrição.
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na análise da transcrição, na modelagem em Mermaid e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio do Google Gemini na análise da transcrição, na modelagem em Mermaid e na formatação Markdown. A coleta e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 27/09/2026 | HTA e CTT preliminares, com marcação da validação pendente | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.2` | 27/09/2026 | Incorpora o caminho observado e a validação dos modelos relatada pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `1.0` | 27/09/2026 | Reestrutura HTA e CTT com o percurso, as iterações, os tempos e o resultado da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.1` | 27/09/2026 | HTA e CTT preliminares, com marcação da validação pendente | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 27/09/2026 | Incorpora o caminho observado e a validação dos modelos relatada pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 27/09/2026 | Reestrutura HTA e CTT com o percurso, as iterações, os tempos e o resultado da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

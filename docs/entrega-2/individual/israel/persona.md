@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Construção da persona | [Persona](persona.md#descricao-da-persona) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Validação com a participante | [Validação](persona.md#validacao-com-a-participante) |
+| Google Gemini | Transcrição, redação preliminar e formatação Markdown | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -23,17 +24,19 @@ Marta Oliveira representa quem chega ao Portal do Senado com uma tarefa administ
 
 Uma persona é um personagem fictício que representa um usuário típico, não a pessoa entrevistada (BARBOSA; SILVA, 2010, p. 176). O nome e o retrato de Marta Oliveira são inventados; o restante é o tipo que a [sessão](entrevista-observacao.md#resultados) revelou.
 
-<div class="persona-card">
-  <img class="no-lightbox" src="" alt="Retrato fictício de uma mulher de meia-idade, usado como Marta Oliveira.">
-  <div>
-    <p class="persona-kicker">Servidora pública</p>
-    <p class="persona-name">Marta Oliveira</p>
-    <p class="persona-role">47 anos · servidora pública</p>
-  </div>
-</div>
+??? note "Figura 1 — Retrato fictício de Marta Oliveira."
 
-<p class="caption">Figura 1 — Retrato fictício de Marta Oliveira.</p>
-<p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
+    <div class="persona-card">
+      <img class="no-lightbox" src="" alt="Retrato fictício de uma mulher de meia-idade, usado como Marta Oliveira.">
+      <div>
+        <p class="persona-kicker">Servidora pública</p>
+        <p class="persona-name">Marta Oliveira</p>
+        <p class="persona-role">47 anos · servidora pública</p>
+      </div>
+    </div>
+
+    <p class="caption">Figura 1 — Retrato fictício de Marta Oliveira.</p>
+    <p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
 
 Marta Oliveira tem 47 anos e é servidora pública. Acompanha notícias diariamente, pela internet e pelo jornal, e usa o celular como dispositivo principal no dia a dia — mas recorre ao computador quando a tarefa exige mais atenção, como pesquisar em um site institucional. Não tem muita familiaridade técnica com esse tipo de site: quando trava em algo, prefere buscar ajuda ou informação complementar por fora a insistir sozinha.
 
@@ -75,7 +78,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 
 <!-- Preencher: data, o que foi lido/mostrado à participante, se houve correção, e limitações da validação. -->
 
-O Vídeo 1 registra a validação. Categoria no YouTube: a definir. Link: [https://youtu.be/YEwGIWfGqBI](https://youtu.be/YEwGIWfGqBI). Data: 27/09. A legenda com o nome da participante foi coberta (se aplicável).
+O Vídeo 1 registra a validação. Categoria no YouTube: **não listado**. Link: [https://youtu.be/YEwGIWfGqBI](https://youtu.be/YEwGIWfGqBI). Data: 27/09/2026. A legenda com o nome da participante foi coberta.
 
 ??? note "Vídeo 1 — Validação da persona com a participante"
 
@@ -105,7 +108,7 @@ A Tabela 3 registra o resultado.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a validação com a participante são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Google Gemini na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a validação com a participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -114,6 +117,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 27/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Persona Marta Oliveira preenchida com os dados da sessão, ainda sem o ok da participante | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Confirma Marta Oliveira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

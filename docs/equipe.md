@@ -18,6 +18,10 @@ A Tabela 1 registra quem atuou nesta página. A Tabela 3 concentra a contribuiç
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
+## Introdução
+
+Esta página apresenta os cinco integrantes do Grupo 06 e a divisão de papéis da Entrega 1. As fotos e os nomes identificam quem assina os artefatos. A matrícula não aparece, como pede a lista de verificação da disciplina.
+
 ## Integrantes
 
 <div class="team" markdown>
@@ -105,7 +109,8 @@ A Tabela 3 concentra a contribuição da Entrega 1. Cada linha é uma atividade,
 | `1.1` | 05/09/2026 | Ajusta os papéis da Entrega 1: Caio nos sites, Israel no processo e Heitor nas ferramentas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 05/09/2026 | Inclui a contribuição da etapa e a estruturação do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato, com gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 03/10/2026 | Inclui a introdução e troca Referências por Bibliografia, porque o plano não é citado no texto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
-## Referências
+## Bibliografia
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.

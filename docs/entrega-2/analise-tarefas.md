@@ -12,6 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Fundamentação e conceituação de HTA e CTT | [HTA e CTT](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Estruturação da página e índice das análises do grupo | [Análises do grupo](analise-tarefas.md#analises-de-tarefas-do-grupo) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | HTA e CTT da consulta à reunião da CCJ | [Análise individual](individual/luis/analise-tarefas.md) |
+| ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -32,9 +33,12 @@ A **Análise de Tarefas** é uma etapa essencial na área de Interação Humano-
 
 O principal objetivo dessa análise é compreender as intenções e o contexto do usuário ao interagir com o sistema, decompondo suas ações para facilitar o mapeamento de requisitos e a tomada de decisões de design.
 
-![Definição de Análise de Tarefas](../assets/img/referencias/barbosa-analise.png)
-<p class="caption">Figura 1 — Definição de Análise de Tarefas.</p>
-<p class="source">Fonte: Barbosa e Silva (2010, p. 191).</p>
+??? note "Figura 1 — Definição de Análise de Tarefas."
+
+    ![Definição de Análise de Tarefas](../assets/img/referencias/barbosa-analise.png)
+    <p class="caption">Figura 1 — Definição de Análise de Tarefas.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 191).</p>
+
 
 Para a condução deste processo, o projeto faz o uso articulado das técnicas **HTA** e **CTT**.
 
@@ -44,17 +48,23 @@ A técnica HTA (*Hierarchical Task Analysis*) busca mapear a estrutura hierárqu
 
 > "A Análise Hierárquica de Tarefas (HTA - *Hierarchical Task Analysis*) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente." (BARBOSA; SILVA, 2010, p. 192).
 
-![Definição de HTA](../assets/img/referencias/barbosa-hta.png)
-<p class="caption">Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA).</p>
-<p class="source">Fonte: Barbosa e Silva (2010, p. 192).</p>
+??? note "Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA)."
+
+    ![Definição de HTA](../assets/img/referencias/barbosa-hta.png)
+    <p class="caption">Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA).</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 192).</p>
+
 
 ### ConcurTaskTrees (CTT)
 
 A técnica CTT (*ConcurTaskTrees*) complementa a HTA, oferecendo um modelo visual baseado na engenharia de software e na ergonomia cognitiva, que permite analisar a interface através das relações temporais e lógicas das tarefas (PATERNÒ, 2000). O CTT é utilizado para modelar características essenciais da interação contemporânea, como paralelismo, ordenação sequencial, escolha, desativação e interrupção entre as tarefas executadas tanto pelo usuário quanto pelo sistema.
 
-![Definição de CTT](../assets/img/referencias/barbosa-ctt.png)
-<p class="caption">Figura 3 — Representação da técnica ConcurTaskTrees (CTT).</p>
-<p class="source">Fonte: Barbosa e Silva (2010, p. 203).</p>
+??? note "Figura 3 — Representação da técnica ConcurTaskTrees (CTT)."
+
+    ![Definição de CTT](../assets/img/referencias/barbosa-ctt.png)
+    <p class="caption">Figura 3 — Representação da técnica ConcurTaskTrees (CTT).</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 203).</p>
+
 
 ## Análises de tarefas do grupo
 
@@ -73,7 +83,7 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 
 ## Agradecimentos
 
-Esta página contou com o auxílio de ferramenta de inteligência artificial generativa na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação.
 
 ## Histórico de versão
 
@@ -81,7 +91,8 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 25/09/2026 | Criação do documento, introdução e fundamentação teórica de HTA e CTT | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Adição de tabela de contribuição padronizada, índice das tarefas do grupo e padronização do histórico de versões | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `0.3` | 27/09/2026 | Atualiza a análise da tarefa de Luís com os modelos validados pela transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.3` | 27/09/2026 | Atualiza a análise da tarefa de Luís com os modelos validados pela transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

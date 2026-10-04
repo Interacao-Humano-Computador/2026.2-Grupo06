@@ -15,6 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Cenário de Letícia Oliveira | [Cenário](individual/heitor/cenario.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Cenário de Marta Oliveira | [Cenário](individual/israel/cenario.md) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Cenário de Marina Alves | [Cenário](individual/luis/cenario.md) |
+| Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenarios.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -71,7 +72,7 @@ A Tabela 3 reúne os cinco cenários de problema, um por integrante.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e o alinhamento dos títulos à situação de cada cenário são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e o alinhamento dos títulos à situação de cada cenário são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -84,7 +85,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.5` | 27/09/2026 | Inclui o cenário de Marina Alves | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.6` | 27/09/2026 | Atualiza o cenário de Marina Alves com o percurso e o resultado relatados | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Alinha os títulos à situação de cada cenário, inclui a situação inicial e corrige o título desatualizado de Mariana Costa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.1` | 27/09/2026 | Confirma o cenário de Marina Alves com o percurso registrado na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.1` | 27/09/2026 | Confirma o cenário de Marina Alves com o percurso registrado na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

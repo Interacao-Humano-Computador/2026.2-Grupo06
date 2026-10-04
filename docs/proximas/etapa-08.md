@@ -1,4 +1,7 @@
-﻿# Etapa 8 — Verificação dos artefatos
+# Etapa 8 — Verificação dos artefatos
+
+## Introdução
+
 
 Entrega em 22/11/2026; inspeção em 23/11; apresentação em 24/11.
 

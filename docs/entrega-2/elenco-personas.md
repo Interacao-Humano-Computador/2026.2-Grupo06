@@ -14,6 +14,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Persona Letícia Oliveira, a partir da entrevista e da observação | [Letícia Oliveira](individual/heitor/persona.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Persona Marta Oliveira, a partir da entrevista e da observação | [Marta Oliveira](individual/israel/persona.md) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Persona Marina Alves, a partir da entrevista e da observação | [Marina Alves](individual/luis/persona.md) |
+| Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](elenco-personas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -59,7 +60,7 @@ Bruno Ferreira Dornelas elaborou ainda a persona [Lucas Mendes](individual/bruno
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e a decisão de status do elenco são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e a decisão de status do elenco são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -72,7 +73,8 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.5` | 27/09/2026 | Inclui Marina Alves, persona da sessão do Luís | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.6` | 27/09/2026 | Atualiza o perfil de Marina Alves com os dados relatados depois da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Fecha o elenco com as cinco personas, define primárias e secundárias e uniformiza os perfis | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.1` | 27/09/2026 | Confirma os atributos de Marina Alves a partir da transcrição da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.1` | 27/09/2026 | Confirma os atributos de Marina Alves a partir da transcrição da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

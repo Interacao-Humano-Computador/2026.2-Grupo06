@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Construção da persona | [Persona](persona.md#descricao-da-persona) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Validação com a participante | [Validação](persona.md#validacao-com-a-participante) |
+| ChatGPT (OpenAI GPT-4o) | Retrato fictício, estruturação do texto e formatação Markdown | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -23,17 +24,19 @@ Letícia Oliveira representa a pessoa usuária pertencente ao perfil de **Partic
 
 Uma persona é um personagem fictício que representa um grupo de usuários com comportamentos, objetivos e características similares, evitando generalizações abstratas (BARBOSA; SILVA, 2010, p. 176). O método prescreve a atribuição de nome, idade e foto para tornar o perfil concreto e memorável, reservando os detalhes operacionais da tarefa para o [cenário](cenario.md) e a [análise de tarefas](analise-tarefas.md). Apenas o nome e a foto são fictícios; todo o comportamento reflete os dados empíricos obtidos na [entrevista e observação](entrevista-observacao.md#resultados). A Figura 1 apresenta o retrato fictício da persona.
 
-<div class="persona-card">
-  <img class="no-lightbox" src="../../../../assets/img/personas/leticia-oliveira.jpg" alt="Retrato fictício de uma mulher jovem de 21 anos, cabelo preso e vestimenta casual em ambiente de estudo e trabalho comunitário, representando Letícia Oliveira.">
-  <div>
-    <p class="persona-kicker">Secretária Técnica / Militante Social</p>
-    <p class="persona-name">Letícia Oliveira</p>
-    <p class="persona-role">21 anos · estudante de Geografia · atua em organização de apoio à agricultura familiar e movimentos do campo</p>
-  </div>
-</div>
+??? note "Figura 1 — Retrato fictício de Letícia Oliveira."
 
-<p class="caption">Figura 1 — Retrato fictício de Letícia Oliveira.</p>
-<p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante real.</p>
+    <div class="persona-card">
+      <img class="no-lightbox" src="../../../../assets/img/personas/leticia-oliveira.jpg" alt="Retrato fictício de uma mulher jovem de 21 anos, cabelo preso e vestimenta casual em ambiente de estudo e trabalho comunitário, representando Letícia Oliveira.">
+      <div>
+        <p class="persona-kicker">Secretária Técnica / Militante Social</p>
+        <p class="persona-name">Letícia Oliveira</p>
+        <p class="persona-role">21 anos · estudante de Geografia · atua em organização de apoio à agricultura familiar e movimentos do campo</p>
+      </div>
+    </div>
+
+    <p class="caption">Figura 1 — Retrato fictício de Letícia Oliveira.</p>
+    <p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante real.</p>
 
 Letícia tem 21 anos e é estudante de graduação em Geografia. Há cerca de nove meses atua como secretária técnica voluntária em uma articulação regional vinculada a movimentos camponeses e de soberania alimentar (inspirada na atuação da CLOC / Via Campesina). Seu trabalho envolve a organização de pautas, o apoio a eventos de formação e a disseminação de avisos sobre projetos de lei federais que impactam diretamente a vida das famílias agricultoras.
 
@@ -90,7 +93,7 @@ A Tabela 3 resume o processo de validação.
 
 ## Agradecimentos
 
-Esta página contou com o auxílio de ferramenta de inteligência artificial generativa na estruturação textual preliminar, na formatação Markdown e na criação do retrato fictício da Figura 1. A coleta dos dados empíricos, a análise e a validação do conteúdo são de inteira responsabilidade do autor.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, na formatação Markdown e na criação do retrato fictício da Figura 1. A coleta dos dados empíricos, a análise e a validação do conteúdo são de inteira responsabilidade do autor.
 
 ## Histórico de versão
 
@@ -99,6 +102,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | `0.1` | 27/09/2026 | Estrutura inicial e planejamento da persona | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Elaboração completa da persona Letícia Oliveira fundamentada na sessão empírica e validada com a participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Confirma Letícia Oliveira como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

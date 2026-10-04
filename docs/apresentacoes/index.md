@@ -13,7 +13,9 @@ A Tabela 1 registra quem atuou neste artefato.
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo. A Tabela 2 organiza esses vídeos.
+## Introdução
+
+Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). A Tabela 2 organiza esses vídeos. As etapas 1 e 2 já têm gravação. A Etapa 3 será apresentada em 08/10/2026.
 
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
@@ -38,6 +40,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | `0.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 05/09/2026 | Adição do link do vídeo da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.4` | 27/09/2026 | Adição do link do vídeo da Entrega 2 e página da Etapa 2 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.5` | 03/10/2026 | Inclui a introdução e cita o plano de ensino no texto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

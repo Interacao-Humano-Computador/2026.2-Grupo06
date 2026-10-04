@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Identificação do cenário | [Identificação](cenario.md#identificacao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
+| Claude (Anthropic) | Transcrição, estruturação do texto e redação preliminar | [Agradecimentos](cenario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -77,7 +78,7 @@ Como no Exemplo 6.5, pensar nas perguntas também mostra lacunas (BARBOSA; SILVA
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na transcrição do áudio da sessão e na formatação Markdown. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar, na transcrição do áudio da sessão e na formatação Markdown. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -88,6 +89,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.3` | 24/09/2026 | Narrativa no formato dos Exemplos 6.4 e 6.5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 25/09/2026 | Situação inicial, narrativa só com a persona, lacuna da pergunta 7 e retirada de problema sem base na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 27/09/2026 | Ajusta o título para descrever a situação: a lista de notícias mistura 2013 e 2026 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

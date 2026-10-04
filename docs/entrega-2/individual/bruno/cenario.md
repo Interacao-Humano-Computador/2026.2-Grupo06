@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Identificação do cenário | [Identificação](cenario.md#identificacao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
+| ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -82,7 +83,7 @@ Como no Exemplo 6.5, pensar nas perguntas mostra lacunas (BARBOSA; SILVA, 2010, 
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a observação do comportamento real do portal e a coleta que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a observação do comportamento real do portal e a coleta que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -91,6 +92,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 21/09/2026 | Identificação do cenário e perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 26/09/2026 | Narrativa e análise a partir do perfil da sessão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 26/09/2026 | Narrativa revisada com o comportamento real do portal verificado; análise do cenário alinhada às perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

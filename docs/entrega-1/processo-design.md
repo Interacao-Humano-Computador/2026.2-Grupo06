@@ -1,6 +1,6 @@
 <span class="owner">Responsável: Israel Soares de Paiva — Processo de Design</span>
 
-# Introdução
+# Processo de Design
 
 ## Tabela de contribuição
 
@@ -10,40 +10,48 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Redação e justificativa do processo | [Processo escolhido](processo-design.md#processo-escolhido) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Fotos da referência do processo | [Foto do trecho](processo-design.md#foto-do-trecho) |
+| Google Gemini | Apoio na organização do texto e na formatação Markdown | [Agradecimentos](processo-design.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
+## Introdução
+
+Esta página justifica o processo de design adotado pelo Grupo 06 para avaliar e reprojetar o Portal do Senado Federal. O capítulo 4 de Barbosa e Silva (2010) apresenta atividades básicas e modelos de ciclo de vida. O grupo compara esses modelos e registra a escolha da engenharia de usabilidade de Mayhew.
+
 ## Processo de Design
 
-Compreender esse processo é essencial explorar pois destaca a importância de envolver o usuário durante suas atividades possibilitando participar direta ou indiretamente, nas decisões tomadas. Segundo Barbosa e Silva,design pode ser definido como processo composto por três atividades fundamentais:análise da situação atual(identificação de um problema), síntese de uma intervenção e avaliação da nova situação resultante dessa intervenção.
+Compreender o processo de design importa porque o usuário participa, direta ou indiretamente, das decisões. Barbosa e Silva (2010) definem design como um processo com três atividades fundamentais: análise da situação atual, síntese de uma intervenção e avaliação da nova situação. A Figura 1 reproduz essa descrição.
+
+??? note "Figura 1 — Atividades básicas do processo de design."
+
+    ![Diagrama das três atividades do processo de design: análise, síntese e avaliação.](../assets/img/referencias/processo1.png)
+
+    <p class="caption">Figura 1 — Atividades básicas do processo de design.</p>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, cap. 4).</p>
 
 
 ## Atividades básicas
 
-O proceso de design é composto por três atividades: análise,sítese e avaliação. Análise busca entender e conhever elemento envolvidos e as relações entre eles, como resultado, obtemos diferentes interpretações da realidade e podemos ver as necessidades do usuário. a síntese é o momento de gerar as soluções proprimente ditas(protótipos e ideis conceituais), a avaliação é a forma de verificar o que foi produzido atende às necessidades identificadas, e seus resultados normalmente realimentam uma nova rodada de análise ou síntese, o que torna o processo cíclico em vez de linear. 
-
-![Processo1](../assets/img/referencias/processo1.png)
-
-**Figura1: Descrição do Processo de Design**
+O processo de design é composto por análise, síntese e avaliação. A análise busca entender os elementos envolvidos e as relações entre eles. O resultado são interpretações da realidade e das necessidades do usuário. A síntese gera as soluções, como protótipos e ideias conceituais. A avaliação verifica se o que foi produzido atende às necessidades identificadas. Os resultados em geral alimentam uma nova rodada de análise ou de síntese, e o processo é cíclico, não linear (BARBOSA; SILVA, 2010).
 
 ## Processos possíveis
 
 ### Ciclo de vida simples
 
-ciclo de vida simples é o modelo mais enxuto entre os apresentados no capítulo. Depois da fase de análise, a síntese se divide em duas atividades: design (ou redesign) da solução e construção de uma versão interativa dela. Essa versão é então avaliada, e o ciclo pode se repetir quantas vezes forem necessárias até que o resultado seja satisfatório. Por não detalhar como cada uma dessas atividades deve ser conduzida internamente, esse modelo costuma ser indicado para designers com mais experiência, que já sabem preencher essas lacunas por conta própria.
+O ciclo de vida simples é o modelo mais enxuto do capítulo. Depois da análise, a síntese se divide em design (ou redesign) da solução e construção de uma versão interativa. Essa versão é avaliada, e o ciclo pode se repetir até o resultado ser satisfatório. Por não detalhar como cada atividade é conduzida, o modelo costuma servir a designers com mais experiência (BARBOSA; SILVA, 2010).
 
 ### Ciclo de vida em estrela
 
-O ciclo em estrela relaxa a ideia de sequência: o designer pode iniciar o trabalho por qualquer uma das atividades, desde que, ao final de cada uma delas, faça uma avaliação antes de seguir adiante. Aqui a síntese é dividida em quatro atividades mais específicas — projeto conceitual, especificação, prototipação e implementação — o que já é um nível de detalhe maior que o ciclo simples. Ainda assim, o modelo continua sendo pouco prescritivo quanto à ordem e à forma de executar cada atividade.
+O ciclo em estrela relaxa a sequência: o designer pode começar por qualquer atividade, desde que avalie ao final de cada uma antes de seguir. A síntese se divide em projeto conceitual, especificação, prototipação e implementação. O modelo continua pouco prescritivo quanto à ordem e à forma de executar cada atividade (BARBOSA; SILVA, 2010).
 
 ### Engenharia de usabilidade de Mayhew
 
-O modelo de Mayhew organiza o processo em três grandes fases: análise de requisitos, design/avaliação/desenvolvimento (em geral executada de forma iterativa) e instalação. Entre os processos do capítulo, é o mais detalhado, pois cada fase é acompanhada de um conjunto específico de atividades e técnicas recomendadas.
+O modelo de Mayhew organiza o processo em três fases: análise de requisitos, design, avaliação e desenvolvimento, em geral iterativos, e instalação. É o mais detalhado do capítulo, porque cada fase traz atividades e técnicas recomendadas (BARBOSA; SILVA, 2010, p. 109). A Figura 2 mostra a introdução desse ciclo.
 
-### Outros
+### Engenharia de usabilidade de Nielsen
 
-Nielsen lista atividades essenciais de engenharia de usabilidade, sem impor uma ordem única. Só use se Heitor argumentar melhor do que Mayhew ou o ciclo em estrela.
+Nielsen (1993, apud BARBOSA; SILVA, 2010) lista atividades essenciais de engenharia de usabilidade sem impor uma ordem única. O grupo não adotou esse modelo: as entregas da disciplina pedem fases reconhecíveis, e Mayhew associa técnicas a cada fase. Nielsen permanece como referência das atividades, não como o ciclo que organiza o semestre.
 
 
 ## Comparação rápida
@@ -52,21 +60,21 @@ A Tabela 2 compara os processos do capítulo usado neste artefato.
 
 | Processo | Detalhamento | Ordem das atividades | Encaixa no semestre? |
 | --- | --- | --- | --- |
-| Ciclo simples | Baixo | Análise → design → construção → avaliação | 0 |
-| Ciclo em estrela | Médio | Qualquer ponta, com avaliação depois de cada uma | 0 |
-| Mayhew | Alto | Requisitos → design/avaliação → instalação | X |
+| Ciclo simples | Baixo | Análise, design, construção e avaliação | Não |
+| Ciclo em estrela | Médio | Qualquer ponta, com avaliação depois de cada uma | Não |
+| Mayhew | Alto | Requisitos, design e avaliação, instalação | Sim |
+| Nielsen | Médio | Atividades essenciais, sem ordem fixa | Não |
 
 <p class="caption">Tabela 2 — Comparação dos processos do capítulo 4.</p>
 <p class="source">Fonte: elaboração do Grupo 06 a partir de BARBOSA; SILVA (2010) e Lichess (2022).</p>
 
 ## Processo escolhido
 
-**Nome:** Engenharia de Usuabilidade de Mayhew
+**Nome:** Engenharia de usabilidade de Mayhew
 
 ### O que é
 
-Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usuabilidade, com uma visão holística.
-(BARBOSA; SILVA, 2010, p. 109).
+Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usabilidade, com uma visão holística (BARBOSA; SILVA, 2010, p. 109). A Figura 2, a Figura 3 e a Figura 4 reproduzem a introdução do modelo, parte do gráfico e a fase de instalação.
 
 ### Por que este processo
 
@@ -85,23 +93,33 @@ A Tabela 3 liga as fases do processo escolhido às entregas da disciplina.
 
 ## Foto do trecho
 
-![Processo3](../assets/img/referencias/processo3.png)
+??? note "Figura 2 — Introdução da engenharia de usabilidade de Mayhew."
 
-**Figura 1: Introdução de Usuabilidade de Mayhew** 
+    ![Trecho do livro sobre a introdução do ciclo de vida de engenharia de usabilidade de Mayhew.](../assets/img/referencias/processo3.png)
 
-![Processo4](../assets/img/referencias/processo4.png)
+    <p class="caption">Figura 2 — Introdução da engenharia de usabilidade de Mayhew.</p>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 109).</p>
 
-**Figura 2: Parte do Gráfico**
 
-![Processo5](../assets/img/referencias/processo5.png)
+??? note "Figura 3 — Parte do gráfico do ciclo de vida de Mayhew."
 
-**Figura 3: Fase de Instalação**
+    ![Trecho do gráfico do ciclo de vida de Mayhew.](../assets/img/referencias/processo4.png)
 
-<p class="source">Fonte: BARBOSA; SILVA (2010, p. 109-111).</p>
+    <p class="caption">Figura 3 — Parte do gráfico do ciclo de vida de Mayhew.</p>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 110).</p>
+
+
+??? note "Figura 4 — Fase de instalação do ciclo de Mayhew."
+
+    ![Trecho do livro sobre a fase de instalação do ciclo de Mayhew.](../assets/img/referencias/processo5.png)
+
+    <p class="caption">Figura 4 — Fase de instalação do ciclo de Mayhew.</p>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 111).</p>
+
 
 ## Agradecimentos
 
-A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+A equipe agradece o apoio do Google Gemini na organização do texto, no ajuste da clareza e na formatação Markdown desta página. O nome da ferramenta é o mesmo registrado na [Ata 01](../atas/ata-01.md#agradecimentos). A escolha do processo e a responsabilidade pelo que está publicado são de Israel Soares.
 
 ## Histórico de versão
 
@@ -110,6 +128,7 @@ A equipe agradece o apoio de ferramentas de inteligência artificial generativa 
 | `0.1` | 04/09/2026 | Modelo com foto da referência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 05/09/2026 | Preenchimento da página | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.2` | 03/10/2026 | Corrige figuras, numeração, fontes, chamada no texto, recado interno e ortografia; nomeia o Google Gemini | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

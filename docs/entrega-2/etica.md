@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Permissão para gravação de voz e imagem | [Permissão de gravação](etica.md#permissao-para-gravar-voz-ou-imagem) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Termo de Consentimento Livre e Esclarecido (TCLE) | [TCLE](etica.md#termo-de-consentimento-livre-e-esclarecido-tcle) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Registro ético de sua sessão e conferência do TCLE | [Registro dos TCLE](etica.md#termo-de-consentimento-livre-e-esclarecido-tcle) |
+| Google Gemini | Redação preliminar e formatação Markdown | [Agradecimentos](etica.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -72,16 +73,17 @@ A Tabela 3 registra os TCLE aplicados pelo grupo.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
+Esta página contou com o apoio do Google Gemini na formatação Markdown e na redação preliminar do conteúdo. A revisão do conteúdo e a responsabilidade pelo que está publicado são do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.2` | 27/09/2026 | Registro ético da sessão P5 e indicação das pendências de consentimento | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.3` | 27/09/2026 | Atualiza o registro da autorização oral e do conteúdo da gravação segundo o entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.4` | 27/09/2026 | Confere na transcrição o aceite e limita a autorização verbal de P5 a voz e tela | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.2` | 27/09/2026 | Registro ético da sessão P5 e indicação das pendências de consentimento | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 27/09/2026 | Atualiza o registro da autorização oral e do conteúdo da gravação segundo o entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `0.4` | 27/09/2026 | Confere na transcrição o aceite e limita a autorização verbal de P5 a voz e tela | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `0.5` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

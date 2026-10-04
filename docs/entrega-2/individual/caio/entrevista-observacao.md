@@ -15,6 +15,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Atributos da participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
+| Claude (Anthropic) | Transcrição, estruturação do texto e redação preliminar | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -193,11 +194,14 @@ A instrução foi fazer o levantamento do ano, em voz alta, sem ajuda. A Tabela 
 
 A Figura 1 mostra o trecho em que a ordem deixa de ser cronológica. A captura foi recortada para ficar só a lista do portal.
 
-<figure markdown="span">
-  ![Lista de notícias da busca por drone, com um item de 5 de julho de 2013 entre itens de 2026 e de 2025.](../../../assets/img/sites/senado-busca-drone-ordem.jpg)
-  <figcaption>Figura 1 — Trecho da busca por “drone”, na aba Notícias, durante a observação.</figcaption>
-</figure>
-<p class="source">Fonte: SENADO FEDERAL (2026), captura da sessão de observação.</p>
+??? note "Figura 1 — Trecho da busca por “drone”, na aba Notícias, durante a observação."
+
+    <figure markdown="span">
+      ![Lista de notícias da busca por drone, com um item de 5 de julho de 2013 entre itens de 2026 e de 2025.](../../../assets/img/sites/senado-busca-drone-ordem.jpg)
+      <figcaption>Figura 1 — Trecho da busca por “drone”, na aba Notícias, durante a observação.</figcaption>
+    </figure>
+    <p class="source">Fonte: SENADO FEDERAL (2026), captura da sessão de observação.</p>
+
 
 Na Figura 1, o item de 05/07/2013 aparece entre um item de 14/04/2026 e outro de 26/03/2026. Abaixo vêm 10/10/2025 e 08/08/2025. É a falha que ela trata no olho.
 
@@ -242,7 +246,7 @@ A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](anal
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na transcrição do áudio da sessão e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com a participante são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar, na transcrição do áudio da sessão e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com a participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -253,6 +257,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.3` | 24/09/2026 | Gravações da entrevista e da observação publicadas na página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/09/2026 | Aponta a validação da persona, feita no mesmo dia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 24/09/2026 | Gravações da entrevista e da observação no YouTube, não listadas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

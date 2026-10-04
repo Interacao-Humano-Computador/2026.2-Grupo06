@@ -43,7 +43,7 @@ A Tabela 2 apresenta os dados de identificação, canal, horários e participant
 
 ## Decisões
 
-- **Objeto de estudo confirmado:** Portal da Transparência do Distrito Federal, escolhido em consenso após descarte dos sites do Senado (pouco interativo) e da prefeitura (muito nichado), destacando-se pela necessidade de melhorias reais em usabilidade e acessibilidade (cookies invasivos, ausência de alertas em abas externas e problemas de contraste);
+- **Objeto discutido nesta reunião:** Portal da Transparência do Distrito Federal, escolhido em consenso no dia 04/09 após descarte provisório dos sites do Senado (avaliado então como pouco interativo) e da prefeitura (avaliada como muito nichada). A decisão desta ata não é a escolha final do projeto. A troca formal para o Portal do Senado Federal está na [Ata 02](ata-02.md);
 - **Infraestrutura e autonomia no GitHub Pages:** Caio Breno centralizou o esqueleto base no MkDocs, permitindo que cada integrante preencha e revise seus artefatos em Markdown de forma independente;
 - **Padrões acadêmicos e documentais:** obrigatoriedade de histórico de versões com autor e revisor distintos, referências ABNT em todas as páginas, adoção de fotos de perfil do GitHub para a equipe e elaboração de dois cronogramas (geral e etapa 1);
 - **Mapa de calor:** alinhamento das agendas individuais e ordenação alfabética dos membros na planilha de disponibilidade;
@@ -59,7 +59,7 @@ A Tabela 3 consolida as atividades estabelecidas, seus responsáveis diretos e o
 | Completar sites e justificativa | Caio Breno | 05/09/2026 |
 | Completar Processo de Design | Israel Soares | 05/09/2026 |
 | Completar ferramentas | Heitor Pinheiro | 05/09/2026 |
-| Revisar artefatos no GitHub Pages | Todos | 05/09/2026 |
+| Revisar artefatos no GitHub Pages | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique | 05/09/2026 |
 | Publicar ata, registro e vídeo | Bruno Ferreira | 06/09/2026 |
 
 <p class="caption">Tabela 3 — Encaminhamentos e atribuições da Ata 01.</p>
@@ -96,6 +96,7 @@ A Tabela 4 documenta o histórico de versões deste artefato.
 | `1.0` | 05/09/2026 | Preenchimento dos dados da reunião, consolidação dos tópicos da discussão e inserção da gravação via iframe | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Remoção da tabela de contribuição, renumeração das tabelas e atualização das atividades | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 03/10/2026 | Esclarece que a Transparência do DF foi a decisão desta reunião e aponta a Ata 02 para a escolha do Senado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 <p class="caption">Tabela 4 — Histórico de versão da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

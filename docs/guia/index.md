@@ -13,7 +13,9 @@ A Tabela 1 registra quem atuou neste artefato.
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota cortada em histórico de versão, autoria, legendas e referências.
+## Introdução
+
+Todo artefato publicado neste site reutiliza o mesmo contrato. Isso evita nota cortada em histórico de versão, autoria, legendas e referências. Esta página é o índice desses contratos.
 
 ## O que reutilizar
 
@@ -49,6 +51,7 @@ A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](.
 | `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 05/09/2026 | Restringe a tabela a quem atuou no artefato e tira a coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 03/10/2026 | Inclui a introdução da página de padrões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

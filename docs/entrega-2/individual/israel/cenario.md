@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Identificação do cenário | [Identificação](cenario.md#identificacao) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
+| Google Gemini | Redação preliminar e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -70,7 +71,7 @@ Pensar nas perguntas também mostra uma lacuna: a pergunta 1 fica só em parte r
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na formatação Markdown e na redação preliminar da narrativa. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Google Gemini na formatação Markdown e na redação preliminar da narrativa. A revisão do conteúdo e a coleta de dados que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -79,6 +80,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `0.1` | 27/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 27/09/2026 | Narrativa e análise preenchidas a partir da sessão com a persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marta desiste sem saber se o auditório está livre | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

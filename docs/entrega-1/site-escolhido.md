@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Aproveitamento do planejamento prévio no projeto coletivo | [Planejamento prévio](site-escolhido.md#planejamento-e-avaliacao-previa) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Planejamento do portal escolhido | [Planejamento](../assets/docs/sites/06_Israel_Paiva_Planejamento_Avaliacao_DECIDE.pdf) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Avaliação do portal escolhido | [Avaliação](../assets/docs/sites/08_Israel_Paiva_Planejamento_Avaliacao_Senado.pdf) |
+| Claude (Anthropic) | Organização do texto e formatação Markdown | [Agradecimentos](site-escolhido.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -104,7 +105,7 @@ O plano de reprojeto individual já aponta correções verificáveis: reduzir e 
 
 ## Agradecimentos
 
-A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+A equipe agradece o apoio do Claude (Anthropic) na organização do texto e na formatação Markdown desta página. O levantamento, as capturas e a análise são dos integrantes.
 
 ## Histórico de versão
 

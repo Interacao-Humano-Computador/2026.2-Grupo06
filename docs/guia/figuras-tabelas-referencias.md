@@ -87,6 +87,10 @@ Use uma lista numerada, no final do artefato. Exemplos prontos para copiar:
 
 Citação no texto: (BARBOSA; SILVA, 2010, p. 264) ou “Barbosa e Silva (2010, p. 264) afirmam…”.
 
+## Referências e bibliografia
+
+**Referências** lista só a obra citada no texto, com chamada numérica ou autor-data. **Bibliografia** lista obra consultada ou recomendada que não foi citada. Se a página nomeia um livro e não o chama no parágrafo, o título da seção é Bibliografia. Se passa a citá-lo, a seção volta a ser Referências. A distinção está na NBR 6023 e na NBR 14724 (ABNT, 2018; ABNT, 2011).
+
 ## Item de conteúdo da disciplina
 
 Todo integrante precisa de pelo menos um item por entrega pertinente, com:
@@ -102,6 +106,7 @@ Todo integrante precisa de pelo menos um item por entrega pertinente, com:
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 04/09/2026 | Padronização de legendas e ABNT | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 09/09/2026 | Regra de apêndice para capturas de tela e exemplos com o portal escolhido | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.2` | 03/10/2026 | Registra a diferença entre Referências e Bibliografia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

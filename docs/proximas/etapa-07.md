@@ -1,4 +1,7 @@
-﻿# Etapa 7 — Relato do protótipo de alta fidelidade
+# Etapa 7 — Relato do protótipo de alta fidelidade
+
+## Introdução
+
 
 Entrega em 15/11/2026; inspeção em 16/11; apresentação em 17/11.
 

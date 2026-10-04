@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | --- | --- | --- |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Consolidação do heatmap | [Disponibilidade semanal](heatmap.md#disponibilidade-semanal) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Definição da janela sugerida de reunião | [Janela sugerida](heatmap.md#janela-sugerida-de-reuniao) |
+| Google Gemini | Apoio na organização do texto e na formatação Markdown | [Agradecimentos](heatmap.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -33,12 +34,15 @@ O objetivo deste artefato é otimizar a coordenação do Grupo 06, facilitando o
 
 A Figura 1 apresenta a grade horária semanal consolidada com a quantidade de integrantes disponíveis em cada intervalo.
 
-<figure markdown="span">
-  ![Grade horária colorida que apresenta a quantidade de integrantes disponíveis em cada horário da semana.](../assets/img/heatmap/heatmap-disponibilidade.png)
-  <figcaption>Figura 1 — Heatmap de disponibilidade do Grupo 06.</figcaption>
-</figure>
+??? note "Figura 1 — Heatmap de disponibilidade do Grupo 06."
 
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+    <figure markdown="span">
+      ![Grade horária colorida que apresenta a quantidade de integrantes disponíveis em cada horário da semana.](../assets/img/heatmap/heatmap-disponibilidade.png)
+      <figcaption>Figura 1 — Heatmap de disponibilidade do Grupo 06.</figcaption>
+    </figure>
+
+    <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 
 ## Como interpretar o heatmap
 
@@ -56,7 +60,7 @@ Com base no heatmap, a janela recorrente sugerida prioriza os intervalos com val
 
 ## Agradecimentos
 
-A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+A equipe agradece o apoio do Google Gemini na organização do texto, no ajuste da clareza e na formatação Markdown desta página. O nome da ferramenta é o mesmo registrado na [Ata 01](../atas/ata-01.md#agradecimentos). A fundamentação e a responsabilidade pelo conteúdo publicado são dos integrantes.
 
 ## Histórico de versão
 

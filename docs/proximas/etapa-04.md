@@ -1,4 +1,7 @@
-﻿# Etapa 4 — Planejamento da avaliação do storyboard e da análise de tarefas
+# Etapa 4 — Planejamento da avaliação do storyboard e da análise de tarefas
+
+## Introdução
+
 
 Entrega em 13/10/2026; inspeção em 14/10; apresentação em 15/10.
 

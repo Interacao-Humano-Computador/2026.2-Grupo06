@@ -1,4 +1,7 @@
-﻿# Etapa 5 — Relatos e planejamento do protótipo de papel
+# Etapa 5 — Relatos e planejamento do protótipo de papel
+
+## Introdução
+
 
 Entrega em 25/10/2026; inspeção em 26/10; apresentação em 27/10.
 

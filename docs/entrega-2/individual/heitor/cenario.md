@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Identificação do cenário | [Identificação](cenario.md#identificacao) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
+| ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -79,7 +80,7 @@ Seguindo as orientações de Barbosa e Silva (2010, p. 185), a análise do cená
 
 ## Agradecimentos
 
-Esta página contou com o auxílio de ferramenta de inteligência artificial generativa na estruturação do documento, elaboração textual preliminar e formatação em Markdown. A fundamentação empírica da narrativa e a validação do conteúdo são de inteira responsabilidade do autor.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação do documento, elaboração textual preliminar e formatação em Markdown. A fundamentação empírica da narrativa e a validação do conteúdo são de inteira responsabilidade do autor.
 
 ## Histórico de versão
 
@@ -88,6 +89,7 @@ Esta página contou com o auxílio de ferramenta de inteligência artificial gen
 | `0.1` | 27/09/2026 | Estruturação inicial do cenário de problema | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Redação completa do cenário de problema baseada na observação empírica com o PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Ajusta o título para descrever a situação: o projeto é encontrado e o voto fica escondido | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

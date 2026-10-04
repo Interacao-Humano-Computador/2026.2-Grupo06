@@ -9,6 +9,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Construção da persona a partir do perfil estudante/pesquisador | [Persona](persona.md#persona) |
+| ChatGPT (OpenAI GPT-4o) | Retrato fictício, estruturação do texto e redação preliminar | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -19,12 +20,13 @@ Esta página apresenta a persona **Lucas Mendes**, construída a partir do [perf
 
 ## Persona
 
-<div class="persona-card" markdown>
+??? note "Figura 1 — Retrato fictício de Lucas Mendes, gerado por inteligência artificial. Nenhuma identidade real foi usada."
 
-<figure markdown="span" class="persona-photo">
-  ![Retrato fictício de Lucas Mendes: jovem adulto de cabelos escuros curtos, camisa azul, olhar atento.](../../../../assets/img/personas/lucas-mendes.jpg)
-  <figcaption>Figura 1 — Retrato fictício de Lucas Mendes, gerado por inteligência artificial. Nenhuma identidade real foi usada.</figcaption>
-</figure>
+    <figure markdown="span" class="persona-photo">
+      ![Retrato fictício de Lucas Mendes: jovem adulto de cabelos escuros curtos, camisa azul, olhar atento.](../../../../assets/img/personas/lucas-mendes.jpg)
+      <figcaption>Figura 1 — Retrato fictício de Lucas Mendes, gerado por inteligência artificial. Nenhuma identidade real foi usada.</figcaption>
+    </figure>
+
 
 ### Lucas Mendes
 
@@ -37,8 +39,6 @@ Esta página apresenta a persona **Lucas Mendes**, construída a partir do [perf
 | Ocupação | Estudante; bolsista de iniciação científica |
 | Localização | Brasília, DF |
 | Tecnologia | Notebook pessoal; smartphone; acesso à internet via campus |
-
-</div>
 
 ### 1. Identidade
 
@@ -80,13 +80,14 @@ Lucas espera que o portal funcione como uma base de dados legislativa — não c
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo e a fundamentação no [perfil elicitado](perfil-usuario.md) são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo e a fundamentação no [perfil elicitado](perfil-usuario.md) são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 26/09/2026 | Persona Lucas Mendes construída a partir do perfil estudante/pesquisador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 

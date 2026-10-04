@@ -9,6 +9,7 @@
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Fundamentação da entrevista semiestruturada | [Entrevista](tecnicas-coleta.md#entrevista-semiestruturada) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Fundamentação da observação inspirada na investigação contextual | [Observação](tecnicas-coleta.md#observacao-da-tarefa-e-investigacao-contextual) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Organização das evidências bibliográficas | [Apêndice](tecnicas-coleta.md#apendice-a-evidencias-bibliograficas) |
+| Google Gemini | Formatação Markdown | [Agradecimentos](tecnicas-coleta.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -64,15 +65,16 @@ Na sessão de Luís, a transcrição registra dois aceites para participação e
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na consolidação do material preparatório e na formatação Markdown. A seleção das evidências, a condução da coleta e a conferência das citações são de responsabilidade do autor.
+Esta página contou com apoio do Google Gemini na consolidação do material preparatório e na formatação Markdown. A seleção das evidências, a condução da coleta e a conferência das citações são de responsabilidade do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 27/09/2026 | Fundamentação das duas técnicas, aplicação conjunta e evidências bibliográficas | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.2` | 27/09/2026 | Atualiza a aplicação das técnicas com os resultados relatados da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `1.0` | 27/09/2026 | Consolida a aplicação das técnicas, o percurso e os cuidados éticos com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.1` | 27/09/2026 | Fundamentação das duas técnicas, aplicação conjunta e evidências bibliográficas | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `0.2` | 27/09/2026 | Atualiza a aplicação das técnicas com os resultados relatados da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 27/09/2026 | Consolida a aplicação das técnicas, o percurso e os cuidados éticos com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

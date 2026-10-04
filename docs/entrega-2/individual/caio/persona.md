@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Construção da persona | [Persona](persona.md#descricao-da-persona) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Validação com a participante | [Validação](persona.md#validacao-com-a-participante) |
+| Claude (Anthropic) | Transcrição, retrato fictício e estruturação do texto | [Agradecimentos](persona.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -23,17 +24,19 @@ Renata Moreira representa quem acompanha notícias e normas do setor aeroespacia
 
 Uma persona é um personagem fictício que representa um usuário típico, não a pessoa entrevistada (BARBOSA; SILVA, 2010, p. 176). O livro pede nome, idade e foto para ela ficar concreta, e manda deixar o passo a passo da tarefa para o [cenário](cenario.md) (p. 177). Só o nome e o retrato são inventados. O restante é o tipo que a [sessão](entrevista-observacao.md#resultados) revelou, escrito como no Exemplo 6.2 (p. 178), e não a transcrição do que ela disse naquele dia. A Figura 1 é o retrato fictício da persona.
 
-<div class="persona-card">
-  <img class="no-lightbox" src="../../../../assets/img/personas/renata-moreira.png" alt="Retrato fictício de uma mulher jovem, de cabelo escuro preso e blusa verde, usado como Renata Moreira.">
-  <div>
-    <p class="persona-kicker">Estagiária</p>
-    <p class="persona-name">Renata Moreira</p>
-    <p class="persona-role">24 anos · engenharia na área espacial · cerca de seis meses de estágio</p>
-  </div>
-</div>
+??? note "Figura 1 — Retrato fictício de Renata Moreira."
 
-<p class="caption">Figura 1 — Retrato fictício de Renata Moreira.</p>
-<p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
+    <div class="persona-card">
+      <img class="no-lightbox" src="../../../../assets/img/personas/renata-moreira.png" alt="Retrato fictício de uma mulher jovem, de cabelo escuro preso e blusa verde, usado como Renata Moreira.">
+      <div>
+        <p class="persona-kicker">Estagiária</p>
+        <p class="persona-name">Renata Moreira</p>
+        <p class="persona-role">24 anos · engenharia na área espacial · cerca de seis meses de estágio</p>
+      </div>
+    </div>
+
+    <p class="caption">Figura 1 — Retrato fictício de Renata Moreira.</p>
+    <p class="source">Fonte: retrato gerado por inteligência artificial para esta persona (2026). Não é a participante.</p>
 
 Renata Moreira tem 24 anos e cursa engenharia na área espacial. Estagia há pouco tempo num órgão público, junto com outros estagiários. Parte do trabalho do grupo é acompanhar, ao longo do ano, o que sai sobre a área espacial e as forças armadas, e separar o que entra num anuário anual. O anuário fica público, para quem se interessa pelo tema. A equipe não usa uma fonte só: alterna os sites de semana em semana e guarda o que for mais relevante.
 
@@ -113,7 +116,7 @@ A Tabela 3 registra o resultado.
 
 ## Agradecimentos
 
-Esta página contou com o apoio de ferramenta de inteligência artificial generativa na estruturação, na redação preliminar, na transcrição das gravações, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo, a coleta e a validação com a participante são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar, na transcrição das gravações, na formatação Markdown e na geração do retrato fictício da Figura 1. A revisão do conteúdo, a coleta e a validação com a participante são do autor, que segue responsável pelo que está publicado.
 
 ## Histórico de versão
 
@@ -128,6 +131,7 @@ Esta página contou com o apoio de ferramenta de inteligência artificial genera
 | `1.2` | 24/09/2026 | Recoloca o retrato no cartão e tira a frase de destaque | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 25/09/2026 | Objetivos sem falsos objetivos, status proposto, frequência e duração da tarefa, citações nos requisitos, limitação da validação e origem do retrato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 27/09/2026 | Confirma Renata Moreira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

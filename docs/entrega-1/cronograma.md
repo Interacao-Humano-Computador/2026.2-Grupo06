@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | --- | --- | --- |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado | [Etapa 1](cronograma.md#etapa-1-planejamento-do-projeto) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
+| Google Gemini | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -271,14 +272,14 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Elaboração da persona e do cenário | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída com dados da transcrição e validação registrada como relato do entrevistador |
 | Elaboração da HTA e da CTT | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída e ajustada ao percurso observado |
 | Documentação das técnicas de coleta e evidências bibliográficas | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída |
-| Integração dos artefatos individuais ao GitHub Pages | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Integração concluída; revisão de Caio pendente |
+| Integração dos artefatos individuais ao GitHub Pages | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Integração concluída; revisão de Bruno Ferreira |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
-A equipe agradece o apoio de ferramentas de inteligência artificial generativa na organização do texto, no ajuste da clareza e na formatação Markdown desta página. A fundamentação teórica, o levantamento de dados, as capturas e a análise crítica foram feitos pelos integrantes, que seguem responsáveis pelo conteúdo.
+A equipe agradece o apoio do Google Gemini na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
 
 ## Histórico de versão
 
@@ -291,8 +292,8 @@ A equipe agradece o apoio de ferramentas de inteligência artificial generativa 
 | `1.1` | 05/09/2026 | Adição da introdução, legendas e redistribuição de tarefas da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.3` | 05/09/2026 | Inclusão de ajustes do Pages, gravação e edição no cronograma executado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
-| `2.0` | 27/09/2026 | Registro parcial das atividades executadas por Luís Henrique na Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `2.1` | 27/09/2026 | Atualiza as atividades de Luís após a incorporação da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `2.0` | 27/09/2026 | Registro parcial das atividades executadas por Luís Henrique na Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.1` | 27/09/2026 | Atualiza as atividades de Luís após a incorporação da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências

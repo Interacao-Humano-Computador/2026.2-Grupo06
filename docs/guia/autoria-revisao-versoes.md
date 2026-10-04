@@ -49,6 +49,15 @@ Regras:
 
 No início da página, mantenha a faixa `Responsável` e, nos itens de conteúdo da disciplina, a linha **Autor do item**.
 
+## Uso de IA generativa
+
+Se uma ferramenta de inteligência artificial generativa ajudou na redação, na formatação, na transcrição ou na imagem, o artefato registra duas coisas, com o nome da ferramenta:
+
+1. uma linha na tabela de contribuição, com a hiperligação da seção de agradecimentos;
+2. a seção `## Agradecimentos`, dizendo o que a ferramenta fez e que a responsabilidade do conteúdo continua com o autor.
+
+Não escreva só "IA generativa". Escreva, por exemplo, Google Gemini. O registro do grupo na Entrega 1 usa o Google Gemini, como na [Ata 01](../atas/ata-01.md#agradecimentos). Se outra página usou outra ferramenta, o nome dessa página muda.
+
 ## Tabela de contribuição
 
 A tabela de contribuição fica **no início de cada artefato**. Liste só quem atuou naquela página. Cada atividade vira uma linha, com a hiperligação da seção ou do arquivo correspondente. A Entrega 1 também concentra o quadro da etapa na [Apresentação da Etapa 1](../apresentacoes/etapa-01.md).
@@ -70,6 +79,7 @@ A tabela de contribuição fica **no início de cada artefato**. Liste só quem 
 | `1.2` | 05/09/2026 | Remove a coluna de gravação e aponta a tabela para a Etapa 1 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 05/09/2026 | Restringe a tabela a quem atuou no artefato e tira a coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 03/10/2026 | Exige o nome da ferramenta de IA na tabela de contribuição e nos agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

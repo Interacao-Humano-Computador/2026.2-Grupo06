@@ -12,6 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Planejamento e condução da sessão | [Planejamento](entrevista-observacao.md#planejamento-da-sessao) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Roteiro da entrevista semiestruturada | [Roteiro](entrevista-observacao.md#roteiro-da-entrevista) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Protocolo de observação | [Observação](entrevista-observacao.md#protocolo-de-observacao) |
+| Google Gemini | Transcrição e formatação Markdown | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -207,16 +208,17 @@ A Tabela 6 consolida o relato atual e mantém explícito o único atributo que a
 
 ## Agradecimentos
 
-Esta página contou com apoio de ferramenta de inteligência artificial generativa na organização do material, na análise da transcrição automática e na formatação Markdown. A condução da sessão, a conferência final dos trechos incertos e a responsabilidade pelo conteúdo são do autor.
+Esta página contou com apoio do Google Gemini na organização do material, na análise da transcrição automática e na formatação Markdown. A condução da sessão, a conferência final dos trechos incertos e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 27/09/2026 | Planejamento, dados confirmados da sessão e marcação das seções que aguardam transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
-| `0.2` | 27/09/2026 | Incorpora perfil, percurso, dificuldades, resultado e avaliações relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `0.1` | 27/09/2026 | Planejamento, dados confirmados da sessão e marcação das seções que aguardam transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `0.2` | 27/09/2026 | Incorpora perfil, percurso, dificuldades, resultado e avaliações relatados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 27/09/2026 | Consolida atributos de treinamento e aprendizagem para integração ao perfil do usuário | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.0` | 27/09/2026 | Incorpora a transcrição: perfil, percurso, tempos, resultado, falas, avaliação e limitações éticas | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) — revisão pendente |
+| `1.0` | 27/09/2026 | Incorpora a transcrição: perfil, percurso, tempos, resultado, falas, avaliação e limitações éticas | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

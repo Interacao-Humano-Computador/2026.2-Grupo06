@@ -1,4 +1,7 @@
-﻿# Etapa 6 — Relato do papel e planejamento da alta fidelidade
+# Etapa 6 — Relato do papel e planejamento da alta fidelidade
+
+## Introdução
+
 
 Entrega em 03/11/2026; inspeção em 04/11; apresentação em 05/11.
 

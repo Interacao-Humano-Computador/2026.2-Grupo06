@@ -30,6 +30,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Nome](https://github.com/usuario) | Primeira atividade | [Seção da página](./arquivo.md#secao) |
 | [Nome](https://github.com/usuario) | Segunda atividade | [Outra seção](./arquivo.md#outra) |
+| Google Gemini | Apoio na organização do texto e na formatação Markdown | [Agradecimentos](./arquivo.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -69,6 +70,10 @@ No texto: “A Tabela N sintetiza…”.
 </figure>
 <p class="source">Fonte: SOBRENOME (ano, p. X).</p>
 
+## Agradecimentos
+
+O Google Gemini apoiou a organização do texto e a formatação Markdown. A responsabilidade pelo conteúdo publicado é do autor.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -98,6 +103,7 @@ Depois de copiar, acrescente a página em `mkdocs.yml` na seção correta da `na
 | `1.2` | 05/09/2026 | Aponta a contribuição para a apresentação da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Devolve a tabela de contribuição para o início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 05/09/2026 | Restringe a tabela a quem atuou no artefato e tira a coluna de gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 03/10/2026 | Inclui no modelo o nome da ferramenta de IA na tabela de contribuição e a seção de agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

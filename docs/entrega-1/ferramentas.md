@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Edição do artefato, seleção e formatação das ferramentas | [Ferramentas utilizadas](ferramentas.md#ferramentas-utilizadas) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Revisão do artefato e direcionamento das ferramentas para a Etapa 2 | [Ferramentas utilizadas](ferramentas.md#ferramentas-utilizadas) |
+| ChatGPT (OpenAI GPT-4o) | Organização do texto e formatação Markdown | [Agradecimentos](ferramentas.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -79,4 +80,4 @@ A equipe agradece o apoio da ferramenta de inteligência artificial generativa C
 
 [10] ASES — Avaliador e Simulador de Acessibilidade em Sítios. Disponível em: https://asesweb.governoeletronico.gov.br/. Acesso em: 5 set. 2026.
 
-[11] WAVE Web Accessibility Evaluation Tool. Disponível em: https://wave.webaim.org/. Acesso em: 5 set. 2026.
+[11] WAVE Web Accessibility Evaluation Tool. Disponível em: https://wave.webaim.org/. Acesso em: 5 set. 2026.
