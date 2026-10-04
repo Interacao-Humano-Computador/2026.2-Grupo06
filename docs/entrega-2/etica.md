@@ -60,6 +60,7 @@ O **TCLE** é o documento formal que assegura que a participação ocorra de for
 * **Conteúdo obrigatório**: Deve informar claramente os **objetivos da pesquisa**, a **duração estimada**, os **procedimentos de coleta**, o **uso pretendido dos dados**, as **garantias de confidencialidade e anonimato**, além de eventuais **riscos ou desconfortos**.
 * **Direito de recusa e desistência**: Garante explicitamente ao participante a liberdade de se recusar a participar ou de retirar seu consentimento e abandonar a sessão a qualquer momento, sem sofrer nenhuma penalidade ou prejuízo.
 * **Formalização e vias**: Deve ser assinado tanto pelo participante (ou seu responsável legal, no caso de menores) quanto pelo pesquisador responsável[6]. Deve ser emitido em **duas vias**: uma permanece com o pesquisador e a outra é entregue ao participante
+* **Modelo Utilizado**: Segue a estruturação do documento que cada entrevistador utilizou nas entrevistas. O [Modelo-tcle-utlizado](../../../assets/docs/tcle/tcle-modelo.pdf)
 
 A Tabela 3 registra os TCLE aplicados pelo grupo.
 
