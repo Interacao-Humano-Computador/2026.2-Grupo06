@@ -62,16 +62,16 @@ hide:
     <strong>Apresentações</strong>
     <span>Vídeos das etapas 1 e 2.</span>
   </a>
-  <a class="tile" href="proximas/etapa-03/">
+  <a class="tile" href="entrega-3/">
     <span class="tile-num">06</span>
     <strong>Etapa 3</strong>
-    <span>Próxima entrega, em 06/10: princípios, metas, guia de estilo e plataforma.</span>
+    <span>Análise de requisitos aberta. A plataforma está descrita; princípios, metas e guia de estilo aguardam o grupo.</span>
   </a>
 </nav>
 
 ## Introdução
 
-Esta página abre o site do Grupo 06. As Entregas 1 e 2 já estão publicadas e podem ser abertas pelos cartões acima e pelo menu. A próxima entrega é a Etapa 3, em 06/10/2026, com inspeção em 07/10 e apresentação em 08/10. O objeto do projeto é o Portal do Senado Federal. Padrões de artefato, verificação e as etapas 4 a 8 continuam no menu.
+Esta página abre o site do Grupo 06. As Entregas 1 e 2 já estão publicadas e podem ser abertas pelos cartões acima e pelo menu. A Etapa 3 está aberta: a entrega é em 06/10/2026, a inspeção em 07/10 e a apresentação em 08/10. As características da plataforma já estão escritas. Princípios, metas de usabilidade e guia de estilo estão nas páginas da etapa, para cada autor preencher. O objeto do projeto é o Portal do Senado Federal. Padrões de artefato, verificação e as etapas 4 a 8 continuam no menu.
 
 ## Tabela de contribuição
 
@@ -133,6 +133,7 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 09/09/2026 | Portal do Senado Federal como objeto do projeto e identidade visual institucional | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.3` | 03/10/2026 | Atualiza as datas para a Etapa 3 e os cartões do que já está publicado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 03/10/2026 | Aponta o cartão da Etapa 3 para a página aberta da análise de requisitos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Bibliografia
 

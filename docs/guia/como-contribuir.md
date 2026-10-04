@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Fluxo de publicação no GitHub Pages | [Edite só a sua página](como-contribuir.md#3-edite-so-a-sua-pagina) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Padronização de templates de issues e fluxo no GitHub | [Antes de abrir o pull request](como-contribuir.md#4-antes-de-abrir-o-pull-request) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Arquivos da Etapa 3 na tabela de quem edita o quê | [Edite só a sua página](como-contribuir.md#3-edite-so-a-sua-pagina) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -45,12 +46,30 @@ Abra <http://127.0.0.1:8000/2026.2-Grupo06/>. Se a porta 8000 estiver ocupada, o
 
 ## 3. Edite só a sua página
 
+A Tabela 2 lista os arquivos principais da Entrega 1. A Tabela 3 lista os da Etapa 3.
+
 | Você é | Arquivo principal |
 | --- | --- |
 | Caio Breno | `docs/entrega-1/sites-avaliados.md`, `docs/entrega-1/site-escolhido.md`, `docs/equipe.md`, `docs/guia/`, tema e workflow |
 | Israel Soares | `docs/entrega-1/processo-design.md` |
 | Heitor Pinheiro | `docs/entrega-1/ferramentas.md` |
 | Bruno Ferreira | `docs/atas/`, `docs/apresentacoes/` e `docs/verificacao/` |
+
+<p class="caption">Tabela 2 — Arquivo principal de cada integrante na Entrega 1.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+Na Etapa 3, cada pessoa edita a própria página. A Tabela 3 indica o arquivo.
+
+| Você é | Arquivo |
+| --- | --- |
+| Caio Breno | `docs/entrega-3/plataforma.md` |
+| Israel Soares | `docs/entrega-3/principios-gerais.md` |
+| Luís Henrique | `docs/entrega-3/topicos-principios.md` e o cronograma executado em `docs/entrega-1/cronograma.md` |
+| Bruno Ferreira | `docs/entrega-3/metas-usabilidade.md` |
+| Heitor Pinheiro | `docs/entrega-3/guia-de-estilo.md` |
+
+<p class="caption">Tabela 3 — Arquivo de cada integrante na Etapa 3.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 Imagens novas vão para `docs/assets/img/`, em pasta óbvia (`referencias/`, `equipe/`, `evidencias/`).
 
@@ -84,6 +103,7 @@ Use nome e sobrenome reconhecíveis. O plano de ensino cobra isso para individua
 | `1.1` | 05/09/2026 | Atualização dos arquivos principais por integrante | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 08/09/2026 | Inclusão do vínculo com issues e padronização | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 03/10/2026 | Inclui os arquivos da Etapa 3 na tabela de quem edita o quê | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
