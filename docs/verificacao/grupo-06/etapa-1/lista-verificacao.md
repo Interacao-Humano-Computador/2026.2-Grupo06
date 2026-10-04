@@ -89,6 +89,44 @@ A Tabela 4 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 <p class="caption">Tabela 4 — Itens de conteúdo da disciplina na Entrega 1.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
+## Itens elaborados pelo grupo
+
+A Tabela 5 reúne os itens adicionais de verificação definidos pelo próprio Grupo 06, além dos itens oficiais da disciplina. Cada item é uma pergunta objetiva sobre o planejamento da avaliação dos sites candidatos, conteúdo da Entrega 1, com base na literatura de Interação Humano-Computador. A resposta fica em **Sim**, **Não** ou **Incompleto**, com a **versão, data e hora da avaliação**.
+
+| # | Item | Resposta | Versão, data e hora da avaliação | Autor |
+| :---: | --- | :---: | :---: | --- |
+| 3 | O planejamento da avaliação de cada site candidato cobre as seis atividades do framework DECIDE: (1) determinar os objetivos; (2) explorar as perguntas a serem respondidas; (3) escolher os métodos; (4) identificar e administrar as questões práticas; (5) decidir como lidar com as questões éticas; e (6) avaliar, interpretar e apresentar os dados? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 4 | Na inspeção dos sites candidatos, a severidade de cada problema de usabilidade é julgada pelos três fatores de Nielsen (1994): (1) a frequência com que o problema ocorre; (2) o impacto do problema, se ocorrer; e (3) a persistência do problema? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 5 — Itens elaborados pelo Grupo 06.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
+### Item 3 — Caio Breno de Souza Bezerra
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. p. 312-313.
+
+**Trecho do livro:**
+
+![Barbosa e Silva (2010), p. 312-313 — As seis atividades do framework DECIDE para planejar a avaliação de IHC.](../../../assets/img/referencias/barbosa-decide-p312-313.png)
+
+<p class="caption">Figura 1 — Barbosa e Silva (2010), p. 312-313. Trecho: “Sharp, Rogers e Preece (2007) propõem um framework chamado DECIDE para orientar o planejamento, a execução e a análise de uma avaliação de IHC.” As atividades são: determinar os objetivos; explorar as perguntas; escolher os métodos; identificar e administrar as questões práticas; decidir como lidar com as questões éticas; avaliar, interpretar e apresentar os dados.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 312-313).</p>
+
+### Item 4 — Caio Breno de Souza Bezerra
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. p. 284.
+
+**Trecho do livro:**
+
+![Barbosa e Silva (2010), p. 284 — Frequência, impacto e persistência no julgamento da severidade.](../../../assets/img/sites/severidade-nielsen.jpg)
+
+<p class="caption">Figura 2 — Barbosa e Silva (2010), p. 284. Trecho: “o julgamento da severidade de um problema de usabilidade envolve três fatores: a frequência com que o problema ocorre; o impacto do problema, se ocorrer; a persistência do problema.”</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 284).</p>
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

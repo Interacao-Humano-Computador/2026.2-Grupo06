@@ -74,10 +74,11 @@ A Tabela 4 reúbne os itens adicionais de verificação definidos pelo próprio 
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor |
 | :---: | --- | :---: | :---: | --- |
 | 13 | Cada cenário apresenta: (1) título que descreve brevemente a situação; (2) os atores que participam; e (3) uma breve descrição da situação inicial? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 14 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 15 | a preencher | — | — | [Heitor Pinheiro](https://github.com/heitor-pinheiro) |
-| 16 | a preencher | — | — | [Israel Soares](https://github.com/israel-soares) |
-| 17 | a preencher | — | — | [Luis Henrique](https://github.com/luis-henrique) |
+| 14 | Cada persona apresenta os elementos característicos de Courage e Baxter (2005): (1) identidade; (2) status; (3) objetivos; (4) habilidades; (5) tarefas; (6) relacionamentos; (7) requisitos; e (8) expectativas? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 15 | Cada análise hierárquica de tarefas (HTA) relaciona: (1) o que as pessoas fazem (ou se recomenda que façam); (2) por que o fazem; e (3) quais as consequências caso não o façam corretamente? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 16 | a preencher | — | — | [Heitor Pinheiro](https://github.com/heitor-pinheiro) |
+| 17 | a preencher | — | — | [Israel Soares](https://github.com/israel-soares) |
+| 18 | a preencher | — | — | [Luis Henrique](https://github.com/luis-henrique) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -97,23 +98,43 @@ BARBOSA, Simone D. J.; SILVA, Bruno S. da; SILVEIRA, Milene S.; GASPARINI, Isabe
 
 ### Item 14 — Caio Breno de Souza Bezerra
 
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. p. 177.
+
+**Trecho do livro:**
+
+![Barbosa e Silva (2010), p. 177 — Elementos característicos de uma persona, segundo Courage e Baxter (2005).](../../../assets/img/referencias/personas-barbosa-silva-p177.png)
+
+<p class="caption">Figura 2 — Barbosa e Silva (2010), p. 177. Trecho: “Para definir uma persona, Courage e Baxter (2005) enumeram os seguintes elementos característicos: identidade; status; objetivos; habilidades; tarefas; relacionamentos; requisitos; expectativas.”</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 177).</p>
+
+### Item 15 — Caio Breno de Souza Bezerra
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. p. 192.
+
+**Trecho do livro:**
+
+![Barbosa e Silva (2010), p. 192 — A HTA relaciona o que as pessoas fazem, por que o fazem e as consequências de não o fazer corretamente.](../../../assets/img/referencias/barbosa-hta.png)
+
+<p class="caption">Figura 3 — Barbosa e Silva (2010), p. 192. Trecho: “Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente.”</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 192).</p>
+
+### Item 16 — Heitor Pinheiro
+
 **Referência:** a preencher
 
 **Trecho do livro:** a preencher
 
-### Item 15 — Heitor Pinheiro
+### Item 17 — Israel Soares
 
 **Referência:** a preencher
 
 **Trecho do livro:** a preencher
 
-### Item 16 — Israel Soares
-
-**Referência:** a preencher
-
-**Trecho do livro:** a preencher
-
-### Item 17 — Luis Henrique
+### Item 18 — Luis Henrique
 
 **Referência:** a preencher
 
