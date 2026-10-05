@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Transposição da lista oficial da Etapa 3 do plano de ensino | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Estrutura dos itens adicionais e elaboração do item 18 | [Itens elaborados pelo grupo](#itens-elaborados-pelo-grupo) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração do item 20 sobre rastreabilidade e design rationale no guia de estilo | [Item 20](#item-20-heitor-pinheiro-goncalves-das-chagas) |
 | Codex (OpenAI) | Apoio à redação e conferência da fundamentação bibliográfica | [Item 18](#item-18-bruno-ferreira-dornelas) |
 
 
@@ -75,12 +76,12 @@ A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo for
 | :---: | --- | :---: | :---: | --- |
 | 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 19 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 20 | a preencher | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| 20 | O Guia de Estilo registra o design rationale das decisões de design, estabelecendo a rastreabilidade entre os elementos de interface/interação e os resultados do perfil de usuário, da análise de tarefas e da plataforma? | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | 21 | a preencher | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | 22 | a preencher | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106); item 20 fundamentado em BARBOSA; SILVA (2010, p. 283).</p>
 
 ### Item 18 — Bruno Ferreira Dornelas
 
@@ -106,6 +107,34 @@ O item 18 complementa os itens oficiais 13 e 14: verifica a possibilidade de med
 <p class="caption">Figura 2 — Faixas de aceitação e indicadores de usabilidade.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 106), recorte do livro.</p>
 
+### Item 20 — Heitor Pinheiro Gonçalves das Chagas
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 283.
+
+**Fundamentação:**
+
+Na seção 8.4 (p. 283), logo após apresentar a estrutura clássica em seis tópicos para guias de estilo (Marcus, 1992; Mayhew, 1999), os autores enfatizam que Mayhew (1999) recomenda que o guia de estilo inclua os produtos do levantamento de dados e análise de necessidades dos usuários, registrando formalmente o *design rationale* — isto é, mantendo o rastreamento explícito entre uma decisão de design (como paleta de cores, tipografia, estilos de interação e vocabulário) e os elementos de discussão e problemas observados nas tarefas que culminaram naquela decisão.
+
+O item 20 complementa os itens oficiais 15, 16 e 17: além de checar a existência e a estrutura formal em tópicos, verifica se as decisões de interface estão justificadas e ancoradas no contexto real dos usuários do Portal do Senado Federal, evitando que o guia seja apenas um catálogo visual descolado dos requisitos da disciplina.
+
+**Como verificar:**
+
+Consultar o artefato [Guia de Estilo](../../../entrega-3/guia-de-estilo.md) e examinar as seções 2 (Resultados de análise), 3 (Elementos de interface), 4 (Elementos de interação) e 6 (Vocabulário e padrões):
+* **Sim:** quando o guia explicitar as justificativas (*design rationale*) de suas escolhas de layout, cores, tipografia, termos legislativos e atalhos, vinculando-as claramente ao [Perfil do Usuário](../../../entrega-2/perfil-usuario.md), à [Análise de Tarefas](../../../entrega-2/analise-tarefas.md) e às [Características da Plataforma](../../../entrega-3/plataforma.md);
+* **Incompleto:** quando o guia apenas listar as cores, fontes e componentes de forma descritiva, sem fundamentar o porquê de sua escolha ou com vínculos superficiais às necessidades dos usuários;
+* **Não:** quando o guia for genérico, sem qualquer rastreamento com as etapas anteriores de pesquisa e requisitos.
+
+**Trecho do livro:**
+
+A Figura 3 reproduz o trecho da página 283 do livro em que a estrutura e a recomendação de Mayhew (1999) sobre o *design rationale* são apresentadas.
+
+![Barbosa e Silva (2010), p. 283: estrutura do guia de estilo e recomendação de Mayhew sobre design rationale.](../../../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png)
+
+<p class="caption">Figura 3 — Estrutura e rastreabilidade (design rationale) no Guia de Estilo.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 283), recorte do livro.</p>
+
 ## Agradecimentos
 
 Este documento contou com apoio de inteligência artificial na organização e redação. A responsabilidade pelo conteúdo é dos autores.
@@ -116,10 +145,10 @@ Este documento contou com apoio de inteligência artificial na organização e r
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 05/10/2026 | Transposição da lista oficial da Entrega 3 para o site | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/10/2026 | Adiciona tabela de itens do grupo e item 18 sobre avaliação das metas, com referência e recortes das páginas 105–106 do livro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-
+| `1.2` | 05/10/2026 | Adiciona o item 20 sobre rastreabilidade e design rationale no guia de estilo, com referência e recorte da página 283 do livro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106.
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106, 283.
