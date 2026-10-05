@@ -84,12 +84,20 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 2 | 30/09 | 02/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 02/10 - 03/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
-| Definição das características da plataforma | 29/09 | 02/10 | Caio Breno | 02/10 - 03/10 | Luis Henrique |
-| Princípios Gerais de Projeto | 29/09 | 03/10 | Israel Soares | 03/10 - 04/10 | Heitor Pinheiro |
-| Definição das metas de usabilidade | 30/09 | 03/10 | Bruno Ferreira | 03/10 - 04/10 | Caio Breno |
-| Justificativa da seleção das metas de usabilidade | 02/10 | 03/10 | Heitor Pinheiro | 03/10 - 04/10 | Bruno Ferreira |
-| Elaboração do Guia de Estilo | 30/09 | 04/10 | Heitor Pinheiro | 04/10 - 05/10 | Bruno Ferreira |
-| Atualização do cronograma planejado/executado | 04/10 | 05/10 | Luis Henrique | 05/10 - 06/10 | Israel Soares |
+| Características da plataforma (item 10) | 29/09 | 02/10 | Caio Breno | 02/10 - 03/10 | Luis Henrique |
+| Princípios gerais do projeto (item 11) | 29/09 | 03/10 | Israel Soares | 03/10 - 04/10 | Heitor Pinheiro |
+| Tópicos dos princípios gerais do projeto (item 12) | 04/10 | 05/10 | Luis Henrique | 05/10 - 06/10 | Caio Breno |
+| Metas de usabilidade (item 13) | 30/09 | 03/10 | Bruno Ferreira | 03/10 - 04/10 | Caio Breno |
+| Razão da seleção das metas de usabilidade (item 14) | 02/10 | 03/10 | Bruno Ferreira | 03/10 - 04/10 | Heitor Pinheiro |
+| Guia de estilo do projeto (item 15) | 30/09 | 04/10 | Heitor Pinheiro | 04/10 - 05/10 | Bruno Ferreira |
+| Estrutura do guia de estilo (item 16) | 30/09 | 04/10 | Heitor Pinheiro | 04/10 - 05/10 | Bruno Ferreira |
+| Guia de estilo correspondente ao site avaliado (item 17) | 30/09 | 04/10 | Heitor Pinheiro | 04/10 - 05/10 | Bruno Ferreira |
+| Correção da Etapa 2: nova persona por técnica sem entrevista, com uma funcionalidade mais complexa (uma por integrante) | 05/10 | 06/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 06/10 - 07/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
+| Correção da Etapa 2: faixa etária no perfil de usuário | 05/10 | 06/10 | Bruno Ferreira | 06/10 - 07/10 | Caio Breno |
+| Correção da Etapa 2: ferramentas | 05/10 | 06/10 | Heitor Pinheiro | 06/10 - 07/10 | Bruno Ferreira |
+| Correção da Etapa 2: TCLE | 04/10 | 06/10 | Israel Soares | 06/10 - 07/10 | Heitor Pinheiro |
+| Lista de verificação da Etapa 3 (autoverificação) | 05/10 | 05/10 | Luis Henrique | 05/10 - 06/10 | Caio Breno |
+| Cronograma executado (item 6) | 04/10 | 05/10 | Luis Henrique | 05/10 - 06/10 | Caio Breno |
 | Revisão geral da etapa | 04/10 | 05/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 05/10 - 06/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
 | Gravação da apresentação | 05/10 | 06/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 06/10 - 07/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
 | Edição e publicação do vídeo | 06/10 | 06/10 | Bruno Ferreira | 06/10 - 07/10 | Caio Breno |
@@ -273,6 +281,16 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Elaboração da HTA e da CTT | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída e ajustada ao percurso observado |
 | Documentação das técnicas de coleta e evidências bibliográficas | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Concluída |
 | Integração dos artefatos individuais ao GitHub Pages | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Integração concluída; revisão de Bruno Ferreira |
+| Inspeção da Etapa 2 do Grupo 05 (Grupo −1) | Luís Henrique Luna de Arruda | 30/09/2026 | 01/10/2026 | Lista de verificação preenchida a partir da transcrição da reunião |
+| Individualização dos responsáveis no cronograma e ajuste das ferramentas (Issues #16 e #25) | Heitor Pinheiro | 03/10/2026 | 03/10/2026 | Concluída; revisão de Israel Soares |
+| Aplicação do feedback do monitor nas listas, atas e artefatos das Etapas 1 e 2 | Caio Breno | 03/10/2026 | 03/10/2026 | Concluída |
+| Abertura das páginas da Etapa 3 e características da plataforma (item 10) | Caio Breno | 03/10/2026 | 03/10/2026 | Concluída |
+| Modelo de TCLE | Israel Soares | 04/10/2026 | 05/10/2026 | Modelo publicado; correção da Etapa 2 em andamento |
+| Autoverificação da Etapa 2 com o vídeo da inspeção | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Lista preenchida com link e horários do vídeo |
+| Página da lista de verificação da Etapa 3 | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Itens extraídos do plano de ensino; revisão de Caio Breno |
+| Navegação e identidade visual do site (ícones, cartões da página inicial e menu por etapa) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Concluída; revisão de Caio Breno |
+| Tópicos dos princípios gerais do projeto (item 12) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Oito tópicos com citação e fotos do livro; revisão de Caio Breno |
+| Atualização do cronograma planejado e executado (item 6) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Divisão dos itens da Etapa 3 e correções da Etapa 2; revisão de Caio Breno |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -295,6 +313,7 @@ A equipe agradece o apoio do Google Gemini na organização do texto e na format
 | `2.0` | 27/09/2026 | Registro parcial das atividades executadas por Luís Henrique na Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `2.1` | 27/09/2026 | Atualiza as atividades de Luís após a incorporação da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `2.3` | 05/10/2026 | Divisão dos itens da Etapa 3, correções da Etapa 2 no planejado e atividades executadas até 05/10 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
