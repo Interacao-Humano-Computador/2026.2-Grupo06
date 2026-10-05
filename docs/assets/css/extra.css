@@ -532,7 +532,7 @@ html {
 
 .map {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1rem;
   margin: 0 0 2.4rem;
 }
@@ -541,8 +541,7 @@ html {
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
-  min-height: 11.5rem;
-  padding: 1.3rem 1.25rem 1.15rem;
+  padding: 1.2rem 1.2rem 1.15rem;
   border: 1px solid var(--line);
   border-radius: 1.15rem;
   background: var(--card);
@@ -559,10 +558,11 @@ html {
   transform: translateY(-3px);
 }
 
-.tile-num {
-  font-size: 0.82rem;
+.tile-kicker {
+  font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--cyan);
 }
 
@@ -573,7 +573,6 @@ html {
 }
 
 .tile span:last-child {
-  margin-top: auto;
   color: var(--mute);
   font-size: 0.98rem;
   line-height: 1.45;
@@ -1182,13 +1181,12 @@ html.hc :focus-visible {
 
 @media (max-width: 1100px) {
   .splash,
-  .map,
   .dates {
     grid-template-columns: 1fr;
   }
 
-  .tile {
-    min-height: 0;
+  .map {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1222,6 +1220,205 @@ html.hc :focus-visible {
 
   .dates div:last-child {
     border-bottom: 0;
+  }
+}
+
+/* Ícones (Material Design Icons, copiados em assets/img/icones).
+   Desenhados por máscara para herdar a cor do texto em qualquer tema. */
+.ico {
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 1.15em;
+  height: 1.15em;
+  vertical-align: -0.2em;
+  background-color: currentColor;
+  -webkit-mask: var(--ico) center / contain no-repeat;
+  mask: var(--ico) center / contain no-repeat;
+}
+
+.ico[data-icon="account-group-outline"] { --ico: url("../img/icones/account-group-outline.svg"); }
+.ico[data-icon="account-search-outline"] { --ico: url("../img/icones/account-search-outline.svg"); }
+.ico[data-icon="book-open-variant-outline"] { --ico: url("../img/icones/book-open-variant-outline.svg"); }
+.ico[data-icon="calendar-check-outline"] { --ico: url("../img/icones/calendar-check-outline.svg"); }
+.ico[data-icon="calendar-month-outline"] { --ico: url("../img/icones/calendar-month-outline.svg"); }
+.ico[data-icon="check-decagram-outline"] { --ico: url("../img/icones/check-decagram-outline.svg"); }
+.ico[data-icon="contrast-circle"] { --ico: url("../img/icones/contrast-circle.svg"); }
+.ico[data-icon="file-document-multiple-outline"] { --ico: url("../img/icones/file-document-multiple-outline.svg"); }
+.ico[data-icon="flag-checkered"] { --ico: url("../img/icones/flag-checkered.svg"); }
+.ico[data-icon="format-font-size-decrease"] { --ico: url("../img/icones/format-font-size-decrease.svg"); }
+.ico[data-icon="format-font-size-increase"] { --ico: url("../img/icones/format-font-size-increase.svg"); }
+.ico[data-icon="open-in-new"] { --ico: url("../img/icones/open-in-new.svg"); }
+.ico[data-icon="presentation-play"] { --ico: url("../img/icones/presentation-play.svg"); }
+
+/* Botões de acessibilidade: só ícone, com rótulo acessível no aria-label. */
+.a11y-tools button {
+  display: inline-grid;
+  place-items: center;
+  width: 2.4rem;
+  padding: 0;
+}
+
+.a11y-tools button .ico {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+/* Cards do mapa do site. */
+.tile-icon {
+  width: 2.6rem;
+  height: 2.6rem;
+  margin-bottom: 0.35rem;
+  padding: 0.55rem;
+  border-radius: 0.75rem;
+  background-color: rgba(0, 125, 184, 0.12);
+  -webkit-mask: none;
+  mask: none;
+  color: var(--cyan-deep);
+  position: relative;
+}
+
+.tile-icon::before {
+  content: "";
+  position: absolute;
+  inset: 0.55rem;
+  background-color: currentColor;
+  -webkit-mask: var(--ico) center / contain no-repeat;
+  mask: var(--ico) center / contain no-repeat;
+}
+
+.tile-icon + strong {
+  margin-top: 0.15rem;
+}
+
+.tile-featured {
+  border: 2px solid var(--gold);
+  box-shadow: 0 10px 28px rgba(250, 167, 49, 0.22);
+}
+
+.tile-featured .tile-icon {
+  color: var(--gold-ink);
+  background-color: var(--gold);
+}
+
+.tile-featured {
+  position: relative;
+}
+
+.tile-featured::after {
+  content: "Mais recente";
+  position: absolute;
+  top: 1.2rem;
+  right: 1.2rem;
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  background: var(--gold);
+  color: var(--gold-ink);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+[data-md-color-scheme="slate"] .tile-icon {
+  color: var(--cyan);
+  background-color: rgba(110, 198, 240, 0.14);
+}
+
+[data-md-color-scheme="slate"] .tile-featured .tile-icon {
+  color: var(--gold-ink);
+  background-color: var(--gold);
+}
+
+/* Faixa de datas com rótulo visível da entrega. */
+.dates {
+  position: relative;
+}
+
+.md-typeset .dates-label {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0.55rem 1rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--cyan-deep);
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .dates-label {
+  color: var(--cyan);
+}
+
+.subject-go .ico {
+  width: 1em;
+  height: 1em;
+  margin-left: 0.2rem;
+}
+
+/* Etiqueta "Responsável" com ícone de pessoa. */
+.owner {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.owner::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: currentColor;
+  -webkit-mask: url("../img/icones/account-tie-outline.svg") center / contain no-repeat;
+  mask: url("../img/icones/account-tie-outline.svg") center / contain no-repeat;
+}
+
+/* Avisos (admonitions) no mesmo tamanho do texto, e não em letra miúda. */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.92rem;
+  border-radius: 0.6rem;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-size: 0.92rem;
+}
+
+/* Trilha de navegação (navigation.path) acima do título. */
+.md-content__inner:has(> .md-path) {
+  padding-top: 1.2rem;
+}
+
+.md-path {
+  margin: 0 0 0.9rem;
+  font-size: 0.82rem;
+}
+
+.md-path__link {
+  color: var(--mute);
+}
+
+@media (max-width: 760px) {
+  .map {
+    grid-template-columns: 1fr;
+  }
+
+  .a11y-tools {
+    flex: 0 0 auto;
+    margin-left: 0.2rem;
+    padding: 0;
+    gap: 0.15rem;
+    background: transparent;
+  }
+
+  .a11y-tools button {
+    width: 2.3rem;
+    min-height: 2.3rem;
+    border-color: transparent;
   }
 }
 

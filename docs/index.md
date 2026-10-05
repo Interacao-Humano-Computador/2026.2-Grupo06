@@ -21,51 +21,70 @@ hide:
 
 </div>
 
-<a class="subject" href="https://www12.senado.leg.br/">
+<a class="subject" href="https://www12.senado.leg.br/" target="_blank" rel="noopener">
   <span class="subject-kicker">Site avaliado</span>
   <img src="assets/img/marca/senado.svg" class="no-lightbox brand-mark" alt="Logotipo do Senado Federal">
   <strong>Portal do Senado Federal</strong>
-  <span class="subject-go">Abrir o site oficial</span>
+  <span class="subject-go">Abrir o site oficial <span class="ico" data-icon="open-in-new" aria-hidden="true"></span></span>
 </a>
 
 </section>
 
 <nav class="dates" aria-label="Datas da Etapa 3">
-  <div><b>06/10</b><span>Entrega da Etapa 3 no Aprender e no GitHub Pages</span></div>
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 3</p>
+  <div><b>06/10</b><span>Entrega no Aprender e no GitHub Pages</span></div>
   <div><b>07/10</b><span>Inspeção pelo Grupo +1</span></div>
   <div><b>08/10</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
   <a class="tile" href="entrega-1/cronograma/">
-    <span class="tile-num">01</span>
+    <span class="tile-icon ico" data-icon="calendar-check-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 1</span>
     <strong>Planejamento</strong>
     <span>Cronograma, heatmap, sites avaliados e site escolhido.</span>
   </a>
-  <a class="tile" href="entrega-2/perfil-usuario/">
-    <span class="tile-num">02</span>
+  <a class="tile" href="entrega-2/etica/">
+    <span class="tile-icon ico" data-icon="account-search-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 2</span>
     <strong>Perfil de usuário</strong>
-    <span>Etapa 2 publicada: ética, personas, cenários e análise de tarefas.</span>
+    <span>Ética, coleta, perfis, personas, cenários e análise de tarefas.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-3/">
+    <span class="tile-icon ico" data-icon="clipboard-text-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 3</span>
+    <strong>Análise de requisitos</strong>
+    <span>Plataforma, princípios de projeto, metas de usabilidade e guia de estilo.</span>
+  </a>
+  <a class="tile" href="verificacao/">
+    <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
+    <strong>Verificação</strong>
+    <span>Autoverificação e inspeções de outros grupos.</span>
   </a>
   <a class="tile" href="equipe/">
-    <span class="tile-num">03</span>
+    <span class="tile-icon ico" data-icon="account-group-outline" aria-hidden="true"></span>
     <strong>Equipe</strong>
     <span>Fotos, nomes e papéis.</span>
   </a>
   <a class="tile" href="atas/">
-    <span class="tile-num">04</span>
+    <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
     <strong>Atas</strong>
     <span>Reuniões, decisões e gravações.</span>
   </a>
   <a class="tile" href="apresentacoes/">
-    <span class="tile-num">05</span>
+    <span class="tile-icon ico" data-icon="presentation-play" aria-hidden="true"></span>
     <strong>Apresentações</strong>
-    <span>Vídeos das etapas 1 e 2.</span>
+    <span>Vídeos de cada etapa.</span>
   </a>
-  <a class="tile" href="entrega-3/">
-    <span class="tile-num">06</span>
-    <strong>Etapa 3</strong>
-    <span>Análise de requisitos aberta. A plataforma está descrita; princípios, metas e guia de estilo aguardam o grupo.</span>
+  <a class="tile" href="guia/">
+    <span class="tile-icon ico" data-icon="book-open-variant-outline" aria-hidden="true"></span>
+    <strong>Padrões</strong>
+    <span>Template, legendas, ABNT e como publicar.</span>
+  </a>
+  <a class="tile" href="proximas/">
+    <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
+    <strong>Próximas etapas</strong>
+    <span>Etapas 4 a 8 e entrega final.</span>
   </a>
 </nav>
 

@@ -25,6 +25,7 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top
+    - navigation.path
     - navigation.footer
     - search.suggest
     - search.highlight
@@ -108,9 +109,10 @@ extra:
       name: Repositório do grupo no GitHub
 
 nav:
-  - Início: index.md
-  - Equipe: equipe.md
-  - Planejamento:
+  - Início:
+      - index.md
+      - Equipe: equipe.md
+  - Etapa 1 · Planejamento:
       - Cronograma: entrega-1/cronograma.md
       - Heatmap de disponibilidade: entrega-1/heatmap.md
       - Sites avaliados: entrega-1/sites-avaliados.md
@@ -118,7 +120,7 @@ nav:
       - Processo de Design: entrega-1/processo-design.md
       - Ferramentas: entrega-1/ferramentas.md
       - Lista de verificação: entrega-1/lista-verificacao.md
-  - Perfil de usuário:
+  - Etapa 2 · Perfil de usuário:
       - Artefatos do grupo:
           - Aspectos éticos: entrega-2/etica.md
           - Técnicas de coleta: entrega-2/tecnicas-coleta.md
@@ -158,33 +160,35 @@ nav:
               - Persona: entrega-2/individual/luis/persona.md
               - Cenário: entrega-2/individual/luis/cenario.md
               - Análise de tarefas: entrega-2/individual/luis/analise-tarefas.md
-  - Análise de requisitos:
+  - Etapa 3 · Análise de requisitos:
       - entrega-3/index.md
       - Características da plataforma: entrega-3/plataforma.md
       - Princípios gerais: entrega-3/principios-gerais.md
       - Tópicos dos princípios: entrega-3/topicos-principios.md
       - Metas de usabilidade: entrega-3/metas-usabilidade.md
       - Guia de estilo: entrega-3/guia-de-estilo.md
-  - Atas:
-      - atas/index.md
-      - Ata 01: atas/ata-01.md
-      - Ata 02: atas/ata-02.md
-  - Apresentações:
-      - apresentacoes/index.md
-      - Etapa 1: apresentacoes/etapa-01.md
-      - Etapa 2: apresentacoes/etapa-02.md
   - Verificação:
       - verificacao/index.md
-      - Verificação do Grupo:
+      - Autoverificação (Grupo 06):
           - verificacao/grupo-06/index.md
           - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
           - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
-      - Verificação do Grupo 5:
+          - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+      - Inspeção do Grupo 05:
           - verificacao/grupo-05/index.md
           - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
-      - Verificação do Grupo 7:
+      - Inspeção do Grupo 07:
           - verificacao/grupo-07/index.md
           - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
+  - Registros:
+      - Atas:
+          - atas/index.md
+          - Ata 01: atas/ata-01.md
+          - Ata 02: atas/ata-02.md
+      - Apresentações:
+          - apresentacoes/index.md
+          - Etapa 1: apresentacoes/etapa-01.md
+          - Etapa 2: apresentacoes/etapa-02.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md
