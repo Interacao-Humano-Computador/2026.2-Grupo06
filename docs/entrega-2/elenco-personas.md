@@ -10,11 +10,12 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Item de conteúdo sobre personas e decisão de status do elenco | [Item de conteúdo](elenco-personas.md#item-de-conteudo-da-disciplina) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do elenco | [Elenco](elenco-personas.md#elenco) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Persona Mariana Costa, a partir da entrevista e da observação | [Mariana Costa](individual/bruno/persona.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Persona Lucas Mendes, a partir da entrevista e da observação | [Lucas Mendes](individual/bruno/persona.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Persona Letícia Oliveira, a partir da entrevista e da observação | [Letícia Oliveira](individual/heitor/persona.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Persona Marta Oliveira, a partir da entrevista e da observação | [Marta Oliveira](individual/israel/persona.md) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Persona Marina Alves, a partir da entrevista e da observação | [Marina Alves](individual/luis/persona.md) |
 | Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](elenco-personas.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -35,11 +36,11 @@ Cada projeto tem o próprio elenco, de três a doze personas, com pelo menos uma
 
 ## Elenco
 
-A Tabela 2 reúne uma persona por integrante. O status segue o critério acima, aplicado quando as cinco personas ficaram prontas. A persona primária é aquela cuja interface não serviria às outras duas primárias. A secundária fica atendida, no essencial, por uma interface feita para uma primária.
+A Tabela 2 reúne as cinco personas derivadas das sessões. O status é uma priorização de design: uma persona primária não é atendida adequadamente por uma solução centrada em outra persona (BARBOSA; SILVA, 2010, p. 179–180). Isso difere da classificação por regularidade de uso da p. 136. As prioridades atuais são preservadas; as hipóteses de atendimento das secundárias devem ser verificadas no reprojeto.
 
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
-| Bruno Ferreira Dornelas | [Mariana Costa](individual/bruno/persona.md) | Cidadã leiga, assistente administrativa, que consulta o portal de vez em quando para saber se uma lei já vale | Primária |
+| Bruno Ferreira Dornelas | [Lucas Mendes](individual/bruno/persona.md) | Cidadão leigo, caixa de supermercado e estudante de Ciências Econômicas; demanda ocasional de compreensão de proposições (PERF-01) | Primária |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que separa notícias do setor aeroespacial para um anuário anual | Secundária |
 | Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania | Primária |
 | Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com uma tarefa administrativa pontual | Secundária |
@@ -48,19 +49,22 @@ A Tabela 2 reúne uma persona por integrante. O status segue o critério acima, 
 <p class="caption">Tabela 2 — Elenco de personas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base nas personas individuais e em BARBOSA; SILVA (2010, p. 179–180).</p>
 
-As três primárias falham em interfaces feitas umas para as outras:
+As prioridades atuais distinguem objetivos e tarefas:
 
-- **Mariana Costa** precisa saber, em linguagem comum, se um projeto de lei já vale. O botão de voto da Letícia e o caminho das reuniões da Marina não respondem a essa pergunta.
-- **Letícia Oliveira** precisa ver o voto na página do projeto. Explicar o selo "Em tramitação" para a Mariana, ou abrir um menu de comissões para a Marina, não coloca o voto na frente dela.
-- **Marina Alves** precisa chegar a uma reunião já realizada da CCJ sem conhecer a sigla. A busca por assunto, que serve à Mariana e à Renata, e o voto, que serve à Letícia, não mostram onde ficam as reuniões.
+- **Lucas Mendes:** compreender a situação de uma proposição de interesse cotidiano, com linguagem acessível e identificação do documento correto.
+- **Letícia Oliveira:** localizar a consulta pública e registrar seu posicionamento.
+- **Marina Alves:** localizar uma reunião de comissão e relacionar pauta e resultado.
 
-**Renata Moreira** fica secundária. O que a trava é a lista de notícias fora de ordem cronológica. Uma busca por assunto que já sirva à Mariana, com a lista em ordem de data, cobre o essencial dela. O que é só dela é saber quando o período do anuário se esgotou. **Marta Oliveira** também fica secundária, como o autor da persona propôs. Ela desiste quando a busca não entende palavras do dia a dia. Linguagem simples é a mesma necessidade da Mariana: uma interface que explique a situação em palavras comuns também ajuda Marta a descobrir se um espaço está disponível.
+**Renata Moreira** permanece secundária na priorização atual, mas o atendimento de sua necessidade de triagem temporal depende de recursos próprios de organização das notícias. Não basta afirmar que uma busca feita para Lucas resolverá sua atividade.
 
-Bruno Ferreira Dornelas elaborou ainda a persona [Lucas Mendes](individual/bruno/perfil-2/persona.md), estudante de Direito, a partir de análise documental e de similares, sem entrevista. O quadro da etapa pede uma persona por integrante, construída sobre a pessoa entrevistada. Lucas fica fora deste elenco e continua disponível na página individual, para as tarefas de pesquisa de proposições.
+**Marta Oliveira** permanece secundária na priorização atual, com atendimento ainda a verificar: linguagem simples é uma necessidade compartilhada, mas não comprova que a informação sobre disponibilidade de espaços será encontrada. A existência de um serviço de reserva também não foi demonstrada pela entrevista.
+
+O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado, sem substituição por um novo perfil nesta rodada.
 
 ## Agradecimentos
 
 Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e a decisão de status do elenco são do autor, que segue responsável pelo que está publicado.
+
 
 ## Histórico de versão
 
@@ -75,6 +79,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.0` | 27/09/2026 | Fecha o elenco com as cinco personas, define primárias e secundárias e uniformiza os perfis | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 27/09/2026 | Confirma os atributos de Marina Alves a partir da transcrição da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.3` | 05/10/2026 | Alinha Lucas ao elenco, distingue classificações e explicita limites das prioridades de design; remove referência ao perfil documental | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -15,7 +15,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Síntese da entrevista e registro da observação | [Resultados](entrevista-observacao.md#resultados) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atributos do participante para o perfil do usuário | [Atributos](entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Publicação das gravações da entrevista e da observação | [Gravações](entrevista-observacao.md#gravacoes) |
-| ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
+| ChatGPT (OpenAI) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](entrevista-observacao.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade| [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -250,7 +251,7 @@ A Tabela 6 organiza o que a sessão revelou segundo os tipos de dados de Hackos 
 | Atributo | Participante | Origem |
 | --- | --- | --- |
 | Dados demográficos | Homem, 22 anos | Pergunta 1 |
-| Status socioeconômico | Classe média baixa (inferida); caixa de supermercado, setor privado | Não coletado diretamente; inferência pelo cargo |
+| Status socioeconômico | Classe média baixa; caixa de supermercado, setor privado | Confirmado por Bruno Ferreira Dornelas em 05/10/2026; informação complementar à sessão |
 | Experiência no cargo | Caixa de supermercado (turno tarde/noite) | Pergunta 2 |
 | Informações sobre a empresa | Supermercado, setor privado | Pergunta 3 |
 | Educação | Graduação em andamento, Ciências Econômicas (turno manhã) | Pergunta 1 |
@@ -278,6 +279,8 @@ A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](anal
 
 Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com o participante são do autor, que segue responsável pelo que está publicado.
 
+Nesta rodada, o Codex (OpenAI), sob orientação de Bruno Ferreira Dornelas, aplicou as correções descritas no histórico. Caio Breno de Souza Bezerra é o responsável designado pela revisão humana desta versão, ainda pendente. Os créditos anteriores foram preservados.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -286,6 +289,7 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 | `1.0` | 27/09/2026 | Resultados da sessão: síntese da entrevista, registro da observação com capturas, atributos para o perfil do usuário | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Inclusão do link e incorporação da gravação da entrevista (YouTube) e atualização dos dados do participante | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.3` | 05/10/2026 | Registra confirmação complementar do status socioeconômico de P1 pelo responsável | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

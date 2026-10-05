@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Estruturação da página e índice das análises do grupo | [Análises do grupo](analise-tarefas.md#analises-de-tarefas-do-grupo) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | HTA e CTT da consulta à reunião da CCJ | [Análise individual](individual/luis/analise-tarefas.md) |
 | ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -72,7 +73,7 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 
 | Integrante | Análise de Tarefas | Persona / Ator | Tarefa modelada |
 | --- | --- | --- | --- |
-| Bruno Ferreira Dornelas | [Busca por jornada de trabalho](individual/bruno/analise-tarefas.md) | [Mariana Costa](individual/bruno/persona.md) | Acompanhar tramitação e detalhes de projeto de lei sobre jornada |
+| Bruno Ferreira Dornelas | [Busca por jornada de trabalho](individual/bruno/analise-tarefas.md) | [Lucas Mendes](individual/bruno/persona.md) | Acompanhar tramitação e detalhes de projeto de lei sobre jornada |
 | Caio Breno de Souza Bezerra | [Levantamento de notícias para anuário](individual/caio/analise-tarefas.md) | [Renata Moreira](individual/caio/persona.md) | Filtrar e salvar notícias temáticas no portal |
 | Heitor Pinheiro Gonçalves das Chagas | [Votação em consulta pública](individual/heitor/analise-tarefas.md) | [Letícia Oliveira](individual/heitor/persona.md) | Localizar matéria (PL 1215/2025) e votar no portal e-Cidadania |
 | Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Consultar disponibilidade de auditório para reserva |
@@ -85,6 +86,8 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 
 Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação.
 
+Nesta rodada, o Codex (OpenAI), sob orientação de Bruno Ferreira Dornelas, aplicou as correções descritas no histórico. Caio Breno de Souza Bezerra é o responsável designado pela revisão humana desta versão, ainda pendente. Os créditos anteriores foram preservados.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -93,6 +96,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `0.2` | 27/09/2026 | Adição de tabela de contribuição padronizada, índice das tarefas do grupo e padronização do histórico de versões | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Atualiza a análise da tarefa de Luís com os modelos validados pela transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.0` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -11,11 +11,12 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Item de conteúdo sobre cenários | [Item de conteúdo](cenarios.md#item-de-conteudo-da-disciplina) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estrutura comum e organização da página | [Estrutura](cenarios.md#estrutura-dos-cenarios) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Cenário de Renata Moreira | [Cenário](individual/caio/cenario.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Cenário de Mariana Costa | [Cenário](individual/bruno/cenario.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Cenário de Lucas Mendes | [Cenário](individual/bruno/cenario.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Cenário de Letícia Oliveira | [Cenário](individual/heitor/cenario.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Cenário de Marta Oliveira | [Cenário](individual/israel/cenario.md) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Cenário de Marina Alves | [Cenário](individual/luis/cenario.md) |
 | Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenarios.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -61,7 +62,7 @@ A Tabela 3 reúne os cinco cenários de problema, um por integrante.
 
 | Integrante | Título do cenário | Ator | Situação inicial |
 | --- | --- | --- | --- |
-| Bruno Ferreira Dornelas | [O badge "Em tramitação" não diz se a lei já vale](individual/bruno/cenario.md) | [Mariana Costa](individual/bruno/persona.md) | No computador do escritório, depois de ler no WhatsApp sobre um projeto de jornada de trabalho, Mariana quer saber se a lei já vale |
+| Bruno Ferreira Dornelas | [O badge "Em tramitação" não diz se a lei já vale](individual/bruno/cenario.md) | [Lucas Mendes](individual/bruno/persona.md) | No computador pessoal, Lucas tenta esclarecer a situação da proposta sobre jornada de trabalho que afeta familiares e colegas |
 | Caio Breno de Souza Bezerra | [Na busca por drone, notícias de 2013 aparecem entre as de 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) | Na semana em que a fonte é o Senado, Renata abre o portal para separar as notícias do ano que entram no anuário |
 | Heitor Pinheiro Gonçalves das Chagas | [O projeto aparece na busca, mas o voto não aparece na página](individual/heitor/cenario.md) | [Letícia Oliveira](individual/heitor/persona.md) | No notebook, com a convocação do movimento para votar no PL 1215/2025, Letícia precisa achar a consulta e registrar o voto |
 | Israel Soares de Paiva | [Marta desiste sem saber se o auditório está livre](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) | No computador, e não no celular de sempre, Marta tenta confirmar se o auditório está disponível numa data |
@@ -73,6 +74,7 @@ A Tabela 3 reúne os cinco cenários de problema, um por integrante.
 ## Agradecimentos
 
 Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e o alinhamento dos títulos à situação de cada cenário são do autor, que segue responsável pelo que está publicado.
+
 
 ## Histórico de versão
 
@@ -87,6 +89,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.0` | 27/09/2026 | Alinha os títulos à situação de cada cenário, inclui a situação inicial e corrige o título desatualizado de Mariana Costa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 27/09/2026 | Confirma o cenário de Marina Alves com o percurso registrado na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.3` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
