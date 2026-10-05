@@ -12,6 +12,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Validação com a participante | [Validação](persona.md#validacao-com-a-participante) |
 | Claude (Anthropic) | Transcrição, retrato fictício e estruturação do texto | [Agradecimentos](persona.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Conferência da origem dos dados e coerência com o perfil coletivo | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à conferência e redação das ressalvas | [Introdução](#introducao) |
+
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -69,7 +72,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Renata Moreira, 24 anos, estudante de engenharia na área espacial. Nome e retrato inventados; a idade representa a faixa de quem está no início da carreira | Sessão, sintetizada |
-| Status | Secundária no [elenco](../../elenco-personas.md). A busca por assunto e a lista em ordem de data, úteis também a quem procura uma lei, cobrem o essencial dela. O que é só dela é saber quando o período do anuário se esgotou | Decisão do elenco |
+| Status | Secundária no [elenco](../../elenco-personas.md). A busca por assunto é uma necessidade compartilhada, mas a triagem por período e o reconhecimento de quando o período do anuário se esgotou exigem atenção própria. O atendimento por uma solução destinada a outra persona permanece uma hipótese a verificar no reprojeto | Decisão do elenco |
 | Objetivos | Os das listas acima: fins estáveis, não os cliques de uma busca | Sessão, sintetizada |
 | Habilidades | Confortável com sites; aprende sistema novo com vídeo ou explicação. Conhece a busca do portal o bastante para a tarefa, sem ser especialista em tramitação | Sessão, sintetizada |
 | Tarefas | Em linhas gerais: levantar notícias e normas do setor no período do anuário, descartar o que é antigo e encaminhar o que segue para aprovação. Frequência: ao longo de todo o ano, com a fonte mudando de semana em semana; o Senado é uma das fontes. Importância: média a alta, porque o anuário depende do levantamento, mas notícia perdida costuma chegar por outro veículo. Duração: não medida; na observação, ir do buscador até a lista de notícias levou cerca de um minuto. O detalhe de uma busca está no cenário | Sessão, sintetizada |
@@ -132,6 +135,8 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.3` | 25/09/2026 | Objetivos sem falsos objetivos, status proposto, frequência e duração da tarefa, citações nos requisitos, limitação da validação e origem do retrato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 27/09/2026 | Confirma Renata Moreira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.6` | 05/10/2026 | Alinha a justificativa do status à hipótese de atendimento registrada no elenco coletivo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

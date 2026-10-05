@@ -12,7 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | HTA | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | CTT | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
 | ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](analise-tarefas.md#agradecimentos) |
-| Codex (OpenAI) | Correções de consistência e rastreabilidade| [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência, rastreabilidade e diagramas | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -43,54 +43,26 @@ A Tabela 2 explicita objetivo, resultado e fonte da análise (BARBOSA; SILVA, 20
 
 A HTA organiza objetivos, subobjetivos, operações e planos. A referência é Barbosa e Silva (2010, p. 192–195). A árvore abaixo está orientada de cima para baixo. Os números indicam a hierarquia, e os planos indicam a sequência; as setas da árvore expressam decomposição, não fluxo temporal.
 
+A notação segue a **Figura 6.1 (p. 193)** e o exemplo da **Figura 6.2 (p. 194)** de Barbosa e Silva: objetivos em retângulos, operações em retângulos com uma linha inferior e planos sequenciais indicados por `>`. Os números do plano referem-se aos filhos imediatos do objetivo: em 4, `1 > 2 > 3 > 4` corresponde a 4.1, 4.2, 4.3 e 4.4. A tabela de operações segue a **Tabela 6.3 (p. 194–195)**. O diagrama foi desenhado em SVG para conservar esses símbolos.
+
 | Notação | Significado |
 | --- | --- |
 | `0`, `1`, `1.1` | Objetivo geral, subobjetivo e operação |
-| `plano: 1 → 2 → 3 → 4` | Sequência de execução adotada neste modelo |
-| Retângulo de borda contínua | Objetivo ou operação da decomposição |
+| `1 > 2 > 3 > 4` | Plano sequencial dos filhos imediatos do objetivo |
+| Retângulo | Objetivo decomposto em subobjetivos |
+| Retângulo com linha inferior | Operação: término da decomposição |
 | Linha entre pai e filho | Decomposição hierárquica |
 | *input* / *feedback* | Condição inicial e resposta percebida, inclusive quando insuficiente para atingir o objetivo |
 
 <p class="caption">Tabela 3 — Legenda da representação da HTA.</p>
-<p class="source">Fonte: adaptação gráfica do grupo a partir de BARBOSA; SILVA (2010, p. 193–195).</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, Figura 6.1, p. 193; Figura 6.2, p. 194).</p>
 
-Não se usam bordas grossas ou tracejadas como categorias de evidência nesta versão. A origem dos passos e as dificuldades estão na Tabela 4. A tentativa registrada termina sem sucesso; executar as operações não significa alcançar o objetivo 0.
+A origem dos passos e as dificuldades estão na Tabela 4. A tentativa registrada termina sem sucesso; executar as operações não significa alcançar o objetivo 0.
 
-```mermaid
-flowchart TD
-    T0["0. Compreender a situação da proposta sobre jornada<br/>plano: 1 → 2 → 3 → 4"]
-    T1["1. Chegar à informação do Senado<br/>plano: 1.1 → 1.2"]
-    T2["2. Buscar uma proposição<br/>plano: 2.1 → 2.2"]
-    T3["3. Selecionar resultado<br/>plano: 3.1 → 3.2"]
-    T4["4. Tentar interpretar a situação<br/>plano: 4.1 → 4.2 → 4.3 → 4.4"]
-    T11["1.1 Pesquisar no Google"]
-    T12["1.2 Acessar notícia do Senado"]
-    T21["2.1 Localizar e abrir a busca"]
-    T22["2.2 Pesquisar jornada de trabalho"]
-    T31["3.1 Examinar resultados"]
-    T32["3.2 Selecionar o PL 5253/2026"]
-    T41["4.1 Ler resumo da proposta"]
-    T42["4.2 Examinar situação atual"]
-    T43["4.3 Examinar tramitação"]
-    T44["4.4 Encerrar sem resposta"]
-    T0 --> T1
-    T0 --> T2
-    T0 --> T3
-    T0 --> T4
-    T1 --> T11
-    T1 --> T12
-    T2 --> T21
-    T2 --> T22
-    T3 --> T31
-    T3 --> T32
-    T4 --> T41
-    T4 --> T42
-    T4 --> T43
-    T4 --> T44
-```
+[![HTA de Lucas: objetivos em retângulos, operações sublinhadas e planos sequenciais.](../../../assets/img/analise-tarefas/bruno/lucas-hta.svg)](../../../assets/img/analise-tarefas/bruno/lucas-hta.svg)
 
 <p class="caption">Figura 1 — HTA da tentativa registrada de P1.</p>
-<p class="source">Fonte: Grupo 06, a partir da Tabela 5 da sessão; organização baseada em BARBOSA; SILVA (2010, p. 194–195).</p>
+<p class="source">Fonte: Grupo 06, a partir da Tabela 5 da sessão; notação de BARBOSA; SILVA (2010, figuras 6.1–6.2, p. 193–194). Clique na imagem para ampliar.</p>
 
 | Objetivo / operação | Input, feedback e origem | Problema / necessidade derivada |
 | --- | --- | --- |
@@ -117,15 +89,17 @@ flowchart TD
 
 A CTT distingue tarefas abstratas, do usuário, interativas e do sistema, relacionando-as temporalmente (BARBOSA; SILVA, 2010, p. 203–205). A modelagem cobre a mesma tentativa da HTA. Respostas de carregamento do sistema são explicitadas para representar a interação; não constituem medições adicionais.
 
-| Tipo / representação gráfica adotada | Significado |
-| --- | --- |
-| Abstrata / retângulo tracejado | Agrupa subtarefas |
-| Usuário / caixa arredondada | Leitura, interpretação ou decisão |
-| Interativa / retângulo contínuo | Ação do usuário sobre a interface |
-| Sistema / hexágono | Resposta da aplicação |
+A **Figura 6.4 (p. 203)** fundamenta os quatro tipos de tarefa e seus símbolos: pessoa, computador, pessoa conectada ao computador e nuvem. A **Figura 6.5 (p. 204)** define as relações temporais; a **Figura 6.6 (p. 205)** exemplifica sua disposição entre tarefas irmãs. Os símbolos foram redesenhados em SVG conforme essas figuras, com os operadores nas ligações horizontais. As ligações do pai aos filhos representam decomposição hierárquica.
 
-<p class="caption">Tabela 5 — Tipos de tarefa e convenção visual local.</p>
-<p class="source">Fonte: tipos de BARBOSA; SILVA (2010, p. 203); formas gráficas adaptadas pelo grupo para Mermaid, não os ícones originais da CTT.</p>
+| Tipo / símbolo do livro | Significado |
+| --- | --- |
+| Abstrata / nuvem | Agrupa subtarefas |
+| Usuário / pessoa | Leitura, interpretação ou decisão |
+| Interativa / pessoa conectada ao computador | Ação do usuário sobre a interface |
+| Sistema / computador | Resposta da aplicação |
+
+<p class="caption">Tabela 5 — Tipos de tarefa e símbolos da CTT.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, Figura 6.4, p. 203).</p>
 
 | Operador | Significado |
 | --- | --- |
@@ -160,63 +134,29 @@ InterpretarSituacao = AbrirResumo []>> ExibirResumo >> LerResumo >> ExaminarSitu
 <p class="caption">Tabela 7 — Tipos das tarefas e correspondência com a HTA.</p>
 <p class="source">Fonte: elaboração do Grupo 06 a partir da sessão.</p>
 
-A Figura 3 representa a decomposição da CTT. A expressão na caixa de cada tarefa abstrata informa a ordem e os operadores da Figura 2; as arestas indicam somente a hierarquia. A sequência modela esta tentativa e não proíbe outros percursos no portal.
+A Figura 3 apresenta a CTT em uma visão geral e quatro detalhamentos. C, B, S e I identificam as mesmas tarefas abstratas nas diferentes imagens; a divisão permite ler os rótulos sem alterar a árvore. Os identificadores C1–I9 correspondem à expressão textual da Figura 2. As relações temporais estão entre tarefas irmãs, como no livro. A sequência descreve a tentativa registrada, sem excluir outros percursos possíveis no portal. Clique nas imagens para ampliar.
 
-```mermaid
-flowchart TD
-    V["Verificar<br/>C >> B >> S >> I"]
-    C["C: ChegarAoSenado<br/>C1 &#91;&#93;>> C2 >> C3 &#91;&#93;>> C4"]
-    B["B: BuscarProposicao<br/>B1 >> B2 &#91;&#93;>> B3"]
-    S["S: SelecionarResultado<br/>S1 >> S2 &#91;&#93;>> S3"]
-    I["I: InterpretarSituacao<br/>I1 &#91;&#93;>> I2 >> I3 >> I4 >> I5 &#91;&#93;>> I6 >> I7 >> I8 >> I9"]
-    C1["C1: PesquisarNoGoogle"]
-    C2{{"C2: ExibirResultadosGoogle"}}
-    C3["C3: AcessarNoticia"]
-    C4{{"C4: CarregarNoticia"}}
-    B1["B1: AbrirBusca"]
-    B2["B2: InformarTermo"]
-    B3{{"B3: ExibirResultadosPortal"}}
-    S1(["S1: ExaminarResultados"])
-    S2["S2: SelecionarPL"]
-    S3{{"S3: CarregarProposicao"}}
-    I1["I1: AbrirResumo"]
-    I2{{"I2: ExibirResumo"}}
-    I3(["I3: LerResumo"])
-    I4(["I4: ExaminarSituacao"])
-    I5["I5: AbrirTramitacao"]
-    I6{{"I6: ExibirTramitacao"}}
-    I7(["I7: LerTramitacao"])
-    I8(["I8: DecidirEncerrar"])
-    I9["I9: FecharPagina"]
-    V --> C
-    V --> B
-    V --> S
-    V --> I
-    C --> C1
-    C --> C2
-    C --> C3
-    C --> C4
-    B --> B1
-    B --> B2
-    B --> B3
-    S --> S1
-    S --> S2
-    S --> S3
-    I --> I1
-    I --> I2
-    I --> I3
-    I --> I4
-    I --> I5
-    I --> I6
-    I --> I7
-    I --> I8
-    I --> I9
-    classDef abstrata stroke-dasharray: 6 4
-    class V,C,B,S,I abstrata
-```
+[![CTT: a — Hierarquia geral, com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-geral.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-geral.svg)
 
-<p class="caption">Figura 3 — Decomposição da CTT, com convenções gráficas do grupo.</p>
-<p class="source">Fonte: sessão de P1; tipos e operadores de BARBOSA; SILVA (2010, p. 203–204).</p>
+<p class="caption">Figura 3a — Hierarquia geral.</p>
+
+[![CTT: b — Chegar ao Senado (C), com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-chegar.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-chegar.svg)
+
+<p class="caption">Figura 3b — Chegar ao Senado (C).</p>
+
+[![CTT: c — Buscar proposição (B), com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-buscar.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-buscar.svg)
+
+<p class="caption">Figura 3c — Buscar proposição (B).</p>
+
+[![CTT: d — Selecionar resultado (S), com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-selecionar.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-selecionar.svg)
+
+<p class="caption">Figura 3d — Selecionar resultado (S).</p>
+
+[![CTT: e — Interpretar situação (I), com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-interpretar.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-interpretar.svg)
+
+<p class="caption">Figura 3e — Interpretar situação (I).</p>
+
+<p class="source">Fonte: tarefas da sessão de P1; símbolos e relações de BARBOSA; SILVA (2010, figuras 6.4–6.6, p. 203–205), redesenhados em SVG.</p>
 
 ## Agradecimentos
 
@@ -231,6 +171,8 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 | `1.0` | 26/09/2026 | HTA e CTT a partir do perfil da persona | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 | `1.2` | 05/10/2026 | Alinha HTA e CTT à sequência registrada de P1, explicita origem das operações e convenções gráficas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 05/10/2026 | Substitui diagramas adaptados por SVGs com símbolos de HTA e CTT apresentados no livro e atualiza legendas e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

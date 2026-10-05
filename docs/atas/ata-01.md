@@ -69,16 +69,19 @@ A Tabela 3 consolida as atividades estabelecidas, seus responsáveis diretos e o
 
 A reunião foi realizada via Google Meet, gravada e transcrita com o auxílio de ferramentas de gravação para assegurar a rastreabilidade e a transparência das decisões do projeto. O registro audiovisual pode ser reproduzido diretamente no reprodutor abaixo:
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/o1tRjD5nqBE" 
-    title="Gravação da Reunião 01 — Grupo 06 — IHC 2026.2" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
+??? note "Vídeo — Gravação da Reunião 01 — Grupo 06 — IHC 2026.2"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/o1tRjD5nqBE"
+        title="Gravação da Reunião 01 — Grupo 06 — IHC 2026.2"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 Link direto para a gravação no YouTube (categoria **não listado**): [https://www.youtube.com/watch?v=o1tRjD5nqBE](https://www.youtube.com/watch?v=o1tRjD5nqBE).
 
@@ -97,6 +100,7 @@ A Tabela 4 documenta o histórico de versões deste artefato.
 | `1.1` | 05/09/2026 | Remoção da tabela de contribuição, renumeração das tabelas e atualização das atividades | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 03/10/2026 | Esclarece que a Transparência do DF foi a decisão desta reunião e aponta a Ata 02 para a escolha do Senado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 4 — Histórico de versão da Ata 01.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

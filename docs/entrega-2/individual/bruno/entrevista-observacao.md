@@ -279,8 +279,6 @@ A [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](anal
 
 Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das referências no livro e a coleta de dados com o participante são do autor, que segue responsável pelo que está publicado.
 
-Nesta rodada, o Codex (OpenAI), sob orientação de Bruno Ferreira Dornelas, aplicou as correções descritas no histórico. Caio Breno de Souza Bezerra é o responsável designado pela revisão humana desta versão, ainda pendente. Os créditos anteriores foram preservados.
-
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

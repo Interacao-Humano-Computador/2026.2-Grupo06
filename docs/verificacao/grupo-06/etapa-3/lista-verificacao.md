@@ -9,6 +9,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Transposição da lista oficial da Etapa 3 do plano de ensino | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Estrutura dos itens adicionais e elaboração do item 18 | [Itens elaborados pelo grupo](#itens-elaborados-pelo-grupo) |
+| Codex (OpenAI) | Apoio à redação e conferência da fundamentação bibliográfica | [Item 18](#item-18-bruno-ferreira-dornelas) |
+
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -64,12 +67,59 @@ A Tabela 3 lista os itens de conteúdo da disciplina verificados na Entrega 3. A
 
 Além dos itens da Tabela 3, a lista oficial destaca como **importante** que cada integrante da equipe elabore ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. Resposta: **—**.
 
+## Itens elaborados pelo grupo
+
+A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo formato da Etapa 2. O item 18 foi elaborado com base no livro; as demais linhas estão reservadas para os integrantes. Resposta e versão, data e hora permanecem sem preenchimento até a inspeção.
+
+| # | Item | Resposta | Versão, data e hora da avaliação | Autor |
+| :---: | --- | :---: | :---: | --- |
+| 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 19 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 20 | a preencher | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| 21 | a preencher | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| 22 | a preencher | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+
+<p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106).</p>
+
+### Item 18 — Bruno Ferreira Dornelas
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106.
+
+**Fundamentação:** o trecho começa na p. 105 e continua na p. 106. Os autores relacionam a definição das metas à escolha dos fatores prioritários, à forma de avaliação e às faixas de valores de cada indicador. O Exemplo 4.1 ilustra indicadores como conclusão ou abandono, tempo e erros. As figuras 1 e 2 reproduzem os trechos do livro.
+
+O item 18 complementa os itens oficiais 13 e 14: verifica a possibilidade de medir e julgar o atendimento das metas, além de sua presença e justificativa. Não determina os mesmos valores numéricos para todos os projetos.
+
+**Como verificar:** consultar as [metas de usabilidade](../../../entrega-3/metas-usabilidade.md#metas-que-o-projeto-deve-alcancar) e conferir, para cada indicador, a definição da medida, o procedimento de avaliação e as três faixas de aceitação. Considerar **Sim** quando esses elementos estiverem definidos para todos os indicadores; **Incompleto** quando existirem, mas faltarem definições em parte deles; e **Não** quando as metas não tiverem essa operacionalização. A resposta verifica a especificação das metas, não exige que os testes já tenham sido executados. Estes critérios de preenchimento são uma operacionalização do grupo a partir do livro.
+
+**Trechos do livro:**
+
+![Barbosa e Silva (2010), p. 105: início da definição das metas, com fatores prioritários e forma de avaliação.](../../../assets/img/referencias/barbosa-metas-definicao-p105.png)
+
+<p class="caption">Figura 1 — Definição de metas de usabilidade: fatores e avaliação.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 105), recorte do livro.</p>
+
+![Barbosa e Silva (2010), p. 106: continuação da definição, com faixas inaceitáveis, aceitáveis e ideais e exemplos de indicadores.](../../../assets/img/referencias/barbosa-metas-definicao-p106.png)
+
+<p class="caption">Figura 2 — Faixas de aceitação e indicadores de usabilidade.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 106), recorte do livro.</p>
+
+## Agradecimentos
+
+Este documento contou com apoio de inteligência artificial na organização e redação. A responsabilidade pelo conteúdo é dos autores.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 05/10/2026 | Transposição da lista oficial da Entrega 3 para o site | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/10/2026 | Adiciona tabela de itens do grupo e item 18 sobre avaliação das metas, com referência e recortes das páginas 105–106 do livro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
+
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106.

@@ -15,14 +15,15 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Persona Marta Oliveira, a partir da entrevista e da observação | [Marta Oliveira](individual/israel/persona.md) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Persona Marina Alves, a partir da entrevista e da observação | [Marina Alves](individual/luis/persona.md) |
 | Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](elenco-personas.md#agradecimentos) |
-| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Persona documental do professor | [Rafael Almeida](individual/bruno/perfil-2/persona.md) |
+| Codex (OpenAI) | Correções de consistência, rastreabilidade e integração da persona documental | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne o elenco de personas do Grupo 06. Cada integrante construiu uma persona a partir da própria entrevista e da observação no Portal do Senado Federal. O elenco guarda essas cinco pessoas com nome, perfil e status, para que as próximas etapas falem de gente concreta, e não de um usuário genérico.
+Esta página reúne seis personas do Grupo 06: cinco vinculadas às sessões de entrevista e observação e Rafael Almeida, construído a partir da análise documental da Oficina Legislativa. O elenco identifica nome, perfil, origem e status para orientar as decisões de design. As características dos quatro perfis estão organizadas em [campos comuns](perfil-usuario.md#perfis-de-usuario-identificados), com [cobertura das evidências e lacunas](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). O encadeamento de cada persona com sua fonte, cenário e tarefa está na [conferência coletiva](perfil-usuario.md#conferencia-dos-artefatos).
 
 ## Item de conteúdo da disciplina
 
@@ -36,11 +37,12 @@ Cada projeto tem o próprio elenco, de três a doze personas, com pelo menos uma
 
 ## Elenco
 
-A Tabela 2 reúne as cinco personas derivadas das sessões. O status é uma priorização de design: uma persona primária não é atendida adequadamente por uma solução centrada em outra persona (BARBOSA; SILVA, 2010, p. 179–180). Isso difere da classificação por regularidade de uso da p. 136. As prioridades atuais são preservadas; as hipóteses de atendimento das secundárias devem ser verificadas no reprojeto.
+A Tabela 2 reúne as cinco personas vinculadas às sessões e a persona documental do professor. O status é uma priorização de design: uma persona primária não é atendida adequadamente por uma solução centrada em outra persona (BARBOSA; SILVA, 2010, p. 179–180). Isso difere da classificação por regularidade de uso da p. 136. As prioridades atuais são preservadas; as hipóteses de atendimento das secundárias devem ser verificadas no reprojeto.
 
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
 | Bruno Ferreira Dornelas | [Lucas Mendes](individual/bruno/persona.md) | Cidadão leigo, caixa de supermercado e estudante de Ciências Econômicas; demanda ocasional de compreensão de proposições (PERF-01) | Primária |
+| Bruno Ferreira Dornelas | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Professor; atuação na Oficina Legislativa investigada por documentos, sem entrevista | Primária |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que separa notícias do setor aeroespacial para um anuário anual | Secundária |
 | Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania | Primária |
 | Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com uma tarefa administrativa pontual | Secundária |
@@ -54,12 +56,15 @@ As prioridades atuais distinguem objetivos e tarefas:
 - **Lucas Mendes:** compreender a situação de uma proposição de interesse cotidiano, com linguagem acessível e identificação do documento correto.
 - **Letícia Oliveira:** localizar a consulta pública e registrar seu posicionamento.
 - **Marina Alves:** localizar uma reunião de comissão e relacionar pauta e resultado.
+- **Rafael Almeida:** coordenar a participação da turma e obter a comprovação da oficina.
+
+O elenco passa a ter quatro personas primárias. A recomendação de três no livro não é um limite obrigatório; a inclusão de Rafael decorre do objetivo de coordenação coletiva, ausente nas outras prioridades. Essa decisão deve ser reavaliada conforme o escopo e as verificações do reprojeto, mantendo o elenco manejável.
 
 **Renata Moreira** permanece secundária na priorização atual, mas o atendimento de sua necessidade de triagem temporal depende de recursos próprios de organização das notícias. Não basta afirmar que uma busca feita para Lucas resolverá sua atividade.
 
 **Marta Oliveira** permanece secundária na priorização atual, com atendimento ainda a verificar: linguagem simples é uma necessidade compartilhada, mas não comprova que a informação sobre disponibilidade de espaços será encontrada. A existência de um serviço de reserva também não foi demonstrada pela entrevista.
 
-O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado, sem substituição por um novo perfil nesta rodada.
+O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado. Rafael acrescenta um papel docente investigado por documentos; sua identidade fictícia não altera a composição da amostra nem demonstra a distribuição de gênero do público.
 
 ## Agradecimentos
 
@@ -80,6 +85,10 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.1` | 27/09/2026 | Confirma os atributos de Marina Alves a partir da transcrição da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 | `1.3` | 05/10/2026 | Alinha Lucas ao elenco, distingue classificações e explicita limites das prioridades de design; remove referência ao perfil documental | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 05/10/2026 | Acrescenta Rafael Almeida e justifica sua prioridade, preservando a distinção entre persona documental e amostra | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 05/10/2026 | Relaciona o elenco à caracterização padronizada, às lacunas e à conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

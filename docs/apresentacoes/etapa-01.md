@@ -43,16 +43,19 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 - Link: [https://youtu.be/NQzcNg32G2k](https://youtu.be/NQzcNg32G2k)
 - Data da gravação: 05/09/2026
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/NQzcNg32G2k" 
-    title="Apresentação da Etapa 1 do Grupo 06" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
+??? note "Vídeo — Apresentação da Etapa 1 do Grupo 06"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/NQzcNg32G2k"
+        title="Apresentação da Etapa 1 do Grupo 06"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Roteiro sugerido
 
@@ -74,6 +77,7 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 | `1.2` | 05/09/2026 | Inclui a página da equipe na estruturação do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Recoloca a coluna de gravação na contribuição da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 05/09/2026 | Adição do vídeo da apresentação (link e gravação) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

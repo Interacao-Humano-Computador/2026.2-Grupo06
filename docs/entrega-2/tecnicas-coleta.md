@@ -10,6 +10,8 @@
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Fundamentação da observação inspirada na investigação contextual | [Observação](tecnicas-coleta.md#observacao-da-tarefa-e-investigacao-contextual) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Organização das evidências bibliográficas | [Apêndice](tecnicas-coleta.md#apendice-a-evidencias-bibliograficas) |
 | Google Gemini | Formatação Markdown | [Agradecimentos](tecnicas-coleta.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Aplicação da análise documental ao perfil docente | [Análise documental](#analise-documental-do-perfil-docente) |
+| Codex (OpenAI) | Sistematização do procedimento documental | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -17,6 +19,8 @@
 ## Introdução
 
 Para definir o perfil dos usuários do Portal do Senado Federal, o Grupo 06 combina duas técnicas: **entrevista semiestruturada** e **observação da tarefa com relato em voz alta, inspirada na investigação contextual**. A entrevista levanta características, objetivos e opiniões; a observação registra como a pessoa realmente age diante do portal. A análise conjunta reduz a dependência exclusiva do relato e fornece evidências para o perfil, as personas, os cenários, a HTA e a CTT.
+
+Essa combinação foi utilizada nas cinco sessões com participantes. Para caracterizar o perfil Professor no contexto da Oficina Legislativa, o grupo acrescenta a **análise documental**, sem participação de usuários, conforme o [procedimento específico](#analise-documental-do-perfil-docente).
 
 Barbosa e Silva (2010, p. 143) incluem entrevistas, estudos de campo e investigação contextual entre as técnicas de coleta de dados dos usuários. A **Figura 1** reproduz a lista utilizada pelo grupo ([Apêndice A](tecnicas-coleta.md#apendice-a-evidencias-bibliograficas)).
 
@@ -50,6 +54,18 @@ As técnicas são aplicadas na mesma sessão, mas produzem evidências diferente
 
 Na sessão de Luís Henrique, realizada presencialmente em 27/09/2026, a participante utilizou um computador com Microsoft Edge. O arquivo transcrito registra consentimento, entrevista, explicação da atividade, aproximadamente 8min10s de navegação e perguntas finais. Ela começou por Especiais e Grandes Coberturas, abriu notícia, tramitação, multimídia, datas e eventos, retornou várias vezes e depois encontrou Atividade legislativa, Comissões e CCJ. Não usou a busca global e não recebeu indicação do caminho. Concluiu a localização da 13ª reunião extraordinária da CCJ, sua pauta, um item e o resultado. O percurso detalhado está na [página individual](individual/luis/entrevista-observacao.md).
 
+## Análise documental do perfil docente
+
+Barbosa e Silva (2010, p. 138) indicam que documentação de processos, normas, manuais e materiais de treinamento ajuda a conhecer o produto e suas restrições. O grupo operacionaliza essa orientação pela seleção de fontes oficiais, extração de evidências localizáveis, comparação de versões e ligação entre evidências e atributos. Esse procedimento não é apresentado como técnica nomeada na lista da p. 143.
+
+A [análise documental de Bruno](individual/bruno/perfil-2/analise-documental.md) registra o corpus D01–D06, a consulta em 05/10/2026, as evidências E01–E09, o fluxo previsto e divergências entre documentos. O [perfil docente](individual/bruno/perfil-2/perfil-usuario.md) utiliza essa base, sem transformar regras do serviço em hábitos pessoais ou em observação de uso.
+
+A leitura dos destinos públicos identificou exigência de autenticação para a área docente e para a emissão da declaração. As etapas autenticadas não foram executadas. As telas presentes no manual são evidências documentais da versão ilustrada, não capturas de uma sessão atual. Não houve recrutamento nem coleta de dados pessoais nesse procedimento; as sessões anteriores e seus cuidados permanecem preservados.
+
+## Consolidação das evidências
+
+A revisão dos registros existentes utiliza o [escopo atual](perfil-usuario.md#escopo-atual-da-investigacao), os mesmos campos de descrição para os quatro perfis e a [matriz de cobertura](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). Relato, observação, reconstrução e regra documental são identificados separadamente. Informações já registradas podem completar o consolidado; atributos ausentes dependem de fontes adicionais ou coleta complementar. A [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) verifica o encadeamento das evidências, sem substituir validação com usuários.
+
 ## Cuidados metodológicos e éticos
 
 - apresentar o TCLE e esclarecer dúvidas antes da coleta;
@@ -75,6 +91,10 @@ Esta página contou com apoio do Google Gemini na consolidação do material pre
 | `0.2` | 27/09/2026 | Atualiza a aplicação das técnicas com os resultados relatados da sessão | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 27/09/2026 | Consolida a aplicação das técnicas, o percurso e os cuidados éticos com base na transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.2` | 05/10/2026 | Acrescenta o procedimento documental e seus limites para caracterizar o perfil docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 05/10/2026 | Explicita o procedimento de consolidação e sua ligação com escopo, lacunas e rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 
