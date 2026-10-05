@@ -31,8 +31,8 @@ A Tabela 2 distribui os itens da lista de verificação da Apresentação 3. A s
 | 10 | Características da plataforma para o projeto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Características da plataforma](plataforma.md) | Escrito |
 | 11 | Princípios gerais do projeto que serão utilizados, com referência e foto do trecho | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Princípios gerais](principios-gerais.md) | A preencher |
 | 12 | Os oito tópicos dos princípios gerais, com referência e foto do trecho | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Tópicos dos princípios](topicos-principios.md) | A preencher |
-| 13 | Metas de usabilidade que devem ser alcançadas, com referência e foto do trecho | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md) | A preencher |
-| 14 | Razão da seleção das metas de usabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md#razao-da-selecao) | A preencher |
+| 13 | Metas de usabilidade que devem ser alcançadas, com referência e foto do trecho | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md) | Escrito |
+| 14 | Razão da seleção das metas de usabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md#razao-da-selecao) | Escrito |
 | 15 | Guia de estilo do projeto, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md) | A preencher |
 | 16 | Estrutura do guia de estilo pedida pelo plano, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#estrutura) | A preencher |
 | 17 | Guia de estilo correspondente ao site avaliado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#correspondencia-com-o-site-avaliado) | A preencher |
