@@ -43,9 +43,9 @@
     tools.setAttribute("role", "group");
     tools.setAttribute("aria-label", "Acessibilidade");
     tools.innerHTML =
-      '<button type="button" data-font="-" aria-label="Diminuir texto">A−</button>' +
-      '<button type="button" data-font="+" aria-label="Aumentar texto">A+</button>' +
-      '<button type="button" data-hc aria-pressed="false" aria-label="Alto contraste">Contraste</button>';
+      '<button type="button" data-font="-" aria-label="Diminuir texto"><span class="ico" data-icon="format-font-size-decrease" aria-hidden="true"></span></button>' +
+      '<button type="button" data-font="+" aria-label="Aumentar texto"><span class="ico" data-icon="format-font-size-increase" aria-hidden="true"></span></button>' +
+      '<button type="button" data-hc aria-pressed="false" aria-label="Alto contraste" title="Alto contraste"><span class="ico" data-icon="contrast-circle" aria-hidden="true"></span></button>';
 
     var source = inner.querySelector(".md-header__source");
     if (source) inner.insertBefore(tools, source);
