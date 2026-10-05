@@ -13,6 +13,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Estruturação da página e índice das análises do grupo | [Análises do grupo](analise-tarefas.md#analises-de-tarefas-do-grupo) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | HTA e CTT da consulta à reunião da CCJ | [Análise individual](individual/luis/analise-tarefas.md) |
 | ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | HTA e CTT da tarefa docente | [Oficina Legislativa](individual/bruno/perfil-2/analise-tarefas.md) |
+| Codex (OpenAI) | Correções de consistência, rastreabilidade e integração da modelagem documental | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -21,7 +23,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Esta página reúne as análises de tarefas desenvolvidas pelo Grupo 06 no escopo da Entrega 2. A análise de tarefas permite compreender em profundidade o trabalho das pessoas usuárias, decompondo suas ações, estratégias e objetivos para subsidiar a identificação de problemas de usabilidade no Portal do Senado Federal e direcionar futuras propostas de reprojeto. 
 
-Cada integrante conduziu a modelagem da tarefa investigada na sessão empírica e narrada no respectivo [cenário](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
+O grupo modela as tarefas vinculadas às sessões empíricas e a tarefa docente investigada por documentos, narradas nos respectivos [cenários](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
 
 ## Item de conteúdo da disciplina
 
@@ -68,14 +70,17 @@ A técnica CTT (*ConcurTaskTrees*) complementa a HTA, oferecendo um modelo visua
 
 ## Análises de tarefas do grupo
 
+A [delimitação do escopo](perfil-usuario.md#escopo-atual-da-investigacao) distingue serviços analisados e atividades externas. A [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) registra a origem e os limites de cada encadeamento entre perfil, persona, cenário e tarefa.
+
 A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integrantes da equipe, detalhando o integrante responsável, a tarefa modelada, a persona associada e o link para a modelagem completa (contendo tabelas HTA, planos de execução e diagramas CTT).
 
 | Integrante | Análise de Tarefas | Persona / Ator | Tarefa modelada |
 | --- | --- | --- | --- |
-| Bruno Ferreira Dornelas | [Busca por jornada de trabalho](individual/bruno/analise-tarefas.md) | [Mariana Costa](individual/bruno/persona.md) | Acompanhar tramitação e detalhes de projeto de lei sobre jornada |
-| Caio Breno de Souza Bezerra | [Levantamento de notícias para anuário](individual/caio/analise-tarefas.md) | [Renata Moreira](individual/caio/persona.md) | Filtrar e salvar notícias temáticas no portal |
+| Bruno Ferreira Dornelas | [Busca por jornada de trabalho](individual/bruno/analise-tarefas.md) | [Lucas Mendes](individual/bruno/persona.md) | Tentar compreender a situação da proposta sobre jornada; tentativa encerrada sem resposta |
+| Bruno Ferreira Dornelas | [Participação da turma e comprovação da oficina](individual/bruno/perfil-2/analise-tarefas.md) | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Organizar a participação da turma e obter a declaração; modelo documental do trabalho previsto |
+| Caio Breno de Souza Bezerra | [Levantamento de notícias para anuário](individual/caio/analise-tarefas.md) | [Renata Moreira](individual/caio/persona.md) | Selecionar notícias por tema e período; salvamento para a equipe relatado fora do portal |
 | Heitor Pinheiro Gonçalves das Chagas | [Votação em consulta pública](individual/heitor/analise-tarefas.md) | [Letícia Oliveira](individual/heitor/persona.md) | Localizar matéria (PL 1215/2025) e votar no portal e-Cidadania |
-| Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Consultar disponibilidade de auditório para reserva |
+| Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Buscar informação sobre disponibilidade de auditório; sequência reconstruída, serviço de reserva não confirmado |
 | Luís Henrique Luna de Arruda | [Pauta e resultado de reunião da CCJ](individual/luis/analise-tarefas.md) | [Marina Alves](individual/luis/persona.md) | Consultar pauta e resultado de item deliberado em comissão |
 
 <p class="caption">Tabela 2 — Análises de tarefas do Grupo 06.</p>
@@ -93,6 +98,10 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `0.2` | 27/09/2026 | Adição de tabela de contribuição padronizada, índice das tarefas do grupo e padronização do histórico de versões | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Atualiza a análise da tarefa de Luís com os modelos validados pela transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.0` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/10/2026 | Integra a HTA e a CTT documentais da Oficina Legislativa ao índice do grupo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/10/2026 | Alinha o índice aos resultados e fronteiras das tarefas e referencia a conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

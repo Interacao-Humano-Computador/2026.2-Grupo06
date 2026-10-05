@@ -28,16 +28,19 @@ O vídeo a seguir apresenta a verificação realizada sobre os artefatos produzi
 - Data da gravação: 27/09/2026, das 20:42 às 20:49
 - Participantes: Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra, Israel Soares e Luís Henrique Luna de Arruda
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    src="https://www.youtube-nocookie.com/embed/12G4wjgpQck" 
-    title="Vídeo de verificação da Etapa 2 do Grupo 06" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
+??? note "Vídeo — Vídeo de verificação da Etapa 2 do Grupo 06"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/12G4wjgpQck"
+        title="Vídeo de verificação da Etapa 2 do Grupo 06"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Itens de desenvolvimento do projeto
 
@@ -166,6 +169,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 | `1.1` | 01/10/2026 | Adição do vídeo de verificação da Etapa 2 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 01/10/2026 | Preenchimento dos itens de desenvolvimento e de conteúdo com base na reunião de inspeção de 27/09/2026 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 05/10/2026 | Corrige data e hora de cada item conforme a transcrição da inspeção e adiciona data da gravação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

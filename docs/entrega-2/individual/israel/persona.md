@@ -12,6 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Objetivos pessoais e práticos | [Objetivos](persona.md#objetivos) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Validação com a participante | [Validação](persona.md#validacao-com-a-participante) |
 | Google Gemini | Transcrição, redação preliminar e formatação Markdown | [Agradecimentos](persona.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -63,7 +64,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 | Elemento | Descrição | Origem |
 | --- | --- | --- |
 | Identidade | Marta Oliveira, 47 anos, servidora pública. Nome e retrato inventados | Sessão, sintetizada |
-| Status | Secundária no [elenco](../../elenco-personas.md). A linguagem comum de que ela precisa é a mesma necessidade da Mariana Costa. Uma interface que explique a situação em palavras simples também a ajuda a descobrir se um espaço está disponível | Decisão do elenco |
+| Status | Secundária na priorização atual do [elenco](../../elenco-personas.md). Compartilha com Lucas Mendes a necessidade de linguagem simples, mas o atendimento da tarefa sobre auditório depende de solução específica e ainda precisa ser verificado | Decisão do elenco; hipótese de atendimento a validar |
 | Objetivos | Os das listas acima: resolver tarefas pontuais, acompanhar leis de interesse, ser avisada sem precisar voltar ao site | Sessão, sintetizada |
 | Habilidades | Pouca familiaridade técnica com sites institucionais; busca ajuda ou informação complementar por fora quando trava; usa vocabulário do dia a dia, não jargão legislativo | Sessão, sintetizada |
 | Tarefas | Resolver tarefas administrativas pontuais junto ao Senado (ex.: verificar disponibilidade de auditório) e acompanhar leis/projetos de interesse. Frequência: esporádica no portal, diária no consumo de notícias em geral. Importância: pontual, mas decisiva quando ocorre — na tentativa observada, a tarefa não foi concluída | Sessão, sintetizada |
@@ -110,6 +111,8 @@ A Tabela 3 registra o resultado.
 
 Esta página contou com o apoio do Google Gemini na formatação Markdown, na transcrição de trechos da sessão e na redação preliminar do conteúdo. A revisão do conteúdo e a validação com a participante são do autor, que segue responsável pelo que está publicado.
 
+
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -118,6 +121,7 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, na tr
 | `0.2` | 27/09/2026 | Persona Marta Oliveira preenchida com os dados da sessão, ainda sem o ok da participante | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Confirma Marta Oliveira como persona secundária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 05/10/2026 | Atualiza referência para Lucas e limita a justificativa do status secundário à hipótese de design | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

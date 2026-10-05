@@ -1,93 +1,96 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Perfil de usuário 2</span>
+<span class="owner">Responsável: Bruno Ferreira Dornelas — Perfil do usuário</span>
 
-# Perfil de usuário — Estudante / pesquisador
+# Perfil 2 — Professor
 
 ## Tabela de contribuição
 
-A Tabela 1 registra quem atuou neste artefato.
+A Tabela 1 registra as contribuições para este artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Técnicas de elicitação e perfil do estudante/pesquisador | [Técnicas](perfil-usuario.md#tecnicas-de-elicitacao) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atributos do perfil | [Atributos](perfil-usuario.md#atributos-do-perfil) |
-| ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](perfil-usuario.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do recorte e consolidação do perfil | [Caracterização](#caracterizacao-do-perfil) |
+| Codex (OpenAI) | Organização dos atributos e da rastreabilidade documental | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-## Introdução
+## Identificação e origem
 
-Esta página documenta o segundo perfil de usuário levantado por Bruno Ferreira: o **estudante ou pesquisador** que usa o Portal do Senado Federal para fins acadêmicos. Por não ser possível recrutar um participante desse perfil antes da entrega, as duas técnicas de elicitação adotadas não envolvem o usuário diretamente. Os dados alimentam a [persona](persona.md), o [cenário](cenario.md) e a [análise de tarefas](analise-tarefas.md) deste perfil, além do [perfil do usuário do grupo](../../../perfil-usuario.md).
+**Professor.** O perfil identifica o papel docente. Nesta pesquisa, sua caracterização abrange a organização da participação de uma turma na Oficina Legislativa na Escola, apoiada pelo e-Cidadania. A oficina é o recorte de atividade investigado, não o nome do perfil; as fontes não caracterizam todas as formas de uso do portal por professores. O perfil foi construído pela [análise documental](analise-documental.md), com fontes e acessos consultados em 05/10/2026.
 
-## Técnicas de elicitação
+“Perfil 2” identifica o segundo trabalho individual de Bruno. Não é o participante P2, que continua sendo a pessoa entrevistada por Caio. A base documental também não altera a amostra de cinco participantes do grupo.
 
-Como nenhum usuário desse perfil estava disponível para uma sessão antes da entrega, o levantamento usou duas técnicas que não exigem a presença direta do usuário (BARBOSA; SILVA, 2010, p. 143).
+O perfil segue a orientação de organizar características relevantes aos objetivos apoiados pelo sistema (BARBOSA; SILVA, 2010, p. 174–175). Seu critério de distinção é a responsabilidade docente pela atividade coletiva, não idade, gênero ou uma especialidade presumida.
 
-### Técnica 1 — Análise documental
+## Caracterização do perfil
 
-A análise documental consiste em examinar registros já existentes — relatórios, artigos acadêmicos, discussões em fóruns especializados e dados de uso publicados — para inferir características, objetivos e dificuldades típicos de um grupo de usuários (BARBOSA; SILVA, 2010, p. 143). Foram consultados:
+A Tabela 2 organiza os atributos de interesse a partir de Barbosa e Silva (2010, p. 134–135). As ligações E01–E09 levam às evidências, suas fontes e seus limites.
 
-- artigos acadêmicos sobre o uso de portais legislativos por estudantes de Direito e Ciência Política no Brasil;
-- discussões em fóruns e grupos de pesquisa jurídica sobre as dificuldades de acesso ao texto integral de proposições no portal do Senado;
-- o próprio portal do Senado e sua documentação de acessibilidade e ajuda, que descrevem os fluxos esperados para pesquisa de matérias.
-
-### Técnica 2 — Análise de similares
-
-A análise de similares examina sistemas com funções comparáveis para identificar padrões de tarefas e dificuldades recorrentes (BARBOSA; SILVA, 2010, p. 143). Foram inspecionados:
-
-- o portal da Câmara dos Deputados [4], que serve ao mesmo público pesquisador e oferece busca avançada de proposições com filtros por tema, tipo e período;
-- o LexML Brasil [5], agregador de normas e documentos legislativos utilizado por estudantes e advogados para acesso ao inteiro teor.
-
-A comparação com esses sistemas permitiu identificar que o perfil pesquisador espera busca avançada por tema, acesso ao inteiro teor em PDF, e histórico de tramitação legível — recursos que o portal do Senado oferece mas apresenta de forma fragmentada.
-
-## Atributos do perfil
-
-A Tabela 2 organiza os atributos do perfil segundo Hackos e Redish (1998 apud BARBOSA; SILVA, 2010, p. 134–135) e os grupos de Courage e Baxter (2005 apud BARBOSA; SILVA, 2010, p. 175).
-
-| Atributo | Registro | Origem |
+| Atributo | Caracterização sustentada | Evidência |
 | --- | --- | --- |
-| Dados demográficos | Homem ou mulher, 20–28 anos | Análise documental |
-| Status socioeconômico | Classe média (inferida); estudante universitário com acesso a dispositivos pessoais e internet | Análise documental |
-| Experiência no cargo | Estudante de graduação ou pós-graduação | Análise documental |
-| Informações sobre a empresa | Universidade pública ou privada, cursos de Direito, Ciência Política ou Políticas Públicas | Análise documental |
-| Educação | Ensino superior em andamento ou completo; leitura fluente de textos jurídicos | Análise documental |
-| Experiência com computadores | Alta — usa computador diariamente para pesquisa e escrita acadêmica | Análise documental |
-| Experiência com o produto | Média — acessa o portal periodicamente para buscar proposições e normas; já conhece a lupa e as abas de resultado | Análise documental |
-| Tecnologia disponível | Notebook pessoal; acesso à internet via campus ou residência | Análise documental |
-| Treinamento e aprendizado | Aprende explorando; consulta a ajuda do portal quando trava | Análise documental |
-| Atitudes e valores | Tecnófilo; valoriza precisão e completude da informação; tolera interfaces mais densas se o resultado for rico | Análise documental |
-| Conhecimento do domínio | Conhece termos jurídicos básicos (PL, PEC, emenda); ainda aprende o processo legislativo | Análise documental e similares |
-| Objetivos | Encontrar todas as proposições sobre um tema para o TCC; ler o texto integral; acompanhar a tramitação | Análise documental |
-| Tarefas | Buscar por palavra-chave ou tema, filtrar por tipo e período, acessar o inteiro teor em PDF, exportar referências | Análise de similares |
-| Gravidade dos erros | Alta — proposição não encontrada ou referência errada invalida o trabalho acadêmico | Análise documental |
-| Idiomas e jargões | Português; vocabulário jurídico básico; siglas conhecidas mas não dominadas | Análise documental |
-| **Grupo: idade** | Jovem adulto | — |
-| **Grupo: experiência** | Intermediário: conhece o portal, mas não domina os filtros avançados | — |
-| **Grupo: atitude** | Tecnófilo: persistente, não desiste na primeira dificuldade | — |
-| **Grupo: tarefa primária** | Pesquisar proposições por tema e acessar o inteiro teor para uso acadêmico | — |
+| Papel e contexto de trabalho | Professor responsável pela modalidade escolar; a instituição e a turma contextualizam sua atuação | [E01](analise-documental.md#e01) |
+| Experiência no cargo | O papel docente está identificado; tempo de exercício não determinado | [E01](analise-documental.md#e01) |
+| Educação e conhecimento do domínio | O programa fornece apoio pedagógico; não determina titulação nem domínio prévio do processo legislativo | [E07](analise-documental.md#e07) |
+| Experiência com computadores | Nível de habilidade não medido; não se classifica o professor como iniciante ou especialista | [Limites](analise-documental.md#limites-e-verificacoes-necessarias) |
+| Experiência com o produto e frequência | Histórico e frequência de uso não determinados; participação organizada por oficina | [Fluxo](analise-documental.md#fluxo-documentado-e-fronteiras-do-sistema) |
+| Tecnologia e contexto de acesso | Computador ou dispositivo móvel são recursos previstos; disponibilidade real não verificada | [E08](analise-documental.md#e08) |
+| Treinamento e aprendizado | Há material didático para apoiar a atividade; não se presume preferência pessoal por manuais | [E07](analise-documental.md#e07) |
+| Objetivo de trabalho | Conduzir a participação da turma e obter comprovação da atividade | [E01](analise-documental.md#e01), [E05](analise-documental.md#e05) |
+| Tarefa central | Organizar a participação de uma turma e obter a declaração da oficina | [F01–F06](analise-documental.md#fluxo-documentado-e-fronteiras-do-sistema) |
+| Relações de trabalho | Alunos realizam ações próprias; o professor orienta e depende de seus retornos | [E03](analise-documental.md#e03), [E04](analise-documental.md#e04) |
+| Consequências de erros | Falhas na associação das ideias podem comprometer a comprovação da atividade; severidade e ocorrência não medidas com usuários | [E03](analise-documental.md#e03) |
+| Vocabulário do trabalho | Oficina, turma, código, ideia legislativa e declaração; compreensão desses termos não avaliada | [E02–E05](analise-documental.md#e02) |
+| Atitudes, valores e motivação pessoal | Não caracterizados pelos documentos de funcionamento | [Limites](analise-documental.md#limites-e-verificacoes-necessarias) |
+| Dados demográficos e socioeconômicos | Sem faixa etária, gênero ou renda definidos pelas fontes consultadas | [Limites](analise-documental.md#limites-e-verificacoes-necessarias) |
 
-<p class="caption">Tabela 2 — Atributos do perfil estudante/pesquisador.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026), a partir de análise documental e de similares; categorias de BARBOSA; SILVA (2010, p. 134–135, 175).</p>
+<p class="caption">Tabela 2 — Atributos do perfil docente e rastreabilidade.</p>
+<p class="source">Fonte: síntese do Grupo 06 a partir da análise documental; organização baseada em BARBOSA; SILVA (2010, p. 134–135, 174–175).</p>
+
+## Tarefa e necessidades para o projeto
+
+A emissão da declaração é a funcionalidade que encerra o recorte proposto. Para chegar a esse resultado, o professor precisa coordenar informações e ações de outros participantes. O cadastro inicial é uma precondição; isoladamente, não define a tarefa escolhida.
+
+A Tabela 3 distingue necessidades formuladas pelo grupo de funcionalidades já documentadas. Elas orientam a investigação posterior e não são resultados de uma avaliação de usabilidade.
+
+| Necessidade derivada | Motivo | Evidência |
+| --- | --- | --- |
+| Reconhecer a relação entre instituição, turma e ideias | Evitar associações incorretas | [E02–E03](analise-documental.md#e02) |
+| Compreender antecipadamente as consequências da omissão do código | A prevenção precisa ocorrer antes da publicação | [E03](analise-documental.md#e03) |
+| Distinguir sua responsabilidade da autoria e do retorno destinado ao aluno | A execução depende de mais de um ator | [E03–E04](analise-documental.md#e03) |
+| Encontrar a emissão e compreender os dados do comprovante | A conclusão depende da comprovação da atividade | [E05](analise-documental.md#e05) |
+
+<p class="caption">Tabela 3 — Necessidades propostas a partir das dependências documentadas.</p>
+<p class="source">Fonte: interpretação do Grupo 06 sobre E02–E05.</p>
+
+Não se atribuem ao portal agendamento de aulas, avaliação de trabalhos, aprovação de ideias pelo professor ou um painel docente de moderação. Essas funcionalidades não foram confirmadas. O fluxo autenticado de emissão também ainda precisa ser inspecionado; a existência de seu acesso público está registrada em [E09](analise-documental.md#e09).
+
+## Relação com os demais perfis
+
+O cidadão com demanda ocasional de informação busca esclarecer uma questão; o participante cívico investigado expressa um posicionamento; o usuário de notícias reúne conteúdo para seu trabalho. O professor acrescenta a responsabilidade por uma atividade educativa coletiva e sua comprovação. Por isso, o perfil Professor é mantido como papel funcional distinto, sem unir os perfis existentes apenas pela condição comum de cidadão.
+
+Trata-se de usuário direto do serviço docente. A classificação em usuário primário ou secundário depende da frequência de uso (BARBOSA; SILVA, 2010, p. 136), não estabelecida pelas fontes. A prioridade de design é outra decisão: [Rafael Almeida](persona.md) é uma persona primária para o recorte da Oficina Legislativa, pois a coordenação da turma e sua comprovação não são atendidas pelos objetivos individuais das demais personas.
+
+## Abrangência e continuidade
+
+Este é um perfil documental do trabalho previsto. Não descreve uma pessoa entrevistada nem permite estimar a proporção de professores no público do portal. As características confirmadas das entrevistas anteriores permanecem preservadas em seus próprios registros.
+
+A [persona Rafael Almeida](persona.md), o [cenário da oficina](cenario.md) e a [análise de tarefas em HTA e CTT](analise-tarefas.md) utilizam esta base. Os artefatos distinguem responsabilidades do professor, dependências dos alunos e respostas esperadas do sistema. As escolhas narrativas estão identificadas e as [verificações necessárias](analise-documental.md#limites-e-verificacoes-necessarias) continuam explícitas; a modelagem documental não equivale a uma observação empírica.
 
 ## Agradecimentos
 
-Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo e a seleção das fontes documentais são do autor, que segue responsável pelo que está publicado.
+Este documento contou com apoio do Codex (OpenAI) na organização e redação. A responsabilidade pelo conteúdo é do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 26/09/2026 | Técnicas de elicitação e atributos do perfil estudante/pesquisador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 05/10/2026 | Define o perfil docente a partir de documentos e relaciona atributos, tarefa e necessidades às evidências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 05/10/2026 | Vincula persona, cenário e análise de tarefas ao perfil docente e explicita a prioridade de design | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 
-[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 134–138, 174–175.
 
-[2] HACKOS, JoAnn T.; REDISH, Janice C. User and task analysis for interface design. New York: John Wiley & Sons, 1998.
-
-[3] COURAGE, Catherine; BAXTER, Kathy. Understanding your users. San Francisco: Morgan Kaufmann, 2005.
-
-[4] CÂMARA DOS DEPUTADOS. Busca de proposições. Disponível em: https://www.camara.leg.br/busca-portal. Acesso em: 26 set. 2026.
-
-[5] LEXML BRASIL. Rede de informação legislativa e jurídica. Disponível em: https://www.lexml.gov.br/. Acesso em: 26 set. 2026.
+[2] GRUPO 06. [Análise documental — Professor](analise-documental.md#fontes-consultadas). Corpus D01–D06, consultado em 5 out. 2026. As fontes primárias e as páginas utilizadas estão identificadas nesse registro.

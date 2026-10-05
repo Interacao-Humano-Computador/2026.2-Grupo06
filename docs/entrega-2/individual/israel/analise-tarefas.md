@@ -12,6 +12,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | HTA | [HTA](analise-tarefas.md#analise-hierarquica-de-tarefas-hta) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | CTT | [CTT](analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt) |
 | Google Gemini | Redação preliminar e formatação Markdown | [Agradecimentos](analise-tarefas.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Conferência da origem dos dados e coerência com o perfil coletivo | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à conferência e redação das ressalvas | [Introdução](#introducao) |
+
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -19,6 +22,8 @@ A Tabela 1 registra quem atuou neste artefato.
 ## Introdução
 
 Esta página modela a tarefa do [cenário](cenario.md#narrativa): Marta Oliveira tentando verificar, no Portal do Senado Federal, se o auditório está disponível para uso — tarefa que ela não conclui. A modelagem usa duas técnicas: a Análise Hierárquica de Tarefas (HTA), que decompõe o objetivo em passos, e a Árvore de Tarefas Concorrentes (CTT), que descreve a ordem e a relação temporal entre esses passos.
+
+As [limitações da coleta](entrevista-observacao.md#limitacoes-da-coleta) identificam a sequência como reconstruída a partir de relatos de momentos distintos. Assim, as marcações de passos observados nas tabelas e diagramas abaixo não certificam uma cronologia diretamente observada. A modelagem deve ser lida com essa ressalva até a conferência dos registros originais. A tarefa expressa uma demanda de informação, sem comprovar serviço de reserva no portal.
 
 ## Tarefa analisada
 
@@ -32,7 +37,7 @@ A Tabela 2 registra os objetivos da análise.
 | Objetivo da análise | Entender em que passo a tarefa falha e por que a usuária desiste antes de concluir |
 | Evidência de sucesso | A usuária encontra uma resposta clara sobre a disponibilidade do auditório |
 | Consequência da falha | A usuária desiste da tarefa e recorre a um canal fora do site (ex.: perguntar a alguém, ligar) |
-| Fonte dos dados | Entrevista e observação com a participante da persona Marta Oliveira |
+| Fonte dos dados | Entrevista e sequência reconstruída no registro de P4; ver limitações da coleta |
 
 <p class="caption">Tabela 2 — Tarefa analisada e objetivos da análise.</p>
 <p class="source">Fonte: elaboração do autor (2026), com base em BARBOSA; SILVA (2010, p. 195).</p>
@@ -187,6 +192,8 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na r
 | `0.1` | 26/09/2026 | Estrutura inicial do artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 27/09/2026 | HTA e CTT preenchidas com a tarefa da persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 05/10/2026 | Explicita o limite da sequência reconstruída e corrige a identificação da fonte da tarefa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

@@ -12,13 +12,16 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Israel Soares](https://github.com/IsraelSoares-25) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
 | Google Gemini | Redação preliminar e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Conferência da origem dos dados e coerência com o perfil coletivo | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à conferência e redação das ressalvas | [Introdução](#introducao) |
+
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
 
 ## Introdução
 
-Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta, hoje, no Portal do Senado Federal, verificar a disponibilidade do auditório para uso pontual — e desiste no meio do caminho. A narrativa se apoia no que a participante relatou na entrevista e no que fez durante a [observação](entrevista-observacao.md#protocolo-de-observacao).
+Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta, hoje, no Portal do Senado Federal, verificar a disponibilidade do auditório para uso pontual — e desiste no meio do caminho. A narrativa se apoia no registro da entrevista. As [limitações da coleta](entrevista-observacao.md#limitacoes-da-coleta) esclarecem que a ordem dos passos foi reconstruída a partir de relatos de momentos distintos; a narrativa não constitui uma transcrição cronológica de comportamento observado. A data da sessão e a sequência exata ainda exigem conferência com os registros originais. Não se confirma a existência de reserva de auditório pelo portal.
 
 ## Identificação
 
@@ -81,6 +84,8 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na r
 | `0.2` | 27/09/2026 | Narrativa e análise preenchidas a partir da sessão com a persona Marta Oliveira | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Ajusta o título para descrever a situação: Marta desiste sem saber se o auditório está livre | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.0` | 05/10/2026 | Explicita a origem reconstruída do cenário e o limite de confirmação do serviço | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 

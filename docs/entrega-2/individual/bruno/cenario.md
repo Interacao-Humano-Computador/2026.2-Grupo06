@@ -12,13 +12,14 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Perguntas exploradas pelo cenário | [Perguntas](cenario.md#perguntas-exploradas) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Narrativa e análise do cenário | [Narrativa](cenario.md#narrativa) |
 | ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenario.md#agradecimentos) |
+| Codex (OpenAI) | Correções de consistência e rastreabilidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta descobrir hoje, no Portal do Senado Federal, se um projeto de lei que viu circular nas redes sociais foi aprovado. A narrativa se apoia no perfil de cidadã leiga da participante e nas tarefas levantadas na [sessão de entrevista e observação](entrevista-observacao.md), e segue a [estrutura dos cenários do grupo](../../cenarios.md#estrutura-dos-cenarios).
+Este é um **cenário de problema**: ele conta como a [persona](persona.md) tenta descobrir hoje, no Portal do Senado Federal, se um projeto de lei que viu circular nas redes sociais foi aprovado. A narrativa se apoia no perfil de cidadão leigo do participante P1 e nas tarefas levantadas na [sessão de entrevista e observação](entrevista-observacao.md), e segue a [estrutura dos cenários do grupo](../../cenarios.md#estrutura-dos-cenarios).
 
 ## Identificação
 
@@ -27,9 +28,9 @@ A Tabela 2 identifica o cenário.
 | Campo | Registro |
 | --- | --- |
 | Título | O badge "Em tramitação" não diz se a lei já vale |
-| Ator | [Mariana Costa](persona.md), assistente administrativa, 23 anos, cursando Administração (cidadã leiga) |
+| Ator | [Lucas Mendes](persona.md), 22 anos, caixa de supermercado e estudante de Ciências Econômicas (cidadão leigo) |
 | Objetivo principal | Saber se um projeto de lei sobre jornada de trabalho já foi aprovado, e o que ele muda na prática |
-| Situação inicial | Mariana está no computador do escritório durante o expediente. Viu mensagens no WhatsApp sobre um projeto de lei e quer confirmar na fonte oficial antes de comentar com os colegas |
+| Situação inicial | Lucas usa seu computador pessoal para esclarecer mensagens sobre a proposta de jornada 6×1, motivado pelo impacto sobre familiares e colegas de trabalho |
 | Tipo | Cenário de problema: situação atual, antes do reprojeto |
 | Sistema envolvido | Portal do Senado Federal, com foco na busca geral e na página de detalhes da matéria |
 | Tarefa modelada | [Análise de tarefas (HTA e CTT)](analise-tarefas.md) |
@@ -42,48 +43,45 @@ A Tabela 2 identifica o cenário.
 Como no Exemplo 6.5 do livro, as perguntas abaixo expressam o que o cenário precisa esclarecer. Na narrativa, o número de cada pergunta aparece entre colchetes logo depois do trecho que a responde (BARBOSA; SILVA, 2010, p. 189–190).
 
 1. O que leva a persona a acessar o portal e em que contexto isso acontece?
-2. Por onde ela chega ao site do Senado?
-3. Que termos ela usa para buscar?
-4. Como ela interpreta a lista de resultados misturada entre notícias, proposições e pronunciamentos?
-5. O que ela faz na página da matéria para entender o status do projeto?
-6. Como ela sabe se o objetivo foi alcançado — se a lei já vale ou não?
-7. O que ela faz com a informação depois de terminar a busca?
+2. Por onde Lucas chega ao site do Senado?
+3. Que termos Lucas usa para buscar?
+4. Como Lucas interpreta a lista de resultados misturada entre notícias, proposições e pronunciamentos?
+5. O que Lucas faz na página da matéria para entender o status do projeto?
+6. Como Lucas sabe se o objetivo foi alcançado — se a lei já vale ou não?
+7. O que Lucas faz com a informação depois de terminar a busca?
 8. Quem mais se interessa pelo resultado da consulta?
 9. Em que pontos o portal atrapalha ou força a persona a contornar algo?
 
 ## Narrativa
 
-A narrativa é um cenário de problema: conta a atividade como ela existe hoje, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). O número entre colchetes aponta a pergunta da lista acima, como no Exemplo 6.5 (p. 190). O caminho até a lista de resultados e o comportamento na página da matéria refletem o funcionamento real da busca do portal. O que Mariana faz com a informação depois da sessão vem do perfil levantado na entrevista; as limitações do que foi observado estão na [página da sessão](entrevista-observacao.md).
+O cenário representa o problema registrado na sessão de P1, antes de qualquer reprojeto (BARBOSA; SILVA, 2010, p. 184). Os números entre colchetes relacionam a narrativa às perguntas acima. A sequência deriva da [Tabela 5 da observação](entrevista-observacao.md#registro-da-observacao); a alternativa de compartilhar notícia externa foi relatada, não executada na observação. O detalhamento operacional está na [HTA e CTT](analise-tarefas.md).
 
-**O badge "Em tramitação" não diz se a lei já vale**
+**O badge “Em tramitação” não diz se a lei já vale**
 
-Atores: Mariana Costa (cidadã leiga)
+**Ator:** Lucas Mendes, cidadão leigo representado a partir de P1.
 
-No meio do expediente, Mariana recebe no WhatsApp uma sequência de mensagens do grupo da família sobre um projeto de lei que mudaria a jornada de trabalho [1] [8]. Algumas pessoas dizem que já foi aprovado; outras, que ainda não. Ela quer confirmar antes de opinar [1]. Abre o Chrome no computador do escritório, não sabe o endereço do Senado de cor e digita "senado projeto jornada de trabalho" no Google [2] [3]. Clica no primeiro resultado institucional [2].
+Lucas acompanha mensagens da família sobre a proposta de mudança da jornada 6×1. Como o tema afeta familiares e colegas de trabalho, quer confirmar a situação na fonte oficial antes de opinar ou compartilhar uma informação [1] [8]. Ele usa seu computador pessoal e recorre ao Google, pois não conhece o endereço do Senado de memória [2]. Sua busca por “senado jornada de trabalho” o leva a uma notícia do Senado [3].
 
-A página inicial do portal carrega com um menu de navegação horizontal fixo no topo e quatro atalhos principais — "Conheça os Senadores", "Veja as ações institucionais", "Acompanhe a atividade legislativa" e "Transparência e prestação de contas" — e um botão de lupa com o rótulo "Buscar" à direita [9]. Mariana não vê um campo de texto aberto; clica na lupa, e um overlay se expande por toda a largura do cabeçalho com o campo "Buscar" e a instrução "Aperte o Enter para buscar ou Esc para fechar" [4]. Ela digita "jornada de trabalho" e aperta Enter [3].
+A notícia não encerra sua dúvida. Lucas procura a proposição e encontra dificuldade para distinguir notícias, pronunciamentos e propostas legislativas nos resultados. Sem compreender a diferença entre PL e PEC, seleciona uma matéria que lhe parece relacionada ao assunto [4] [9]. O registro da sessão identifica o PL 5253/2026 como resultado escolhido; essa seleção não comprova que corresponda à PEC inicialmente procurada.
 
-A busca leva para uma página separada (`senado.leg.br/busca`) com seis abas: **Tudo** (ativa por padrão), **Notícias** (5.736), **Proposições** (746), **Senadores** (16), **Pronunciamentos** (3.198), **Legislação** (1.142) e um menu "Mais" [4]. Na aba "Tudo", os resultados misturam notícias da Agência Senado, discursos em plenário e projetos de lei, cada um com um badge laranja "Em tramitação" e a identificação em código — "PL 5253/2026", "PEC 438/2023" — seguida do nome do senador autor e da ementa jurídica [4] [9]. Mariana não sabe o que distingue um PL de uma PEC [3]. Ela não usa os botões "Classificar por" e "Filtros" porque não entende o que "fase da instrução" ou "relator" significam [9]. Percorre a lista e clica no resultado cujo título parece mais próximo do que viu nas mensagens [4].
+O resumo da proposta ajuda Lucas a conhecer seu conteúdo, mas não responde à pergunta sobre a situação atual. As expressões “Em tramitação” e “AGUARDANDO DESPACHO” também não lhe permitem concluir se a proposta foi aprovada. Ele examina o histórico de tramitação, mas continua sem compreender a resposta [5] [6] [9].
 
-Abre a página do projeto, que traz no topo o título formal ("Projeto de Lei nº 5253, de 2026"), o autor e uma ementa técnica. Logo abaixo, uma caixa "Entenda a proposta" recolhida, gerada por IA, com "O que é" e "O que diz o autor". Mariana a abre e lê um resumo em linguagem mais simples — mas a caixa descreve o texto inicial do projeto, não o estado atual da tramitação [5]. Na sequência, um cartão "Situação Atual" exibe o badge amarelo **"Em tramitação"**, o campo "Último local" — "Plenário do Senado Federal (Secretaria Legislativa do Senado Federal)" — e "Último estado" — **"AGUARDANDO DESPACHO"** — com a data [5] [9]. Ela não sabe se "aguardando despacho" quer dizer que o projeto está prestes a ser votado ou que ficará parado por meses [5] [6].
-
-Rola a página, abre a seção "Tramitação" e vê uma tabela com o código do órgão ("PLEN"), a situação ("AGUARDANDO DESPACHO") e uma nota técnica ("Autuado o Projeto de Lei nº 5253/2026. O projeto vai à publicação.") [5] [9]. Não há explicação de onde o projeto está na fila de votação nem um indicador de quantas etapas faltam. Ela fecha a aba [6] e manda para o grupo do WhatsApp o link de uma matéria de portal jornalístico que leu antes, porque o Senado não deu a resposta que ela precisava [7] [8].
+Lucas encerra a tentativa sem alcançar seu objetivo. Diz que recorreria a uma notícia de outro veículo para explicar o assunto à família [7] [8]. Essa alternativa é sua estratégia relatada para lidar com a dificuldade, não um compartilhamento observado durante a tarefa.
 
 ## Análise do cenário
 
-Como no Exemplo 6.4, estes pontos são problemáticos e o reprojeto precisa considerá-los (BARBOSA; SILVA, 2010, p. 185):
+- A entrada ocorre pelo Senado Notícias, a partir do Google; o fluxo não começa na página inicial institucional.
+- A distinção entre notícia e proposição e entre PL e PEC interfere na escolha do documento correto.
+- O resumo do conteúdo não resolve a necessidade de compreender o estado atual da proposição.
+- Os estados técnicos e o histórico não permitem a P1 formular uma resposta compreensível sobre a aprovação.
+- A tarefa termina sem resposta. Não há evidência de que P1 tenha tentado filtros durante a observação, nem de que tenha compartilhado uma notícia naquele momento.
 
-- o campo de busca não é visível por padrão; ele fica oculto atrás de um botão de lupa, o que atrasa quem entra no portal para pesquisar;
-- a lista de resultados na aba "Tudo" mistura notícias, pronunciamentos e proposições sem distinção visual entre os tipos; quem não conhece as siglas PL, PEC e PLP não sabe o que está abrindo;
-- os botões "Classificar por" e "Filtros" existem, mas os critérios disponíveis — fase da instrução, relator — exigem conhecimento regimental que o cidadão leigo não tem;
-- o cartão "Situação Atual" exibe o badge "Em tramitação" e o estado "AGUARDANDO DESPACHO" sem explicar o que cada etapa significa ou em que ponto do ciclo legislativo o projeto está;
-- a seção "Entenda a proposta", gerada por IA, descreve o texto inicial, não o estado atual; uma cidadã leiga que a abre achando que encontrará a resposta sobre aprovação sai frustrada.
-
-Como no Exemplo 6.5, pensar nas perguntas mostra lacunas (BARBOSA; SILVA, 2010, p. 190–191). A pergunta 6 fica sem resposta no portal: Mariana não consegue saber se a lei já vale. A pergunta 7 mostra que a tarefa falhou: a referência que ela compartilhou veio de um veículo externo, não do portal oficial. Esses dois pontos concentram o maior potencial de melhoria no reprojeto.
+A tarefa precisa distinguir identificação da proposição correta, entendimento da tramitação e eventual vigência de uma norma. O cenário preserva a dúvida de Lucas sobre “a lei já valer”, sem equiparar aprovação a entrada em vigor. As perguntas 6 e 7 mostram o resultado da tentativa e a alternativa relatada. As dificuldades documentadas orientam os requisitos; nenhuma solução nova foi testada nesta sessão.
 
 ## Agradecimentos
 
 Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a observação do comportamento real do portal e a coleta que sustenta a narrativa são do autor, que segue responsável pelo que está publicado.
+
 
 ## Histórico de versão
 
@@ -93,6 +91,7 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 | `0.2` | 26/09/2026 | Narrativa e análise a partir do perfil da sessão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 26/09/2026 | Narrativa revisada com o comportamento real do portal verificado; análise do cenário alinhada às perguntas exploradas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 05/10/2026 | Alinha cenário a Lucas e ao percurso de P1; separa narrativa, operações e alternativa relatada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
