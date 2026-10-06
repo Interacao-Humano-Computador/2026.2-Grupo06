@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Transposição da lista oficial e preenchimento dos itens | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Itens de conteúdo da disciplina | [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Preenchimento das respostas com base na reunião de inspeção de 27/09/2026 e gravação do vídeo de verificação | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto), [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) e [Vídeo](lista-verificacao.md#video-de-verificacao) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 18 sobre os tipos de tarefa da CTT | [Item 18](lista-verificacao.md#item-18-luis-henrique-luna-de-arruda) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -100,7 +101,7 @@ A Tabela 4 reúne os itens adicionais de verificação definidos pelo próprio G
 | 15 | Cada análise hierárquica de tarefas (HTA) relaciona: (1) o que as pessoas fazem (ou se recomenda que façam); (2) por que o fazem; e (3) quais as consequências caso não o façam corretamente? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 16 | a preencher | — | — | [Heitor Pinheiro](https://github.com/heitor-pinheiro) |
 | 17 | a preencher | — | — | [Israel Soares](https://github.com/israel-soares) |
-| 18 | a preencher | — | — | [Luis Henrique](https://github.com/luis-henrique) |
+| 18 | Nos diagramas CTT, cada tarefa está classificada em um dos quatro tipos da notação, de acordo com sua natureza: (1) tarefa do usuário, realizada fora do sistema; (2) tarefa do sistema, processada sem interação com o usuário; (3) tarefa interativa, composta por diálogo entre usuário e sistema; ou (4) tarefa abstrata, que representa uma composição de tarefas? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -156,11 +157,17 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 
 **Trecho do livro:** a preencher
 
-### Item 18 — Luis Henrique
+### Item 18 — Luís Henrique Luna de Arruda
 
-**Referência:** a preencher
+**Referência:**
 
-**Trecho do livro:** a preencher
+RAPOSO, Alberto. *Análise e Modelos de tarefas*. INF1403 – Introdução à Interação Humano-Computador. Rio de Janeiro: Departamento de Informática, PUC-Rio. Material didático, slide 38. Disponível em: <https://web.tecgraf.puc-rio.br/~abraposo/inf1403/INF1403_13_tarefas.pdf>. Acesso em: 22 set. 2026. Notação baseada em PATERNÒ, Fabio. *Model-Based Design and Evaluation of Interactive Applications*. London: Springer-Verlag, 2000. Cap. 4.
+
+**Fundamentação:** na notação CTT, cada tarefa recebe um de quatro tipos, e cada tipo tem um ícone próprio. A tarefa do usuário acontece fora do sistema, como ler ou decidir. A tarefa do sistema é processada sem interação com o usuário. A tarefa interativa é um diálogo entre usuário e sistema. A tarefa abstrata agrupa outras tarefas. É o tipo que diz, no diagrama, quem faz cada parte da atividade.
+
+O item 18 complementa o item oficial 11, que confere se cada integrante modelou uma atividade em HTA e CTT, e o item 15, que trata da HTA: aqui se confere se o diagrama CTT usa os tipos de tarefa da notação.
+
+**Como verificar:** abrir a análise de tarefas de cada integrante, a partir da [análise de tarefas do grupo](../../../entrega-2/analise-tarefas.md), e conferir o ícone e o rótulo de cada nó do diagrama CTT. Considerar **Sim** quando todas as tarefas têm o tipo coerente com o que descrevem; **Incompleto** quando parte das tarefas está sem tipo ou com o tipo trocado, por exemplo uma leitura feita pelo usuário marcada como tarefa do sistema; e **Não** quando os diagramas não diferenciam os tipos.
 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -170,6 +177,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 | `1.2` | 01/10/2026 | Preenchimento dos itens de desenvolvimento e de conteúdo com base na reunião de inspeção de 27/09/2026 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 05/10/2026 | Corrige data e hora de cada item conforme a transcrição da inspeção e adiciona data da gravação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 06/10/2026 | Adiciona o item 18 sobre os tipos de tarefa da CTT | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

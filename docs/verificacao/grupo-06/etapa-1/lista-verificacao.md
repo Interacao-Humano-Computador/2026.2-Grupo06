@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento e atualização da lista da Etapa 1 | [Planejamento geral](lista-verificacao.md#itens-do-planejamento-geral) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e atributo de versão, data e hora | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 5 sobre a classificação do método de avaliação | [Item 5](lista-verificacao.md#item-5-luis-henrique-luna-de-arruda) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -100,6 +101,7 @@ A Tabela 5 reúne os itens adicionais de verificação definidos pelo próprio G
 | :---: | --- | :---: | :---: | --- |
 | 3 | O planejamento da avaliação de cada site candidato cobre as seis atividades do framework DECIDE: (1) determinar os objetivos; (2) explorar as perguntas a serem respondidas; (3) escolher os métodos; (4) identificar e administrar as questões práticas; (5) decidir como lidar com as questões éticas; e (6) avaliar, interpretar e apresentar os dados? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 4 | Na inspeção dos sites candidatos, a severidade de cada problema de usabilidade é julgada pelos três fatores de Nielsen (1994): (1) a frequência com que o problema ocorre; (2) o impacto do problema, se ocorrer; e (3) a persistência do problema? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 5 | O planejamento da avaliação de cada site candidato identifica o método de avaliação de IHC utilizado, classificando-o como (1) método de investigação; (2) método de observação de uso; ou (3) método de inspeção? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 5 — Itens elaborados pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -130,6 +132,18 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 <p class="caption">Figura 2 — Barbosa e Silva (2010), p. 284. Trecho: “o julgamento da severidade de um problema de usabilidade envolve três fatores: a frequência com que o problema ocorre; o impacto do problema, se ocorrer; a persistência do problema.”</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 284).</p>
 
+### Item 5 — Luís Henrique Luna de Arruda
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 11, seção 11.6, p. 272.
+
+**Fundamentação:** na seção 11.6, os autores dividem os métodos de avaliação de IHC em três grupos. Os métodos de investigação usam técnicas como entrevista, questionário, grupo de foco, estudo de campo e investigação contextual. Os de observação de uso registram o que o usuário faz, em contexto real ou em laboratório. Os de inspeção têm um avaliador examinando a interface, em geral sem a participação de usuários. Saber em qual grupo está o método é o que permite conferir se ele responde aos objetivos da avaliação.
+
+O item 5 complementa o item 3: o item 3 confere se o planejamento passa pelas seis atividades do DECIDE, e o item 5 confere se o método escolhido na atividade "escolher os métodos" foi identificado e classificado.
+
+**Como verificar:** consultar os [sites avaliados](../../../entrega-1/sites-avaliados.md) e o planejamento de cada inspeção individual. Considerar **Sim** quando todos os planejamentos nomeiam o método e o situam em um dos três grupos; **Incompleto** quando só parte deles faz isso, ou quando o método é nomeado sem ser classificado; e **Não** quando nenhum planejamento identifica o método.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -143,6 +157,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 | `1.6` | 05/09/2026 | Atualização do status do vídeo de apresentação para concluído | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 06/09/2026 | Adição do vídeo de verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.8` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.9` | 06/10/2026 | Adiciona o item 5 sobre a classificação do método de avaliação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

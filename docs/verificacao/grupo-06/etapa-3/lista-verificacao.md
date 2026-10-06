@@ -10,7 +10,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Transposição da lista oficial da Etapa 3 do plano de ensino | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Estrutura dos itens adicionais e elaboração do item 18 | [Itens elaborados pelo grupo](#itens-elaborados-pelo-grupo) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Elaboração do item 19 sobre possibilidades e limitações da plataforma como insumo das metas | [Item 19](#item-19-caio-breno-de-souza-bezerra) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração do item 20 sobre rastreabilidade e design rationale no guia de estilo | [Item 20](#item-20-heitor-pinheiro-goncalves-das-chagas) |
+| [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais | [Item 22](#item-22-luis-henrique-luna-de-arruda) |
 | Codex (OpenAI) | Apoio à redação e conferência da fundamentação bibliográfica | [Item 18](#item-18-bruno-ferreira-dornelas) |
 
 
@@ -75,13 +77,13 @@ A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo for
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor |
 | :---: | --- | :---: | :---: | --- |
 | 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 19 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 19 | As características da plataforma registram (1) as possibilidades e (2) as limitações da plataforma em que o sistema será executado, e as metas de usabilidade são definidas levando em conta essas características, junto com os demais insumos da análise de requisitos: perfil do usuário, análise de tarefas e princípios gerais de projeto? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 20 | O Guia de Estilo registra o design rationale das decisões de design, estabelecendo a rastreabilidade entre os elementos de interface/interação e os resultados do perfil de usuário, da análise de tarefas e da plataforma? | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | 21 | Os Princípios Gerais do Projeto explicitam quais diretrizes e princípios de IHC foram selecionados para a aplicação, justificando suas escolhas com base nas necessidades dos usuários e na literatura de referência? | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
-| 22 | a preencher | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| 22 | Cada tópico dos Princípios Gerais do Projeto é explicado pelas diretrizes que o compõem e ilustrado com ao menos um exemplo concreto de como o tópico se manifesta, ou deveria se manifestar, na interação ou na interface do site avaliado? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106); item 20 fundamentado em BARBOSA; SILVA (2010, p. 283).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106); item 19 fundamentado em BARBOSA; SILVA (2010, p. 109–110); item 20 fundamentado em BARBOSA; SILVA (2010, p. 283); item 22 fundamentado em BARBOSA et al. (2021, p. 237–238).</p>
 
 ### Item 18 — Bruno Ferreira Dornelas
 
@@ -107,6 +109,30 @@ O item 18 complementa os itens oficiais 13 e 14: verifica a possibilidade de med
 <p class="caption">Figura 2 — Faixas de aceitação e indicadores de usabilidade.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 106), recorte do livro.</p>
 
+### Item 19 — Caio Breno de Souza Bezerra
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 109–110.
+
+**Fundamentação:** na engenharia de usabilidade de Mayhew, "na fase de **análise de requisitos** são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC" (BARBOSA; SILVA, 2010, p. 109). Na Figura 4.7 do livro, a caixa *características da plataforma* aparece ao lado das outras três e todas apontam para as *metas de usabilidade* (BARBOSA; SILVA, 2010, p. 110). Ou seja, a plataforma tem duas faces a registrar, o que ela permite e o que ela limita, e esse registro é um insumo das metas, não uma página isolada.
+
+O item 19 complementa o item oficial 10, que confere se as características da plataforma existem, e o item 18, que confere se as metas são mensuráveis. Aqui se confere se a plataforma foi descrita pelas possibilidades e limitações e se ela chega às metas.
+
+**Como verificar:** consultar as [Características da plataforma](../../../entrega-3/plataforma.md) e as [Metas de usabilidade](../../../entrega-3/metas-usabilidade.md). Considerar **Sim** quando a plataforma registra possibilidades e limitações, com evidência, e ao menos uma meta de usabilidade cita uma possibilidade ou limitação da plataforma na sua definição ou justificativa; **Incompleto** quando só uma das duas faces é registrada, ou quando as duas estão registradas mas nenhuma meta se apoia nelas; e **Não** quando a plataforma não é descrita por possibilidades e limitações.
+
+**Trechos do livro:**
+
+![Barbosa e Silva (2010), p. 109: na análise de requisitos de Mayhew, as metas de usabilidade são definidas com base no perfil, nas tarefas, nas possibilidades e limitações da plataforma e nos princípios gerais.](../../../assets/img/referencias/barbosa-plataforma-p109.png)
+
+<p class="caption">Figura 3 — Possibilidades e limitações da plataforma como base das metas de usabilidade.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 109), recorte do livro.</p>
+
+![Barbosa e Silva (2010), p. 110: recorte da Figura 4.7, em que perfil do usuário, análise de tarefas, características da plataforma e princípios gerais de projeto alimentam as metas de usabilidade.](../../../assets/img/referencias/barbosa-plataforma-figura47-p110.png)
+
+<p class="caption">Figura 4 — Características da plataforma na fase de análise de requisitos.</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 110), recorte do livro.</p>
+
 ### Item 20 — Heitor Pinheiro Gonçalves das Chagas
 
 **Referência:**
@@ -128,11 +154,11 @@ Consultar o artefato [Guia de Estilo](../../../entrega-3/guia-de-estilo.md) e ex
 
 **Trecho do livro:**
 
-A Figura 3 reproduz o trecho da página 283 do livro em que a estrutura e a recomendação de Mayhew (1999) sobre o *design rationale* são apresentadas.
+A Figura 5 reproduz o trecho da página 283 do livro em que a estrutura e a recomendação de Mayhew (1999) sobre o *design rationale* são apresentadas.
 
 ![Barbosa e Silva (2010), p. 283: estrutura do guia de estilo e recomendação de Mayhew sobre design rationale.](../../../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png)
 
-<p class="caption">Figura 3 — Estrutura e rastreabilidade (design rationale) no Guia de Estilo.</p>
+<p class="caption">Figura 5 — Estrutura e rastreabilidade (design rationale) no Guia de Estilo.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 283), recorte do livro.</p>
 
 ### Item 21 — Israel Soares de Paiva
@@ -160,11 +186,23 @@ Consultar o artefato [Princípios Gerais](../../../entrega-3/principios-gerais.m
 > A resposta verifica a escolha e a justificativa, não a aplicação posterior dos princípios no Guia de Estilo.
 
 **Trecho do livro:**
-A Figura 4 reproduz o trecho da página 238 que apresenta os tópicos como princípios comumente utilizados em IHC.
+A Figura 6 reproduz o trecho da página 238 que apresenta os tópicos como princípios comumente utilizados em IHC.
 
 ![Barbosa e Silva (2010), p. 238](../../../assets/img/referencias/princípio-gerais-10.2.png)
-<p class="caption">Figura 4 — Tópicos dos princípios e diretrizes gerais de IHC.</p> 
+<p class="caption">Figura 6 — Tópicos dos princípios e diretrizes gerais de IHC.</p> 
 <p class="source">Fonte: BARBOSA et al. (2021, p. 238), recorte do livro.</p>
+
+### Item 22 — Luís Henrique Luna de Arruda
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 10, seções 10.1 e 10.2, p. 237–238.
+
+**Fundamentação:** o livro afirma que diretrizes "frequentemente são recomendações genéricas e descontextualizadas" e que cabe ao designer considerar "se e quais diretrizes são adequadas à sua situação de design, e como elas devem se manifestar na solução de IHC" (BARBOSA et al., 2021, p. 238). Ao listar os tópicos, o livro avisa que as subseções seguintes "apresentam algumas diretrizes e ilustram como podem ser utilizadas no design da interação e da interface" (BARBOSA et al., 2021, p. 238). Ou seja, cada tópico vem acompanhado das diretrizes que o detalham e de um exemplo de uso.
+
+O item 22 complementa os itens oficiais 11 e 12 e o item 21. O item 12 confere se os tópicos estão presentes, e o item 21 se os princípios foram escolhidos e justificados. O item 22 confere a parte de *como o tópico se manifesta*: se cada tópico foi explicado pelas suas diretrizes e ligado a uma situação real do Portal do Senado Federal.
+
+**Como verificar:** consultar os [Tópicos dos princípios gerais](../../../entrega-3/topicos-principios.md) e conferir, tópico por tópico, se há (1) a explicação das diretrizes do tópico, com página do livro, e (2) um exemplo do portal, observado nas sessões com usuários ou na inspeção. Considerar **Sim** quando todos os tópicos têm os dois elementos; **Incompleto** quando falta a explicação ou o exemplo em parte dos tópicos, ou quando o exemplo é genérico e não aponta uma tela ou situação do portal; e **Não** quando os tópicos aparecem só listados.
 
 ## Agradecimentos
 
@@ -177,9 +215,13 @@ Este documento contou com apoio de inteligência artificial na organização e r
 | `1.0` | 05/10/2026 | Transposição da lista oficial da Entrega 3 para o site | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/10/2026 | Adiciona tabela de itens do grupo e item 18 sobre avaliação das metas, com referência e recortes das páginas 105–106 do livro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/10/2026 | Adiciona o item 20 sobre rastreabilidade e design rationale no guia de estilo, com referência e recorte da página 283 do livro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 06/10/2026 | Adiciona o item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais no site avaliado | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 06/10/2026 | Adiciona o item 19 sobre possibilidades e limitações da plataforma como insumo das metas, com recortes das páginas 109–110 do livro, e renumera as figuras dos itens 20 e 21 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106, 283.
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106, 109–110, 283.
+
+[3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. p. 237–238.
