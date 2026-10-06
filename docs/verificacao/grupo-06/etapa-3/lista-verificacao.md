@@ -151,7 +151,7 @@ A inclusão e verificação deste item justificam-se pelo papel estratégico que
 
 **Como verificar:**
 
-Consultar o artefato [Princípios Gerais](../../../entrega-3/princípio.md) e examinar a lista de princípios adotados e a seção de princípios não priorizados:
+Consultar o artefato [Princípios Gerais](../../../entrega-3/principio.md) e examinar a lista de princípios adotados e a seção de princípios não priorizados:
 
 **Sim**: quando cada princípio adotado tem uma justificativa ligada ao perfil do usuário ou a uma dificuldade observada no site avaliado, e cada princípio não adotado tem o motivo registrado;
 **Incompleto**: quando os princípios adotados estão listados, mas a justificativa é genérica ou existe só para parte deles, ou quando os princípios não adotados não são mencionados;
