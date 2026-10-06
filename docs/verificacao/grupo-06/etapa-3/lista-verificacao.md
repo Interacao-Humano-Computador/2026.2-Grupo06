@@ -77,7 +77,7 @@ A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo for
 | 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 19 | a preencher | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 20 | O Guia de Estilo registra o design rationale das decisões de design, estabelecendo a rastreabilidade entre os elementos de interface/interação e os resultados do perfil de usuário, da análise de tarefas e da plataforma? | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
-| 21 | a preencher | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| 21 | Os Princípios Gerais do Projeto explicitam quais diretrizes e princípios de IHC foram selecionados para a aplicação, justificando suas escolhas com base nas necessidades dos usuários e na literatura de referência? | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | 22 | a preencher | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
@@ -134,6 +134,37 @@ A Figura 3 reproduz o trecho da página 283 do livro em que a estrutura e a reco
 
 <p class="caption">Figura 3 — Estrutura e rastreabilidade (design rationale) no Guia de Estilo.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 283), recorte do livro.</p>
+
+### Item 21 — Israel Soares de Paiva
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 283.
+
+**Fundamentação:**
+
+A inclusão e verificação deste item justificam-se pelo papel estratégico que os princípios e diretrizes de Interação Humano-Computador (IHC) desempenham na concepção de sistemas interativos:
+
+1. **Diferenciação e Propósito dos Princípios e Diretrizes:** Na literatura de IHC, **princípios** representam objetivos gerais e de alto nível para o design de interfaces, enquanto **diretrizes** (*guidelines*) constituem recomendações práticas derivadas da experiência consolidada por autores clássicos da área (como Norman, Nielsen, Shneiderman e Tognazzini). O objetivo central de adotar esses princípios é orientar a construção de um modelo conceitual claro, que o usuário consiga apreender rapidamente e sem dificuldades durante a interação.
+2. **Necessidade de Seleção e Justificativa Contextualizada:** A literatura ressalta que o uso de princípios e diretrizes não substitui o ciclo completo de análise, design e avaliação de IHC. Como diretrizes costumam ser genéricas, descontextualizadas e, por vezes, conflitantes entre si, cabe ao designer analisar criticamente e selecionar quais princípios são adequados à situação específica do projeto. Essa escolha deve ser formalmente justificada com base no domínio do problema, no perfil do usuário e nas suas necessidades reais.
+3. **Design Reflexivo e Rastreabilidade (** **Design Rationale** **):** A formalização dos princípios adotados impede que o desenvolvimento se limite a uma aplicação mecânica ou arbitrária de regras visuais. Além disso, registrar a justificativa das escolhas estabelece o *design rationale* (a motivação por trás das decisões de design), garantindo a rastreabilidade entre as necessidades dos usuários levantadas na análise e os elementos concretos de interface projetados
+
+**Como verificar:**
+
+Consultar o artefato [Princípios Gerais](../../../entrega-3/princípio.md) e examinar a lista de princípios adotados e a seção de princípios não priorizados:
+
+**Sim**: quando cada princípio adotado tem uma justificativa ligada ao perfil do usuário ou a uma dificuldade observada no site avaliado, e cada princípio não adotado tem o motivo registrado;
+**Incompleto**: quando os princípios adotados estão listados, mas a justificativa é genérica ou existe só para parte deles, ou quando os princípios não adotados não são mencionados;
+**Não**: quando o artefato apenas copia os tópicos do livro, sem declarar quais serão usados nem por quê.
+
+> A resposta verifica a escolha e a justificativa, não a aplicação posterior dos princípios no Guia de Estilo.
+
+**Trecho do livro:**
+A Figura 4 reproduz o trecho da página 238 que apresenta os tópicos como princípios comumente utilizados em IHC.
+
+![Barbosa e Silva (2010), p. 238](../../../assets/img/referencias/princípio-gerais-10.2.png)
+<p class="caption">Figura 4 — Tópicos dos princípios e diretrizes gerais de IHC.</p> 
+<p class="source">Fonte: BARBOSA et al. (2021, p. 238), recorte do livro.</p>
 
 ## Agradecimentos
 
