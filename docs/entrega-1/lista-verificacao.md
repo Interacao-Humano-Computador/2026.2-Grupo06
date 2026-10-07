@@ -42,7 +42,7 @@ A Tabela 2 lista os itens de desenvolvimento do projeto avaliados na Entrega 1.
 | 6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Cronograma executado](cronograma.md#cronograma-executado) |
 | 7 | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc)? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md) |
 | 8 | A gravação da reunião do grupo? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#gravacao) |
-| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Incompleto | `v1.0` — 05/09/2026 às 21:00 | [Apresentação](../apresentacoes/etapa-01.md) (Previsto no cronograma) |
+| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Sim | `v1.6` — 05/09/2026 às 22:15 | [Apresentação](../apresentacoes/etapa-01.md) |
 | 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver? | Sim | `v1.5` — 05/09/2026 às 21:55 | Início de cada artefato e [Apresentação da Etapa 1](../apresentacoes/etapa-01.md) |
 | 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | `v1.1` — 05/09/2026 às 21:00 | [Ata 01](../atas/ata-01.md#agradecimentos) |
 
@@ -61,6 +61,19 @@ A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 <p class="caption">Tabela 3 — Itens de conteúdo da disciplina na Entrega 1.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
+## Itens elaborados pelo grupo
+
+A Tabela 4 reúne os itens adicionais de verificação definidos pelo próprio Grupo 06 para a Entrega 1.
+
+| # | Item | Resposta | Versão, data e hora da avaliação | Autor |
+| :---: | --- | :---: | :---: | --- |
+| 3 | O planejamento da avaliação de cada site candidato cobre as seis atividades do framework DECIDE: (1) determinar os objetivos; (2) explorar as perguntas a serem respondidas; (3) escolher os métodos; (4) identificar e administrar as questões práticas; (5) decidir como lidar com as questões éticas; e (6) avaliar, interpretar e apresentar os dados? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 4 | Na inspeção dos sites candidatos, a severidade de cada problema de usabilidade é julgada pelos três fatores de Nielsen (1994): (1) a frequência com que o problema ocorre; (2) o impacto do problema, se ocorrer; e (3) a persistência do problema? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 5 | O planejamento da avaliação de cada site candidato identifica o método de avaliação de IHC utilizado, classificando-o como (1) método de investigação; (2) método de observação de uso; ou (3) método de inspeção? | Sim | `v1.9` — 06/10/2026 às 20:30 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+
+<p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -71,6 +84,7 @@ A Tabela 3 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 | `1.3` | 05/09/2026 | Preenchimento dos itens concluídos da lista de verificação da Entrega 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/09/2026 | Adição do atributo de Versão, data e hora da avaliação e alinhamento com a lista oficial | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 05/09/2026 | Atualiza o item 10 para a tabela no início de cada artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.6` | 06/10/2026 | Alinha status do vídeo de apresentação e preenche os itens elaborados pelo grupo (itens 3, 4 e 5) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

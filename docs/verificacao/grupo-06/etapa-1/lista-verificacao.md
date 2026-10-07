@@ -9,7 +9,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Preenchimento e atualização da lista da Etapa 1 | [Planejamento geral](lista-verificacao.md#itens-do-planejamento-geral) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e atributo de versão, data e hora | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Alinhamento da lista oficial e preenchimento dos itens elaborados pelo grupo | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Itens do grupo](lista-verificacao.md#itens-elaborados-pelo-grupo) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 5 sobre a classificação do método de avaliação | [Item 5](lista-verificacao.md#item-5-luis-henrique-luna-de-arruda) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -99,9 +99,9 @@ A Tabela 5 reúne os itens adicionais de verificação definidos pelo próprio G
 
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor |
 | :---: | --- | :---: | :---: | --- |
-| 3 | O planejamento da avaliação de cada site candidato cobre as seis atividades do framework DECIDE: (1) determinar os objetivos; (2) explorar as perguntas a serem respondidas; (3) escolher os métodos; (4) identificar e administrar as questões práticas; (5) decidir como lidar com as questões éticas; e (6) avaliar, interpretar e apresentar os dados? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 4 | Na inspeção dos sites candidatos, a severidade de cada problema de usabilidade é julgada pelos três fatores de Nielsen (1994): (1) a frequência com que o problema ocorre; (2) o impacto do problema, se ocorrer; e (3) a persistência do problema? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 5 | O planejamento da avaliação de cada site candidato identifica o método de avaliação de IHC utilizado, classificando-o como (1) método de investigação; (2) método de observação de uso; ou (3) método de inspeção? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| 3 | O planejamento da avaliação de cada site candidato cobre as seis atividades do framework DECIDE: (1) determinar os objetivos; (2) explorar as perguntas a serem respondidas; (3) escolher os métodos; (4) identificar e administrar as questões práticas; (5) decidir como lidar com as questões éticas; e (6) avaliar, interpretar e apresentar os dados? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 4 | Na inspeção dos sites candidatos, a severidade de cada problema de usabilidade é julgada pelos três fatores de Nielsen (1994): (1) a frequência com que o problema ocorre; (2) o impacto do problema, se ocorrer; e (3) a persistência do problema? | Sim | `v1.2` — 05/09/2026 às 21:00 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 5 | O planejamento da avaliação de cada site candidato identifica o método de avaliação de IHC utilizado, classificando-o como (1) método de investigação; (2) método de observação de uso; ou (3) método de inspeção? | Sim | `v1.9` — 06/10/2026 às 20:30 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 5 — Itens elaborados pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -158,6 +158,7 @@ O item 5 complementa o item 3: o item 3 confere se o planejamento passa pelas se
 | `1.7` | 06/09/2026 | Adição do vídeo de verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.8` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 06/10/2026 | Adiciona o item 5 sobre a classificação do método de avaliação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 06/10/2026 | Preenchimento dos itens adicionais do grupo (itens 3, 4 e 5) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
