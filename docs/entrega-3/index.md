@@ -20,7 +20,7 @@ A entrega da Etapa 3 é em 06/10/2026, a inspeção em 07/10 e a apresentação 
 
 No ciclo de Mayhew, esses artefatos se encontram na análise de requisitos: o perfil do usuário, a análise de tarefas, as características da plataforma e os princípios gerais alimentam as metas de usabilidade, que o guia de estilo passa a registrar (BARBOSA; SILVA, 2010, p. 109–110). O perfil e as tarefas estão na Etapa 2. A plataforma está escrita. As outras páginas desta pasta estão abertas, com a estrutura que a lista pede e sem o texto de quem ainda vai escrever.
 
-Quem produz o artefato apresenta o próprio artefato no vídeo. A gravação entra na [página de apresentações](../apresentacoes/index.md) quando o vídeo existir.
+Quem produz o artefato apresenta o próprio artefato no vídeo. A gravação da apresentação do grupo está disponível na [Apresentação da Etapa 3](../apresentacoes/etapa-03.md) e no [índice de apresentações](../apresentacoes/index.md).
 
 ## Itens da etapa
 
@@ -52,6 +52,7 @@ Cada integrante precisa de ao menos um item de conteúdo da disciplina, com o no
 | `0.1` | 03/10/2026 | Abertura do índice da Etapa 3 e das páginas por item | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 05/10/2026 | Situação dos itens 12 e 6 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 05/10/2026 | Situação dos itens 13 e 14 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.4` | 06/10/2026 | Vincula o vídeo da Entrega 3 à página de apresentações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
