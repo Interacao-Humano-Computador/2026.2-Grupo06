@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Transposição da lista oficial da Etapa 3 do plano de ensino | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Estrutura dos itens adicionais e elaboração do item 18 | [Itens elaborados pelo grupo](#itens-elaborados-pelo-grupo) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Publicação do vídeo de verificação da etapa | [Vídeo](lista-verificacao.md#video-de-verificacao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Elaboração do item 19 sobre possibilidades e limitações da plataforma como insumo das metas | [Item 19](#item-19-caio-breno-de-souza-bezerra) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração do item 20 sobre rastreabilidade e design rationale no guia de estilo | [Item 20](#item-20-heitor-pinheiro-goncalves-das-chagas) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais | [Item 22](#item-22-luis-henrique-luna-de-arruda) |
@@ -25,9 +26,25 @@ Este artefato reúne a lista de verificação da Entrega 3 — Princípios Gerai
 
 ## Vídeo de verificação
 
+O vídeo a seguir apresenta a verificação realizada sobre os artefatos produzidos para a Etapa 3 do Grupo 06.
+
 - Categoria no YouTube: **não listado**
-- Link: a definir
-- Data da gravação: a definir
+- Link: [https://www.youtube.com/watch?v=mVSOHOlDG3Y](https://www.youtube.com/watch?v=mVSOHOlDG3Y)
+- Data da gravação: 06/10/2026
+
+??? note "Vídeo — Inspeção da Etapa 3 do Grupo 06"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/mVSOHOlDG3Y"
+        title="Inspeção da Etapa 3 do Grupo 06"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Itens de desenvolvimento do projeto
 
@@ -217,6 +234,7 @@ Este documento contou com apoio de inteligência artificial na organização e r
 | `1.2` | 05/10/2026 | Adiciona o item 20 sobre rastreabilidade e design rationale no guia de estilo, com referência e recorte da página 283 do livro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 06/10/2026 | Adiciona o item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais no site avaliado | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 06/10/2026 | Adiciona o item 19 sobre possibilidades e limitações da plataforma como insumo das metas, com recortes das páginas 109–110 do livro, e renumera as figuras dos itens 20 e 21 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.5` | 06/10/2026 | Inclusão da gravação da inspeção/verificação da Etapa 3 do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
