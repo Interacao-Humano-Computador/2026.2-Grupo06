@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc"><title id="title">CTT — V: estabelecer o vínculo</title><desc id="desc">Modelo documental da tarefa de Rafael Almeida. Notação de Barbosa e Silva (2010), figuras 6.1–6.2 e 6.4–6.6. Não representa sessão observada.</desc><defs>
+<g id="usuario" fill="white" stroke="#222" stroke-width="1.7">
+ <circle cx="0" cy="-15" r="9"/><path d="M-5,-7 Q-20,-3 -20,5 V29 H20 V5 Q20,-3 5,-7"/><path d="M-12,6 V29 M12,6 V29"/>
+</g>
+<g id="sistema" fill="white" stroke="#222" stroke-width="1.7">
+ <rect x="-24" y="-21" width="48" height="34" rx="16"/><rect x="-20" y="-17" width="40" height="26" rx="12"/><rect x="-24" y="19" width="48" height="8" rx="4"/>
+</g>
+<g id="interativa">
+ <use href="#sistema" transform="translate(-29,0) scale(.8)"/><use href="#usuario" transform="translate(31,0) scale(.9)"/>
+ <path d="M-12,-3 H-4 V-9 L8,1 -4,11 V5 H-12 V11 L-24,1 -12,-9 Z" fill="#555"/>
+</g>
+<g id="abstrata" fill="white" stroke="#222" stroke-width="1.7">
+ <path d="M-28,13 C-43,10 -41,-3 -33,-6 C-40,-17 -28,-26 -18,-21 C-14,-33 0,-29 3,-23 C12,-33 26,-26 25,-18 C39,-21 44,-7 35,0 C43,11 31,20 23,16 C20,29 6,29 1,22 C-9,30 -22,25 -22,18 C-30,24 -36,19 -28,13 Z"/>
+</g>
+</defs><rect width="100%" height="100%" fill="white"/><g font-family="Arial, sans-serif" fill="#151515"><text x="450.0" y="30" font-size="24" text-anchor="middle">CTT — V: estabelecer o vínculo</text><use href="#abstrata" transform="translate(450.0,82)"/><text x="450.0" y="130" font-size="18" text-anchor="middle">EstabelecerVinculo</text><path d="M450.0,146 L150.0,223" fill="none" stroke="#222" stroke-width="1.6"/><path d="M450.0,146 L450.0,223" fill="none" stroke="#222" stroke-width="1.6"/><path d="M450.0,146 L750.0,223" fill="none" stroke="#222" stroke-width="1.6"/><path d="M208.0,253 L392.0,253" fill="none" stroke="#222" stroke-width="1.6"/><rect x="273.0" y="239" width="54" height="28" fill="white"/><text x="300.0" y="260" font-size="20" text-anchor="middle">&gt;&gt;</text><path d="M508.0,253 L692.0,253" fill="none" stroke="#222" stroke-width="1.6"/><rect x="573.0" y="239" width="54" height="28" fill="white"/><text x="600.0" y="260" font-size="20" text-anchor="middle">[]&gt;&gt;</text><use href="#interativa" transform="translate(150.0,253)"/><text x="150.0" y="303" font-size="17" text-anchor="middle">V1</text><text x="150.0" y="325" font-size="17" text-anchor="middle">AutenticarProfessor</text><use href="#interativa" transform="translate(450.0,253)"/><text x="450.0" y="303" font-size="17" text-anchor="middle">V2</text><text x="450.0" y="325" font-size="17" text-anchor="middle">InformarInstituicao</text><text x="450.0" y="347" font-size="17" text-anchor="middle">ETurma</text><use href="#sistema" transform="translate(750.0,253)"/><text x="750.0" y="303" font-size="17" text-anchor="middle">V3</text><text x="750.0" y="325" font-size="17" text-anchor="middle">DisponibilizarCodigo</text><text x="450.0" y="405" font-size="16" text-anchor="middle">Notação: Barbosa e Silva (2010), figuras 6.4–6.6, p. 203–205.</text></g></svg>
