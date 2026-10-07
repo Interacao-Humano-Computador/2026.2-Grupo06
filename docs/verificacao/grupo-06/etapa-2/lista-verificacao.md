@@ -12,6 +12,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Itens de conteúdo da disciplina | [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Preenchimento das respostas com base na reunião de inspeção de 27/09/2026 e gravação do vídeo de verificação | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto), [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) e [Vídeo](lista-verificacao.md#video-de-verificacao) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 18 sobre os tipos de tarefa da CTT | [Item 18](lista-verificacao.md#item-18-luis-henrique-luna-de-arruda) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração do item 16 sobre planos na HTA e preenchimento dos itens do grupo | [Item 16](lista-verificacao.md#item-16-heitor-pinheiro-goncalves-das-chagas) e [Itens do grupo](lista-verificacao.md#itens-elaborados-pelo-grupo) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração do item 17 sobre TCLE e princípios éticos | [Item 17](lista-verificacao.md#item-17-israel-soares-de-paiva) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -96,12 +98,12 @@ A Tabela 4 reúne os itens adicionais de verificação definidos pelo próprio G
 
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor |
 | :---: | --- | :---: | :---: | --- |
-| 13 | Cada cenário apresenta: (1) título que descreve brevemente a situação; (2) os atores que participam; e (3) uma breve descrição da situação inicial? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 14 | Cada persona apresenta os elementos característicos de Courage e Baxter (2005): (1) identidade; (2) status; (3) objetivos; (4) habilidades; (5) tarefas; (6) relacionamentos; (7) requisitos; e (8) expectativas? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 15 | Cada análise hierárquica de tarefas (HTA) relaciona: (1) o que as pessoas fazem (ou se recomenda que façam); (2) por que o fazem; e (3) quais as consequências caso não o façam corretamente? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 16 | a preencher | — | — | [Heitor Pinheiro](https://github.com/heitor-pinheiro) |
-| 17 | a preencher | — | — | [Israel Soares](https://github.com/israel-soares) |
-| 18 | Nos diagramas CTT, cada tarefa está classificada em um dos quatro tipos da notação, de acordo com sua natureza: (1) tarefa do usuário, realizada fora do sistema; (2) tarefa do sistema, processada sem interação com o usuário; (3) tarefa interativa, composta por diálogo entre usuário e sistema; ou (4) tarefa abstrata, que representa uma composição de tarefas? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| 13 | Cada cenário apresenta: (1) título que descreve brevemente a situação; (2) os atores que participam; e (3) uma breve descrição da situação inicial? | Sim | `v1.2` — 27/09/2026 às 20:46 | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 14 | Cada persona apresenta os elementos característicos de Courage e Baxter (2005): (1) identidade; (2) status; (3) objetivos; (4) habilidades; (5) tarefas; (6) relacionamentos; (7) requisitos; e (8) expectativas? | Sim | `v1.2` — 27/09/2026 às 20:46 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 15 | Cada análise hierárquica de tarefas (HTA) relaciona: (1) o que as pessoas fazem (ou se recomenda que façam); (2) por que o fazem; e (3) quais as consequências caso não o façam corretamente? | Sim | `v1.2` — 27/09/2026 às 20:47 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 16 | Na Análise Hierárquica de Tarefas (HTA), a decomposição dos objetivos em subobjetivos define planos que especificam a ordem e as condições de execução dos subobjetivos (como sequência, seleção ou paralelismo)? | Sim | `v1.2` — 27/09/2026 às 20:47 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| 17 | O planejamento e a condução das pesquisas com usuários respeitam os princípios éticos fundamentais e disponibilizam o modelo de Termo de Consentimento Livre e Esclarecido (TCLE) com objetivos, riscos, garantias de confidencialidade e direito de recusa/desistência? | Sim | `v1.2` — 27/09/2026 às 20:45 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| 18 | Nos diagramas CTT, cada tarefa está classificada em um dos quatro tipos da notação, de acordo com sua natureza: (1) tarefa do usuário, realizada fora do sistema; (2) tarefa do sistema, processada sem interação com o usuário; (3) tarefa interativa, composta por diálogo entre usuário e sistema; ou (4) tarefa abstrata, que representa uma composição de tarefas? | Sim | `v1.2` — 27/09/2026 às 20:48 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -145,17 +147,36 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 <p class="caption">Figura 3 — Barbosa e Silva (2010), p. 192. Trecho: “Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente.”</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 192).</p>
 
-### Item 16 — Heitor Pinheiro
+### Item 16 — Heitor Pinheiro Gonçalves das Chagas
 
-**Referência:** a preencher
+**Referência:**
 
-**Trecho do livro:** a preencher
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 193–195.
 
-### Item 17 — Israel Soares
+**Fundamentação:** na HTA, a análise decompõe objetivos em subobjetivos e operações. Os subobjetivos não são executados de forma aleatória: eles são governados por **planos**, que especificam as regras de ordenação e as condições de execução (sequência fixa `>`, seleção `/`, paralelismo `+`). Sem a definição explícita dos planos, não é possível compreender as tomadas de decisão e a lógica do fluxo de tarefas do usuário.
 
-**Referência:** a preencher
+O item 16 complementa o item oficial 11 e o item 15: confere se a estrutura hierárquica da HTA inclui os planos que regem a execução dos subobjetivos.
 
-**Trecho do livro:** a preencher
+**Como verificar:** consultar a [análise de tarefas do grupo](../../../entrega-2/analise-tarefas.md) e as modelagens HTA individuais. Considerar **Sim** quando os diagramas e tabelas HTA especificarem os planos de execução para os subobjetivos; **Incompleto** quando apenas parte das análises apresentar planos; e **Não** quando os diagramas não definirem planos.
+
+**Trecho do livro:**
+
+![Barbosa e Silva (2010), p. 192-193 — A HTA define subobjetivos e planos de execução.](../../../assets/img/referencias/barbosa-hta.png)
+
+<p class="caption">Figura 4 — Barbosa e Silva (2010), p. 192–193. Trecho: "Os subobjetivos são alcançados através de planos, que especificam a ordem e as condições sob as quais os subobjetivos são alcançados."</p>
+<p class="source">Fonte: BARBOSA; SILVA (2010, p. 192–193).</p>
+
+### Item 17 — Israel Soares de Paiva
+
+**Referência:**
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 140–142.
+
+**Fundamentação:** em pesquisas de IHC que envolvem pessoas, é imperativo garantir o respeito aos princípios de autonomia, beneficência, não maleficência e justiça. O Termo de Consentimento Livre e Esclarecido (TCLE) formaliza essas garantias, esclarecendo a voluntariedade da participação, a gravação de dados, a garantia do anonimato e a possibilidade de interrupção ou desistência sem prejuízo.
+
+O item 17 complementa os itens oficiais 4, 5 e 7: verifica se a condução e o documento de TCLE atendem aos requisitos éticos essenciais previstos pela literatura de IHC.
+
+**Como verificar:** consultar o artefato [Aspectos éticos](../../../entrega-2/etica.md) e o modelo de TCLE disponibilizado. Considerar **Sim** quando os princípios éticos forem apresentados e o TCLE contiver as garantias exigidas; **Incompleto** quando faltarem cláusulas de desistência ou confidencialidade; e **Não** quando não houver garantias éticas estruturadas.
 
 ### Item 18 — Luís Henrique Luna de Arruda
 
@@ -170,6 +191,8 @@ O item 18 complementa o item oficial 11, que confere se cada integrante modelou 
 **Como verificar:** abrir a análise de tarefas de cada integrante, a partir da [análise de tarefas do grupo](../../../entrega-2/analise-tarefas.md), e conferir o ícone e o rótulo de cada nó do diagrama CTT. Considerar **Sim** quando todas as tarefas têm o tipo coerente com o que descrevem; **Incompleto** quando parte das tarefas está sem tipo ou com o tipo trocado, por exemplo uma leitura feita pelo usuário marcada como tarefa do sistema; e **Não** quando os diagramas não diferenciam os tipos.
 
 
+## Histórico de versão
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 26/09/2026 | Transposição da lista oficial da Entrega 2 para o site | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
@@ -178,7 +201,12 @@ O item 18 complementa o item oficial 11, que confere se cada integrante modelou 
 | `1.3` | 05/10/2026 | Corrige data e hora de cada item conforme a transcrição da inspeção e adiciona data da gravação | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 06/10/2026 | Adiciona o item 18 sobre os tipos de tarefa da CTT | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 06/10/2026 | Elaboração dos itens 16 (Heitor) e 17 (Israel) e preenchimento de todos os itens elaborados pelo grupo (itens 13 a 18) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
+
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 140–142, 177, 192–195.
+
+[3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 6, p. 183.
