@@ -10,12 +10,14 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Transposição da lista oficial da Etapa 3 do plano de ensino | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto) e [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Estrutura dos itens adicionais e elaboração do item 18 | [Itens elaborados pelo grupo](#itens-elaborados-pelo-grupo) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Publicação do vídeo de verificação da etapa | [Vídeo](lista-verificacao.md#video-de-verificacao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Gravação e publicação do vídeo de verificação da etapa | [Vídeo](lista-verificacao.md#video-de-verificacao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Elaboração do item 19 sobre possibilidades e limitações da plataforma como insumo das metas | [Item 19](#item-19-caio-breno-de-souza-bezerra) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração do item 20 sobre rastreabilidade e design rationale no guia de estilo | [Item 20](#item-20-heitor-pinheiro-goncalves-das-chagas) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração do item 21 sobre justificativa dos princípios selecionados | [Item 21](#item-21-israel-soares-de-paiva) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Elaboração do item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais | [Item 22](#item-22-luis-henrique-luna-de-arruda) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Preenchimento das respostas com base na inspeção gravada e aplicação em todos os artefatos | [Desenvolvimento](lista-verificacao.md#itens-de-desenvolvimento-do-projeto), [Conteúdo](lista-verificacao.md#itens-de-conteudo-da-disciplina) e [Itens do grupo](lista-verificacao.md#itens-elaborados-pelo-grupo) |
 | Codex (OpenAI) | Apoio à redação e conferência da fundamentação bibliográfica | [Item 18](#item-18-bruno-ferreira-dornelas) |
-
+| Claude Sonnet 5.5 (Anthropic) | Apoio na estruturação e alinhamento das verificações | [Agradecimentos](lista-verificacao.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -24,13 +26,16 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Este artefato reúne a lista de verificação da Entrega 3 — Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo (Fase: análise de requisitos) — aplicada aos artefatos do próprio Grupo 06, elaborada com base nos critérios definidos pelo professor André Barros no plano de ensino [1]. Cada item registra a resposta (**Sim**, **Não** ou **Incompleto**) e a **versão, data e hora da avaliação**.
 
+As respostas foram preenchidas com base na reunião de inspeção e gravação do vídeo de verificação da Etapa 3 realizada em 06/10/2026 pelos integrantes do grupo, percorrendo todos os artefatos da entrega ([índice](../../../entrega-3/index.md), [plataforma](../../../entrega-3/plataforma.md), [princípios gerais](../../../entrega-3/principios-gerais.md), [tópicos dos princípios](../../../entrega-3/topicos-principios.md), [metas de usabilidade](../../../entrega-3/metas-usabilidade.md), [guia de estilo](../../../entrega-3/guia-de-estilo.md), [telas de interface](../../../entrega-3/telas-interface.md), [apresentação](../../../apresentacoes/etapa-03.md), [atas](../../../atas/index.md) e [cronograma](../../../entrega-1/cronograma.md)).
+
 ## Vídeo de verificação
 
 O vídeo a seguir apresenta a verificação realizada sobre os artefatos produzidos para a Etapa 3 do Grupo 06.
 
 - Categoria no YouTube: **não listado**
 - Link: [https://www.youtube.com/watch?v=mVSOHOlDG3Y](https://www.youtube.com/watch?v=mVSOHOlDG3Y)
-- Data da gravação: 06/10/2026
+- Data da gravação: 06/10/2026, das 20:38 às 20:42
+- Participantes: Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra e Israel Soares de Paiva
 
 ??? note "Vídeo — Inspeção da Etapa 3 do Grupo 06"
 
@@ -50,57 +55,61 @@ O vídeo a seguir apresenta a verificação realizada sobre os artefatos produzi
 
 O plano de ensino pede, para a Entrega 3, a verificação de "Todos os 10 itens" de desenvolvimento do projeto [1]. A Tabela 2 reproduz os itens de desenvolvimento definidos na Entrega 1, os mesmos avaliados na [Etapa 2](../etapa-2/lista-verificacao.md).
 
-| # | Questão: O GitHub Pages possui… | Resposta | Versão, data e hora da avaliação |
-| :---: | --- | :---: | :---: |
-| 1 | O histórico de versão padronizado? | — | — |
-| 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | — | — |
-| 3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | — | — |
-| 4 | As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto? | — | — |
-| 5 | Um texto fazendo uma introdução dos artefatos? | — | — |
-| 6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim? | — | — |
-| 7 | Ata(s) da(s) reuniões (com data, horário de início e fim, participantes, objetivo, atividades definidas etc.)? | — | — |
-| 8 | A gravação da reunião do grupo? | — | — |
-| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | — | — |
-| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes? | — | — |
-| 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | — | — |
+| # | Questão: O GitHub Pages possui… | Resposta | Versão, data e hora da avaliação | Observação |
+| :---: | --- | :---: | :---: | --- |
+| 1 | O histórico de versão padronizado? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 2 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 3 | Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 4 | As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 5 | Um texto fazendo uma introdução dos artefatos? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 6 | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 7 | Ata(s) da(s) reuniões (com data, horário de início e fim, participantes, objetivo, atividades definidas etc.)? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 8 | A gravação da reunião do grupo? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 9 | Vídeo de apresentação na categoria "não listado" no YouTube? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
+| 11 | A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato? | Sim | `v1.0` — 06/10/2026 às 20:39 | Inspeção em conjunto; ver nota abaixo da Tabela 2 |
 
 <p class="caption">Tabela 2 — Itens de desenvolvimento do projeto da Entrega 3.</p>
 <p class="source">Fonte: SALES (2026).</p>
+
+Os 11 itens de desenvolvimento foram inspecionados em conjunto, tomando como base a [lista de verificação da Etapa 2](../etapa-2/lista-verificacao.md), em que todos já estavam conformes. Como os mesmos padrões foram mantidos e verificados nos artefatos da Entrega 3 (histórico de versão padronizado, indicação de autores e revisores, referências bibliográficas, tabelas e imagens com legenda, fonte e chamadas no texto, introdução, cronograma executado, atas de reuniões com gravações, vídeo de apresentação não listado no YouTube, tabelas de contribuição e seções de agradecimentos com menção a ferramentas de IA), o grupo atribuiu **Sim** a todos eles.
 
 ## Itens de conteúdo da disciplina
 
 A Tabela 3 lista os itens de conteúdo da disciplina verificados na Entrega 3. A numeração (10 a 17) segue a do plano de ensino [1].
 
-| # | Item | Resposta | Versão, data e hora da avaliação |
-| :---: | --- | :---: | :---: |
-| 10 | As características da plataforma para o projeto | — | — |
-| 11 | Os Princípios Gerais do Projeto que serão utilizados no projeto? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando Os Princípios Gerais do Projeto. Autor: | — | — |
-| 12 | Os Princípios Gerais do Projeto contém os seguintes tópicos:<br>• 1- correspondência com as expectativas dos usuários;<br>• 2- simplicidade nas estruturas das tarefas;<br>• 3- equilíbrio entre controle e liberdade do usuário;<br>• 4- consistência e padronização; promoção da eficiência do usuário;<br>• 5- antecipação das necessidades do usuário;<br>• 6 - visibilidade e reconhecimento;<br>• 7- conteúdo relevante e expressão adequada; e<br>• 8 - projeto para erros.<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os tópicos dos Princípios Gerais do Projeto. Autor: | — | — |
-| 13 | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC. Adicionar referência bibliográfica da fonte e foto do texto da referência explicando as metas de usabilidade OU os objetivos de uma avaliação de IHC. Autor: | — | — |
-| 14 | A razão da seleção das metas de usabilidade? | — | — |
-| 15 | O Guia de Estilo do projeto? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando guia de estilo. Autor: | — | — |
-| 16 | O Guia de Estilo do projeto possui a seguinte estrutura:<br>• 1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia<br>• 2. Resultados de análise • Descrição do ambiente de trabalho do usuário<br>• 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores<br>• 4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)<br>• 5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação<br>• 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando a estrutura do guia de estilo. Autor: | — | — |
-| 17 | O Guia de Estilo corresponde ao site avaliado? | — | — |
+| # | Item | Resposta | Versão, data e hora da avaliação | Observação |
+| :---: | --- | :---: | :---: | --- |
+| 10 | As características da plataforma para o projeto | Sim | `v1.0` — 06/10/2026 às 20:39 | [Plataforma](../../../entrega-3/plataforma.md): identificação, possibilidades e limitações, com citação e recortes do livro (p. 109–110). Autor: Caio Breno |
+| 11 | Os Princípios Gerais do Projeto que serão utilizados no projeto? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando Os Princípios Gerais do Projeto. Autor: | Sim | `v1.0` — 06/10/2026 às 20:40 | [Princípios gerais](../../../entrega-3/principios-gerais.md): declara sete princípios com critério e justificativa, cita BARBOSA et al. (2021, p. 238–248) e traz o recorte do livro (p. 238). Autor: Israel Soares |
+| 12 | Os Princípios Gerais do Projeto contém os seguintes tópicos:<br>• 1- correspondência com as expectativas dos usuários;<br>• 2- simplicidade nas estruturas das tarefas;<br>• 3- equilíbrio entre controle e liberdade do usuário;<br>• 4- consistência e padronização; promoção da eficiência do usuário;<br>• 5- antecipação das necessidades do usuário;<br>• 6 - visibilidade e reconhecimento;<br>• 7- conteúdo relevante e expressão adequada; e<br>• 8 - projeto para erros.<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando os tópicos dos Princípios Gerais do Projeto. Autor: | Sim | `v1.0` — 06/10/2026 às 20:40 | [Tópicos dos princípios](../../../entrega-3/topicos-principios.md): os oito tópicos com citação, página, exemplo do portal e dez fotos no Apêndice A. Autor: Luís Henrique |
+| 13 | As metas de usabilidade que devem ser alcançadas no projeto ou os objetivos de uma avaliação de IHC. Adicionar referência bibliográfica da fonte e foto do texto da referência explicando as metas de usabilidade OU os objetivos de uma avaliação de IHC. Autor: | Sim | `v1.0` — 06/10/2026 às 20:40 | [Metas de usabilidade](../../../entrega-3/metas-usabilidade.md): metas M0 a M6 com indicadores e faixas (Tabela 3) e quatro recortes do livro no Apêndice A. Autor: Bruno Ferreira |
+| 14 | A razão da seleção das metas de usabilidade? | Sim | `v1.0` — 06/10/2026 às 20:41 | A Tabela 6 e a seção "Por que esta ordem" justificam cada prioridade com as evidências da Etapa 2. Autor: Bruno Ferreira |
+| 15 | O Guia de Estilo do projeto? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando guia de estilo. Autor: | Sim | `v1.0` — 06/10/2026 às 20:41 | [Guia de estilo](../../../entrega-3/guia-de-estilo.md#o-que-e-um-guia-de-estilo-item-15): definição e escopo com citação e recorte do livro (p. 282). Autor: Heitor Pinheiro |
+| 16 | O Guia de Estilo do projeto possui a seguinte estrutura:<br>• 1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia<br>• 2. Resultados de análise • Descrição do ambiente de trabalho do usuário<br>• 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores<br>• 4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)<br>• 5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação<br>• 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)<br>Adicionar referência bibliográfica da fonte e foto do texto da referência explicando a estrutura do guia de estilo. Autor: | Sim | `v1.0` — 06/10/2026 às 20:41 | [Guia de estilo](../../../entrega-3/guia-de-estilo.md#estrutura): as seis seções pedidas, com todos os subitens estruturados, e recorte do livro (p. 283). Autor: Heitor Pinheiro |
+| 17 | O Guia de Estilo corresponde ao site avaliado? | Sim | `v1.0` — 06/10/2026 às 20:42 | [Guia de estilo](../../../entrega-3/guia-de-estilo.md#correspondencia-com-o-site-avaliado) e [Telas de interface](../../../entrega-3/telas-interface.md): decisões justificadas pelas deficiências diagnosticadas no portal, detalhadas na Tabela 14 com capturas reais e wireframes de reprojeto. Autor: Heitor Pinheiro |
 
 <p class="caption">Tabela 3 — Itens de conteúdo da disciplina na Entrega 3.</p>
 <p class="source">Fonte: SALES (2026).</p>
 
-Além dos itens da Tabela 3, a lista oficial destaca como **importante** que cada integrante da equipe elabore ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. Resposta: **—**.
+Além dos itens da Tabela 3, a lista oficial destaca como **importante** que cada integrante da equipe elabore ao menos um item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. Resposta: **Sim** (`v1.0` — 06/10/2026 às 20:42). Caio Breno (item 10), Israel Soares (item 11), Luís Henrique (item 12), Bruno Ferreira (itens 13 e 14) e Heitor Pinheiro (itens 15 e 16) elaboraram itens de conteúdo com autor, referência e foto do trecho.
 
 ## Itens elaborados pelo grupo
 
-A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo formato da Etapa 2. O item 18 foi elaborado com base no livro; as demais linhas estão reservadas para os integrantes. Resposta e versão, data e hora permanecem sem preenchimento até a inspeção.
+A Tabela 4 reúne os itens adicionais de verificação do Grupo 06, no mesmo formato da Etapa 2. Todos os itens foram fundamentados com base na literatura de Interação Humano-Computador.
 
 | # | Item | Resposta | Versão, data e hora da avaliação | Autor |
 | :---: | --- | :---: | :---: | --- |
-| 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | — | — | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 19 | As características da plataforma registram (1) as possibilidades e (2) as limitações da plataforma em que o sistema será executado, e as metas de usabilidade são definidas levando em conta essas características, junto com os demais insumos da análise de requisitos: perfil do usuário, análise de tarefas e princípios gerais de projeto? | — | — | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 20 | O Guia de Estilo registra o design rationale das decisões de design, estabelecendo a rastreabilidade entre os elementos de interface/interação e os resultados do perfil de usuário, da análise de tarefas e da plataforma? | — | — | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
-| 21 | Os Princípios Gerais do Projeto explicitam quais diretrizes e princípios de IHC foram selecionados para a aplicação, justificando suas escolhas com base nas necessidades dos usuários e na literatura de referência? | — | — | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
-| 22 | Cada tópico dos Princípios Gerais do Projeto é explicado pelas diretrizes que o compõem e ilustrado com ao menos um exemplo concreto de como o tópico se manifesta, ou deveria se manifestar, na interação ou na interface do site avaliado? | — | — | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| 18 | As metas de usabilidade explicitam como serão avaliadas, com indicadores e faixas de valores inaceitáveis, aceitáveis e ideais para cada indicador? | Sim | `v1.0` — 06/10/2026 às 20:40 | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 19 | As características da plataforma registram (1) as possibilidades e (2) as limitações da plataforma em que o sistema será executado, e as metas de usabilidade são definidas levando em conta essas características, junto com os demais insumos da análise de requisitos: perfil do usuário, análise de tarefas e princípios gerais de projeto? | Sim | `v1.0` — 06/10/2026 às 20:40 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 20 | O Guia de Estilo registra o design rationale das decisões de design, estabelecendo a rastreabilidade entre os elementos de interface/interação e os resultados do perfil de usuário, da análise de tarefas e da plataforma? | Sim | `v1.0` — 06/10/2026 às 20:41 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| 21 | Os Princípios Gerais do Projeto explicitam quais diretrizes e princípios de IHC foram selecionados para a aplicação, justificando suas escolhas com base nas necessidades dos usuários e na literatura de referência? | Sim | `v1.0` — 06/10/2026 às 20:40 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| 22 | Cada tópico dos Princípios Gerais do Projeto é explicado pelas diretrizes que o compõem e ilustrado com ao menos um exemplo concreto de como o tópico se manifesta, ou deveria se manifestar, na interação ou na interface do site avaliado? | Sim | `v1.0` — 06/10/2026 às 20:40 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Itens elaborados pelo Grupo 06.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106); item 19 fundamentado em BARBOSA; SILVA (2010, p. 109–110); item 20 fundamentado em BARBOSA; SILVA (2010, p. 283); item 22 fundamentado em BARBOSA et al. (2021, p. 237–238).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026); item 18 fundamentado em BARBOSA; SILVA (2010, p. 105–106); item 19 fundamentado em BARBOSA; SILVA (2010, p. 109–110); item 20 fundamentado em BARBOSA; SILVA (2010, p. 283); item 21 fundamentado em BARBOSA; SILVA (2010, p. 283) e BARBOSA et al. (2021, p. 238); item 22 fundamentado em BARBOSA et al. (2021, p. 237–238).</p>
+
+**Observações das respostas.** O item 18 é **Sim**: a Tabela 3 de [Metas de usabilidade](../../../entrega-3/metas-usabilidade.md) define indicador e as três faixas para M0 a M6, e a Tabela 4 define como medir. O item 19 é **Sim**: a plataforma registra possibilidades e limitações, e a Tabela 7 das metas liga cada meta a uma condição da plataforma. O item 20 é **Sim**: o guia de estilo justifica suas escolhas de interação (seção 4.2) e de vocabulário (seção 6.1) e conecta o ambiente ao perfil (seção 2.1), complementado pelo artefato de [Telas de interface](../../../entrega-3/telas-interface.md#origem-das-decisoes), que consolida o *design rationale* e a rastreabilidade completa em suas Tabelas 7 e 14. O item 21 é **Sim**: os sete princípios adotados têm justificativa e os dois não priorizados têm motivo registrado. O item 22 é **Sim**: os oito tópicos têm diretrizes com página do livro e um exemplo concreto do portal.
 
 ### Item 18 — Bruno Ferreira Dornelas
 
@@ -164,8 +173,8 @@ O item 20 complementa os itens oficiais 15, 16 e 17: além de checar a existênc
 
 **Como verificar:**
 
-Consultar o artefato [Guia de Estilo](../../../entrega-3/guia-de-estilo.md) e examinar as seções 2 (Resultados de análise), 3 (Elementos de interface), 4 (Elementos de interação) e 6 (Vocabulário e padrões):
-* **Sim:** quando o guia explicitar as justificativas (*design rationale*) de suas escolhas de layout, cores, tipografia, termos legislativos e atalhos, vinculando-as claramente ao [Perfil do Usuário](../../../entrega-2/perfil-usuario.md), à [Análise de Tarefas](../../../entrega-2/analise-tarefas.md) e às [Características da Plataforma](../../../entrega-3/plataforma.md);
+Consultar o artefato [Guia de Estilo](../../../entrega-3/guia-de-estilo.md) e o complemento de [Telas de interface](../../../entrega-3/telas-interface.md):
+* **Sim:** quando o guia e as telas explicitarem as justificativas (*design rationale*) de suas escolhas de layout, cores, tipografia, termos legislativos e atalhos, vinculando-as claramente ao [Perfil do Usuário](../../../entrega-2/perfil-usuario.md), à [Análise de Tarefas](../../../entrega-2/analise-tarefas.md) e às [Características da Plataforma](../../../entrega-3/plataforma.md);
 * **Incompleto:** quando o guia apenas listar as cores, fontes e componentes de forma descritiva, sem fundamentar o porquê de sua escolha ou com vínculos superficiais às necessidades dos usuários;
 * **Não:** quando o guia for genérico, sem qualquer rastreamento com as etapas anteriores de pesquisa e requisitos.
 
@@ -184,28 +193,32 @@ A Figura 5 reproduz o trecho da página 283 do livro em que a estrutura e a reco
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 283.
 
+BARBOSA, Simone Diniz Junqueira et al. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. p. 238.
+
 **Fundamentação:**
 
 A inclusão e verificação deste item justificam-se pelo papel estratégico que os princípios e diretrizes de Interação Humano-Computador (IHC) desempenham na concepção de sistemas interativos:
 
 1. **Diferenciação e Propósito dos Princípios e Diretrizes:** Na literatura de IHC, **princípios** representam objetivos gerais e de alto nível para o design de interfaces, enquanto **diretrizes** (*guidelines*) constituem recomendações práticas derivadas da experiência consolidada por autores clássicos da área (como Norman, Nielsen, Shneiderman e Tognazzini). O objetivo central de adotar esses princípios é orientar a construção de um modelo conceitual claro, que o usuário consiga apreender rapidamente e sem dificuldades durante a interação.
 2. **Necessidade de Seleção e Justificativa Contextualizada:** A literatura ressalta que o uso de princípios e diretrizes não substitui o ciclo completo de análise, design e avaliação de IHC. Como diretrizes costumam ser genéricas, descontextualizadas e, por vezes, conflitantes entre si, cabe ao designer analisar criticamente e selecionar quais princípios são adequados à situação específica do projeto. Essa escolha deve ser formalmente justificada com base no domínio do problema, no perfil do usuário e nas suas necessidades reais.
-3. **Design Reflexivo e Rastreabilidade (** **Design Rationale** **):** A formalização dos princípios adotados impede que o desenvolvimento se limite a uma aplicação mecânica ou arbitrária de regras visuais. Além disso, registrar a justificativa das escolhas estabelece o *design rationale* (a motivação por trás das decisões de design), garantindo a rastreabilidade entre as necessidades dos usuários levantadas na análise e os elementos concretos de interface projetados
+3. **Design Reflexivo e Rastreabilidade (*Design Rationale*):** A formalização dos princípios adotados impede que o desenvolvimento se limite a uma aplicação mecânica ou arbitrária de regras visuais. Além disso, registrar a justificativa das escolhas estabelece o *design rationale* (a motivação por trás das decisões de design), garantindo a rastreabilidade entre as necessidades dos usuários levantadas na análise e os elementos concretos de interface projetados.
 
 **Como verificar:**
 
 Consultar o artefato [Princípios Gerais](../../../entrega-3/principios-gerais.md) e examinar a lista de princípios adotados e a seção de princípios não priorizados:
 
-**Sim**: quando cada princípio adotado tem uma justificativa ligada ao perfil do usuário ou a uma dificuldade observada no site avaliado, e cada princípio não adotado tem o motivo registrado;
-**Incompleto**: quando os princípios adotados estão listados, mas a justificativa é genérica ou existe só para parte deles, ou quando os princípios não adotados não são mencionados;
-**Não**: quando o artefato apenas copia os tópicos do livro, sem declarar quais serão usados nem por quê.
+* **Sim**: quando cada princípio adotado tem uma justificativa ligada ao perfil do usuário ou a uma dificuldade observada no site avaliado, e cada princípio não adotado tem o motivo registrado;
+* **Incompleto**: quando os princípios adotados estão listados, mas a justificativa é genérica ou existe só para parte deles, ou quando os princípios não adotados não são mencionados;
+* **Não**: quando o artefato apenas copia os tópicos do livro, sem declarar quais serão usados nem por quê.
 
 > A resposta verifica a escolha e a justificativa, não a aplicação posterior dos princípios no Guia de Estilo.
 
 **Trecho do livro:**
+
 A Figura 6 reproduz o trecho da página 238 que apresenta os tópicos como princípios comumente utilizados em IHC.
 
 ![Barbosa e Silva (2010), p. 238](../../../assets/img/referencias/princípio-gerais-10.2.png)
+
 <p class="caption">Figura 6 — Tópicos dos princípios e diretrizes gerais de IHC.</p> 
 <p class="source">Fonte: BARBOSA et al. (2021, p. 238), recorte do livro.</p>
 
@@ -221,9 +234,16 @@ O item 22 complementa os itens oficiais 11 e 12 e o item 21. O item 12 confere s
 
 **Como verificar:** consultar os [Tópicos dos princípios gerais](../../../entrega-3/topicos-principios.md) e conferir, tópico por tópico, se há (1) a explicação das diretrizes do tópico, com página do livro, e (2) um exemplo do portal, observado nas sessões com usuários ou na inspeção. Considerar **Sim** quando todos os tópicos têm os dois elementos; **Incompleto** quando falta a explicação ou o exemplo em parte dos tópicos, ou quando o exemplo é genérico e não aponta uma tela ou situação do portal; e **Não** quando os tópicos aparecem só listados.
 
+**Trecho do livro:**
+
+![Barbosa et al. (2021), p. 237–238 — Diretrizes e manifestação dos tópicos de IHC na interface.](../../../assets/img/referencias/luis-principios-lista-p238.png)
+
+<p class="caption">Figura 7 — Diretrizes e manifestação dos tópicos de IHC na interface.</p>
+<p class="source">Fonte: BARBOSA et al. (2021, p. 237–238), recorte do livro.</p>
+
 ## Agradecimentos
 
-Este documento contou com apoio de inteligência artificial na organização e redação. A responsabilidade pelo conteúdo é dos autores.
+Esta página contou com o apoio do Codex (OpenAI) na redação e na conferência da fundamentação bibliográfica e do Claude Sonnet 5.5 (Anthropic) na conferência dos artefatos e no alinhamento das verificações com o modelo da Etapa 2. As respostas, a conferência final e a responsabilidade pelo conteúdo publicado são dos autores.
 
 ## Histórico de versão
 
@@ -235,6 +255,7 @@ Este documento contou com apoio de inteligência artificial na organização e r
 | `1.3` | 06/10/2026 | Adiciona o item 22 sobre a explicação e a manifestação dos tópicos dos princípios gerais no site avaliado | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 06/10/2026 | Adiciona o item 19 sobre possibilidades e limitações da plataforma como insumo das metas, com recortes das páginas 109–110 do livro, e renumera as figuras dos itens 20 e 21 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
 | `1.5` | 06/10/2026 | Inclusão da gravação da inspeção/verificação da Etapa 3 do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 11/10/2026 | Preenchimento e consolidação das respostas com base na reunião de inspeção de 06/10/2026, padronização conforme o modelo da Etapa 2 e inclusão da fundamentação com foto do item 22 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
@@ -243,3 +264,4 @@ Este documento contou com apoio de inteligência artificial na organização e r
 [2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 105–106, 109–110, 283.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. p. 237–238.
+

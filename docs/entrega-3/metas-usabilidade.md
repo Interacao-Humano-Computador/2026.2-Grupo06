@@ -182,7 +182,7 @@ Eficácia permanece explicitamente medida em M0. Recordação não tem resultado
 
 ## Agradecimentos
 
-Este documento contou com apoio de ferramentas de inteligência artificial na organização e redação. A responsabilidade pelo conteúdo é do autor.
+Este documento contou com apoio do Codex (OpenAI) e do Claude Sonnet 5.5 (Anthropic) na organização, conferência e redação das justificativas e métricas. A responsabilidade integral pelo conteúdo é dos autores.
 
 ## Histórico de versão
 

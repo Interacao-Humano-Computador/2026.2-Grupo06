@@ -29,13 +29,13 @@ A Tabela 2 distribui os itens da lista de verificação da Apresentação 3. A s
 | Item | O que a lista pede | Quem escreve | Página | Situação |
 | :---: | --- | --- | --- | --- |
 | 10 | Características da plataforma para o projeto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Características da plataforma](plataforma.md) | Escrito |
-| 11 | Princípios gerais do projeto que serão utilizados, com referência e foto do trecho | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Princípios gerais](principios-gerais.md) | A preencher |
+| 11 | Princípios gerais do projeto que serão utilizados, com referência e foto do trecho | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Princípios gerais](principios-gerais.md) | Escrito |
 | 12 | Os oito tópicos dos princípios gerais, com referência e foto do trecho | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Tópicos dos princípios](topicos-principios.md) | Escrito em 05/10/2026 |
 | 13 | Metas de usabilidade que devem ser alcançadas, com referência e foto do trecho | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md) | Escrito |
 | 14 | Razão da seleção das metas de usabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Metas de usabilidade](metas-usabilidade.md#razao-da-selecao) | Escrito |
-| 15 | Guia de estilo do projeto, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md) | A preencher |
-| 16 | Estrutura do guia de estilo pedida pelo plano, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#estrutura) | A preencher |
-| 17 | Guia de estilo correspondente ao site avaliado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#correspondencia-com-o-site-avaliado) | A preencher |
+| 15 | Guia de estilo do projeto, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md) | Escrito |
+| 16 | Estrutura do guia de estilo pedida pelo plano, com referência e foto do trecho | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#estrutura) | Escrito |
+| 17 | Guia de estilo correspondente ao site avaliado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Guia de estilo](guia-de-estilo.md#correspondencia-com-o-site-avaliado) | Escrito |
 | 6 | Cronograma executado, com quem fez cada atividade e as datas reais | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Cronograma executado](../entrega-1/cronograma.md#cronograma-executado) | Atualizado em 05/10/2026 |
 
 <p class="caption">Tabela 2 — Itens da Apresentação 3 e quem preenche cada um.</p>
@@ -45,6 +45,10 @@ O item 6 é de desenvolvimento do projeto e vale para a etapa inteira. Luís Hen
 
 Cada integrante precisa de ao menos um item de conteúdo da disciplina, com o nome do autor, citação com página e foto legível do trecho (SALES, 2026). Na Tabela 2, isso está explícito nos itens 11, 12, 13, 15 e 16. O item 10, da plataforma, também traz citação e foto do livro.
 
+## Agradecimentos
+
+Este índice contou com o apoio de ferramentas de inteligência artificial na organização da estrutura e na conferência das ligações entre os documentos da etapa. A responsabilidade pelo conteúdo publicado é dos autores.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -53,6 +57,7 @@ Cada integrante precisa de ao menos um item de conteúdo da disciplina, com o no
 | `0.2` | 05/10/2026 | Situação dos itens 12 e 6 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 05/10/2026 | Situação dos itens 13 e 14 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.4` | 06/10/2026 | Vincula o vídeo da Entrega 3 à página de apresentações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.5` | 06/10/2026 | Atualiza status de conclusão dos itens 11, 15, 16 e 17 e insere agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

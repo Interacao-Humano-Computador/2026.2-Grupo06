@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Abertura inicial da página com o esqueleto do artefato | [Estrutura](guia-de-estilo.md#estrutura) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Fundamentação bibliográfica dos itens 15 e 16, obtenção dos trechos do livro e estruturação do guia | [Itens de conteúdo](guia-de-estilo.md#itens-de-conteudo-da-disciplina) |
+| Claude Sonnet 5.5 (Anthropic) | Formatação Markdown, localização dos trechos do livro e conferência bibliográfica | [Agradecimentos](guia-de-estilo.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -279,7 +280,7 @@ O Guia de Estilo formulado neste artefato atende estritamente ao **Item 17** da 
 
 ## Agradecimentos
 
-A equipe agradece o apoio da ferramenta de inteligência artificial generativa ChatGPT (OpenAI GPT-4o) na organização do texto, na estruturação dos tópicos e na formatação Markdown deste artefato. A fundamentação teórica, a seleção dos trechos bibliográficos, as decisões de design e a revisão técnica foram feitas integralmente pelos integrantes, que seguem responsáveis pelo conteúdo.
+Agradecemos o apoio técnico do Claude Sonnet 5.5 (Anthropic) na formatação Markdown, na localização dos trechos do livro e na conferência bibliográfica. A fundamentação teórica, a seleção dos trechos, as decisões de design e a revisão técnica foram feitas integralmente pelos integrantes, que seguem responsáveis pelo conteúdo publicado.
 
 ---
 
