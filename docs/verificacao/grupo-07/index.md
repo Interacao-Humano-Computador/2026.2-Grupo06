@@ -9,6 +9,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice da verificação do Grupo 07 | [Etapas verificadas](index.md#etapas-verificadas) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Adição do registro de verificação da Etapa 3 | [Etapas verificadas](index.md#etapas-verificadas) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -22,6 +23,7 @@ Esta seção apresenta os resultados da inspeção dos artefatos produzidos pelo
 | Etapa | Artefatos | Página |
 | :---: | --- | --- |
 | Etapa 1 | Lista de verificação da Entrega 1 | [Etapa 1](etapa-1/lista-verificacao.md) |
+| Etapa 3 | Lista de verificação da Entrega 3 | [Etapa 3](etapa-3/lista-verificacao.md) |
 
 <p class="caption">Tabela 2 — Etapas verificadas do Grupo 07.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -34,6 +36,7 @@ Esta seção apresenta os resultados da inspeção dos artefatos produzidos pelo
 | `1.1` | 05/09/2026 | Remoção da tabela de contribuição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 07/09/2026 | Adição do link para a verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 10/10/2026 | Adição do link para a verificação da Etapa 3 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
