@@ -29,6 +29,16 @@ A lista de verificação pede que o projeto declare quais princípios gerais ser
 
 Os princípios vêm da seção 10.2, *Princípios e Diretrizes Gerais*, do livro *Interação Humano-Computador e Experiência do Usuário* (BARBOSA et al., 2021, p. 238–248), capítulo distribuído na disciplina. O livro organiza os princípios em nove subseções, que o plano da disciplina agrupa em oito tópicos (ver [Tópicos dos princípios gerais](topicos-principios.md#o-que-a-lista-pede)).
 
+A Figura 1 reproduz o trecho do livro que introduz os princípios e diretrizes de IHC.
+
+??? note "Figura 1 — Princípios e diretrizes gerais de IHC"
+
+    <figure markdown="span">
+      ![Trecho de Barbosa et al. (2021, p. 238), apresentando os tópicos de princípios gerais de IHC](../assets/img/referencias/princípio-gerais-10.2.png)
+      <figcaption>Figura 1 — Princípios e diretrizes gerais de IHC.</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA et al. (2021, p. 238).</p>
+
 ## Critério de seleção
 
 Nem todo princípio pesa igual em todo projeto. O grupo escolheu os princípios a partir de três perguntas:
@@ -112,7 +122,7 @@ A Tabela 2 resume a escolha. Os detalhes de cada princípio vêm em seguida.
 
 ## Princípios não priorizados
 
-Dois pontos dos oito tópicos não entram como princípios orientadores deste projeto. Eles continuam válidos e explicados na página do Luís.
+Dois pontos dos oito tópicos não entram como princípios orientadores deste projeto. Eles continuam válidos e explicados na página do Luís. A Tabela 3 apresenta os dois princípios não priorizados e o respectivo motivo da decisão.
 
 | Princípio | Motivo |
 | --- | --- |
@@ -139,6 +149,7 @@ O Claude (Anthropic) ajudou a redigir o rascunho e a formatar a página em Markd
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/10/2026 | Abertura da página, sem o conteúdo do item 11 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 06/10/2026 | Redação dos princípios adotados, critérios de seleção, princípios não priorizados e inclusão da Figura 1 do livro | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
