@@ -1430,3 +1430,28 @@ html.hc :focus-visible {
     transition: none !important;
   }
 }
+
+/* Menus expansíveis da aba Verificação, inclusive quando vazios. */
+.verification-menu > summary {
+  cursor: pointer;
+  list-style: none;
+}
+.verification-menu > summary::-webkit-details-marker {
+  display: none;
+}
+.verification-menu > summary::after {
+  content: "";
+  width: .4rem;
+  height: .4rem;
+  margin-left: auto;
+  border-right: .08rem solid currentColor;
+  border-bottom: .08rem solid currentColor;
+  transform: rotate(-45deg);
+  flex-shrink: 0;
+}
+.verification-menu[open] > summary::after {
+  transform: rotate(45deg);
+}
+.verification-menu > .md-nav__list {
+  padding-left: .6rem;
+}

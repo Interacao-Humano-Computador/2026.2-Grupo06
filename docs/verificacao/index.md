@@ -20,7 +20,7 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-A seção está organizada em três grupos:
+A seção está organizada em dois menus: **Listas de verificação**, reservado para as listas que serão adicionadas, e **Inspeções**, que reúne os três grupos abaixo:
 
 - **Verificação do Grupo 06:** inspeção dos próprios artefatos produzidos pelo grupo, realizada de forma cruzada entre os integrantes.
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.

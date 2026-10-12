@@ -1,0 +1,57 @@
+{# Navegação padrão do Material, com menus expansíveis na aba Verificação. #}
+{% import "partials/nav-item.html" as item with context %}
+{% set class = "md-nav md-nav--primary" %}
+{% if "navigation.tabs" in features %}
+  {% set class = class ~ " md-nav--lifted" %}
+{% endif %}
+{% if "toc.integrate" in features %}
+  {% set class = class ~ " md-nav--integrated" %}
+{% endif %}
+<nav class="{{ class }}" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-nav__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    {{ config.site_name }}
+  </label>
+  {% if config.repo_url %}
+    <div class="md-nav__source">
+      {% include "partials/source.html" %}
+    </div>
+  {% endif %}
+  <ul class="md-nav__list" data-md-scrollfix>
+    {% for nav_item in nav.items %}
+      {% set path = "__nav_" ~ loop.index %}
+      {% if nav_item.title == "Verificação" %}
+        <li class="md-nav__item md-nav__item--nested{% if nav_item.active %} md-nav__item--active md-nav__item--section{% endif %}">
+          <input class="md-nav__toggle md-toggle" type="checkbox" id="{{ path }}" {% if nav_item.active %}checked{% endif %}>
+          <div class="md-nav__link md-nav__container">
+            <a href="{{ nav_item.children[0].url | url }}" class="md-nav__link">{{ nav_item.title }}</a>
+            <label class="md-nav__link" for="{{ path }}" id="{{ path }}_label" tabindex="0"><span class="md-nav__icon md-icon"></span></label>
+          </div>
+          <nav class="md-nav" data-md-level="1" aria-labelledby="{{ path }}_label" aria-expanded="{{ nav_item.active | tojson }}">
+            <label class="md-nav__title" for="{{ path }}"><span class="md-nav__icon md-icon"></span>{{ nav_item.title }}</label>
+            <ul class="md-nav__list" data-md-scrollfix>
+              {% for section in nav_item.children if section.is_section %}
+                <li class="md-nav__item">
+                  <details class="verification-menu" {% if section.active %}open{% endif %}>
+                    <summary class="md-nav__link">{{ section.title }}</summary>
+                    {% if section.children %}
+                      <ul class="md-nav__list">
+                        {% for child in section.children %}
+                          {{ item.render(child, path ~ "_" ~ section.title | replace(" ", "_") ~ "_" ~ loop.index, 3, section) }}
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                  </details>
+                </li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </li>
+      {% else %}
+        {{ item.render(nav_item, path, 1) }}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

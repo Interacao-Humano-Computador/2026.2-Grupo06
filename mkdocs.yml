@@ -128,7 +128,7 @@ nav:
           - Elenco de personas: entrega-2/elenco-personas.md
           - Cenários: entrega-2/cenarios.md
           - Análise de tarefas: entrega-2/analise-tarefas.md
-          - Lista de verificação: verificacao/grupo-06/etapa-2/lista-verificacao.md
+          - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
       - Trabalhos individuais:
           - Bruno Ferreira:
               - Perfil de usuário 1:
@@ -171,21 +171,20 @@ nav:
       - Guia de estilo:
           - entrega-3/guia-de-estilo.md
           - Telas de interface: entrega-3/telas-interface.md
-      - Lista de verificação: verificacao/grupo-06/etapa-3/lista-verificacao.md
+      - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
   - Verificação:
       - verificacao/index.md
-      - Autoverificação (Grupo 06):
-          - verificacao/grupo-06/index.md
-          - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
-          - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
-          - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
-      - Inspeção do Grupo 05:
-          - verificacao/grupo-05/index.md
-          - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
-      - Inspeção do Grupo 07:
-          - verificacao/grupo-07/index.md
-          - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
-          - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
+      - Listas de verificação: []
+      - Inspeções:
+          - Autoverificação (Grupo 06):
+              - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
+              - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
+              - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+          - Inspeção do Grupo 05:
+              - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
+          - Inspeção do Grupo 07:
+              - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
+              - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
   - Registros:
       - Atas:
           - atas/index.md
