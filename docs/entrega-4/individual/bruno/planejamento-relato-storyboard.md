@@ -26,7 +26,7 @@ Este documento define como serão organizados, interpretados e apresentados os r
 
 Barbosa e Silva (2010, seção 9.7.5, p. 311–312) orientam consolidar os resultados, retomar as perguntas da avaliação e responder a elas ou justificar por que não foi possível fazê-lo. O relato deve apresentar objetivos e escopo, método, participantes e avaliadores, síntese dos dados, interpretação, problemas e planejamento do reprojeto. A Figura 1 apresenta o trecho utilizado.
 
-![Página 312 de Barbosa e Silva, com orientações sobre consolidação, limites de generalização e componentes do relato dos resultados.](../assets/img/referencias/barbosa-relato-resultados-p312.png)
+![Página 312 de Barbosa e Silva, com orientações sobre consolidação, limites de generalização e componentes do relato dos resultados.](../../../assets/img/referencias/barbosa-relato-resultados-p312.png)
 
 <p class="caption">Figura 1 — Consolidação e relato dos resultados.</p>
 <p class="source">Fonte: Barbosa e Silva (2010, seção 9.7.5, p. 312).</p>
@@ -190,7 +190,7 @@ A Tabela 8 complementa o cronograma da avaliação. T é a data da sessão princ
 <p class="caption">Tabela 8 — Produção e revisão do relato.</p>
 <p class="source">Fonte: estimativas e responsabilidades previstas no projeto.</p>
 
-A publicação seguirá o padrão de [autoria, revisão e versões](../guia/autoria-revisao-versoes.md), com revisor distinto do autor. Caio Breno de Souza Bezerra é o revisor designado. Datas efetivas e registros serão preenchidos quando a revisão ocorrer.
+A publicação seguirá o padrão de [autoria, revisão e versões](../../../guia/autoria-revisao-versoes.md), com revisor distinto do autor. Caio Breno de Souza Bezerra é o revisor designado. Datas efetivas e registros serão preenchidos quando a revisão ocorrer.
 
 ### Registro das atividades do participante
 
@@ -237,6 +237,6 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 
 [2] GRUPO 06. **Planejamento da avaliação do storyboard: Oficina Legislativa na Escola**. Brasília: FCTE/UnB, 2026. [Planejamento DECIDE](planejamento-avaliacao-storyboard.md).
 
-[3] GRUPO 06. **Cenário e análise de tarefas do perfil Professor**. Brasília: FCTE/UnB, 2026. [Cenário](../entrega-2/individual/bruno/perfil-2/cenario.md) e [HTA/CTT](../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
+[3] GRUPO 06. **Cenário e análise de tarefas do perfil Professor**. Brasília: FCTE/UnB, 2026. [Cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e [HTA/CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
 
 [4] SENADO FEDERAL. **Como funciona a Oficina Legislativa**. Disponível em: [Portal e-Cidadania](https://www12.senado.leg.br/ecidadania/comofuncionaoficinalegislativa). Acesso em: 13 out. 2026.

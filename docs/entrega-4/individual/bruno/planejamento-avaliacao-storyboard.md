@@ -22,7 +22,7 @@ Este planejamento organiza uma avaliação formativa do storyboard da **Oficina 
 
 ## Contextualização
 
-O trabalho dá continuidade ao [perfil Professor](../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), à [persona Rafael Almeida](../entrega-2/individual/bruno/perfil-2/persona.md), ao [cenário da oficina](../entrega-2/individual/bruno/perfil-2/cenario.md) e à [análise de tarefas HTA/CTT](../entrega-2/individual/bruno/perfil-2/analise-tarefas.md). Esses artefatos derivam de [análise documental](../entrega-2/individual/bruno/perfil-2/analise-documental.md); Rafael não representa uma pessoa já entrevistada.
+O trabalho dá continuidade ao [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), à [persona Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/persona.md), ao [cenário da oficina](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e à [análise de tarefas HTA/CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md). Esses artefatos derivam de [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md); Rafael não representa uma pessoa já entrevistada.
 
 O serviço associa as ideias dos alunos à turma por um código. Segundo as orientações oficiais, uma ideia enviada sem esse código não constará na declaração do professor, e o código não pode ser incluído depois da publicação. As ideias são cadastradas pelos alunos. A declaração reúne dados da instituição, turmas, ideias e carga horária estimada [2]. Essas dependências tornam relevante investigar como o processo é compreendido pelo docente.
 
@@ -34,12 +34,12 @@ O storyboard representará o processo atual descrito nas fontes, com um episódi
 
 Barbosa e Silva (2010, p. 294) incluem storyboards entre os artefatos que podem apoiar a avaliação formativa. Os métodos de investigação permitem examinar concepções, expectativas e experiências com auxílio de imagens e cenários, sem exigir o uso de um sistema durante a sessão (p. 301). O DECIDE organiza seis atividades interligadas e iterativas: objetivos, perguntas, métodos, questões práticas, ética e avaliação dos dados (p. 312–313). A Figura 1 reproduz a fundamentação utilizada.
 
-![Trecho de Barbosa e Silva com a explicação das seis atividades interligadas do DECIDE.](../assets/img/referencias/barbosa-decide-p312-313.png)
+![Trecho de Barbosa e Silva com a explicação das seis atividades interligadas do DECIDE.](../../../assets/img/referencias/barbosa-decide-p312-313.png)
 
 <p class="caption">Figura 1 — Framework DECIDE.</p>
 <p class="source">Fonte: Barbosa e Silva (2010, seção 9.8, p. 312–313).</p>
 
-O [planejamento anterior de Bruno](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) é referência de organização: objetivos e perguntas articulados, justificativa do método, tarefas, recursos, cronograma, ética, registro e relato. A avaliação heurística daquele trabalho não é transportada para este estudo. As referências teóricas deste documento usam a edição de **2010**, cuja numeração difere da edição de 2021 citada no modelo.
+O [planejamento anterior de Bruno](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) é referência de organização: objetivos e perguntas articulados, justificativa do método, tarefas, recursos, cronograma, ética, registro e relato. A avaliação heurística daquele trabalho não é transportada para este estudo. As referências teóricas deste documento usam a edição de **2010**, cuja numeração difere da edição de 2021 citada no modelo.
 
 ## D — Determinar os objetivos
 
@@ -74,7 +74,7 @@ Será realizada uma **avaliação formativa por investigação**, com **entrevis
 
 As Figuras 2 e 3 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto) reproduzem a explicação da entrevista semiestruturada e dos métodos de investigação. **Autores da fundamentação:** Simone Diniz Junqueira Barbosa e Bruno Santana da Silva (2010).
 
-**Aplicação do item 7 da lista:** a estrutura do relato descreverá o método efetivamente planejado para este artefato. O storyboard é uma narrativa visual usada na entrevista; a prototipação em papel, mencionada na lista, tem planejamento próprio previsto na [Etapa 5](../proximas/etapa-05.md). Para este recorte, a investigação com material de apoio é justificada pelos objetivos de compreensão e adequação ao contexto, conforme Barbosa e Silva (2010, p. 301). Essa delimitação é a interpretação adotada no projeto, não uma dispensa concedida pelo professor.
+**Aplicação do item 7 da lista:** a estrutura do relato descreverá o método efetivamente planejado para este artefato. O storyboard é uma narrativa visual usada na entrevista; a prototipação em papel, mencionada na lista, tem planejamento próprio previsto na [Etapa 5](../../../proximas/etapa-05.md). Para este recorte, a investigação com material de apoio é justificada pelos objetivos de compreensão e adequação ao contexto, conforme Barbosa e Silva (2010, p. 301). Essa delimitação é a interpretação adotada no projeto, não uma dispensa concedida pelo professor.
 
 A modalidade remota é uma decisão operacional do projeto: compartilhamento de tela e cópia acessível do material permitem conversar sobre os mesmos quadros. Ela não é apresentada como protocolo específico prescrito pelo livro. Não haverá teste de execução no portal, prototipação interativa em papel ou medição de tempo de tarefa. Tempo de leitura e pausas serão registros de contexto, não indicadores de desempenho da funcionalidade.
 
@@ -202,7 +202,7 @@ O moderador acumulará o registro se não houver observador. Caio Breno de Souza
 
 ## D — Decidir como lidar com questões éticas
 
-Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspectos éticos do projeto](../entrega-2/etica.md). O TCLE deverá descrever esta sessão remota, seu objetivo, duração, registros, uso acadêmico e canal de contato; o termo anterior do grupo será adaptado, sem presumir que autoriza outra coleta.
+Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspectos éticos do projeto](../../../entrega-2/etica.md). O TCLE deverá descrever esta sessão remota, seu objetivo, duração, registros, uso acadêmico e canal de contato; o termo anterior do grupo será adaptado, sem presumir que autoriza outra coleta.
 
 - **Autonomia:** participação voluntária, consentimento documentado antes da coleta, possibilidade de não responder, pausar ou desistir sem prejuízo. Gravação de áudio será uma opção separada.
 - **Beneficência:** usar as contribuições para aperfeiçoar a representação e orientar melhorias no apoio ao trabalho docente, sem prometer mudança no serviço do Senado.
@@ -257,9 +257,9 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 
 [2] SENADO FEDERAL. **Como funciona a Oficina Legislativa**. Seção “Oficina Legislativa na Escola”, perguntas sobre declaração, autoria e código da turma. Disponível em: [Portal e-Cidadania](https://www12.senado.leg.br/ecidadania/comofuncionaoficinalegislativa). Acesso em: 13 out. 2026.
 
-[3] GRUPO 06. **Professor: análise documental, perfil, persona, cenário e análise de tarefas**. Brasília: FCTE/UnB, 2026. Disponível na [documentação do perfil Professor](../entrega-2/individual/bruno/perfil-2/analise-documental.md).
+[3] GRUPO 06. **Professor: análise documental, perfil, persona, cenário e análise de tarefas**. Brasília: FCTE/UnB, 2026. Disponível na [documentação do perfil Professor](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
 
-[4] DORNELAS, Bruno Ferreira. **Planejamento de avaliação de IHC: framework DECIDE — Prefeitura de Unaí**. Brasília: FCTE/UnB, 2026. [PDF do modelo](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf).
+[4] DORNELAS, Bruno Ferreira. **Planejamento de avaliação de IHC: framework DECIDE — Prefeitura de Unaí**. Brasília: FCTE/UnB, 2026. [PDF do modelo](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf).
 
 ## Apêndice A — Trechos sobre método e piloto
 
@@ -267,25 +267,25 @@ As figuras a seguir fundamentam a escolha da entrevista, a preparação do pilot
 
 ??? note "Figura 2 — Entrevista semiestruturada"
 
-    ![Roteiro, aprofundamento das respostas e estrutura de uma entrevista semiestruturada.](../assets/img/referencias/barbosa-entrevista-p146.png)
+    ![Roteiro, aprofundamento das respostas e estrutura de uma entrevista semiestruturada.](../../../assets/img/referencias/barbosa-entrevista-p146.png)
     <p class="caption">Figura 2 — Entrevista semiestruturada.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 146), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 3 — Investigação com materiais de apoio"
 
-    ![Métodos de investigação e uso de imagens, cenários e outros artefatos na avaliação.](../assets/img/referencias/barbosa-investigacao-p301.png)
+    ![Métodos de investigação e uso de imagens, cenários e outros artefatos na avaliação.](../../../assets/img/referencias/barbosa-investigacao-p301.png)
     <p class="caption">Figura 3 — Investigação com materiais de apoio.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 301), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 4 — Definição e finalidade do teste-piloto"
 
-    ![Ensaio do planejamento, análise breve dos dados, correções e descarte dos dados do piloto.](../assets/img/referencias/barbosa-piloto-p307.png)
+    ![Ensaio do planejamento, análise breve dos dados, correções e descarte dos dados do piloto.](../../../assets/img/referencias/barbosa-piloto-p307.png)
     <p class="caption">Figura 4 — Definição e finalidade do teste-piloto.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 307), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 5 — Participante do piloto, recrutamento e agendamento"
 
-    ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
+    ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../../../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
     <p class="caption">Figura 5 — Participante do piloto, recrutamento e agendamento.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 308), reprodução do exemplar do projeto.</p>
 

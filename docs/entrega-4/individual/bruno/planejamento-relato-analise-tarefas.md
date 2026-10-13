@@ -26,7 +26,7 @@ Este planejamento define como relatar os resultados da [avaliação da análise 
 
 Barbosa e Silva (2010, p. 310–313) orientam interpretar os dados segundo os objetivos, consolidar resultados e responder às perguntas da avaliação, explicitando limites. A seção 9.7.5 apresenta sete componentes do relato: objetivos e escopo, método, participantes e avaliadores, síntese dos dados, interpretação, problemas e planejamento do reprojeto. A Figura 1 reproduz o trecho que fundamenta esta estrutura.
 
-![Página 312 com os componentes do relato e os cuidados na generalização de resultados.](../assets/img/referencias/barbosa-relato-resultados-p312.png)
+![Página 312 com os componentes do relato e os cuidados na generalização de resultados.](../../../assets/img/referencias/barbosa-relato-resultados-p312.png)
 
 <p class="caption">Figura 1 — Consolidação e relato dos resultados.</p>
 <p class="source">Fonte: Barbosa e Silva (2010, seção 9.7.5, p. 312).</p>
@@ -228,7 +228,7 @@ A Tabela 10 complementa o plano de avaliação. T-AT representa a data ainda nã
 <p class="caption">Tabela 10 — Produção e revisão do relato.</p>
 <p class="source">Fonte: estimativas e papéis previstos no planejamento da avaliação.</p>
 
-Antes da coleta, deverão ser definidos datas/horários, canal de contato, armazenamento restrito e versões dos instrumentos. A publicação seguirá os padrões de [autoria, revisão e versões](../guia/autoria-revisao-versoes.md) e as condições do [plano ético desta avaliação](planejamento-avaliacao-analise-tarefas.md#d-decidir-como-lidar-com-questoes-eticas). Dados brutos, chave de identificação e TCLE não serão publicados.
+Antes da coleta, deverão ser definidos datas/horários, canal de contato, armazenamento restrito e versões dos instrumentos. A publicação seguirá os padrões de [autoria, revisão e versões](../../../guia/autoria-revisao-versoes.md) e as condições do [plano ético desta avaliação](planejamento-avaliacao-analise-tarefas.md#d-decidir-como-lidar-com-questoes-eticas). Dados brutos, chave de identificação e TCLE não serão publicados.
 
 ### Registro das atividades do participante
 
@@ -275,6 +275,6 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 
 [2] GRUPO 06. **Planejamento da avaliação da análise de tarefas — Oficina Legislativa**. Brasília: FCTE/UnB, 2026. [Planejamento DECIDE](planejamento-avaliacao-analise-tarefas.md).
 
-[3] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
+[3] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
 
-[4] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../entrega-2/individual/bruno/perfil-2/analise-documental.md).
+[4] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).

@@ -24,9 +24,9 @@ Será realizada uma entrevista semiestruturada remota apoiada nos modelos, prece
 
 ## Contextualização
 
-O objeto é a [análise de tarefas de Rafael Almeida](../entrega-2/individual/bruno/perfil-2/analise-tarefas.md), versão textual 1.1 de 05/10/2026: objetivo 0, quatro subobjetivos, operações 1.1–4.2, planos HTA e CTT geral com expansões P, V, C e D. O [perfil Professor](../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), a [persona](../entrega-2/individual/bruno/perfil-2/persona.md) e o [cenário](../entrega-2/individual/bruno/perfil-2/cenario.md) delimitam a atividade.
+O objeto é a [análise de tarefas de Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md), versão textual 1.1 de 05/10/2026: objetivo 0, quatro subobjetivos, operações 1.1–4.2, planos HTA e CTT geral com expansões P, V, C e D. O [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), a [persona](../../../entrega-2/individual/bruno/perfil-2/persona.md) e o [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) delimitam a atividade.
 
-Esses artefatos derivam da [análise documental](../entrega-2/individual/bruno/perfil-2/analise-documental.md), com evidências E01–E09. A sequência atual é um percurso escolhido para o cenário; não demonstra que o serviço imponha toda a ordem como bloqueio técnico. As ações dos alunos, a análise das ideias pelo Senado e a comunicação dos retornos são dependências externas ao trabalho do professor representado.
+Esses artefatos derivam da [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md), com evidências E01–E09. A sequência atual é um percurso escolhido para o cenário; não demonstra que o serviço imponha toda a ordem como bloqueio técnico. As ações dos alunos, a análise das ideias pelo Senado e a comunicação dos retornos são dependências externas ao trabalho do professor representado.
 
 O escopo inclui preparar a oficina, estabelecer o vínculo de instituição e turma, orientar a participação, reunir os retornos e obter/conferir a comprovação. Não inclui observar uma oficina completa, medir desempenho de uso do portal, inspecionar a área autenticada ou atribuir ao professor a autoria das ideias dos alunos. Campos, mensagens e condições de emissão não verificados permanecerão como questões abertas.
 
@@ -38,7 +38,7 @@ Barbosa e Silva (2010, p. 191–192) apresentam a análise de tarefas como inves
 
 A CTT distingue tarefas do usuário, do sistema, interativas e abstratas e explicita relações temporais (p. 203–205). A avaliação será organizada pelo DECIDE (p. 312–313, Figura 1), com investigação por entrevista apoiada em artefatos (p. 301). O procedimento remoto, a quantidade de participantes e os instrumentos abaixo são decisões do projeto, não um protocolo específico de validação de HTA/CTT prescrito pelo livro.
 
-O [modelo anterior de Bruno](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) orienta a organização do documento. As citações e as notações deste planejamento seguem a edição de **Barbosa e Silva de 2010**, sem transportar a paginação de 2021 do modelo anterior.
+O [modelo anterior de Bruno](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) orienta a organização do documento. As citações e as notações deste planejamento seguem a edição de **Barbosa e Silva de 2010**, sem transportar a paginação de 2021 do modelo anterior.
 
 ## D — Determinar os objetivos
 
@@ -78,7 +78,7 @@ O participante discutirá o trabalho representado; não será solicitado a escol
 
 As Figuras 6 e 7 do [Apêndice A](#apendice-a-trechos-do-livro) apresentam os trechos sobre entrevista semiestruturada e investigação com materiais de apoio. A Figura 2 fundamenta a verificação da decomposição com partes interessadas. **Autores da fundamentação:** Simone Diniz Junqueira Barbosa e Bruno Santana da Silva (2010).
 
-**Aplicação do item 7 da lista:** o futuro relato descreverá a entrevista e a conferência técnica que integram este planejamento. HTA e CTT representam o trabalho e suas relações; não são um protótipo de interface em papel. O projeto prevê o planejamento da avaliação desse protótipo na [Etapa 5](../proximas/etapa-05.md). A aplicação da estrutura do relato ao método adequado ao artefato é a interpretação adotada neste recorte, fundamentada em Barbosa e Silva (2010, p. 196, 301, 311–312), sem presumir dispensa concedida pelo professor.
+**Aplicação do item 7 da lista:** o futuro relato descreverá a entrevista e a conferência técnica que integram este planejamento. HTA e CTT representam o trabalho e suas relações; não são um protótipo de interface em papel. O projeto prevê o planejamento da avaliação desse protótipo na [Etapa 5](../../../proximas/etapa-05.md). A aplicação da estrutura do relato ao método adequado ao artefato é a interpretação adotada neste recorte, fundamentada em Barbosa e Silva (2010, p. 196, 301, 311–312), sem presumir dispensa concedida pelo professor.
 
 A equipe realizará, separadamente, uma **conferência técnica dos artefatos** contra as notações e a correspondência documental. Essa atividade responde a AT-Q8 e integra o controle de qualidade da modelagem; não será apresentada como opinião do professor nem como avaliação heurística de Nielsen. A discussão guiada também não será denominada percurso cognitivo, pois não aplica esse método.
 
@@ -204,7 +204,7 @@ Caio Breno de Souza Bezerra é o responsável designado pela revisão do planeja
 
 ## D — Decidir como lidar com questões éticas
 
-Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspectos éticos do grupo](../entrega-2/etica.md). O TCLE específico descreverá entrevista remota, leitura da HTA/CTT, duração, registros, uso acadêmico e contato de Bruno. Participação, gravação de áudio e uso de trechos desidentificados terão condições explícitas. A autorização do storyboard não será presumida para esta atividade.
+Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspectos éticos do grupo](../../../entrega-2/etica.md). O TCLE específico descreverá entrevista remota, leitura da HTA/CTT, duração, registros, uso acadêmico e contato de Bruno. Participação, gravação de áudio e uso de trechos desidentificados terão condições explícitas. A autorização do storyboard não será presumida para esta atividade.
 
 - **Autonomia:** aceite documentado antes da coleta, participação voluntária, liberdade de recusar perguntas e de interromper sem prejuízo; evitar pressão por vínculo acadêmico ou profissional.
 - **Beneficência:** usar os dados para aperfeiçoar os modelos e orientar o projeto, sem prometer mudanças no serviço do Senado.
@@ -257,11 +257,11 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 
 [1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 138–149, 191–196, 203–205, 294–313.
 
-[2] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
+[2] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
 
-[3] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../entrega-2/individual/bruno/perfil-2/analise-documental.md).
+[3] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
 
-[4] DORNELAS, Bruno Ferreira. **Planejamento de avaliação de IHC: framework DECIDE — Prefeitura de Unaí**. Brasília: FCTE/UnB, 2026. [PDF do modelo](../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf).
+[4] DORNELAS, Bruno Ferreira. **Planejamento de avaliação de IHC: framework DECIDE — Prefeitura de Unaí**. Brasília: FCTE/UnB, 2026. [PDF do modelo](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf).
 
 ## Apêndice A — Trechos do livro
 
@@ -269,31 +269,31 @@ As figuras abaixo fundamentam o DECIDE, a verificação com partes interessadas 
 
 ??? note "Figura 1 — Framework DECIDE"
 
-    ![Atividades interligadas do DECIDE descritas por Barbosa e Silva.](../assets/img/referencias/barbosa-decide-p312-313.png)
+    ![Atividades interligadas do DECIDE descritas por Barbosa e Silva.](../../../assets/img/referencias/barbosa-decide-p312-313.png)
     <p class="caption">Figura 1 — Organização da avaliação pelo DECIDE.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 312–313).</p>
 
 ??? note "Figura 2 — Verificação da validade da decomposição"
 
-    ![Página 196 com os passos da HTA, incluindo verificar a decomposição com as partes interessadas.](../assets/img/referencias/barbosa-validacao-hta-p196.png)
+    ![Página 196 com os passos da HTA, incluindo verificar a decomposição com as partes interessadas.](../../../assets/img/referencias/barbosa-validacao-hta-p196.png)
     <p class="caption">Figura 2 — Coleta, decomposição e verificação na HTA.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 196).</p>
 
 ??? note "Figura 3 — Elementos e planos da HTA"
 
-    ![Página 193 com a Figura 6.1 e explicações sobre planos e operações da HTA.](../assets/img/referencias/barbosa-notacao-p193.png)
+    ![Página 193 com a Figura 6.1 e explicações sobre planos e operações da HTA.](../../../assets/img/referencias/barbosa-notacao-p193.png)
     <p class="caption">Figura 3 — Elementos do diagrama HTA e especificação de operações.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 193, Figura 6.1).</p>
 
 ??? note "Figura 4 — Tipos de tarefa e hierarquia da CTT"
 
-    ![Página 203 com símbolos de tarefas do usuário, sistema, interativas e abstratas, e hierarquia da CTT.](../assets/img/referencias/barbosa-notacao-p203.png)
+    ![Página 203 com símbolos de tarefas do usuário, sistema, interativas e abstratas, e hierarquia da CTT.](../../../assets/img/referencias/barbosa-notacao-p203.png)
     <p class="caption">Figura 4 — Tipos de tarefa e decomposição na CTT.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 203, Figura 6.4).</p>
 
 ??? note "Figura 5 — Operadores de relações da CTT"
 
-    ![Página 204 com a Figura 6.5, que apresenta os operadores das relações entre tarefas da CTT.](../assets/img/referencias/barbosa-notacao-p204.png)
+    ![Página 204 com a Figura 6.5, que apresenta os operadores das relações entre tarefas da CTT.](../../../assets/img/referencias/barbosa-notacao-p204.png)
     <p class="caption">Figura 5 — Relações entre tarefas da CTT.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 204, Figura 6.5).</p>
 
@@ -301,25 +301,25 @@ As figuras a seguir fundamentam a escolha da entrevista, a preparação do pilot
 
 ??? note "Figura 6 — Entrevista semiestruturada"
 
-    ![Roteiro, aprofundamento das respostas e estrutura de uma entrevista semiestruturada.](../assets/img/referencias/barbosa-entrevista-p146.png)
+    ![Roteiro, aprofundamento das respostas e estrutura de uma entrevista semiestruturada.](../../../assets/img/referencias/barbosa-entrevista-p146.png)
     <p class="caption">Figura 6 — Entrevista semiestruturada.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 146), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 7 — Investigação com materiais de apoio"
 
-    ![Métodos de investigação e uso de imagens, cenários e outros artefatos na avaliação.](../assets/img/referencias/barbosa-investigacao-p301.png)
+    ![Métodos de investigação e uso de imagens, cenários e outros artefatos na avaliação.](../../../assets/img/referencias/barbosa-investigacao-p301.png)
     <p class="caption">Figura 7 — Investigação com materiais de apoio.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 301), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 8 — Definição e finalidade do teste-piloto"
 
-    ![Ensaio do planejamento, análise breve dos dados, correções e descarte dos dados do piloto.](../assets/img/referencias/barbosa-piloto-p307.png)
+    ![Ensaio do planejamento, análise breve dos dados, correções e descarte dos dados do piloto.](../../../assets/img/referencias/barbosa-piloto-p307.png)
     <p class="caption">Figura 8 — Definição e finalidade do teste-piloto.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 307), reprodução do exemplar do projeto.</p>
 
 ??? note "Figura 9 — Participante do piloto, recrutamento e agendamento"
 
-    ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
+    ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../../../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
     <p class="caption">Figura 9 — Participante do piloto, recrutamento e agendamento.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 308), reprodução do exemplar do projeto.</p>
 

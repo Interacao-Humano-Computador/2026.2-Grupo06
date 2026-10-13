@@ -25,7 +25,7 @@ Foram examinados e atualizados:
 - [Planejamento da avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md).
 - [Planejamento do relato da análise de tarefas](planejamento-relato-analise-tarefas.md).
 
-A análise se refere à cópia local; a revisão humana está pendente. As listas de inspeção do [Grupo 06](../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) permanecem **sem respostas**, com os critérios originais preservados.
+A análise se refere à cópia local; a revisão humana está pendente. As listas de inspeção do [Grupo 06](../../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../../verificacao/grupo-05/etapa-4/lista-verificacao.md) permanecem **sem respostas**, com os critérios originais preservados.
 
 ## Aplicação dos critérios ao planejamento
 
@@ -53,7 +53,7 @@ A Tabela 2 distingue o que foi definido agora do que depende de preparação, co
 
 Os documentos descrevem investigação por entrevista com apoio de storyboard ou análise de tarefas, fundamentada em Barbosa e Silva (2010, p. 146, 196, 301). A estrutura do relato foi aplicada a esses métodos, incluindo o registro das atividades efetivamente realizadas quando houver coleta.
 
-A lista menciona prototipação em papel no item 7. O projeto prevê o planejamento da avaliação do protótipo de papel na [Etapa 5](../proximas/etapa-05.md). Por isso, os quatro documentos explicitam a delimitação entre os artefatos e mantêm o método coerente com seus objetivos. Essa é uma interpretação justificada do recorte acadêmico; não há registro de que o professor tenha autorizado uma exceção à redação literal da lista. Se ele exigir prototipação em papel também nesta etapa, será necessário adequar conjuntamente materiais, roteiro e relatos.
+A lista menciona prototipação em papel no item 7. O projeto prevê o planejamento da avaliação do protótipo de papel na [Etapa 5](../../../proximas/etapa-05.md). Por isso, os quatro documentos explicitam a delimitação entre os artefatos e mantêm o método coerente com seus objetivos. Essa é uma interpretação justificada do recorte acadêmico; não há registro de que o professor tenha autorizado uma exceção à redação literal da lista. Se ele exigir prototipação em papel também nesta etapa, será necessário adequar conjuntamente materiais, roteiro e relatos.
 
 ### Preparação dos materiais
 
@@ -99,7 +99,7 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[2] GRUPO 06. [Lista de verificação da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md) e [Template de artefato](../guia/template-artefato.md). IHC, 2026.
+[2] GRUPO 06. [Lista de verificação da Etapa 3](../../../verificacao/grupo-06/etapa-3/lista-verificacao.md) e [Template de artefato](../../../guia/template-artefato.md). IHC, 2026.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 145–149, 193–196, 203–205, 301, 305, 307–308, 311–313. Exemplar disponibilizado na pasta do projeto.
 
