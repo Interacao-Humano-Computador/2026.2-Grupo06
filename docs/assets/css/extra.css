@@ -1455,3 +1455,13 @@ html.hc :focus-visible {
 .verification-menu > .md-nav__list {
   padding-left: .6rem;
 }
+
+/* Hierarquia da navegação: grupos recolhíveis e páginas subordinadas. */
+.md-nav--primary .md-nav[data-md-level="2"] > .md-nav__list {
+  border-left: 1px solid var(--md-default-fg-color--lightest);
+  margin-left: .35rem;
+  padding-left: .55rem;
+}
+.md-nav--primary .md-nav[data-md-level="3"] .md-nav__link {
+  font-size: .75rem;
+}

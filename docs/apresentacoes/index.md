@@ -9,6 +9,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md) e [Etapa 3](etapa-03.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) e Codex (OpenAI) | Acréscimo do vínculo da etapa 4; revisão pendente | [Etapa 4](etapa-04.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -22,7 +23,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | 1 | 08/09/2026 | [YouTube](https://youtu.be/NQzcNg32G2k) | Autores dos artefatos da Entrega 1 | [Etapa 1](etapa-01.md) |
 | 2 | 29/09/2026 | [YouTube](https://youtu.be/Sw4IeebXzRQ) | Autores dos artefatos da Entrega 2 | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | [YouTube](https://youtu.be/EXlnSLsEW94) | Autores dos artefatos da Entrega 3 | [Etapa 3](etapa-03.md) |
-| 4 | 15/10/2026 | — | — | — |
+| 4 | 15/10/2026 | Pendente | A confirmar | [Etapa 4](etapa-04.md) |
 | 5 | 27/10/2026 | — | — | — |
 | 6 | 05/11/2026 | — | — | — |
 | 7 | 17/11/2026 | — | — | — |
@@ -42,6 +43,11 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | `0.4` | 27/09/2026 | Adição do link do vídeo da Entrega 2 e página da Etapa 2 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.5` | 03/10/2026 | Inclui a introdução e cita o plano de ensino no texto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 06/10/2026 | Adição do link do vídeo da Entrega 3 e página da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.7` | 13/10/2026 | Liga a página da etapa 4, sem declarar gravação realizada | Caio Breno de Souza Bezerra, com apoio de Codex | Pendente |
+
+## Agradecimentos
+
+Codex (OpenAI) apoiou a inclusão do vínculo da etapa 4; revisão humana pendente.
 
 ## Referências
 

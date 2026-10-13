@@ -22,7 +22,6 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
     - navigation.indexes
     - navigation.top
     - navigation.path
@@ -143,10 +142,17 @@ nav:
                   - Cenário: entrega-2/individual/bruno/perfil-2/cenario.md
                   - Análise de tarefas: entrega-2/individual/bruno/perfil-2/analise-tarefas.md
           - Caio Breno:
-              - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
-              - Persona: entrega-2/individual/caio/persona.md
-              - Cenário: entrega-2/individual/caio/cenario.md
-              - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
+              - Perfil de usuário 1:
+                  - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
+                  - Persona: entrega-2/individual/caio/persona.md
+                  - Cenário: entrega-2/individual/caio/cenario.md
+                  - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
+              - Perfil de usuário 2 · Proponente:
+                  - Análise documental: entrega-2/individual/caio/perfil-2/analise-documental.md
+                  - Perfil do usuário: entrega-2/individual/caio/perfil-2/perfil-usuario.md
+                  - Persona: entrega-2/individual/caio/perfil-2/persona.md
+                  - Cenário: entrega-2/individual/caio/perfil-2/cenario.md
+                  - Análise de tarefas: entrega-2/individual/caio/perfil-2/analise-tarefas.md
           - Heitor Pinheiro:
               - Entrevista e observação: entrega-2/individual/heitor/entrevista-observacao.md
               - Persona: entrega-2/individual/heitor/persona.md
@@ -172,6 +178,17 @@ nav:
           - entrega-3/guia-de-estilo.md
           - Telas de interface: entrega-3/telas-interface.md
       - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+  - Etapa 4 · Planejamento da avaliação:
+      - entrega-4/index.md
+      - Trabalhos individuais:
+          - Bruno Ferreira: entrega-4/individual/bruno.md
+          - Caio Breno:
+              - entrega-4/caio/index.md
+              - Planejamento da avaliação: entrega-4/caio/avaliacao.md
+              - Planejamento dos relatos: entrega-4/caio/relatos.md
+          - Heitor Pinheiro: entrega-4/individual/heitor.md
+          - Israel Soares: entrega-4/individual/israel.md
+          - Luís Henrique: entrega-4/individual/luis.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação: []
@@ -196,6 +213,7 @@ nav:
           - Etapa 1: apresentacoes/etapa-01.md
           - Etapa 2: apresentacoes/etapa-02.md
           - Etapa 3: apresentacoes/etapa-03.md
+          - Etapa 4: apresentacoes/etapa-04.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md

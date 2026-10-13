@@ -18,13 +18,14 @@ A Tabela 1 registra quem atuou neste artefato.
 | Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](cenarios.md#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Cenário documental da oficina | [Cenário de Rafael](individual/bruno/perfil-2/cenario.md) |
 | Codex (OpenAI) | Correções de consistência, rastreabilidade e integração do cenário documental | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Proposta de integração do perfil documental de autoria, com apoio de Codex; revisão pendente | [Segundo perfil de Caio](individual/caio/perfil-2/perfil-usuario.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne seis cenários do Grupo 06. Cinco estão vinculados às sessões dos integrantes; o cenário adicional de Rafael Almeida utiliza documentos do serviço para descrever uma situação potencial do trabalho docente. A estrutura comum permite comparar objetivos, contexto e dependências, preservando a origem de cada narrativa. O [escopo atual](perfil-usuario.md#escopo-atual-da-investigacao) e a [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) distinguem trechos observados, relatados, reconstruídos e documentais. No caso de Marta, a fonte não sustenta tratar toda a narrativa como sequência observada.
+Esta página reúne sete cenários do Grupo 06. Cinco estão vinculados às sessões dos integrantes; os cenários adicionais de Rafael Almeida e Camila Nogueira utilizam documentos para descrever situações potenciais de coordenação docente e autoria de uma ideia. A estrutura comum permite comparar objetivos, contexto e dependências, preservando a origem de cada narrativa. O [escopo atual](perfil-usuario.md#escopo-atual-da-investigacao) e a [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) distinguem trechos observados, relatados, reconstruídos e documentais. No caso de Marta, a fonte não sustenta tratar toda a narrativa como sequência observada.
 
 ## Item de conteúdo da disciplina
 
@@ -59,7 +60,7 @@ Antes da narrativa, cada cenário lista, numeradas, as perguntas que pretende ex
 
 ## Cenários do grupo
 
-A Tabela 3 reúne os seis cenários de análise. O de Rafael é uma construção documental; seu incidente não representa uma dificuldade observada.
+A Tabela 3 reúne os sete cenários de análise. O de Rafael é uma construção documental; seu incidente não representa uma dificuldade observada.
 
 | Integrante | Título do cenário | Ator | Situação inicial |
 | --- | --- | --- | --- |
@@ -69,11 +70,14 @@ A Tabela 3 reúne os seis cenários de análise. O de Rafael é uma construção
 | Heitor Pinheiro Gonçalves das Chagas | [O projeto aparece na busca, mas o voto não aparece na página](individual/heitor/cenario.md) | [Letícia Oliveira](individual/heitor/persona.md) | No notebook, com a convocação do movimento para votar no PL 1215/2025, Letícia precisa achar a consulta e registrar o voto |
 | Israel Soares de Paiva | [Marta desiste sem saber se o auditório está livre](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) | No computador, e não no celular de sempre, Marta tenta confirmar se o auditório está disponível numa data |
 | Luís Henrique Luna de Arruda | [Marina erra o caminho até a reunião da CCJ](individual/luis/cenario.md) | [Marina Alves](individual/luis/persona.md) | Em casa, no computador, Marina precisa achar uma reunião já realizada da CCJ sem receber o endereço da página |
+| Caio Breno de Souza Bezerra | [Revisar antes de enviar uma ideia](individual/caio/perfil-2/cenario.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Rascunho preparado em casa; revisão anterior ao envio, em situação fictícia baseada em documentos |
 
 <p class="caption">Tabela 3 — Cenários do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), a partir dos cenários individuais. O título descreve a situação, no sentido de BARBOSA et al. (2021, p. 183).</p>
 
 ## Agradecimentos
+
+O acréscimo de 13/10/2026 foi preparado com apoio de Codex (OpenAI) e aguarda revisão humana.
 
 Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e o alinhamento dos títulos à situação de cada cenário são do autor, que segue responsável pelo que está publicado.
 
@@ -94,6 +98,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.3` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/10/2026 | Integra o cenário de Rafael ao índice e distingue narrativa documental de sessões observadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 05/10/2026 | Relaciona cenários ao escopo e explicita a limitação de origem da sequência de Marta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 13/10/2026 | Integra proposta documental do segundo perfil de Caio; preserva a amostra de cinco participantes | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
 
 
 ## Referências

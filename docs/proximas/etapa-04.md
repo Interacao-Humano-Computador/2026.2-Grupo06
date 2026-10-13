@@ -1,5 +1,7 @@
 # Etapa 4 — Planejamento da avaliação do storyboard e da análise de tarefas
 
+[Acessar os trabalhos e a lista de verificação da etapa 4](../entrega-4/index.md).
+
 ## Introdução
 
 
