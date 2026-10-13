@@ -172,6 +172,15 @@ nav:
           - entrega-3/guia-de-estilo.md
           - Telas de interface: entrega-3/telas-interface.md
       - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+  - Etapa 4 · Planejamento da avaliação:
+      - entrega-4/index.md
+      - Trabalhos individuais:
+          - Bruno Ferreira:
+              - Storyboard · Planejamento da avaliação: entrega-4/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/planejamento-relato-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/planejamento-relato-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/conferencia-planejamentos.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação: []
@@ -180,8 +189,10 @@ nav:
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
               - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
               - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+              - Etapa 4: verificacao/grupo-06/etapa-4/lista-verificacao.md
           - Inspeção do Grupo 05:
               - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
+              - Etapa 4: verificacao/grupo-05/etapa-4/lista-verificacao.md
           - Inspeção do Grupo 07:
               - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
               - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
@@ -207,7 +218,6 @@ nav:
       - proximas/index.md
       - Etapa 2: proximas/etapa-02.md
       - Etapa 3: proximas/etapa-03.md
-      - Etapa 4: proximas/etapa-04.md
       - Etapa 5: proximas/etapa-05.md
       - Etapa 6: proximas/etapa-06.md
       - Etapa 7: proximas/etapa-07.md
