@@ -8,9 +8,10 @@ A Tabela 1 registra as atividades e os responsáveis neste índice da Etapa 4.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação inicial do índice da etapa | [Introdução](#introducao) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Mapeamento dos artefatos individuais e atualização dos índices de navegação | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica e conferência dos critérios da etapa | [Histórico de versão](#historico-de-versao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação inicial do índice e storyboard da autoria de ideia | [Introdução](#introducao) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Mapeamento dos artefatos individuais e storyboard de Letícia | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamentos da Oficina Legislativa | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
+| Grok (xAI) | Desenho em SVG do storyboard de Camila | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no índice da Etapa 4.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -30,14 +31,18 @@ Cada integrante do grupo desenvolveu o planejamento completo da avaliação e do
 | Integrante | Funcionalidade / Persona | Storyboard | Análise de Tarefas | Conferência |
 | --- | --- | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Oficina Legislativa na Escola (Perfil Professor — Rafael Almeida) | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/bruno/conferencia-planejamentos.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Votação em consulta pública: PL 1215/2025 (Persona Letícia Oliveira) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/heitor/conferencia-planejamentos.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Votação em consulta pública: PL 1215/2025 (Persona Letícia Oliveira) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-storyboard.md)<br>• [Storyboard desenhado](individual/heitor/planejamento-avaliacao-storyboard.md#storyboard-de-leticia-oliveira-5-quadros) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/heitor/conferencia-planejamentos.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Autoria de ideia legislativa (Persona Camila Nogueira) | • [Storyboard](caio/storyboard.md)<br>• [Planejamento da avaliação](caio/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](caio/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](caio/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](caio/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](caio/conferencia-planejamentos.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Agendamento de visita ao Senado | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-storyboard.md) | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-analise-tarefas.md) | [Conferência dos planejamentos](individual/israel/conferencia-planejamentos.md) |
 
 <p class="caption">Tabela 2 — Trabalhos individuais da Etapa 4 do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
+Participante, datas e horários seguem a confirmar. Luís ainda não publicou os planejamentos desta etapa. Nenhuma sessão de avaliação foi executada.
+
 ## Agradecimentos
 
-Este índice contou com o apoio de ferramentas de inteligência artificial generativa na organização dos vínculos e na padronização da tabela de navegação. A responsabilidade pelo conteúdo e revisão é exclusiva dos autores.
+Heitor Pinheiro organizou o índice e desenhou o storyboard de Letícia. Grok (xAI) desenhou em SVG o storyboard de Camila. A responsabilidade pelo conteúdo permanece com os autores.
 
 ## Histórico de versão
 
@@ -45,4 +50,5 @@ Este índice contou com o apoio de ferramentas de inteligência artificial gener
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.0 | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev); desenhos de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
