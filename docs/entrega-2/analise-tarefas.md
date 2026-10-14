@@ -15,6 +15,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | HTA e CTT da tarefa docente | [Oficina Legislativa](individual/bruno/perfil-2/analise-tarefas.md) |
 | Codex (OpenAI) | Correções de consistência, rastreabilidade e integração da modelagem documental | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | HTA e CTT documentais da autoria de uma ideia | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) |
+| Grok (xAI) | Apoio à integração da modelagem no índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -23,7 +25,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Esta página reúne as análises de tarefas desenvolvidas pelo Grupo 06 no escopo da Entrega 2. A análise de tarefas permite compreender em profundidade o trabalho das pessoas usuárias, decompondo suas ações, estratégias e objetivos para subsidiar a identificação de problemas de usabilidade no Portal do Senado Federal e direcionar futuras propostas de reprojeto. 
 
-O grupo modela as tarefas vinculadas às sessões empíricas e a tarefa docente investigada por documentos, narradas nos respectivos [cenários](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
+O grupo modela as tarefas vinculadas às sessões empíricas e as tarefas documentais do professor e da proponente de ideia, narradas nos respectivos [cenários](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
 
 ## Item de conteúdo da disciplina
 
@@ -82,13 +84,14 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 | Heitor Pinheiro Gonçalves das Chagas | [Votação em consulta pública](individual/heitor/analise-tarefas.md) | [Letícia Oliveira](individual/heitor/persona.md) | Localizar matéria (PL 1215/2025) e votar no portal e-Cidadania |
 | Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Buscar informação sobre disponibilidade de auditório; sequência reconstruída, serviço de reserva não confirmado |
 | Luís Henrique Luna de Arruda | [Pauta e resultado de reunião da CCJ](individual/luis/analise-tarefas.md) | [Marina Alves](individual/luis/persona.md) | Consultar pauta e resultado de item deliberado em comissão |
+| Caio Breno de Souza Bezerra | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Preparar, enviar e acompanhar uma ideia própria; formulário lido, sem envio executado |
 
 <p class="caption">Tabela 2 — Análises de tarefas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
-Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação. A inclusão da análise de Camila, em 13/10/2026, teve apoio de Grok (xAI).
 
 ## Histórico de versão
 
@@ -101,6 +104,8 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.0` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/10/2026 | Integra a HTA e a CTT documentais da Oficina Legislativa ao índice do grupo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/10/2026 | Alinha o índice aos resultados e fronteiras das tarefas e referencia a conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 13/10/2026 | Integra a HTA e a CTT documentais da autoria de uma ideia, sem aumentar a amostra | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

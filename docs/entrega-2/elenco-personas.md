@@ -17,13 +17,15 @@ A Tabela 1 registra quem atuou neste artefato.
 | Claude (Anthropic) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](elenco-personas.md#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Persona documental do professor | [Rafael Almeida](individual/bruno/perfil-2/persona.md) |
 | Codex (OpenAI) | Correções de consistência, rastreabilidade e integração da persona documental | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Persona documental de autoria de ideia legislativa | [Camila Nogueira](individual/caio/perfil-2/persona.md) |
+| Grok (xAI) | Apoio à integração da persona Camila no elenco | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne seis personas do Grupo 06: cinco vinculadas às sessões de entrevista e observação e Rafael Almeida, construído a partir da análise documental da Oficina Legislativa. O elenco identifica nome, perfil, origem e status para orientar as decisões de design. As características dos quatro perfis estão organizadas em [campos comuns](perfil-usuario.md#perfis-de-usuario-identificados), com [cobertura das evidências e lacunas](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). O encadeamento de cada persona com sua fonte, cenário e tarefa está na [conferência coletiva](perfil-usuario.md#conferencia-dos-artefatos).
+Esta página reúne sete personas do Grupo 06: cinco vinculadas às sessões de entrevista e observação, Rafael Almeida, da análise documental da Oficina Legislativa, e Camila Nogueira, da análise documental da autoria de uma ideia legislativa. O elenco identifica nome, perfil, origem e status para orientar as decisões de design. As características dos quatro perfis estão organizadas em [campos comuns](perfil-usuario.md#perfis-de-usuario-identificados), com [cobertura das evidências e lacunas](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). O encadeamento de cada persona com sua fonte, cenário e tarefa está na [conferência coletiva](perfil-usuario.md#conferencia-dos-artefatos).
 
 ## Item de conteúdo da disciplina
 
@@ -37,7 +39,7 @@ Cada projeto tem o próprio elenco, de três a doze personas, com pelo menos uma
 
 ## Elenco
 
-A Tabela 2 reúne as cinco personas vinculadas às sessões e a persona documental do professor. O status é uma priorização de design: uma persona primária não é atendida adequadamente por uma solução centrada em outra persona (BARBOSA; SILVA, 2010, p. 179–180). Isso difere da classificação por regularidade de uso da p. 136. As prioridades atuais são preservadas; as hipóteses de atendimento das secundárias devem ser verificadas no reprojeto.
+A Tabela 2 reúne as cinco personas vinculadas às sessões e as duas personas documentais. O status é uma priorização de design: uma persona primária não é atendida adequadamente por uma solução centrada em outra persona (BARBOSA; SILVA, 2010, p. 179–180). Isso difere da classificação por regularidade de uso da p. 136. As prioridades atuais são preservadas; as hipóteses de atendimento das secundárias devem ser verificadas no reprojeto.
 
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
@@ -47,6 +49,7 @@ A Tabela 2 reúne as cinco personas vinculadas às sessões e a persona document
 | Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania | Primária |
 | Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com uma tarefa administrativa pontual | Secundária |
 | Luís Henrique Luna de Arruda | [Marina Alves](individual/luis/persona.md) | Engenheira química formada, estudante para concursos, que consulta reuniões e pautas sob demanda | Primária |
+| Caio Breno de Souza Bezerra | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Proponente de ideia legislativa; recorte documental de participação cívica, sem entrevista | Focal no trabalho de Caio; prioridade global a revisar |
 
 <p class="caption">Tabela 2 — Elenco de personas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026), com base nas personas individuais e em BARBOSA; SILVA (2010, p. 179–180).</p>
@@ -57,18 +60,19 @@ As prioridades atuais distinguem objetivos e tarefas:
 - **Letícia Oliveira:** localizar a consulta pública e registrar seu posicionamento.
 - **Marina Alves:** localizar uma reunião de comissão e relacionar pauta e resultado.
 - **Rafael Almeida:** coordenar a participação da turma e obter a comprovação da oficina.
+- **Camila Nogueira:** preparar, enviar e acompanhar uma ideia própria, distinguindo envio, apoios e lei.
 
-O elenco passa a ter quatro personas primárias. A recomendação de três no livro não é um limite obrigatório; a inclusão de Rafael decorre do objetivo de coordenação coletiva, ausente nas outras prioridades. Essa decisão deve ser reavaliada conforme o escopo e as verificações do reprojeto, mantendo o elenco manejável.
+O elenco mantém quatro personas classificadas como primárias. Camila é focal no recorte individual de autoria; sua classificação no elenco geral ainda depende de discussão do grupo. A recomendação de três no livro não é um limite obrigatório; a inclusão de Rafael decorre do objetivo de coordenação coletiva, ausente nas outras prioridades. Essa decisão deve ser reavaliada conforme o escopo e as verificações do reprojeto, mantendo o elenco manejável.
 
 **Renata Moreira** permanece secundária na priorização atual, mas o atendimento de sua necessidade de triagem temporal depende de recursos próprios de organização das notícias. Não basta afirmar que uma busca feita para Lucas resolverá sua atividade.
 
 **Marta Oliveira** permanece secundária na priorização atual, com atendimento ainda a verificar: linguagem simples é uma necessidade compartilhada, mas não comprova que a informação sobre disponibilidade de espaços será encontrada. A existência de um serviço de reserva também não foi demonstrada pela entrevista.
 
-O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado. Rafael acrescenta um papel docente investigado por documentos; sua identidade fictícia não altera a composição da amostra nem demonstra a distribuição de gênero do público.
+O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado. Rafael acrescenta um papel docente investigado por documentos. Camila acrescenta a autoria de uma ideia, também por documentos. As identidades fictícias não alteram a composição da amostra nem demonstram a distribuição de gênero do público.
 
 ## Agradecimentos
 
-Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e a decisão de status do elenco são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do Claude (Anthropic) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, a conferência das citações no livro, a seleção do trecho da Figura 1 e a decisão de status do elenco são do autor, que segue responsável pelo que está publicado. A inclusão de Camila Nogueira, em 13/10/2026, teve apoio de Grok (xAI).
 
 
 ## Histórico de versão
@@ -88,6 +92,8 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.4` | 05/10/2026 | Acrescenta Rafael Almeida e justifica sua prioridade, preservando a distinção entre persona documental e amostra | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 05/10/2026 | Relaciona o elenco à caracterização padronizada, às lacunas e à conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 13/10/2026 | Inclui Camila Nogueira como persona documental focal do recorte de autoria, sem alterar as prioridades já decididas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências
