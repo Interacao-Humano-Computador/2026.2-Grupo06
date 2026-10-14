@@ -9,8 +9,6 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Elaboração do planejamento da avaliação do Storyboard | [Introdução](./planejamento-avaliacao-storyboard.md#introducao) |
-| [Nome do integrante 2](https://github.com/usuario) | [descrever contribuição] | [Seção da página](./planejamento-avaliacao-storyboard.md#secao) |
-| [Nome do integrante 3](https://github.com/usuario) | [descrever contribuição] | [Seção da página](./planejamento-avaliacao-storyboard.md#secao) |
 | Claude (Anthropic) | Apoio na organização do texto, na formatação Markdown e na consolidação das tabelas | [Agradecimentos](./planejamento-avaliacao-storyboard.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>

@@ -27,14 +27,14 @@ Segundo o material da disciplina, o relato dos resultados deve comunicar aos int
   ![Trecho do material da disciplina com a lista do que o relato dos resultados deve comunicar: objetivos, método, avaliadores e participantes, tarefas e problemas corrigidos.](../../../assets/img/referencias/relato-resultados-prototipacao-1.png)
   <figcaption>Figura 1 — Itens que o relato dos resultados deve comunicar (parte 1).</figcaption>
 </figure>
-<p class="source">Fonte: SOBRENOME (ano, p. X).</p>
+<p class="source">Fonte: BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.</p>
 
 O mesmo material pede ainda a lista dos problemas ainda não corrigidos, com local, fatores prejudicados, descrição e justificativa, prioridade e sugestões de correção, além de indicações de partes do sistema que podem ser mais bem elaboradas (SOBRENOME, ano, p. X). A Figura 2 reproduz essa parte.
 
   ![Trecho do material da disciplina com a lista dos problemas ainda não corrigidos e das indicações de partes do sistema que podem ser mais bem elaboradas.](../../../assets/img/referencias/relato-resultados-prototipacao-2.png)
   <figcaption>Figura 2 — Itens que o relato dos resultados deve comunicar (parte 2).</figcaption>
 </figure>
-<p class="source">Fonte: SOBRENOME (ano, p. X).</p>
+<p class="source">Fonte: BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.</p>
 
 ## Objetivos da avaliação
 
@@ -175,4 +175,4 @@ O Claude, assistente de inteligência artificial desenvolvido pela Anthropic, ap
 
 ## Referências
 
-[1] SOBRENOME, Nome. Título do material da disciplina de onde saiu o roteiro do relato dos resultados. Local: Editora, ano.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010.
