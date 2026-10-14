@@ -1455,3 +1455,191 @@ html.hc :focus-visible {
 .verification-menu > .md-nav__list {
   padding-left: .6rem;
 }
+
+/* =====================================================================
+   ETAPA 4: ANÁLISE DE TAREFAS (HTA) E STORYBOARDS
+   Classes utilitárias e componentes escopados sob .md-typeset
+   ===================================================================== */
+.md-typeset p.caption {
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0.45rem 0 0.15rem;
+  text-align: left;
+}
+
+.md-typeset p.source {
+  font-size: 0.82rem;
+  color: var(--mute);
+  margin: 0 0 1.2rem;
+  text-align: left;
+}
+
+.md-typeset .author-tag {
+  display: inline-block;
+  margin: 0.2rem 0 0.8rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--gold-ink);
+  background: rgba(250, 167, 49, 0.25);
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+}
+
+.md-typeset .badge-op,
+.md-typeset .badge-alert,
+.md-typeset .badge-rec {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.5rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+.md-typeset .badge-op {
+  background: #e2e8f0;
+  color: #334155;
+}
+.md-typeset .badge-alert {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+.md-typeset .badge-rec {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+/* Diagrama HTA */
+.md-typeset .hta-diagram {
+  margin: 1.2rem 0 0.4rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.8rem;
+  background: #fbfcfd;
+  overflow-x: auto;
+}
+.md-typeset .hta-diagram svg {
+  display: block;
+  min-width: 900px;
+  width: 100%;
+  height: auto;
+  font-family: Outfit, sans-serif;
+}
+
+/* Grid e Cenas do Storyboard */
+.md-typeset .storyboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.4rem;
+  margin: 1.4rem 0 0.6rem;
+}
+.md-typeset .storyboard-frame {
+  border: 1px solid var(--line);
+  border-radius: 0.8rem;
+  background: var(--card);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.md-typeset .storyboard-frame:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 48, 92, 0.08);
+}
+.md-typeset .frame-head {
+  background: var(--navy);
+  color: #ffffff;
+  padding: 0.6rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 750;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+.md-typeset .frame-tag {
+  background: var(--gold);
+  color: var(--gold-ink);
+  font-size: 0.7rem;
+  padding: 2px 7px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.md-typeset .frame-figure {
+  margin: 0;
+  border-bottom: 1px dashed var(--line);
+  background: #f8fafc;
+}
+.md-typeset .frame-figure svg,
+.md-typeset .frame-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+.md-typeset .frame-figure figcaption {
+  font-size: 0.76rem;
+  color: var(--mute);
+  padding: 0.45rem 0.8rem;
+  line-height: 1.35;
+  text-align: center;
+}
+.md-typeset .frame-body {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  font-size: 0.88rem;
+  flex-grow: 1;
+}
+.md-typeset .frame-body p {
+  margin: 0;
+  text-align: left;
+}
+.md-typeset .frame-section-title {
+  font-size: 0.78rem;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--cyan-deep);
+}
+.md-typeset .speech-bubble {
+  background: #f1f5f9;
+  border-left: 3px solid var(--navy-2);
+  padding: 0.5rem 0.7rem;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.84rem;
+  font-style: italic;
+  color: #1e293b;
+}
+.md-typeset .emotion-pill {
+  align-self: flex-start;
+  margin-top: auto;
+  font-size: 0.74rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #0369a1;
+}
+.md-typeset .emotion-pill.alert {
+  background: #fef3c7;
+  color: #92400e;
+}
+.md-typeset .emotion-pill.success {
+  background: #dcfce7;
+  color: #166534;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .hta-diagram,
+[data-md-color-scheme="slate"] .md-typeset .storyboard-frame {
+  background: #1e293b;
+  border-color: rgba(255, 255, 255, 0.12);
+}
+[data-md-color-scheme="slate"] .md-typeset .speech-bubble {
+  background: #0f172a;
+  color: #e2e8f0;
+}
