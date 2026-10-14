@@ -8,52 +8,47 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição da funcionalidade, do perfil e da avaliação remota; responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo, do perfil e da modalidade de avaliação | [Contextualização](#contextualizacao) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Este planejamento organiza uma avaliação formativa do storyboard da **Oficina Legislativa na Escola**, no Portal e-Cidadania do Senado Federal, com uma pessoa do perfil **Professor**. O recorte é organizar a participação da turma e obter a declaração da oficina. Uma entrevista semiestruturada remota, apoiada na leitura do storyboard, investigará a compreensão da história, sua adequação ao trabalho docente e as informações necessárias para conduzir a atividade.
+Este planejamento organiza a avaliação formativa do storyboard da **Oficina Legislativa na Escola**, com o perfil **Professor**, por entrevista semiestruturada remota. O recorte acompanha Rafael Almeida na organização da participação da turma e na obtenção da declaração.
 
-**Situação em 13/10/2026:** planejamento elaborado para revisão interna; participante, observador, datas e horários ainda não confirmados. O storyboard visual e o TCLE específico da sessão deverão ser preparados antes do piloto. Nenhuma sessão ou coleta é relatada como realizada. O [planejamento do relato](planejamento-relato-storyboard.md) define como organizar os resultados futuros.
+**Participante e sessão:** A entrevista com Alisson dos Santos, professor de Física, está prevista para 20/10/2026, das 19h às 19h40, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. O [storyboard versão 0.2](storyboard.md) está disponível; revisão dos materiais e preparação do TCLE seguem previstas até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-storyboard.md) orienta os registros futuros.
 
 ## Contextualização
 
-O trabalho dá continuidade ao [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), à [persona Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/persona.md), ao [cenário da oficina](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e à [análise de tarefas HTA/CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md). Esses artefatos derivam de [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md); Rafael não representa uma pessoa já entrevistada.
+O [storyboard](storyboard.md) dá continuidade ao [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), à [persona Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/persona.md), ao [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e à [análise de tarefas HTA/CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md), elaborados por [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
 
-O serviço associa as ideias dos alunos à turma por um código. Segundo as orientações oficiais, uma ideia enviada sem esse código não constará na declaração do professor, e o código não pode ser incluído depois da publicação. As ideias são cadastradas pelos alunos. A declaração reúne dados da instituição, turmas, ideias e carga horária estimada [2]. Essas dependências tornam relevante investigar como o processo é compreendido pelo docente.
-
-O storyboard representará o processo atual descrito nas fontes, com um episódio fictício de dúvida sobre o código. A sessão examinará essa representação e a experiência relatada pelo professor. Não envolverá cadastro real, acesso a contas de alunos, publicação de ideias ou emissão de declaração. Campos e mensagens da área autenticada ainda não verificados serão representados de forma geral, sem inventar telas como se fossem existentes.
+Segundo as orientações oficiais, os alunos cadastram suas ideias com o código da turma. Sem ele, a ideia não constará na declaração do professor e não poderá ser vinculada depois da publicação [2]. A história representa esse processo e uma dúvida fictícia sobre o código, com base na documentação pública do serviço. A sessão não envolverá contas, publicações ou emissão real de documentos.
 
 ## Item de conteúdo da disciplina
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-Barbosa e Silva (2010, p. 294) incluem storyboards entre os artefatos que podem apoiar a avaliação formativa. Os métodos de investigação permitem examinar concepções, expectativas e experiências com auxílio de imagens e cenários, sem exigir o uso de um sistema durante a sessão (p. 301). O DECIDE organiza seis atividades interligadas e iterativas: objetivos, perguntas, métodos, questões práticas, ética e avaliação dos dados (p. 312–313). A Figura 1 reproduz a fundamentação utilizada.
+Barbosa e Silva (2010) apresentam storyboards como apoio à avaliação formativa (p. 294), a investigação com imagens e cenários (p. 301) e as seis atividades interligadas do DECIDE (p. 312–313), reproduzidas na Figura 1. A organização também segue o [planejamento anterior de Bruno](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf); as referências deste documento correspondem à edição de **2010**.
 
-![Trecho de Barbosa e Silva com a explicação das seis atividades interligadas do DECIDE.](../../../assets/img/referencias/barbosa-decide-p312-313.png)
+??? note "Figura 1 — Framework DECIDE"
 
-<p class="caption">Figura 1 — Framework DECIDE.</p>
-<p class="source">Fonte: Barbosa e Silva (2010, seção 9.8, p. 312–313).</p>
-
-O [planejamento anterior de Bruno](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf) é referência de organização: objetivos e perguntas articulados, justificativa do método, tarefas, recursos, cronograma, ética, registro e relato. A avaliação heurística daquele trabalho não é transportada para este estudo. As referências teóricas deste documento usam a edição de **2010**, cuja numeração difere da edição de 2021 citada no modelo.
+    ![As seis atividades interligadas do DECIDE.](../../../assets/img/referencias/barbosa-decide-p312-313.png)
+    <p class="caption">Figura 1 — Framework DECIDE.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, seção 9.8, p. 312–313).</p>
 
 ## D — Determinar os objetivos
 
-**Objetivo geral:** identificar dificuldades de compreensão e lacunas na representação do trabalho do professor no storyboard, para orientar sua revisão e levantar necessidades a investigar no reprojeto da Oficina Legislativa.
+**Objetivo geral:** identificar dificuldades de compreensão e lacunas na representação do trabalho docente, para revisar o storyboard e levantar necessidades para o reprojeto.
 
-- **O1 — Compreensão:** verificar se o professor compreende objetivo, sequência, responsabilidades e relação entre código, participação dos alunos e declaração.
-- **O2 — Adequação ao contexto:** investigar se a história é compatível com sua prática docente e quais ações, recursos ou dependências estão ausentes.
-- **O3 — Revisão:** identificar trechos confusos e sugestões justificadas, distinguindo alterações do storyboard de hipóteses sobre o serviço.
-
-Os objetivos interessam ao professor, que precisa coordenar a atividade, e à equipe, que precisa fundamentar as próximas decisões de design. A avaliação não medirá a eficiência de uso do site nem comparará alternativas inexistentes. A distinção entre objetivos e perguntas segue Barbosa e Silva (2010, p. 313).
+- **O1 — Compreensão:** examinar objetivo, sequência, responsabilidades e relação entre código, ideias e declaração.
+- **O2 — Adequação ao contexto:** verificar a compatibilidade com a prática docente e identificar ações, recursos ou dependências ausentes.
+- **O3 — Revisão:** localizar trechos confusos e sugestões justificadas, distinguindo mudanças na narrativa de hipóteses sobre o serviço.
 
 ## E — Explorar as perguntas
 
-A Tabela 2 vincula cada pergunta à evidência pretendida. As formulações serão usadas após a leitura livre, sem apresentar ao participante os critérios de interpretação.
+A Tabela 2 relaciona perguntas e evidências. O moderador começará pelo relato livre e aprofundará as respostas sem antecipar a interpretação esperada.
 
 | Objetivo | Pergunta de avaliação e formulação ao participante | Evidência a registrar |
 | --- | --- | --- |
@@ -70,45 +65,41 @@ A Tabela 2 vincula cada pergunta à evidência pretendida. As formulações ser�
 
 ## C — Escolher os métodos
 
-Será realizada uma **avaliação formativa por investigação**, com **entrevista semiestruturada apoiada no storyboard**, em sessão remota síncrona. A entrevista permite aprofundar respostas e levantar experiências e expectativas (BARBOSA; SILVA, 2010, p. 145–149, 301). A leitura da história oferece uma referência comum para discutir a tarefa e localizar dúvidas.
+Será realizada **investigação por entrevista semiestruturada apoiada no storyboard**, em sessão remota síncrona. O método permite aprofundar experiências, expectativas e interpretações com auxílio de imagens (BARBOSA; SILVA, 2010, p. 145–149, 301; Figuras 2 e 3 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto)). A modalidade remota é uma escolha operacional do projeto.
 
-As Figuras 2 e 3 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto) reproduzem a explicação da entrevista semiestruturada e dos métodos de investigação. **Autores da fundamentação:** Simone Diniz Junqueira Barbosa e Bruno Santana da Silva (2010).
+O professor lerá livremente a história e poderá voltar aos quadros. Depois, o moderador explorará Q1–Q7 com perguntas neutras, como “O que nessa cena fez você entender dessa forma?”. Se precisar esclarecer algo, registrará a resposta inicial e a intervenção. O tempo organiza a sessão; não mede desempenho no portal.
 
-**Aplicação do item 7 da lista:** a estrutura do relato descreverá o método efetivamente planejado para este artefato. O storyboard é uma narrativa visual usada na entrevista; a prototipação em papel, mencionada na lista, tem planejamento próprio previsto na [Etapa 5](../../../proximas/etapa-05.md). Para este recorte, a investigação com material de apoio é justificada pelos objetivos de compreensão e adequação ao contexto, conforme Barbosa e Silva (2010, p. 301). Essa delimitação é a interpretação adotada no projeto, não uma dispensa concedida pelo professor.
-
-A modalidade remota é uma decisão operacional do projeto: compartilhamento de tela e cópia acessível do material permitem conversar sobre os mesmos quadros. Ela não é apresentada como protocolo específico prescrito pelo livro. Não haverá teste de execução no portal, prototipação interativa em papel ou medição de tempo de tarefa. Tempo de leitura e pausas serão registros de contexto, não indicadores de desempenho da funcionalidade.
-
-Durante a leitura, o participante poderá comentar espontaneamente. As perguntas serão feitas depois, evitando interrupções que expliquem antecipadamente a história. Para aprofundar uma resposta, o moderador usará perguntas neutras, como “O que nessa cena fez você entender dessa forma?”. Não perguntará “Você entendeu que o aluno precisa usar o código, certo?”.
+O relato apresentará o método e as atividades desta avaliação. A aplicação do item 7 da lista de verificação está discutida na [conferência dos planejamentos](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos).
 
 ## I — Identificar e administrar questões práticas
 
 ### Participante e recrutamento
 
-Planeja-se **uma sessão exploratória com um professor**, além de **um piloto com outra pessoa**. A quantidade é uma escolha inicial para este recorte individual; não é um mínimo universal do DECIDE nem permite afirmar representatividade, saturação ou validação de todo o perfil. A definição de perfil e quantidade deve considerar objetivos e escopo (BARBOSA; SILVA, 2010, p. 305). Se a disciplina exigir mais participantes, o planejamento será atualizado antes da coleta.
+**Participante previsto:** Alisson dos Santos, professor de Física, indicado por Bruno. Será usado o código **PROF01** nos registros. Na triagem, Bruno verificará maioridade, atuação no ensino fundamental ou médio, experiência com turmas, familiaridade com a Oficina e necessidades de acessibilidade. Esses dados ainda não foram informados; se o docente atuar apenas no ensino superior, o recorte deverá ser revisto antes da sessão.
 
-O participante principal deverá ser adulto, atuar como professor do ensino fundamental ou médio e ter experiência de conduzir atividades com turmas compatíveis com a modalidade escolar da oficina. Conhecimento prévio da Oficina Legislativa não é obrigatório; será registrado para interpretar as respostas. Nome, idade fictícia e aparência de Rafael não são critérios de seleção. Caso o acesso seja apenas a um docente do ensino superior, o cenário e a modalidade do serviço deverão ser revistos antes do recrutamento.
+Será avaliado **um caso exploratório**, permitindo aprofundar os sete quadros com os recursos disponíveis. A quantidade não representa todos os professores; lacunas centrais poderão exigir coleta adicional (BARBOSA; SILVA, 2010, p. 305, 312).
 
-**Onde e como recrutar:** Bruno buscará um professor por indicação de contatos acadêmicos do grupo e por contato com coordenações de escolas de ensino fundamental ou médio, usando e-mail institucional para solicitar o encaminhamento de um convite voluntário. A indicação não equivalerá à inscrição: o docente interessado deverá aceitar o contato individual. Serão priorizados docentes sem relação de dependência acadêmica/profissional com o avaliador. Nenhuma escola ou pessoa está confirmada; nomes e contatos permanecerão privados. Se a primeira tentativa não produzir interessado elegível, ampliar as indicações e os contatos institucionais, mantendo o perfil e reagendando as sessões.
+Bruno fará o convite direto pelo canal privado de contato com Alisson até **14/10**, explicando objetivo, atividades, duração, voluntariedade e uso dos dados. Disponibilidade e consentimento serão confirmados antes da coleta. Experiência prévia na Oficina não será presumida: sem ela, as respostas sobre o serviço serão tratadas como expectativas. Eventuais vínculos com o avaliador serão registrados, evitando pressão acadêmica ou profissional.
 
-**Triagem prevista:** confirmar atuação atual na educação básica, experiência com turmas, familiaridade com a Oficina, condições de leitura/áudio, necessidades de acessibilidade e disponibilidade para 35–40 minutos. O convite informará objetivo, atividades, duração, modalidade remota, voluntariedade e contato do responsável. Esses procedimentos seguem Barbosa e Silva (2010, p. 308), reproduzidos na Figura 5 do apêndice.
+Para o piloto, Bruno selecionará até **16/10** uma pessoa diferente de Alisson, não envolvida na elaboração, preferencialmente docente ou de perfil próximo, por indicação de contatos acadêmicos. Se Alisson não puder participar ou não atender ao perfil, o mesmo canal de indicações apoiará a substituição, com atualização da agenda.
 
-**Justificativa da quantidade:** um caso permite percorrer os sete quadros e aprofundar as sete perguntas dentro da sessão prevista, com condução e análise sob responsabilidade de um moderador e sem verba adicional. O objetivo é obter evidências exploratórias sobre a compreensão deste storyboard, não comparar grupos. O piloto tem finalidade distinta e não aumenta a amostra principal. Se o docente não puder discutir o contexto necessário, se faltarem evidências para perguntas centrais ou se o escopo passar a comparar experiências, revisar o roteiro e o recrutamento e planejar sessão adicional antes de concluir sobre esses pontos.
+**Equipe prevista:** Bruno Ferreira Dornelas moderará e registrará a sessão, sem observador adicional, com pausas para conferir as notas. Caio Breno de Souza Bezerra é responsável pela revisão, conforme o cronograma.
 
-Bruno realizará o convite individual, apresentará objetivo, duração, modalidade e voluntariedade e confirmará o perfil por perguntas breves sobre etapa de ensino, condução de atividades com turmas e experiência com a Oficina. Não serão solicitados nomes de alunos ou identificação da escola. Uma relação prévia entre avaliador e participante deverá ser registrada como possível influência; não se fará convite sob pressão acadêmica ou profissional. O participante receberá o código **PROF01**; sua identidade e contato ficarão separados dos registros analíticos.
+Alisson está previsto para as duas avaliações: storyboard em **20/10** e análise de tarefas em **21/10**. Registrar a ordem efetiva, os materiais já vistos e o consentimento para ambas; os códigos PROF01 e AT-PROF01 correspondem à mesma pessoa, não a dois participantes independentes.
 
 ### Equipe, ambiente e materiais
 
-A Tabela 3 estabelece os recursos e responsabilidades previstos.
+A Tabela 3 reúne responsabilidades e recursos. Caio é o responsável pela revisão, conforme o cronograma.
 
 | Item | Definição |
 | --- | --- |
 | Moderador e responsável pelos dados | Bruno Ferreira Dornelas: convite, consentimento, condução, organização e análise |
-| Observador | Um integrante do grupo, a confirmar; registrará evidências e intervenções sem conduzir respostas |
+| Registro da sessão | Bruno, sem observador adicional; anotações e pausas de conferência |
 | Revisor | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev): conferirá fontes, análise e relato |
 | Local | Sessão remota; cada pessoa em ambiente escolhido por ela, com privacidade e pouco ruído |
-| Plataforma | Google Meet como opção prevista; confirmar acesso, compartilhamento e recursos de acessibilidade no piloto; link enviado em privado |
+| Plataforma | Google Meet; testar acesso, compartilhamento e recursos de acessibilidade no piloto; link enviado em privado |
 | Equipamentos | Computador ou dispositivo que permita ler os quadros, conexão e áudio; câmera facial opcional |
-| Material de avaliação | Storyboard numerado QD01–QD07, versão e data, legendas legíveis, descrição textual equivalente e cópia para ampliação |
+| Material de avaliação | [Storyboard v0.2 de 13/10/2026](storyboard.md), QD01–QD07, com imagem ampliável e descrição textual; registrar a versão final após o piloto |
 | Instrumentos | TCLE específico, perguntas de caracterização, roteiro desta página e formulário de registro |
 | Registro | Anotações; áudio opcional somente se autorizado e tecnicamente disponível; sem gravação facial prevista |
 | Custo | Uso de recursos disponíveis, sem despesas adicionais previstas; custo eventual exige revisão do planejamento |
@@ -117,11 +108,11 @@ A Tabela 3 estabelece os recursos e responsabilidades previstos.
 <p class="caption">Tabela 3 — Recursos e responsabilidades.</p>
 <p class="source">Fonte: decisões operacionais do projeto; questões práticas de Barbosa e Silva (2010, p. 305–308, 313).</p>
 
-Se não houver observador disponível, Bruno registrará as respostas por escrito, reservará pausas para conferência e indicará essa limitação. A ausência de autorização para áudio não impede a participação. A ferramenta de chamada não deverá ativar gravação ou transcrição automática sem consentimento específico.
+Bruno fará pausas para registrar e conferir as notas. Áudio não é condição de participação; gravação ou transcrição automática dependerão de autorização específica.
 
 ### Material que deverá estar pronto para avaliação
 
-A Tabela 4 define a cobertura prevista do storyboard a produzir. Os quadros vinculam a história aos quatro objetivos da HTA e às tarefas abstratas P, V, C e D da CTT. Esta tabela é uma especificação do material, não substitui o storyboard visual.
+A Tabela 4 relaciona os **sete quadros do [storyboard versão 0.2](storyboard.md)** à análise de tarefas. Os desenhos possuem ID, título e vínculo; versão e data constam no documento do storyboard. A revisão de Caio inclui legibilidade e correspondência das tarefas antes do piloto.
 
 | Quadro | Situação a representar | Vínculo com a análise de tarefas |
 | --- | --- | --- |
@@ -136,13 +127,11 @@ A Tabela 4 define a cobertura prevista do storyboard a produzir. Os quadros vinc
 <p class="caption">Tabela 4 — Cobertura prevista dos quadros e rastreabilidade.</p>
 <p class="source">Fonte: cenário e HTA/CTT de Rafael Almeida, Grupo 06 (2026).</p>
 
-As orientações conhecidas podem aparecer na história; o que será investigado é sua interpretação após a leitura, não a capacidade de adivinhar regras. O moderador não fornecerá explicações adicionais antes de registrar a resposta inicial. Qualquer mudança na quantidade ou ordem dos quadros deverá atualizar as referências desta tabela e dos instrumentos.
-
-**Critério de preparação:** cada desenho deverá apresentar ID, legenda, vínculo da Tabela 4 e versão; a revisão interna conferirá a correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante** (Bruno, Caio, Heitor, Israel e Luis). Este documento especifica o de Bruno, com sete quadros; os demais integrantes deverão produzir suas narrativas ligadas às respectivas análises de tarefas. A contagem será de storyboards completos, não de quadros. A produção dos desenhos e a conferência do conjunto são atividades futuras de preparação, sem indicar que esses cinco materiais já existem.
+O requisito coletivo é de **cinco storyboards, um por integrante** (Bruno, Caio, Heitor, Israel e Luis). O de Bruno está disponível em [Storyboard — Oficina Legislativa](storyboard.md); a consolidação dos demais materiais permanece com o grupo. Mudanças na ordem ou quantidade de quadros atualizarão seus vínculos e instrumentos.
 
 ### Roteiro da sessão
 
-A Tabela 5 distribui aproximadamente 35 minutos. Até cinco minutos adicionais poderão ser usados para pausas e ajustes técnicos, mediante concordância do participante. Os tempos serão conferidos no piloto.
+A Tabela 5 prevê 35 minutos, com até cinco minutos adicionais para pausas e ajustes, a conferir no piloto.
 
 | Momento | Tempo previsto | Procedimento |
 | --- | --- | --- |
@@ -155,101 +144,90 @@ A Tabela 5 distribui aproximadamente 35 minutos. Até cinco minutos adicionais p
 <p class="caption">Tabela 5 — Sequência prevista da sessão remota.</p>
 <p class="source">Fonte: operacionalização do grupo a partir de Barbosa e Silva (2010, p. 145–149, 305–308).</p>
 
-**Instrução inicial prevista:** “Esta história mostra um professor organizando uma Oficina Legislativa e buscando sua comprovação. Queremos saber como você interpreta essa situação e como ela se relaciona com seu trabalho. Você pode ler no seu ritmo, voltar aos quadros e apontar dúvidas ou discordâncias. Estamos avaliando o material; você não precisa conhecer as regras do serviço.”
-
-Quando uma dúvida impedir a continuidade, o moderador primeiro registrará a interpretação e depois poderá esclarecer, marcando o momento da intervenção. Respostas posteriores serão identificadas como dadas após esclarecimento. Diante de desconforto, pedido de pausa ou desistência, a sessão será interrompida. A impossibilidade de concluir uma pergunta será registrada, sem pressionar por resposta.
+**Instrução inicial:** “Esta história mostra um professor organizando uma Oficina Legislativa e buscando sua comprovação. Queremos conhecer sua interpretação e a relação com seu trabalho. Você pode ler no seu ritmo, voltar aos quadros e apontar dúvidas. Estamos avaliando o material.”
 
 ### Teste-piloto
 
-**Definição:** o teste-piloto é o ensaio do procedimento de avaliação para verificar se o planejamento, os materiais e os registros permitem responder aos objetivos e às perguntas. Inclui uma breve análise dos dados do ensaio e correções antes da sessão principal. A Figura 4 e a continuação na Figura 5 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto) apresentam essa fundamentação. **Autores:** Barbosa e Silva (2010, p. 307–308).
+O piloto é um **ensaio do procedimento**, incluindo breve análise dos dados para corrigir materiais e registros antes da avaliação (BARBOSA; SILVA, 2010, p. 307–308; Figuras 4 e 5 do apêndice). Será realizado antes da sessão principal com pessoa distinta de PROF01, que não tenha elaborado o material, preferencialmente docente ou de perfil próximo.
 
-O piloto ocorrerá em **data anterior à sessão principal**, com uma pessoa que não tenha participado da elaboração do material, preferencialmente docente. Se não for possível recrutar esse perfil para o piloto, uma pessoa com perfil próximo poderá verificar linguagem, funcionamento e duração; isso não substituirá o professor da avaliação principal. O participante do piloto não será reutilizado na sessão principal.
-
-Será ensaiado todo o procedimento: consentimento, acesso remoto, leitura, entrevista, registro e uma breve análise dos dados. O piloto deverá verificar se as respostas permitem abordar Q1–Q7, se os quadros podem ser identificados, se a linguagem é neutra e se há tempo suficiente. Seus dados serão excluídos do conjunto de resultados da avaliação; o registro metodológico preservará somente problemas do procedimento e ajustes realizados, sem falas pessoais. Mudanças extensas exigirão novo piloto. Essas decisões seguem Barbosa e Silva (2010, p. 307–308).
+Serão ensaiados consentimento, acesso, legibilidade, leitura, entrevista, duração e registro. A análise verificará se é possível responder Q1–Q7 e localizar os quadros sem induzir respostas. Mudanças extensas exigirão novo piloto. **Seus dados não entrarão nos resultados principais**; serão preservados apenas os ajustes metodológicos desidentificados.
 
 ### Cronograma e pendências de agendamento
 
-A Tabela 6 define a ordem e o esforço previsto. **T** representa a data ainda não agendada da avaliação principal. As janelas são propostas de organização, não compromissos confirmados. A data de entrega acadêmica não será tratada como data fictícia de coleta.
+A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10.
 
-| Atividade | Janela prevista | Esforço estimado | Produto / condição de conclusão |
+| Atividade | Data e horário propostos | Responsável | Produto / condição |
 | --- | --- | --- | --- |
-| Preparar storyboard e instrumentos; revisão interna | T−7 a T−3 dias | 3 h | Versões identificadas; TCLE e roteiro conferidos |
-| Recrutar e confirmar disponibilidade | Antes do piloto e da avaliação | 30 min de contato, além da espera | Perfis conferidos e agendamentos privados confirmados |
-| Executar piloto | T−2 dias, em data anterior a T | 35–40 min | Funcionamento e qualidade dos dados verificados |
-| Interpretar piloto e corrigir materiais | T−2 a T−1 dias | 1 h | Ajustes registrados; nova versão; novo piloto se necessário |
-| Conduzir sessão com PROF01 | T | 35–40 min | Consentimento confirmado e registros produzidos |
-| Organizar e interpretar dados | T a T+1 dia | 2 h | Evidências e respostas por pergunta |
-| Consolidar, redigir e revisar relato | T+1 a T+3 dias | 2 h | Relato conferido e recomendações rastreáveis |
+| Convidar Alisson e verificar perfil; selecionar pessoa do piloto | 14/10, 17h–17h30; confirmar até 16/10 | Bruno | Contato compartilhado entre os dois planos; aceites e triagem registrados |
+| Revisar storyboard e descrição textual; preparar roteiro e TCLE | 14/10, 18h–19h; 15/10, 18h–20h | Bruno; revisão conjunta dos materiais por Caio em 16/10, 21h–22h | Materiais versionados e instrumentos prontos |
+| Realizar piloto | 17/10, 18h–18h40 | Bruno e pessoa selecionada para o piloto | Procedimento e registros ensaiados |
+| Analisar piloto e ajustar materiais | 18/10, 18h–19h | Bruno | Dados analisáveis e ajustes documentados |
+| Reserva para novo piloto, se necessário | 19/10, 18h–18h40 | Bruno e pessoa do piloto | Confirmar correções antes da sessão principal |
+| Entrevistar Alisson (PROF01) | 20/10, 19h–19h40 | Bruno e Alisson | Consentimento e dados da avaliação |
+| Organizar e interpretar os dados | 20/10, 19h45–20h15; 21/10, 17h–18h30 | Bruno | Evidências e síntese por pergunta |
+| Consolidar o relato e revisar | 22/10, 18h–19h; 23/10, 18h–19h | Bruno e Caio | Relato revisado e encaminhamentos |
+| Conferir conjunto final para a entrega | 24/10, 18h–19h | Bruno | Conferência conjunta dos dois artefatos e relatos |
 
-<p class="caption">Tabela 6 — Cronograma relativo da avaliação.</p>
-<p class="source">Fonte: estimativas do projeto; atividades básicas de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
-
-Antes de realizar o piloto, preencher: pessoa do piloto; data e horário com fuso de Brasília; observador ou registro de condução individual; plataforma e recursos testados. Antes da avaliação principal, preencher: confirmação de PROF01; data e horário; revisor; versão final do storyboard e dos instrumentos; canal privado de contato e local de armazenamento restrito dos dados. As datas efetivas deverão substituir as janelas relativas no registro operacional.
+<p class="caption">Tabela 6 — Cronograma proposto da avaliação e do relato.</p>
+<p class="source">Fonte: elaboração do projeto com base nas atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
 ### Registro de agendamento previsto
 
-A Tabela 7 explicita os campos de calendário e o local. Como ainda não há participante, as datas e os horários permanecem a confirmar, conforme informado pelo responsável. Bruno deverá preenchê-los após o aceite e antes do piloto, preservando o intervalo para ajustes. A sessão será remarcada se o piloto indicar correções que não caibam nesse intervalo.
+A Tabela 7 apresenta as datas propostas, sujeitas à confirmação com os participantes. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Em caso de reagendamento, o piloto será mantido antes da avaliação principal.
 
-| Sessão | Data prevista | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma prevista | Condição |
+| Sessão | Data proposta | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma | Participante e condição |
 | --- | --- | --- | --- | --- | --- |
-| Piloto do storyboard | A confirmar; T−2 dias | A confirmar | 40 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa diferente de PROF01 e não envolvida na elaboração |
-| Avaliação do storyboard | A confirmar; T | A confirmar | 40 min | Remota, Google Meet; link enviado em privado | Professor elegível, materiais ajustados e consentimento |
+| Piloto do storyboard | 17/10/2026 | 18h–18h40 | 40 min | Remota, Google Meet; ambientes privados | Pessoa a selecionar até 16/10, diferente de Alisson e não envolvida na elaboração |
+| Avaliação do storyboard | 20/10/2026 | 19h–19h40 | 40 min | Remota, Google Meet; link privado | Alisson dos Santos, professor de Física; confirmar perfil, aceite e consentimento |
 
-<p class="caption">Tabela 7 — Agendamento a completar antes das sessões.</p>
-<p class="source">Fonte: planejamento operacional do projeto, orientado por Barbosa e Silva (2010, p. 307–308).</p>
-
-O moderador acumulará o registro se não houver observador. Caio Breno de Souza Bezerra é o responsável designado pela revisão do planejamento e dos materiais antes do piloto e, posteriormente, do relato. Bruno combinará os prazos de revisão com ele. Esses papéis pertencem ao recorte individual da Oficina e deverão ser articulados com os responsáveis pela consolidação da entrega coletiva.
+<p class="caption">Tabela 7 — Agenda provisória das sessões.</p>
+<p class="source">Fonte: decisões operacionais do projeto, orientadas por Barbosa e Silva (2010, p. 307–308).</p>
 
 ## D — Decidir como lidar com questões éticas
 
-Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspectos éticos do projeto](../../../entrega-2/etica.md). O TCLE deverá descrever esta sessão remota, seu objetivo, duração, registros, uso acadêmico e canal de contato; o termo anterior do grupo será adaptado, sem presumir que autoriza outra coleta.
+Os cuidados seguem Barbosa e Silva (2010, p. 138–142) e os [aspectos éticos do grupo](../../../entrega-2/etica.md). O TCLE específico informará objetivo, duração, uso acadêmico, responsáveis, registros, prazo de retenção e canal de contato.
 
-- **Autonomia:** participação voluntária, consentimento documentado antes da coleta, possibilidade de não responder, pausar ou desistir sem prejuízo. Gravação de áudio será uma opção separada.
-- **Beneficência:** usar as contribuições para aperfeiçoar a representação e orientar melhorias no apoio ao trabalho docente, sem prometer mudança no serviço do Senado.
-- **Não maleficência:** evitar avaliação do desempenho profissional, exposição de escola/alunos e qualquer operação real que altere registros no portal. Situações e códigos do material serão fictícios.
-- **Justiça e equidade:** selecionar pelo vínculo com a atividade e oferecer material legível, ampliação e descrição textual equivalente; registrar adaptações que alterem as condições da sessão.
+- **Autonomia:** consentimento antes da coleta; liberdade para não responder, pausar ou desistir sem prejuízo; áudio com autorização separada.
+- **Beneficência:** usar as contribuições para melhorar a representação do trabalho, sem prometer alterações no serviço.
+- **Não maleficência:** avaliar o material, preservar professor, escola e alunos, usar situações fictícias e evitar operações reais no portal.
+- **Justiça e equidade:** selecionar pelo perfil e oferecer ampliação, descrição textual e adaptações necessárias.
 
-Bruno custodiará os dados em pasta privada com acesso limitado aos avaliadores e ao revisor identificados no consentimento. A chave entre PROF01 e sua identidade, contatos e TCLE ficará separada das anotações. Áudio, TCLE, convite e link da chamada não serão incluídos no repositório público. O relato conterá somente dados desidentificados e trechos autorizados, com retirada de referências que permitam reconhecer a pessoa.
+Bruno guardará notas e áudio autorizado em pasta privada, acessível apenas aos avaliadores e revisor informados no termo. Identidade, contatos e TCLE ficarão separados das evidências. A publicação usará somente trechos autorizados e desidentificados; câmera facial será opcional e não será gravada.
 
-Como política proposta do estudo, registros brutos e chave de identificação serão excluídos até 30 dias após o encerramento da disciplina, prazo a informar no TCLE. Solicitações de retirada serão atendidas enquanto os dados forem identificáveis; limites após divulgação de síntese desidentificada serão explicados previamente. O canal de contato e a data correspondente ao prazo deverão estar preenchidos antes do consentimento.
+Propõe-se excluir registros brutos e chave de identificação até **30 dias após o encerramento da disciplina**. A data e o contato serão preenchidos no TCLE, com retirada possível enquanto os dados forem identificáveis e explicação prévia dos limites após publicação de sínteses desidentificadas.
+
+O contato para dúvidas e retirada será Bruno, pelo mesmo canal privado do convite. A publicação do nome do participante dependerá de autorização específica; sem ela, o nome será substituído pelo código também nos planejamentos antes da publicação.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
-### Registro e interpretação
+Os [instrumentos do relato](planejamento-relato-storyboard.md#instrumentos-para-organizar-os-resultados) vincularão cada evidência à pergunta, ao quadro, à versão e à intervenção do moderador, separando registro e interpretação. A análise responderá Q1–Q7 ou justificará dados insuficientes. Nas perguntas de compreensão, distinguirá compreensão demonstrada, parcial/divergente e dados insuficientes; em Q5 e Q7, examinará as razões das opiniões, sem tratá-las como erros.
 
-Cada anotação terá identificador, código do participante, versão do storyboard, pergunta Q1–Q7, quadro QD01–QD07, localizador no áudio (se houver) ou sequência da nota, resposta, intervenção do moderador e interpretação em campos separados. Falas literais só serão usadas quando conferíveis; anotações de memória serão paráfrases. O formulário e as matrizes de análise estão no [planejamento do relato](planejamento-relato-storyboard.md#instrumentos-para-organizar-os-resultados).
+Os achados distinguirão problemas da representação, necessidades do contexto, dúvidas sobre o serviço e sugestões. As recomendações serão priorizadas por seu efeito e confrontadas com as fontes quando envolverem regras do portal. O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312).
 
-Para cada pergunta, a análise indicará **compreensão demonstrada**, **compreensão parcial ou divergente**, ou **dados insuficientes**, acompanhada da evidência e da condição “espontânea” ou “após esclarecimento”. Essa classificação é operacional do projeto, não uma escala validada. Em Q5 e Q7, opiniões diferentes do cenário não serão classificadas como erro: serão examinadas quanto à justificativa e à pertinência para o contexto relatado.
+Na análise da qualidade dos dados (p. 313), serão considerados:
 
-Os achados serão separados entre problema de representação, necessidade/contexto do professor, dúvida sobre o serviço e sugestão de design. Uma interpretação equivocada do desenho não será automaticamente atribuída à interface real. Regras do serviço serão confrontadas com as fontes oficiais antes de fundamentar recomendações.
+- **Confiabilidade:** preservar versões, critérios e localizadores; revisar a ligação entre evidência e conclusão.
+- **Validade interna:** usar perguntas abertas e separar respostas iniciais e posteriores a esclarecimentos.
+- **Validade externa:** limitar conclusões ao caso, sem generalizar para o perfil inteiro.
+- **Validade ecológica:** registrar diferenças entre a leitura remota e a oficina real, que ocorre ao longo de aulas e depende de alunos e do serviço.
 
-### Qualidade e limites
-
-Conforme o último E do DECIDE (BARBOSA; SILVA, 2010, p. 313), serão considerados:
-
-- **Confiabilidade:** guardar versões, roteiro, critérios, evidências e intervenções; um revisor conferirá a correspondência entre registros e conclusões. Isso melhora a rastreabilidade, sem demonstrar repetibilidade com uma sessão.
-- **Validade interna:** usar perguntas abertas, separar resposta inicial e esclarecimento e não interpretar tempo de leitura como eficiência do site.
-- **Validade externa:** uma sessão exploratória não representa todos os professores; não haverá generalização estatística, taxa populacional ou alegação de saturação.
-- **Validade ecológica:** a história comprime uma atividade realizada ao longo de aulas e depende de alunos e do serviço. A conversa remota não reproduz a oficina real; serão registradas diferenças apontadas pelo professor e dificuldades de acesso ao material.
-
-O conhecimento prévio da Oficina, a relação com o moderador e o caráter documental do cenário serão considerados na interpretação. Uma resposta positiva não comprova usabilidade do portal ou validação integral da persona.
-
-### Apresentação e encaminhamento
-
-O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312): objetivos e escopo; método realizado; participantes e avaliadores; síntese dos dados; interpretação; problemas; encaminhamentos para o reprojeto. O [planejamento específico do relato](planejamento-relato-storyboard.md) estabelece os campos, critérios de prioridade, tratamento de limitações e revisão antes da publicação.
+A entrevista não comprova eficiência de uso ou usabilidade do portal. Familiaridade com o serviço, vínculo com o moderador e limitações de acesso ao material integrarão a interpretação.
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a consulta das fontes, a redação e a organização dos instrumentos. Bruno Ferreira Dornelas definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
+O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). A revisão será registrada quando realizada.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Planejamento DECIDE da avaliação remota do storyboard da Oficina Legislativa, com instrumentos e agendamentos a confirmar | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Completa fundamentação visual de métodos e piloto, recrutamento, justificativa da quantidade, agendamento e delimitação do método; explicita todos os integrantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.2 | 13/10/2026 | Indica Alisson dos Santos, professor de Física, e define agenda provisória até 24/10, equipe e preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.3 | 13/10/2026 | Vincula o storyboard ilustrado v0.1 e atualiza a preparação para revisão e piloto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.4 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
@@ -288,4 +266,3 @@ As figuras a seguir fundamentam a escolha da entrevista, a preparação do pilot
     ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../../../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
     <p class="caption">Figura 5 — Participante do piloto, recrutamento e agendamento.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 308), reprodução do exemplar do projeto.</p>
-

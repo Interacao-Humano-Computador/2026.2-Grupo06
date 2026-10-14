@@ -143,10 +143,17 @@ nav:
                   - Cenário: entrega-2/individual/bruno/perfil-2/cenario.md
                   - Análise de tarefas: entrega-2/individual/bruno/perfil-2/analise-tarefas.md
           - Caio Breno:
-              - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
-              - Persona: entrega-2/individual/caio/persona.md
-              - Cenário: entrega-2/individual/caio/cenario.md
-              - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
+              - Perfil de usuário 1:
+                  - Entrevista e observação: entrega-2/individual/caio/entrevista-observacao.md
+                  - Persona: entrega-2/individual/caio/persona.md
+                  - Cenário: entrega-2/individual/caio/cenario.md
+                  - Análise de tarefas: entrega-2/individual/caio/analise-tarefas.md
+              - Perfil de usuário 2 · Proponente:
+                  - Análise documental: entrega-2/individual/caio/perfil-2/analise-documental.md
+                  - Perfil do usuário: entrega-2/individual/caio/perfil-2/perfil-usuario.md
+                  - Persona: entrega-2/individual/caio/perfil-2/persona.md
+                  - Cenário: entrega-2/individual/caio/perfil-2/cenario.md
+                  - Análise de tarefas: entrega-2/individual/caio/perfil-2/analise-tarefas.md
           - Heitor Pinheiro:
               - Entrevista e observação: entrega-2/individual/heitor/entrevista-observacao.md
               - Persona: entrega-2/individual/heitor/persona.md
@@ -176,6 +183,7 @@ nav:
       - entrega-4/index.md
       - Trabalhos individuais:
           - Bruno Ferreira:
+              - Storyboard · Oficina Legislativa: entrega-4/individual/bruno/storyboard.md
               - Storyboard · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md
               - Storyboard · Planejamento do relato: entrega-4/individual/bruno/planejamento-relato-storyboard.md
               - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-analise-tarefas.md
@@ -187,6 +195,20 @@ nav:
               - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/heitor/planejamento-avaliacao-analise-tarefas.md
               - Análise de tarefas · Planejamento do relato: entrega-4/individual/heitor/planejamento-relato-analise-tarefas.md
               - Conferência dos planejamentos: entrega-4/individual/heitor/conferencia-planejamentos.md
+          - Caio Breno:
+              - Índice do recorte: entrega-4/caio/index.md
+              - Storyboard: entrega-4/caio/storyboard.md
+              - Storyboard · Planejamento da avaliação: entrega-4/caio/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/caio/planejamento-relato-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/caio/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/caio/planejamento-relato-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/caio/conferencia-planejamentos.md
+          - Israel Soares:
+              - Storyboard · Planejamento da avaliação: entrega-4/individual/israel/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/individual/israel/planejamento-relato-resultados-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/israel/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/individual/israel/planejamento-relato-resultados-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/individual/israel/conferencia-planejamentos.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação: []

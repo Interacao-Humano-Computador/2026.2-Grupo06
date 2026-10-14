@@ -13,7 +13,8 @@ A Tabela 1 registra as contribuições na preparação desta lista.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração dos itens 18 e 19 sobre exclusividade/exaustão e rastreabilidade Storyboard-HTA | [Item 18](#item-18-heitor-pinheiro-goncalves-das-chagas) e [Item 19](#item-19-heitor-pinheiro-goncalves-das-chagas) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração dos itens 20 e 21 sobre componentes do relato e severidade de Nielsen | [Item 20](#item-20-israel-soares-de-paiva) e [Item 21](#item-21-israel-soares-de-paiva) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração dos itens 22 e 23 sobre protocolo do teste piloto e papel do avaliador | [Item 22](#item-22-luis-henrique-arruda-luna) e [Item 23](#item-23-luis-henrique-arruda-luna) |
-| Google Gemini e Claude (Anthropic) | Apoio na estruturação dos itens, redação e conferência bibliográfica | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI), Google Gemini e Claude (Anthropic) | Apoio à transcrição, formatação e checagem bibliográfica | [Agradecimentos](#agradecimentos) |
+
 
 <p class="caption">Tabela 1 — Contribuição na preparação da lista.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -336,7 +337,7 @@ A Figura 10 reproduz as diretrizes para condução e postura neutra durante sess
 
 ## Agradecimentos
 
-O Google Gemini e o Claude (Anthropic) apoiaram a transcrição e a organização dos itens de verificação e a checagem da fundamentação bibliográfica. A revisão humana e o preenchimento da inspeção estão pendentes.
+O Codex (OpenAI), o Google Gemini e o Claude (Anthropic) apoiaram a transcrição dos critérios, a estruturação e organização dos itens de verificação elaborados pelo grupo e a checagem da fundamentação bibliográfica. A revisão humana e o preenchimento da inspeção estão pendentes.
 
 ## Histórico de versão
 
@@ -346,6 +347,7 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Prepara a lista da Etapa 4 com 11 itens de desenvolvimento e 12 de conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Inclusão dos 10 itens elaborados pelo grupo (itens 14 a 23) com fundamentação e imagens de referência | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
 
 ## Referências
 
