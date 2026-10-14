@@ -10,6 +10,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | --- | --- | --- |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado | [Etapa 1](cronograma.md#etapa-1-planejamento-do-projeto) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização das atividades executadas na Etapa 4 — Oficina Legislativa | [Cronograma executado](cronograma.md#cronograma-executado) |
 | Google Gemini | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -291,6 +292,15 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Navegação e identidade visual do site (ícones, cartões da página inicial e menu por etapa) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Concluída; revisão de Caio Breno |
 | Tópicos dos princípios gerais do projeto (item 12) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Oito tópicos com citação e fotos do livro; revisão de Caio Breno |
 | Atualização do cronograma planejado e executado (item 6) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Divisão dos itens da Etapa 3 e correções da Etapa 2; revisão de Caio Breno |
+| Planejamento da avaliação do storyboard — Oficina Legislativa, perfil Professor | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Planejamento DECIDE](../entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md) elaborado, com roteiro, piloto e agenda proposta |
+| Planejamento do relato da avaliação do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Estrutura do relato](../entrega-4/individual/bruno/planejamento-relato-storyboard.md) e critérios de registro definidos |
+| Planejamento da avaliação da análise de tarefas — Oficina Legislativa, perfil Professor | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Planejamento DECIDE](../entrega-4/individual/bruno/planejamento-avaliacao-analise-tarefas.md) elaborado, com avaliação dos modelos HTA/CTT |
+| Planejamento do relato da avaliação da análise de tarefas — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Estrutura do relato](../entrega-4/individual/bruno/planejamento-relato-analise-tarefas.md) e critérios de análise definidos |
+| Conferência e ajustes dos quatro planejamentos individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Conferência documental](../entrega-4/individual/bruno/conferencia-planejamentos.md), adequação à lista de verificação e simplificação dos textos |
+| Preparação das listas de inspeção da Etapa 4 dos Grupos 06 e 05 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Listas dos [Grupos 06](../verificacao/grupo-06/etapa-4/lista-verificacao.md) e [05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) criadas com respostas em branco; preparação dos instrumentos |
+| Organização dos artefatos individuais e correção da navegação da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Arquivos agrupados na pasta de Bruno Ferreira e vinculados ao menu individual |
+| Elaboração e ajustes do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Storyboard v0.2](../entrega-4/individual/bruno/storyboard.md) com sete quadros, descrição textual, ampliações e correspondência com HTA/CTT |
+| Atualização do cronograma executado com as atividades individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Registro da produção dos artefatos; piloto e entrevistas permanecem previstos nos planejamentos |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -298,6 +308,7 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 ## Agradecimentos
 
 A equipe agradece o apoio do Google Gemini na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
+
 
 ## Histórico de versão
 
@@ -314,6 +325,7 @@ A equipe agradece o apoio do Google Gemini na organização do texto e na format
 | `2.1` | 27/09/2026 | Atualiza as atividades de Luís após a incorporação da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `2.3` | 05/10/2026 | Divisão dos itens da Etapa 3, correções da Etapa 2 no planejado e atividades executadas até 05/10 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.4` | 13/10/2026 | Registra as atividades executadas por Bruno na Etapa 4, incluindo os quatro planejamentos e o storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
