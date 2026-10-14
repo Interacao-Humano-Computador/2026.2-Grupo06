@@ -26,21 +26,24 @@ Nesta etapa, o foco metodológico recai estritamente sobre o **planejamento pros
 
 ## Vídeo de apresentação
 
-O vídeo a seguir contém a gravação da apresentação dos artefatos da Etapa 4 realizada pelos autores de cada item, respeitando o critério de participação individual da disciplina [1].
-
 - Categoria no YouTube: **não listado**
-- Link: A inserir após a realização da sessão de gravação (agendada para 15/10/2026)
-- Data prevista: 15/10/2026
-- Participantes: Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique
+- Link: [Apresentação da Etapa 4 no YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs)
+- Data prevista da apresentação em aula: 15/10/2026, conforme o [cronograma](../entrega-1/cronograma.md#etapa-4-planejamento-das-avaliacoes).
 
-??? note "Vídeo — Apresentação da Etapa 4 do Grupo 06 (Agendado)"
+??? note "Vídeo — Apresentação da Etapa 4 do Grupo 06"
 
-    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12); background: #001e3d; display: flex; align-items: center; justify-content: center; color: #ffffff;">
-      <p style="text-align: center; padding: 2rem;">
-        <b>Gravação da Apresentação da Etapa 4</b><br>
-        O link do vídeo não listado será disponibilizado aqui após a gravação oficial em 15/10/2026.
-      </p>
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/5DlHiLsX5bs"
+        title="Apresentação da Etapa 4 do Grupo 06"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
     </div>
+- Participantes: Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique
 
 ## Roteiro sugerido de apresentação
 

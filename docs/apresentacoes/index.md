@@ -8,21 +8,21 @@ A Tabela 1 registra quem atuou neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md) e [Etapa 3](etapa-03.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md), [Etapa 3](etapa-03.md) e [Etapa 4](etapa-04.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). A Tabela 2 organiza esses vídeos. As etapas 1, 2 e 3 já têm gravação. A Etapa 3 será apresentada em 08/10/2026.
+Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). A Tabela 2 organiza esses vídeos. As etapas 1 a 4 já têm gravação disponível. A apresentação em aula da Etapa 4 está prevista para 15/10/2026.
 
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
 | 1 | 08/09/2026 | [YouTube](https://youtu.be/NQzcNg32G2k) | Autores dos artefatos da Entrega 1 | [Etapa 1](etapa-01.md) |
 | 2 | 29/09/2026 | [YouTube](https://youtu.be/Sw4IeebXzRQ) | Autores dos artefatos da Entrega 2 | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | [YouTube](https://youtu.be/EXlnSLsEW94) | Autores dos artefatos da Entrega 3 | [Etapa 3](etapa-03.md) |
-| 4 | 15/10/2026 | Em preparação | Bruno, Caio, Heitor, Israel e Luis | [Etapa 4](etapa-04.md) |
+| 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno, Caio, Heitor, Israel e Luis | [Etapa 4](etapa-04.md) |
 | 5 | 27/10/2026 | — | — | — |
 | 6 | 05/11/2026 | — | — | — |
 | 7 | 17/11/2026 | — | — | — |
@@ -43,6 +43,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | `0.5` | 03/10/2026 | Inclui a introdução e cita o plano de ensino no texto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 06/10/2026 | Adição do link do vídeo da Entrega 3 e página da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.7` | 13/10/2026 | Adição da página da Etapa 4 e participante(s) da apresentação | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.8` | 13/10/2026 | Inclusão da página e do vídeo da apresentação da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
