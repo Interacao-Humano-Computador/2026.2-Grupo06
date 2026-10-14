@@ -6,8 +6,8 @@ A Tabela 1 registra as contribuições nesta conferência documental.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Fornecimento dos critérios e definição do escopo da conferência | Lista da Apresentação 4 e recorte Professor |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | Conferência documental e plano de correção |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo e dos critérios da conferência | [Aplicação dos critérios ao planejamento](#aplicacao-dos-criterios-ao-planejamento) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições na conferência.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -16,58 +16,58 @@ A Tabela 1 registra as contribuições nesta conferência documental.
 
 A conferência considera somente o **planejamento** das avaliações e dos relatos da Oficina Legislativa, perfil Professor. Os planos atualizados em 13/10/2026 incluem Alisson dos Santos, professor de Física, como participante previsto e agenda provisória com conclusão até 24/10. O [storyboard individual de Bruno, versão 0.2](storyboard.md), está disponível com sete quadros e descrição textual. A execução segue o cronograma de aceite, triagem, preparação e revisão dos materiais.
 
-Não são exigidos nesta conferência resultados coletados, falas de participantes, problemas encontrados, piloto executado, gravação da sessão ou comprovação de revisão do futuro relato. Esses registros pertencem à execução. O planejamento deve definir como serão produzidos, tratados e apresentados, mantendo os instrumentos ainda sem resultados.
+O escopo abrange objetivos, métodos, instrumentos e condições de realização das avaliações. Os resultados serão registrados após o piloto e as entrevistas, com separação entre os dados do piloto e os da avaliação principal.
 
-Foram examinados e atualizados:
+Artefatos abrangidos:
 
 - [Planejamento da avaliação do storyboard](planejamento-avaliacao-storyboard.md).
 - [Planejamento do relato do storyboard](planejamento-relato-storyboard.md).
 - [Planejamento da avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md).
 - [Planejamento do relato da análise de tarefas](planejamento-relato-analise-tarefas.md).
 
-A análise se refere à cópia local; a revisão é atribuída a Caio, conforme o cronograma. As listas de inspeção do [Grupo 06](../../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../../verificacao/grupo-05/etapa-4/lista-verificacao.md) permanecem **sem respostas**, com os critérios originais preservados.
+A revisão é de responsabilidade de Caio Breno de Souza Bezerra, conforme o cronograma. As listas de inspeção do [Grupo 06](../../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../../verificacao/grupo-05/etapa-4/lista-verificacao.md) serão preenchidas durante as respectivas inspeções.
 
 ## Aplicação dos critérios ao planejamento
 
-A Tabela 2 distingue o que foi definido agora do que depende de preparação, confirmação ou execução futura. A numeração 2–13 corresponde à lista do plano de ensino [1].
+A Tabela 2 apresenta o atendimento aos critérios de planejamento e as atividades de preparação previstas. A numeração 2–13 corresponde à lista do plano de ensino [1].
 
-| Item | Aplicação nesta etapa | Situação após as correções |
+| Item | Aplicação nesta etapa | Atendimento ao critério |
 | :---: | --- | --- |
 | 2 — DECIDE | Estruturar as seis atividades nos planos de avaliação e detalhar o último E nos relatos | Contemplado nos quatro documentos. |
 | 3 — Objetivos | Definir o que será investigado e para quais decisões | Contemplado por O1–O3 e AT-O1–AT-O3, com perguntas e evidências pretendidas. |
-| 4 — Métodos, referência e foto | Descrever e fundamentar o método escolhido | Complementado com imagens das p. 146 e 301, identificação dos autores e ligação à entrevista. A análise de tarefas também inclui a verificação da decomposição e a conferência técnica das notações. |
+| 4 — Métodos, referência e foto | Descrever e fundamentar o método escolhido | Fundamentado por imagens das p. 146 e 301, identificação dos autores e ligação à entrevista. A análise de tarefas também inclui a verificação da decomposição e a conferência técnica das notações. |
 | 5 — Questões práticas | Planejar recrutamento, perfil, quantidade, modalidade, recursos, equipe, custos e prazos | Alisson dos Santos, professor de Física, indicado para ambas as avaliações. Bruno conduzirá e registrará as sessões, sem observador adicional; Caio é o revisor designado. Aceite, triagem e pessoa do piloto serão definidos até 16/10. |
-| 6 — Ética | Definir consentimento, respeito, privacidade e tratamento dos registros | Contemplado no planejamento; não se exige consentimento já coletado. O TCLE específico será preparado antes do piloto. |
-| 7 — Estrutura do relato | Definir seções e campos para objetivos, método, participantes, atividades e problemas futuros | Complementado com fichas de atividades e ligação às evidências. A menção à prototipação em papel é delimitada conforme o método deste recorte, explicado abaixo. Nenhum campo de resultado foi preenchido. |
+| 6 — Ética | Definir consentimento, respeito, privacidade e tratamento dos registros | Consentimento, privacidade e tratamento dos registros definidos. O TCLE específico será preparado antes do piloto. |
+| 7 — Estrutura do relato | Definir seções e campos para objetivos, método, participantes, atividades e problemas futuros | Estrutura definida, com fichas de atividades e ligação às evidências. A menção à prototipação em papel é delimitada conforme o método deste recorte, explicado abaixo. |
 | 8 — Cronograma e local | Prever sequência, data/horário, duração e ambiente | Datas e horários propostos preenchidos: entrevistas em 20/10, 19h–19h40, e 21/10, 19h–19h50, pelo Google Meet. Produção e revisão até 24/10, às 19h; disponibilidade sujeita a aceite. |
-| 9 — Relação entre quadros e tarefas | Especificar a rastreabilidade e como será conferida antes do piloto | Os sete quadros do [storyboard v0.2](storyboard.md) têm ID e referências HTA/CTT; a Tabela 2 do artefato detalha as correspondências. Versão e data ficam no documento; a imagem não exibe número de versão. A revisão integra o cronograma anterior ao piloto. |
-| 10 — Quantidade de storyboards | Prever um storyboard por integrante e controlar a quantidade | O plano explicita cinco storyboards para os cinco integrantes. O de Bruno já possui sete quadros. A produção do conjunto é uma pendência de preparação coletiva, não um resultado da avaliação. |
+| 9 — Relação entre quadros e tarefas | Especificar a rastreabilidade e como será conferida antes do piloto | Os sete quadros do [storyboard v0.2](storyboard.md) têm ID e referências HTA/CTT; a Tabela 2 do artefato detalha as correspondências. A revisão integra o cronograma anterior ao piloto. |
+| 10 — Quantidade de storyboards | Prever um storyboard por integrante e controlar a quantidade | O plano explicita cinco storyboards para os cinco integrantes. O de Bruno já possui sete quadros. A produção do conjunto integra a preparação coletiva. |
 | 11 — Piloto, referência, foto e data | Definir finalidade, procedimento e realização anterior à avaliação | Definição e imagens das p. 307–308 preservadas. Pilotos propostos para 17/10, 18h–18h40 e 19h–19h50; ajustes em 18/10 e reserva para novo ensaio em 19/10. A pessoa do piloto ainda será selecionada. |
 | 12 — Separação do piloto | Planejar a exclusão dos dados do piloto dos resultados principais | Contemplado nos quatro documentos; podem ser relatados os ajustes do procedimento, sem incorporar o piloto aos achados. |
-| 13 — Registros e prioridade | Definir o que o avaliador anotará e como priorizará problemas | Contemplado em formulários, fichas consolidadas, critérios de prioridade e controle de revisões. A existência de problemas efetivamente encontrados não é exigida nesta etapa. |
+| 13 — Registros e prioridade | Definir o que o avaliador anotará e como priorizará problemas | Contemplado em formulários, fichas consolidadas, critérios de prioridade e controle de revisões. |
 
-<p class="caption">Tabela 2 — Aplicação da lista ao planejamento, após as correções.</p>
-<p class="source">Fonte: SALES (2026), orientação do usuário sobre o escopo e planejamentos locais, atualizados em 13/10/2026.</p>
+<p class="caption">Tabela 2 — Aplicação dos critérios da lista de verificação ao planejamento.</p>
+<p class="source">Fonte: elaboração com base em Sales (2026) e nos planejamentos da Oficina Legislativa.</p>
 
 ### Método a descrever nos relatos
 
 Os documentos descrevem investigação por entrevista com apoio de storyboard ou análise de tarefas, fundamentada em Barbosa e Silva (2010, p. 146, 196, 301). A estrutura do relato foi aplicada a esses métodos, incluindo o registro das atividades efetivamente realizadas quando houver coleta.
 
-A lista menciona prototipação em papel no item 7. O projeto prevê o planejamento da avaliação do protótipo de papel na [Etapa 5](../../../proximas/etapa-05.md). Por isso, os quatro documentos explicitam a delimitação entre os artefatos e mantêm o método coerente com seus objetivos. Essa é uma interpretação justificada do recorte acadêmico; não há registro de que o professor tenha autorizado uma exceção à redação literal da lista. Se ele exigir prototipação em papel também nesta etapa, será necessário adequar conjuntamente materiais, roteiro e relatos.
+O item 7 menciona prototipação em papel, cujo planejamento está previsto na [Etapa 5](../../../proximas/etapa-05.md). Nesta etapa, a estrutura dos relatos foi adaptada à entrevista com storyboard e análise de tarefas. A interpretação desse item deverá ser confirmada com o professor da disciplina.
 
 ### Preparação dos materiais
 
-O [storyboard de Bruno](storyboard.md) está ilustrado e inclui descrição textual e correspondência de cada quadro com a HTA/CTT. A revisão humana e a verificação de legibilidade no piloto integram o procedimento planejado. Cópias dos modelos e TCLE específico permanecem na preparação. Este registro não comprova a produção dos cinco storyboards do grupo.
+O [storyboard de Bruno](storyboard.md) inclui ilustração, descrição textual e correspondência de cada quadro com a HTA/CTT. A preparação contempla revisão dos materiais, cópias dos modelos, TCLE específico e verificação de legibilidade no piloto. A consolidação dos cinco storyboards será realizada pelo grupo.
 
-A notação exata de HTA/CTT continua exigida: elementos e planos HTA das Figuras 6.1–6.2 (p. 193–194), tipos de tarefa, operadores e composição CTT das Figuras 6.4–6.6 (p. 203–205). CT01–CT06 deverá ser aplicado antes do piloto e às revisões. Esta correção dos planejamentos não altera os diagramas existentes.
+A conferência das notações seguirá as Figuras 6.1–6.2 para elementos e planos da HTA (p. 193–194) e as Figuras 6.4–6.6 para tipos de tarefa, operadores e composição da CTT (p. 203–205). Os critérios CT01–CT06 serão aplicados antes do piloto e nas revisões dos modelos.
 
 ## Desenvolvimento e pendências operacionais
 
-Os quatro planejamentos mantêm introdução, referências, histórico, legendas/fontes e agradecimentos à IA. As tabelas iniciais identificam apenas quem contribuiu em cada página. Bruno consta como autor no histórico; Caio é o revisor designado. O apoio do Codex está registrado nas contribuições e nos agradecimentos.
+Os quatro planejamentos seguem o padrão documental do grupo, com autoria, revisão, referências, histórico de versões e identificação das contribuições. Bruno Ferreira Dornelas é o autor responsável e Caio Breno de Souza Bezerra é o revisor.
 
-As pendências anteriormente apontadas sobre sessões, resultados e registros de execução foram retiradas como condições de aprovação deste planejamento. Atas de reuniões do grupo, apresentação acadêmica e cronograma executado são registros da organização da entrega, distintos do relato da avaliação com usuários; não foram produzidos nesta correção dos quatro planos nem são tratados como prova de avaliação já realizada. A lista original permanece disponível para a inspeção coletiva no momento apropriado.
+Atas, apresentação e cronograma executado compõem os registros da entrega coletiva. Os relatos das avaliações serão elaborados após as sessões com o participante.
 
-A Tabela 3 reúne o que ainda depende de informação real ou preparação futura.
+A Tabela 3 reúne as atividades de preparação das avaliações.
 
 | Pendência | Responsável previsto | Momento de resolução |
 | --- | --- | --- |
@@ -78,13 +78,13 @@ A Tabela 3 reúne o que ainda depende de informação real ou preparação futur
 | Consolidar os cinco storyboards, cada qual com sua análise de tarefas | Grupo 06 | Na preparação coletiva dos materiais |
 
 <p class="caption">Tabela 3 — Dependências para preparar e agendar a execução.</p>
-<p class="source">Fonte: condições de início e responsabilidades previstas nos planos corrigidos.</p>
+<p class="source">Fonte: cronogramas dos planejamentos da Oficina Legislativa.</p>
 
-Os campos de data, horário, modalidade e participante previsto foram preenchidos. A agenda é uma proposta editável, não confirmação de disponibilidade nem registro de sessões realizadas. O cronograma contempla a preparação dos instrumentos, o consentimento, a triagem, a seleção da pessoa do piloto e a revisão de Caio.
+As datas propostas serão confirmadas com os participantes antes das sessões.
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a conferência documental, a adequação do escopo ao planejamento e a aplicação das correções.
+O Codex (OpenAI) foi utilizado como apoio à redação, à organização e à conferência dos critérios. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -96,6 +96,7 @@ Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 | `1.0` | 13/10/2026 | Reavalia os critérios somente como planejamento e registra as correções aplicadas e dependências futuras | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Atualiza a conferência com participante indicado, agenda provisória e preparações até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Registra storyboard ilustrado disponível, correspondência dos sete quadros e preparações restantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

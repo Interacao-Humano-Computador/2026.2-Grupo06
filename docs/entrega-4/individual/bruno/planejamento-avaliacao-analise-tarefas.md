@@ -8,8 +8,8 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição da funcionalidade, do perfil e da responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo e do perfil da avaliação | [Contextualização](#contextualizacao) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +18,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 Este planejamento organiza a avaliação formativa da **análise de tarefas da Oficina Legislativa na Escola**, com o perfil **Professor**. Uma entrevista semiestruturada remota investigará se a HTA e a CTT representam o trabalho de organizar a participação da turma e obter a declaração. A equipe também conferirá a notação dos modelos.
 
-**Situação:** Alisson dos Santos, professor de Física, foi indicado por Bruno para a entrevista de 21/10/2026, das 19h às 19h50, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. Materiais e TCLE serão preparados até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-analise-tarefas.md) orienta os registros futuros.
+**Participante e sessão:** A entrevista com Alisson dos Santos, professor de Física, está prevista para 21/10/2026, das 19h às 19h50, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. Materiais e TCLE serão preparados até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-analise-tarefas.md) orienta os registros futuros.
 
 ## Contextualização
 
@@ -66,9 +66,9 @@ Será realizada **investigação por entrevista semiestruturada**, apoiada nos m
 
 O professor avaliará o trabalho representado, sem precisar dominar HTA/CTT. O moderador explicará a leitura com exemplo neutro, distinguindo decomposição e ordem temporal. Esclarecimentos adicionais e respostas anteriores a eles serão registrados. A **conferência técnica CT01–CT06** ficará com a equipe e responderá AT-Q8.
 
-A sessão remota terá compartilhamento de tela e cópia ampliável. Sua duração servirá apenas à organização; o detalhamento do modelo será discutido conforme a finalidade da análise, sem calcular p × c sem dados que o sustentem (p. 195).
+A sessão remota terá compartilhamento de tela e cópia ampliável. Sua duração servirá apenas à organização; o detalhamento do modelo será discutido conforme a finalidade da análise, com análise qualitativa do nível de decomposição (p. 195).
 
-**Item 7 da lista:** o relato descreverá entrevista e conferência técnica. O planejamento da prototipação em papel está previsto na [Etapa 5](../../../proximas/etapa-05.md). Essa aplicação do critério ao método escolhido é a interpretação do projeto, ainda sem dispensa expressa do professor.
+O relato apresentará o método e as atividades desta avaliação. A aplicação do item 7 da lista de verificação está discutida na [conferência dos planejamentos](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos).
 
 ## I — Identificar e administrar questões práticas
 
@@ -120,7 +120,7 @@ A Tabela 4 será aplicada antes do piloto e a cada revisão. Fluxogramas genéri
 | CT02 | Entradas, ações e condições de atingimento estão coerentes com os objetivos; sobreposição ou lacuna tem justificativa | Tabela 6.3 e discussão, p. 193–196; identificar operação e condição |
 | CT03 | Tipos de tarefa CTT usam os símbolos exatos e classificações adequadas | Figura 6.4, p. 203; identificar tarefa, tipo e justificativa |
 | CT04 | Operadores, posição e significado temporal são corretos; passagem de informação identifica qual informação é transmitida | Figuras 6.5–6.6, p. 203–205; identificar relação entre tarefas |
-| CT05 | Diagramas, expressões, legendas, tabelas e correspondência HTA/CTT descrevem o mesmo trabalho, ainda que em granularidades diferentes | Comparação da versão avaliada e da tabela de correspondência; registrar elementos de ambos os modelos |
+| CT05 | Diagramas, expressões, legendas, tabelas e correspondência HTA/CTT descrevem o mesmo trabalho, ainda que com diferentes níveis de detalhamento | Comparação da versão avaliada e da tabela de correspondência; registrar elementos de ambos os modelos |
 | CT06 | Regras documentadas, decisões de modelagem e dependências externas são distinguíveis; interfaces não verificadas não aparecem como fatos | Evidências E01–E09 e limites da análise documental; identificar fonte/localizador |
 
 <p class="caption">Tabela 4 — Conferência técnica da HTA e da CTT.</p>
@@ -152,12 +152,12 @@ O piloto é um **ensaio do procedimento**, incluindo breve análise dos dados pa
 
 Ensaiar consentimento, acesso, legibilidade, orientação, duração, registro e análise. Verificar se os registros localizam nós/relações e distinguem experiência de hipótese. Mudanças extensas exigirão novo piloto. **Seus dados não entrarão nos resultados principais**; conservar apenas os ajustes metodológicos desidentificados.
 
-A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10, conforme prazo informado por Bruno.
+A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10.
 
 | Atividade | Data e horário propostos | Responsável | Produto / condição |
 | --- | --- | --- | --- |
 | Convidar Alisson e verificar perfil; selecionar pessoa do piloto | 14/10, 17h–17h30; confirmar até 16/10 | Bruno | Contato compartilhado entre os dois planos; aceites e triagem registrados |
-| Conferir CT01–CT06; preparar cópias, descrição comum, roteiro e TCLE | 16/10, 18h–21h | Bruno; revisão conjunta dos materiais por Caio em 16/10, 21h–22h | Materiais versionados e instrumentos prontos |
+| Conferir CT01–CT06; preparar cópias, descrição em linguagem acessível, roteiro e TCLE | 16/10, 18h–21h | Bruno; revisão conjunta dos materiais por Caio em 16/10, 21h–22h | Materiais versionados e instrumentos prontos |
 | Realizar piloto | 17/10, 19h–19h50 | Bruno e pessoa selecionada para o piloto | Procedimento e registros ensaiados |
 | Analisar piloto e ajustar materiais | 18/10, 19h–20h | Bruno | Dados analisáveis e ajustes documentados |
 | Reserva para novo piloto, se necessário | 19/10, 19h–19h50 | Bruno e pessoa do piloto | Confirmar correções antes da sessão principal |
@@ -167,11 +167,11 @@ A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Br
 | Conferir conjunto final para a entrega | 24/10, 18h–19h | Bruno | Conferência conjunta dos dois artefatos e relatos |
 
 <p class="caption">Tabela 6 — Cronograma proposto da avaliação e do relato.</p>
-<p class="source">Fonte: planejamento do projeto, com limite de 24/10/2026 informado por Bruno; atividades de Barbosa e Silva (2010, seção 9.7).</p>
+<p class="source">Fonte: elaboração do projeto com base nas atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
 ### Registro de agendamento previsto
 
-A Tabela 7 registra as sessões propostas, sem afirmar disponibilidade já confirmada. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Se os ajustes exigirem mais tempo, rever a agenda sem suprimir o piloto.
+A Tabela 7 apresenta as datas propostas, sujeitas à confirmação com os participantes. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Em caso de reagendamento, o piloto será mantido antes da avaliação principal.
 
 | Sessão | Data proposta | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma | Participante e condição |
 | --- | --- | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ A concordância do professor não certifica integralmente o modelo. Lacunas docu
 
 ## Agradecimentos
 
-O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos instrumentos e referências. Bruno Ferreira Dornelas definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
+O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -224,6 +224,7 @@ O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos 
 | 1.0 | 13/10/2026 | Completa fundamentação visual de métodos e piloto, recrutamento, justificativa da quantidade, agendamento e delimitação do método; explicita todos os integrantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Indica Alisson dos Santos, professor de Física, e define agenda provisória até 24/10, equipe e preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

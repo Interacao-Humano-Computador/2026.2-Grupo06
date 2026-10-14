@@ -8,8 +8,8 @@ A Tabela 1 registra as contribuições na preparação desta lista.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Fornecimento da lista e definição do escopo de preparação | Lista da Etapa 4 |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | Tabelas 2 e 3 |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Seleção dos critérios e definição do escopo da inspeção | Lista da Etapa 4 |
+| Codex (OpenAI) | Apoio à transcrição e à formatação da lista | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição na preparação da lista.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -69,7 +69,7 @@ A Tabela 3 apresenta os critérios de conteúdo da Apresentação 4 do plano de 
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a transcrição e a organização da lista. A revisão humana e o preenchimento da inspeção estão pendentes.
+O Codex (OpenAI) foi utilizado como apoio à transcrição e à formatação dos critérios do plano de ensino. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -78,6 +78,7 @@ Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Prepara a lista da Etapa 4 com 11 itens de desenvolvimento e 12 de conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.1 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

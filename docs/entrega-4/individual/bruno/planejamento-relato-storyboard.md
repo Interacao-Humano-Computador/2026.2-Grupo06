@@ -8,8 +8,8 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do recorte e responsabilidade pelo relato da avaliação com o perfil Professor | [Introdução](#introducao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo do relato para o perfil Professor | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento do relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +18,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 Este planejamento define como organizar, analisar e apresentar os resultados da [avaliação do storyboard](planejamento-avaliacao-storyboard.md) da **Oficina Legislativa na Escola**, com o perfil **Professor**. O relato será destinado ao Grupo 06 e à avaliação acadêmica, para fundamentar revisões do artefato e decisões de reprojeto.
 
-**Situação:** entrevista prevista com **Alisson dos Santos, professor de Física**, em **20/10/2026, das 19h às 19h40**, pelo Google Meet. Bruno conduzirá e registrará a sessão; Caio é o revisor designado. A agenda é provisória, com revisão final até **24/10/2026**, antes da entrega de 25/10. Resultados e atividades realizadas serão preenchidos após a coleta.
+**Participante e sessão:** entrevista prevista com **Alisson dos Santos, professor de Física**, em **20/10/2026, das 19h às 19h40**, pelo Google Meet. Bruno conduzirá e registrará a sessão; Caio é o revisor designado. A agenda é provisória, com revisão final até **24/10/2026**, antes da entrega de 25/10. Resultados e atividades realizadas serão preenchidos após a coleta.
 
 Material de partida: [storyboard versão 0.2, de 13/10/2026](storyboard.md). O relato identificará a versão efetivamente apresentada, incluindo eventuais ajustes após o piloto.
 
@@ -61,11 +61,11 @@ A delimitação do método frente à menção de prototipação em papel no item
 
 ### Registro de evidências
 
-Preparar um formulário privado antes do piloto. Cada registro **EV01, EV02…** conterá: data, participante PROF01 quando aplicável, autor/origem, versão, pergunta/critério, quadro QD01–QD07, atividade da sessão, localizador (nota, áudio autorizado ou fonte), registro, intervenção e interpretação em campos separados.
+O avaliador preparará um formulário privado antes do piloto. Cada registro **EV01, EV02…** conterá: data, participante PROF01 quando aplicável, autor/origem, versão, pergunta/critério, quadro QD01–QD07, atividade da sessão, localizador (nota, áudio autorizado ou fonte), registro, intervenção e interpretação em campos separados.
 
-Falas literais exigirão registro verificável; usar paráfrases identificadas quando não houver. Distinguir resposta espontânea e após esclarecimento. Dados ausentes serão marcados como não coletados, não respondidos ou insuficientes. Contato posterior, se autorizado, terá data própria.
+As falas serão transcritas literalmente quando houver registro verificável; nos demais casos, serão apresentadas como paráfrases. O registro distinguirá respostas espontâneas das respostas obtidas após esclarecimentos. Dados ausentes serão marcados como não coletados, não respondidos ou insuficientes. Contato posterior, se autorizado, terá data própria.
 
-Distinguir problemas de representação, necessidades do contexto, dúvidas sobre o serviço e sugestões de design. Regras do portal serão confrontadas com a documentação oficial.
+Os registros serão classificados como problemas de representação, necessidades do contexto, dúvidas sobre o serviço ou sugestões de design. Regras do portal serão confrontadas com a documentação oficial.
 
 ### Ficha consolidada de achado e encaminhamento
 
@@ -124,13 +124,13 @@ A prioridade dependerá do efeito sustentado pelos dados, não apenas do número
 
 As propostas distinguirão alterações do storyboard e investigações sobre o serviço. Uma dúvida gerada pelo desenho não será tratada automaticamente como defeito da interface.
 
-Preservar a versão avaliada e identificar a nova. Uma correção implementada não será apresentada como reavaliada sem nova verificação; a ficha manterá o estado e a evidência de cada encaminhamento.
+A versão avaliada será preservada. Cada alteração terá sua versão identificada e seu estado de verificação registrado na ficha de acompanhamento.
 
 ## Apresentação e limites das conclusões
 
 O relato combinará síntese narrativa, respostas por pergunta e fichas de achados. Contagens, quando úteis, indicarão sua unidade; figuras terão legenda, fonte, versão e descrição alternativa. Não serão publicados rosto, contatos, TCLE ou registros brutos, conforme o [plano ético](planejamento-avaliacao-storyboard.md#d-decidir-como-lidar-com-questoes-eticas).
 
-Relatar familiaridade com a Oficina, dificuldades de acesso aos quadros e influência dos esclarecimentos. A narrativa comprime uma atividade realizada ao longo de aulas; sua leitura não reproduz a oficina real.
+A análise considerará a familiaridade com a Oficina, as dificuldades de acesso aos quadros e a influência dos esclarecimentos. A narrativa comprime uma atividade realizada ao longo de aulas; sua leitura não reproduz a oficina real.
 
 A conclusão retomará os objetivos e discutirá **confiabilidade e validades interna, externa e ecológica** nas condições efetivas (BARBOSA; SILVA, 2010, p. 313). Um caso exploratório não sustenta generalização estatística, e esta entrevista não mede eficiência ou execução de tarefas no portal. Ausência de objeção não comprova ausência de problemas.
 
@@ -149,13 +149,13 @@ A Tabela 6 detalha a agenda provisória, no horário de Brasília (UTC−3), com
 | Conferir o conjunto para a entrega | 24/10/2026, 18h–19h | Bruno | Conferência conjunta dos dois relatos e materiais |
 
 <p class="caption">Tabela 6 — Agenda provisória de produção e revisão do relato.</p>
-<p class="source">Fonte: planejamento do projeto, com conclusão até 24/10/2026 e entrega seguinte em 25/10, conforme informado por Bruno.</p>
+<p class="source">Fonte: cronograma de avaliação e produção do relato, Grupo 06 (2026).</p>
 
 Antes da publicação, conferir cobertura das perguntas, vínculo entre achados e evidências, separação do piloto, proteção dos dados, referências e revisão humana, seguindo o padrão de [autoria, revisão e versões](../../../guia/autoria-revisao-versoes.md).
 
 ## Agradecimentos
 
-O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos instrumentos e referências. Bruno Ferreira Dornelas permanece responsável pela revisão e pelo conteúdo do artefato.
+O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -167,6 +167,7 @@ O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos 
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Define participante previsto e agenda de análise, produção e revisão do relato até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.3 | 13/10/2026 | Vincula a versão inicial do storyboard para identificação do material avaliado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.4 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

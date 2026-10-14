@@ -8,9 +8,9 @@ A Tabela 1 registra as contribuições neste artefato.
 
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do recorte e dos sete quadros; responsabilidade pelo artefato | [Introdução](#introducao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à relação dos quadros com as tarefas | [Descrição dos quadros e análise de tarefas](#descricao-dos-quadros-e-analise-de-tarefas) |
-| image_gen (OpenAI) | Geração da ilustração a partir do roteiro e do retrato fictício de Rafael | [Storyboard ilustrado](#storyboard-ilustrado) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do cenário e da sequência dos sete quadros | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à redação e à organização do roteiro | [Agradecimentos](#agradecimentos) |
+| image_gen (OpenAI) | Geração da ilustração | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no storyboard.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -19,7 +19,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 O storyboard acompanha **Rafael Almeida**, persona do perfil **Professor**, na organização de uma Oficina Legislativa na Escola e na obtenção de sua declaração. Os **sete quadros formam uma única história**, conforme o [planejamento da avaliação](planejamento-avaliacao-storyboard.md#material-que-devera-estar-pronto-para-avaliacao), o [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e a [análise de tarefas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
 
-**Versão 0.2 — 13/10/2026:** material com textos ampliados e passagem do tempo esclarecida no QD06. A versão fica registrada neste documento; a ilustração não exibe numeração de versão. Rafael, os alunos e os diálogos são fictícios; não representam falas de Alisson ou resultados da entrevista. As telas e o documento são esquemáticos, sem reproduzir detalhes não verificados da área autenticada.
+**Versão 0.2 — 13/10/2026:** material com textos ampliados e passagem do tempo esclarecida no QD06. Os personagens e diálogos são fictícios. As interfaces e a declaração são representações esquemáticas baseadas na documentação pública do serviço.
 
 ## Item de conteúdo da disciplina
 
@@ -144,7 +144,7 @@ A revisão de Caio abrange legibilidade, sequência e correspondência com a an�
 
 ## Agradecimentos
 
-O Codex (OpenAI) prestou apoio à redação, à organização do roteiro e à conferência das correspondências. A ferramenta integrada image_gen (OpenAI) atualizou a ilustração original, preservando a aparência fictícia de Rafael e os sete quadros. Bruno Ferreira Dornelas permanece responsável pelo conteúdo e pela revisão.
+O Codex (OpenAI) foi utilizado como apoio à redação do roteiro e à organização das correspondências com a análise de tarefas. A ilustração foi gerada com image_gen (OpenAI). A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -152,6 +152,7 @@ O Codex (OpenAI) prestou apoio à redação, à organização do roteiro e à co
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Storyboard com sete quadros, descrição textual e correspondência com a HTA/CTT da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.2 | 13/10/2026 | Amplia textos, esclarece retornos no QD06, simplifica o cenário, retira a versão da imagem e oferece visualização por quadro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

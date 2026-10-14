@@ -8,8 +8,8 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do recorte e da exigência de notação conforme o livro; responsabilidade pelo relato | [Introdução](#introducao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo do relato e dos critérios de notação | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento do relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +18,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 Este planejamento define como organizar, analisar e apresentar os resultados da [avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md) da **Oficina Legislativa na Escola**, com o perfil **Professor**. O relato será destinado ao Grupo 06 e à avaliação acadêmica, para fundamentar revisões do artefato e decisões de reprojeto.
 
-**Situação:** entrevista prevista com **Alisson dos Santos, professor de Física**, em **21/10/2026, das 19h às 19h50**, pelo Google Meet. Bruno conduzirá e registrará a sessão; Caio é o revisor designado. A agenda é provisória, com revisão final até **24/10/2026**, antes da entrega de 25/10. Resultados e atividades realizadas serão preenchidos após a coleta.
+**Participante e sessão:** entrevista prevista com **Alisson dos Santos, professor de Física**, em **21/10/2026, das 19h às 19h50**, pelo Google Meet. Bruno conduzirá e registrará a sessão; Caio é o revisor designado. A agenda é provisória, com revisão final até **24/10/2026**, antes da entrega de 25/10. Resultados e atividades realizadas serão preenchidos após a coleta.
 
 ## Item de conteúdo da disciplina
 
@@ -32,7 +32,7 @@ Este documento detalha o último **E do DECIDE**, mantendo os objetivos AT-O1–
     <p class="caption">Figura 1 — Consolidação e relato dos resultados.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, seção 9.7.5, p. 312).</p>
 
-A análise articulará documentos, contribuições do professor e conferência técnica, considerando disparidades entre descrição e prática e a verificação da decomposição com partes interessadas (p. 192, 196).
+A análise comparará a documentação, o relato do professor e a conferência técnica dos modelos para identificar diferenças entre as tarefas descritas e a prática docente (BARBOSA; SILVA, 2010, p. 192, 196).
 
 ## Estrutura prevista do relato
 
@@ -59,9 +59,9 @@ A delimitação do método frente à menção de prototipação em papel no item
 
 ### Registro de evidências
 
-Preparar um formulário privado antes do piloto. Cada registro **AT-EV01, AT-EV02…** conterá: data, participante AT-PROF01 quando aplicável, autor/origem, versão, pergunta/critério, nó, plano ou relação HTA/CTT, atividade da sessão, localizador (nota, áudio autorizado ou fonte), registro, intervenção e interpretação em campos separados.
+O avaliador preparará um formulário privado antes do piloto. Cada registro **AT-EV01, AT-EV02…** conterá: data, participante AT-PROF01 quando aplicável, autor/origem, versão, pergunta/critério, nó, plano ou relação HTA/CTT, atividade da sessão, localizador (nota, áudio autorizado ou fonte), registro, intervenção e interpretação em campos separados.
 
-Falas literais exigirão registro verificável; usar paráfrases identificadas quando não houver. Distinguir resposta espontânea e após esclarecimento. Dados ausentes serão marcados como não coletados, não respondidos ou insuficientes. Contato posterior, se autorizado, terá data própria.
+As falas serão transcritas literalmente quando houver registro verificável; nos demais casos, serão apresentadas como paráfrases. O registro distinguirá respostas espontâneas das respostas obtidas após esclarecimentos. Dados ausentes serão marcados como não coletados, não respondidos ou insuficientes. Contato posterior, se autorizado, terá data própria.
 
 Classificar a origem como conferência técnica, documento, experiência ou expectativa do professor. A fonte documental E01–E09, a contribuição do participante e o critério CT serão confrontados quando tratarem do mesmo elemento, preservando divergências.
 
@@ -126,7 +126,7 @@ A prioridade dependerá do efeito sustentado pelos dados, não apenas do número
 
 As revisões preservarão **HTA conforme Figuras 6.1–6.2 e Tabela 6.3 (p. 193–195) e CTT conforme Figuras 6.4–6.6 (p. 203–205)**. Atualizar conjuntamente diagramas, planos, tabelas, expressões e correspondências afetadas; reaplicar CT01–CT06. Mudanças relevantes no trabalho ou nas dependências deverão ser discutidas novamente com participante adequado quando viável.
 
-Preservar a versão avaliada e identificar a nova. Uma correção implementada não será apresentada como reavaliada sem nova verificação; a ficha manterá o estado e a evidência de cada encaminhamento.
+A versão avaliada será preservada. Cada alteração terá sua versão identificada e seu estado de verificação registrado na ficha de acompanhamento.
 
 ## Apresentação e limites das conclusões
 
@@ -151,13 +151,13 @@ A Tabela 6 detalha a agenda provisória, no horário de Brasília (UTC−3), com
 | Conferir o conjunto para a entrega | 24/10/2026, 18h–19h | Bruno | Conferência conjunta dos dois relatos e materiais |
 
 <p class="caption">Tabela 6 — Agenda provisória de produção e revisão do relato.</p>
-<p class="source">Fonte: planejamento do projeto, com conclusão até 24/10/2026 e entrega seguinte em 25/10, conforme informado por Bruno.</p>
+<p class="source">Fonte: cronograma de avaliação e produção do relato, Grupo 06 (2026).</p>
 
 Antes da publicação, conferir cobertura das perguntas, vínculo entre achados e evidências, separação do piloto, proteção dos dados, referências e revisão humana, seguindo o padrão de [autoria, revisão e versões](../../../guia/autoria-revisao-versoes.md).
 
 ## Agradecimentos
 
-O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos instrumentos e referências. Bruno Ferreira Dornelas permanece responsável pela revisão e pelo conteúdo do artefato.
+O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -168,6 +168,7 @@ O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos 
 | 1.0 | 13/10/2026 | Explicita método, atividades a registrar após a sessão, vínculo ao agendamento e situação das contribuições de todos os integrantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Define participante previsto e agenda de análise, produção e revisão do relato até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -8,8 +8,8 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição da funcionalidade, do perfil e da avaliação remota; responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
-| Codex (OpenAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do escopo, do perfil e da modalidade de avaliação | [Contextualização](#contextualizacao) |
+| Codex (OpenAI) | Apoio à redação e à organização do documento | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,13 +18,13 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 Este planejamento organiza a avaliação formativa do storyboard da **Oficina Legislativa na Escola**, com o perfil **Professor**, por entrevista semiestruturada remota. O recorte acompanha Rafael Almeida na organização da participação da turma e na obtenção da declaração.
 
-**Situação:** Alisson dos Santos, professor de Física, foi indicado por Bruno para a entrevista de 20/10/2026, das 19h às 19h40, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. O [storyboard versão 0.2](storyboard.md) está disponível; revisão dos materiais e preparação do TCLE seguem previstas até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-storyboard.md) orienta os registros futuros.
+**Participante e sessão:** A entrevista com Alisson dos Santos, professor de Física, está prevista para 20/10/2026, das 19h às 19h40, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. O [storyboard versão 0.2](storyboard.md) está disponível; revisão dos materiais e preparação do TCLE seguem previstas até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-storyboard.md) orienta os registros futuros.
 
 ## Contextualização
 
 O [storyboard](storyboard.md) dá continuidade ao [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), à [persona Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/persona.md), ao [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e à [análise de tarefas HTA/CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md), elaborados por [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
 
-Segundo as orientações oficiais, os alunos cadastram suas ideias com o código da turma. Sem ele, a ideia não constará na declaração do professor e não poderá ser vinculada depois da publicação [2]. A história representará esse processo e uma dúvida fictícia sobre o código, sem inventar detalhes da área autenticada. A sessão não envolverá contas, publicações ou emissão real de documentos.
+Segundo as orientações oficiais, os alunos cadastram suas ideias com o código da turma. Sem ele, a ideia não constará na declaração do professor e não poderá ser vinculada depois da publicação [2]. A história representa esse processo e uma dúvida fictícia sobre o código, com base na documentação pública do serviço. A sessão não envolverá contas, publicações ou emissão real de documentos.
 
 ## Item de conteúdo da disciplina
 
@@ -69,7 +69,7 @@ Será realizada **investigação por entrevista semiestruturada apoiada no story
 
 O professor lerá livremente a história e poderá voltar aos quadros. Depois, o moderador explorará Q1–Q7 com perguntas neutras, como “O que nessa cena fez você entender dessa forma?”. Se precisar esclarecer algo, registrará a resposta inicial e a intervenção. O tempo organiza a sessão; não mede desempenho no portal.
 
-**Item 7 da lista:** o relato descreverá esta entrevista. A prototipação em papel tem planejamento previsto na [Etapa 5](../../../proximas/etapa-05.md). Essa aplicação do critério ao método escolhido é a interpretação do projeto e ainda não constitui uma dispensa do professor.
+O relato apresentará o método e as atividades desta avaliação. A aplicação do item 7 da lista de verificação está discutida na [conferência dos planejamentos](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos).
 
 ## I — Identificar e administrar questões práticas
 
@@ -154,7 +154,7 @@ Serão ensaiados consentimento, acesso, legibilidade, leitura, entrevista, dura�
 
 ### Cronograma e pendências de agendamento
 
-A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10, conforme prazo informado por Bruno.
+A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10.
 
 | Atividade | Data e horário propostos | Responsável | Produto / condição |
 | --- | --- | --- | --- |
@@ -169,11 +169,11 @@ A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Br
 | Conferir conjunto final para a entrega | 24/10, 18h–19h | Bruno | Conferência conjunta dos dois artefatos e relatos |
 
 <p class="caption">Tabela 6 — Cronograma proposto da avaliação e do relato.</p>
-<p class="source">Fonte: planejamento do projeto, com limite de 24/10/2026 informado por Bruno; atividades de Barbosa e Silva (2010, seção 9.7).</p>
+<p class="source">Fonte: elaboração do projeto com base nas atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
 ### Registro de agendamento previsto
 
-A Tabela 7 registra as sessões propostas, sem afirmar disponibilidade já confirmada. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Se os ajustes exigirem mais tempo, rever a agenda sem suprimir o piloto.
+A Tabela 7 apresenta as datas propostas, sujeitas à confirmação com os participantes. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Em caso de reagendamento, o piloto será mantido antes da avaliação principal.
 
 | Sessão | Data proposta | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma | Participante e condição |
 | --- | --- | --- | --- | --- | --- |
@@ -215,7 +215,7 @@ A entrevista não comprova eficiência de uso ou usabilidade do portal. Familiar
 
 ## Agradecimentos
 
-O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos instrumentos e referências. Bruno Ferreira Dornelas definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
+O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -227,6 +227,7 @@ O Codex (OpenAI) prestou apoio à redação, à síntese e à organização dos 
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Indica Alisson dos Santos, professor de Física, e define agenda provisória até 24/10, equipe e preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.3 | 13/10/2026 | Vincula o storyboard ilustrado v0.1 e atualiza a preparação para revisão e piloto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.4 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
