@@ -169,9 +169,9 @@ O Claude, assistente de inteligência artificial desenvolvido pela Anthropic, ap
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 13/10/2026 | Criação do planejamento do relato dos resultados da avaliação do Storyboard | [Israel Soares](https://github.com/IsraelSoares-25) | [Nome](https://github.com/usuario) |
-| `1.1` | 13/10/2026 | Adaptação para a funcionalidade Agendamento de Visita | [Israel Soares](https://github.com/IsraelSoares-25) | [Nome](https://github.com/usuario) |
-| `1.2` | 13/10/2026 | Adequação ao template padrão de artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Nome](https://github.com/usuario) |
+| `1.0` | 13/10/2026 | Criação do planejamento do relato dos resultados da avaliação do Storyboard | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.1` | 13/10/2026 | Adaptação para a funcionalidade Agendamento de Visita | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 13/10/2026 | Adequação ao template padrão de artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

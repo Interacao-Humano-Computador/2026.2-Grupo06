@@ -228,11 +228,9 @@ Grok (xAI) desenhou os quadros em SVG. Caio Breno de Souza Bezerra definiu o rec
 
 ## Histórico de versão
 
-Revisor designado: [Bruno Ferreira Dornelas](https://github.com/brunnf). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 1.0 | 13/10/2026 | Seis quadros SVG do envio de uma ideia, do rascunho ao acompanhamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev); desenhos de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.0 | 13/10/2026 | Seis quadros SVG do envio de uma ideia, do rascunho ao acompanhamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

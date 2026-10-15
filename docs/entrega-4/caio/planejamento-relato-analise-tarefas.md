@@ -143,8 +143,6 @@ Grok (xAI) apoiou a redação e a organização dos instrumentos. Caio Breno de 
 
 ## Histórico de versão
 
-Revisor designado: [Bruno Ferreira Dornelas](https://github.com/brunnf). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Estrutura e instrumentos para o futuro relato da avaliação da HTA/CTT da autoria de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |

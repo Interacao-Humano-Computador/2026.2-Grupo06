@@ -105,7 +105,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.1` | 05/10/2026 | Integra a HTA e a CTT documentais da Oficina Legislativa ao índice do grupo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/10/2026 | Alinha o índice aos resultados e fronteiras das tarefas e referencia a conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 13/10/2026 | Integra a HTA e a CTT documentais da autoria de uma ideia, sem aumentar a amostra | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

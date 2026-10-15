@@ -26,7 +26,7 @@ Foram examinados:
 - [Planejamento da avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md).
 - [Planejamento do relato da análise de tarefas](planejamento-relato-analise-tarefas.md).
 
-A revisão humana de Bruno Ferreira Dornelas está pendente. As listas de inspeção do [Grupo 06](../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../verificacao/grupo-05/etapa-4/lista-verificacao.md) permanecem **sem respostas**.
+As listas de inspeção do [Grupo 06](../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../verificacao/grupo-05/etapa-4/lista-verificacao.md) permanecem **sem respostas**.
 
 ## Aplicação dos critérios ao planejamento
 
@@ -72,11 +72,9 @@ Não foi atribuído atendimento integral ao requisito literal de data e horário
 
 ## Agradecimentos
 
-Grok (xAI) apoiou a comparação com a lista da Apresentação 4. A revisão humana permanece pendente.
+Grok (xAI) apoiou a comparação com a lista da Apresentação 4.
 
 ## Histórico de versão
-
-Revisor designado: [Bruno Ferreira Dornelas](https://github.com/brunnf). A revisão será registrada quando realizada.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |

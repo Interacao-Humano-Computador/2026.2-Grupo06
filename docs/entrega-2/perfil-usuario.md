@@ -340,7 +340,7 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 | `1.8` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 05/10/2026 | Delimita o escopo, padroniza os quatro perfis, recupera atributos das fontes e registra cobertura das evidências e conferência dos artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 13/10/2026 | Integra o perfil documental Proponente de ideia legislativa, sem alterar a amostra de cinco sessões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `2.1` | 13/10/2026 | Atualiza o proponente com o formulário lido e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.1` | 13/10/2026 | Atualiza o proponente com o formulário lido e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

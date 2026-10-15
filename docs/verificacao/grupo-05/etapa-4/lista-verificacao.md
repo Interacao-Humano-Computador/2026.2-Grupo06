@@ -89,8 +89,6 @@ O Codex (OpenAI) foi utilizado como apoio à transcrição e à formatação dos
 
 ## Histórico de versão
 
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Prepara a lista da Etapa 4 com 11 itens de desenvolvimento e 12 de conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

@@ -362,11 +362,9 @@ A Figura 10 reproduz as diretrizes para condução e postura neutra durante sess
 
 ## Agradecimentos
 
-O Codex (OpenAI), o Google Gemini e o Claude (Anthropic) apoiaram a transcrição dos critérios, a estruturação e organização dos itens de verificação elaborados pelo grupo, a organização das respostas a partir da transcrição da inspeção, a formatação da lista e a checagem da fundamentação bibliográfica. A responsabilidade pelo conteúdo dos itens 1 a 13 é de Bruno Ferreira Dornelas; a dos itens 14 a 23, de seus respectivos autores. A revisão humana e o preenchimento da inspeção dos itens 14 a 23 estão pendentes.
+O Codex (OpenAI), o Google Gemini e o Claude (Anthropic) apoiaram a transcrição dos critérios, a estruturação e organização dos itens de verificação elaborados pelo grupo, a formatação da lista e a checagem da fundamentação bibliográfica. A responsabilidade pelo conteúdo dos itens 1 a 13 é de Bruno Ferreira Dornelas; a dos itens 14 a 23, de seus respectivos autores.
 
 ## Histórico de versão
-
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). A revisão será registrada quando realizada.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |

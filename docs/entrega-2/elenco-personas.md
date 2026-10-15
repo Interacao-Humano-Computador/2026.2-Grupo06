@@ -93,7 +93,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.5` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 05/10/2026 | Relaciona o elenco à caracterização padronizada, às lacunas e à conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 13/10/2026 | Inclui Camila Nogueira como persona documental focal do recorte de autoria, sem alterar as prioridades já decididas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

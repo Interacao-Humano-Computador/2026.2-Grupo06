@@ -97,7 +97,7 @@ Esta página contou com apoio do Google Gemini na consolidação do material pre
 | `1.3` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/10/2026 | Explicita o procedimento de consolidação e sua ligação com escopo, lacunas e rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 13/10/2026 | Registra a análise documental do proponente de ideia legislativa, sem nova entrevista | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.6` | 13/10/2026 | Atualiza o procedimento do proponente com a leitura do formulário e da página de ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 13/10/2026 | Atualiza o procedimento do proponente com a leitura do formulário e da página de ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

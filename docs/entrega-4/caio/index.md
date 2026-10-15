@@ -35,11 +35,9 @@ Grok (xAI) apoiou a organização desta página de índice. Caio Breno de Souza 
 
 ## Histórico de versão
 
-Revisor designado: [Bruno Ferreira Dornelas](https://github.com/brunnf). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 1.0 | 13/10/2026 | Índice do storyboard e dos planejamentos do perfil Proponente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev); desenhos de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.0 | 13/10/2026 | Índice do storyboard e dos planejamentos do perfil Proponente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

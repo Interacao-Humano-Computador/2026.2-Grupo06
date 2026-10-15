@@ -362,8 +362,6 @@ Em atenção às recomendações de integridade acadêmica da Sociedade Brasilei
 
 ## Histórico de versão
 
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial do planejamento DECIDE da avaliação do storyboard (Letícia Oliveira — PL 1215/2025) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

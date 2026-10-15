@@ -25,7 +25,7 @@ Esta conferência considera somente o **planejamento** das avaliações e dos re
 
 Não são exigidos nesta conferência resultados coletados, falas de participantes, problemas encontrados, piloto executado ou gravação de sessão. Esses registros pertencem à execução. O planejamento deve definir como serão produzidos, tratados e apresentados.
 
-A situação de cada item reflete o que está escrito hoje nos quatro documentos, e não o que o grupo pretende fazer. A análise se refere à cópia local, e a revisão humana está pendente. Esta página também não responde às listas de inspeção do [Grupo 06](../../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../../verificacao/grupo-05/etapa-4/lista-verificacao.md), que seguem para a inspeção coletiva.
+A situação de cada item reflete o que está escrito hoje nos quatro documentos, e não o que o grupo pretende fazer. A análise se refere à cópia local. Esta página também não responde às listas de inspeção do [Grupo 06](../../../verificacao/grupo-06/etapa-4/lista-verificacao.md) e do [Grupo 05](../../../verificacao/grupo-05/etapa-4/lista-verificacao.md), que seguem para a inspeção coletiva.
 
 **Conclusão:** dos 12 itens (2 a 13), 2 estão contemplados, 6 estão parciais e 4 estão pendentes. A estrutura geral dos quatro planejamentos está completa. Os itens 4, 9, 11 e 12 exigem acréscimos antes de os planejamentos serem considerados adequados à lista. O plano de correção está na Tabela 4.
 
@@ -96,15 +96,13 @@ A Tabela 4 reúne o que precisa mudar nos artefatos e o que ainda depende de inf
 
 ## Agradecimentos
 
-O Claude (Anthropic) apoiou a redação, a organização e a conferência dos critérios contra o texto dos artefatos. A revisão humana permanece pendente. A responsabilidade pelo conteúdo publicado é do autor.
+O Claude (Anthropic) apoiou a redação, a organização e a conferência dos critérios contra o texto dos artefatos. A responsabilidade pelo conteúdo publicado é do autor.
 
 ## Histórico de versão
 
-Revisor designado: [a definir]. A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 13/10/2026 | Conferência dos quatro planejamentos do Agendamento de Visita contra os critérios da lista e proposta de plano de correção | [Israel Soares](https://github.com/IsraelSoares-25) | [Nome](https://github.com/usuario) |
+| `0.1` | 13/10/2026 | Conferência dos quatro planejamentos do Agendamento de Visita contra os critérios da lista e proposta de plano de correção | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

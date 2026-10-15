@@ -98,7 +98,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.4` | 05/10/2026 | Integra o cenário de Rafael ao índice e distingue narrativa documental de sessões observadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 05/10/2026 | Relaciona cenários ao escopo e explicita a limitação de origem da sequência de Marta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 13/10/2026 | Integra o cenário documental de Camila Nogueira, sem tratá-lo como sessão observada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.7` | 13/10/2026 | Atualiza o cenário de Camila com o formulário e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.7` | 13/10/2026 | Atualiza o cenário de Camila com o formulário e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

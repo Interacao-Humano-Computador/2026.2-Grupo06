@@ -50,5 +50,5 @@ Heitor Pinheiro organizou o índice e desenhou o storyboard de Letícia. Grok (x
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.0 | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev); desenhos de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 

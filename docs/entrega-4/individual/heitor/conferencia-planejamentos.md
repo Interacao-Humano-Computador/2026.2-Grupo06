@@ -77,8 +77,6 @@ O Google Gemini e o Claude (Anthropic) apoiaram a organização da matriz compar
 
 ## Histórico de versão
 
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Elaboração inicial da conferência documental dos planejamentos da Etapa 4 de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

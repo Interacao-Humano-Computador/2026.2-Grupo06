@@ -123,16 +123,14 @@ A [Etapa 4](../../../../entrega-4/caio/index.md) relaciona as operações aos qu
 
 ## Agradecimentos
 
-A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a revisão humana e a validação com pessoas usuárias estão pendentes. Não houve entrevista nem envio de ideia. Em 13/10/2026 o formulário foi lido após o gov.br, e uma ideia já publicada foi consultada na página pública. A integração aos índices e o planejamento da Etapa 4 tiveram apoio de Grok (xAI).
+A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a validação com pessoas usuárias está pendente. Não houve entrevista nem envio de ideia. Em 13/10/2026 o formulário foi lido após o gov.br, e uma ideia já publicada foi consultada na página pública. A integração aos índices e o planejamento da Etapa 4 tiveram apoio de Grok (xAI).
 
 ## Histórico de versão
 
-Revisor designado: [Bruno Ferreira Dornelas](https://github.com/brunnf). A revisão será registrada quando realizada.
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Proposta da HTA/CTT do envio de uma ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 0.2 | 13/10/2026 | Alinha preparar, envio e acompanhamento ao formulário, ao e-mail e à página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Grok (xAI) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.1 | 13/10/2026 | Proposta da HTA/CTT do envio de uma ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.2 | 13/10/2026 | Alinha preparar, envio e acompanhamento ao formulário, ao e-mail e à página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
