@@ -26,7 +26,7 @@ Conforme as diretrizes pedagógicas da disciplina da FCTE/UnB, **nesta Etapa 4 n
 
 ## Artefatos individuais da etapa
 
-Cada integrante do grupo desenvolveu o planejamento completo da avaliação e do relato de sua funcionalidade e persona mapeadas, acompanhado da conferência documental de conformidade. A Tabela 2 relaciona os trabalhos individuais da Etapa 4.
+Bruno, Caio, Heitor e Israel publicaram os planejamentos da avaliação e do relato de suas funcionalidades, acompanhados das respectivas conferências documentais. A Tabela 2 relaciona os trabalhos individuais da Etapa 4.
 
 | Integrante | Funcionalidade / Persona | Storyboard | Análise de Tarefas | Conferência |
 | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Cada integrante do grupo desenvolveu o planejamento completo da avaliação e do
 <p class="caption">Tabela 2 — Trabalhos individuais da Etapa 4 do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Participante, datas e horários seguem a confirmar. Luís ainda não publicou os planejamentos desta etapa. Nenhuma sessão de avaliação foi executada.
+Os agendamentos e as confirmações de participantes estão descritos nos planejamentos individuais. Luís contribuiu com os itens de verificação, mas não entregou os artefatos individuais da Etapa 4. Nenhuma sessão de avaliação foi executada.
 
 ## Agradecimentos
 
@@ -51,4 +51,13 @@ Heitor Pinheiro organizou o índice e desenhou o storyboard de Letícia. Grok (x
 | 0.1 | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.0 | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
+
+## Referências
+
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010.
+
+[2] PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. *Design de interação: além da interação humano-computador*. 3. ed. Porto Alegre: Bookman, 2013.
+
+[3] SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026.

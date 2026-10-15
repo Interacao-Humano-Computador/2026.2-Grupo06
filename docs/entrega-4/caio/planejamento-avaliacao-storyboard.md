@@ -137,7 +137,7 @@ A Tabela 4 confirma a cobertura do storyboard já produzido. Os quadros vinculam
 
 As orientações conhecidas podem aparecer na história; o que será investigado é sua interpretação após a leitura. O moderador não fornecerá explicações adicionais antes de registrar a resposta inicial. Qualquer mudança na quantidade ou ordem dos quadros deverá atualizar esta tabela, a figura e os instrumentos.
 
-**Critério de preparação:** o desenho versão 1.0 apresenta ID, ação, fala e vínculo da Tabela 4. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. Os de Bruno, Israel e Luís permanecem pendentes de desenho. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
+**Critério de preparação:** o desenho versão 1.0 apresenta ID, ação, fala e vínculo da Tabela 4. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. O de [Bruno — Oficina Legislativa](../individual/bruno/storyboard.md) também está disponível. A autoverificação registra o storyboard de Israel como incompleto; Luís não entregou o seu. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
 
 ### Roteiro da sessão
 
@@ -237,6 +237,7 @@ Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação do storyboard de Camila, com os seis quadros QD01–QD06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

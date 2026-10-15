@@ -9,7 +9,7 @@ A Tabela 1 concentra a contribuição da Entrega 4. Cada linha é uma atividade,
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Storyboard, HTA e planejamentos (Perfil Professor — Rafael Almeida) | [Trabalho individual](../entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Storyboard, HTA e planejamentos (Perfil Cidadão — Lucas Mendes) | [Trabalho individual](../entrega-4/caio/planejamento-avaliacao-storyboard.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Storyboard, HTA e planejamentos (Perfil Proponente — Camila Nogueira) | [Trabalho individual](../entrega-4/caio/planejamento-avaliacao-storyboard.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Storyboard, HTA e planejamentos (Persona Letícia Oliveira — PL 1215/2025) | [Trabalho individual](../entrega-4/individual/heitor/planejamento-avaliacao-storyboard.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Storyboard, HTA e planejamentos (Perfil Pesquisador — Mariana Costa) | [Trabalho individual](../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Criação da página de apresentação | Esta página |
@@ -66,6 +66,7 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `0.1` | 13/10/2026 | Estruturação inicial da página de apresentação da Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 13/10/2026 | Consolidação da página com roteiro de apresentação e resultados completos da autoverificação nas Tabelas 2, 3 e 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 15/10/2026 | Padroniza a apresentação, corrige os participantes e concentra a autoverificação na aba Verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

@@ -125,10 +125,11 @@ A equipe agradece o apoio do Google Gemini na organização do texto, no ajuste 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 04/09/2026 | Modelo com foto da referência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.1` | 04/09/2026 | Modelo com foto da referência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.0` | 05/09/2026 | Preenchimento da página | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.2` | 03/10/2026 | Corrige figuras, numeração, fontes, chamada no texto, recado interno e ortografia; nomeia o Google Gemini | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
