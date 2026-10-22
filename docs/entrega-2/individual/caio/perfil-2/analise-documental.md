@@ -34,7 +34,8 @@ A Tabela 2 identifica as fontes e permite reencontrar cada regra sem depender de
 | --- | --- | --- |
 | D01 | [Como funciona a Ideia Legislativa](https://www12.senado.leg.br/ecidadania/comofuncionaideia), perguntas sobre envio, avaliação e alteração | Orientações públicas do processo; não descreve integralmente as telas autenticadas |
 | D02 | [Termos de Uso e Política de Privacidade](https://www12.senado.leg.br/ecidadania/termo), itens 6, 9, 20–24 e 29 | Condições de acesso e participação; não é evidência de compreensão dessas condições pelos usuários |
-| D03 | [Página da Ideia Legislativa](https://www12.senado.leg.br/ecidadania/principalideia), acesso à ferramenta | Confirma o serviço público e seu ponto de entrada; formulário autenticado não percorrido |
+| D03 | [Página da Ideia Legislativa](https://www12.senado.leg.br/ecidadania/principalideia) e formulário [Cadastro de Ideia Legislativa](https://www12.senado.leg.br/ecidadania/ideiaform), aberto em 13/10/2026 depois do gov.br | Botão público “ENVIAR IDEIA”, aviso de conta gov.br e campos do formulário. Nenhuma ideia foi enviada |
+| D04 | Conta: [Dados cadastrais](https://www12.senado.leg.br/ecidadania/dadoscadastrais). Ideia já publicada: [visualização](https://www12.senado.leg.br/ecidadania/visualizacaoideia?id=223676), lida em 13/10/2026 | O menu “Minhas Atividades” abre a Atividade Legislativa do Senado, não uma lista da autora. O andamento de ideia criada é oferecido por e-mail. A ideia publicada mostra apoios, “APOIAR ESTA IDEIA”, “Compartilhe”, “Linha do Tempo” e “Emitir declaração de autoria de ideia” |
 
 <p class="caption">Tabela 2 — Corpus documental, consultado em 13/10/2026.</p>
 <p class="source">Fonte: Senado Federal, documentos D01–D03.</p>
@@ -47,12 +48,14 @@ A Tabela 3 registra somente regras relevantes ao recorte. Os IDs são locais a e
 | --- | --- | --- | --- |
 | E01 | O cidadão pode enviar sugestões de criação ou alteração legislativa | D01, “Quem pode enviar ideias?”; D02, item 2 | A autoria constitui atividade existente |
 | E02 | O envio passa por autenticação gov.br | D02, item 6 | O modelo trata autenticação como precondição, sem inventar telas |
-| E03 | Não se permite repetir ideia própria ainda aberta | D01, “Como faço para enviar?” | Considerar verificação antes de submeter |
-| E04 | Há moderação anterior à publicação | D01, “Quem avalia?” | Separar envio de publicação |
+| E03 | Antes de enviar, é preciso olhar a lista de ideias abertas. Dá para enviar várias ideias, mas não repetir uma igual à própria que ainda esteja aberta. Ideia semelhante à de outra pessoa é permitida | D01, “Como faço para enviar?”, “Posso enviar mais de uma?” e “Posso enviar uma ideia semelhante?” | A conferência da lista vem antes do envio; não é só “ideia própria” |
+| E04 | Toda ideia é avaliada pelos Termos de Uso. Se os respeita, é publicada; se não, é arquivada. A exclusão de ideia é fundamentada e informada ao autor | D01, “As ideias passam por alguma moderação?”; D02, item 32 | Separar envio, avaliação e publicação |
 | E05 | Dados pessoais não solicitados não devem integrar o texto | D01, “Que tipo de ideia…?”; D02, item 29 | Revisão deve considerar conteúdo identificável |
 | E06 | O texto não pode ser alterado após o envio | D01, “Posso alterar…?”; D02, item 22 | Revisão anterior é ponto crítico |
 | E07 | Apoios e análise legislativa são etapas posteriores | D01, perguntas sobre apoios e SUG | Enviar não equivale a aprovar uma lei |
-| E08 | O e-mail cadastrado é meio principal de comunicação | D02, item 9 | Considerar retorno posterior, sem supor painel ou prazo |
+| E08 | O e-mail cadastrado é o meio principal de comunicação | D02, item 9 | O retorno posterior pode chegar por e-mail; a tela de confirmação do envio não foi observada |
+| E09 | O botão público é “ENVIAR IDEIA”. Sem sessão, o portal diz “Para participar, acesse com sua conta gov.br”. O formulário pede título (90 caracteres) e descrição (700). O código de turma da Oficina é opcional, com “Consultar”. Os botões finais são “ENVIAR” e “Cancelar”. O próprio formulário avisa que a ideia será avaliada conforme os Termos de Uso | D03, página e formulário vistos em 13/10/2026 | Não inventar outros campos, um segundo envio ou um carimbo de “recebido” |
+| E10 | Não foi vista a tela logo depois de “ENVIAR”, nem um estado chamado “analisando proposta”. Na conta, o retorno de ideia criada é o e-mail de andamento. Na ideia já publicada há apoios, meta de 20.000, “APOIAR ESTA IDEIA”, compartilhamento, linha do tempo e declaração de autoria. A linha do tempo diz que um parlamentar pode adotar a ideia a qualquer momento e que 20 mil apoios em 4 meses levam o texto à CDH, que pode transformá-lo em proposição ou arquivá-lo | D04, conta e uma ideia aberta, em 13/10/2026 | Acompanhar é a página pública da ideia e o e-mail, não o menu “Minhas Atividades” |
 
 <p class="caption">Tabela 3 — Regras documentadas e implicações propostas.</p>
 <p class="source">Fonte: síntese de D01 e D02; implicações elaboradas para o projeto.</p>
@@ -65,19 +68,20 @@ Esse recorte amplia a participação cívica já estudada com [Letícia](../../h
 
 ## Limites e continuidade
 
-Não foram verificados campos, limites de caracteres, salvamento de rascunhos, telas de revisão, mensagens de sucesso, funcionamento após expiração de sessão ou prazo de moderação. Uma revisão do texto é atividade recomendada à pessoa, não afirmação de que existe uma tela específica para isso. O acesso privado deverá ser investigado separadamente, sem recolher credenciais de participantes.
+Em 13/10/2026 o formulário foi aberto após o gov.br e lido sem enviar ideia. Há título de até 90 caracteres, descrição de até 700 e código opcional de turma. Não há, nessa tela, aviso próprio sobre telefone: essa vedação continua no texto dos Termos. Não foram vistos rascunho salvo pelo portal, tela de revisão anterior ao “ENVIAR”, mensagem de sucesso nem o que ocorre se a sessão expira. Também não apareceu um rótulo “analisando proposta”. A revisão do texto, no recorte, é ação da pessoa antes de apertar “ENVIAR”. O acompanhamento observado é posterior à publicação: a página da ideia e o e-mail de andamento.
 
 O [perfil](perfil-usuario.md) apresenta atributos ainda desconhecidos. A [persona](persona.md) e o [cenário](cenario.md) tornam o objetivo discutível no design. A [análise de tarefas](analise-tarefas.md) explicita precondições, operações e limites. A próxima coleta deverá verificar relevância do objetivo, contexto de uso e expectativas, em vez de confirmar automaticamente esta proposta.
 
 ## Agradecimentos
 
-A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a revisão humana e a validação com pessoas usuárias estão pendentes. Não foram realizadas entrevistas, sessões autenticadas ou submissões reais nesta elaboração.
+A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a validação com pessoas usuárias está pendente. Não houve entrevista nem envio de ideia. Em 13/10/2026 o formulário foi lido após o gov.br, e uma ideia já publicada foi consultada na página pública. A integração aos índices e o planejamento da Etapa 4 tiveram apoio de Grok (xAI).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Proposta documental do segundo perfil de Caio e seus artefatos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
+| 0.1 | 13/10/2026 | Proposta documental do perfil Proponente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.2 | 13/10/2026 | Registra a leitura do formulário, da conta e de uma ideia já publicada, sem envio de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -30,11 +30,11 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Etapa 3">
-  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 3</p>
-  <div><b>06/10</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>07/10</b><span>Inspeção pelo Grupo +1</span></div>
-  <div><b>08/10</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da Etapa 5">
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 5</p>
+  <div><b>25/10</b><span>Entrega no Aprender e no GitHub Pages</span></div>
+  <div><b>26/10</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>27/10</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -50,11 +50,23 @@ hide:
     <strong>Perfil de usuário</strong>
     <span>Ética, coleta, perfis, personas, cenários e análise de tarefas.</span>
   </a>
-  <a class="tile tile-featured" href="entrega-3/">
+  <a class="tile" href="entrega-3/">
     <span class="tile-icon ico" data-icon="clipboard-text-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 3</span>
     <strong>Análise de requisitos</strong>
     <span>Plataforma, princípios de projeto, metas de usabilidade e guia de estilo.</span>
+  </a>
+  <a class="tile" href="entrega-4/">
+    <span class="tile-icon ico" data-icon="clipboard-text-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 4</span>
+    <strong>Planejamento da avaliação</strong>
+    <span>Planejamentos individuais do storyboard, da análise de tarefas e de seus relatos.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-5/">
+    <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 5</span>
+    <strong>Relatos e protótipo de papel</strong>
+    <span>Trabalhos individuais, planejamentos do papel e acompanhamento dos relatos.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
@@ -84,13 +96,13 @@ hide:
   <a class="tile" href="proximas/">
     <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
     <strong>Próximas etapas</strong>
-    <span>Etapas 4 a 8 e entrega final.</span>
+    <span>Etapas 6 a 8 e entrega final.</span>
   </a>
 </nav>
 
 ## Introdução
 
-Esta página abre o site do Grupo 06. As Entregas 1 e 2 já estão publicadas e podem ser abertas pelos cartões acima e pelo menu. A Etapa 3 está aberta: a entrega é em 06/10/2026, a inspeção em 07/10 e a apresentação em 08/10. As características da plataforma já estão escritas. Princípios, metas de usabilidade e guia de estilo estão nas páginas da etapa, para cada autor preencher. O objeto do projeto é o Portal do Senado Federal. Padrões de artefato, verificação e as etapas 4 a 8 continuam no menu.
+Esta página abre o site do Grupo 06. As Etapas 1, 2 e 3 estão publicadas, incluindo os artefatos de planejamento, perfil de usuário e análise de requisitos. A [Etapa 4](entrega-4/index.md) reúne os planejamentos de avaliação e dos relatos. A [Etapa 5](entrega-5/index.md) está aberta com organização por integrante e os planejamentos do protótipo de papel de Bruno; os relatos anteriores aguardam os dados das avaliações. Sua entrega está prevista para 25/10/2026. O objeto do projeto é o Portal do Senado Federal. As verificações, os registros e as próximas etapas estão disponíveis no menu.
 
 ## Tabela de contribuição
 
@@ -99,6 +111,8 @@ A Tabela 1 registra quem atuou nesta página.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Publicação e manutenção da página inicial e da estrutura do GitHub Pages | [Equipe](index.md#equipe) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Abertura da Etapa 5 na página inicial, com datas e acesso aos trabalhos individuais | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à atualização do texto e dos acessos à Etapa 5 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -144,6 +158,10 @@ A Tabela 1 registra quem atuou nesta página.
 
 A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta etapa.
 
+## Agradecimentos
+
+O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Etapa 5. A responsabilidade por esta atualização é de Bruno Ferreira Dornelas.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -153,6 +171,8 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 | `1.2` | 09/09/2026 | Portal do Senado Federal como objeto do projeto e identidade visual institucional | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.3` | 03/10/2026 | Atualiza as datas para a Etapa 3 e os cartões do que já está publicado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 03/10/2026 | Aponta o cartão da Etapa 3 para a página aberta da análise de requisitos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
 
 ## Bibliografia
 

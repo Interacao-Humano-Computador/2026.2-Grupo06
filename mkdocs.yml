@@ -22,6 +22,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
     - navigation.indexes
     - navigation.top
     - navigation.path
@@ -181,14 +182,39 @@ nav:
   - Etapa 4 · Planejamento da avaliação:
       - entrega-4/index.md
       - Trabalhos individuais:
-          - Bruno Ferreira: entrega-4/individual/bruno.md
+          - Bruno Ferreira:
+              - Storyboard · Oficina Legislativa: entrega-4/individual/bruno/storyboard.md
+              - Storyboard · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/individual/bruno/planejamento-relato-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/individual/bruno/planejamento-relato-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/individual/bruno/conferencia-planejamentos.md
+          - Heitor Pinheiro:
+              - Storyboard · Planejamento da avaliação: entrega-4/individual/heitor/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/individual/heitor/planejamento-relato-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/heitor/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/individual/heitor/planejamento-relato-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/individual/heitor/conferencia-planejamentos.md
           - Caio Breno:
-              - entrega-4/caio/index.md
-              - Planejamento da avaliação: entrega-4/caio/avaliacao.md
-              - Planejamento dos relatos: entrega-4/caio/relatos.md
-          - Heitor Pinheiro: entrega-4/individual/heitor.md
-          - Israel Soares: entrega-4/individual/israel.md
-          - Luís Henrique: entrega-4/individual/luis.md
+              - Índice do recorte: entrega-4/caio/index.md
+              - Storyboard: entrega-4/caio/storyboard.md
+              - Storyboard · Planejamento da avaliação: entrega-4/caio/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/caio/planejamento-relato-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/caio/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/caio/planejamento-relato-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/caio/conferencia-planejamentos.md
+          - Israel Soares:
+              - Storyboard · Planejamento da avaliação: entrega-4/individual/israel/planejamento-avaliacao-storyboard.md
+              - Storyboard · Planejamento do relato: entrega-4/individual/israel/planejamento-relato-resultados-storyboard.md
+              - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/israel/planejamento-avaliacao-analise-tarefas.md
+              - Análise de tarefas · Planejamento do relato: entrega-4/individual/israel/planejamento-relato-resultados-analise-tarefas.md
+              - Conferência dos planejamentos: entrega-4/individual/israel/conferencia-planejamentos.md
+  - Etapa 5 · Relatos e protótipo de papel:
+      - entrega-5/index.md
+      - Trabalhos individuais:
+          - Bruno Ferreira:
+              - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md
+              - Protótipo de papel · Planejamento do relato: entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação: []
@@ -197,8 +223,10 @@ nav:
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
               - Etapa 2: verificacao/grupo-06/etapa-2/lista-verificacao.md
               - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
+              - Etapa 4: verificacao/grupo-06/etapa-4/lista-verificacao.md
           - Inspeção do Grupo 05:
               - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
+              - Etapa 4: verificacao/grupo-05/etapa-4/lista-verificacao.md
           - Inspeção do Grupo 07:
               - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
               - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
@@ -225,8 +253,6 @@ nav:
       - proximas/index.md
       - Etapa 2: proximas/etapa-02.md
       - Etapa 3: proximas/etapa-03.md
-      - Etapa 4: proximas/etapa-04.md
-      - Etapa 5: proximas/etapa-05.md
       - Etapa 6: proximas/etapa-06.md
       - Etapa 7: proximas/etapa-07.md
       - Etapa 8: proximas/etapa-08.md

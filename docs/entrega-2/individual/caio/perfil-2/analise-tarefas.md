@@ -16,11 +16,11 @@ A Tabela 1 registra a elaboração desta proposta, ainda sujeita à revisão hum
 
 ## Introdução
 
-A análise decompõe o objetivo de [Camila](persona.md) no [cenário de revisão](cenario.md). A HTA organiza objetivos, operações e planos; a CTT explicita tipos de tarefa e relações temporais (BARBOSA; SILVA, 2010, p. 192–195, 203–205). Os modelos são documentais e propostos: não representam cliques observados nem telas autenticadas verificadas.
+A análise decompõe o objetivo de [Camila](persona.md) no [cenário de revisão](cenario.md). A HTA organiza objetivos, operações e planos; a CTT explicita tipos de tarefa e relações temporais (BARBOSA; SILVA, 2010, p. 192–195, 203–205). Os modelos descrevem a tarefa. O formulário autenticado foi aberto em 13/10/2026 e nenhuma ideia foi enviada. A tela posterior ao botão ENVIAR não foi vista.
 
 ## Tarefa analisada
 
-**Objetivo 0:** encaminhar uma ideia própria com conteúdo revisado e compreender o resultado da submissão. **Entrada:** intenção de propor uma melhoria, rascunho e possibilidade de autenticação própria. **Término:** envio reconhecido como recebido, com entendimento de que há etapa posterior de avaliação. Publicação, apoios e decisão legislativa pertencem a processos posteriores.
+**Objetivo 0:** encaminhar uma ideia própria com conteúdo revisado e compreender o resultado da submissão. **Entrada:** intenção de propor uma melhoria, rascunho e possibilidade de autenticação própria. **Término:** envio pelo botão ENVIAR, com o texto travado e a avaliação ainda pendente. A mensagem mostrada depois desse clique não foi vista. Publicação, apoios e decisão legislativa pertencem a processos posteriores.
 
 A revisão é uma operação da pessoa. Não se afirma que o portal disponha de rascunho persistente, pré-visualização, confirmação adicional ou detecção automática de dados pessoais.
 
@@ -31,19 +31,19 @@ A hierarquia textual abaixo e as tabelas representam o mesmo modelo. Os números
 ```text
 0 Encaminhar uma ideia revisada e compreender o resultado
   1 Preparar a participação
-    1.1 Examinar regras e verificar ideia própria equivalente aberta
-    1.2 Preparar o conteúdo da proposta
+    1.1 Examinar regras e a lista de ideias abertas
+    1.2 Preparar título e descrição da proposta
   2 Revisar o compromisso
     2.1 Conferir intenção, regras e informação pessoal no texto
     2.2 Corrigir o conteúdo, quando necessário
     2.3 Decidir se o texto está pronto para submissão
   3 Submeter a proposta
     3.1 Obter acesso autenticado
-    3.2 Informar o conteúdo revisado no serviço
+    3.2 Informar título e descrição revisados no formulário
     3.3 Conferir o conteúdo informado e efetivar o envio
   4 Interpretar o resultado
-    4.1 Verificar o retorno disponível sobre o envio
-    4.2 Distinguir recebimento das etapas posteriores
+    4.1 Verificar o andamento por e-mail e, se publicada, na página da ideia
+    4.2 Distinguir envio, publicação, apoios e lei
 ```
 
 ### Planos da HTA
@@ -53,13 +53,13 @@ A Tabela 2 estabelece sequência, decisões e condições de parada. `>` indica 
 | Objetivo | Plano | Condição / alternativa |
 | --- | --- | --- |
 | 0 | `1 > 2 > 3 > 4` | Percurso do cenário. Se desistir antes do envio, registrar objetivo não concluído; não forçar submissão |
-| 1 | `1.1 > 1.2` | Diante de ideia própria equivalente aberta, não repetir o envio; rever objetivo ou encerrar |
+| 1 | `1.1 > 1.2` | Se já houver ideia própria igual ainda aberta, não repetir o envio |
 | 2 | `2.1 > [2.2 quando necessário] > 2.3` | Se ainda houver problema, voltar a 2.1; avançar apenas quando decidir que está pronto |
 | 3 | `3.1 > 3.2 > 3.3` | Se já autenticada, verificar acesso em 3.1. Sem acesso, parar. Se a conferência revelar problema, corrigir antes de efetivar |
-| 4 | `4.1 > 4.2` | Sem evidência de recebimento, resultado indeterminado; investigar antes de tentar reenviar |
+| 4 | `4.1 > 4.2` | Sem a tela posterior, o resultado do clique fica em aberto; não tratar isso como motivo para enviar de novo |
 
 <p class="caption">Tabela 2 — Planos de execução e alternativas.</p>
-<p class="source">Fonte: elaboração a partir de E01–E08; conceito de planos de BARBOSA; SILVA (2010, p. 193).</p>
+<p class="source">Fonte: elaboração a partir de E01–E10; conceito de planos de BARBOSA; SILVA (2010, p. 193).</p>
 
 ### Operações, entradas e condições de atingimento
 
@@ -67,16 +67,16 @@ A Tabela 3 segue a estrutura entrada–ação–feedback discutida por Barbosa e
 
 | ID | Entrada | Ação | Condição de atingimento | Base |
 | --- | --- | --- | --- | --- |
-| 1.1 | Intenção de participação e orientações públicas | Examinar condições e eventual ideia própria equivalente | Regras pertinentes consideradas; ausência de duplicação impeditiva | E03–E06 |
+| 1.1 | Intenção de participação e orientações públicas | Examinar regras e a lista de ideias abertas | Regras consideradas; não há ideia própria igual ainda aberta | E03–E06 |
 | 1.2 | Problema e intenção | Preparar proposta fora do portal | Rascunho expressa a melhoria desejada | Decisão sobre E01 |
 | 2.1 | Rascunho e regras | Reler conteúdo e identificar informação inadequada | Itens a corrigir identificados ou revisão sem ressalvas | Decisão sobre E05–E06 |
 | 2.2 | Problema identificado | Alterar o rascunho | Problema removido sem perder a intenção | Operação recomendada antes do envio |
 | 2.3 | Texto revisto | Decidir prosseguir ou adiar | Decisão consciente sobre o compromisso | Decisão sobre E06 |
-| 3.1 | Identidade própria e acesso ao serviço | Autenticar ou verificar sessão | Acesso autorizado disponível | E02; diálogo interno não modelado |
-| 3.2 | Conteúdo e acesso | Informar a proposta | Conteúdo representado para submissão | E01; campos não especificados |
-| 3.3 | Conteúdo informado | Conferir correspondência e enviar | Ação de envio realizada uma vez | E01 e E06; não implica recebimento comprovado |
-| 4.1 | Envio realizado | Examinar retorno disponível | Recebimento reconhecido ou incerteza registrada | Condição analítica, mensagem não verificada |
-| 4.2 | Retorno e regras | Interpretar o estado e a próxima etapa | Explica diferença entre envio e avaliação posterior | E04, E07–E08 |
+| 3.1 | Botão “ENVIAR IDEIA” e conta gov.br | Entrar quando o portal pedir a conta | Acesso autorizado disponível | E02 e E09 |
+| 3.2 | Título, descrição e acesso | Preencher título (até 90) e descrição (até 700); deixar o código de turma vazio neste recorte | Texto revisado representado no formulário | E09 |
+| 3.3 | Formulário conferido | Acionar “ENVIAR” uma vez, e não “Cancelar” | Ação de envio realizada uma vez | E06 e E09; a tela seguinte não foi observada |
+| 4.1 | Envio realizado | Consultar o e-mail de andamento e, se a ideia estiver publicada, a página dela | Andamento localizado, sem inventar a tela imediata após ENVIAR | E08 e E10 |
+| 4.2 | Página da ideia ou e-mail | Interpretar apoios, linha do tempo e declaração | Explica que apoio e proposição não são lei | E04, E07 e E10 |
 
 <p class="caption">Tabela 3 — Especificação das operações.</p>
 <p class="source">Fonte: modelagem documental do projeto; BARBOSA; SILVA (2010, p. 193–195).</p>
@@ -123,13 +123,14 @@ A [Etapa 4](../../../../entrega-4/caio/index.md) relaciona as operações aos qu
 
 ## Agradecimentos
 
-A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a revisão humana e a validação com pessoas usuárias estão pendentes. Não foram realizadas entrevistas, sessões autenticadas ou submissões reais nesta elaboração.
+A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a validação com pessoas usuárias está pendente. Não houve entrevista nem envio de ideia. Em 13/10/2026 o formulário foi lido após o gov.br, e uma ideia já publicada foi consultada na página pública. A integração aos índices e o planejamento da Etapa 4 tiveram apoio de Grok (xAI).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Proposta documental do segundo perfil de Caio e seus artefatos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
+| 0.1 | 13/10/2026 | Proposta da HTA/CTT do envio de uma ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.2 | 13/10/2026 | Alinha preparar, envio e acompanhamento ao formulário, ao e-mail e à página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -30,8 +30,8 @@ A Tabela 2 delimita o cenário.
 | Contexto inicial | Em casa, com computador e conexão, Camila tem um rascunho sobre clareza de orientações de serviços públicos |
 | Outros atores | Equipe de moderação do Senado, em etapa posterior |
 | Precondições | Acesso próprio ao serviço e disposição para examinar suas regras |
-| Limite | Preparação e submissão; publicação, apoios e decisão legislativa não são requisitos para concluir o envio |
-| Origem | Regras E01–E08; ambiente, tema e incidente inventados para análise |
+| Limite | Preparação, envio e leitura do andamento; transformar a ideia em lei não é requisito para concluir a tarefa |
+| Origem | Regras E01–E10; ambiente, tema e incidente inventados para análise |
 
 <p class="caption">Tabela 2 — Identificação do cenário.</p>
 <p class="source">Fonte: elaboração do projeto; estrutura de BARBOSA; SILVA (2010, p. 183–184).</p>
@@ -45,15 +45,15 @@ A Tabela 2 delimita o cenário.
 
 ## Narrativa
 
-Camila deseja encaminhar uma ideia sobre tornar mais claras as orientações de serviços públicos. Reservou um momento em casa para organizar o texto e acessar o e-Cidadania. No rascunho que preparou fora do portal, descreveu a melhoria e acrescentou um telefone de contato, imaginando que isso facilitaria uma resposta [1].
+Camila deseja encaminhar uma ideia sobre tornar mais claras as orientações de serviços públicos. Em casa, escreve um título curto e uma descrição do problema. No fim da descrição, acrescenta um telefone, imaginando que isso facilitaria uma resposta [1].
 
-Antes de enviar, examina as orientações do serviço. Verifica as condições de participação e se já possui uma ideia própria equivalente ainda aberta. Entende que sua manifestação será avaliada e que o texto enviado não poderá ser editado posteriormente [2].
+Na página da Ideia Legislativa, vê o botão “ENVIAR IDEIA” e a orientação de dar um título e explicar o problema. Antes de enviar, olha a lista de ideias abertas e não encontra outra igual à sua. Lê que, depois do envio, o texto não poderá ser alterado, e que a ideia será avaliada conforme os Termos de Uso [2].
 
-Ao reler o rascunho, identifica o contato como informação pessoal desnecessária no texto público. Remove esse trecho e confere novamente se a proposta continua expressando a melhoria desejada. A revisão acontece antes da submissão; não depende de uma função de edição posterior [3].
+Ao reler o rascunho, reconhece o telefone como dado pessoal que os Termos não aceitam no texto. Apaga só esse trecho e confere se título e descrição continuam dizendo o que ela quer. A correção acontece no rascunho, antes do “ENVIAR”, porque o formulário não oferece edição posterior [3].
 
-Com o conteúdo preparado e acesso autenticado, Camila informa a proposta e decide enviá-la. O cenário termina quando ela reconhece o recebimento indicado pelo serviço e consegue explicar o que ainda depende de moderação. Ela não interpreta a submissão como publicação imediata nem como aprovação de uma lei [4].
+Ela aciona “ENVIAR IDEIA”. O portal pede a conta gov.br. Depois do acesso, o formulário mostra título, descrição e um código de turma, que ela deixa em branco porque a ideia não veio de Oficina Legislativa. Os botões são “ENVIAR” e “Cancelar”. Camila escolhe “ENVIAR” uma vez [4].
 
-O desfecho é esperado, não observado. Não se especifica mensagem de confirmação, posição de botões ou tela de revisão, pois a área autenticada não foi inspecionada. A autenticação pode ocorrer antes da preparação; a narrativa apresenta um percurso possível, não a ordem obrigatória da interface.
+A mensagem imediatamente depois desse clique não foi observada, porque nenhuma ideia foi submetida. O que a narrativa usa em seguida está nos Termos e na página de uma ideia já publicada. O texto fica travado. Se os Termos forem respeitados, a ideia é publicada; se não, é arquivada. O andamento de uma ideia criada chega por e-mail. Quando a ideia está publicada, a página mostra os apoios, a meta de 20 mil, o botão de apoiar, o compartilhamento, a linha do tempo e a declaração de autoria. Um parlamentar pode adotar a ideia a qualquer momento. Vinte mil apoios em quatro meses levam o texto à CDH, que pode transformá-lo em proposição ou arquivá-lo. Apoio e proposição não são lei.
 
 ## Análise do cenário
 
@@ -64,22 +64,23 @@ A Tabela 3 explicita a rastreabilidade.
 | 1 — Motivação | E01 | Tema e iniciativa são fictícios; verificar relevância com participantes |
 | 2 — Compromisso | E03, E04 e E06 | Investigar quando as regras precisam estar visíveis |
 | 3 — Correção | E05–E06 | Telefone no rascunho é incidente construído; avaliar prevenção antes do envio |
-| 4 — Resultado | E04, E07–E08 | Verificar interpretação do estado e expectativa de retorno |
+| 4 — Resultado | E04, E07, E08 e E10 | Verificar se a pessoa distingue envio, publicação, apoios e lei |
 
 <p class="caption">Tabela 3 — Relação entre narrativa, documentos e hipóteses.</p>
-<p class="source">Fonte: análise do cenário a partir de E01–E08.</p>
+<p class="source">Fonte: análise do cenário a partir de E01–E10.</p>
 
 Se a pessoa não compreender o compromisso ou não estiver satisfeita com o texto, pode adiar a submissão. Se a autenticação falhar, o objetivo permanece incompleto. Se houver dúvida sobre recebimento após uma falha de rede, não se presume sucesso ou reenvio automático. Esses limites estão nos [planos da HTA](analise-tarefas.md#planos-da-hta).
 
 ## Agradecimentos
 
-A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a revisão humana e a validação com pessoas usuárias estão pendentes. Não foram realizadas entrevistas, sessões autenticadas ou submissões reais nesta elaboração.
+A pesquisa documental, a modelagem e a redação preliminar tiveram apoio de Codex (OpenAI). O conteúdo é uma proposta sob responsabilidade de Caio; a validação com pessoas usuárias está pendente. Não houve entrevista nem envio de ideia. Em 13/10/2026 o formulário foi lido após o gov.br, e uma ideia já publicada foi consultada na página pública. A integração aos índices e o planejamento da Etapa 4 tiveram apoio de Grok (xAI).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Proposta documental do segundo perfil de Caio e seus artefatos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
+| 0.1 | 13/10/2026 | Proposta do cenário de envio de uma ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.2 | 13/10/2026 | Inclui o formulário, o gov.br e o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -1,78 +1,63 @@
-<span class="owner">Responsável pela organização: Caio Breno de Souza Bezerra</span>
+<span class="owner">Responsável: Grupo 06 — Planejamento da Avaliação de IHC (Etapa 4)</span>
 
-# Etapa 4 — Planejamento da avaliação
+# Etapa 4 — Planejamento da avaliação do storyboard e da análise de tarefas
 
 ## Tabela de contribuição
 
-A Tabela 1 reúne os trabalhos individuais da etapa. Selecione um integrante para abrir seu conteúdo.
+A Tabela 1 registra as atividades e os responsáveis neste índice da Etapa 4.
 
-| Integrante | Artefatos | Situação |
+| Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| Bruno Ferreira Dornelas | [Trabalho individual](individual/bruno.md) | Aguardando conteúdo do integrante |
-| Caio Breno de Souza Bezerra | [Trabalho individual](caio/index.md) | Perfil e planos propostos; desenhos pendentes |
-| Heitor Pinheiro Gonçalves das Chagas | [Trabalho individual](individual/heitor.md) | Aguardando conteúdo do integrante |
-| Israel Soares de Paiva | [Trabalho individual](individual/israel.md) | Aguardando conteúdo do integrante |
-| Luís Henrique Luna de Arruda | [Trabalho individual](individual/luis.md) | Aguardando conteúdo do integrante |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação inicial do índice e storyboard da autoria de ideia | [Introdução](#introducao) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Mapeamento dos artefatos individuais e storyboard de Letícia | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamentos da Oficina Legislativa | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
+| Grok (xAI) | Desenho em SVG do storyboard de Camila | [Agradecimentos](#agradecimentos) |
 
-<p class="caption">Tabela 1 — Trabalhos individuais da etapa 4.</p>
-<p class="source">Fonte: organização da entrega (2026).</p>
+<p class="caption">Tabela 1 — Contribuição no índice da Etapa 4.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta etapa parte do storyboard e da análise de tarefas para planejar duas avaliações e seus respectivos relatos. Cada integrante deve produzir seu próprio material, com uma persona do projeto, referência bibliográfica e imagem do trecho utilizado.
+A Etapa 4 do projeto de Interação Humano-Computador (IHC) do Grupo 06 dedica-se ao **Planejamento da Avaliação de IHC**, cobrindo dois artefatos fundamentais desenvolvidos a partir das pesquisas com usuários da Etapa 2: a **Análise de Tarefas** (Análise Hierárquica de Tarefas — HTA e ConcurTaskTrees — CTT) e os **Storyboards**.
 
-**Entrega:** 13/10/2026. **Inspeção:** 14/10/2026. **Apresentação:** 15/10/2026.
+O planejamento é estruturado rigorosamente pelo framework **DECIDE** (BARBOSA; SILVA, 2010; PREECE; ROGERS; SHARP, 2013), estabelecendo os objetivos, as perguntas a serem exploradas, os métodos de avaliação formativa, as questões práticas (recrutamento, participantes, cronograma e teste piloto), os cuidados éticos (com modelo do TCLE e solicitação explícita de autorização de gravação) e o planejamento do relato futuro dos resultados.
 
-## Sequência dos artefatos
+Conforme as diretrizes pedagógicas da disciplina da FCTE/UnB, **nesta Etapa 4 não são apresentados resultados reais de avaliação nem gravações de testes com usuários**: o objetivo é planejar com rigor metodológico como esses testes serão conduzidos após a apresentação, de modo que a execução empírica e os relatórios analíticos sejam entregues na Etapa 5 (25/10/2026).
 
-1. Persona e atividade → cenário, storyboard e análise de tarefas.
-2. Planejamento da avaliação → objetivos, perguntas, métodos, participantes, ética, cronograma e piloto.
-3. Planejamento dos relatos → estrutura, tratamento dos dados, problemas e reprojeto.
+## Artefatos individuais da etapa
 
-Os integrantes ficam no grupo recolhível **Trabalhos individuais**, na lateral. Os planejamentos são apresentados como texto e tabelas visíveis; apenas as imagens das referências ficam em blocos recolhíveis.
+Bruno, Caio, Heitor e Israel publicaram os planejamentos da avaliação e do relato de suas funcionalidades, acompanhados das respectivas conferências documentais. A Tabela 2 relaciona os trabalhos individuais da Etapa 4.
 
-## Lista de verificação
+| Integrante | Funcionalidade / Persona | Storyboard | Análise de Tarefas | Conferência |
+| --- | --- | --- | --- | --- |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Oficina Legislativa na Escola (Perfil Professor — Rafael Almeida) | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/bruno/conferencia-planejamentos.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Votação em consulta pública: PL 1215/2025 (Persona Letícia Oliveira) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-storyboard.md)<br>• [Storyboard desenhado](individual/heitor/planejamento-avaliacao-storyboard.md#storyboard-de-leticia-oliveira-5-quadros) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/heitor/conferencia-planejamentos.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Autoria de ideia legislativa (Persona Camila Nogueira) | • [Storyboard](caio/storyboard.md)<br>• [Planejamento da avaliação](caio/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](caio/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](caio/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](caio/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](caio/conferencia-planejamentos.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Agendamento de visita ao Senado | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-storyboard.md) | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-analise-tarefas.md) | [Conferência dos planejamentos](individual/israel/conferencia-planejamentos.md) |
 
-A Tabela 2 acompanha os itens 2–13 do plano de ensino (Apresentação 4). A situação se refere ao trabalho de Caio, exceto no item coletivo 10. “Planejado” não significa que a avaliação já ocorreu.
+<p class="caption">Tabela 2 — Trabalhos individuais da Etapa 4 do Grupo 06.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-| Item | Requisito | Evidência | Situação |
-| --- | --- | --- | --- |
-| 2 | Framework DECIDE | [Dois planejamentos](caio/avaliacao.md) | Propostos; revisão humana pendente |
-| 3 | Objetivos da avaliação | Objetivos e questões SB1–SB5 / AT1–AT5 | Definidos para o modelo conceitual |
-| 4 | Métodos, referência, imagem e autor | [Fundamentação](caio/avaliacao.md#4-fundamentacao-e-instrumentos), Figura 1 no anexo; Caio | Documentado |
-| 5 | Recrutamento, número e justificativa, modalidade, recursos, prazo, orçamento e equipe | [Aplicação dos estudos](caio/avaliacao.md#3-aplicacao-dos-estudos) | Planejado; participantes e revisor não confirmados |
-| 6 | Questões éticas | Consentimento, registro, retirada, anonimização e retenção | Planejado; contato e data final de retenção a preencher antes da sessão |
-| 7 | Estrutura dos relatórios e descrição dos materiais | [Dois planos de relato](caio/relatos.md), com limites da prototipação utilizada | Estruturado; sem resultados |
-| 8 | Data, horário e local das duas avaliações | [Cronograma](caio/avaliacao.md#cronograma-proposto), com blocos SB e AT | Proposto; sessões não confirmadas |
-| 9 | Cada desenho ligado a especificação de tarefa | [Roteiro Q1–Q8 e HTA](caio/index.md#storyboard-roteiro-para-producao) | **Incompleto:** relação textual pronta; conferir desenhos após exportação |
-| 10 | Um storyboard por integrante | Cinco integrantes identificados na Tabela 1 | **Pendente:** nenhum storyboard finalizado nesta etapa local |
-| 11 | Definição e data do piloto, anterior à coleta, com referência, imagem e autor | [Piloto](caio/avaliacao.md#teste-piloto-finalidade-data-e-criterios), Figura 2 no anexo; Caio | Planejado para 16/10, antes de 19–21/10 |
-| 12 | Resultados do piloto fora dos resultados definitivos | PP01 separado de P01–P03, nos planos de avaliação e relato | Previsto no protocolo |
-| 13 | Ações e notas do avaliador; problemas e prioridades | [Roteiro](caio/avaliacao.md#roteiro-de-conducao), ficha de sessão e [ficha de problemas](caio/relatos.md#ficha-de-problema-e-plano-de-correcao) | Instrumentos preparados |
+Os agendamentos e as confirmações de participantes estão descritos nos planejamentos individuais. Luís contribuiu com os itens de verificação, mas não entregou os artefatos individuais da Etapa 4. Nenhuma sessão de avaliação foi executada.
 
-<p class="caption">Tabela 2 — Acompanhamento da lista de verificação da Apresentação 4.</p>
-<p class="source">Fonte: SALES (2026), plano de ensino, lista da Apresentação 4; conferência documental local em 13/10/2026. Não substitui a inspeção do grupo.</p>
+## Agradecimentos
 
-### Requisitos gerais e conclusão da entrega
-
-As páginas de Caio incluem introdução, contribuição, versões, referências, chamadas de figuras e créditos de IA. O item de conteúdo individual é a fundamentação dos métodos e do piloto, com os trechos no anexo do planejamento. A navegação oferece o espaço dos cinco integrantes.
-
-Para concluir a entrega ainda faltam: montar e exportar o storyboard no editor especializado; revisão humana dos novos artefatos; conteúdo individual dos demais integrantes; registro da atividade na ata e no cronograma executado pelo grupo; gravação e vínculo da apresentação. Nenhuma reunião, aprovação ou avaliação foi registrada como realizada apenas para preencher a lista.
-
-## Apresentação
-
-[Abrir a página da apresentação 4](../apresentacoes/etapa-04.md).
+Heitor Pinheiro organizou o índice e desenhou o storyboard de Letícia. Grok (xAI) desenhou em SVG o storyboard de Camila. A responsabilidade pelo conteúdo permanece com os autores.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| --- | --- | --- | --- | --- |
-| 0.2 | 13/10/2026 | Simplificação da estrutura, adoção do padrão do site e revisão do escopo | Caio Breno de Souza Bezerra | Pendente |
+| :---: | :---: | --- | --- | --- |
+| 0.1 | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.0 | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
-## Agradecimentos
 
-Organização e redação preliminar com apoio de Codex/OpenAI. A produção do novo storyboard permanece pendente e não será feita por geração de imagem com IA.
+## Referências
 
-## Referência
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010.
 
-SALES, André Barros de. **Plano de Ensino FIHC 022026 — Turma 01**, v1. FCTE/UnB, 2026. Apresentação 4.
+[2] PREECE, Jenny; ROGERS, Yvonne; SHARP, Helen. *Design de interação: além da interação humano-computador*. 3. ed. Porto Alegre: Bookman, 2013.
+
+[3] SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026.

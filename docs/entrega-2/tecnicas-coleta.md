@@ -62,9 +62,11 @@ A [análise documental de Bruno](individual/bruno/perfil-2/analise-documental.md
 
 A leitura dos destinos públicos identificou exigência de autenticação para a área docente e para a emissão da declaração. As etapas autenticadas não foram executadas. As telas presentes no manual são evidências documentais da versão ilustrada, não capturas de uma sessão atual. Não houve recrutamento nem coleta de dados pessoais nesse procedimento; as sessões anteriores e seus cuidados permanecem preservados.
 
+A [análise documental de Caio](individual/caio/perfil-2/analise-documental.md) aplica o mesmo tipo de leitura ao envio de uma ideia legislativa: corpus D01–D04, consulta em 13/10/2026 e evidências E01–E10. O [perfil Proponente](individual/caio/perfil-2/perfil-usuario.md) não acrescenta entrevista nem transforma regras do serviço em hábitos de uma pessoa observada. O formulário foi lido após o gov.br e nenhuma ideia foi enviada. A tela imediatamente posterior ao botão ENVIAR não foi vista. O acompanhamento conferido é o e-mail de andamento e a página pública de uma ideia já publicada.
+
 ## Consolidação das evidências
 
-A revisão dos registros existentes utiliza o [escopo atual](perfil-usuario.md#escopo-atual-da-investigacao), os mesmos campos de descrição para os quatro perfis e a [matriz de cobertura](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). Relato, observação, reconstrução e regra documental são identificados separadamente. Informações já registradas podem completar o consolidado; atributos ausentes dependem de fontes adicionais ou coleta complementar. A [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) verifica o encadeamento das evidências, sem substituir validação com usuários.
+A revisão dos registros existentes utiliza o [escopo atual](perfil-usuario.md#escopo-atual-da-investigacao), os mesmos campos de descrição para os perfis e a [matriz de cobertura](perfil-usuario.md#cobertura-das-evidencias-e-lacunas). Relato, observação, reconstrução e regra documental são identificados separadamente. Informações já registradas podem completar o consolidado; atributos ausentes dependem de fontes adicionais ou coleta complementar. A [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) verifica o encadeamento das evidências, sem substituir validação com usuários.
 
 ## Cuidados metodológicos e éticos
 
@@ -81,7 +83,7 @@ Na sessão de Luís, a transcrição registra dois aceites para participação e
 
 ## Agradecimentos
 
-Esta página contou com apoio do Google Gemini na consolidação do material preparatório e na formatação Markdown. A seleção das evidências, a condução da coleta e a conferência das citações são de responsabilidade do autor.
+Esta página contou com apoio do Google Gemini na consolidação do material preparatório e na formatação Markdown. A seleção das evidências, a condução da coleta e a conferência das citações são de responsabilidade do autor. O registro do procedimento documental do proponente, em 13/10/2026, teve apoio de Grok (xAI).
 
 ## Histórico de versão
 
@@ -94,6 +96,8 @@ Esta página contou com apoio do Google Gemini na consolidação do material pre
 | `1.2` | 05/10/2026 | Acrescenta o procedimento documental e seus limites para caracterizar o perfil docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 05/10/2026 | Explicita o procedimento de consolidação e sua ligação com escopo, lacunas e rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 13/10/2026 | Registra a análise documental do proponente de ideia legislativa, sem nova entrevista | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 13/10/2026 | Atualiza o procedimento do proponente com a leitura do formulário e da página de ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

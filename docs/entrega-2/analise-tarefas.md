@@ -15,7 +15,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | ChatGPT (OpenAI GPT-4o) | Diagramas, organização de tabelas e estruturação do texto | [Agradecimentos](analise-tarefas.md#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | HTA e CTT da tarefa docente | [Oficina Legislativa](individual/bruno/perfil-2/analise-tarefas.md) |
 | Codex (OpenAI) | Correções de consistência, rastreabilidade e integração da modelagem documental | [Agradecimentos](#agradecimentos) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Proposta de integração do perfil documental de autoria, com apoio de Codex; revisão pendente | [Segundo perfil de Caio](individual/caio/perfil-2/perfil-usuario.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | HTA e CTT documentais da autoria de uma ideia | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) |
+| Grok (xAI) | Apoio à integração da modelagem no índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -24,7 +25,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Esta página reúne as análises de tarefas desenvolvidas pelo Grupo 06 no escopo da Entrega 2. A análise de tarefas permite compreender em profundidade o trabalho das pessoas usuárias, decompondo suas ações, estratégias e objetivos para subsidiar a identificação de problemas de usabilidade no Portal do Senado Federal e direcionar futuras propostas de reprojeto. 
 
-O grupo modela as tarefas vinculadas às sessões empíricas e a tarefa docente investigada por documentos, narradas nos respectivos [cenários](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
+O grupo modela as tarefas vinculadas às sessões empíricas e as tarefas documentais do professor e da proponente de ideia, narradas nos respectivos [cenários](cenarios.md), empregando duas técnicas complementares amplamente consolidadas na literatura de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**.
 
 ## Item de conteúdo da disciplina
 
@@ -36,6 +37,13 @@ A **Análise de Tarefas** é uma etapa essencial na área de Interação Humano-
 
 O principal objetivo dessa análise é compreender as intenções e o contexto do usuário ao interagir com o sistema, decompondo suas ações para facilitar o mapeamento de requisitos e a tomada de decisões de design.
 
+??? note "Figura 1 — Definição de Análise de Tarefas."
+
+    ![Definição de Análise de Tarefas](../assets/img/referencias/barbosa-analise.png)
+    <p class="caption">Figura 1 — Definição de Análise de Tarefas.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 191).</p>
+
+
 Para a condução deste processo, o projeto faz o uso articulado das técnicas **HTA** e **CTT**.
 
 ### Análise Hierárquica de Tarefas (HTA)
@@ -44,15 +52,29 @@ A técnica HTA (*Hierarchical Task Analysis*) busca mapear a estrutura hierárqu
 
 > "A Análise Hierárquica de Tarefas (HTA - *Hierarchical Task Analysis*) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente." (BARBOSA; SILVA, 2010, p. 192).
 
+??? note "Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA)."
+
+    ![Definição de HTA](../assets/img/referencias/barbosa-hta.png)
+    <p class="caption">Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA).</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 192).</p>
+
+
 ### ConcurTaskTrees (CTT)
 
 A técnica CTT (*ConcurTaskTrees*) complementa a HTA, oferecendo um modelo visual baseado na engenharia de software e na ergonomia cognitiva, que permite analisar a interface através das relações temporais e lógicas das tarefas (PATERNÒ, 2000). O CTT é utilizado para modelar características essenciais da interação contemporânea, como paralelismo, ordenação sequencial, escolha, desativação e interrupção entre as tarefas executadas tanto pelo usuário quanto pelo sistema.
+
+??? note "Figura 3 — Representação da técnica ConcurTaskTrees (CTT)."
+
+    ![Definição de CTT](../assets/img/referencias/barbosa-ctt.png)
+    <p class="caption">Figura 3 — Representação da técnica ConcurTaskTrees (CTT).</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 203).</p>
+
 
 ## Análises de tarefas do grupo
 
 A [delimitação do escopo](perfil-usuario.md#escopo-atual-da-investigacao) distingue serviços analisados e atividades externas. A [conferência dos artefatos](perfil-usuario.md#conferencia-dos-artefatos) registra a origem e os limites de cada encadeamento entre perfil, persona, cenário e tarefa.
 
-A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integrantes da equipe, detalhando o integrante responsável, a tarefa modelada, a persona associada e o link para a modelagem (HTA, planos e CTT, em representações gráficas ou textuais identificadas em cada artefato).
+A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integrantes da equipe, detalhando o integrante responsável, a tarefa modelada, a persona associada e o link para a modelagem completa (contendo tabelas HTA, planos de execução e diagramas CTT).
 
 | Integrante | Análise de Tarefas | Persona / Ator | Tarefa modelada |
 | --- | --- | --- | --- |
@@ -62,16 +84,14 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 | Heitor Pinheiro Gonçalves das Chagas | [Votação em consulta pública](individual/heitor/analise-tarefas.md) | [Letícia Oliveira](individual/heitor/persona.md) | Localizar matéria (PL 1215/2025) e votar no portal e-Cidadania |
 | Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Buscar informação sobre disponibilidade de auditório; sequência reconstruída, serviço de reserva não confirmado |
 | Luís Henrique Luna de Arruda | [Pauta e resultado de reunião da CCJ](individual/luis/analise-tarefas.md) | [Marina Alves](individual/luis/persona.md) | Consultar pauta e resultado de item deliberado em comissão |
-| Caio Breno de Souza Bezerra | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Modelo documental com revisão anterior ao envio; HTA e CTT textuais, sem execução autenticada |
+| Caio Breno de Souza Bezerra | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Preparar, enviar e acompanhar uma ideia própria; formulário lido, sem envio executado |
 
 <p class="caption">Tabela 2 — Análises de tarefas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
-O acréscimo de 13/10/2026 foi preparado com apoio de Codex (OpenAI) e aguarda revisão humana.
-
-Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação.
+Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação textual preliminar, formatação de tabelas e diagramação em Markdown. A revisão conceitual, a seleção dos trechos e figuras da literatura e a consolidação do índice do grupo são de inteira responsabilidade do autor, que permanece responsável pela publicação. A inclusão da análise de Camila, em 13/10/2026, teve apoio de Grok (xAI).
 
 ## Histórico de versão
 
@@ -84,7 +104,8 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.0` | 05/10/2026 | Atualiza a referência da persona de P1 para Lucas Mendes e alinha a descrição da atividade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/10/2026 | Integra a HTA e a CTT documentais da Oficina Legislativa ao índice do grupo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 05/10/2026 | Alinha o índice aos resultados e fronteiras das tarefas e referencia a conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.3` | 13/10/2026 | Integra proposta documental do segundo perfil de Caio; preserva a amostra de cinco participantes | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
+| `1.3` | 13/10/2026 | Integra a HTA e a CTT documentais da autoria de uma ideia, sem aumentar a amostra | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências
@@ -94,25 +115,3 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 [2] DIAPER, Dan. Understanding tasks for HCI: The task-oriented approach. In: DIAPER, Dan; STANTON, Neville (Ed.). The handbook of task analysis for human-computer interaction. Mahwah, NJ: Lawrence Erlbaum Associates, 2003.
 
 [3] PATERNÒ, Fabio. Model-based design and evaluation of interactive applications. London: Springer, 2000.
-
-## Anexo A — Trechos das referências
-
-As figuras citadas no texto estão reunidas abaixo.
-
-??? note "Figura 1 — Definição de Análise de Tarefas."
-
-    ![Definição de Análise de Tarefas](../assets/img/referencias/barbosa-analise.png)
-    <p class="caption">Figura 1 — Definição de Análise de Tarefas.</p>
-    <p class="source">Fonte: Barbosa e Silva (2010, p. 191).</p>
-
-??? note "Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA)."
-
-    ![Definição de HTA](../assets/img/referencias/barbosa-hta.png)
-    <p class="caption">Figura 2 — Definição da Análise Hierárquica de Tarefas (HTA).</p>
-    <p class="source">Fonte: Barbosa e Silva (2010, p. 192).</p>
-
-??? note "Figura 3 — Representação da técnica ConcurTaskTrees (CTT)."
-
-    ![Definição de CTT](../assets/img/referencias/barbosa-ctt.png)
-    <p class="caption">Figura 3 — Representação da técnica ConcurTaskTrees (CTT).</p>
-    <p class="source">Fonte: Barbosa e Silva (2010, p. 203).</p>

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A Etapa 3 está aberta. Os artefatos ficam em [Análise de requisitos](../entrega-3/index.md). Esta página registra o que o plano pede.
+A Etapa 3 está publicada. Os artefatos ficam em [Análise de requisitos](../entrega-3/index.md). Esta página registra o escopo previsto no plano de ensino.
 
 Entrega em 06/10/2026; inspeção em 07/10; apresentação em 08/10.
 
@@ -14,6 +14,7 @@ Artefatos: [características da plataforma](../entrega-3/plataforma.md), já esc
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/10/2026 | Aponta a âncora para as páginas abertas da Etapa 3 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

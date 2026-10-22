@@ -12,20 +12,21 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da elicitação | [Planejamento](perfil-usuario.md#planejamento-da-elicitacao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Consolidação dos perfis, escopo e conferência das evidências | [Perfil consolidado](#perfil-consolidado) · [Escopo](#escopo-atual-da-investigacao) · [Conferência](#conferencia-dos-artefatos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Perfil docente fundamentado em documentos | [Professor](individual/bruno/perfil-2/perfil-usuario.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Perfil documental de autoria de ideia legislativa | [Proponente](individual/caio/perfil-2/perfil-usuario.md) |
+| Grok (xAI) | Apoio à integração do perfil de autoria e à redação dos vínculos | [Agradecimentos](#agradecimentos) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Atributos da participante P2 (Caio) | [Sessão Caio](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Atributos da participante P3 (Heitor) | [Sessão Heitor](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Atributos da participante P4 (Israel) | [Sessão Israel](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | Planejamento e dados confirmados da participante P5 | [Sessão Luís](individual/luis/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) |
 | ChatGPT (OpenAI GPT-4o) | Estruturação do texto, redação preliminar e formatação Markdown | [Agradecimentos](perfil-usuario.md#agradecimentos) |
 | Codex (OpenAI) | Revisão do escopo, padronização dos perfis e conferência das evidências e vínculos | [Agradecimentos](#agradecimentos) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Proposta de integração do perfil documental de autoria, com apoio de Codex; revisão pendente | [Segundo perfil de Caio](individual/caio/perfil-2/perfil-usuario.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página consolida os perfis de usuário do Portal do Senado Federal levantados pelo Grupo 06. As cinco sessões individuais combinam entrevista e observação e fundamentam os três primeiros perfis, o [elenco de personas](elenco-personas.md), os [cenários](cenarios.md) e a [análise de tarefas](analise-tarefas.md). O perfil docente acrescenta uma [análise documental](individual/bruno/perfil-2/analise-documental.md), identificada separadamente das evidências obtidas com participantes. As [técnicas de coleta](tecnicas-coleta.md) registram os dois procedimentos.
+Esta página consolida os perfis de usuário do Portal do Senado Federal levantados pelo Grupo 06. As cinco sessões individuais combinam entrevista e observação e fundamentam os três primeiros perfis, o [elenco de personas](elenco-personas.md), os [cenários](cenarios.md) e a [análise de tarefas](analise-tarefas.md). O perfil docente acrescenta uma [análise documental](individual/bruno/perfil-2/analise-documental.md), identificada separadamente das evidências obtidas com participantes. O recorte [Proponente de ideia legislativa](individual/caio/perfil-2/perfil-usuario.md) também é documental: amplia a participação cívica com a autoria de uma ideia, sem nova entrevista e sem aumentar a amostra de cinco sessões. As [técnicas de coleta](tecnicas-coleta.md) registram os procedimentos.
 
 ## Item de conteúdo da disciplina
 
@@ -35,7 +36,34 @@ O perfil de usuário é uma descrição detalhada das características dos usuá
 
 Hackos e Redish (1998 apud BARBOSA; SILVA, 2010, p. 134–135) propõem que os dados de usuário incluam: **dados demográficos, experiência no cargo, informações sobre a empresa, educação, experiência com computadores, experiência com o produto, tecnologia disponível, treinamento, atitudes e valores, conhecimento do domínio, objetivos, tarefas, gravidade dos erros, motivação para o trabalho e idiomas e jargões.** As Figuras 1 e 2 reproduzem esse trecho.
 
+??? note "Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134."
+
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 134) listando os tipos de dados de Hackos e Redish para perfil de usuário.](../assets/img/referencias/barbosa-perfil-usuario1.png)
+      <figcaption>Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134.</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 134).</p>
+
+
+??? note "Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135."
+
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 135) continuando a lista de tipos de dados de Hackos e Redish.](../assets/img/referencias/barbosa-perfil-usuario2.png)
+      <figcaption>Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135.</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 135).</p>
+
+
 Barbosa e Silva (2010, p. 175) apresentam **idade, experiência, atitudes e tarefas primárias** como exemplos de critérios para agrupar usuários por semelhança. As últimas quatro linhas da Tabela 4 sintetizam essas dimensões, mas não substituem a justificativa dos agrupamentos. As características devem ser priorizadas conforme o produto e a investigação. A Figura 3 reproduz esse trecho.
+
+??? note "Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005)."
+
+    <figure markdown="span">
+      ![Recorte de Barbosa e Silva (2010, p. 175) com os grupos de atributos de Courage e Baxter.](../assets/img/referencias/barbosa-grupos-atributos.png)
+      <figcaption>Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).</figcaption>
+    </figure>
+    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 175).</p>
+
 
 ## Planejamento da elicitação
 
@@ -65,7 +93,7 @@ A Tabela 2 registra as sessões realizadas pelo grupo. Sua conclusão não signi
 
 ## Escopo atual da investigação
 
-O projeto analisa os percursos sustentados pelas cinco sessões e pelas análises documentais de Professor e Proponente de ideia legislativa. O acesso pelo portal não implica incluir todos os sistemas do Senado. A Tabela 3 distingue a atividade analisada, as dependências externas e o alcance das evidências; não é um catálogo de funcionalidades disponíveis.
+O projeto analisa os percursos sustentados pelas cinco sessões e pelas análises documentais do perfil Professor e do proponente de ideia legislativa. O acesso pelo portal não implica incluir todos os sistemas do Senado. A Tabela 3 distingue a atividade analisada, as dependências externas e o alcance das evidências; não é um catálogo de funcionalidades disponíveis.
 
 | Serviço ou área | Atividade incluída | Fronteira e evidência |
 | --- | --- | --- |
@@ -75,7 +103,7 @@ O projeto analisa os percursos sustentados pelas cinco sessões e pelas análise
 | Busca e informações institucionais | Investigar a demanda por informação sobre disponibilidade de auditório | [P4](individual/israel/entrevista-observacao.md#limitacoes-da-coleta): sequência reconstruída; existência de reserva ou agenda de disponibilidade não confirmada |
 | Atividade legislativa, comissões e reuniões da CCJ | Encontrar reunião realizada, pauta e resultado de item | [P5](individual/luis/entrevista-observacao.md#resultados): percurso registrado; preparação para concurso contextualiza a tarefa, sem incluir plataformas de estudo |
 | Oficina Legislativa na Escola, no e-Cidadania | Organizar a participação da turma e obter comprovação | [Professor](individual/bruno/perfil-2/analise-documental.md#fluxo-documentado-e-fronteiras-do-sistema): processo documental; aulas e comunicação fora do portal; área autenticada não executada |
-| Ideia Legislativa, no e-Cidadania | Preparar, revisar e enviar uma ideia própria | [Proponente — perfil 2 de Caio](individual/caio/perfil-2/analise-documental.md): regras públicas; área autenticada não percorrida; moderação posterior fora da tarefa |
+| Ideia Legislativa, no e-Cidadania | Preparar, enviar e acompanhar uma ideia própria | [Proponente](individual/caio/perfil-2/analise-documental.md#evidencias-extraidas): D01–D04 e E01–E10; rascunho fictício; formulário lido sem envio; tela imediata após ENVIAR não vista |
 
 <p class="caption">Tabela 3 — Serviços, atividades e fronteiras da investigação atual.</p>
 <p class="source">Fonte: registros individuais P1–P5 e evidências E01–E09 da análise documental.</p>
@@ -129,7 +157,7 @@ As tarefas e os problemas variam. P1 não compreendeu a situação da proposiç�
 
 O agrupamento considera **objetivo de uso, tarefa primária, frequência e familiaridade com o portal**, conforme a orientação de agrupar características semelhantes (BARBOSA; SILVA, 2010, p. 174–175). Idade, gênero e ocupação contextualizam os casos, mas não definem sozinhos os perfis.
 
-São mantidos três agrupamentos exploratórios provenientes das sessões e acrescentado um perfil documental docente, totalizando quatro perfis com origens explicitadas. O primeiro reúne três participantes com uso ocasional; o segundo e o terceiro têm uma participante cada. O perfil Professor caracteriza um papel previsto na documentação, sem participante entrevistado. Nenhum número abaixo representa prevalência no público do Senado. As categorias poderão mudar com novas investigações.
+São mantidos três agrupamentos exploratórios provenientes das sessões e acrescentados dois papéis documentais — Professor e Proponente de ideia legislativa —, totalizando cinco descrições com origens explicitadas. O primeiro reúne três participantes com uso ocasional; o segundo e o terceiro têm uma participante cada. Professor e Proponente caracterizam papéis previstos na documentação, sem participante entrevistado e sem aumentar a amostra. O proponente permanece no agrupamento de participação cívica, com tarefa de autoria distinta do voto em consulta. Nenhum número abaixo representa prevalência no público do Senado. As categorias poderão mudar com novas investigações.
 
 A descrição abaixo utiliza os mesmos campos para todos: **papel, origem, objetivos, tarefas, contexto de uso, características relevantes, necessidades e limites**. Os nomes e os dois agrupamentos de cidadão são preservados. O papel contextualiza a atuação, enquanto a combinação de objetivos e características fundamenta o agrupamento; nenhuma ocupação isolada determina um perfil (BARBOSA; SILVA, 2010, p. 174–175).
 
@@ -205,9 +233,23 @@ A descrição abaixo utiliza os mesmos campos para todos: **papel, origem, objet
 
 **Limites:** a caracterização abrange a oficina, não todos os usos docentes do Senado. Emissão autenticada, campos e regras completas não foram inspecionados. Nome, idade e retrato de Rafael são fictícios. O [perfil completo](individual/bruno/perfil-2/perfil-usuario.md), a persona, o cenário e os modelos mantêm esses limites.
 
-### Ampliação documental de PERF-02 — Proponente de ideia legislativa
+### 5. Proponente de ideia legislativa
 
-O [segundo perfil de Caio](individual/caio/perfil-2/perfil-usuario.md) investiga a autoria de propostas, dentro do agrupamento de participação cívica. A proposta usa as fontes oficiais D01–D03 e evidências E01–E08 locais desse artefato. Sua persona é [Camila Nogueira](individual/caio/perfil-2/persona.md). Não se transfere a experiência de votação de P3 para autoria, nem se altera a amostra de cinco sessões. Atributos demográficos, habilidades, frequência e contexto habitual permanecem desconhecidos; o cenário explicita suas hipóteses.
+**Papel:** pessoa autora de uma ideia de criação ou alteração legislativa no e-Cidadania.
+
+**Origem:** [análise documental de Caio](individual/caio/perfil-2/analise-documental.md), fontes D01–D04 e evidências E01–E10; não acrescenta participante à amostra. Persona Camila Nogueira. O recorte pertence ao agrupamento de participação cívica, mas não usa a entrevista de Letícia como evidência de autoria.
+
+**Objetivos:** formalizar uma proposta própria com conteúdo revisado e compreender o encaminhamento depois do envio.
+
+**Tarefas:** examinar as regras e a lista, preparar o texto, entrar com gov.br, enviar e acompanhar o andamento por e-mail e, se publicada, na página da ideia.
+
+**Contexto de uso:** orientações públicas da Ideia Legislativa e acesso autenticado pelo gov.br. O computador em casa é escolha do cenário, não requisito do perfil. A moderação ocorre depois do envio.
+
+**Características relevantes:** o papel é funcional. Idade, escolaridade, ocupação, habilidade tecnológica, frequência e necessidades de acessibilidade não foram determinadas pelos documentos.
+
+**Necessidades:** entender o compromisso antes de enviar, reconhecer informação pessoal inadequada no texto e identificar o estado alcançado. São necessidades inferidas das regras, não reclamações coletadas.
+
+**Limites:** o formulário foi lido em 13/10/2026 e nenhuma ideia foi enviada. A tela imediatamente depois de ENVIAR não foi vista. Nome e idade de Camila são fictícios. O [perfil completo](individual/caio/perfil-2/perfil-usuario.md), a persona, o cenário e a HTA/CTT mantêm a distinção entre evidência, decisão de modelagem e lacuna.
 
 ### Matriz de rastreabilidade dos perfis
 
@@ -221,7 +263,7 @@ A Tabela 5 relaciona os perfis às fontes e aos artefatos derivados. PERF identi
 | PERF-02 — participação cívica | [P3 — sessão de Heitor](individual/heitor/entrevista-observacao.md#registro-da-observacao) | [Letícia Oliveira](individual/heitor/persona.md) | [Cenário](individual/heitor/cenario.md) · [HTA/CTT](individual/heitor/analise-tarefas.md) | Participação em consulta pública; um caso investigado |
 | PERF-03 — levantamento profissional de notícias | [P2 — sessão de Caio](individual/caio/entrevista-observacao.md#resultados) | [Renata Moreira](individual/caio/persona.md) | [Cenário](individual/caio/cenario.md) · [HTA/CTT](individual/caio/analise-tarefas.md) | Observação até a triagem; salvamento e aprovação apenas relatados |
 | Professor | [Documentos D01–D06](individual/bruno/perfil-2/analise-documental.md#fontes-consultadas) | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | [Cenário](individual/bruno/perfil-2/cenario.md) · [HTA/CTT](individual/bruno/perfil-2/analise-tarefas.md) | Papel e processo prescrito; sem entrevista, observação ou emissão autenticada |
-| PERF-02 — autoria de ideia (proposta documental) | [Documentos D01–D03 de Caio](individual/caio/perfil-2/analise-documental.md#fontes-consultadas) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | [Cenário](individual/caio/perfil-2/cenario.md) · [HTA/CTT](individual/caio/perfil-2/analise-tarefas.md) | Regras públicas e narrativa fictícia; sem entrevista ou envio real |
+| Proponente de ideia legislativa | [Documentos D01–D04](individual/caio/perfil-2/analise-documental.md#fontes-consultadas) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | [Cenário](individual/caio/perfil-2/cenario.md) · [HTA/CTT](individual/caio/perfil-2/analise-tarefas.md) | Formulário lido sem envio; acompanhamento pela página publicada e pelo e-mail; sem entrevista |
 
 <p class="caption">Tabela 5 — Rastreabilidade dos perfis investigados.</p>
 <p class="source">Fonte: sessões do Grupo 06 e análise documental docente; critérios de BARBOSA; SILVA (2010, p. 174–175).</p>
@@ -232,13 +274,13 @@ A Tabela 6 registra a revisão dos textos das entrevistas, dos atributos individ
 
 | Dimensão | Evidência disponível e aproveitamento | O que permanece desconhecido / como completar |
 | --- | --- | --- |
-| Experiência digital | [P1](individual/bruno/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) e [P2](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): 4/5; [P3](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): tempos de experiência incorporados ao consolidado; [P5](individual/luis/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): intermediária | P4 sem medida geral; Professor sem dados pessoais. Coleta complementar com critérios comuns é necessária para comparar proficiência |
+| Experiência digital | [P1](individual/bruno/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) e [P2](individual/caio/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): 4/5; [P3](individual/heitor/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): tempos de experiência incorporados ao consolidado; [P5](individual/luis/entrevista-observacao.md#atributos-para-o-perfil-do-usuario): intermediária | P4 sem medida geral; Professor e Proponente sem dados pessoais. Coleta complementar com critérios comuns é necessária para comparar proficiência |
 | Conhecimento do domínio | Relatos diferenciam conhecimento legislativo de domínio temático; P5 distingue compreensão de pauta/resultado do desconhecimento de CCJ | Não há avaliação comum de compreensão de textos; material pedagógico do Professor não comprova domínio prévio |
-| Frequência | P1: última visita cerca de três meses antes; P2: cerca de duas semanas; P3: sob demanda; P4: uma visita relatada; P5: aproximadamente segundo contato | Última visita não é taxa de uso. Para quantificar, perguntar período de referência e número de acessos; documentos não determinam frequência do Professor |
+| Frequência | P1: última visita cerca de três meses antes; P2: cerca de duas semanas; P3: sob demanda; P4: uma visita relatada; P5: aproximadamente segundo contato | Última visita não é taxa de uso. Para quantificar, perguntar período de referência e número de acessos; documentos não determinam frequência do Professor nem do Proponente |
 | Equipamentos e contexto | Equipamentos de P3 recuperados da Tabela 6 individual; demais sessões distinguem recurso habitual e recurso da sessão; [E08](individual/bruno/perfil-2/analise-documental.md#e08) descreve recursos previstos | Conexão, interrupções e condições habituais não caracterizadas de forma comparável. Requerem relato contextual ou observação apropriada |
 | Acessibilidade | P2 elogia opções visíveis no portal | Sem caracterização de necessidades específicas ou tecnologias assistivas; ausência de registro não significa ausência de necessidade. Perguntar sobre barreiras e recursos utilizados |
 | Aprendizagem e comunicação | P1/P2 recorrem a recursos externos; P3 prefere exploração/resumos; [P4](individual/israel/entrevista-observacao.md#atributos-para-o-perfil-do-usuario) relata preferência por aviso por e-mail, incorporada ao consolidado | Preferência de P4 não comprova função de notificação existente. Material oferecido ao Professor não comprova preferência por manuais |
-| Execução e consequências | P1 encerra sem resposta; P2 realiza triagem; P3 registra voto; P4 relata tentativa; P5 conclui; Professor tem processo documentado | [P4](individual/israel/entrevista-observacao.md#limitacoes-da-coleta): confirmar data e cronologia com os registros da coleta. [Professor](individual/bruno/perfil-2/analise-documental.md#limites-e-verificacoes-necessarias): verificar emissão e critérios autenticados. Escalas de gravidade não são comparáveis |
+| Execução e consequências | P1 encerra sem resposta; P2 realiza triagem; P3 registra voto; P4 relata tentativa; P5 conclui; Professor e Proponente têm processos documentados | [P4](individual/israel/entrevista-observacao.md#limitacoes-da-coleta): confirmar data e cronologia com os registros da coleta. [Professor](individual/bruno/perfil-2/analise-documental.md#limites-e-verificacoes-necessarias): verificar emissão e critérios autenticados. [Proponente](individual/caio/perfil-2/analise-documental.md#limites-e-continuidade): a tela imediata após ENVIAR permanece não vista. Escalas de gravidade não são comparáveis |
 
 <p class="caption">Tabela 6 — Cobertura das características relevantes e caminhos para complementação.</p>
 <p class="source">Fonte: revisão dos registros individuais e da análise documental; dimensões orientadas por BARBOSA; SILVA (2010, p. 134–135, 174–175).</p>
@@ -257,7 +299,7 @@ A Tabela 7 registra a correspondência entre fonte, persona, cenário e tarefa e
 | P4 → Marta → informação sobre auditório | Objetivo coincide entre os artefatos; índice coletivo não apresenta reserva como serviço confirmado | A fonte declara reconstrução, mas o cenário e a HTA ainda atribuem trechos a observação. Ressalva explicitada nos artefatos; cronologia e data precisam ser esclarecidas antes de validar a sequência |
 | P5 → Marina → reunião da CCJ | Objetivo e resultado se referem à localização da reunião, pauta e resultado de item | Dispositivo da sessão e aproximadamente segundo contato não descrevem todo o contexto habitual |
 | Documentos → Rafael → oficina e declaração | Persona, cenário e HTA/CTT apontam às evidências E01–E09; recorte docente preservado | Processo previsto e narrativa fictícia, sem emissão executada ou validação com professor |
-| Documentos → Camila → autoria de ideia (acréscimo de 13/10) | Proposta liga regras E01–E08 a perfil, cenário e modelos textuais | Revisão humana pendente; sem execução autenticada ou validação com proponentes |
+| Documentos → Camila → envio e acompanhamento de ideia | Persona, cenário e HTA/CTT apontam às evidências E01–E10; autoria distinta do voto de Letícia | Formulário e página publicada lidos; sem submissão executada ou validação com proponente |
 
 <p class="caption">Tabela 7 — Conferência de coerência e limites dos artefatos derivados.</p>
 <p class="source">Fonte: comparação das páginas individuais ligadas na Tabela 5 e dos índices coletivos de personas, cenários e tarefas.</p>
@@ -266,7 +308,7 @@ A notação dos diagramas é uma verificação distinta do vínculo entre perfil
 
 ### Limitações e continuidade da investigação
 
-A entrevista e a observação produzem perspectivas complementares. P2 mostra a importância de confrontá-las: a entrevista descreve o fluxo até a aprovação de notícias, enquanto a observação cobre somente a triagem. Em P4, a reconstrução relatada não deve ser tratada como sequência diretamente observada. O perfil Professor acrescenta documentação do trabalho previsto, sem comprovar comportamentos ou preferências pessoais. A consolidação preserva essas diferenças.
+A entrevista e a observação produzem perspectivas complementares. P2 mostra a importância de confrontá-las: a entrevista descreve o fluxo até a aprovação de notícias, enquanto a observação cobre somente a triagem. Em P4, a reconstrução relatada não deve ser tratada como sequência diretamente observada. O perfil Professor acrescenta documentação do trabalho previsto, sem comprovar comportamentos ou preferências pessoais. O perfil Proponente faz o mesmo para a autoria de uma ideia. A consolidação preserva essas diferenças.
 
 Ainda faltam medidas comparáveis de experiência, necessidades de acessibilidade, condições habituais de conexão, compreensão de textos complexos e confirmação das frequências de algumas tarefas. Essas lacunas não serão preenchidas por suposição. Os perfis atuais orientam uma próxima coleta; não constituem um catálogo completo de públicos do Senado.
 
@@ -274,9 +316,7 @@ Na classificação de Barbosa e Silva (2010, p. 136), usuários primários utili
 
 ## Agradecimentos
 
-O acréscimo de 13/10/2026 foi preparado com apoio de Codex (OpenAI) e aguarda revisão humana.
-
-Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, o planejamento da elicitação e a consolidação dos dados das sessões são do autor, que segue responsável pelo que está publicado.
+Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na redação preliminar e na formatação Markdown. A revisão do conteúdo, o planejamento da elicitação e a consolidação dos dados das sessões são do autor, que segue responsável pelo que está publicado. A integração do perfil Proponente, em 13/10/2026, teve apoio de Grok (xAI) e permanece sob responsabilidade de Caio Breno de Souza Bezerra.
 
 
 ## Histórico de versão
@@ -299,7 +339,8 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 | `1.7` | 05/10/2026 | Integra persona, cenário e HTA/CTT documentais de Rafael à matriz de rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.8` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 05/10/2026 | Delimita o escopo, padroniza os quatro perfis, recupera atributos das fontes e registra cobertura das evidências e conferência dos artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.10` | 13/10/2026 | Integra proposta documental do segundo perfil de Caio; preserva a amostra de cinco participantes | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev), com apoio de Codex | Pendente |
+| `2.0` | 13/10/2026 | Integra o perfil documental Proponente de ideia legislativa, sem alterar a amostra de cinco sessões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.1` | 13/10/2026 | Atualiza o proponente com o formulário lido e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências
@@ -309,31 +350,3 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 [2] HACKOS, JoAnn T.; REDISH, Janice C. User and task analysis for interface design. New York: John Wiley & Sons, 1998.
 
 [3] COURAGE, Catherine; BAXTER, Kathy. Understanding your users. San Francisco: Morgan Kaufmann, 2005.
-
-## Anexo A — Trechos das referências
-
-As figuras citadas no texto estão reunidas abaixo.
-
-??? note "Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134."
-
-    <figure markdown="span">
-      ![Recorte de Barbosa e Silva (2010, p. 134) listando os tipos de dados de Hackos e Redish para perfil de usuário.](../assets/img/referencias/barbosa-perfil-usuario1.png)
-      <figcaption>Figura 1 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 134.</figcaption>
-    </figure>
-    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 134).</p>
-
-??? note "Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135."
-
-    <figure markdown="span">
-      ![Recorte de Barbosa e Silva (2010, p. 135) continuando a lista de tipos de dados de Hackos e Redish.](../assets/img/referencias/barbosa-perfil-usuario2.png)
-      <figcaption>Figura 2 — Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998), p. 135.</figcaption>
-    </figure>
-    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 135).</p>
-
-??? note "Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005)."
-
-    <figure markdown="span">
-      ![Recorte de Barbosa e Silva (2010, p. 175) com os grupos de atributos de Courage e Baxter.](../assets/img/referencias/barbosa-grupos-atributos.png)
-      <figcaption>Figura 3 — Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).</figcaption>
-    </figure>
-    <p class="source">Fonte: BARBOSA; SILVA (2010, p. 175).</p>

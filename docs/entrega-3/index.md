@@ -18,13 +18,13 @@ A Tabela 1 registra quem atuou neste índice. O conteúdo de cada item está na 
 
 A entrega da Etapa 3 é em 06/10/2026, a inspeção em 07/10 e a apresentação em 08/10. O plano de ensino chama esta etapa de Apresentação 3: princípios gerais de projeto, metas de usabilidade, guia de estilo e características da plataforma, na fase de análise de requisitos (SALES, 2026).
 
-No ciclo de Mayhew, esses artefatos se encontram na análise de requisitos: o perfil do usuário, a análise de tarefas, as características da plataforma e os princípios gerais alimentam as metas de usabilidade, que o guia de estilo passa a registrar (BARBOSA; SILVA, 2010, p. 109–110). O perfil e as tarefas estão na Etapa 2. A plataforma está escrita. As outras páginas desta pasta estão abertas, com a estrutura que a lista pede e sem o texto de quem ainda vai escrever.
+No ciclo de Mayhew, esses artefatos se encontram na análise de requisitos: o perfil do usuário, a análise de tarefas, as características da plataforma e os princípios gerais alimentam as metas de usabilidade, que o guia de estilo passa a registrar (BARBOSA; SILVA, 2010, p. 109–110). O perfil e as tarefas estão na Etapa 2. Os artefatos de plataforma, princípios, metas de usabilidade e guia de estilo estão publicados nas páginas indicadas na Tabela 2.
 
 Quem produz o artefato apresenta o próprio artefato no vídeo. A gravação da apresentação do grupo está disponível na [Apresentação da Etapa 3](../apresentacoes/etapa-03.md) e no [índice de apresentações](../apresentacoes/index.md).
 
 ## Itens da etapa
 
-A Tabela 2 distribui os itens da lista de verificação da Apresentação 3. A situação registra o que já está na página em 03/10/2026.
+A Tabela 2 distribui os itens da lista de verificação da Apresentação 3. A situação registra os conteúdos publicados, conferidos em 15/10/2026.
 
 | Item | O que a lista pede | Quem escreve | Página | Situação |
 | :---: | --- | --- | --- | --- |
@@ -58,6 +58,7 @@ Este índice contou com o apoio de ferramentas de inteligência artificial na or
 | `0.3` | 05/10/2026 | Situação dos itens 13 e 14 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.4` | 06/10/2026 | Vincula o vídeo da Entrega 3 à página de apresentações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.5` | 06/10/2026 | Atualiza status de conclusão dos itens 11, 15, 16 e 17 e insere agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `0.6` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
