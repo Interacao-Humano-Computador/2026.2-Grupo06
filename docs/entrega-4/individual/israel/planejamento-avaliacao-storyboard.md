@@ -101,12 +101,12 @@ A Tabela 3 define os papéis dos avaliadores, e a Tabela 4 apresenta o cronogram
 
 | Atividade | Data prevista |
 | --- | --- |
-| Recrutamento dos participantes | [data] |
-| Teste-piloto do roteiro entre os integrantes | [data] |
-| Realização das sessões (ciclo 1) | [data] |
-| Correção do Storyboard e novo ciclo (ciclo 2) | [data] |
-| Consolidação e análise dos dados | [data] |
-| Elaboração do relato dos resultados | [data] |
+| Recrutamento dos participantes | 24/10 |
+| Teste-piloto do roteiro entre os integrantes | 23/10 |
+| Realização das sessões (ciclo 1) | 24/10 |
+| Correção do Storyboard e novo ciclo (ciclo 2) | 24/10 |
+| Consolidação e análise dos dados | 24/10 |
+| Elaboração do relato dos resultados | 25/10 |
 
 <p class="caption">Tabela 4 — Cronograma da avaliação.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
