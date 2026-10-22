@@ -9,16 +9,25 @@ A Tabela 1 registra quem contribuiu neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição do recorte e responsabilidade pelo relato da avaliação com o perfil Proponente | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à atualização do escopo, do material e da continuidade na Etapa 5 | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento do relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
+## Atualização para a Etapa 5 — 22/10/2026
+
+O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
+
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+
+Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
+
 ## Introdução
 
 Este documento define como serão organizados, interpretados e apresentados os resultados da [avaliação remota do storyboard](planejamento-avaliacao-storyboard.md) da **autoria de uma ideia legislativa**, com o perfil **Proponente**. O recorte acompanha Camila Nogueira na preparação, revisão e envio de uma proposta própria. O relato deverá permitir que o grupo compreenda o que a pessoa participante interpretou, quais evidências sustentam cada achado e quais alterações ou investigações decorrem deles.
 
-**Situação em 13/10/2026:** planejamento para revisão interna. A avaliação ainda não ocorreu; nenhum campo deste documento representa resultado coletado. Participante, datas, horários e observador permanecem a confirmar. Os formulários abaixo são modelos para preenchimento após a coleta, sem falas, problemas ou conclusões simulados.
+**Situação em 22/10/2026:** planejamento para revisão interna. A avaliação ainda não ocorreu; nenhum campo deste documento representa resultado coletado. Participante, datas, horários e observador permanecem a confirmar. Os formulários abaixo são modelos para preenchimento após a coleta, sem falas, problemas ou conclusões simulados.
 
 ## Item de conteúdo da disciplina
 
@@ -92,7 +101,7 @@ A Tabela 4 será preenchida sem eliminar respostas divergentes ou incompletas.
 | Pergunta | Evidência que será examinada | Resposta e evidências após coleta |
 | --- | --- | --- |
 | Q1 — Objetivo e desfecho | Explicação sobre revisar e enviar a ideia | A preencher |
-| Q2 — Compromisso do envio | Explicação sobre edição posterior, contato pessoal e avaliação | A preencher |
+| Q2 — Compromisso do envio | Explicação sobre edição posterior, revisão anterior e avaliação posterior | A preencher |
 | Q3 — Responsabilidades | Distinção entre quem envia e o serviço do Senado | A preencher |
 | Q4 — Sequência e dependências | Etapas necessárias e ordem sugerida | A preencher |
 | Q5 — Adequação ao contexto | Diferenças para a prática relatada e informações necessárias | A preencher |
@@ -170,8 +179,8 @@ A Tabela 8 complementa o cronograma da avaliação. T é a data da sessão princ
 | Verificar se o piloto produz dados analisáveis | Após o piloto e antes de T | Caio; observador se disponível | Ajustes do procedimento, sem incorporar o piloto aos achados |
 | Organizar e desidentificar registros | T | Caio | Conjunto analítico e controle de acesso |
 | Interpretar Q1–Q7 e elaborar fichas | Até T+1 dia | Caio | Matriz e achados fundamentados |
-| Consolidar e redigir | T+1 a T+2 dias | Caio | Primeira versão do relato |
-| Revisar e incorporar correções | Até T+3 dias | Bruno e Caio | Revisão registrada e versão pronta para publicação |
+| Consolidar e redigir | 24/10, antes da entrega | Caio | Primeira versão do relato |
+| Revisar e incorporar correções | 24/10, antes da entrega | Bruno e Caio | Revisão registrada e versão pronta para publicação |
 
 <p class="caption">Tabela 8 — Produção e revisão do relato.</p>
 <p class="source">Fonte: estimativas e responsabilidades previstas no projeto.</p>
@@ -202,6 +211,8 @@ A Tabela 9 será preenchida após a sessão. Campos em branco não indicam ativi
 
 ## Agradecimentos
 
+Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+
 Grok (xAI) apoiou a redação e a organização dos instrumentos de relato. Caio Breno de Souza Bezerra permanece responsável pela revisão e pelo conteúdo do artefato.
 
 ## Histórico de versão
@@ -209,6 +220,8 @@ Grok (xAI) apoiou a redação e a organização dos instrumentos de relato. Caio
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Estrutura e instrumentos para o futuro relato da avaliação remota do storyboard da autoria de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

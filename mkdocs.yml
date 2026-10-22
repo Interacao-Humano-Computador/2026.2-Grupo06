@@ -215,9 +215,16 @@ nav:
           - Bruno Ferreira:
               - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md
               - Protótipo de papel · Planejamento do relato: entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md
+          - Caio Breno:
+              - entrega-5/individual/caio/index.md
+              - Storyboard · Relato: entrega-5/individual/caio/relato-storyboard.md
+              - Análise de tarefas · Relato: entrega-5/individual/caio/relato-analise-tarefas.md
+              - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/caio/planejamento-avaliacao-prototipo-papel.md
+              - Protótipo de papel · Planejamento do relato: entrega-5/individual/caio/planejamento-relato-prototipo-papel.md
   - Verificação:
       - verificacao/index.md
-      - Listas de verificação: []
+      - Listas de verificação:
+          - Etapa 5: verificacao/listas/etapa-5.md
       - Inspeções:
           - Autoverificação (Grupo 06):
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md

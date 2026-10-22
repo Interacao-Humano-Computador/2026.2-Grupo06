@@ -9,10 +9,19 @@ A Tabela 1 registra quem contribuiu neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição da funcionalidade, do perfil e da responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
+| Codex (OpenAI) | Apoio à atualização do escopo, do material e da continuidade na Etapa 5 | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+## Atualização para a Etapa 5 — 22/10/2026
+
+O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
+
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+
+Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
 
 ## Introdução
 
@@ -20,13 +29,13 @@ Este planejamento organiza a avaliação formativa da **análise de tarefas de p
 
 Será realizada uma entrevista semiestruturada remota apoiada nos modelos, precedida de conferência técnica da notação pela equipe. O [planejamento do relato dos resultados](planejamento-relato-analise-tarefas.md) define os registros e o tratamento das evidências.
 
-**Situação em 13/10/2026:** planejamento para revisão interna. Pessoa participante, pessoa do piloto, observador, datas e horários estão a confirmar. Os modelos existem em forma textual. A cópia de avaliação, a descrição em linguagem comum e o TCLE específico devem ser preparados antes do piloto. Não houve coleta neste recorte.
+**Situação em 22/10/2026:** planejamento para revisão interna. Pessoa participante, pessoa do piloto, observador, datas e horários estão a confirmar. Os modelos existem em forma textual. A cópia de avaliação, a descrição em linguagem comum e o TCLE específico devem ser preparados antes do piloto. Não houve coleta neste recorte.
 
 ## Contextualização
 
 O objeto é a [análise de tarefas de Camila Nogueira](../../entrega-2/individual/caio/perfil-2/analise-tarefas.md): objetivo 0, quatro subobjetivos, operações 1.1–4.2, planos HTA e expressão CTT. O [perfil](../../entrega-2/individual/caio/perfil-2/perfil-usuario.md), a [persona](../../entrega-2/individual/caio/perfil-2/persona.md) e o [cenário](../../entrega-2/individual/caio/perfil-2/cenario.md) delimitam a atividade.
 
-Esses artefatos derivam da [análise documental](../../entrega-2/individual/caio/perfil-2/analise-documental.md), com evidências E01–E08. A sequência atual é um percurso escolhido para o cenário; não demonstra que o serviço imponha toda a ordem como bloqueio técnico. A moderação, os apoios e a decisão legislativa são etapas posteriores ao objetivo de envio.
+Esses artefatos derivam da [análise documental](../../entrega-2/individual/caio/perfil-2/analise-documental.md), com evidências E01–E10. A sequência atual é um percurso escolhido para o cenário; não demonstra que o serviço imponha toda a ordem como bloqueio técnico. A moderação, os apoios e a decisão legislativa são etapas posteriores ao objetivo de envio.
 
 O escopo inclui examinar regras, preparar o texto, revisar informação inadequada, decidir o envio, submeter com acesso próprio e interpretar o retorno. Não inclui observar um envio real, medir desempenho no portal ou inspecionar a área autenticada. Campos, mensagens e prazo de moderação não verificados permanecerão como questões abertas.
 
@@ -86,7 +95,7 @@ Planeja-se **uma pessoa em uma sessão exploratória**, além de **um piloto com
 
 A pessoa deverá ser adulta e ter interesse em formalizar uma melhoria por canal institucional. Priorizar quem já enviou uma ideia, pois poderá relatar práticas específicas. Se não houver essa experiência, a sessão poderá investigar a plausibilidade do trabalho previsto, mantendo essa limitação em cada conclusão sobre o serviço.
 
-**Onde e como recrutar:** o mesmo procedimento do [planejamento do storyboard](planejamento-avaliacao-storyboard.md#participante-e-recrutamento), com convite próprio para esta sessão. A participação anterior no storyboard não autoriza automaticamente esta coleta. Se for a mesma pessoa, os consentimentos e a ordem de exposição serão registrados. Os dados terão identificação **AT-PROP01**, sem presumir que seja a mesma pessoa de PROP01.
+**Onde e como recrutar:** o mesmo procedimento do [planejamento do storyboard](planejamento-avaliacao-storyboard.md#participante-e-recrutamento), com convite próprio para esta sessão. A participação anterior no storyboard não autoriza automaticamente esta coleta. Se for a mesma pessoa, os consentimentos e a ordem de exposição serão registrados. O registro da análise usará **AT-PROP01** como código da sessão. Nesta proposta, a pessoa será identificada como **PROP01**, também prevista para o storyboard; a exposição anterior e os consentimentos serão registrados. Se forem pessoas diferentes, atualizar os códigos e a caracterização.
 
 **Triagem prevista:** confirmar maioridade, interesse na atividade, experiência com envio, exposição prévia ao storyboard, necessidades de acessibilidade e disponibilidade para 45–50 minutos. A Figura 9 do apêndice reproduz as orientações de Barbosa e Silva (2010, p. 308).
 
@@ -124,7 +133,7 @@ A Tabela 4 será aplicada antes do piloto e novamente a cada versão revisada.
 | CT03 | Tipos de tarefa CTT usam as categorias do livro e classificações adequadas | Figura 6.4, p. 203; identificar tarefa e tipo |
 | CT04 | Operadores e significado temporal são corretos; passagem de informação identifica o que é transmitido | Figuras 6.5–6.6, p. 203–205 |
 | CT05 | Expressões, tabelas e correspondência HTA/CTT descrevem o mesmo trabalho | Tabela de correspondência da versão avaliada |
-| CT06 | Regras documentadas, decisões de modelagem e interfaces não verificadas são distinguíveis | Evidências E01–E08 e limites da análise documental |
+| CT06 | Regras documentadas, decisões de modelagem e interfaces não verificadas são distinguíveis | Evidências E01–E10 e limites da análise documental |
 
 <p class="caption">Tabela 4 — Conferência técnica da HTA e da CTT.</p>
 <p class="source">Fonte: critérios operacionais do grupo baseados em Barbosa e Silva (2010, p. 191–196, 203–205).</p>
@@ -159,27 +168,27 @@ A Tabela 6 usa **T-AT** como data ainda não agendada da avaliação da análise
 
 | Atividade | Janela prevista | Esforço estimado | Produto |
 | --- | --- | --- | --- |
-| Conferir CT01–CT06 e preparar cópia, descrição comum, roteiro e TCLE | T-AT−7 a T-AT−3 dias | 3 h | Material versionado e achados técnicos registrados |
+| Conferir CT01–CT06 e preparar cópia, descrição comum, roteiro e TCLE | 22/10, antes do piloto | 3 h | Material versionado e achados técnicos registrados |
 | Recrutar e confirmar perfil | Antes das sessões | 30 min de contato, além da espera | Pessoas e agendamentos confirmados |
-| Realizar piloto | T-AT−2 dias, antes da sessão principal | 45–50 min | Procedimento e dados ensaiados |
-| Analisar piloto e ajustar materiais | T-AT−2 a T-AT−1 dias | 1 h | Nova versão; outro piloto se mudanças extensas |
+| Realizar piloto | T-AT−1 dia, antes da sessão principal | 45–50 min | Procedimento e dados ensaiados |
+| Analisar piloto e ajustar materiais | Após o piloto, antes de T-AT | 1 h | Nova versão; outro piloto se mudanças extensas |
 | Entrevistar a pessoa participante | T-AT | 45–50 min | Registros da discussão dos modelos |
 | Interpretar e confrontar evidências | T-AT a T-AT+1 dia | 2 h | Matriz de respostas e divergências |
-| Consolidar, redigir e revisar relato | T-AT+1 a T-AT+3 dias | 2 h | Relato e recomendações fundamentadas |
+| Consolidar, redigir e revisar relato | 24/10, antes da entrega | 2 h | Relato e recomendações fundamentadas |
 
 <p class="caption">Tabela 6 — Cronograma relativo da avaliação.</p>
 <p class="source">Fonte: estimativas do projeto; atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
 ### Registro de agendamento previsto
 
-A Tabela 7 organiza os campos de calendário e local. As datas e os horários seguem a confirmar porque ainda não há participante.
+A Tabela 7 organiza os campos de calendário e local. As datas abaixo são propostas para o reagendamento individual e dependem de aceite.
 
 | Sessão | Data prevista | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma prevista | Condição |
 | --- | --- | --- | --- | --- | --- |
-| Piloto da análise de tarefas | A confirmar; T-AT−2 dias | A confirmar | 50 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa diferente de AT-PROP01 e não envolvida na elaboração |
-| Avaliação da análise de tarefas | A confirmar; T-AT | A confirmar | 50 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, CT01–CT06 conferidos, ajustes do piloto e consentimento |
+| Piloto da análise de tarefas | 22/10/2026; T-AT−1 dia, proposta | 19h20–20h10 | 50 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa PP-PROP01, diferente de PROP01 e não envolvida na elaboração |
+| Avaliação da análise de tarefas | 23/10/2026; T-AT, proposta | 19h20–20h10 | 50 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, CT01–CT06 conferidos, ajustes do piloto e consentimento |
 
-<p class="caption">Tabela 7 — Agendamento a completar antes das sessões.</p>
+<p class="caption">Tabela 7 — Agendamento proposto, a confirmar antes das sessões.</p>
 <p class="source">Fonte: planejamento operacional do projeto, orientado por Barbosa e Silva (2010, p. 307–308).</p>
 
 Bruno Ferreira Dornelas é o responsável designado pela revisão do planejamento, da notação e dos materiais antes do piloto e, posteriormente, do relato.
@@ -213,6 +222,8 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312). O
 
 ## Agradecimentos
 
+Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+
 Grok (xAI) apoiou a redação e a organização deste planejamento. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pelo conteúdo.
 
 ## Histórico de versão
@@ -220,6 +231,8 @@ Grok (xAI) apoiou a redação e a organização deste planejamento. Caio Breno d
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação da HTA/CTT da autoria de ideia, com conferência CT01–CT06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

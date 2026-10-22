@@ -1,3 +1,5 @@
+> **Atualização de 22/10/2026:** este documento registra a preparação anterior. O estado atual está em [LEIA-ME-ETAPA5.md](LEIA-ME-ETAPA5.md); o storyboard já foi substituído pelo desenho manual e a estrutura atual do grupo foi integrada da main.
+
 # Prévia local — revisão de 13/10/2026
 
 Base: cópia atualizada de `/home/caio/Documentos/2026.2-Grupo06`, commit `f68e757` de 12/10. Origem preservada. Trabalho salvo na branch local `caio/etapa-4-perfil-e-planejamento`, a pedido de Caio; sem push ou publicação. Os acréscimos estão em `/home/caio/Documentos/ihc/2026.2-Grupo06`.

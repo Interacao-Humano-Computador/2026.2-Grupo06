@@ -176,10 +176,28 @@ html {
 .md-tabs {
   background: var(--nav);
   border-bottom: 3px solid var(--gold);
+  overflow: visible;
 }
 
-.md-tabs__inner {
-  padding: 0 1.3rem;
+.md-tabs > .md-grid {
+  padding: 0.2rem 1.3rem;
+}
+
+/* As seções continuam visíveis quando a largura ou a fonte exigem outra linha. */
+.md-tabs__list {
+  flex-wrap: wrap;
+  gap: 0.1rem 0.2rem;
+  margin: 0;
+  overflow: visible;
+  contain: none;
+  white-space: normal;
+}
+
+.md-tabs__item {
+  flex: 0 1 auto;
+  height: auto;
+  min-width: 0;
+  padding: 0;
 }
 
 .md-tabs__link {
@@ -187,8 +205,23 @@ html {
   font-weight: 650;
   color: rgba(243, 246, 250, 0.78);
   opacity: 1;
-  margin-top: 0;
-  padding: 0.8rem 0 0.7rem;
+  align-items: center;
+  min-height: 2.5rem;
+  margin: 0;
+  padding: 0.55rem 0.65rem;
+  border-radius: 0.25rem 0.25rem 0 0;
+  overflow-wrap: anywhere;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link:focus-visible,
+.md-tabs__item--active .md-tabs__link {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.md-tabs__link:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: -2px;
 }
 
 .md-tabs__item--active .md-tabs__link,
@@ -210,6 +243,17 @@ html {
   font-size: 0.95rem;
   line-height: 1.4;
   padding: 0.36rem 0;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    width: 14.5rem;
+  }
+}
+
+.md-sidebar--primary .md-nav__link .md-ellipsis {
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
 
 .md-main__inner.md-grid {

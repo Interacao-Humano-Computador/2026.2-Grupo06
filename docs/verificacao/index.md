@@ -9,6 +9,8 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Criação da seção de verificação | [Estrutura](index.md#estrutura) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inclusão da lista da Etapa 5 | [Estrutura](#estrutura) |
+| Codex (OpenAI) | Apoio à atualização do índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -20,11 +22,17 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-A seção está organizada em dois menus: **Listas de verificação**, reservado para as listas que serão adicionadas, e **Inspeções**, que reúne os três grupos abaixo:
+A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
 - **Verificação do Grupo 06:** inspeção dos próprios artefatos produzidos pelo grupo, realizada de forma cruzada entre os integrantes.
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
+
+A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas de uma inspeção devem identificar grupo, versão, data e avaliadores.
+
+## Agradecimentos
+
+Codex (OpenAI) apoiou a atualização do índice com a lista da Etapa 5.
 
 ## Histórico de versão
 
@@ -33,6 +41,7 @@ A seção está organizada em dois menus: **Listas de verificação**, reservado
 | `1.0` | 05/09/2026 | Criação do índice de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 26/09/2026 | Adiciona Verificação do Grupo 05 à estrutura da seção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 22/10/2026 | Inclui os critérios elaborados para a Etapa 5 no menu de listas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

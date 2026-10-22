@@ -9,16 +9,25 @@ A Tabela 1 registra quem contribuiu neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição da funcionalidade, do perfil e da avaliação remota; responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
+| Codex (OpenAI) | Apoio à atualização do escopo, do material e da continuidade na Etapa 5 | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
+## Atualização para a Etapa 5 — 22/10/2026
+
+O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
+
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+
+Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
+
 ## Introdução
 
 Este planejamento organiza uma avaliação formativa do [storyboard](storyboard.md) de **preparar, revisar e enviar uma ideia legislativa**, no Portal e-Cidadania, com uma pessoa do perfil **Proponente de ideia legislativa**. O recorte acompanha Camila Nogueira do rascunho ao acompanhamento da ideia publicada, distinguindo envio, apoios e lei. Uma entrevista semiestruturada remota, apoiada na leitura do storyboard, investigará a compreensão da história, sua adequação a quem pretende formalizar uma proposta e as informações necessárias antes do envio.
 
-**Situação em 13/10/2026:** planejamento elaborado para revisão interna; participante, observador, datas e horários ainda não confirmados. O storyboard visual versão 1.0 está na página do storyboard. O TCLE específico da sessão deverá ser preparado antes do piloto. Nenhuma sessão ou coleta é relatada como realizada. O [planejamento do relato](planejamento-relato-storyboard.md) define como organizar os resultados futuros.
+**Situação em 22/10/2026:** planejamento elaborado para revisão interna; participante, observador, datas e horários ainda não confirmados. O storyboard manual versão 1.1 está na página do storyboard. O TCLE específico da sessão deverá ser preparado antes do piloto. Nenhuma sessão ou coleta é relatada como realizada. O [planejamento do relato](planejamento-relato-storyboard.md) define como organizar os resultados futuros.
 
 ## Contextualização
 
@@ -26,7 +35,7 @@ O trabalho dá continuidade ao [perfil Proponente](../../entrega-2/individual/ca
 
 Segundo as orientações oficiais, o envio passa por autenticação, uma ideia própria ainda aberta não deve ser repetida, o texto não pode ser alterado depois do envio e dados pessoais não solicitados não devem integrar a manifestação. Há moderação antes da publicação. Apoios e análise legislativa vêm depois. Essas dependências tornam relevante investigar se a história deixa claro o compromisso assumido no envio.
 
-O storyboard representa o processo lido no portal em 13/10/2026, com um episódio fictício de telefone no rascunho. A sessão examinará essa representação e a experiência relatada pela pessoa participante. Não envolverá cadastro real, acesso a contas, envio de ideia ou qualquer operação no portal. O formulário foi lido e não foi desenhada uma tela de confirmação, porque essa tela não foi vista.
+O storyboard manual representa um percurso conceitual do rascunho ao acompanhamento, destacando uma dúvida sobre o envio. O exemplo de conteúdo pessoal da redação anterior não aparece neste desenho; a revisão é uma lacuna a discutir. A sessão examinará essa representação e a experiência relatada pela pessoa participante. Não envolverá cadastro real, acesso a contas, envio de ideia ou qualquer operação no portal. A cena de envio incerto não prova um defeito da interface real. A confirmação de recebimento será proposta e testada no protótipo de papel.
 
 ## Item de conteúdo da disciplina
 
@@ -58,7 +67,7 @@ A Tabela 2 vincula cada pergunta à evidência pretendida. As formulações ser�
 | Objetivo | Pergunta de avaliação e formulação à pessoa participante | Evidência a registrar |
 | --- | --- | --- |
 | O1 | Q1 — O objetivo e o desfecho são compreendidos? “Conte com suas palavras o que Camila pretende fazer e como a história termina.” | Explicação espontânea e partes não compreendidas |
-| O1 | Q2 — A relação entre revisão, envio e avaliação está clara? “O que acontece se ela enviar o texto como estava no começo? O que ainda falta depois do envio?” | Relações reconhecidas, dúvidas e quadro usado na resposta |
+| O1 | Q2 — A relação entre revisão, envio e avaliação está clara? “O que ela precisa conferir antes de enviar? O que ainda depende do Senado depois?” | Relações reconhecidas, dúvidas e quadro usado na resposta |
 | O1 | Q3 — As responsabilidades estão claras? “O que cabe a quem envia a ideia e o que cabe ao serviço do Senado?” | Atribuições identificadas e eventuais trocas de responsabilidade |
 | O1, O2 | Q4 — A sequência e as dependências fazem sentido? “O que precisa acontecer antes de Camila concluir o envio? Você mudaria alguma etapa de lugar?” | Dependências, saltos temporais e justificativas |
 | O2 | Q5 — A história é compatível com quem pretende propor uma melhoria? “O que seria diferente no seu caso? De quais informações você precisaria antes de enviar?” | Contexto relatado, ações ausentes e condições de realização |
@@ -108,9 +117,9 @@ A Tabela 3 estabelece os recursos e responsabilidades previstos.
 | Local | Sessão remota; cada pessoa em ambiente escolhido por ela, com privacidade e pouco ruído |
 | Plataforma | Google Meet como opção prevista; confirmar acesso, compartilhamento e recursos de acessibilidade no piloto; link enviado em privado |
 | Equipamentos | Computador ou dispositivo que permita ler os quadros, conexão e áudio; câmera facial opcional |
-| Material de avaliação | Storyboard QD01–QD06, versão 1.0 de 13/10/2026, desenhado em SVG |
+| Material de avaliação | Storyboard manual QD01–QD06, versão 1.1 de 22/10/2026 |
 | Instrumentos | TCLE específico, perguntas de caracterização, roteiro desta página e formulário de registro |
-| Registro | Anotações; áudio opcional somente se autorizado e tecnicamente disponível; sem gravação facial prevista |
+| Registro | Notas e vídeo de tela/voz para a disciplina, mediante autorização específica; imagem facial opcional e autorizada separadamente |
 | Custo | Uso de recursos disponíveis, sem despesas adicionais previstas; custo eventual exige revisão do planejamento |
 | Contingência | Se os quadros não estiverem legíveis, ampliar ou fornecer cópia; se áudio ou conexão impedirem a coleta, pausar e reagendar |
 
@@ -121,23 +130,23 @@ Se não houver observador disponível, Caio registrará as respostas por escrito
 
 ### Material que deverá estar pronto para avaliação
 
-A Tabela 4 confirma a cobertura do storyboard já produzido. Os quadros vinculam a história aos quatro objetivos da HTA e às tarefas da CTT. A figura exportada não substitui esta tabela: as legendas visuais são mais curtas que a transcrição.
+A Tabela 4 identifica os quadros do desenho manual e sua relação com as tarefas. A transcrição da página do storyboard complementa as legendas e registra as operações pouco visíveis, especialmente revisão e interpretação do recebimento.
 
 | Quadro | Situação representada | Vínculo com a análise de tarefas |
 | --- | --- | --- |
 | QD01 | Escreve título e problema no papel | HTA 1.2; PrepararTexto |
-| QD02 | Na página, lê os três passos e não acha ideia igual | HTA 1.1; ExaminarOrientacoes; E03 |
-| QD03 | Aperta ENVIAR IDEIA e entra com gov.br | HTA 3.1; ObterAcesso; E09 |
-| QD04 | Preenche o formulário e aperta ENVIAR | HTA 3.2–3.3; InformarConteudo e ConferirEEnviar |
-| QD05 | Texto travado, e-mail de andamento, publicada ou arquivada | HTA 4.1; E04, E06, E08 |
-| QD06 | Acompanha a ideia publicada: apoios, linha do tempo e declaração | HTA 4.2; E07, E10 |
+| QD02 | Encontra a página do Senado identificada no esboço como “Propor lei”; regras não detalhadas | HTA 1.1; ExaminarOrientacoes; E03 |
+| QD03 | Procura acesso ao serviço; transição e autenticação não detalhadas no desenho | HTA 3.1; ObterAcesso; E09 |
+| QD04 | Preenche título e descrição; vê Enviar e Cancelar; revisão pouco visível | HTA 3.2–3.3; InformarConteudo e ConferirEEnviar |
+| QD05 | Dúvida sobre o resultado do envio e referência ao e-mail; recebimento não explícito | HTA 4.1; E04, E06, E08 |
+| QD06 | Acompanha ideia posteriormente publicada, com apoios e compartilhamento | HTA 4.2; E07, E10 |
 
 <p class="caption">Tabela 4 — Cobertura dos quadros e rastreabilidade.</p>
-<p class="source">Fonte: [storyboard versão 1.0](storyboard.md) e HTA/CTT de Camila Nogueira, Grupo 06 (2026).</p>
+<p class="source">Fonte: [storyboard versão 1.1](storyboard.md) e HTA/CTT de Camila Nogueira, Grupo 06 (2026).</p>
 
 As orientações conhecidas podem aparecer na história; o que será investigado é sua interpretação após a leitura. O moderador não fornecerá explicações adicionais antes de registrar a resposta inicial. Qualquer mudança na quantidade ou ordem dos quadros deverá atualizar esta tabela, a figura e os instrumentos.
 
-**Critério de preparação:** o desenho versão 1.0 apresenta ID, ação, fala e vínculo da Tabela 4. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. O de [Bruno — Oficina Legislativa](../individual/bruno/storyboard.md) também está disponível. A autoverificação registra o storyboard de Israel como incompleto; Luís não entregou o seu. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
+**Critério de preparação:** o desenho manual versão 1.1 possui seis quadros; a Tabela 4 identifica ações e vínculos, e a transcrição do storyboard explicita suas lacunas. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. O de [Bruno — Oficina Legislativa](../individual/bruno/storyboard.md) também está disponível. A autoverificação registra o storyboard de Israel como incompleto; Luís não entregou o seu. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
 
 ### Roteiro da sessão
 
@@ -172,27 +181,27 @@ A Tabela 6 define a ordem e o esforço previsto. **T** representa a data ainda n
 
 | Atividade | Janela prevista | Esforço estimado | Produto / condição de conclusão |
 | --- | --- | --- | --- |
-| Conferir storyboard e instrumentos; revisão interna | T−7 a T−3 dias | 2 h | Versão 1.0 conferida; TCLE e roteiro prontos |
+| Conferir storyboard e instrumentos; revisão interna | 22/10, antes do piloto | 2 h | Versão 1.1 conferida; TCLE e roteiro prontos |
 | Recrutar e confirmar disponibilidade | Antes do piloto e da avaliação | 30 min de contato, além da espera | Perfis conferidos e agendamentos privados confirmados |
-| Executar piloto | T−2 dias, em data anterior a T | 35–40 min | Funcionamento e qualidade dos dados verificados |
-| Interpretar piloto e corrigir materiais | T−2 a T−1 dias | 1 h | Ajustes registrados; nova versão; novo piloto se necessário |
+| Executar piloto | T−1 dia, em data anterior a T | 35–40 min | Funcionamento e qualidade dos dados verificados |
+| Interpretar piloto e corrigir materiais | Após o piloto, antes de T | 1 h | Ajustes registrados; nova versão; novo piloto se necessário |
 | Conduzir sessão com PROP01 | T | 35–40 min | Consentimento confirmado e registros produzidos |
 | Organizar e interpretar dados | T a T+1 dia | 2 h | Evidências e respostas por pergunta |
-| Consolidar, redigir e revisar relato | T+1 a T+3 dias | 2 h | Relato conferido e recomendações rastreáveis |
+| Consolidar, redigir e revisar relato | 24/10, antes da entrega | 2 h | Relato conferido e recomendações rastreáveis |
 
 <p class="caption">Tabela 6 — Cronograma relativo da avaliação.</p>
 <p class="source">Fonte: estimativas do projeto; atividades básicas de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
 ### Registro de agendamento previsto
 
-A Tabela 7 explicita os campos de calendário e o local. Como ainda não há participante, as datas e os horários permanecem a confirmar. Caio deverá preenchê-los após o aceite e antes do piloto, preservando o intervalo para ajustes.
+A Tabela 7 explicita os campos de calendário e o local. As datas abaixo são propostas para o reagendamento individual e dependem de aceite. Caio deverá confirmar a proposta com as pessoas antes do piloto, preservando o intervalo para ajustes.
 
 | Sessão | Data prevista | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma prevista | Condição |
 | --- | --- | --- | --- | --- | --- |
-| Piloto do storyboard | A confirmar; T−2 dias | A confirmar | 40 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa diferente de PROP01 e não envolvida na elaboração |
-| Avaliação do storyboard | A confirmar; T | A confirmar | 40 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, materiais ajustados e consentimento |
+| Piloto do storyboard | 22/10/2026; T−1 dia, proposta | 18h30–19h10 | 40 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa PP-PROP01, diferente de PROP01 e não envolvida na elaboração |
+| Avaliação do storyboard | 23/10/2026; T, proposta | 18h30–19h10 | 40 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, materiais ajustados e consentimento |
 
-<p class="caption">Tabela 7 — Agendamento a completar antes das sessões.</p>
+<p class="caption">Tabela 7 — Agendamento proposto, a confirmar antes das sessões.</p>
 <p class="source">Fonte: planejamento operacional do projeto, orientado por Barbosa e Silva (2010, p. 307–308).</p>
 
 O moderador acumulará o registro se não houver observador. Bruno Ferreira Dornelas é o responsável designado pela revisão do planejamento e dos materiais antes do piloto e, posteriormente, do relato.
@@ -230,6 +239,8 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312): o
 
 ## Agradecimentos
 
+Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+
 Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos documentos da Oficina Legislativa. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
 
 ## Histórico de versão
@@ -238,6 +249,8 @@ Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos
 | :---: | :---: | --- | --- | --- |
 | 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação do storyboard de Camila, com os seis quadros QD01–QD06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
@@ -249,7 +262,7 @@ Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos
 
 [4] OCR. **The OCR guide to storyboards**. Version 2, 2020.
 
-[5] GRUPO 06. [Storyboard versão 1.0](storyboard.md). Brasília: FCTE/UnB, 2026.
+[5] GRUPO 06. [Storyboard versão 1.1](storyboard.md). Brasília: FCTE/UnB, 2026.
 
 ## Apêndice A — Trechos sobre método e piloto
 
