@@ -22,7 +22,7 @@ Este artefato planeja a avaliação da Análise de Tarefas da funcionalidade de 
 
 **Autor do item:** Israel Soares
 
-A HTA decompõe uma tarefa em subtarefas e operações organizadas hierarquicamente, acompanhadas de planos que determinam a ordem e as condições de execução (ANNETT; DUNCAN, 1967). Neste artefato, o HTA do agendamento de visita é o objeto da avaliação, e uma estrutura inicial dele aparece no Quadro 1, na seção [Estrutura inicial do HTA](#estrutura-inicial-do-hta).
+A HTA decompõe uma tarefa em subtarefas e operações organizadas hierarquicamente, acompanhadas de planos que determinam a ordem e as condições de execução (ANNETT; DUNCAN, 1967). Neste artefato, o HTA do agendamento de visita é o objeto da avaliação, e seu modelo é apresentado na Figura 1, na seção [Estrutura e diagrama do HTA avaliado](#estrutura-e-diagrama-do-hta-avaliado).
 
 ## D: Determinar os objetivos da avaliação
 
@@ -71,7 +71,7 @@ A HTA decompõe uma tarefa em subtarefas e operações organizadas hierarquicame
 
 ## I: Identificar e administrar as questões práticas
 
-**Artefato avaliado:** HTA do Agendamento de Visita ao Senado Federal, versão [número], disponível em [link no GitPages].
+**Artefato avaliado:** HTA do Agendamento de Visita ao Senado Federal, versão 2.0, disponível em [Análise de Tarefas — Agendamento de Visita](../../../entrega-2/individual/israel/analise-tarefas.md).
 
 **Perfil dos participantes:** de preferência, pessoas que já agendaram visitas a locais públicos ou que têm interesse em visitar o Senado (estudantes, professores, famílias, turistas). Quando possível, será incluído ao menos um especialista ou conhecedor do tema (ex.: professor que organiza visitas de turmas).
 
@@ -158,62 +158,151 @@ A Tabela 5 mostra o modelo de registro das divergências encontradas.
 
 **Apresentação dos resultados:** os resultados e os ajustes no HTA serão apresentados no [Artefato 4](./planejamento-relato-resultados-analise-tarefas.md).
 
-## Estrutura inicial do HTA
+## Estrutura e diagrama do HTA avaliado
 
-O Quadro 1 apresenta uma estrutura inicial do HTA do agendamento de visita, com sete tarefas e seus planos. Ela é uma proposta a ser substituída pelo HTA real do grupo.
+A Figura 1 apresenta o diagrama da Análise Hierárquica de Tarefas (HTA) do Agendamento de Visita ao Senado Federal (versão 2.0), modelado na [Análise de Tarefas da Entrega 2](../../../entrega-2/individual/israel/analise-tarefas.md#analise-hierarquica-de-tarefas-hta), que servirá como objeto de avaliação durante as sessões com os participantes.
 
-```text
-0. Agendar visita ao Senado Federal
-   Plano 0: fazer 1, 2, 3, 4, 5 e 6 em sequência.
-            Se for necessário mudar o agendamento depois, fazer 7.
+```mermaid
+flowchart LR
+    T0["0. Agendar visita ao Senado Federal<br/>plano: 1 > 2 > 3 > 4 > 5 > 6 (se necessário: 7)"]
+    
+    T1["1. Acessar a página de agendamento<br/>plano: 1.1 > 1.2 > 1.3"]
+    T2["2. Definir o tipo de visita<br/>plano: 2.1 > 2.2"]
+    T3["3. Escolher data e horário<br/>plano: 3.1 > 3.2 > 3.3"]
+    T4["4. Informar os dados dos visitantes<br/>plano: 4.1 (> 4.2) (> 4.3)"]
+    T5["5. Revisar e confirmar o agendamento<br/>plano: 5.1; se erro: 5.2 > 5.1; depois 5.3"]
+    T6["6. Obter a confirmação<br/>plano: 6.1 > (6.2) > 6.3"]
+    T7["7. Alterar ou cancelar o agendamento<br/>plano: 7.1 > 7.2 > 7.3"]
 
-   1. Acessar a página de agendamento de visita
-      1.1 Abrir o portal do Senado
-      1.2 Localizar a opção de visitação
-      1.3 Ler as informações e regras da visita
-      Plano 1: fazer 1.1, 1.2 e 1.3 em sequência.
+    T11["1.1 Abrir o portal do Senado"]
+    T12["1.2 Localizar a opção de visitação institucional"]
+    T13["1.3 Ler informações e regras da visita"]
 
-   2. Definir o tipo de visita
-      2.1 Escolher visita individual ou em grupo
-      2.2 Informar o número de visitantes
-      Plano 2: fazer 2.1 e 2.2 em sequência.
+    T21["2.1 Escolher visita individual ou em grupo"]
+    T22["2.2 Informar número total de visitantes"]
 
-   3. Escolher data e horário
-      3.1 Consultar datas disponíveis
-      3.2 Selecionar a data
-      3.3 Selecionar o horário
-      Plano 3: fazer 3.1, 3.2 e 3.3 em sequência.
-               Se não houver disponibilidade, voltar a 3.1.
+    T31["3.1 Consultar datas disponíveis no calendário"]
+    T32["3.2 Selecionar a data desejada"]
+    T33["3.3 Selecionar o horário da visita"]
 
-   4. Informar os dados dos visitantes
-      4.1 Preencher os dados do responsável
-      4.2 Preencher os dados dos demais visitantes
-      4.3 Informar necessidades de acessibilidade
-      Plano 4: fazer 4.1. Se for visita em grupo, fazer 4.2.
-               Se houver necessidade especial, fazer 4.3.
+    T41["4.1 Preencher dados do responsável"]
+    T42["4.2 Preencher identificação dos acompanhantes"]
+    T43["4.3 Informar necessidades de acessibilidade"]
 
-   5. Revisar e confirmar o agendamento
-      5.1 Conferir as informações
-      5.2 Corrigir dados, se necessário
-      5.3 Confirmar o agendamento
-      Plano 5: fazer 5.1. Se houver erro, fazer 5.2 e repetir 5.1.
-               Depois, fazer 5.3.
+    T51["5.1 Conferir resumo das informações"]
+    T52["5.2 Corrigir dados incorretos"]
+    T53["5.3 Confirmar submissão do agendamento"]
 
-   6. Receber a confirmação
-      6.1 Visualizar o comprovante
-      6.2 Salvar ou imprimir o comprovante
-      6.3 Ler as orientações para o dia da visita
-      Plano 6: fazer 6.1, 6.2 e 6.3 em sequência.
+    T61["6.1 Visualizar código e confirmação na tela"]
+    T62["6.2 Salvar ou imprimir o comprovante"]
+    T63["6.3 Verificar orientações recebidas por e-mail"]
 
-   7. Alterar ou cancelar o agendamento
-      7.1 Localizar o agendamento
-      7.2 Alterar ou cancelar
-      7.3 Receber a nova confirmação
-      Plano 7: fazer 7.1, 7.2 e 7.3 em sequência.
+    T71["7.1 Localizar agendamento por código ou CPF"]
+    T72["7.2 Solicitar cancelamento ou alteração"]
+    T73["7.3 Confirmar alteração e obter comprovante"]
+
+    T0 --> T1
+    T0 --> T2
+    T0 --> T3
+    T0 --> T4
+    T0 --> T5
+    T0 --> T6
+    T0 -.-> T7
+
+    T1 --> T11
+    T1 --> T12
+    T1 --> T13
+
+    T2 --> T21
+    T2 --> T22
+
+    T3 --> T31
+    T3 --> T32
+    T3 --> T33
+
+    T4 --> T41
+    T4 --> T42
+    T4 --> T43
+
+    T5 --> T51
+    T5 --> T52
+    T5 --> T53
+
+    T6 --> T61
+    T6 --> T62
+    T6 --> T63
+
+    T7 -.-> T71
+    T7 -.-> T72
+    T7 -.-> T73
+
+    classDef default fill:#f9f9fb,stroke:#2b3a4a,stroke-width:1.5px;
+    classDef pontoCritico fill:#fff0f0,stroke:#c0392b,stroke-width:3px;
+    classDef sobDemanda fill:#f4f6f7,stroke:#7f8c8d,stroke-width:1.5px,stroke-dasharray: 5 5;
+
+    class T12,T31,T43,T63 pontoCritico;
+    class T7,T71,T72,T73 sobDemanda;
 ```
 
-<p class="caption">Quadro 1 — Estrutura inicial do HTA do Agendamento de Visita.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="caption">Figura 1 — Diagrama HTA do Agendamento de Visita ao Senado Federal.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 193–195).</p>
+
+O Quadro 1 detalha os planos formais e a especificação textual hierárquica correspondente.
+
+??? note "Quadro 1 — Estrutura hierárquica e planos do HTA"
+
+    ```text
+    0. Agendar visita ao Senado Federal
+       Plano 0: fazer 1, 2, 3, 4, 5 e 6 em sequência.
+                Se for necessário mudar o agendamento depois, fazer 7.
+
+       1. Acessar a página de agendamento de visita
+          1.1 Abrir o portal do Senado
+          1.2 Localizar a opção de visitação
+          1.3 Ler as informações e regras da visita
+          Plano 1: fazer 1.1, 1.2 e 1.3 em sequência.
+
+       2. Definir o tipo de visita
+          2.1 Escolher visita individual ou em grupo
+          2.2 Informar o número de visitantes
+          Plano 2: fazer 2.1 e 2.2 em sequência.
+
+       3. Escolher data e horário
+          3.1 Consultar datas disponíveis
+          3.2 Selecionar a data
+          3.3 Selecionar o horário
+          Plano 3: fazer 3.1, 3.2 e 3.3 em sequência.
+                   Se não houver disponibilidade, voltar a 3.1.
+
+       4. Informar os dados dos visitantes
+          4.1 Preencher os dados do responsável
+          4.2 Preencher os dados dos demais visitantes
+          4.3 Informar necessidades de acessibilidade
+          Plano 4: fazer 4.1. Se for visita em grupo, fazer 4.2.
+                   Se houver necessidade especial, fazer 4.3.
+
+       5. Revisar e confirmar o agendamento
+          5.1 Conferir as informações
+          5.2 Corrigir dados, se necessário
+          5.3 Confirmar o agendamento
+          Plano 5: fazer 5.1. Se houver erro, fazer 5.2 e repetir 5.1.
+                   Depois, fazer 5.3.
+
+       6. Receber a confirmação
+          6.1 Visualizar o comprovante
+          6.2 Salvar ou imprimir o comprovante
+          6.3 Ler as orientações para o dia da visita
+          Plano 6: fazer 6.1, 6.2 e 6.3 em sequência.
+
+       7. Alterar ou cancelar o agendamento
+          7.1 Localizar o agendamento
+          7.2 Alterar ou cancelar
+          7.3 Receber a nova confirmação
+          Plano 7: fazer 7.1, 7.2 e 7.3 em sequência.
+    ```
+
+    <p class="caption">Quadro 1 — Estrutura hierárquica e planos formais do HTA.</p>
+    <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
@@ -225,6 +314,7 @@ O Claude, assistente de inteligência artificial desenvolvido pela Anthropic, ap
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Criação do planejamento da avaliação da Análise de Tarefas (HTA) com base no framework DECIDE | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 13/10/2026 | Adequação ao template padrão de artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 22/10/2026 | Vinculação direta ao HTA versão 2.0 do Agendamento de Visita da Entrega 2 | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

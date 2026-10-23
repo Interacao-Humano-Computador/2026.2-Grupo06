@@ -34,7 +34,7 @@ Esta seção terá um ou dois parágrafos com:
 - O que é a HTA e por que foi escolhida: técnica que decompõe uma tarefa em subtarefas e operações organizadas hierarquicamente, com planos que descrevem a ordem e as condições de execução.
 - Como a avaliação foi aplicada: relato espontâneo do participante sobre como realizaria o agendamento, seguido da apresentação do HTA e de entrevista guiada, com o observador registrando divergências.
 - Quantos **ciclos de avaliação e ajuste** foram realizados: [número de ciclos]. Em cada ciclo, o HTA foi avaliado, as divergências foram analisadas e o modelo foi ajustado antes do ciclo seguinte.
-- A versão do HTA avaliada em cada ciclo, com link no GitPages: [Versão 1: link] e [Versão 2: link].
+- A versão do HTA avaliada em cada ciclo, com link no GitPages: [Versão 2.0 (Agendamento de Visita)](../../../entrega-2/individual/israel/analise-tarefas.md).
 
 ## Avaliadores e participantes
 
@@ -149,6 +149,7 @@ O Claude, assistente de inteligência artificial desenvolvido pela Anthropic, ap
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Criação do planejamento do relato dos resultados da avaliação da Análise de Tarefas (HTA) | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.1` | 13/10/2026 | Adequação ao template padrão de artefato | [Israel Soares](https://github.com/IsraelSoares-25) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.2` | 22/10/2026 | Vinculação com o HTA versão 2.0 de Agendamento de Visita | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

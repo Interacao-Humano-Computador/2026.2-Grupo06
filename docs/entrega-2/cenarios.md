@@ -69,7 +69,7 @@ A Tabela 3 reúne os sete cenários de análise. Os de Rafael e de Camila são c
 | Bruno Ferreira Dornelas | [A declaração depende da vinculação das ideias à turma](individual/bruno/perfil-2/cenario.md) | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Professor prepara uma oficina com uma turma do ensino médio; situação potencial construída a partir de documentos |
 | Caio Breno de Souza Bezerra | [Na busca por drone, notícias de 2013 aparecem entre as de 2026](individual/caio/cenario.md) | [Renata Moreira](individual/caio/persona.md) | Na semana em que a fonte é o Senado, Renata abre o portal para separar as notícias do ano que entram no anuário |
 | Heitor Pinheiro Gonçalves das Chagas | [O projeto aparece na busca, mas o voto não aparece na página](individual/heitor/cenario.md) | [Letícia Oliveira](individual/heitor/persona.md) | No notebook, com a convocação do movimento para votar no PL 1215/2025, Letícia precisa achar a consulta e registrar o voto |
-| Israel Soares de Paiva | [Marta desiste sem saber se o auditório está livre](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) | No computador, e não no celular de sempre, Marta tenta confirmar se o auditório está disponível numa data |
+| Israel Soares de Paiva | [Marta agenda uma visita institucional ao Senado Federal](individual/israel/cenario.md) | [Marta Oliveira](individual/israel/persona.md) | No computador pessoal, Marta busca o serviço de visitação, escolhe data e horário no calendário e preenche dados para agendar visita ao Congresso |
 | Luís Henrique Luna de Arruda | [Marina erra o caminho até a reunião da CCJ](individual/luis/cenario.md) | [Marina Alves](individual/luis/persona.md) | Em casa, no computador, Marina precisa achar uma reunião já realizada da CCJ sem receber o endereço da página |
 | Caio Breno de Souza Bezerra | [Revisar antes de enviar uma ideia](individual/caio/perfil-2/cenario.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Em casa, com um rascunho sobre clareza de orientações; envia pelo formulário e acompanha a ideia publicada, em situação fictícia baseada em documentos |
 
@@ -99,6 +99,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.5` | 05/10/2026 | Relaciona cenários ao escopo e explicita a limitação de origem da sequência de Marta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 13/10/2026 | Integra o cenário documental de Camila Nogueira, sem tratá-lo como sessão observada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 13/10/2026 | Atualiza o cenário de Camila com o formulário e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 22/10/2026 | Atualiza o cenário de Israel Soares para a tarefa de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

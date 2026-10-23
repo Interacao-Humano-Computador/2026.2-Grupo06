@@ -1,4 +1,4 @@
-﻿<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Análise de tarefas — Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Análise de tarefas — Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
 
 # Análise de tarefas
 
@@ -82,7 +82,7 @@ A Tabela 2 reúne as análises de tarefas individuais desenvolvidas pelos integr
 | Bruno Ferreira Dornelas | [Participação da turma e comprovação da oficina](individual/bruno/perfil-2/analise-tarefas.md) | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Organizar a participação da turma e obter a declaração; modelo documental do trabalho previsto |
 | Caio Breno de Souza Bezerra | [Levantamento de notícias para anuário](individual/caio/analise-tarefas.md) | [Renata Moreira](individual/caio/persona.md) | Selecionar notícias por tema e período; salvamento para a equipe relatado fora do portal |
 | Heitor Pinheiro Gonçalves das Chagas | [Votação em consulta pública](individual/heitor/analise-tarefas.md) | [Letícia Oliveira](individual/heitor/persona.md) | Localizar matéria (PL 1215/2025) e votar no portal e-Cidadania |
-| Israel Soares de Paiva | [Verificação de auditório](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Buscar informação sobre disponibilidade de auditório; sequência reconstruída, serviço de reserva não confirmado |
+| Israel Soares de Paiva | [Agendamento de visita ao Senado](individual/israel/analise-tarefas.md) | [Marta Oliveira](individual/israel/persona.md) | Agendar visita institucional presencial ao Senado Federal; definir modalidade, data/horário e dados dos visitantes |
 | Luís Henrique Luna de Arruda | [Pauta e resultado de reunião da CCJ](individual/luis/analise-tarefas.md) | [Marina Alves](individual/luis/persona.md) | Consultar pauta e resultado de item deliberado em comissão |
 | Caio Breno de Souza Bezerra | [Preparar e enviar uma ideia](individual/caio/perfil-2/analise-tarefas.md) | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Preparar, enviar e acompanhar uma ideia própria; formulário lido, sem envio executado |
 
@@ -106,6 +106,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.2` | 05/10/2026 | Alinha o índice aos resultados e fronteiras das tarefas e referencia a conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 13/10/2026 | Integra a HTA e a CTT documentais da autoria de uma ideia, sem aumentar a amostra | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 22/10/2026 | Atualiza a tarefa de Israel Soares para a funcionalidade oficial de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências

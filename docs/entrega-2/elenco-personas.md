@@ -47,7 +47,7 @@ A Tabela 2 reúne as cinco personas vinculadas às sessões e as duas personas d
 | Bruno Ferreira Dornelas | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Professor; atuação na Oficina Legislativa investigada por documentos, sem entrevista | Primária |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que separa notícias do setor aeroespacial para um anuário anual | Secundária |
 | Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania | Primária |
-| Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com uma tarefa administrativa pontual | Secundária |
+| Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com demanda pontual de agendamento de visita institucional ao Senado | Secundária |
 | Luís Henrique Luna de Arruda | [Marina Alves](individual/luis/persona.md) | Engenheira química formada, estudante para concursos, que consulta reuniões e pautas sob demanda | Primária |
 | Caio Breno de Souza Bezerra | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Proponente de ideia legislativa; recorte documental de participação cívica, sem entrevista | Focal no trabalho de Caio; prioridade global a revisar |
 
@@ -66,7 +66,7 @@ O elenco mantém quatro personas classificadas como primárias. Camila é focal 
 
 **Renata Moreira** permanece secundária na priorização atual, mas o atendimento de sua necessidade de triagem temporal depende de recursos próprios de organização das notícias. Não basta afirmar que uma busca feita para Lucas resolverá sua atividade.
 
-**Marta Oliveira** permanece secundária na priorização atual, com atendimento ainda a verificar: linguagem simples é uma necessidade compartilhada, mas não comprova que a informação sobre disponibilidade de espaços será encontrada. A existência de um serviço de reserva também não foi demonstrada pela entrevista.
+**Marta Oliveira** permanece secundária na priorização atual: compartilha com Lucas Mendes a exigência de linguagem clara e navegação direta, mas sua demanda é focada no serviço de agendamento de visitação institucional ao Senado Federal, requerendo calendário claro de vagas, orientações prévias de acesso e emissão transparente de comprovante.
 
 O elenco preserva as cinco sessões, com um participante homem e quatro mulheres. Essa composição descreve a amostra por conveniência, não a distribuição de gênero do público do Senado. O nome **Lucas Mendes** designa somente a persona de P1 nesta versão. O antigo perfil documental de estudante de Direito foi retirado. Rafael acrescenta um papel docente investigado por documentos. Camila acrescenta a autoria de uma ideia, também por documentos. As identidades fictícias não alteram a composição da amostra nem demonstram a distribuição de gênero do público.
 
@@ -94,6 +94,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.6` | 05/10/2026 | Relaciona o elenco à caracterização padronizada, às lacunas e à conferência coletiva | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 13/10/2026 | Inclui Camila Nogueira como persona documental focal do recorte de autoria, sem alterar as prioridades já decididas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.9` | 22/10/2026 | Adapta a descrição da persona Marta Oliveira para a funcionalidade de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 ## Referências
