@@ -119,13 +119,16 @@ A Tabela 6 registra as atividades previstas no planejamento do relato.
 
 O Vídeo 1 é a conversa inteira, do relato livre ao aviso sobre a conferência técnica.
 
-<div class="session-video">
-  <video controls preload="metadata" playsinline title="Discussão da análise de tarefas com PROP01">
-    <source src="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4" type="video/mp4">
-  </video>
-</div>
-<p class="caption">Vídeo 1 — Discussão da análise de tarefas com PROP01.</p>
-<p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 6 min, incorporada em 24/10/2026. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4">avaliacao-analise-tarefas.mp4</a>.</p>
+??? note "Vídeo 1 — Discussão da análise de tarefas com PROP01"
+
+    <div class="session-video">
+      <video controls preload="metadata" playsinline title="Discussão da análise de tarefas com PROP01">
+        <source src="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <p class="caption">Vídeo 1 — Discussão da análise de tarefas com PROP01.</p>
+    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 24/10/2026, 14h00–14h06. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4">avaliacao-analise-tarefas.mp4</a>.</p>
 
 ## Limites e encaminhamento
 
@@ -153,6 +156,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, o relato livre, o acréscimo sobre acompanhamento e os localizadores | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 14h00–14h06 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

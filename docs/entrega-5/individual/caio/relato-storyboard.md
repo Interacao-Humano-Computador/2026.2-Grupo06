@@ -101,13 +101,16 @@ Depois da síntese, Caio pergunta se o resumo corresponde ao que acabou de ser d
 
 O Vídeo 1 é a conversa inteira, da apresentação ao encerramento.
 
-<div class="session-video">
-  <video controls preload="metadata" playsinline title="Discussão do storyboard de Camila com PROP01">
-    <source src="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4" type="video/mp4">
-  </video>
-</div>
-<p class="caption">Vídeo 1 — Discussão do storyboard com PROP01.</p>
-<p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 6 min 31 s, incorporada em 24/10/2026. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4">avaliacao-storyboard.mp4</a>.</p>
+??? note "Vídeo 1 — Discussão do storyboard com PROP01"
+
+    <div class="session-video">
+      <video controls preload="metadata" playsinline title="Discussão do storyboard de Camila com PROP01">
+        <source src="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <p class="caption">Vídeo 1 — Discussão do storyboard com PROP01.</p>
+    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 24/10/2026, 13h28–14h00. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4">avaliacao-storyboard.mp4</a>.</p>
 
 ## Limites
 
@@ -135,6 +138,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, a duração, a modalidade e os localizadores de Q1–Q7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 13h28–14h00 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
