@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Votação em consulta pública (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Participação em Evento Interativo (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
 
 # Planejamento da avaliação da análise de tarefas
 
@@ -17,15 +17,17 @@ A Tabela 1 registra as atividades e os responsáveis neste artefato.
 
 ## Introdução
 
-Este artefato apresenta o planejamento da avaliação formativa da **Análise Hierárquica de Tarefas (HTA)** desenvolvida para a tarefa de **votar em consulta pública sobre o PL 1215/2025** no módulo **e-Cidadania** do Portal do Senado Federal, com a persona **Letícia Oliveira** (sintetizada a partir da coleta empírica com a participante P3 na Etapa 2).
+Este artefato apresenta o planejamento da avaliação formativa da **Análise Hierárquica de Tarefas (HTA)** desenvolvida para a tarefa de **enviar pergunta técnica direcionada a um orador em audiência pública interativa ao vivo sobre a regulamentação do PL 1215/2025** no módulo **Eventos Interativos** do **e-Cidadania** (Senado Federal), com a persona **Letícia Oliveira** (sintetizada a partir da coleta empírica da Etapa 2).
 
-Nesta Etapa 4, o foco recai exclusivamente sobre o **planejamento** da avaliação do modelo conceitual: não há resultados coletados, falas de usuários ou validações empíricas simuladas. O planejamento organiza o método de investigação por validação de modelo com entrevista semiestruturada, o cronograma, o teste piloto, as salvaguardas éticas e os instrumentos necessários. A execução ocorrerá após a apresentação da Etapa 4, e os resultados consolidados serão relatados na Etapa 5 (entrega em 25/10/2026), conforme especificado no [planejamento do relato dos resultados da HTA](planejamento-relato-analise-tarefas.md).
+Nesta Etapa 4, o foco recai exclusivamente sobre o **planejamento** da avaliação do modelo conceitual: não há resultados coletados, falas de usuários ou validações empíricas simuladas. O planejamento organiza o método de investigação por validação de modelo com entrevista semiestruturada, o cronograma, o teste piloto, as salvaguardas éticas e os instrumentos necessários. A execução ocorrerá em 24/10/2026 e os resultados consolidados serão relatados na Etapa 5 (entrega em 25/10/2026), conforme especificado no [planejamento do relato dos resultados da HTA](planejamento-relato-analise-tarefas.md).
 
 ## Contextualização
 
-O objeto avaliado é a [Análise de Tarefas de Letícia Oliveira](../../../entrega-2/individual/heitor/analise-tarefas.md), complementada pelo [perfil de usuário](../../../entrega-2/individual/heitor/persona.md) e pelo [cenário de interação](../../../entrega-2/individual/heitor/cenario.md) elaborados na Etapa 2.
+O objeto avaliado é a análise de tarefas de [Letícia Oliveira](../../../entrega-2/individual/heitor/analise-tarefas.md), complementada pelo [perfil de usuário](../../../entrega-2/individual/heitor/persona.md) e pelo [cenário de interação](../../../entrega-2/individual/heitor/cenario.md) elaborados na Etapa 2.
 
-A tarefa escolhida — votar na consulta pública de proposição legislativa — constitui o serviço mais demandado da plataforma e-Cidadania. Na observação da Etapa 2, constatou-se que a participante localizou a matéria com rapidez pela busca textual, mas encontrou severa barreira de usabilidade na operação 4.1 (localizar a área de votação), devido ao layout que posiciona os botões "Sim" e "Não" abaixo de múltiplos blocos institucionais e gráficos de estatísticas parciais.
+A tarefa foi refatorada para a participação cidadã em **Eventos Interativos**, modalidade síncrona do e-Cidadania que viabiliza o envio de perguntas e posicionamentos técnicos a senadores e palestrantes durante audiências públicas. Na audiência da Comissão de Agricultura e Reforma Agrária (CRA) que debate a regulamentação do **PL 1215/2025** (aquisição de alimentos e crédito emergencial para a agricultura familiar), a participante precisa submeter um questionamento técnico direcionado ao relator da matéria.
+
+Na inspeção técnica do portal atual (verificada em 24/10/2026 em `senado.leg.br/ecidadania/principalaudiencia`), constatou-se que o sistema oferece apenas uma caixa genérica de texto para "perguntas e comentários", exigindo que o cidadão insira o destinatário no próprio corpo da mensagem, sem mecanismos estruturados de categorização ou direcionamento a oradores. A modelagem investiga essa lacuna e propõe alternativas de reprojeto ergonômico.
 
 ## Item de conteúdo da disciplina
 
@@ -43,13 +45,13 @@ A avaliação é estruturada segundo o framework **DECIDE** (BARBOSA; SILVA, 201
 
 ## D — Determinar os objetivos
 
-**Objetivo geral:** verificar empiricamente se o modelo hierárquico da HTA representa com fidelidade o percurso cognitivo e motor de cidadãos com o perfil de Letícia Oliveira ao votarem em consultas do e-Cidadania, identificando omissões, sequências inadequadas e confirmando a severidade do ponto crítico de affordance na operação 4.1.
+**Objetivo geral:** verificar empiricamente se o modelo hierárquico da HTA representa com fidelidade o percurso cognitivo e motor de cidadãos com o perfil de Letícia Oliveira ao enviarem perguntas técnicas a oradores em audiências interativas do e-Cidadania, identificando omissões, sequências inadequadas e avaliando a hipótese do ponto crítico na operação 2.2 e as propostas de reprojeto nas operações 2.2, 2.3 e 4.1.
 
 Os objetivos específicos alinham-se às quatro dimensões de avaliação descritas por Barbosa e Silva (2010):
 
-1. **Apropriação da tecnologia:** verificar como cidadãos e lideranças comunitárias encaixam o portal e-Cidadania na sua rotina de participação política e acompanhamento legislativo;
-2. **Conformidade com um padrão:** avaliar se o fluxo de votação respeita os padrões ergonômicos e convenções da web pública (acessibilidade e clareza);
-3. **Comparação de alternativas:** levantar dados para comparar, na Etapa 5, o posicionamento atual da área de voto com alternativas de redesenho no protótipo de papel;
+1. **Apropriação da tecnologia:** verificar como cidadãos e lideranças comunitárias encaixam as audiências interativas do e-Cidadania na sua rotina de participação política e acompanhamento legislativo;
+2. **Conformidade com um padrão:** avaliar se o fluxo de envio respeita padrões ergonômicos e convenções da web pública (acessibilidade, visibilidade e clareza);
+3. **Comparação de alternativas:** levantar dados para comparar, na Etapa 5, a caixa genérica de texto atual com alternativas de reprojeto estruturado no protótipo de papel;
 4. **Identificação de problemas:** confrontar a árvore de subtarefas, operações e planos com a prática do usuário para revelar incongruências de modelagem.
 
 - **Para quem é importante:** para cidadãos e lideranças sociais que dependem da clareza do portal, e para a equipe de desenvolvimento, que usará este modelo como base para os protótipos de baixa e média fidelidade.
@@ -61,11 +63,11 @@ A Tabela 2 sintetiza as perguntas norteadoras da avaliação da HTA articuladas 
 
 | ID | Objetivo | Pergunta norteadora | Evidência pretendida |
 | :---: | :---: | --- | --- |
-| AT-Q1 | Dimensão 4 | A decomposição nas 4 subtarefas (Acessar, Localizar matéria, Avaliar projeto e Registrar voto) reflete a estrutura lógica real da tarefa? | Confirmação ou contestação da árvore e dos nós principais |
-| AT-Q2 | Dimensão 1 | O Plano 1 expressa adequadamente a realidade (busca via portal 1.1>1.2 vs. link direto recebido em mensagem 1.3)? | Frequência de uso do atalho por mensagens instantâneas |
-| AT-Q3 | Dimensão 4 | A operação 4.1 (localizar a área de voto) é reconhecida como o principal ponto crítico da tarefa? | Relato de dificuldade, tempo de varredura visual e frustração |
+| AT-Q1 | Dimensão 4 | A decomposição nas 4 subtarefas (Acessar a audiência, Estruturar/direcionar manifestação, Autenticar/submeter e Monitorar triagem) reflete a estrutura lógica real da tarefa? | Confirmação ou contestação da árvore e dos nós principais |
+| AT-Q2 | Dimensão 1 | O Plano 1 expressa adequadamente a realidade (busca e filtro via portal 1.1>1.2>1.3 vs. link direto recebido em grupo de mensagens 1.4)? | Frequência de uso do atalho por mensagens instantâneas e hábitos de navegação |
+| AT-Q3 | Dimensão 4 | A operação 2.2 (alterar categoria de comentário geral para pergunta a orador) é reconhecida como um ponto crítico e potencial barreira de affordance na interface atual? | Relato de dificuldade, receio de dispersão no chat e percepção de controle |
 | AT-Q4 | Dimensão 4 | Há passos intermediários executados pelo participante que não foram contemplados na HTA (ou operações redundantes)? | Sugestão de inclusão/exclusão de nós operacionais |
-| AT-Q5 | Dimensões 2 e 3 | Em que região da página o participante espera encontrar os botões de voto e quais elementos concorrem por sua atenção? | Subsídios de layout espacial para o futuro protótipo de papel |
+| AT-Q5 | Dimensões 2 e 3 | Como o participante espera diferenciar comentários gerais de perguntas a oradores específicos e quais controles visuais seriam mais intuitivos? | Subsídios de layout espacial para o futuro protótipo de papel |
 
 <p class="caption">Tabela 2 — Perguntas de avaliação da HTA e evidências pretendidas.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -76,10 +78,10 @@ Para orientar a condução da entrevista semiestruturada com o participante dura
 
 | Nº | Foco na HTA | Pergunta formulada ao participante | Objetivo da pergunta | Resposta esperada |
 | :---: | :--- | --- | --- | --- |
-| **P01** | Contextualização | Você já participou ou votou em alguma consulta pública no e-Cidadania ou outro portal governamental? Como costuma acessar? | Validar a adequação do participante ao perfil de Letícia Oliveira. | Resposta aberta qualitativa. |
-| **P02** | Subtarefas gerais | Observando a árvore da HTA, a divisão nas quatro etapas (Acessar, Localizar, Avaliar e Registrar) reflete a sua linha de raciocínio ao votar? | Validar a completude do objetivo 0 e a clareza das subtarefas 1 a 4. | Escala binária (Sim/Não) com justificativa. |
-| **P03** | Planos e atalhos | Em relação ao Plano 1, quando você recebe um link no WhatsApp/Telegram (1.3), costuma abri-lo direto ou prefere buscar pelo Google/Portal (1.1 e 1.2)? | Validar a representação da alternância lógica no Plano 1. | Escolha de preferência com relato de hábito. |
-| **P04** | Ponto crítico (4.1) | Ao abrir a tela da proposição, você já sentiu hesitação ou dificuldade para achar onde clicar para votar (operação 4.1)? | Confirmar empiricamente a criticidade do ponto destacado na HTA. | Escala Likert de 1 a 5 (1 = Muito fácil a 5 = Muito difícil). |
+| **P01** | Contextualização | Você já acompanhou ou participou de alguma audiência pública interativa no e-Cidadania ou outro portal governamental? Como costuma acessar? | Validar a adequação do participante ao perfil de Letícia Oliveira. | Resposta aberta qualitativa. |
+| **P02** | Subtarefas gerais | Observando a árvore da HTA, a divisão nas quatro etapas (Acessar a audiência, Estruturar/direcionar manifestação, Autenticar/submeter e Monitorar triagem) reflete a sua linha de raciocínio ao enviar uma pergunta ao vivo? | Validar a completude do objetivo 0 e a clareza das subtarefas 1 a 4. | Escala binária (Sim/Não) com justificativa. |
+| **P03** | Planos e atalhos | Em relação ao Plano 1, quando você recebe um link de transmissão no WhatsApp/Telegram (1.4), costuma abri-lo direto ou prefere buscar pelo portal e filtrar eventos (1.1 a 1.3)? | Validar a representação da alternância lógica no Plano 1. | Escolha de preferência com relato de hábito. |
+| **P04** | Ponto crítico (2.2) | Ao formular uma pergunta para ser lida pelos senadores ou palestrantes, você já sentiu receio ou dificuldade sobre onde indicar que se trata de uma pergunta direcionada e não só um comentário solto no chat (operação 2.2)? | Confirmar a percepção da necessidade da proposta de reprojeto. | Escala Likert de 1 a 5 (1 = Muito fácil a 5 = Muito difícil). |
 | **P05** | Completude | Existe alguma ação indispensável que você realiza e que não está nesta árvore, ou alguma operação que parece desnecessária? | Mapear lacunas e calibrar o nível de detalhamento do modelo. | Resposta aberta de acréscimo ou supressão. |
 
 <p class="caption">Tabela 3 — Roteiro de perguntas da entrevista de validação da HTA.</p>
@@ -91,8 +93,8 @@ O método selecionado é a **investigação por entrevista semiestruturada apoia
 
 - **Justificativa técnica:** a validação de modelo não exige observação em laboratório com software rodando, pois o objetivo é averiguar se as intenções, objetivos e operações descritas no modelo batem com a prática real de quem realiza a tarefa. A entrevista permite flexibilidade para aprofundar hesitações e explorar operações ausentes.
 - **Restrições operacionais:**
-  - *Prazo:* a avaliação cabe no intervalo entre a apresentação da Etapa 4 (15/10/2026) e a entrega da Etapa 5 (25/10/2026);
-  - *Orçamento:* custo zero, utilizando infraestrutura já disponível (Google Meet, laboratório da FCTE/UnB e notebook do avaliador);
+  - *Prazo:* a avaliação cabe no intervalo entre a apresentação da Etapa 4 e a entrega da Etapa 5 (25/10/2026);
+  - *Orçamento:* custo zero, utilizando infraestrutura já disponível (laboratório da FCTE/UnB e notebook do avaliador);
   - *Equipamentos:* notebook do avaliador para exibição do diagrama ampliado, roteiro impresso e gravação de áudio em celular;
   - *Experiência do avaliador:* estudante de Engenharia de Software capacitado em técnicas de entrevista e observação na Etapa 2.
 
@@ -102,13 +104,13 @@ O método selecionado é a **investigação por entrevista semiestruturada apoia
 
 ### Participantes e recrutamento
 
-- **Perfil dos participantes:** cidadãos entre 18 e 30 anos que atuam em movimentos sociais ou coletivos universitários, que já participaram ou têm interesse em consultas legislativas e usam computador pessoal com frequência — o perfil sintetizado na persona Letícia Oliveira.
+- **Perfil dos participantes:** cidadãos entre 18 e 30 anos que atuam em movimentos sociais ou coletivos universitários, que já participaram ou têm interesse em consultas legislativas e audiências públicas, e usam computador pessoal com frequência — o perfil sintetizado na persona Letícia Oliveira.
 - **Estratégia de recrutamento:** convite direto à participante P3 da Etapa 2 (garantindo continuidade longitudinal) e, por indicação em rede (snowballing), a outros integrantes de coletivos e estudantes da FCTE/UnB.
 - **Quantidade e justificativa:** **3 participantes** (dado fechado de planejamento). Nielsen (2000) e Krug (2014) demonstram que 3 a 5 participantes são suficientes para revelar a grande maioria dos problemas qualitativos de interação e validar modelos conceituais em ciclos formativos ágeis. Como se trata de validação conceitual e não de teste estatístico, 3 participantes cabem perfeitamente no cronograma da disciplina.
 
 ### Modalidade e ambiente
 
-- **Modalidade:** sessões presenciais no Laboratório de Informática da FCTE/UnB ou remotas via Google Meet (para participantes com restrição de deslocamento), com compartilhamento de tela dos diagramas em alta resolução.
+- **Modalidade:** sessões presenciais no Laboratório de Informática da FCTE/UnB, com projeção dos diagramas em alta resolução.
 - **Duração prevista:** 40 minutos por sessão (5 min de acolhimento e TCLE, 15 min de discussão da HTA, 15 min de Storyboard e 5 min de encerramento).
 
 ### Cronograma de execução da avaliação
@@ -117,10 +119,10 @@ A Tabela 4 fixa as datas, horários e locais fechados das sessões de avaliaçã
 
 | Atividade | Avaliador | Participante / Perfil | Data | Horário (Brasília) | Local / Plataforma |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| **Teste piloto** | Heitor Pinheiro | Estudante da FCTE/UnB (fora da amostra oficial) | 19/10/2026 | 14h00–14h40 | FCTE/UnB |
-| **Sessão 1** | Heitor Pinheiro | P1 — Liderança comunitária (perfil Letícia) | 20/10/2026 | 14h00–14h40 | Presencial (FCTE/UnB) |
-| **Sessão 2** | Heitor Pinheiro | P2 — Integrante de movimento social (perfil Letícia) | 20/10/2026 | 15h00–15h40 | Presencial (FCTE/UnB) |
-| **Sessão 3** | Heitor Pinheiro | P3 — Participante da Etapa 2 / Coletivo estudantil | 21/10/2026 | 19h00–19h40 | Remota (Google Meet) |
+| **Teste piloto** | Heitor Pinheiro | Estudante da FCTE/UnB (fora da amostra oficial) | 24/10/2026 | 15h30–16h10 | Presencial (FCTE/UnB) |
+| **Sessão 1** | Heitor Pinheiro | P1 — Liderança comunitária (perfil Letícia) | 24/10/2026 | 16h30–17h10 | Presencial (FCTE/UnB) |
+| **Sessão 2** | Heitor Pinheiro | P2 — Integrante de movimento social (perfil Letícia) | 24/10/2026 | 17h30–18h10 | Presencial (FCTE/UnB) |
+| **Sessão 3** | Heitor Pinheiro | P3 — Participante da Etapa 2 / Coletivo estudantil | 24/10/2026 | 18h30–19h10 | Presencial (FCTE/UnB) |
 
 <p class="caption">Tabela 4 — Cronograma oficial de execução das avaliações.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -129,7 +131,7 @@ A Tabela 4 fixa as datas, horários e locais fechados das sessões de avaliaçã
 
 O teste piloto consiste em um ensaio prévio e em pequena escala da sessão de avaliação, destinado a verificar se os instrumentos de coleta, o roteiro de perguntas, os diagramas visuais, os equipamentos de gravação e a gestão do tempo operam conforme o planejado (BARBOSA; SILVA, 2010, p. 278, p. 307–308).
 
-O ensaio piloto ocorrerá em **19/10/2026, das 14h00 às 14h40, na FCTE/UnB**, com um estudante de perfil próximo que não faz parte da amostra oficial.
+O ensaio piloto ocorrerá em **24/10/2026, das 15h30 às 16h10, na FCTE/UnB**, com um estudante de perfil próximo que não faz parte da amostra oficial.
 
 !!! warning "Uso exclusivo do resultado do teste piloto"
     **O resultado do teste piloto servirá exclusivamente para calibrar os instrumentos, a linguagem das perguntas e o ambiente de teste; portanto, os dados e achados do teste piloto NÃO serão apresentados nem contabilizados no relato final dos resultados da avaliação.**
@@ -137,7 +139,7 @@ O ensaio piloto ocorrerá em **19/10/2026, das 14h00 às 14h40, na FCTE/UnB**, c
 ### Papel do avaliador durante a sessão
 
 Durante as sessões, o avaliador (Heitor Pinheiro) deverá:
-1. **Anotar divergências e sugestões:** registrar cada hesitação, contradição ou operação ausente, associando-a imediatamente ao identificador da operação da HTA (ex.: 4.1);
+1. **Anotar divergências e sugestões:** registrar cada hesitação, contradição ou operação ausente, associando-a imediatamente ao identificador da operação da HTA (ex.: 2.2);
 2. **Priorizar problemas:** classificar preliminarmente os atritos observados por ordem de gravidade para alimentar o plano de reprojeto do protótipo de papel;
 3. **Não induzir respostas:** formular questões neutras ("Como você procede quando chega nesta etapa?") em vez de perguntas tendenciosas ("Você clica aqui, certo?");
 4. **Respeitar o ritmo do participante:** permitir pausas para análise do diagrama e conceder tempo hábil para reflexão espontânea.
@@ -159,11 +161,11 @@ Em respeito irrestrito à Resolução CNS nº 510/2016 e às diretrizes éticas 
     **Disciplina:** Interação Humano-Computador (2026.2) — Professor Responsável: Dr. André Barros de Sales  
     **Avaliador Responsável:** Heitor Pinheiro Gonçalves das Chagas  
 
-    **1. Objetivos da Avaliação:** Você está sendo convidado(a) a participar de uma sessão de validação da Análise Hierárquica de Tarefas (HTA) referente à votação em consultas públicas no Portal e-Cidadania. O objetivo é aprimorar a qualidade de uso e a acessibilidade da interface pública do Senado Federal.
+    **1. Objetivos da Avaliação:** Você está sendo convidado(a) a participar de uma sessão de validação da Análise Hierárquica de Tarefas (HTA) referente à participação em audiências públicas e eventos interativos no Portal e-Cidadania. O objetivo é aprimorar a qualidade de uso, a estruturação e o direcionamento de perguntas técnicas na interface pública do Senado Federal.
 
     **2. Procedimentos:** A atividade terá duração média de 40 minutos. O avaliador exibirá o diagrama hierárquico e conduzirá uma entrevista semiestruturada. Não se trata de uma avaliação das suas habilidades, mas sim da clareza dos artefatos de IHC.
 
-    **3. Riscos e Benefícios:** Os riscos são mínimos, equivalentes aos de atividades rotineiras no computador. Não há qualquer custo financeiro ou risco à sua integridade moral ou física. O benefício é contribuir diretamente para o design de soluções de governo eletrônico mais acessíveis.
+    **3. Riscos e Benefícios:** Os riscos são mínimos, equivalentes aos de atividades rotineiras no computador. Não há qualquer custo financeiro ou risco à sua integridade moral ou física. O benefício é contribuir diretamente para o design de soluções de governo eletrônico mais acessíveis e eficientes.
 
     **4. Confidencialidade e Voluntariedade:** Sua participação é estritamente voluntária. É garantido o direito de recusar perguntas ou interromper a sessão a qualquer instante. Seus dados serão mantidos em sigilo e publicados somente de forma anonimizada (ex.: Participante P1).
 
@@ -175,7 +177,7 @@ Em respeito irrestrito à Resolução CNS nº 510/2016 e às diretrizes éticas 
     [ &nbsp; ] AUTORIZO a gravação de áudio/vídeo da sessão.  
     [ &nbsp; ] NÃO AUTORIZO a gravação audiovisual (apenas anotações manuais).  
 
-    Brasília-DF, _____ de outubro de 2026.  
+    Brasília-DF, 24 de outubro de 2026.  
     Assinatura do Participante: ____________________________________________________  
     Assinatura do Avaliador Responsável: __________________________________________
 
@@ -201,13 +203,13 @@ A Tabela 5 consolida os objetivos, as partes interessadas, as métricas consensu
 
 | Dimensão metodológica | Especificação no projeto |
 | --- | --- |
-| **Objetivo da análise HTA** | **Modificar e aperfeiçoar um sistema existente** (módulo e-Cidadania do Senado Federal), diagnosticando atritos de usabilidade no fluxo atual de votação para fundamentar o reprojeto no método de prototipação em papel (Etapa 5). |
-| **Objetivo do usuário** | Localizar a consulta pública do Projeto de Lei nº 1215/2025 e registrar o voto favorável ("Sim") no e-Cidadania para fortalecer pauta de interesse social. |
-| **Partes interessadas (stakeholders)** | Cidadãos mobilizados e lideranças comunitárias (persona Letícia Oliveira), analistas de IHC/avaliadores (Heitor Pinheiro) e equipe gestora do Senado Federal. |
-| **Medidas de sucesso mensuráveis acordadas** | • **Tempo máximo para concluir:** $\le 2$ minutos (120 s) entre a abertura da matéria e a emissão do comprovante;<br>• **Frequência de erros ao localizar a votação (CTA):** 0 erros na interface reprojetada (na interface atual constatou-se 1 erro crítico de varredura com hesitação $> 40$ s na operação 4.1);<br>• **Taxa de eficácia de autenticação:** 100% de sucesso na confirmação do voto via gov.br. |
-| **Evidência objetiva de sucesso** | Registro formal do voto no banco de dados do e-Cidadania e emissão do feedback visual com comprovante na tela: *"Voto registrado com sucesso no PL 1215/2025"*. |
-| **Consequência da falha** | Frustração do cidadão, abandono da consulta pública sem votar, sensação de ineficácia da participação popular e distorção da representatividade democrática. |
-| **Fontes de dados e métodos de aquisição** | Observação direta com protocolo de relato em voz alta (*think aloud*) da participante P3 em 27/09/2026, entrevista semiestruturada retrospectiva e inspeção documental da plataforma. |
+| **Objetivo da análise HTA** | **Modificar e aperfeiçoar um sistema existente** (módulo Eventos Interativos do e-Cidadania), diagnosticando atritos de usabilidade no envio e direcionamento de perguntas técnicas em audiências públicas ao vivo para fundamentar o reprojeto no método de prototipação em papel (Etapa 5). |
+| **Objetivo do usuário** | Enviar questionamento técnico fundamentado direcionado a orador em audiência pública da CRA sobre a regulamentação do PL 1215/2025 para qualificar o debate legislativo. |
+| **Partes interessadas (stakeholders)** | Cidadãos mobilizados e lideranças comunitárias (persona Letícia Oliveira), analistas de IHC/avaliadores (Heitor Pinheiro) e equipe gestora do Senado Federal / CRA. |
+| **Medidas de sucesso mensuráveis acordadas** | • **Tempo máximo para concluir:** $\le 3$ minutos (180 s) entre a abertura da audiência e a confirmação de envio da pergunta;<br>• **Frequência de erros ao parametrizar o direcionamento ao orador:** **meta de 0 erros** na interface reprojetada. A medição na interface atual fica **a coletar na Etapa 5**, com a hipótese da operação 2.2 declarada como hipótese a verificar;<br>• **Taxa de eficácia de autenticação:** 100% de sucesso na confirmação do envio via gov.br. |
+| **Evidência objetiva de sucesso** | Pergunta listada com status equivalente a "aprovada para leitura", vinculada ao orador escolhido, e exibição do comprovante visual de submissão na tela. |
+| **Consequência da falha** | Pergunta técnica tratada como comentário geral disperso sem leitura pela mesa, perda de incidência política da comunidade camponesa e frustração da participação cidadã. |
+| **Fontes de dados e métodos de aquisição** | Análise de tarefas e cenário da persona Letícia Oliveira, inspeção documental e comportamental do módulo de Eventos Interativos do e-Cidadania (acesso em 24 out. 2026). |
 
 <p class="caption">Tabela 5 — Definição da tarefa, consenso sobre medidas de sucesso e fontes de dados.</p>
 <p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 195–196).</p>
@@ -215,19 +217,19 @@ A Tabela 5 consolida os objetivos, as partes interessadas, as métricas consensu
 ### Decomposição de objetivos: critérios de exclusividade e exaustão
 
 A decomposição do Objetivo 0 nos subobjetivos 1 a 4 atende estritamente às diretrizes de Barbosa e Silva (2010, p. 195–196):
-- **Mutuamente exclusivos:** os subobjetivos 1 (*Acessar o e-Cidadania*), 2 (*Localizar a proposição*), 3 (*Avaliar a matéria*) e 4 (*Registrar o voto*) delimitam fronteiras operacionais bem definidas, sem redundâncias ou sobreposições funcionais no mesmo nível hierárquico;
+- **Mutuamente exclusivos:** os subobjetivos 1 (*Acessar a audiência interativa*), 2 (*Estruturar e direcionar a manifestação*), 3 (*Autenticar e submeter à mesa*) e 4 (*Monitorar triagem e orientar o coletivo*) delimitam fronteiras operacionais bem definidas, sem redundâncias ou sobreposições funcionais no mesmo nível hierárquico;
 - **Exaustivos:** a execução sequencial desses quatro subobjetivos define completamente o escopo da tarefa global; se o participante executá-los conforme os planos, o objetivo 0 estará integralmente atingido sem depender de etapas não documentadas.
 
 ### Representação da decomposição e planos de execução
 
 A representação da HTA é realizada em duas visões complementares (BARBOSA; SILVA, 2010, p. 195–196): o **diagrama hierárquico em árvore** (Figura 1) e a **tabela estruturada de detalhamento** (Tabela 6).
 
-A Figura 1 apresenta o diagrama em árvore da HTA da tarefa de votar em consulta pública no e-Cidadania.
+A Figura 1 apresenta o diagrama em árvore da HTA da tarefa de envio de pergunta técnica em audiência pública no e-Cidadania.
 
 <div class="hta-diagram">
-  <svg viewBox="0 0 1200 618" role="img" aria-labelledby="hta-title hta-desc">
-    <title id="hta-title">Diagrama da HTA: votar em consulta pública no e-Cidadania</title>
-    <desc id="hta-desc">Objetivo 0 com plano 1 > 2 > 3 > 4, dividido em: 1 Acessar o e-Cidadania (1.1, 1.2, 1.3); 2 Localizar a proposição (2.1, 2.2); 3 Avaliar a matéria (3.1, 3.2); 4 Registrar o voto (4.1 a 4.4), com 4.1 destacada como ponto crítico.</desc>
+  <svg viewBox="0 0 1200 620" role="img" aria-labelledby="hta-title hta-desc">
+    <title id="hta-title">Diagrama da HTA: enviar pergunta técnica a orador em audiência pública no e-Cidadania</title>
+    <desc id="hta-desc">Objetivo 0 com plano 1 > 2 > 3 > 4, dividido em: 1 Acessar a audiência interativa (1.1 a 1.4); 2 Estruturar e direcionar manifestação (2.1 a 2.3); 3 Autenticar e submeter à mesa (3.1 e 3.2); 4 Monitorar triagem e orientar o coletivo (4.1 e 4.2). Operação 2.2 destacada como ponto crítico e proposta de reprojeto.</desc>
 
     <!-- Conectores do objetivo 0 às subtarefas -->
     <g stroke="#4a5a6a" stroke-width="2" fill="none">
@@ -238,137 +240,136 @@ A Figura 1 apresenta o diagrama em árvore da HTA da tarefa de votar em consulta
       <line x1="750" y1="116" x2="750" y2="140"/>
       <line x1="1050" y1="116" x2="1050" y2="140"/>
       <!-- Hastes das operações -->
-      <polyline points="30,210 30,377"/>
-      <line x1="30" y1="283" x2="45" y2="283"/><line x1="30" y1="330" x2="45" y2="330"/><line x1="30" y1="377" x2="45" y2="377"/>
-      <polyline points="330,210 330,330"/>
-      <line x1="330" y1="283" x2="345" y2="283"/><line x1="330" y1="330" x2="345" y2="330"/>
+      <polyline points="30,210 30,424"/>
+      <line x1="30" y1="283" x2="45" y2="283"/><line x1="30" y1="330" x2="45" y2="330"/><line x1="30" y1="377" x2="45" y2="377"/><line x1="30" y1="424" x2="45" y2="424"/>
+      <polyline points="330,210 330,377"/>
+      <line x1="330" y1="283" x2="345" y2="283"/><line x1="330" y1="330" x2="345" y2="330"/><line x1="330" y1="377" x2="345" y2="377"/>
       <polyline points="630,210 630,330"/>
       <line x1="630" y1="283" x2="645" y2="283"/><line x1="630" y1="330" x2="645" y2="330"/>
-      <polyline points="930,210 930,424"/>
-      <line x1="930" y1="283" x2="945" y2="283"/><line x1="930" y1="330" x2="945" y2="330"/><line x1="930" y1="377" x2="945" y2="377"/><line x1="930" y1="424" x2="945" y2="424"/>
+      <polyline points="930,210 930,330"/>
+      <line x1="930" y1="283" x2="945" y2="283"/><line x1="930" y1="330" x2="945" y2="330"/>
     </g>
 
     <!-- Objetivo 0 -->
-    <rect x="370" y="20" width="460" height="72" rx="8" fill="#00305c"/>
-    <text x="600" y="50" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">0. Votar em consulta pública no e-Cidadania</text>
+    <rect x="330" y="20" width="540" height="72" rx="8" fill="#00305c"/>
+    <text x="600" y="50" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">0. Enviar pergunta técnica direcionada a orador em audiência no e-Cidadania</text>
     <text x="600" y="76" text-anchor="middle" fill="#faa731" font-size="14" font-family="IBM Plex Mono, monospace">plano 0: 1 &gt; 2 &gt; 3 &gt; 4</text>
 
     <!-- Subtarefas -->
-    <g font-size="15" font-weight="700" text-anchor="middle">
+    <g font-size="14" font-weight="700" text-anchor="middle">
       <rect x="15" y="140" width="270" height="70" rx="8" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
-      <text x="150" y="168" fill="#00305c">1. Acessar o e-Cidadania</text>
+      <text x="150" y="168" fill="#00305c">1. Acessar audiência interativa</text>
       <rect x="315" y="140" width="270" height="70" rx="8" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
-      <text x="450" y="168" fill="#00305c">2. Localizar a proposição</text>
+      <text x="450" y="168" fill="#00305c">2. Estruturar e direcionar</text>
       <rect x="615" y="140" width="270" height="70" rx="8" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
-      <text x="750" y="168" fill="#00305c">3. Avaliar a matéria</text>
+      <text x="750" y="168" fill="#00305c">3. Autenticar e submeter</text>
       <rect x="915" y="140" width="270" height="70" rx="8" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
-      <text x="1050" y="168" fill="#00305c">4. Registrar o voto</text>
+      <text x="1050" y="168" fill="#00305c">4. Monitorar e orientar</text>
     </g>
-    <g font-size="12.5" text-anchor="middle" fill="#005b9e" font-family="IBM Plex Mono, monospace">
-      <text x="150" y="194">plano 1: 1.1 &gt; 1.2 / 1.3</text>
-      <text x="450" y="194">plano 2: 2.1 &gt; 2.2</text>
+    <g font-size="12" text-anchor="middle" fill="#005b9e" font-family="IBM Plex Mono, monospace">
+      <text x="150" y="194">plano 1: 1.1 &gt; 1.2 &gt; 1.3 / 1.4</text>
+      <text x="450" y="194">plano 2: 2.1 &gt; 2.2 &gt; 2.3</text>
       <text x="750" y="194">plano 3: 3.1 &gt; 3.2</text>
-      <text x="1050" y="194">plano 4: 4.1 &gt; 4.2 &gt; 4.3 (&gt; 4.4)</text>
+      <text x="1050" y="194">plano 4: 4.1 (&gt; 4.2)</text>
     </g>
 
-    <!-- Operações: retângulo + linha inferior -->
-    <g font-size="13" fill="#1b1b1b">
+    <!-- Operações -->
+    <g font-size="12.5" fill="#1b1b1b">
       <!-- Coluna 1 -->
       <rect x="45" y="260" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="45" y1="306" x2="285" y2="306" stroke="#00305c" stroke-width="3"/>
-      <text x="57" y="288">1.1 Buscar "e-Cidadania" no navegador</text>
+      <text x="57" y="288">1.1 Acessar "Eventos Interativos"</text>
       <rect x="45" y="307" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="45" y1="353" x2="285" y2="353" stroke="#00305c" stroke-width="3"/>
-      <text x="57" y="335">1.2 Abrir página do e-Cidadania</text>
-      <rect x="45" y="354" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
+      <text x="57" y="335">1.2 Filtrar eventos CRA em andamento</text>
+      <rect x="45" y="354" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="45" y1="400" x2="285" y2="400" stroke="#00305c" stroke-width="3"/>
-      <text x="57" y="382">1.3 Abrir link recebido em mensagem</text>
+      <text x="57" y="382">1.3 Abrir audiência do PL 1215/2025</text>
+      <rect x="45" y="401" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
+      <line x1="45" y1="447" x2="285" y2="447" stroke="#00305c" stroke-width="3"/>
+      <text x="57" y="429">1.4 Abrir link direto da transmissão</text>
 
       <!-- Coluna 2 -->
       <rect x="345" y="260" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="345" y1="306" x2="585" y2="306" stroke="#00305c" stroke-width="3"/>
-      <text x="357" y="288">2.1 Digitar "PL 1215/2025" na busca</text>
-      <rect x="345" y="307" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
+      <text x="357" y="288">2.1 Redigir questionamento no campo</text>
+      <rect x="345" y="307" width="240" height="46" rx="6" fill="#fff5f5" stroke="#b91c1c" stroke-width="3"/>
       <line x1="345" y1="353" x2="585" y2="353" stroke="#00305c" stroke-width="3"/>
-      <text x="357" y="335">2.2 Selecionar o PL nos resultados</text>
+      <text x="357" y="335" font-weight="700" fill="#b91c1c">2.2 Mudar para "Pergunta a Orador" ⚠</text>
+      <rect x="345" y="354" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
+      <line x1="345" y1="400" x2="585" y2="400" stroke="#00305c" stroke-width="3"/>
+      <text x="357" y="382">2.3 Selecionar orador destinatário</text>
 
       <!-- Coluna 3 -->
       <rect x="645" y="260" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="645" y1="306" x2="885" y2="306" stroke="#00305c" stroke-width="3"/>
-      <text x="657" y="288">3.1 Ler título e ementa</text>
+      <text x="657" y="288">3.1 Autenticar civilmente via gov.br</text>
       <rect x="645" y="307" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="645" y1="353" x2="885" y2="353" stroke="#00305c" stroke-width="3"/>
-      <text x="657" y="335">3.2 Definir voto favorável ("Sim")</text>
+      <text x="657" y="335">3.2 Revisar dados e confirmar envio</text>
 
       <!-- Coluna 4 -->
-      <rect x="945" y="260" width="240" height="46" rx="6" fill="#fff5f5" stroke="#b91c1c" stroke-width="3"/>
+      <rect x="945" y="260" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
       <line x1="945" y1="306" x2="1185" y2="306" stroke="#00305c" stroke-width="3"/>
-      <text x="957" y="288" font-weight="700" fill="#b91c1c">4.1 Localizar a área de votação ⚠</text>
-      <rect x="945" y="307" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
+      <text x="957" y="288">4.1 Acompanhar status no painel</text>
+      <rect x="945" y="307" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
       <line x1="945" y1="353" x2="1185" y2="353" stroke="#00305c" stroke-width="3"/>
-      <text x="957" y="335">4.2 Clicar na opção "Sim"</text>
-      <rect x="945" y="354" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
-      <line x1="945" y1="400" x2="1185" y2="400" stroke="#00305c" stroke-width="3"/>
-      <text x="957" y="382">4.3 Autenticar e confirmar o voto</text>
-      <rect x="945" y="401" width="240" height="46" rx="6" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
-      <line x1="945" y1="447" x2="1185" y2="447" stroke="#00305c" stroke-width="3"/>
-      <text x="957" y="429">4.4 Compartilhar link com instrução</text>
+      <text x="957" y="335">4.2 Enviar alerta/instrução ao grupo</text>
     </g>
 
-    <!-- Legenda com altura corrigida para não transbordar -->
+    <!-- Legenda -->
     <g font-size="13" fill="#1b1b1b">
-      <rect x="15" y="500" width="1170" height="104" rx="8" fill="#ffffff" stroke="#cccccc"/>
-      <text x="35" y="526" font-weight="700" fill="#00305c">Legenda</text>
-      <rect x="35" y="540" width="40" height="22" rx="4" fill="#00305c"/>
-      <text x="83" y="556">Objetivo geral</text>
-      <rect x="200" y="540" width="40" height="22" rx="4" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
-      <text x="248" y="556">Subtarefa e plano</text>
-      <rect x="385" y="540" width="40" height="22" rx="4" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
-      <line x1="385" y1="562" x2="425" y2="562" stroke="#00305c" stroke-width="3"/>
-      <text x="433" y="556">Operação (observada)</text>
-      <rect x="600" y="540" width="40" height="22" rx="4" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
-      <text x="648" y="556">Operação relatada, não observada</text>
-      <rect x="890" y="540" width="40" height="22" rx="4" fill="#fff5f5" stroke="#b91c1c" stroke-width="3"/>
-      <text x="938" y="556">Ponto crítico de usabilidade</text>
-      <text x="35" y="596" font-size="12" fill="#4a5a6a" font-family="IBM Plex Mono, monospace">"&gt;" sequência · "/" alternativa · "( )" opcional</text>
+      <rect x="15" y="490" width="1170" height="114" rx="8" fill="#ffffff" stroke="#cccccc"/>
+      <text x="35" y="516" font-weight="700" fill="#00305c">Legenda</text>
+      <rect x="35" y="530" width="40" height="22" rx="4" fill="#00305c"/>
+      <text x="83" y="546">Objetivo geral</text>
+      <rect x="200" y="530" width="40" height="22" rx="4" fill="#e6eef5" stroke="#005b9e" stroke-width="2"/>
+      <text x="248" y="546">Subtarefa e plano</text>
+      <rect x="385" y="530" width="40" height="22" rx="4" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5"/>
+      <line x1="385" y1="552" x2="425" y2="552" stroke="#00305c" stroke-width="3"/>
+      <text x="433" y="546">Operação prevista/observada</text>
+      <rect x="630" y="530" width="40" height="22" rx="4" fill="#ffffff" stroke="#4a5a6a" stroke-width="1.5" stroke-dasharray="6 4"/>
+      <text x="678" y="546">Operação relatada / opcional</text>
+      <rect x="880" y="530" width="40" height="22" rx="4" fill="#fff5f5" stroke="#b91c1c" stroke-width="3"/>
+      <text x="928" y="546">Ponto crítico / proposta reprojeto</text>
+      <text x="35" y="586" font-size="12" fill="#4a5a6a" font-family="IBM Plex Mono, monospace">"&gt;" sequência · "/" alternativa · "( )" opcional · 2.2, 2.3 e 4.1 integram proposta de reprojeto</text>
     </g>
   </svg>
 </div>
 
 <p class="caption">Figura 1 — Diagrama da Análise Hierárquica de Tarefas (HTA) de Letícia Oliveira.</p>
-<p class="source">Fonte: elaboração do autor (2026), com base na sessão de 27/09/2026 e na notação de Barbosa e Silva (2010, p. 193–194).</p>
+<p class="source">Fonte: elaboração do autor (2026), com base no e-Cidadania (acesso em 24 out. 2026) e na notação de Barbosa e Silva (2010, p. 193–194).</p>
 
-A Tabela 6 detalha cada objetivo, subtarefa e operação no formato da Tabela 6.3 de Barbosa e Silva (2010, p. 194–195), com a especificação formal de *input*, *ação*, *feedback*, problemas e recomendações.
+A Tabela 6 detalha cada objetivo, subtarefa e operação no formato da Tabela 6.3 de Barbosa e Silva (2010, p. 194–195), especificando *input*, *ação*, *feedback*, problemas da interface atual e propostas de reprojeto.
 
 | Objetivos / subtarefas / operações | Plano / relação lógica | Especificação (&lt;input, ação, feedback&gt;), problemas e recomendações |
 | --- | --- | --- |
-| **0. Votar em consulta pública no e-Cidadania** | **Plano 0:** 1 > 2 > 3 > 4 (sequência fixa) | **Input:** convocação do movimento social ou interesse cívico em apoiar a agricultura familiar.<br>**Ação:** cumprir o percurso completo de acesso, localização da proposição, leitura da ementa e votação.<br>**Feedback:** confirmação visual do voto registrado e exibição do comprovante na tela. |
-| **1. Acessar o e-Cidadania** | **Plano 1:** fazer (1.1 > 1.2) ou 1.3 (seleção) | **Input:** dispositivo conectado à internet e motivação para participar.<br>**Ação:** realizar a busca pelo portal institucional ou acessar via link recebido em aplicativo.<br>**Feedback:** tela inicial do e-Cidadania ou página da matéria legislativa carregada. |
-| &nbsp;&nbsp;1.1 Buscar "e-Cidadania Senado" no navegador <span class="badge-op">Operação</span> | Sequencial fixa | **Input:** aba do navegador aberta no smartphone ou computador.<br>**Ação:** digitar os termos "e-Cidadania Senado" no mecanismo de busca e acionar a pesquisa.<br>**Feedback:** lista de resultados de busca com o link oficial exibido no topo. Observado. |
-| &nbsp;&nbsp;1.2 Abrir a página do e-Cidadania <span class="badge-op">Operação</span> | Sequencial fixa | **Input:** link oficial do e-Cidadania retornado nos resultados da busca.<br>**Ação:** clicar ou tocar no link de acesso ao portal do Senado.<br>**Feedback:** página principal do portal e-Cidadania carregada na tela. Observado. |
-| &nbsp;&nbsp;1.3 Clicar em link direto recebido em mensagem <span class="badge-op">Operação</span> | Seleção alternativa a 1.1 > 1.2 | **Input:** notificação ou mensagem recebida no WhatsApp/Telegram contendo link direto da matéria.<br>**Ação:** clicar no hiperlink enviado no grupo comunitário.<br>**Feedback:** página da consulta pública do PL 1215/2025 aberta diretamente no navegador. Relatado na entrevista, não observado na sessão. |
-| **2. Localizar a proposição (PL 1215/2025)** | **Plano 2:** 2.1 > 2.2 (sequência fixa) | **Input:** página do e-Cidadania aberta com campo de busca visível.<br>**Ação:** pesquisar a proposição pelo identificador numérico e selecioná-la.<br>**Feedback:** página de consulta pública do PL 1215/2025 aberta. |
-| &nbsp;&nbsp;2.1 Digitar "PL 1215/2025" na busca <span class="badge-op">Operação</span> | Entrada de dados | **Input:** campo de busca textual no e-Cidadania.<br>**Ação:** digitar "PL 1215/2025" na caixa de pesquisa e submeter a consulta.<br>**Feedback:** lista de proposições correspondentes exibida com o PL em destaque. Observado: a participante achou fácil encontrar a matéria. |
-| &nbsp;&nbsp;2.2 Selecionar o PL nos resultados <span class="badge-op">Operação</span> | Seleção | **Input:** cartão ou link do PL 1215/2025 retornado na lista.<br>**Ação:** clicar no cartão da proposição legislativa.<br>**Feedback:** página de detalhamento da consulta pública carregada. Observado. |
-| **3. Avaliar a matéria** | **Plano 3:** 3.1 > 3.2 (sequência fixa) | **Input:** página da consulta pública do projeto carregada.<br>**Ação:** leitura do resumo legislativo e juízo de valor pessoal.<br>**Feedback:** decisão interna de voto estabelecida. |
-| &nbsp;&nbsp;3.1 Ler título e ementa <span class="badge-op">Operação</span> | Cognitiva | **Input:** cabeçalho e resumo legislativo do projeto visíveis na tela.<br>**Ação:** realizar leitura atenta do título e da ementa sobre crédito e aquisição de alimentos.<br>**Feedback:** compreensão cognitiva do mérito e teor da matéria. Observado: leitura rápida e sem atritos. |
-| &nbsp;&nbsp;3.2 Definir voto favorável ("Sim") <span class="badge-op">Operação</span> | Decisão interna | **Input:** ementa do projeto lida e compreendida.<br>**Ação:** realizar julgamento cognitivo e estabelecer a decisão interna de apoiar a proposta.<br>**Feedback:** intenção de voto "Sim" firmada internamente pelo participante. Observado. |
-| **4. Registrar o voto** | **Plano 4:** 4.1 > 4.2 > 4.3 (> 4.4) (sequência fixa com passo final opcional) | **Input:** intenção de votar favoravelmente ao projeto.<br>**Ação:** localizar os botões de ação, selecionar a opção, autenticar e compartilhar.<br>**Feedback:** voto computado no banco de dados e comprovante emitido. |
-| &nbsp;&nbsp;4.1 Localizar a área de votação na página <span class="badge-op">Operação</span> | Varredura visual | **Input:** página do PL 1215/2025 aberta e ementa lida pela participante.<br>**Ação:** realizar varredura visual e sucessivas rolagens de tela procurando onde clicar para votar.<br>**Feedback:** botões "Sim" e "Não" localizados no terço inferior da tela. Observado.<br><span class="badge-alert">Problema</span> A área de voto não possui destaque visual (*affordance* fraca), estando posicionada abaixo de blocos institucionais e gráficos de votação parcial, forçando varredura repetida e hesitação severa.<br><span class="badge-rec">Recomendação</span> Reposicionar os botões de ação ("Votar a Favor" / "Votar Contra") em local de destaque no topo (*above the fold*), logo abaixo da ementa, sem exigir rolagem de tela. |
-| &nbsp;&nbsp;4.2 Clicar na opção "Sim" <span class="badge-op">Operação</span> | Seleção | **Input:** botão "Sim" visível na área de votação.<br>**Ação:** clicar ou tocar na opção de voto favorável.<br>**Feedback:** opção visualmente selecionada e abertura do diálogo/modal solicitando autenticação. Observado. |
-| &nbsp;&nbsp;4.3 Autenticar e confirmar o voto <span class="badge-op">Operação</span> | Interação / segurança | **Input:** modal de autenticação solicitando identificação gov.br.<br>**Ação:** inserir credenciais e autorizar o registro do voto no sistema.<br>**Feedback:** mensagem de confirmação de voto computado e comprovante emitido na tela. Observado. |
-| &nbsp;&nbsp;4.4 Compartilhar link com instrução para a base <span class="badge-op">Operação</span> | Opcional / compensatória | **Input:** comprovante de voto emitido e consciência do atrito enfrentado na localização do botão.<br>**Ação:** copiar o link da consulta e enviar mensagem de áudio ou texto nos grupos comunitários alertando onde fica o botão de votar.<br>**Feedback:** mensagem de orientação enviada aos colegas de base. Relatado na entrevista como comportamento compensatório decorrente de falha de usabilidade. |
+| **0. Enviar pergunta técnica direcionada a orador em audiência no e-Cidadania** | **Plano 0:** 1 > 2 > 3 > 4 (sequência fixa) | **Input:** transmissão ao vivo da audiência da CRA sobre o PL 1215/2025 e demanda do coletivo camponês para enviar questionamento técnico à mesa.<br>**Ação:** cumprir o percurso de acesso à sala da audiência, redação e direcionamento da pergunta, autenticação civil e acompanhamento da triagem.<br>**Feedback:** confirmação visual do envio com identificação do destinatário e status de moderação. |
+| **1. Acessar a audiência interativa** | **Plano 1:** fazer (1.1 > 1.2 > 1.3) ou 1.4 (seleção) | **Input:** dispositivo conectado à internet e motivação para participar do debate.<br>**Ação:** navegar pelo portal até a audiência ou utilizar atalho direto.<br>**Feedback:** página da audiência pública aberta, com transmissão de vídeo e coluna de participação carregadas. |
+| &nbsp;&nbsp;1.1 Acessar o módulo "Eventos Interativos" <span class="badge-op">Operação</span> | Sequencial fixa | **Input:** página inicial do e-Cidadania aberta no navegador.<br>**Ação:** clicar na opção "Evento Interativo" no menu principal.<br>**Feedback:** página de pesquisa e listagem de audiências carregada (`principalaudiencia`). Observado no portal atual. |
+| &nbsp;&nbsp;1.2 Filtrar eventos da CRA em andamento <span class="badge-op">Operação</span> | Sequencial fixa | **Input:** painel de filtros visível na listagem de eventos.<br>**Ação:** selecionar a situação "Em andamento" e indicar a sigla "CRA" (Comissão de Agricultura e Reforma Agrária).<br>**Feedback:** lista de eventos filtrada exibindo a audiência da CRA em andamento. Observado no portal atual. |
+| &nbsp;&nbsp;1.3 Abrir a página da audiência sobre o PL 1215/2025 <span class="badge-op">Operação</span> | Sequencial fixa | **Input:** card da audiência pública sobre crédito e alimentos da agricultura familiar retornado na busca.<br>**Ação:** clicar no título do evento interativo.<br>**Feedback:** sala de transmissão carregada com vídeo ao vivo e painel de perguntas. Observado no portal atual. |
+| &nbsp;&nbsp;1.4 Acessar link direto recebido em grupo de mensagens <span class="badge-op">Operação</span> | Seleção alternativa a 1.1 > 1.2 > 1.3 | **Input:** notificação ou mensagem no WhatsApp/Telegram contendo link direto da transmissão.<br>**Ação:** clicar no link compartilhado no grupo do movimento social.<br>**Feedback:** página da audiência carregada diretamente. Relatada na entrevista como atalho rotineiro. |
+| **2. Estruturar e direcionar a manifestação** | **Plano 2:** 2.1 > 2.2 > 2.3 (sequência fixa) | **Input:** coluna de participação aberta e questionamento técnico formulado.<br>**Ação:** digitar o texto, definir a tipologia como pergunta a orador e vincular ao palestrante.<br>**Feedback:** dados parametrizados na interface de submissão. |
+| &nbsp;&nbsp;2.1 Redigir o questionamento técnico no campo de texto <span class="badge-op">Operação</span> | Entrada de dados | **Input:** campo de texto visível na coluna de participação.<br>**Ação:** digitar o questionamento técnico fundamentado sobre os impactos do PL 1215/2025.<br>**Feedback:** texto exibido na caixa de edição. Observado no portal atual (onde o usuário precisa escrever no corpo do texto o nome do destinatário devido à ausência de campos próprios). |
+| &nbsp;&nbsp;2.2 Alterar a categoria de "Comentário Geral" para "Pergunta a Orador" <span class="badge-op">Operação</span> | Seleção / Proposta de reprojeto | **Input:** controle seletor de modalidade de participação visível acima ou junto à caixa de texto.<br>**Ação:** selecionar a opção "Pergunta a Orador" (em vez do envio padrão como comentário genérico).<br>**Feedback:** interface exibe campos adicionais para escolha do destinatário. ⚠ **Ponto crítico e proposta de reprojeto:** no portal atual essa separação não existe, fazendo com que perguntas técnicas concorram em volume com comentários livres e corram risco de não serem triadas para leitura da mesa.<br><span class="badge-rec">Recomendação de reprojeto</span> Inserir controles explícitos (radio buttons ou abas visíveis) separando "Apenas comentar" e "Perguntar a um convidado/senador". |
+| &nbsp;&nbsp;2.3 Selecionar o senador/palestrante destinatário e o tópico em menu suspenso <span class="badge-op">Operação</span> | Seleção / Proposta de reprojeto | **Input:** menu suspenso alimentado com a lista de autoridades e convidados presentes na audiência da CRA.<br>**Ação:** selecionar o nome do relator/palestrante a quem a pergunta se destina.<br>**Feedback:** autoridade selecionada exibida como destinatária da mensagem. Proposta de reprojeto (no portal atual é digitado no texto livre). |
+| **3. Autenticar e submeter à mesa** | **Plano 3:** 3.1 > 3.2 (sequência fixa) | **Input:** pergunta redigida e direcionada ao orador.<br>**Ação:** autenticar credenciais civis e submeter os dados.<br>**Feedback:** mensagem submetida à fila de triagem da mesa. |
+| &nbsp;&nbsp;3.1 Autenticar a identidade civil por credenciais gov.br <span class="badge-op">Operação</span> | Interação / segurança | **Input:** solicitação de identificação do cidadão participante.<br>**Ação:** fornecer credenciais gov.br para validação da identidade.<br>**Feedback:** perfil do cidadão autenticado e validado para manifestação oficial. Observado no portal atual. |
+| &nbsp;&nbsp;3.2 Revisar os dados e confirmar o envio <span class="badge-op">Operação</span> | Confirmação | **Input:** diálogo de confirmação com resumo da pergunta e orador destinatário.<br>**Ação:** conferir os parâmetros e acionar o botão "Confirmar envio à mesa".<br>**Feedback:** comprovante de envio emitido na tela e campo limpo. Observado / previsto. |
+| **4. Monitorar triagem e orientar o coletivo** | **Plano 4:** 4.1 (> 4.2) (sequência fixa com passo final opcional) | **Input:** pergunta submetida e necessidade de acompanhar sua tramitação na audiência.<br>**Ação:** verificar o status no painel e orientar a base comunitária.<br>**Feedback:** acompanhamento do status e orientação transmitida aos pares. |
+| &nbsp;&nbsp;4.1 Acompanhar a mudança de status no painel <span class="badge-op">Operação</span> | Monitoramento / Proposta de reprojeto | **Input:** painel de acompanhamento pessoal de manifestações.<br>**Ação:** verificar a evolução de status da pergunta (ex.: "Em moderação" $\rightarrow$ "Aprovada para leitura pela mesa").<br>**Feedback:** indicador visual de status atualizado. Proposta de reprojeto: no portal atual o sistema exibe apenas confirmação geral e marcação no vídeo quando lida, sem painel estruturado de status pessoal para o autor. |
+| &nbsp;&nbsp;4.2 Enviar alerta ao grupo ensinando a ativar "Pergunta a Orador" <span class="badge-op">Operação</span> | Opcional / compensatória | **Input:** consciência de que o direcionamento exige selecionar a opção de pergunta a orador.<br>**Ação:** redigir e enviar mensagem nos grupos de WhatsApp/Telegram orientando os companheiros de movimento sobre como direcionar perguntas ao relator da CRA.<br>**Feedback:** mensagem de orientação colaborativa entregue aos membros do coletivo. Relatada na entrevista. |
 
-<p class="caption">Tabela 6 — Análise Hierárquica de Tarefas (HTA) da votação de Letícia Oliveira (Tabela 6.3 de Barbosa e Silva).</p>
-<p class="source">Fonte: elaboração do autor (2026), a partir da sessão de 27/09/2026; formato de Barbosa e Silva (2010, p. 194–195).</p>
-
+<p class="caption">Tabela 6 — Análise Hierárquica de Tarefas (HTA) da participação de Letícia Oliveira (Tabela 6.3 de Barbosa e Silva).</p>
+<p class="source">Fonte: elaboração do autor (2026), a partir da inspeção do e-Cidadania (acesso em 24 out. 2026); formato de Barbosa e Silva (2010, p. 194–195).</p>
 
 ## Agradecimentos
 
 Em consonância com as recomendações de integridade acadêmica da Sociedade Brasileira de Computação (SBC) e as diretrizes do Plano de Ensino da FCTE/UnB, registra-se a declaração formal do uso de ferramentas de Inteligência Artificial Generativa (Google Gemini e Claude, da Anthropic):
 - **Onde as ferramentas foram empregadas:** na assistência à redação do framework DECIDE, na estruturação de tabelas Markdown e no código dos gráficos vetoriais SVG (diagrama da árvore HTA);
 - **Facilidades:** alta agilidade na conversão para o padrão MkDocs Material e na renderização dos componentes vetoriais responsivos;
-- **Dificuldades e controle de qualidade:** tendência dos modelos a confundir o planejamento prospectivo da Etapa 4 com a execução da Etapa 5 e imprecisões no alinhamento fino das caixas SVG. Toda a coleta empírica prévia da Etapa 2, modelagem da tarefa e decisões do planejamento foram estritamente conduzidas e validadas pelo autor.
+- **Dificuldades e controle de qualidade:** tendência dos modelos a confundir o planejamento prospectivo da Etapa 4 com a execução da Etapa 5 e imprecisões no alinhamento fino das caixas SVG. Toda a concepção dos roteiros e validação técnica foram realizadas integralmente pelo autor.
 
 ## Histórico de versão
 
@@ -376,7 +377,7 @@ Em consonância com as recomendações de integridade acadêmica da Sociedade Br
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial do planejamento DECIDE da avaliação da HTA (Letícia Oliveira — PL 1215/2025) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento DECIDE com cronograma fechado, teste piloto, roteiro de perguntas (P01–P05), TCLE, diagrama SVG e tabela HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-
+| 2.0 | 24/10/2026 | Refatoração do escopo da tarefa para Participação em Evento Interativo (e-Cidadania), modelagem de reprojeto (2.2, 2.3, 4.1) e remarcação das gravações para 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 
@@ -392,7 +393,7 @@ Em consonância com as recomendações de integridade acadêmica da Sociedade Br
 
 [6] SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026.
 
-[7] SENADO FEDERAL. *Portal e-Cidadania: consulta pública sobre o PL 1215/2025*. Disponível em: <https://www12.senado.leg.br/ecidadania>. Acesso em: 27 set. 2026.
+[7] SENADO FEDERAL. *Portal e-Cidadania: eventos interativos e audiências públicas*. Disponível em: <https://www12.senado.leg.br/ecidadania/principalaudiencia>. Acesso em: 24 out. 2026.
 
 ## Apêndice A — Trechos do livro
 

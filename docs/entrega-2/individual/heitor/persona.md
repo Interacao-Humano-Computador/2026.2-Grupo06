@@ -20,6 +20,9 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Letícia Oliveira representa a pessoa usuária pertencente ao perfil de **Participante**, que atua em movimentos sociais e acompanha proposições legislativas relacionadas à reforma agrária, soberania alimentar e agricultura familiar no Portal do Senado Federal, especialmente no e-Cidadania. O rótulo prévio era o de cidadão com consulta pontual, mas a [sessão empírica](entrevista-observacao.md#resultados) revelou que o uso ocorre de maneira orientada por campanhas e mobilização em redes de contato: a usuária acessa o portal a partir de demandas coletivas para registrar seu voto em consultas públicas. Em 27/09/2026 a síntese do perfil foi apresentada à participante da sessão, que a validou. A persona atua como o ator principal do [cenário](cenario.md), e o elenco geral de personas da equipe está disponível em [elenco de personas](../../elenco-personas.md).
 
+!!! info "Nota de evolução de escopo na Etapa 4"
+    Os dados biográficos e sociotécnicos de Letícia Oliveira foram consolidados e validados empiricamente em 27/09/2026. Na Etapa 4, o escopo da tarefa principal de Letícia foi expandido para a **Participação em Eventos Interativos (audiência pública ao vivo da CRA sobre o PL 1215/2025)**, envolvendo o envio de questionamento técnico estruturado a oradores da mesa e orientação preventiva aos membros de sua organização.
+
 ## Descrição da persona
 
 Uma persona é um personagem fictício que representa um grupo de usuários com comportamentos, objetivos e características similares, evitando generalizações abstratas (BARBOSA; SILVA, 2010, p. 176). O método prescreve a atribuição de nome, idade e foto para tornar o perfil concreto e memorável, reservando os detalhes operacionais da tarefa para o [cenário](cenario.md) e a [análise de tarefas](analise-tarefas.md). Apenas o nome e a foto são fictícios; todo o comportamento reflete os dados empíricos obtidos na [entrevista e observação](entrevista-observacao.md#resultados). A Figura 1 apresenta o retrato fictício da persona.
@@ -103,6 +106,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.0` | 27/09/2026 | Elaboração completa da persona Letícia Oliveira fundamentada na sessão empírica e validada com a participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Confirma Letícia Oliveira como persona primária do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.3` | 24/10/2026 | Registra nota de evolução do escopo da persona para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 

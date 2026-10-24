@@ -480,6 +480,9 @@ Atende M1 e M5 em T5 (localizar a reunião e o resultado deliberado de forma aut
 
 Permitir o registro do voto em consulta pública sobre projeto de lei com foco imediato e sem perda de contexto na autenticação. Atende T3 (Letícia). Na sessão de teste com P3, a área de votação ficava escondida abaixo de textos institucionais e gráficos de votação parcial, exigindo rolagem exaustiva e gerando desorientação após o retorno do Gov.br (Tabela 7, linha 7).
 
+!!! info "Rastreabilidade de escopo na Etapa 4"
+    A tarefa da persona Letícia Oliveira evoluiu a partir da Etapa 4 para o módulo de **Eventos Interativos** (audiência pública ao vivo da CRA sobre o PL 1215/2025), aprofundando o envio e direcionamento técnico de perguntas a oradores e o acompanhamento de status de moderação. Os requisitos ergonômicos documentados nesta seção para a consulta pública permanecem como base conceitual e histórica da Etapa 3.
+
 #### Tela atual do portal
 
 A Figura 11 ilustra a consulta pública atual no e-Cidadania, destacando a posição dos botões de opinião e a disputa de atenção com gráficos e blocos institucionais.
@@ -678,6 +681,7 @@ O Claude Sonnet 5.5 (Anthropic) apoiou o levantamento das evidências da Etapa 2
 | `0.1` | 11/10/2026 | Abertura da página com o esqueleto das telas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 11/10/2026 | Preenchimento das seis telas com base nas evidências da Etapa 2 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 11/10/2026 | Integração das capturas reais do portal, refinamento dos mapas de elementos, confronto de interface e tabela de correspondência | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 24/10/2026 | Adiciona nota de rastreabilidade sobre a evolução do escopo da persona Letícia Oliveira na Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ---
 

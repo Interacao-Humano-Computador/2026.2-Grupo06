@@ -10,7 +10,7 @@ A Tabela 1 concentra a contribuição da Entrega 4. Cada linha é uma atividade,
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Storyboard, HTA e planejamentos (Perfil Professor — Rafael Almeida) | [Trabalho individual](../entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Storyboard, HTA e planejamentos (Perfil Proponente — Camila Nogueira) | [Trabalho individual](../entrega-4/caio/planejamento-avaliacao-storyboard.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Storyboard, HTA e planejamentos (Persona Letícia Oliveira — PL 1215/2025) | [Trabalho individual](../entrega-4/individual/heitor/planejamento-avaliacao-storyboard.md) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Storyboard, HTA e planejamentos (Participação em Evento Interativo — Letícia Oliveira / CRA PL 1215/2025) | [Trabalho individual](../entrega-4/individual/heitor/planejamento-avaliacao-storyboard.md) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Storyboard, HTA e planejamentos (Perfil Pesquisador — Mariana Costa) | [Trabalho individual](../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Criação da página de apresentação | Esta página |
 | Codex (OpenAI) | Apoio à padronização da apresentação e à correção dos participantes | [Agradecimentos](#agradecimentos) |
@@ -67,6 +67,7 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `1.0` | 13/10/2026 | Consolidação da página com roteiro de apresentação e resultados completos da autoverificação nas Tabelas 2, 3 e 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 15/10/2026 | Padroniza a apresentação, corrige os participantes e concentra a autoverificação na aba Verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.3` | 24/10/2026 | Atualiza escopo individual de Heitor Pinheiro para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 

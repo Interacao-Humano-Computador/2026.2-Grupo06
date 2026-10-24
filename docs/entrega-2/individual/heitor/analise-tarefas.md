@@ -20,6 +20,9 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Esta página modela a tarefa central do [cenário](cenario.md) utilizando duas técnicas consagradas de IHC: a **Análise Hierárquica de Tarefas (HTA)** e a **Árvore de Tarefas Concorrentes (CTT)**. Ambas as representações derivam diretamente dos dados empíricos coletados durante a [sessão de observação da tarefa e entrevista](entrevista-observacao.md#protocolo-de-observacao) realizada com a participante P3 em 27/09/2026. Quando se analisa um sistema em funcionamento, a análise de tarefas descreve detalhadamente o comportamento observável e as operações mentais da pessoa usuária (BARBOSA; SILVA, 2010, p. 191), permitindo identificar com precisão as falhas de usabilidade da interface atual do módulo e-Cidadania.
 
+!!! info "Nota de transição de escopo na Etapa 4"
+    A modelagem HTA e CTT apresentada nesta página reflete os dados empíricos observados na tarefa de consulta pública em 27/09/2026. A partir da Etapa 4, o escopo da tarefa foi refinado para a **Participação em Eventos Interativos (audiência pública ao vivo da CRA sobre o PL 1215/2025)**, com uma nova decomposição hierárquica desenvolvida para o envio de perguntas técnicas direcionadas a oradores e acompanhamento de status de moderação.
+
 ## Tarefa analisada
 
 Conforme orienta Diaper (2003 apud BARBOSA; SILVA, 2010, p. 195), a análise deve explicitar com clareza os objetivos do usuário e da avaliação, as evidências de sucesso e as consequências de eventuais falhas. A Tabela 2 sintetiza essas definições.
@@ -274,6 +277,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `0.1` | 27/09/2026 | Estruturação inicial da análise de tarefas e definição das legendas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 27/09/2026 | Elaboração completa da HTA e da CTT a partir da observação empírica com o PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.2` | 24/10/2026 | Adiciona nota de transição de escopo da tarefa para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 
