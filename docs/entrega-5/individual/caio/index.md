@@ -18,45 +18,46 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 O recorte de Caio melhora a experiência de **enviar e acompanhar uma ideia legislativa existente**: entrada pelo portal do Senado, revisão do texto, confirmação de recebimento e clareza dos estados. Dá continuidade à [persona Camila](../../../entrega-2/individual/caio/perfil-2/persona.md), à [HTA/CTT](../../../entrega-2/individual/caio/perfil-2/analise-tarefas.md) e ao [storyboard manual 1.1](../../../entrega-4/caio/storyboard.md).
 
-**Situação em 22/10/2026:** versão em elaboração, com perguntas, respostas, análise e recomendações organizadas. A conclusão dos relatos depende da inclusão dos vídeos, da conferência dos dados das sessões e da revisão humana. O procedimento está descrito em cada relato.
+**Situação em 24/10/2026:** o piloto com PP-PROP01 foi em 22/10. As sessões com PROP01 foram presenciais, em sequência, no mesmo dia: storyboard das 13h28 às 14h00 e análise de tarefas das 14h00 às 14h06. Os relatos trazem as gravações, a duração e os localizadores. A revisão é de Bruno Ferreira Dornelas.
 
 ## Artefatos
 
 A Tabela 2 reúne os quatro documentos exigidos para este recorte.
 
-| Artefato | Conteúdo preparado | Pendência para fechar a versão |
+| Artefato | Conteúdo | Revisor |
 | --- | --- | --- |
-| [Relato do storyboard](relato-storyboard.md) | Q1–Q7, respostas, análise dos quadros e recomendações RP01–RP04 | Gravação, metadados, localizadores e conferência |
-| [Relato da análise de tarefas](relato-analise-tarefas.md) | AT-Q1–AT-Q7, conferência AT-Q8/CT01–CT06 e proposta de revisão do modelo | Gravação, conferência humana e registro da versão efetivamente usada |
-| [Planejamento da avaliação do papel](planejamento-avaliacao-prototipo-papel.md) | DECIDE, papéis, telas, tarefas, critérios, piloto, agenda e ética | Construir folhas, confirmar equipe/participantes e executar o piloto |
-| [Planejamento do relato do papel](planejamento-relato-prototipo-papel.md) | Estrutura, fichas, análise, prioridades e controle dos ciclos | Executar e relatar na Etapa 6 |
+| [Relato do storyboard](relato-storyboard.md) | Q1–Q7, respostas, análise dos quadros, recomendações RP01–RP04 e vídeo de 6 min 31 s | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| [Relato da análise de tarefas](relato-analise-tarefas.md) | AT-Q1–AT-Q7, conferência AT-Q8/CT01–CT06, acréscimo sobre acompanhamento e vídeo de 6 min | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| [Planejamento da avaliação do papel](planejamento-avaliacao-prototipo-papel.md) | DECIDE, papéis, telas, tarefas, critérios, piloto, agenda e ética | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| [Planejamento do relato do papel](planejamento-relato-prototipo-papel.md) | Estrutura, fichas, análise, prioridades e controle dos ciclos da Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 <p class="caption">Tabela 2 — Entregas individuais de Caio na Etapa 5.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Agenda proposta
 
-A Tabela 3 detalha a preparação restante no horário de Brasília (UTC−3). As sessões são **propostas**, não compromissos confirmados. O cronograma coletivo previa as avaliações para 16–20/10; este detalhamento registra um reagendamento individual para concluir o material até 25/10, sem lançar execução retroativa.
+A Tabela 3 registra a execução. O piloto ficou em 22/10. As duas conversas com PROP01 foram gravadas hoje, uma em seguida da outra, e terminaram às 14h06. A duração dos arquivos fecha os horários: 6 min 31 s e 6 min.
 
-| Atividade | Data / horário propostos | Produto |
+| Atividade | Registro | Produto |
 | --- | --- | --- |
-| Revisar storyboard e instrumentos; confirmar pessoas, modalidade e autorizações | 22/10, antes dos pilotos | Material legível e consentimento específico |
-| Piloto do storyboard, com PP-PROP01 | 22/10, 18h30–19h10 | Conferência do procedimento; registro separado |
-| Piloto da análise de tarefas, com PP-PROP01 | 22/10, 19h20–20h10 | Conferência de linguagem e registro; ajustes |
-| Gravação do storyboard, com PROP01 | 23/10, 18h30–19h10 | Vídeo e notas para o relato |
-| Gravação da análise de tarefas, com PROP01 | 23/10, 19h20–20h10 | Segundo vídeo e notas para o relato |
-| Conferir falas, localizadores, recomendações e revisão humana | 24/10, 14h–17h | Versões revisadas dos quatro artefatos |
-| Contribuição à gravação da apresentação do grupo | 24–25/10, horário a combinar | Fala de Caio integrada à apresentação coletiva |
+| Revisar storyboard e instrumentos | 22/10 | Roteiro usado nas gravações |
+| Piloto do storyboard, com PP-PROP01 | 22/10, 18h30–19h10 | Procedimento ensaiado; dados separados da sessão principal |
+| Piloto da análise de tarefas, com PP-PROP01 | 22/10, 19h20–20h10 | Procedimento ensaiado; dados separados da sessão principal |
+| Gravação do storyboard, com PROP01 | 24/10, 13h28–14h00 | [Relato do storyboard](relato-storyboard.md#video), 6 min 31 s |
+| Gravação da análise de tarefas, com PROP01 | 24/10, 14h00–14h06 | [Relato da análise de tarefas](relato-analise-tarefas.md#video), 6 min |
+| Conferir falas e localizadores | 24/10 | Tempos de Q1–Q7 e AT-Q1–AT-Q7 |
+| Revisão dos relatos | 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| Gravação da apresentação do grupo | 24–25/10 | Fala de Caio na apresentação coletiva |
 | Entrega / inspeção / apresentação | 25/10 / 26/10 / 27/10 | Marcos do plano de ensino |
 
-<p class="caption">Tabela 3 — Agenda individual proposta e relação com os marcos coletivos.</p>
+<p class="caption">Tabela 3 — Agenda individual e o que já está gravado.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-Os blocos de 40 e 50 minutos mantêm a reserva dos planos anteriores. O tempo de conversa pode ser menor; registrar a duração real, incluindo leitura e pausas. Se houver atraso, reagendar de forma explícita. PP-PROP01 não pode ser a pessoa principal. Se PROP01 participar dos dois vídeos, registrar a exposição anterior ao storyboard: a segunda conversa não é uma observação independente.
+PROP01 participou das duas gravações, na mesma sala, primeiro o storyboard e depois os modelos. A segunda conversa já parte da leitura anterior. Os dados de PP-PROP01 ficam no registro do piloto e não entram nas tabelas de PROP01.
 
 ## Gravações e verificação
 
-As duas gravações principais documentam a discussão do storyboard e dos modelos. Os pilotos verificam o procedimento e seus dados ficam separados. Reunião de inspeção e apresentação são registros coletivos distintos. O plano de ensino consultado não determina que toda sessão piloto tenha vídeo público; sua realização deve ter registro, e a gravação depende de autorização.
+Os vídeos das sessões com PROP01 estão nos dois relatos. O piloto de 22/10 permanece separado. Reunião de inspeção e apresentação são registros coletivos, distintos destas sessões.
 
 Consultar a [lista de verificação da Etapa 5](../../../verificacao/listas/etapa-5.md). A avaliação do protótipo de papel será executada para a Etapa 6; a Etapa 5 entrega seu planejamento.
 
@@ -70,6 +71,8 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 22/10/2026 | Preparação dos quatro artefatos, agenda e integração do recorte de autoria de ideia legislativa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/10/2026 | Registra as duas gravações presenciais e as durações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 24/10/2026 | Fixa os horários de 13h28–14h06, o piloto de 22/10 e a revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

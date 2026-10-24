@@ -8,8 +8,9 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação da discussão dos modelos e da conferência técnica | [Conteúdo](#objetivos-e-escopo) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação da discussão, condução da sessão e conferência técnica | [Conteúdo](#objetivos-e-escopo) |
 | Codex (OpenAI) | Apoio à consulta das fontes, redação e organização documental | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Conferência das falas com a gravação e preenchimento dos localizadores | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +19,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Este relato segue o [planejamento da avaliação](../../../entrega-4/caio/planejamento-avaliacao-analise-tarefas.md) e o [planejamento do relato](../../../entrega-4/caio/planejamento-relato-analise-tarefas.md). A base é a [HTA/CTT de Camila, versão 0.2 de 13/10/2026](../../../entrega-2/individual/caio/perfil-2/analise-tarefas.md).
 
-**Situação:** relato em elaboração, com a discussão dos modelos e os encaminhamentos organizados. A versão final incorporará a gravação, os dados da sessão e a conferência das falas.
+**Situação em 24/10/2026:** a conversa com PROP01 está gravada, na sequência do storyboard. Os localizadores apontam para o arquivo. A conferência da notação continua com a equipe, como Caio informa no próprio vídeo.
 
 ## Objetivos e escopo
 
@@ -26,46 +27,51 @@ Examinar cobertura, ordem, revisão, condições de conclusão e responsabilidad
 
 ## Método, pessoas e material
 
-A Tabela 2 delimita o material e os registros da atividade. As falas desta versão foram elaboradas previamente para a atividade didática; sua correspondência com a gravação será conferida na versão final. A discussão das tarefas em linguagem comum e a conferência técnica da notação são procedimentos separados.
+A Tabela 2 delimita o material e o que a gravação mostra. As perguntas e as respostas previstas foram preparadas para a atividade didática. Na sessão, Caio leu o roteiro e PROP01 respondeu nesses termos, depois de um relato livre. A discussão em linguagem comum e a conferência da notação continuam separadas: aos 5:30 Caio diz que a conferência técnica fica no documento.
 
 | Campo | Registro |
 | --- | --- |
-| Procedimento | Conversa guiada sobre os quatro blocos de tarefas; conferência técnica da equipe em separado |
+| Procedimento | Relato livre, leitura dos blocos no celular e perguntas AT-Q1–AT-Q7. A notação não é pedida a PROP01 |
 | Blocos em linguagem comum | Preparar → revisar → submeter → interpretar |
 | Moderador | Caio Breno de Souza Bezerra |
-| Código da sessão | AT-PROP01, para manter o identificador do planejamento; pessoa PROP01, se for a mesma do storyboard |
-| Pessoa participante | PROP01; uma pessoa no papel de proponente; caracterização efetiva pendente |
-| Exposição anterior | Se for a mesma pessoa do storyboard, registrar a influência dessa leitura; as sessões não são independentes |
-| Conferência de notação | CT01–CT06, sob responsabilidade da equipe |
+| Código da sessão | AT-PROP01, mesma pessoa do storyboard |
+| Pessoa participante | PROP01, uma pessoa adulta no papel de proponente. Nome e contato ficam fora do site |
+| Exposição anterior | A mesma pessoa e o mesmo encontro do storyboard. PROP01 já ouviu a síntese das quatro melhorias. Esta conversa não é uma observação independente |
+| Conferência de notação | CT01–CT06, da equipe. Caio avisa isso na gravação (5:30–5:58) |
 | Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| Data, início, fim e duração efetivos | Pendentes; proposta em 23/10, 19h20–20h10 |
-| Local | Google Meet, a confirmar; registrar eventual mudança |
-| Materiais | Hierarquia HTA, planos, operações entrada–ação–feedback, CTT textual e descrição comum |
-| Piloto e autorizações | PP-PROP01 separado; consentimento específico para voz, imagem quando houver e uso do vídeo |
+| Duração | 6 min. A leitura dos blocos no celular ocupa cerca de 1:26 a 1:56 |
+| Data e horário | 24/10/2026, 14h00–14h06, logo após o storyboard. Duração de 6 min |
+| Local | Presencial, na mesma sala da gravação do storyboard |
+| Materiais | Descrição comum dos quatro blocos, consultada no celular. HTA e CTT são citadas por Caio como modelos da equipe |
+| Piloto e autorizações | Piloto em 22/10/2026, 19h20–20h10, com PP-PROP01. Participação, voz e imagem da sessão principal autorizadas para a disciplina. Identidade e termo ficam fora do repositório |
 
-<p class="caption">Tabela 2 — Método e metadados a completar na execução.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="caption">Tabela 2 — Método e metadados da gravação.</p>
+<p class="source">Fonte: gravação com PROP01, incorporada em 24/10/2026.</p>
 
 ## Perguntas e respostas
 
-A Tabela 3 corresponde a AT-Q1–AT-Q7. A pergunta técnica AT-Q8 é tratada na seção seguinte.
+Antes das perguntas, Caio pede um relato livre, ainda sem mostrar a organização (0:22–0:26). PROP01 responde (0:27–0:43): anotaria a ideia, procuraria as orientações do próprio Senado, prepararia o texto, entraria com a conta, revisaria depois de preencher e procuraria uma confirmação para acompanhar o que acontece depois. Esse percurso já separa revisão e confirmação, antes de ver os quatro blocos.
+
+A Tabela 3 corresponde a AT-Q1–AT-Q7. A pergunta técnica AT-Q8 é tratada na seção seguinte. Os tempos são os da resposta no [Vídeo 1](#video).
 
 | ID / referência | Pergunta de Caio | Resposta | Localizador efetivo |
 | --- | --- | --- | --- |
-| AT-Q1 / 0; 4.1–4.2 | O que você pretende alcançar ao enviar uma ideia assim? Como reconheceria que terminou? | Quero encaminhar minha ideia com o texto correto e saber que ela foi recebida. Depois acompanho a avaliação. Para mim, terminar o envio é receber uma confirmação, não ver a lei aprovada. | Pendente |
-| AT-Q2 / 1–4 | Que atividades faltam nesta organização? Alguma se repete ou poderia ser agrupada? | Preparar, revisar, enviar e interpretar fazem sentido. Eu detalharia a revisão depois de preencher e separaria conferir o conteúdo de confirmar o envio. Também separaria o retorno imediato do acompanhamento posterior. | Pendente |
-| AT-Q3 / Planos 1, 2 e 3 | O que precisa vir antes? O que poderia ocorrer em outra ordem? | Posso ter um rascunho antes de entrar no site, como no desenho. Mas preciso conferir as regras e as ideias abertas antes de finalizar. Posso voltar a corrigir várias vezes; autenticar e preencher não deveria eliminar essa possibilidade. | Pendente |
-| AT-Q4 / 2.1–2.3; 3.3; 4.1 | O que você precisa ter para começar cada etapa? Como sabe que terminou? | Para preencher preciso do rascunho e do acesso. Para confirmar, preciso ver o texto completo e decidir que está pronto. O clique é uma ação minha; a confirmação de recebimento é a resposta do serviço. Eu não trataria os dois como se fossem a mesma coisa. | Pendente |
-| AT-Q5 / 3.1–3.3; retorno do sistema | O que depende de quem envia e o que depende do serviço? | Eu escrevo, reviso, entro na minha conta e envio. O sistema registra e mostra o retorno. Avaliar e publicar depende do serviço e das regras; isso não é uma tarefa que a pessoa resolve só clicando. | Pendente |
-| AT-Q6 / 2.3; 3.1; 4.1 | Se o texto tiver um problema, faltar acesso ou o retorno for incerto, o que fica pendente? | Se o texto tiver problema, volto e corrijo antes de enviar. Sem acesso, não concluo o envio. Se o retorno for incerto, procuro o estado da ideia ou uma orientação para verificar o recebimento; não envio de novo automaticamente. | Pendente |
-| AT-Q7 / 4.1–4.2 | Qual etapa precisa ser explicada ou detalhada? | Interpretar o resultado está muito amplo. Eu dividiria em reconhecer o recebimento e acompanhar a avaliação depois. Os nomes deveriam ser fáceis de entender, sem dizer que a lei foi aprovada quando apenas receberam uma ideia. | Pendente |
+| AT-Q1 / 0; 4.1–4.2 | O que você pretende alcançar ao enviar uma ideia assim? Como reconheceria que terminou? | Encaminhar a ideia com o texto correto e saber que foi recebida. Depois acompanha a avaliação. Terminar o envio é receber uma confirmação, não ver a lei aprovada. | 2:09–2:23 |
+| AT-Q2 / 1–4 | Que atividades faltam nesta organização? Alguma se repete ou poderia ser agrupada? | Preparar, revisar, enviar e interpretar fazem sentido. Detalharia a revisão depois de preencher e separaria conferir o conteúdo de confirmar o envio. Também separaria o retorno imediato do acompanhamento posterior. | 2:31–2:49 |
+| AT-Q3 / Planos 1, 2 e 3 | O que precisa vir antes? O que poderia ocorrer em outra ordem? | Pode haver rascunho antes de entrar no site, como no desenho. As regras e as ideias abertas precisam ser conferidas antes de finalizar. Dá para voltar a corrigir várias vezes; autenticar e preencher não deveria eliminar essa possibilidade. | 2:56–3:11 |
+| AT-Q4 / 2.1–2.3; 3.3; 4.1 | O que você precisa ter para começar cada etapa? Como sabe que terminou? | Para preencher, o rascunho e o acesso. Para confirmar, ver o texto completo e decidir que está pronto. O clique é ação de quem envia; a confirmação de recebimento é resposta do serviço. As duas coisas não são a mesma. | 3:17–3:36 |
+| AT-Q5 / 3.1–3.3; retorno do sistema | O que depende de quem envia e o que depende do serviço? | Quem envia escreve, revisa, entra na conta e envia. O sistema registra e mostra o retorno. Avaliar e publicar depende do serviço e das regras, e não se resolve só clicando. | 3:42–3:56 |
+| AT-Q6 / 2.3; 3.1; 4.1 | Se o texto tiver um problema, faltar acesso ou o retorno for incerto, o que fica pendente? | Se o texto tiver problema, volta e corrige antes de enviar. Sem acesso, não conclui o envio. Se o retorno for incerto, procura o estado da ideia ou uma orientação para verificar o recebimento, sem enviar de novo automaticamente. | 4:04–4:22 |
+| AT-Q7 / 4.1–4.2 | Qual etapa precisa ser explicada ou detalhada? | Interpretar o resultado está amplo demais. Dividiria em reconhecer o recebimento e acompanhar a avaliação depois. Os nomes deveriam ser fáceis de entender, sem dizer que a lei foi aprovada quando a ideia só foi recebida. | 4:27–4:41 |
 
 <p class="caption">Tabela 3 — Discussão dos modelos em linguagem comum.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: fala de PROP01 na gravação de 24/10/2026, redigida para leitura.</p>
+
+Ao final, Caio resume a proposta de reprojeto e pergunta se PROP01 acrescentaria algo (5:17–5:19). PROP01 pede (5:20–5:29) um caminho fácil para acompanhar a mesma ideia, saber onde consultar depois e não depender de lembrar o e-mail. O comentário reforça AT-P02 e o que já tinha sido dito no storyboard, em Q7.
 
 ## AT-Q8 — Conferência técnica dos modelos
 
-**Autor do item:** Caio Breno de Souza Bezerra. A Tabela 4 registra uma conferência documental preliminar realizada nesta preparação, usando os critérios do plano da Etapa 4. Não representa respostas da pessoa participante nem revisão humana concluída.
+**Autor do item:** Caio Breno de Souza Bezerra. A Tabela 4 é a conferência da equipe sobre a versão 0.2, com os critérios do plano da Etapa 4. Na gravação (5:30–5:58), Caio separa essa conferência da conversa com PROP01, mantém a versão avaliada e deixa a versão proposta registrada à parte. A tabela não é fala de PROP01.
 
 | Critério | Evidência na versão 0.2 | Leitura preliminar / encaminhamento |
 | --- | --- | --- |
@@ -95,13 +101,35 @@ A Tabela 5 organiza as alterações propostas para a **versão de reprojeto**, m
 
 A sequência proposta para o protótipo é **preparar → acessar e preencher → revisar e confirmar → reconhecer recebimento → acompanhar**. É uma organização futura do percurso de interface; não substitui silenciosamente a HTA/CTT documental. Os critérios do papel verificam se essa organização apoia o trabalho descrito nos modelos.
 
-## Atividades e vídeo
+## Atividades
 
-Registrar AT-AT01 (relato livre antes dos modelos), AT-AT02 (discussão dos quatro blocos), AT-AT03 (impedimentos) e AT-AT04 (conferência da síntese). Cada nota deve identificar a fala registrada, as intervenções e a interpretação correspondente. **Gravação pendente:** inserir o link autorizado aqui e preencher os localizadores da Tabela 3.
+A Tabela 6 registra as atividades previstas no planejamento do relato.
+
+| ID | Atividade | O que a gravação mostra |
+| --- | --- | --- |
+| AT-AT01 | Relato livre, antes dos modelos | 0:22–0:43. PROP01 descreve anotar, consultar o Senado, preencher, revisar e buscar confirmação |
+| AT-AT02 | Discussão dos quatro blocos | 1:18–4:41. Leitura no celular e AT-Q1–AT-Q7. Caio avisa que HTA e CTT não precisam ser conhecidos por PROP01 (0:16–0:20) |
+| AT-AT03 | Impedimentos | 3:57–4:22, AT-Q6. Texto com problema, falta de acesso e retorno incerto ficam pendentes, sem novo envio automático |
+| AT-AT04 | Conferência da síntese | 4:52–5:29. PROP01 concorda e pede um caminho estável para a mesma ideia, sem depender do e-mail |
+
+<p class="caption">Tabela 6 — Atividades documentadas na gravação.</p>
+<p class="source">Fonte: gravação de AT-PROP01, 24/10/2026.</p>
+
+## Vídeo
+
+O Vídeo 1 é a conversa inteira, do relato livre ao aviso sobre a conferência técnica.
+
+<div class="session-video">
+  <video controls preload="metadata" playsinline title="Discussão da análise de tarefas com PROP01">
+    <source src="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4" type="video/mp4">
+  </video>
+</div>
+<p class="caption">Vídeo 1 — Discussão da análise de tarefas com PROP01.</p>
+<p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 6 min, incorporada em 24/10/2026. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-analise-tarefas.mp4">avaliacao-analise-tarefas.mp4</a>.</p>
 
 ## Limites e encaminhamento
 
-A análise se concentra nos modelos e nas hipóteses de melhoria do recorte. Sua cobertura não pode ser generalizada para todas as tarefas dos cidadãos. A revisão técnica identifica pendências do documento; a pessoa participante não valida notação por concordar com os passos em linguagem comum. As propostas AT-P01–AT-P04 seguem para o [planejamento da avaliação do papel](planejamento-avaliacao-prototipo-papel.md).
+A análise se concentra nos modelos e nas hipóteses de melhoria do recorte. Sua cobertura não pode ser generalizada para todas as tarefas dos cidadãos. A revisão técnica é da equipe; PROP01 não valida notação por concordar com os passos em linguagem comum. As propostas AT-P01–AT-P04 seguem para o [planejamento da avaliação do papel](planejamento-avaliacao-prototipo-papel.md).
 
 ## Fundamentação visual
 
@@ -115,7 +143,7 @@ A Figura 1 apresenta a estrutura de HTA consultada para CT01–CT02.
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -123,6 +151,8 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 22/10/2026 | Relato preparatório, respostas previstas, conferência documental e proposta de revisão das tarefas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/10/2026 | Incorpora a gravação presencial, o relato livre, o acréscimo sobre acompanhamento e os localizadores | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 24/10/2026 | Registra a sessão de 14h00–14h06 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

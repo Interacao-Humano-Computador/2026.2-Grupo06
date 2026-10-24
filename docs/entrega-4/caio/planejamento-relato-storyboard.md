@@ -19,7 +19,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
 
-A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) registra a execução: piloto em 22/10, 18h30–19h10, e sessão presencial em 24/10, 13h28–14h00. A revisão do relato é de Bruno Ferreira Dornelas.
 
 Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
 
@@ -27,7 +27,7 @@ Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as
 
 Este documento define como serão organizados, interpretados e apresentados os resultados da [avaliação remota do storyboard](planejamento-avaliacao-storyboard.md) da **autoria de uma ideia legislativa**, com o perfil **Proponente**. O recorte acompanha Camila Nogueira na preparação, revisão e envio de uma proposta própria. O relato deverá permitir que o grupo compreenda o que a pessoa participante interpretou, quais evidências sustentam cada achado e quais alterações ou investigações decorrem deles.
 
-**Situação em 22/10/2026:** planejamento para revisão interna. A avaliação ainda não ocorreu; nenhum campo deste documento representa resultado coletado. Participante, datas, horários e observador permanecem a confirmar. Os formulários abaixo são modelos para preenchimento após a coleta, sem falas, problemas ou conclusões simulados.
+**Situação em 24/10/2026:** a sessão com PROP01 ocorreu em 24/10, 13h28–14h00, depois do piloto de 22/10. O relato preenchido está em [Relato do storyboard](../../entrega-5/individual/caio/relato-storyboard.md). Revisor: Bruno Ferreira Dornelas.
 
 ## Item de conteúdo da disciplina
 
@@ -171,7 +171,7 @@ O relato usará uma síntese narrativa, a matriz Q1–Q7, as fichas de achados e
 
 ## Responsabilidades e cronograma do relato
 
-A Tabela 8 complementa o cronograma da avaliação. T é a data da sessão principal, ainda a confirmar.
+A Tabela 8 complementa o cronograma da avaliação. A sessão principal foi em 24/10, 13h28–14h00.
 
 | Atividade | Momento | Responsável | Produto |
 | --- | --- | --- | --- |
@@ -222,6 +222,7 @@ Grok (xAI) apoiou a redação e a organização dos instrumentos de relato. Caio
 | 1.0 | 13/10/2026 | Estrutura e instrumentos para o futuro relato da avaliação remota do storyboard da autoria de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 24/10/2026 | Aponta a sessão de 24/10, 13h28–14h00, e a revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

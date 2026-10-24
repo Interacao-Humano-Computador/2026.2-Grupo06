@@ -21,7 +21,7 @@ A Etapa 5 reúne os **relatos das avaliações do storyboard e da análise de ta
 
 Conforme o [cronograma do projeto](../entrega-1/cronograma.md), a entrega está prevista para **25/10/2026**, a inspeção para **26/10** e a apresentação para **27/10**. A execução da avaliação do papel e seu relato integram a Etapa 6, com entrega em **03/11/2026**.
 
-Estão disponíveis os dois planejamentos individuais de Bruno e os quatro artefatos de Caio. Os relatos de Caio estão em elaboração, com perguntas, respostas, análise e recomendações organizadas; a conclusão depende da inclusão dos vídeos e da conferência dos registros. Os planejamentos do papel orientam as atividades da Etapa 6.
+Estão disponíveis os dois planejamentos individuais de Bruno, os quatro artefatos de Caio e os de Israel. Os relatos de Caio incluem as gravações presenciais do storyboard e da análise de tarefas, com localizadores. Os planejamentos do papel orientam as atividades da Etapa 6.
 
 ## Artefatos individuais da etapa
 
@@ -31,12 +31,12 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 | --- | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Oficina Legislativa na Escola — Professor / Rafael Almeida | Storyboard: aguarda dados da avaliação.<br>Análise de tarefas: aguarda dados da avaliação. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Votação em consulta pública — Letícia Oliveira | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): perguntas, respostas e análise organizadas; versão em elaboração. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): sessões gravadas, com perguntas, respostas, localizadores e vídeos. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | [Storyboard](individual/israel/relato-storyboard.md) e [análise de tarefas](individual/israel/relato-analise-tarefas.md): perguntas, respostas, análise e recomendações organizadas. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Recorte da Etapa 5 a registrar pelo integrante | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
-<p class="source">Fonte: artefatos disponíveis no repositório em 22/10/2026 e recortes da Etapa 4.</p>
+<p class="source">Fonte: artefatos disponíveis no repositório em 24/10/2026 e recortes da Etapa 4.</p>
 
 Consultar também o [índice de Caio](individual/caio/index.md) e o [índice de Israel](individual/israel/index.md), com as agendas propostas, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
 
@@ -69,6 +69,7 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `0.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 23/10/2026 | Integra os artefatos de planejamento do protótipo de papel e o índice individual de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 23/10/2026 | Integra os relatos do Storyboard e da Análise de Tarefas de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 24/10/2026 | Registra as gravações dos relatos de Caio Breno | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

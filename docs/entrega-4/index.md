@@ -39,7 +39,7 @@ Bruno, Caio, Heitor e Israel publicaram os planejamentos da avaliação e do rel
 <p class="caption">Tabela 2 — Trabalhos individuais da Etapa 4 do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-Os agendamentos e as confirmações de participantes estão descritos nos planejamentos individuais. Luís contribuiu com os itens de verificação, mas não entregou os artefatos individuais da Etapa 4. Nenhuma sessão de avaliação foi executada.
+Os agendamentos e as confirmações de participantes estão descritos nos planejamentos individuais. Luís contribuiu com os itens de verificação, mas não entregou os artefatos individuais da Etapa 4. A execução das sessões fica na Etapa 5. No recorte de Caio, as duas conversas gravadas estão nos [relatos](../entrega-5/individual/caio/index.md).
 
 O [storyboard manual de Caio, versão 1.1](caio/storyboard.md), explicita as melhorias na navegação pelo portal, na revisão, no retorno de recebimento e no acompanhamento. A continuidade está nos [quatro artefatos de Caio na Etapa 5](../entrega-5/individual/caio/index.md).
 
@@ -56,6 +56,7 @@ Heitor Pinheiro organizou o índice e desenhou o storyboard de Letícia. Grok (x
 | 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | 1.2 | 22/10/2026 | Atualiza o recorte de Caio para o storyboard manual e a melhoria da experiência existente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.3 | 24/10/2026 | Indica que as sessões gravadas de Caio estão nos relatos da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

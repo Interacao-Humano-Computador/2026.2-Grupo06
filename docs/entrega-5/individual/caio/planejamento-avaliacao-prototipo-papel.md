@@ -20,7 +20,7 @@ Este documento planeja a avaliação formativa de uma proposta de interface para
 
 ## Contextualização
 
-A proposta parte do [perfil Proponente](../../../entrega-2/individual/caio/perfil-2/perfil-usuario.md), da persona Camila e da HTA/CTT documental. Os [relatos do storyboard](relato-storyboard.md) e da [análise de tarefas](relato-analise-tarefas.md) reúnem perguntas, respostas e recomendações para o reprojeto. Os registros serão conferidos com as gravações. As recomendações orientam hipóteses a experimentar no protótipo.
+A proposta parte do [perfil Proponente](../../../entrega-2/individual/caio/perfil-2/perfil-usuario.md), da persona Camila e da HTA/CTT documental. Os [relatos do storyboard](relato-storyboard.md) e da [análise de tarefas](relato-analise-tarefas.md) reúnem as respostas de PROP01, os localizadores das gravações e as recomendações para o reprojeto. RP01–RP04 e AT-P01–AT-P04 seguem como hipóteses a experimentar no papel. A sessão discutiu a narrativa e os modelos; não executou as telas.
 
 O e-Cidadania já integra os serviços do Senado. “No próprio site do Senado” significa continuidade de navegação, identificação institucional e retorno ao percurso após autenticar. As telas de revisão, identificação de recebimento e acompanhamento deste plano são propostas de interface. Não serão usadas contas reais, textos de propostas reais ou submissão ao serviço.
 
@@ -190,6 +190,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 22/10/2026 | Planejamento DECIDE, tarefas, papéis, agenda e critérios para a avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/10/2026 | Liga o plano às gravações já conferidas nos relatos do storyboard e da análise de tarefas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
