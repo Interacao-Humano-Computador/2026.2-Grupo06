@@ -8,8 +8,9 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Organização do recorte individual da funcionalidade de Participação em Evento Interativo | [Conteúdo](#introducao) |
-| Antigravity (IA generativa) | Apoio na estruturação das tabelas e formatação Markdown | [Agradecimentos](#agradecimentos) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Organização do recorte individual da funcionalidade de Participação em Evento Interativo e integração dos relatos | [Conteúdo](#introducao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica por pares | [Histórico de versão](#historico-de-versao) |
+| Antigravity e Google Gemini | Apoio na estruturação das tabelas e transcrição | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -20,19 +21,29 @@ Este espaço organiza a documentação individual de Heitor Pinheiro Gonçalves 
 
 O trabalho dá continuidade à persona [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md), ao cenário de [Participação em audiência pública](../../../entrega-2/individual/heitor/cenario.md), à modelagem da [HTA e CTT](../../../entrega-2/individual/heitor/analise-tarefas.md) e ao [Storyboard de Letícia Oliveira](../../../entrega-4/individual/heitor/storyboard.md) com seus respectivos [planejamentos de avaliação e relato da Etapa 4](../../../entrega-4/individual/heitor/planejamento-avaliacao-storyboard.md).
 
+**Situação em 25/10/2026:** a sessão conjunta de avaliação do Storyboard e da HTA foi realizada e gravada em 25/10/2026 às 18h50 (duração total: 07 min 25 s), com a participante voluntária `PART-LET01`. Os dois relatos incorporam as transcrições das falas, minutagens no vídeo, análises críticas e requisitos de design (RP01 a RP04) para a confecção do protótipo de papel.
+
 ## Artefatos individuais da Etapa 5
 
-A Tabela 2 relaciona os quatro artefatos individuais desta etapa e sua respectiva situação no repositório.
+A Tabela 2 reúne os quatro documentos entregues para este recorte individual.
 
-| Artefato | Conteúdo preparado | Próximo passo / Execução |
+| Artefato | Conteúdo | Situação / Vídeo |
 | --- | --- | --- |
-| [Relato do Storyboard](relato-storyboard.md) | Perguntas do roteiro (P01, P06–P09 e SB-Q1–Q5), análise por quadro (QD01–QD06), consolidação de achados e diretrizes RP01–RP04 para o papel | Conclusão das sessões, inserção das falas empíricas e minutagens dos registros |
-| [Relato da Análise de Tarefas](relato-analise-tarefas.md) | Perguntas da HTA (P01–P05 e AT-Q1–AT-Q5), conferência técnica (CT01–CT06) e proposição de melhorias no modelo | Conclusão das sessões, inserção das falas empíricas e minutagens dos registros |
-| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Framework DECIDE, papéis ("computador" ≠ observador), inventário de telas/cartões em papel, 4 tarefas com critérios objetivos, piloto e ética | Desenho das pranchas físicas, aplicação do teste-piloto e execução na Etapa 6 |
-| [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Estrutura formal do relato, ficha de execução por tarefa, ficha de registro de problemas, controle de recorrência e ciclos | Preenchimento e consolidação das evidências coletadas na Etapa 6 (03/11/2026) |
+| [Relato do Storyboard](relato-storyboard.md) | Perguntas do roteiro (P01, P06–P09 e SB-Q1–Q5), análise por quadro (QD01–QD06), consolidação de achados e diretrizes RP01–RP04 | Concluído com falas de PART-LET01 e [vídeo gravado](https://www.youtube.com/watch?v=G6sIYrJ53-A) (00:00–04:15) |
+| [Relato da Análise de Tarefas](relato-analise-tarefas.md) | Perguntas da HTA (P01–P05 e AT-Q1–AT-Q5), conferência técnica (CT01–CT06), validação da sequência e nota 4 no ponto crítico | Concluído com falas de PART-LET01 e [vídeo gravado](https://www.youtube.com/watch?v=G6sIYrJ53-A) (04:15–07:25) |
+| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Framework DECIDE, papéis ("computador" ≠ observador), inventário de telas/cartões em papel, 4 tarefas com critérios objetivos, piloto e ética | Concluído (orientará os testes da Etapa 6) |
+| [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Estrutura formal do relato, ficha de execução por tarefa, ficha de registro de problemas, controle de recorrência e ciclos | Concluído (orientará o relatório da Etapa 6) |
 
 <p class="caption">Tabela 2 — Artefatos individuais de Heitor Pinheiro na Etapa 5.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+## Gravação audiovisual da avaliação
+
+A avaliação foi realizada via Google Meet em sessão síncrona gravada, disponível no YouTube sob a categoria **Não Listado**:
+
+* **Vídeo da avaliação:** [Avaliação do Storyboard e HTA — Letícia Oliveira (YouTube)](https://www.youtube.com/watch?v=G6sIYrJ53-A)
+* **Duração total:** 07 min 25 s
+* **Data da sessão:** 25 de outubro de 2026, às 18h50 (horário de Brasília)
 
 ## Agenda proposta para a Etapa 6
 
@@ -53,13 +64,14 @@ A Tabela 3 apresenta a agenda planejada para a confecção física do protótipo
 
 ## Agradecimentos
 
-Esta página contou com o apoio do Antigravity na formatação Markdown e na estruturação do índice individual. A responsabilidade pelo conteúdo é do autor.
+Esta página contou com o apoio do Antigravity na formatação Markdown e na estruturação do índice individual. A condução da avaliação e a responsabilidade pelo conteúdo são do autor.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 24/10/2026 | Criação do índice individual da Etapa 5 para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A solicitar |
+| `1.0` | 25/10/2026 | Atualização do índice com os relatos consolidados e link da gravação audiovisual (07m25s) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
