@@ -10,6 +10,7 @@ A Tabela 1 registra as contribuições neste índice da Etapa 5.
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização da etapa por trabalhos individuais e definição de seu recorte | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Integração dos relatos e planos do recorte Proponente | [Artefatos individuais](#artefatos-individuais-da-etapa) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do recorte de agendamento em plenárias e de seus documentos preparatórios | [Artefatos individuais](#artefatos-individuais-da-etapa) |
 | Codex (OpenAI) | Apoio à redação do índice e à organização da navegação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no índice da Etapa 5.</p>
@@ -21,7 +22,7 @@ A Etapa 5 reúne os **relatos das avaliações do storyboard e da análise de ta
 
 Conforme o [cronograma do projeto](../entrega-1/cronograma.md), a entrega está prevista para **25/10/2026**, a inspeção para **26/10** e a apresentação para **27/10**. A execução da avaliação do papel e seu relato integram a Etapa 6, com entrega em **03/11/2026**.
 
-Estão disponíveis os dois planejamentos individuais de Bruno, os quatro artefatos de Caio e os de Israel. Os relatos de Caio incluem as gravações presenciais do storyboard e da análise de tarefas, com localizadores. Os planejamentos do papel orientam as atividades da Etapa 6.
+Estão disponíveis os dois planejamentos individuais de Bruno, os quatro artefatos de Caio, os artefatos de Israel e os documentos preparatórios do recorte de Luís. Os relatos de Caio incluem as gravações presenciais do storyboard e da análise de tarefas, com localizadores. Os planejamentos do papel orientam as atividades da Etapa 6.
 
 ## Artefatos individuais da etapa
 
@@ -33,7 +34,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participação em Evento Interativo — Letícia Oliveira | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): sessões gravadas, com perguntas, respostas, localizadores e vídeos. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | [Storyboard](individual/israel/relato-storyboard.md) e [análise de tarefas](individual/israel/relato-analise-tarefas.md): perguntas, respostas, análise e recomendações organizadas. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
-| [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Recorte da Etapa 5 a registrar pelo integrante | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Agendamento para participar de plenárias com limite de vagas | [Modelagem HTA/CTT](individual/luis/modelagem-tarefas.md) e [inspeção documental](individual/luis/inspecao-modelos.md) disponíveis. Os relatos de avaliação do storyboard e da análise de tarefas aguardam os materiais finais e sessão com participante. | [Planejamento da avaliação](individual/luis/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/luis/planejamento-relato-prototipo-papel.md) disponíveis; storyboard e telas em elaboração pelo integrante, regras institucionais a confirmar. |
 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
 <p class="source">Fonte: artefatos disponíveis no repositório em 24/10/2026 e recortes da Etapa 4.</p>
@@ -71,6 +72,9 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `0.5` | 23/10/2026 | Integra os relatos do Storyboard e da Análise de Tarefas de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 24/10/2026 | Registra as gravações dos relatos de Caio Breno | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.7` | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `0.8` | 24/10/2026 | Inclui modelagem preliminar e inspeção documental do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Pendente |
+| `0.9` | 24/10/2026 | Acrescenta os links da modelagem HTA/CTT, inspeção e planos do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Pendente |
+| `1.0` | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor dos documentos de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 ## Referências
 
