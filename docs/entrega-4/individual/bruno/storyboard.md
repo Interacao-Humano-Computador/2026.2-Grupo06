@@ -1,6 +1,6 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Oficina Legislativa · Autor do item: Bruno Ferreira Dornelas</span>
+<span class="owner">Responsável: Bruno Ferreira Dornelas — Complementos de ideias legislativas · Autor do item: Bruno Ferreira Dornelas</span>
 
-# Storyboard — Oficina Legislativa
+# Storyboard — Da ideia ao complemento
 
 ## Tabela de contribuição
 
@@ -8,143 +8,99 @@ A Tabela 1 registra as contribuições neste artefato.
 
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do cenário e da sequência dos sete quadros | [Introdução](#introducao) |
-| Codex (OpenAI) | Apoio à redação e à organização do roteiro | [Agradecimentos](#agradecimentos) |
-| image_gen (OpenAI) | Geração da ilustração | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do cenário e desenho manual dos oito quadros | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à redação e reformulação do roteiro, descrição dos quadros e organização da fundamentação | [Agradecimentos](#agradecimentos) |
+| image_gen (OpenAI) | Geração da referência preliminar, substituída pelo desenho manual | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no storyboard.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-O storyboard acompanha **Rafael Almeida**, persona do perfil **Professor**, na organização de uma Oficina Legislativa na Escola e na obtenção de sua declaração. Os **sete quadros formam uma única história**, conforme o [planejamento da avaliação](planejamento-avaliacao-storyboard.md#material-que-devera-estar-pronto-para-avaliacao), o [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) e a [análise de tarefas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
+Este storyboard acompanha **Letícia Oliveira**, persona do perfil participante, na tarefa de **sugerir um complemento a uma ideia legislativa publicada e conferir seu encaminhamento**. Os oito quadros apresentam uma única trajetória: Letícia pensa em uma ideia, pesquisa no site do Senado, encontra uma proposta semelhante e decide complementá-la. Depois, responde a um ajuste, confere a publicação e verifica o material encaminhado à Comissão de Direitos Humanos e Legislação Participativa (CDH).
 
-**Versão 0.2 — 13/10/2026:** material com textos ampliados e passagem do tempo esclarecida no QD06. Os personagens e diálogos são fictícios. As interfaces e a declaração são representações esquemáticas baseadas na documentação pública do serviço.
+A [persona documentada](../../../entrega-2/individual/heitor/persona.md) caracteriza Letícia como estudante de Geografia e participante de atividades coletivas, com experiência de escrita e acesso ao Senado sob demanda. A [entrevista](../../../entrega-2/individual/heitor/entrevista-observacao.md) sustenta esse contexto, mas não registra a situação da biblioteca nem a autoria de complementos. Esses elementos são hipóteses narrativas; a análise da entrevista de 24/10/2026 está no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-storyboard.md).
+
+A narrativa, as falas e as interfaces são fictícias. O fluxo de complementos e seu envio como anexos consultivos constituem uma proposta de funcionalidade do projeto.
 
 ## Item de conteúdo da disciplina
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-Barbosa e Silva (2010, p. 112) apresentam o storyboard como recurso para explorar a prática de trabalho apoiada pela tecnologia. Os autores também o incluem entre os artefatos que podem apoiar uma avaliação formativa (p. 294). Neste projeto, a narrativa representa o processo documental para discutir sua compreensão e adequação ao contexto docente, antes de propor mudanças. A [Figura 2](#fundamentacao-no-livro) reproduz o trecho sobre avaliação formativa.
+Barbosa e Silva (2010, p. 112) apresentam o storyboard como recurso para explorar ideias de melhoria da prática de trabalho com suporte da tecnologia. Na discussão sobre cenários, os autores distinguem objetivos, ações, eventos externos e interpretação da situação (p. 184), e explicam que cada cenário descreve um caminho específico, contextualizado, em vez de reunir todos os fluxos alternativos (p. 185). Esses elementos orientam a construção da narrativa deste storyboard.
 
-## Storyboard ilustrado
+A avaliação formativa permite examinar alternativas durante a elaboração da solução; storyboards estão entre os artefatos que podem apoiá-la (BARBOSA; SILVA, 2010, p. 294). A [Figura 2](#fundamentacao-no-livro) reproduz esse trecho. O foco exclusivo em Letícia é uma decisão de escopo da avaliação, e não uma exigência geral do livro de que todo storyboard tenha apenas uma persona.
 
-A Figura 1 apresenta a história. A leitura segue da esquerda para a direita, de cima para baixo, terminando no quadro inferior de largura completa. Cada quadro contém seu identificador e as referências de tarefas. A seção seguinte permite ampliar cada quadro individualmente. Clique para ampliar ou [abra a imagem completa](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png).
+## Situação e objetivo
 
-[![Sete quadros: Rafael decide realizar a oficina, estuda orientações, vincula a turma, conduz a discussão, esclarece uma dúvida sobre o código antes do envio, reúne os retornos dos alunos e solicita e confere a declaração. A descrição equivalente e os vínculos de cada quadro estão na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png)](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png)
+Letícia pensa em uma ideia que pode virar lei e pesquisa se já existe uma proposta semelhante. Ao encontrar uma ideia sobre biblioteca comunitária, identifica a falta de atendimento noturno e decide sugerir um complemento. O desenho manual apresenta essa necessidade no terceiro quadro.
 
-<p class="caption">Figura 1 — Storyboard da Oficina Legislativa na Escola, perfil Professor, versão 0.2.</p>
-<p class="source">Fonte: roteiro baseado no cenário e na HTA/CTT de Rafael Almeida, Grupo 06 (2026); ilustração gerada com image_gen (OpenAI), com apoio do Codex, em 13/10/2026.</p>
+Seu objetivo é apresentar essa contribuição e conferir se ela integra o material encaminhado para análise. A mudança de intenção — de apresentar uma ideia própria para complementar uma existente — ocorre depois da pesquisa e da leitura. Autor, apoiadores e moderação participam do processo como agentes externos: seus efeitos chegam a Letícia por mensagens e mudanças de situação, sem cenas protagonizadas por eles.
 
-## Quadros ampliados
+## Storyboard desenhado à mão
 
-Abra o quadro desejado para ler seus textos e referências em tamanho maior. São ampliações da Figura 1, com o mesmo conteúdo; as descrições equivalentes estão na Tabela 2.
+Bruno desenhou os oito quadros no caderno. A Figura 1 apresenta a fotografia do material, em substituição à referência gerada por IA. O ensaio individual foi realizado em **23/10/2026** e a entrevista do storyboard em **24/10/2026**. A Tabela 2 descreve o desenho apresentado; os resultados da entrevista estão organizados no relato da Etapa 5.
 
-??? note "QD01 — Uma atividade com propósito"
+[![Fotografia do storyboard manual de oito quadros: Letícia pensa em uma ideia, pesquisa no Senado, encontra proposta de biblioteca comunitária, sugere atendimento noturno, recebe e confirma um ajuste, confere a publicação e localiza seu complemento nos anexos encaminhados à CDH.](../../../assets/img/storyboard/bruno/complementos-leticia-manual.jpg)](../../../assets/img/storyboard/bruno/complementos-leticia-manual.jpg)
 
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 496 / 361;">
+<p class="caption">Figura 1 — Storyboard manual de complementos de ideias legislativas.</p>
+<p class="source">Fonte: desenho manual de Bruno Ferreira Dornelas, fotografado em caderno (2026).</p>
 
-    ![QD01: Uma atividade com propósito. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.451613%; max-width: none; left: -2.419355%; top: -24.653740%; margin: 0;"}
+## Descrição dos quadros
 
-    </div>
+A Tabela 2 acompanha a fotografia. QD01–QD08 identificam os quadros para localizar as evidências da entrevista.
 
-    <p class="caption">Figura 1a — QD01: Uma atividade com propósito.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD02 — Preparar a oficina"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 497 / 361;">
-
-    ![QD02: Preparar a oficina. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.036217%; max-width: none; left: -103.822938%; top: -24.653740%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1b — QD02: Preparar a oficina.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD03 — Vincular a turma"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 496 / 353;">
-
-    ![QD03: Vincular a turma. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.451613%; max-width: none; left: -2.419355%; top: -129.461756%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1c — QD03: Vincular a turma.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD04 — Orientar e discutir"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 497 / 353;">
-
-    ![QD04: Orientar e discutir. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.036217%; max-width: none; left: -103.822938%; top: -129.461756%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1d — QD04: Orientar e discutir.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD05 — Esclarecer antes do envio"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 496 / 362;">
-
-    ![QD05: Esclarecer antes do envio. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.451613%; max-width: none; left: -2.419355%; top: -225.690608%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1e — QD05: Esclarecer antes do envio.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD06 — Reunir os retornos"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 497 / 362;">
-
-    ![QD06: Reunir os retornos. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 206.036217%; max-width: none; left: -103.822938%; top: -225.690608%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1f — QD06: Reunir os retornos.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-??? note "QD07 — Solicitar e conferir a declaração"
-
-    <div markdown="1" style="position: relative; overflow: hidden; aspect-ratio: 1001 / 314;">
-
-    ![QD07: Solicitar e conferir a declaração. Conteúdo descrito na Tabela 2.](../../../assets/img/storyboard/bruno/oficina-legislativa-v0-2.png){: .no-lightbox style="position: absolute; width: 102.297702%; max-width: none; left: -1.198801%; top: -377.707006%; margin: 0;"}
-
-    </div>
-
-    <p class="caption">Figura 1g — QD07: Solicitar e conferir a declaração.</p>
-    <p class="source">Fonte: ampliação do respectivo quadro da Figura 1, Grupo 06 / image_gen (OpenAI), 2026.</p>
-
-## Descrição dos quadros e análise de tarefas
-
-A Tabela 2 oferece a descrição textual equivalente das ações e dos diálogos relevantes e relaciona cada quadro aos modelos existentes. Os identificadores remetem às seções de [HTA](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md#analise-hierarquica-de-tarefas-hta) e [CTT](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md#arvore-de-tarefas-concorrentes-ctt); os diagramas mantêm as notações do livro.
-
-| Quadro | Cena e diálogo fictício | Relação com a análise de tarefas |
+| Quadro | Cena representada | Texto ou retorno visível |
 | --- | --- | --- |
-| **QD01 — Uma atividade com propósito** | Na escola, Rafael está diante do computador, com a mão sobre o caderno de planejamento aberto. Pensa: “Quero discutir propostas com a turma e comprovar a oficina.” A motivação reúne o objetivo educativo e a comprovação. | **HTA 0:** organizar a participação e obter a declaração. Contexto da tarefa geral **OrganizarOficina** na CTT; não acrescenta uma operação ao modelo. |
-| **QD02 — Preparar a oficina** | Antes das aulas, Rafael consulta as orientações no computador e anota as atividades no plano de aula. A preparação inclui leitura e organização pedagógica fora do portal. | **HTA 1.1–1.2:** examinar orientações e planejar atividades. **CTT P1–P3:** acessar material, apresentação pelo sistema e planejamento pelo professor. |
-| **QD03 — Vincular a turma** | Com seu acesso docente, Rafael informa instituição e turma e obtém o código. Guarda a informação para repassá-la aos alunos. O desenho representa o resultado esperado sem detalhar campos do serviço. | **HTA 2.1–2.3:** autenticar professor, informar instituição/turma e obter código. **CTT V1–V3:** interação docente e disponibilização do código pelo sistema. |
-| **QD04 — Orientar e discutir** | Em sala, Rafael conduz a discussão de propostas, compartilha o código e orienta o envio. Diz: “Vamos discutir as propostas. Usem o código da turma no envio.” Os alunos participam do debate. | **HTA 3.1–3.3:** repassar código, conduzir etapas iniciais e orientar envio. **CTT C1–C3:** atividades do professor fora do sistema. |
-| **QD05 — Esclarecer antes do envio** | Uma aluna pausa e pergunta: “Posso enviar sem o código?”. Rafael esclarece: “Sem ele, a ideia fica fora da declaração. Depois de publicada, não dá para incluir o código.” A dúvida é resolvida antes do envio; não há correção posterior presumida. | **HTA 3.3 / CTT C3:** retomada da orientação. O episódio ilustra a condição de usar o código no envio, sustentada pela evidência **E03** da análise documental. |
-| **QD06 — Reunir os retornos** | A cena ocorre depois dos envios e do recebimento dos retornos. Os alunos comunicam os resultados a Rafael, que reúne as informações e encerra a atividade. A legenda explicita: “Após receberem os retornos, os alunos os comunicam a Rafael. Ele reúne os resultados e encerra a atividade.” | **HTA 3.4–3.5 / CTT C4–C5:** reunir resultados e encerrar a oficina. Envio, análise pelo Senado e retorno aos alunos são **dependências externas** à árvore do professor; não há aprovação imediata presumida. |
-| **QD07 — Solicitar e conferir a declaração** | Após a oficina, Rafael solicita a declaração e, com o documento disponível, compara instituição, turma e participações com suas anotações. O desfecho esperado é reconhecer que a comprovação corresponde à atividade realizada. | **HTA 4.1–4.2:** solicitar declaração e conferir comprovação. **CTT D1–D3:** solicitação, disponibilização pelo sistema e conferência pelo professor. É o resultado esperado do cenário, não uma emissão observada. |
+| **QD01 — Pensar em uma ideia** | Letícia formula uma ideia. | “Pensei em uma ideia que pode virar lei”. |
+| **QD02 — Pesquisar no Senado** | Letícia consulta a página de ideias legislativas, com campo de busca. | “Vou olhar no site do Senado se já existe”. |
+| **QD03 — Encontrar ideia semelhante** | Encontra uma ideia sobre biblioteca comunitária e decide complementá-la. | “Falta atendimento noturno” e botão “Sugerir complemento”. |
+| **QD04 — Preencher e enviar** | Preenche o complemento relacionado à biblioteca comunitária. | A legenda descreve o envio para avaliação da moderação e do autor. |
+| **QD05 — Receber o ajuste** | Alguns dias depois, consulta o retorno do autor, com blocos para o complemento e o ajuste. | “O autor manda um ajuste”. |
+| **QD06 — Confirmar o ajuste** | Letícia confirma a alteração recebida. | “Confirmo o ajuste que fizeram no meu complemento”; “Envio confirmado, aguardando moderação”. |
+| **QD07 — Conferir publicação** | Após a moderação, vê o original e o complemento em blocos separados, cada um com apoios. | “É o meu texto!” e “Publicado”. |
+| **QD08 — Conferir encaminhamento** | Após a indicação de 20 mil apoios, encontra seu complemento nos anexos consultivos. | “Meu complemento está aqui!” e “Encaminhado à CDH”. |
 
-<p class="caption">Tabela 2 — Descrição equivalente e correspondência dos sete quadros com HTA/CTT.</p>
-<p class="source">Fonte: cenário, análise de tarefas e planejamento da avaliação do storyboard do perfil Professor, Grupo 06 (2026).</p>
+<p class="caption">Tabela 2 — Descrição dos oito quadros do desenho manual.</p>
+<p class="source">Fonte: fotografia do storyboard de Bruno Ferreira Dornelas (2026).</p>
 
-A regra do código vem da [análise documental, evidência E03](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md#e03). A dúvida da aluna é uma construção narrativa. A passagem do tempo não estabelece prazo para o Senado, e a conferência da declaração é o critério de conclusão adotado no cenário. Detalhes de autenticação, emissão e tratamento de divergências ainda exigem investigação.
+A descrição preserva o que está na fotografia. O quadro 4 reúne autor e moderação na legenda; o quadro 8 não contém o aviso explícito de que encaminhamento não significa aprovação. Essas diferenças em relação ao roteiro anterior são consideradas no relato, separadamente das evidências de compreensão da participante.
+
+## Regras representadas e limites do cenário
+
+O serviço atual permite apresentar e apoiar ideias e prevê o encaminhamento à CDH das que alcançam 20 mil apoios em quatro meses; o texto não pode ser alterado depois do envio (SENADO FEDERAL, 2026). O storyboard propõe uma extensão: complementos separados, concordância entre proponente e autor quando houver ajuste, moderação, apoios próprios e encaminhamento como anexos consultivos.
+
+No fluxo proposto, os apoios ao complemento não são somados aos da ideia original nem transferidos automaticamente. Ao atingir a meta, o conjunto de complementos já publicados é fechado para o encaminhamento. A inclusão desses anexos depende de adoção institucional do novo serviço. As passagens de tempo não estabelecem prazos de resposta para o autor ou para o Senado.
+
+A história representa o caminho em que Letícia concorda com o ajuste, o complemento é publicado e a ideia alcança a meta. Rejeição, retirada e encerramento sem a meta são alternativas do fluxo, não acontecimentos desta narrativa.
 
 ## Uso na avaliação
 
-Na sessão, o professor poderá ler a imagem ampliada e consultar a descrição textual. Os códigos de HTA/CTT são referências do projeto; não será exigido que o participante domine essas notações. O moderador seguirá [Q1–Q7 e o roteiro planejado](planejamento-avaliacao-storyboard.md#e-explorar-as-perguntas), registrando dúvidas pelo ID do quadro e pela versão apresentada.
+O material permite avaliar a compreensão e a adequação da experiência de **quem sugere o complemento**. A entrevista foi realizada em 24/10/2026. O relato registra os quadros discutidos, as explicações do avaliador e os limites da evidência coletada.
 
-A revisão de Caio abrange legibilidade, sequência e correspondência com a análise de tarefas, conforme o cronograma do planejamento. Alterações gerarão uma nova versão, preservando a cópia efetivamente avaliada. Os registros e encaminhamentos seguirão o [planejamento do relato](planejamento-relato-storyboard.md). Este artefato corresponde ao storyboard individual de Bruno; a consolidação dos demais storyboards pertence ao grupo.
+Os critérios de análise consideram o motivo do acesso ao computador, a decisão de complementar uma ideia existente, a distinção entre texto original e complemento, a compreensão do ajuste e dos estados de espera e a identificação do resultado final. O critério narrativo de conclusão é localizar o complemento no material encaminhado, não obter sua aprovação legislativa.
+
+O [planejamento da avaliação](planejamento-avaliacao-storyboard.md) e o [planejamento do relato](planejamento-relato-storyboard.md) adotam O1/O2 e SB-Q1–SB-Q6. A Tabela 3 relaciona os quadros ao [modelo de tarefas](analise-tarefas.md). A coleta e a organização dos resultados estão registradas no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-storyboard.md).
+
+
+| Quadro | HTA | CTT / contexto |
+| --- | --- | --- |
+| QD01 | Contexto de ativação de 0 | U0: formular intenção |
+| QD02 | 1.1: pesquisar ideias | I1: pesquisar |
+| QD03 | 1.2: examinar ideia e complementos; 2.1 não aparece explicitamente | I2: examinar; autenticação I3 não desenhada |
+| QD04 | 2.2–2.3 | I4: redigir/revisar; I5: enviar; S1: confirmar |
+| QD05 | 3.1 | I6: consultar retorno; U1: avaliar ajuste |
+| QD06 | 3.2 | I7: concordar; S2: registrar |
+| QD07 | 4.1 | I8: conferir publicação após moderação |
+| QD08 | 4.2 | I9: conferir encaminhamento confirmado |
+
+<p class="caption">Tabela 3 — Correspondência entre quadros e tarefas.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
 ## Agradecimentos
 
-O Codex (OpenAI) foi utilizado como apoio à redação do roteiro e à organização das correspondências com a análise de tarefas. A ilustração foi gerada com image_gen (OpenAI). A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) apoiou a redação e a reformulação do roteiro, a organização da fundamentação e a descrição textual dos quadros. O desenho manual é de Bruno Ferreira Dornelas. A referência preliminar foi gerada com image_gen (OpenAI), sem substituir a autoria do desenho apresentado. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
+
 
 ## Histórico de versão
 
@@ -153,18 +109,24 @@ O Codex (OpenAI) foi utilizado como apoio à redação do roteiro e à organiza�
 | 0.1 | 13/10/2026 | Storyboard com sete quadros, descrição textual e correspondência com a HTA/CTT da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.2 | 13/10/2026 | Amplia textos, esclarece retornos no QD06, simplifica o cenário, retira a versão da imagem e oferece visualização por quadro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.4 | 23/10/2026 | Substitui o recorte da Oficina Legislativa pela sugestão de complementos, com Lucas como único protagonista, nova imagem, oito quadros e fundamentação revisada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.5 | 23/10/2026 | Atualiza protagonista para Letícia, contexto da biblioteca, ilustração e rastreabilidade ao novo modelo de tarefas. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.6 | 24/10/2026 | Identifica a ilustração como referência para desenho no caderno e retira versão do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.7 | 24/10/2026 | Alinha QD02/QD03 à descoberta de como participar e à pesquisa de ideias; preserva o recorte anterior no histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.8 | 24/10/2026 | Simplifica os oito quadros para desenho no papel, mantém a biblioteca comunitária em toda a narrativa e acrescenta orientações de sequência, contexto e retornos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.9 | 24/10/2026 | Acrescenta referência visual em preto e branco com oito quadros simplificados e prompt de geração | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
-[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 112, 191–196, 203–205 e 294.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 112, 184–185 e 294.
 
-[2] GRUPO 06. **Perfil Professor — Rafael Almeida**. Brasília: FCTE/UnB, 2026. [Persona](../../../entrega-2/individual/bruno/perfil-2/persona.md), [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md), [análise documental](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md) e [análise de tarefas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
+[2] GRUPO 06. **Persona — Letícia Oliveira**. Brasília: FCTE/UnB, 2026. [Descrição da persona](../../../entrega-2/individual/heitor/persona.md).
 
-[3] GRUPO 06. **Planejamento da avaliação do storyboard da Oficina Legislativa**. Brasília: FCTE/UnB, 2026. [Planejamento DECIDE](planejamento-avaliacao-storyboard.md).
+[3] SENADO FEDERAL. **Como funciona a Ideia Legislativa**. Disponível em: [Portal e-Cidadania](https://www12.senado.leg.br/ecidadania/comofuncionaideia). Acesso em: 23 out. 2026.
 
 ## Fundamentação no livro
 
-A Figura 2 apresenta a fundamentação sobre o uso de storyboards na avaliação formativa, citada neste artefato.
+A Figura 2 reproduz o trecho sobre o uso de storyboards na avaliação formativa, citado na fundamentação deste artefato.
 
 ??? note "Figura 2 — Storyboards na avaliação formativa"
 

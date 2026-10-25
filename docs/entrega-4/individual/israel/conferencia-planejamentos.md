@@ -10,6 +10,8 @@ A Tabela 1 registra as contribuições nesta conferência documental.
 | --- | --- | --- |
 | [Israel Soares](https://github.com/IsraelSoares-25) | Aplicação dos critérios da lista aos meus quatro planejamentos e definição do plano de correção | [Escopo e conclusão](./conferencia-planejamentos.md#escopo-e-conclusao) |
 | Claude (Anthropic) | Apoio à redação, à organização e à conferência dos critérios contra o texto dos artefatos | [Aplicação dos critérios](./conferencia-planejamentos.md#aplicacao-dos-criterios-aos-planejamentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização da referência ao recorte de Bruno | [Referências](#referencias) |
+| Codex (OpenAI) | Apoio à atualização da referência | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições na conferência.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -96,6 +98,8 @@ A Tabela 4 reúne o que precisa mudar nos artefatos e o que ainda depende de inf
 
 ## Agradecimentos
 
+O Codex (OpenAI) apoiou a atualização da referência ao planejamento de Bruno em 24/10/2026.
+
 O Claude (Anthropic) apoiou a redação, a organização e a conferência dos critérios contra o texto dos artefatos. A responsabilidade pelo conteúdo publicado é do autor.
 
 ## Histórico de versão
@@ -103,12 +107,13 @@ O Claude (Anthropic) apoiou a redação, a organização e a conferência dos cr
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 13/10/2026 | Conferência dos quatro planejamentos do Agendamento de Visita contra os critérios da lista e proposta de plano de correção | [Israel Soares](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.2 | 24/10/2026 | Atualiza o título da referência ao planejamento atual de Bruno, preservando a conferência e seu histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
 [1] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
-[2] GRUPO 06. [Conferência dos planejamentos da Oficina Legislativa](../bruno/conferencia-planejamentos.md). IHC, 2026.
+[2] GRUPO 06. [Conferência dos planejamentos de complementos de ideias legislativas](../bruno/conferencia-planejamentos.md). IHC, 2026.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010.
 

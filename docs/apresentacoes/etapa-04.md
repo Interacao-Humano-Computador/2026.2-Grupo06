@@ -45,6 +45,10 @@ A autoverificação está registrada na [Lista de verificação da Etapa 4](../v
       </iframe>
     </div>
 
+## Atualização do trabalho de Bruno
+
+O trabalho atual de Bruno aborda [complementos de ideias legislativas, com Letícia](../entrega-4/individual/bruno/storyboard.md): storyboard manual fotografado, diagramas HTA/CTT e quatro planejamentos. O ensaio individual ocorreu em 23/10/2026 e as entrevistas com P01 foram realizadas e gravadas em 24/10/2026. Os resultados das gravações estão consolidados nos dois relatos da Etapa 5. O vídeo e a Tabela 1 documentam a apresentação de 13/10, não a execução das avaliações nem a versão atual dos materiais.
+
 ## Roteiro sugerido
 
 1. Escopo da etapa e framework DECIDE
@@ -67,6 +71,8 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `1.0` | 13/10/2026 | Consolidação da página com roteiro de apresentação e resultados completos da autoverificação nas Tabelas 2, 3 e 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 15/10/2026 | Padroniza a apresentação, corrige os participantes e concentra a autoverificação na aba Verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+
+| 1.3 | 23/10/2026 | Acrescenta acesso ao recorte atualizado de Bruno, preservando o registro da apresentação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

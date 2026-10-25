@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Oficina Legislativa · Autor do item: Bruno Ferreira Dornelas</span>
+<span class="owner">Responsável: Bruno Ferreira Dornelas — Complementos de ideias legislativas · Autor do item: Bruno Ferreira Dornelas</span>
 
 # Planejamento da avaliação da análise de tarefas
 
@@ -16,207 +16,137 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 ## Introdução
 
-Este planejamento organiza a avaliação formativa da **análise de tarefas da Oficina Legislativa na Escola**, com o perfil **Professor**. Uma entrevista semiestruturada remota investigará se a HTA e a CTT representam o trabalho de organizar a participação da turma e obter a declaração. A equipe também conferirá a notação dos modelos.
-
-**Participante e sessão:** A entrevista com Alisson dos Santos, professor de Física, está prevista para 21/10/2026, das 19h às 19h50, pelo Google Meet. A agenda é provisória, sujeita ao aceite do participante, com conclusão dos trabalhos até **24/10/2026, às 19h**, antes da entrega de 25/10. Materiais e TCLE serão preparados até 16/10; a pessoa do piloto será selecionada até essa data. O [planejamento do relato](planejamento-relato-analise-tarefas.md) orienta os registros futuros.
+Este planejamento organiza a avaliação formativa da análise de tarefas da proposta de **sugerir e acompanhar complementos de ideias legislativas**, por entrevista semiestruturada remota. A participante é identificada como **P01**. O ensaio individual ocorreu em **23/10/2026** e a entrevista foi realizada e gravada em **24/10/2026**. A execução, a caracterização da participante e os resultados estão descritos no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-analise-tarefas.md).
 
 ## Contextualização
 
-O objeto é a [análise de tarefas de Rafael Almeida](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md), versão 1.1 de 05/10/2026: objetivo 0, quatro subobjetivos, operações 1.1–4.2, planos HTA e CTT geral com expansões P, V, C e D. O [perfil Professor](../../../entrega-2/individual/bruno/perfil-2/perfil-usuario.md), a [persona](../../../entrega-2/individual/bruno/perfil-2/persona.md) e o [cenário](../../../entrega-2/individual/bruno/perfil-2/cenario.md) delimitam a atividade.
-
-Os modelos derivam da [análise documental E01–E09](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md). A sequência do cenário não comprova bloqueios técnicos do portal. Ações dos alunos, análise das ideias e comunicação dos retornos são dependências externas ao trabalho do professor. A avaliação não envolverá uma oficina real ou acesso à área autenticada; condições ainda não verificadas permanecerão abertas.
+A referência é [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md), do perfil participante. A [entrevista anterior](../../../entrega-2/individual/heitor/entrevista-observacao.md) sustenta participação em pautas coletivas e escrita de comunicações; a biblioteca e a negociação de complementos são hipóteses do cenário. O recorte acompanha quem sugere; autor, moderação e encaminhamento institucional são dependências externas. Não haverá acesso a contas ou publicação real no portal.
 
 ## Item de conteúdo da disciplina
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-Barbosa e Silva (2010) orientam investigar disparidades entre documentos e prática, decompor objetivos por HTA e verificar a decomposição com partes interessadas (p. 191–196). A CTT distingue tipos de tarefa e relações temporais (p. 203–205). O DECIDE organiza o planejamento (p. 312–313), com entrevista apoiada em artefatos (p. 145–149, 301).
-
-As Figuras 1–9 do [Apêndice A](#apendice-a-trechos-do-livro) apresentam DECIDE, validação da decomposição, notações, método e piloto. A organização segue também o [modelo anterior de Bruno](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf), usando a paginação da edição de **2010**. Modalidade, quantidade e instrumentos são decisões deste projeto.
+A HTA organiza objetivos, planos e operações; a decomposição deve ser verificada com as partes interessadas (BARBOSA; SILVA, 2010, p. 193–196). A CTT diferencia tipos de tarefas e relações temporais (p. 203–205). O DECIDE organiza o estudo (p. 313). As Figuras 1–10 do [Apêndice A](#apendice-a-trechos-do-livro) apresentam as referências de planejamento, modelos, entrevista e piloto.
 
 ## D — Determinar os objetivos
 
-**Objetivo geral:** identificar omissões, inadequações e dúvidas na modelagem, confrontando a HTA/CTT documental com as contribuições do professor e a notação do livro.
+- **O1 — Avaliar a adequação da ideia de design:** investigar quais necessidades relatadas podem ser atendidas pela proposta e quais condições exigem sua revisão. O resultado orientará o Grupo 06 a manter, modificar ou aprofundar o recorte.
+- **O2 — Identificar problemas na representação da interação:** localizar dificuldades de compreensão, lacunas, decisões e dependências que possam prejudicar o percurso proposto. O resultado orientará a revisão dos materiais antes de desenvolver a interface.
 
-- **AT-O1 — Objetivos e cobertura:** examinar objetivos, operações e critérios de conclusão do trabalho.
-- **AT-O2 — Condições e relações:** investigar entradas, responsabilidades, ordem, dependências e situações de interrupção ou retomada.
-- **AT-O3 — Coerência e revisão:** conferir a consistência entre notação, diagramas, tabelas e fontes, distinguindo correções sustentadas de hipóteses.
+O1 se apoia na avaliação de ideias de design, que pode ser comparativa ou não; O2 delimita a identificação de problemas ao modelo conceitual (BARBOSA; SILVA, 2010, p. 291–294). São dois objetivos operacionais do projeto, não uma quantidade exigida pelo DECIDE. A apropriação no cotidiano, o desempenho e a usabilidade do serviço implementado ficam fora deste estudo, pois a funcionalidade ainda é uma proposta.
 
-## E — Explorar as perguntas
+## E — Explorar perguntas a serem respondidas
 
-A Tabela 2 orienta a avaliação: AT-Q1–AT-Q7 serão discutidas com o professor; AT-Q8 será respondida pela equipe. Sem experiência na Oficina, o participante fornecerá expectativas e dúvidas sobre o serviço.
+As perguntas da Tabela 2 são **questões de avaliação a serem respondidas por Bruno na análise**, usando os dados da entrevista e as fontes pertinentes. Elas não são perguntas a ler diretamente para P01. O roteiro de coleta aparece em seção própria: uma conversa pode produzir evidências para várias questões, e uma questão pode exigir diferentes evidências. A formulação segue a operacionalização do DECIDE (BARBOSA; SILVA, 2010, p. 292–293, 313).
 
-| Objetivo | Pergunta de avaliação | Evidência e localização |
-| --- | --- | --- |
-| AT-O1 | AT-Q1 — O objetivo e os critérios de conclusão são pertinentes? “O que você pretende alcançar ao conduzir uma oficina assim? Como reconheceria sua conclusão?” | Relato inicial; objetivo 0; HTA 4.2; CTT D3 |
-| AT-O1 | AT-Q2 — Faltam etapas ou há ações desnecessárias/sobrepostas? “Que atividades faltam nesta organização? Alguma se repete ou poderia ser agrupada?” | Operações apontadas; HTA 1–4; CTT P, V, C, D |
-| AT-O2 | AT-Q3 — A ordem representa o trabalho e suas alternativas? “O que precisa vir antes? O que poderia ocorrer em outra ordem ou ao mesmo tempo? Em quais condições?” | Planos HTA e relações entre tarefas da CTT; exemplos do professor |
-| AT-O2 | AT-Q4 — Entradas e condições de atingimento são suficientes? “O que você precisa ter para começar esta etapa? Como sabe que terminou?” | Entrada, ação e condição de cada operação discutida; informação transmitida na CTT |
-| AT-O2 | AT-Q5 — As responsabilidades e fronteiras estão corretas? “O que depende de você, dos alunos e do serviço? Como a informação chega a quem precisa dela?” | HTA 3.1–3.5 e 4.1; tipos de tarefa e dependências externas |
-| AT-O2, AT-O3 | AT-Q6 — A modelagem contempla as condições que impedem prosseguir? “Se faltar o código, um retorno ou a comprovação, o que fica pendente e o que você precisaria esclarecer?” | Operações 2.3, 3.3–3.5, 4.1–4.2; alternativas e dúvidas, sem presumir funções de correção |
-| AT-O1, AT-O3 | AT-Q7 — O nível de detalhe e a linguagem permitem discutir o trabalho? “Qual etapa precisa ser explicada ou detalhada? Você consegue dar um exemplo?” | Nós e rótulos específicos; detalhe necessário para a finalidade da análise |
-| AT-O3 | AT-Q8 — Diagramas, planos, tipos, operadores, tabelas e fontes são coerentes com a notação do livro e entre si? | Conferência CT01–CT06 pela equipe, com figura/página e elemento localizado |
+| ID | Objetivo | Questão de avaliação | Evidências a analisar |
+| --- | --- | --- | --- |
+| AT-Q1 | O1 | O objetivo modelado corresponde a resultados relevantes nas situações relatadas? | Relato inicial, finalidade e critério de conclusão; HTA 0 |
+| AT-Q2 | O1 | Quais condições e informações tornam o percurso adequado ou inadequado ao contexto relatado? | Recursos, dependências e condições de execução; HTA 1–4 |
+| AT-Q3 | O2 | A decomposição cobre o caminho declarado, sem lacunas internas, sobreposições ou ordem incoerente? | Discussão das etapas e conferência CT01–CT05; planos P0–P4 |
+| AT-Q4 | O2 | O modelo distingue ações da proponente, respostas do sistema e decisões externas? | Interpretação das responsabilidades e conferência dos tipos e condições; HTA 3–4 |
+| AT-Q5 | O2 | Que necessidades de revisão surgem diante de discordância, espera ou ausência de encaminhamento? | Expectativas e limites dos ramos excluídos do modelo |
+| AT-Q6 | O2 | Os critérios de conclusão permitem reconhecer o encaminhamento sem confundi-lo com aprovação? | Explicação do resultado, condições e feedback; HTA 4.2 |
 
-<p class="caption">Tabela 2 — Objetivos, perguntas e evidências previstas.</p>
-<p class="source">Fonte: elaboração do projeto com base em Barbosa e Silva (2010, p. 191–196, 203–205, 313).</p>
+<p class="caption">Tabela 2 — Questões que orientarão a análise das tarefas.</p>
+<p class="source">Fonte: questões do projeto, orientadas por Barbosa e Silva (2010, p. 193–196, 291–294, 313).</p>
 
 ## C — Escolher os métodos
 
-Será realizada **investigação por entrevista semiestruturada**, apoiada nos modelos e em descrição em linguagem comum (BARBOSA; SILVA, 2010, p. 145–149, 196, 301; Figuras 2, 6 e 7 do apêndice). Antes dos diagramas, o professor relatará como organiza atividades semelhantes e sua experiência na Oficina. Depois, discutirá os quatro blocos e suas relações.
+Será realizada **entrevista semiestruturada apoiada nos modelos e em descrição em linguagem comum** (BARBOSA; SILVA, 2010, p. 145–149, 196, 301). P01 discutirá o trabalho proposto sem precisar dominar HTA/CTT. Bruno explicará a leitura por exemplo neutro, registrando esclarecimentos. A equipe realizará separadamente a conferência CT01–CT06; seus resultados apoiarão a análise de coerência dos modelos, sem serem atribuídos à entrevistada.
 
-O professor avaliará o trabalho representado, sem precisar dominar HTA/CTT. O moderador explicará a leitura com exemplo neutro, distinguindo decomposição e ordem temporal. Esclarecimentos adicionais e respostas anteriores a eles serão registrados. A **conferência técnica CT01–CT06** ficará com a equipe e responderá AT-Q8.
-
-A sessão remota terá compartilhamento de tela e cópia ampliável. Sua duração servirá apenas à organização; o detalhamento do modelo será discutido conforme a finalidade da análise, com análise qualitativa do nível de decomposição (p. 195).
-
-O relato apresentará o método e as atividades desta avaliação. A aplicação do item 7 da lista de verificação está discutida na [conferência dos planejamentos](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos).
+Esta entrevista investiga compreensão e adequação esperada. A aplicação do item 7 da lista da disciplina, que menciona prototipação em papel, permanece uma questão de adequação ao enunciado oficial, registrada na [conferência dos planejamentos](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos).
 
 ## I — Identificar e administrar questões práticas
 
 ### Participantes e equipe
 
-**Participante previsto:** Alisson dos Santos, professor de Física, indicado por Bruno. Será usado o código **AT-PROF01** nos registros. Na triagem, Bruno verificará maioridade, atuação no ensino fundamental ou médio, experiência com turmas, familiaridade com a Oficina e necessidades de acessibilidade. Esses dados ainda não foram informados; se o docente atuar apenas no ensino superior, o recorte deverá ser revisto antes da sessão.
+**P01** participou da entrevista de 24/10/2026. Sua caracterização será extraída dos registros: participação cívica ou coletiva, envio de sugestões, navegação e escrita digital e necessidades de acessibilidade, quando abordados. Não é necessário ter a mesma profissão ou idade de Letícia. Um caso exploratório permite identificar indícios e questões de revisão, sem representar todo o público; lacunas relevantes poderão exigir coleta adicional.
 
-Será avaliado **um caso exploratório**, permitindo aprofundar os quatro blocos da tarefa com os recursos disponíveis. A quantidade não representa todos os professores; lacunas centrais poderão exigir coleta adicional (BARBOSA; SILVA, 2010, p. 305, 312).
+O ensaio individual de Bruno foi realizado em 23/10/2026 e não exigiu ajustes. As entrevistas ocorreram presencialmente em 24/10/2026; as condições efetivas e os resultados estão registrados nos relatos da Etapa 5.
 
-Bruno fará o convite direto pelo canal privado de contato com Alisson até **14/10**, explicando objetivo, atividades, duração, voluntariedade e uso dos dados. Disponibilidade e consentimento serão confirmados antes da coleta. Experiência prévia na Oficina não será presumida: sem ela, as respostas sobre o serviço serão tratadas como expectativas. Eventuais vínculos com o avaliador serão registrados, evitando pressão acadêmica ou profissional.
+O planejamento atribui a Bruno a moderação, o registro e a análise, e a Caio a revisão. A modalidade prevista foi Google Meet, com dispositivo para ampliação, áudio e conexão; a execução presencial está descrita no relato. Não há despesas adicionais previstas. Fazer pausas para notas; se acesso, legibilidade ou conexão impedirem a discussão, reagendar. O registro padrão será por notas, com áudio opcional autorizado.
 
-Para o piloto, Bruno selecionará até **16/10** uma pessoa diferente de Alisson, não envolvida na elaboração, preferencialmente docente ou de perfil próximo, por indicação de contatos acadêmicos. Se Alisson não puder participar ou não atender ao perfil, o mesmo canal de indicações apoiará a substituição, com atualização da agenda.
-
-**Equipe prevista:** Bruno Ferreira Dornelas moderará e registrará a sessão, sem observador adicional, com pausas para conferir as notas. Caio Breno de Souza Bezerra é responsável pela revisão, conforme o cronograma.
-
-Alisson está previsto para as duas avaliações: storyboard em **20/10** e análise de tarefas em **21/10**. Registrar a ordem efetiva, os materiais já vistos e o consentimento para ambas; os códigos PROF01 e AT-PROF01 correspondem à mesma pessoa, não a dois participantes independentes.
+As duas entrevistas foram realizadas em 24/10/2026, no mesmo encontro. Conferir a ordem efetiva, as pausas e as explicações nas gravações. P01 é a mesma pessoa nos dois relatos; a segunda discussão não constitui observação independente.
 
 ### Materiais e delimitação da leitura
 
-A Tabela 3 delimita os modelos a apresentar, preservando seus identificadores.
+Preparar [HTA e CTT](analise-tarefas.md), descrição equivalente, exemplo neutro de leitura, roteiro, ficha de evidências, conferência técnica e TCLE. A HTA e a CTT possuem diagramas e descrições textuais equivalentes. A Tabela 3 delimita o material a discutir.
 
-| Bloco | HTA | CTT | Foco da discussão |
-| --- | --- | --- | --- |
-| Preparar | 1, operações 1.1–1.2 | P, tarefas P1–P3 | Orientações, planejamento e trabalho fora do portal |
-| Estabelecer vínculo | 2, operações 2.1–2.3 | V, tarefas V1–V3 | Identidade docente, instituição/turma, disponibilidade e reconhecimento do código |
-| Coordenar | 3, operações 3.1–3.5 | C, tarefas C1–C5 | Orientação, autoria dos alunos, retornos, espera e encerramento |
-| Comprovar | 4, operações 4.1–4.2 | D, tarefas D1–D3 | Solicitação, disponibilização e conferência da declaração |
-| Visão geral | Objetivo 0 e plano dos quatro blocos | OrganizarOficina, P, V, C, D | Ordem global, alternativas, fronteiras e critério de conclusão |
+| Bloco | HTA / CTT | Aspecto |
+| --- | --- | --- |
+| Identificar ideia | 1.1–1.2 / B1, I1–I2 | Pesquisa, pertinência e lacuna |
+| Submeter complemento | 2.1–2.3 / B2, I3–I5, S1 | Autenticação, redação, revisão e envio |
+| Resolver ajuste | 3.1–3.2 / B3, I6, U1, I7, S2 | Preservação da intenção e decisão |
+| Verificar destino | 4.1–4.2 / B4, I8–I9 | Publicação e encaminhamento condicionado |
+| Conjunto | 0, P0 / A0, U0 | Objetivo e fronteiras |
 
 <p class="caption">Tabela 3 — Cobertura da leitura dos modelos.</p>
-<p class="source">Fonte: HTA/CTT da Oficina Legislativa, Grupo 06 (2026), versão 1.1.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
-Preparar SVGs e tabelas versionados, descrição equivalente em linguagem comum, roteiro AT-Q1–AT-Q7, ficha de evidências, conferência técnica e TCLE. A descrição auxiliar manterá as ações e relações dos modelos, com os respectivos nós identificados.
-
-Será utilizado **Google Meet**, em ambientes privados, com conexão, áudio e dispositivo que permita ampliar os ramos. O link será enviado em privado. Não há despesas adicionais previstas. Se cópia ampliável e descrição não resolverem a legibilidade, ou se a conexão impedir a discussão, pausar e reagendar.
+O modelo representa o caminho de ajuste aceito, publicação e encaminhamento confirmado. Discordância, rejeição e ausência de encaminhamento serão discutidas para identificar necessidades de ampliação; a entrevista não demonstrará cobertura de ramos ainda não modelados.
 
 ### Notação exata e conferência técnica
 
-Os diagramas e suas revisões seguirão **as notações originais de Barbosa e Silva (2010)**, reproduzidas no apêndice:
+Aplicar a Tabela 4 antes do ensaio individual e após alterações. Preservar operações terminais, hierarquia e planos HTA; distinguir decomposição de ordem temporal. Na CTT, conferir os tipos e os operadores `>>` e `[]>>`, sem substituir a notação por fluxograma genérico.
 
-- **HTA:** elementos de objetivo, operação e plano da Figura 6.1 (p. 193), hierarquia da Figura 6.2 e tabela de operações das p. 194–195. Preservar marca inferior das operações terminais, números e planos. Ligações pai–filho expressam decomposição; a ordem aparece no plano, com maior que entre números no modelo atual.
-- **CTT:** símbolos dos quatro tipos de tarefa da Figura 6.4, operadores da Figura 6.5 e composição da Figura 6.6 (p. 203–205). O modelo usa ativação (&gt;&gt;) e ativação com passagem de informação ([]&gt;&gt;) entre tarefas irmãs, separadas da decomposição. Novas relações exigirão evidência e o operador correspondente do livro.
-
-A Tabela 4 será aplicada antes do piloto e a cada revisão. Fluxogramas genéricos ou símbolos inventados não substituirão as notações. Exceções serão anotadas nas tabelas pertinentes, considerando os limites da CTT para representar tratamento de erros (p. 205).
-
-| ID | Critério de conferência | Referência / registro exigido |
+| ID | Critério de conferência | Evidência exigida |
 | --- | --- | --- |
-| CT01 | Elementos HTA, marca de operação terminal, numeração, decomposição e planos correspondem à notação | Figuras 6.1–6.2, p. 193–194; identificar nó e localização do plano |
-| CT02 | Entradas, ações e condições de atingimento estão coerentes com os objetivos; sobreposição ou lacuna tem justificativa | Tabela 6.3 e discussão, p. 193–196; identificar operação e condição |
-| CT03 | Tipos de tarefa CTT usam os símbolos exatos e classificações adequadas | Figura 6.4, p. 203; identificar tarefa, tipo e justificativa |
-| CT04 | Operadores, posição e significado temporal são corretos; passagem de informação identifica qual informação é transmitida | Figuras 6.5–6.6, p. 203–205; identificar relação entre tarefas |
-| CT05 | Diagramas, expressões, legendas, tabelas e correspondência HTA/CTT descrevem o mesmo trabalho, ainda que com diferentes níveis de detalhamento | Comparação da versão avaliada e da tabela de correspondência; registrar elementos de ambos os modelos |
-| CT06 | Regras documentadas, decisões de modelagem e dependências externas são distinguíveis; interfaces não verificadas não aparecem como fatos | Evidências E01–E09 e limites da análise documental; identificar fonte/localizador |
+| CT01 | Hierarquia, operações terminais, numeração e planos HTA seguem a notação | Nó, plano e comparação com Figuras 6.1–6.2, p. 193–194 |
+| CT02 | Subobjetivos são exclusivos e cobrem o caminho declarado; entradas, ações e feedbacks são coerentes | Operação e condição; distinguir exclusão explícita de escopo de lacuna interna, que exige correção; p. 193–196 |
+| CT03 | Tipos CTT correspondem à natureza das tarefas; símbolos são conferidos quando houver diagrama | Tarefa, tipo e justificativa; Figura 6.4, p. 203 |
+| CT04 | Operadores e relações temporais são coerentes; cada passagem identifica informação, origem e destino | Par de tarefas e informação transmitida; Figuras 6.5–6.6, p. 204–205 |
+| CT05 | Modelos, planos, tabelas e quadros descrevem o mesmo trabalho | Correspondências e divergências entre elementos |
+| CT06 | Fontes, hipóteses de design e dependências externas estão distinguíveis | Fonte/localizador e condição externa; sem atribuir ao portal comportamento não verificado |
 
 <p class="caption">Tabela 4 — Conferência técnica da HTA e da CTT.</p>
-<p class="source">Fonte: critérios operacionais do grupo baseados em Barbosa e Silva (2010, p. 191–196, 203–205).</p>
+<p class="source">Fonte: critérios do projeto baseados em Barbosa e Silva (2010, p. 193–196, 203–205).</p>
 
 ### Roteiro da sessão remota
 
-A Tabela 5 prevê 45 minutos, com até cinco adicionais para pausas ou ajustes. A duração será conferida no piloto.
+A Tabela 5 contém **estímulos de coleta**, distintos das questões do DECIDE. Prevê 45 minutos, com reserva de até 50 minutos, como duração planejada; conferir a duração efetiva nas gravações.
 
-| Momento | Tempo | Procedimento |
-| --- | --- | --- |
-| Acolhimento e consentimento | 5 min | Confirmar aceite, autorizações e conforto; testar áudio e leitura; esclarecer que a análise de tarefas está sendo avaliada |
-| Contexto e relato livre | 7 min | Registrar etapa de ensino, experiência com atividades de turma e com a Oficina; perguntar como organiza trabalho semelhante, antes de mostrar os modelos |
-| Orientação de leitura | 3 min | Explicar objetivos, decomposição, planos, responsabilidades e relações com exemplo neutro; oferecer descrição textual equivalente |
-| Discussão dos quatro blocos | 18 min | Percorrer preparação, vínculo, coordenação e comprovação; explorar AT-Q1–AT-Q5 e AT-Q7 com perguntas abertas |
-| Dependências e situações de exceção | 7 min | Retomar AT-Q3–AT-Q6 para falta de código antes do envio, retorno pendente e documento indisponível/divergente; registrar limites e dúvidas |
-| Encerramento | 5 min | Conferir síntese, permitir correções e recolher comentário final; relembrar uso dos dados e contato |
+| Momento | Tempo | Condução e estímulos à entrevistada | Questões apoiadas |
+| --- | --- | --- | --- |
+| Acolhimento | 5 min | Confirmar consentimento, testar leitura e esclarecer que os modelos estão sendo avaliados | Condições da coleta |
+| Contexto | 7 min | Retomar o relato inicial colhido antes dos materiais: “Que resultado você procurava? Como tentou alcançá-lo?” | AT-Q1–AT-Q2 |
+| Orientação | 3 min | Explicar hierarquia e sequência com exemplo neutro; oferecer descrição equivalente | Acesso aos modelos |
+| Discussão dos blocos | 18 min | “Como você faria isso?”; “De que informação precisaria?”; “O que falta ou está fora de ordem?”; “Quem precisa agir aqui?” | AT-Q1–AT-Q4 |
+| Exceções e conclusão | 7 min | “Se discordasse do ajuste, como esperaria prosseguir?”; “O que já aconteceu ao final? O que ainda depende de outras pessoas?”; “O que muda se não houver encaminhamento?” | AT-Q5–AT-Q6 |
+| Encerramento | 5 min | Conferir a síntese, acolher correções e relembrar contato e uso dos dados | Conferência da interpretação |
 
-<p class="caption">Tabela 5 — Sequência prevista da sessão.</p>
-<p class="source">Fonte: operacionalização do projeto a partir de Barbosa e Silva (2010, p. 145–149, 196, 301, 305–308).</p>
+<p class="caption">Tabela 5 — Roteiro de coleta da análise de tarefas.</p>
+<p class="source">Fonte: instrumento do projeto, orientado por Barbosa e Silva (2010, p. 145–149, 196, 301).</p>
 
-**Instrução inicial:** “Queremos discutir se estas etapas, informações e responsabilidades fazem sentido para sua prática e o que precisa ser revisto. Você não precisa conhecer as notações. Pode discordar, pedir explicações, não responder ou interromper.”
-
-Usar perguntas neutras, como “O que faz essa etapa ser necessária?” e “Pode contar um exemplo?”. Distinguir experiência vivida, expectativa e informação lida no material.
+Não exigir aprovação da proposta: registrar discordâncias, razões e alternativas. Separar experiência vivida, expectativa e informação aprendida ao ler os materiais.
 
 ### Piloto, cronograma e condições de início
 
-O piloto é um **ensaio do procedimento**, incluindo breve análise dos dados para corrigir materiais e registros antes da avaliação (BARBOSA; SILVA, 2010, p. 307–308; Figuras 8 e 9 do apêndice). A pessoa será diferente de AT-PROF01, não terá participado da elaboração e será preferencialmente docente ou de perfil próximo.
+Bruno realizou o **ensaio individual em 23/10/2026**. O procedimento previa conferir acesso, legibilidade, roteiro, duração estimada, registro e análise. Não houve ajustes decorrentes do ensaio; respostas fictícias permanecem separadas dos dados de P01. Essa adaptação não verifica compreensão por outra pessoa e não equivale ao piloto com participante descrito por Barbosa e Silva (2010, p. 307–308).
 
-Ensaiar consentimento, acesso, legibilidade, orientação, duração, registro e análise. Verificar se os registros localizam nós/relações e distinguem experiência de hipótese. Mudanças extensas exigirão novo piloto. **Seus dados não entrarão nos resultados principais**; conservar apenas os ajustes metodológicos desidentificados.
+<a id="registro-de-agendamento-previsto"></a>
 
-A Tabela 6 define a **agenda provisória de outubro de 2026**, no horário de Brasília (UTC−3). Os horários poderão ser ajustados após o aceite, preservando o piloto anterior à entrevista e a conclusão até **24/10, às 19h**. A entrega seguinte está prevista para 25/10.
+### Registro da execução
 
-| Atividade | Data e horário propostos | Responsável | Produto / condição |
-| --- | --- | --- | --- |
-| Convidar Alisson e verificar perfil; selecionar pessoa do piloto | 14/10, 17h–17h30; confirmar até 16/10 | Bruno | Contato compartilhado entre os dois planos; aceites e triagem registrados |
-| Conferir CT01–CT06; preparar cópias, descrição em linguagem acessível, roteiro e TCLE | 16/10, 18h–21h | Bruno; revisão conjunta dos materiais por Caio em 16/10, 21h–22h | Materiais versionados e instrumentos prontos |
-| Realizar piloto | 17/10, 19h–19h50 | Bruno e pessoa selecionada para o piloto | Procedimento e registros ensaiados |
-| Analisar piloto e ajustar materiais | 18/10, 19h–20h | Bruno | Dados analisáveis e ajustes documentados |
-| Reserva para novo piloto, se necessário | 19/10, 19h–19h50 | Bruno e pessoa do piloto | Confirmar correções antes da sessão principal |
-| Entrevistar Alisson (AT-PROF01) | 21/10, 19h–19h50 | Bruno e Alisson | Consentimento e dados da avaliação |
-| Organizar e interpretar os dados | 21/10, 20h–20h30; 22/10, 19h–20h30 | Bruno | Evidências e síntese por pergunta |
-| Consolidar o relato e revisar | 23/10, 19h–20h; 24/10, 17h–18h | Bruno e Caio | Relato revisado e encaminhamentos |
-| Conferir conjunto final para a entrega | 24/10, 18h–19h | Bruno | Conferência conjunta dos dois artefatos e relatos |
-
-<p class="caption">Tabela 6 — Cronograma proposto da avaliação e do relato.</p>
-<p class="source">Fonte: elaboração do projeto com base nas atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
-
-### Registro de agendamento previsto
-
-A Tabela 7 apresenta as datas propostas, sujeitas à confirmação com os participantes. O aceite, os links privados, as versões e as autorizações serão registrados antes da execução. Bruno usará pasta privada fora do repositório, organizada por avaliação e separando contatos/TCLE dos dados analíticos. Em caso de reagendamento, o piloto será mantido antes da avaliação principal.
-
-| Sessão | Data proposta | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma | Participante e condição |
-| --- | --- | --- | --- | --- | --- |
-| Piloto da análise de tarefas | 17/10/2026 | 19h–19h50 | 50 min | Remota, Google Meet; ambientes privados | Pessoa a selecionar até 16/10, diferente de Alisson e não envolvida na elaboração |
-| Avaliação da análise de tarefas | 21/10/2026 | 19h–19h50 | 50 min | Remota, Google Meet; link privado | Alisson dos Santos, professor de Física; confirmar perfil, aceite e consentimento |
-
-<p class="caption">Tabela 7 — Agenda provisória das sessões.</p>
-<p class="source">Fonte: decisões operacionais do projeto, orientadas por Barbosa e Silva (2010, p. 307–308).</p>
+Ensaio individual: **23/10/2026**. Entrevista gravada com P01: **24/10/2026**, no encontro das duas avaliações. A [agenda comum](conferencia-planejamentos.md#agenda-e-preparacao) registra as datas; o [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-analise-tarefas.md) apresenta a duração da gravação, o procedimento efetivo e os resultados.
 
 ## D — Decidir como lidar com questões éticas
 
-Os cuidados seguem Barbosa e Silva (2010, p. 138–142) e os [aspectos éticos do grupo](../../../entrega-2/etica.md). O TCLE específico informará atividades, duração, registros, responsáveis, uso acadêmico, contato e retenção dos dados.
+O [protocolo ético comum](planejamento-avaliacao-storyboard.md#d-decidir-como-lidar-com-questoes-eticas) registra participação voluntária, condições efetivas de gravação, autorização das duas entrevistas, privacidade e retirada. O TCLE foi assinado em 25/10/2026 e permanece em arquivo privado.
 
-- **Autonomia:** consentimento antes da coleta; participação voluntária, com liberdade para não responder ou interromper sem prejuízo.
-- **Beneficência:** aperfeiçoar a representação do trabalho e orientar o projeto, sem prometer mudanças no serviço.
-- **Não maleficência:** avaliar os artefatos, preservar o professor e evitar dados de alunos, credenciais ou operações reais.
-- **Justiça e equidade:** selecionar pelo perfil e oferecer ampliação, descrição equivalente e pausas.
-
-O registro padrão será por notas. Áudio e uso de trechos desidentificados dependerão de autorização; câmera facial não será exigida nem gravada. Gravação e transcrição automática permanecerão desativadas sem consentimento específico. Sem áudio verificável, usar paráfrases identificadas.
-
-Bruno manterá registros em pasta privada, acessível apenas aos avaliadores e revisor informados no termo. Identidade, contatos e TCLE ficarão separados das evidências e fora do repositório público. Propõe-se excluir registros brutos e chave de identificação até **30 dias após o encerramento da disciplina**. O TCLE trará data, contato e possibilidade de retirada enquanto os dados forem identificáveis, esclarecendo limites após publicação de sínteses desidentificadas.
-
-O contato para dúvidas e retirada será Bruno, pelo mesmo canal privado do convite. A publicação do nome do participante dependerá de autorização específica; sem ela, o nome será substituído pelo código também nos planejamentos antes da publicação.
+Usar P01 nos artefatos e suprimir identificações nominais nas cópias destinadas à publicação. O termo prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026; as gravações são acessadas pelos links do YouTube. Não foram previstas credenciais nem operações reais no portal.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
-Cada evidência terá ID **AT-EV**, origem, versão, pergunta/critério, nó ou relação, localizador, registro, intervenção e interpretação separados. Distinguir conferência técnica, fonte documental, experiência e expectativa do professor. Cada AT-Q terá resposta sustentada ou indicação de dados insuficientes, conforme os [instrumentos do relato](planejamento-relato-analise-tarefas.md#instrumentos-para-registrar-e-analisar-os-dados).
+Bruno responderá **AT-Q1–AT-Q6** com as evidências da entrevista, dos documentos e de CT01–CT06. O [planejamento do relato](planejamento-relato-analise-tarefas.md#instrumentos-para-registrar-e-analisar-os-dados) define registros e critérios. Comparar a proposta com experiências análogas e expectativas; não há uso observado desta funcionalidade.
 
-A análise localizará lacunas de cobertura, condições, ordem, responsabilidades, notação e clareza. Guardar a versão avaliada, vincular recomendações às evidências e preservar as notações nas revisões. O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312).
-
-Conforme o último E do DECIDE (p. 313), considerar:
-
-- **Confiabilidade:** preservar versões, localizadores e intervenções; revisar a ligação entre dados e conclusões.
-- **Validade interna:** ouvir o relato livre antes dos modelos; distinguir dificuldade de leitura da notação e problema do trabalho; registrar exposição ao storyboard.
-- **Validade externa:** limitar conclusões ao caso e à experiência do participante; ausência de prática na Oficina não confirma seu fluxo real.
-- **Validade ecológica:** explicitar diferenças entre a conversa e aulas, envios, esperas e uso autenticado.
-
-A concordância do professor não certifica integralmente o modelo. Lacunas documentais e limites da CTT orientarão investigações adicionais, sem supor funcionalidades para preenchê-los.
+Preservar materiais e intervenções para permitir revisão das conclusões. Considerar influência da notação e do storyboard anterior, limites de um caso e diferenças entre discussão remota e trabalho real — confiabilidade e validades interna, externa e ecológica (BARBOSA; SILVA, 2010, p. 313). Concordância da entrevistada não certifica toda a árvore nem sua notação. O relato seguirá os sete componentes das p. 311–312.
 
 ## Agradecimentos
 
-O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
-
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
@@ -225,16 +155,15 @@ O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos in
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Indica Alisson dos Santos, professor de Física, e define agenda provisória até 24/10, equipe e preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.4 | 23/10/2026 | Alinha recorte a Letícia, objetivos e perguntas à Tabela 9.1; atualiza instrumentos e agenda para 23 e 24/10. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.5 | 24/10/2026 | Retoma a estrutura dos planejamentos do professor, adaptada ao complemento e a Letícia; retira identificação de versões do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.0 | 24/10/2026 | Reorganiza o DECIDE para a proposta de complementos, separa questões de avaliação e roteiro, indica P01 e substitui a agenda anterior por coleta a agendar; simplifica instrumentos e preserva o histórico do recorte docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
-[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 138–149, 191–196, 203–205, 294–313.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 138–149, 193–196, 203–205, 291–294, 301, 307–313.
 
-[2] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
-
-[3] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
-
-[4] DORNELAS, Bruno Ferreira. **Planejamento de avaliação de IHC: framework DECIDE — Prefeitura de Unaí**. Brasília: FCTE/UnB, 2026. [PDF do modelo](../../../assets/docs/sites/07_Bruno_Dornelas_Planejamento_Avaliacao_DECIDE.pdf).
+[2] GRUPO 06. **Complementos de ideias legislativas**. [Storyboard](storyboard.md), [análise de tarefas](analise-tarefas.md) e [conferência dos planejamentos](conferencia-planejamentos.md). Brasília: FCTE/UnB, 2026.
 
 ## Apêndice A — Trechos do livro
 
@@ -295,3 +224,11 @@ As figuras a seguir fundamentam a escolha da entrevista, a preparação do pilot
     ![Continuação das orientações do piloto, triagem e combinação de data, horário e local.](../../../assets/img/referencias/barbosa-piloto-recrutamento-p308.png)
     <p class="caption">Figura 9 — Participante do piloto, recrutamento e agendamento.</p>
     <p class="source">Fonte: Barbosa e Silva (2010, p. 308), reprodução do exemplar do projeto.</p>
+
+A tabela de objetivos e perguntas do livro está reproduzida abaixo.
+
+??? note "Objetivos e perguntas — Tabela 9.1"
+
+    ![Quatro objetivos e exemplos de perguntas de avaliação.](../../../assets/img/referencias/barbosa-objetivos-p293.png)
+    <p class="caption">Figura 10 — Objetivos e perguntas de avaliação.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 293).</p>

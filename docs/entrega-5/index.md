@@ -21,7 +21,7 @@ A Etapa 5 reúne os **relatos das avaliações do storyboard e da análise de ta
 
 Conforme o [cronograma do projeto](../entrega-1/cronograma.md), a entrega está prevista para **25/10/2026**, a inspeção para **26/10** e a apresentação para **27/10**. A execução da avaliação do papel e seu relato integram a Etapa 6, com entrega em **03/11/2026**.
 
-Estão disponíveis os dois planejamentos individuais de Bruno e os quatro artefatos de Caio. Os relatos de Caio estão em elaboração, com perguntas, respostas, análise e recomendações organizadas; a conclusão depende da inclusão dos vídeos e da conferência dos registros. Os planejamentos do papel orientam as atividades da Etapa 6.
+Estão disponíveis os dois planejamentos de Bruno e seus dois relatos, além dos quatro artefatos de Caio. Os dois relatos de Bruno reúnem evidências das gravações de 24/10/2026, respostas ao DECIDE e propostas de revisão. Os relatos de Caio estão em elaboração, com perguntas, respostas, análise e recomendações organizadas; a conclusão depende da inclusão dos vídeos e da conferência dos registros. Os planejamentos do papel orientam as atividades da Etapa 6.
 
 ## Artefatos individuais da etapa
 
@@ -29,14 +29,14 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 
 | Integrante | Funcionalidade / Persona | Relatos das avaliações anteriores | Protótipo de papel |
 | --- | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Oficina Legislativa na Escola — Professor / Rafael Almeida | Storyboard: aguarda dados da avaliação.<br>Análise de tarefas: aguarda dados da avaliação. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Complementos de ideias legislativas — participante / Letícia Oliveira | [Storyboard](individual/bruno/relato-storyboard.md) e [análise de tarefas](individual/bruno/relato-analise-tarefas.md): evidências e resultados organizados. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Votação em consulta pública — Letícia Oliveira | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): perguntas, respostas e análise organizadas; versão em elaboração. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Agendamento de visita ao Senado | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Recorte da Etapa 5 a registrar pelo integrante | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
-<p class="source">Fonte: artefatos disponíveis no repositório em 22/10/2026 e recortes da Etapa 4.</p>
+<p class="source">Fonte: artefatos disponíveis no repositório e recortes da Etapa 4.</p>
 
 Consultar também o [índice de Caio](individual/caio/index.md), com a agenda proposta, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
 
@@ -54,7 +54,7 @@ A Tabela 3 delimita os insumos e o destino dos quatro artefatos previstos, evita
 <p class="caption">Tabela 3 — Insumos e continuidade dos artefatos.</p>
 <p class="source">Fonte: organização do projeto com base no cronograma das Etapas 4–6.</p>
 
-Os planos da Oficina Legislativa seguem o DECIDE, com objetivos, perguntas, método, questões práticas, ética e análise. O relato previsto contempla tarefas efetivamente executadas, evidências, problemas corrigidos e pendentes e eventual recorrência após correções. Datas de sessões e participação são propostas, a confirmar antes da coleta.
+Os planos de complementos de ideias legislativas seguem o DECIDE, com objetivos, perguntas, método, questões práticas, ética e análise. O relato previsto contempla tarefas efetivamente executadas, evidências, problemas corrigidos e pendentes e eventual recorrência após correções. As entrevistas de storyboard e tarefas de Bruno ocorreram em 24/10/2026; o teste de papel da Etapa 6 tem [agenda proposta](individual/bruno/planejamento-avaliacao-prototipo-papel.md#cronograma-e-registro-de-agendamento-previsto), com piloto em 28/10, sessão principal em 30/10 e fechamento até 02/11; equipe e disponibilidade ainda serão confirmadas.
 
 ## Agradecimentos
 
@@ -67,6 +67,7 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `0.1` | 19/10/2026 | Abertura da seção por integrante e inclusão dos dois planejamentos individuais da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
 | `0.2` | 22/10/2026 | Integra os quatro artefatos de Caio e a lista de verificação da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 25/10/2026 | Inclui as estruturas dos relatos de Bruno, ainda sem resultados de coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
 
 ## Referências
 
