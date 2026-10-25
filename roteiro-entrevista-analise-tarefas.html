@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173b36">
+  <title>Roteiro de entrevista — análise de tarefas</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #19312e;
+      --muted: #536963;
+      --paper: #f5f7f3;
+      --surface: #fff;
+      --line: #d8e1dc;
+      --green: #176b55;
+      --green-pale: #e8f3ed;
+      --blue-pale: #edf3f7;
+      --blue: #315d75;
+      --amber-pale: #fff4dc;
+      --amber: #795313;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .topbar {
+      background: #173b36;
+      color: #f4f8f3;
+      padding: 1rem max(1.25rem, calc((100% - 920px) / 2));
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+    .topbar span { font-size: .9rem; letter-spacing: .02em; }
+    button {
+      border: 1px solid #8caf9f;
+      border-radius: 5px;
+      padding: .55rem .85rem;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      cursor: pointer;
+    }
+    button:hover { background: #28564d; }
+    button:focus-visible, a:focus-visible { outline: 3px solid #e9bd59; outline-offset: 3px; }
+    main { width: min(100% - 2rem, 820px); margin: 3rem auto 5rem; }
+    header.intro { border-bottom: 1px solid var(--line); padding: 0 0 2rem; margin-bottom: 2rem; }
+    .kicker { color: var(--green); font-weight: 700; font-size: .9rem; margin: 0 0 .55rem; }
+    h1 { font-size: clamp(2rem, 6vw, 3.4rem); line-height: 1.08; letter-spacing: -.045em; margin: 0; max-width: 14ch; }
+    .intro p:last-child { color: var(--muted); max-width: 65ch; margin: 1rem 0 0; }
+    section { margin: 2.5rem 0; }
+    h2 { font-size: 1.45rem; line-height: 1.25; letter-spacing: -.02em; margin: 0 0 1rem; }
+    h3 { font-size: 1.08rem; margin: 0; }
+    .section-note { color: var(--muted); margin: -.5rem 0 1.2rem; }
+    .say, .example, .note {
+      padding: 1rem 1.2rem;
+      border-left: 4px solid;
+      margin: 1rem 0;
+    }
+    .say { border-color: var(--green); background: var(--green-pale); }
+    .example { border-color: var(--blue); background: var(--blue-pale); }
+    .note { border-color: #c28b22; background: var(--amber-pale); color: #493916; }
+    .say p, .example p, .note p { margin: .35rem 0 0; }
+    .speaker { font-size: .83rem; font-weight: 750; color: var(--green); }
+    .example .speaker { color: var(--blue); }
+    .note .speaker { color: var(--amber); }
+    .question {
+      display: grid;
+      grid-template-columns: 4.5rem 1fr;
+      gap: 1rem;
+      align-items: start;
+      padding: 1.2rem 0;
+      border-top: 1px solid var(--line);
+    }
+    .question-id {
+      color: var(--green);
+      font-size: .82rem;
+      font-weight: 750;
+      padding-top: .15rem;
+    }
+    .question blockquote { margin: .35rem 0 0; font-size: 1.04rem; }
+    .question .example { margin: .8rem 0 0; }
+    .closing { border-top: 2px solid var(--green); padding-top: 1.5rem; }
+    footer { color: var(--muted); font-size: .88rem; border-top: 1px solid var(--line); padding-top: 1.2rem; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+    @media (max-width: 560px) {
+      .topbar { align-items: flex-start; flex-direction: column; }
+      main { width: min(100% - 1.25rem, 820px); margin-top: 2rem; }
+      .question { grid-template-columns: 1fr; gap: .25rem; }
+      .say, .example, .note { padding: .85rem 1rem; }
+    }
+    @media print {
+      :root { --paper: #fff; }
+      body { background: #fff; font-size: 11pt; }
+      .topbar { display: none; }
+      main { width: 100%; margin: 0; }
+      header.intro { padding-top: 0; }
+      section, .question, .say, .example, .note { break-inside: avoid; }
+      .say, .example, .note { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      h1 { font-size: 28pt; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <span>Pesquisa com participantes · roteiro de moderação</span>
+    <button type="button" onclick="window.print()">Imprimir / salvar PDF</button>
+  </div>
+  <main>
+    <header class="intro">
+      <p class="kicker">Vídeo 2</p>
+      <h1>Conversa sobre a análise de tarefas</h1>
+      <p>Roteiro para conversar sobre como encontrar uma plenária, verificar as condições e solicitar uma vaga. As respostas de exemplo são apenas referências para ensaio; não devem ser lidas nem sugeridas à participante.</p>
+    </header>
+
+    <section aria-labelledby="livre">
+      <h2 id="livre">Abertura e relato livre <span class="question-id">AT-AT01</span></h2>
+      <div class="say">
+        <div class="speaker">Luís · diga</div>
+        <p>“Agora vamos conversar sobre as etapas para encontrar uma plenária, verificar as condições e solicitar uma vaga. Você não precisa conhecer HTA ou CTT. Primeiro, quero saber como você faria essa tarefa sem olhar o modelo. Pode explicar do seu jeito, como se estivesse me contando o que faria?”</p>
+      </div>
+      <div class="example">
+        <div class="speaker">Entrevistada · resposta possível</div>
+        <p>“Eu começaria procurando a plenária que me interessa. Depois, olharia as informações, como data, horário e se ainda tem vaga. Se estivesse tudo certo, preencheria meus dados e enviaria a solicitação. Aí esperaria uma confirmação para saber se deu certo.”</p>
+      </div>
+      <aside class="note">
+        <div class="speaker">Condução</div>
+        <p>Deixe a participante terminar sem interromper nem corrigir. Se ela parar, use uma pergunta neutra, como “O que você faria depois?”. Registre a descrição antes de mostrar o modelo.</p>
+      </aside>
+    </section>
+
+    <section aria-labelledby="modelo">
+      <h2 id="modelo">Apresentação do modelo <span class="question-id">AT-AT02</span></h2>
+      <div class="say">
+        <div class="speaker">Luís · diga</div>
+        <p>“Obrigado. Agora vou mostrar um modelo que organiza algumas etapas da tarefa. O objetivo geral é encontrar uma plenária adequada e entender o resultado de uma solicitação. O modelo inclui localizar a plenária, conferir os detalhes, verificar vagas, preencher e revisar os dados, enviar e interpretar a resposta. Vamos conversar sobre esses passos em linguagem comum. A conferência técnica dos símbolos será feita pela equipe.”</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="perguntas">
+      <h2 id="perguntas">Perguntas sobre a tarefa</h2>
+      <p class="section-note">Faça as perguntas sem pedir que a participante aprove a notação ou a correção formal do modelo.</p>
+
+      <article class="question">
+        <div class="question-id">AT-Q1</div><div><h3>Meta e conclusão</h3>
+          <blockquote>“O que a pessoa está tentando alcançar? Como ela reconheceria que terminou?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“Ela quer conseguir uma vaga na plenária que escolheu. Acho que terminou quando recebe uma confirmação, ou pelo menos uma resposta clara dizendo se a solicitação foi aceita.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q2</div><div><h3>Etapas faltantes ou repetidas</h3>
+          <blockquote>“Tem alguma atividade importante que está faltando ou que aparece mais de uma vez?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“Talvez fosse importante conferir a data e o local antes de pedir a vaga. E eu acho que verificar se ainda tem vaga poderia acontecer antes de preencher tudo.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q3</div><div><h3>Ordem, alternativas e retornos</h3>
+          <blockquote>“Que etapas precisam vir antes de outras? Em que situações a pessoa voltaria ou escolheria outro caminho?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“Primeiro eu procuraria a plenária e olharia as informações. Depois verificaria se há vaga. Se não tivesse, tentaria encontrar outra. Se tivesse, preencheria os dados, revisaria e enviaria.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q4</div><div><h3>Informações antes do envio</h3>
+          <blockquote>“O que a pessoa precisa saber antes de enviar a solicitação? O que ainda pode revisar?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“Precisa saber se escolheu a plenária certa e se há vaga. Antes de enviar, eu gostaria de revisar meus dados e conferir o horário e o local.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q5</div><div><h3>Pessoa e sistema</h3>
+          <blockquote>“O que depende da pessoa e o que depende do sistema?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“A pessoa escolhe a plenária, preenche os dados e envia. O sistema precisa mostrar as informações e dizer se ainda tem vaga e se a solicitação foi recebida.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q6</div><div><h3>Plenária sem vagas</h3>
+          <blockquote>“O que deveria acontecer se a plenária já estivesse sem vagas?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“O sistema deveria avisar antes de eu preencher tudo, se possível. Também poderia mostrar outras plenárias ou explicar que não dá para solicitar uma vaga. Não deveria deixar parecer que a inscrição foi feita.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q7</div><div><h3>Última vaga ocupada durante o preenchimento</h3>
+          <blockquote>“E se a última vaga acabasse enquanto a pessoa preenche? Como ela saberia o que ocorreu?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“Quando eu enviasse, o sistema deveria verificar de novo. Se a vaga tivesse acabado, precisava explicar que a solicitação não foi concluída e dizer o que posso fazer agora.”</p></div>
+        </div>
+      </article>
+      <article class="question">
+        <div class="question-id">AT-Q8</div><div><h3>Termos e explicações</h3>
+          <blockquote>“Tem algum termo ou etapa que você explicaria de outro jeito?”</blockquote>
+          <div class="example"><div class="speaker">Resposta possível</div><p>“‘Interpretar a resposta’ parece meio técnico. Eu diria ‘ver se a solicitação foi aceita’. Também explicaria o que acontece depois de enviar.”</p></div>
+        </div>
+      </article>
+    </section>
+
+    <section class="closing" aria-labelledby="encerramento">
+      <h2 id="encerramento">Síntese e encerramento</h2>
+      <div class="say"><div class="speaker">Luís · sintetize com base no que ela realmente disse</div>
+        <p>“Entendi que, para você, a pessoa deve encontrar a plenária, conferir as informações e a disponibilidade, preencher e revisar os dados e, depois de enviar, receber uma resposta clara. Também é importante avisar se uma vaga acabar e explicar quais são as opções. Essa síntese representa o que você quis dizer? O que falta?”</p>
+      </div>
+      <div class="example"><div class="speaker">Entrevistada · resposta possível</div>
+        <p>“Sim, é isso. Eu só acrescentaria que a confirmação deveria dizer claramente se a vaga foi garantida ou se ainda falta alguma coisa.”</p>
+      </div>
+      <div class="say"><div class="speaker">Luís · encerre</div>
+        <p>“Obrigado. Vou registrar suas observações junto da etapa correspondente e separar seus comentários da conferência técnica do modelo.”</p>
+      </div>
+    </section>
+    <footer>
+      <strong>Nota técnica:</strong> a participante comenta a tarefa em linguagem comum. Registre a análise técnica da HTA/CTT separadamente, pela equipe.
+    </footer>
+  </main>
+</body>
+</html>
