@@ -20,6 +20,9 @@ A Tabela 1 registra quem atuou neste artefato.
 
 Este é um **cenário de problema**: ele descreve a situação atual da interação, retratando as dificuldades enfrentadas pela [persona](persona.md) ao tentar votar em uma consulta pública no Portal do Senado Federal (módulo e-Cidadania). A narrativa reflete fielmente os dados obtidos na entrevista semiestruturada e o comportamento verificado durante a [observação da tarefa](entrevista-observacao.md#protocolo-de-observacao) com a participante P3 em 27/09/2026. O artefato segue a fundamentação metodológica de Barbosa e Silva (2010, cap. 6) e a estrutura consolidada em [cenários do grupo](../../cenarios.md#estrutura-dos-cenarios).
 
+!!! info "Nota de transição de escopo na Etapa 4"
+    Este cenário documenta o problema empírico identificado na consulta pública em 27/09/2026. A partir da Etapa 4, o escopo da tarefa foi refinado para a **Participação em Eventos Interativos (audiência pública ao vivo da CRA sobre o PL 1215/2025)**, na qual a fricção de usabilidade evolui da localização de botões para o direcionamento de perguntas técnicas a oradores em tempo real.
+
 ## Identificação
 
 A Tabela 2 resume as características do cenário.
@@ -90,6 +93,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.0` | 27/09/2026 | Redação completa do cenário de problema baseada na observação empírica com o PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Ajusta o título para descrever a situação: o projeto é encontrado e o voto fica escondido | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 24/10/2026 | Adiciona nota de transição de escopo da tarefa para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 

@@ -44,9 +44,8 @@ A Tabela 2 reúne as cinco personas vinculadas às sessões e as duas personas d
 | Integrante | Persona | Perfil de usuário | Status |
 | --- | --- | --- | --- |
 | Bruno Ferreira Dornelas | [Lucas Mendes](individual/bruno/persona.md) | Cidadão leigo, caixa de supermercado e estudante de Ciências Econômicas; demanda ocasional de compreensão de proposições (PERF-01) | Primária |
-| Bruno Ferreira Dornelas | [Rafael Almeida](individual/bruno/perfil-2/persona.md) | Professor; atuação na Oficina Legislativa investigada por documentos, sem entrevista | Primária |
 | Caio Breno de Souza Bezerra | [Renata Moreira](individual/caio/persona.md) | Estagiária que separa notícias do setor aeroespacial para um anuário anual | Secundária |
-| Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania | Primária |
+| Heitor Pinheiro Gonçalves das Chagas | [Letícia Oliveira](individual/heitor/persona.md) | Participante de movimento social que vota em consultas públicas no e-Cidadania (tarefa expandida na Etapa 4 para participação em evento interativo) | Primária |
 | Israel Soares de Paiva | [Marta Oliveira](individual/israel/persona.md) | Servidora pública de fora do Senado, com demanda pontual de agendamento de visita institucional ao Senado | Secundária |
 | Luís Henrique Luna de Arruda | [Marina Alves](individual/luis/persona.md) | Engenheira química formada, estudante para concursos, que consulta reuniões e pautas sob demanda | Primária |
 | Caio Breno de Souza Bezerra | [Camila Nogueira](individual/caio/perfil-2/persona.md) | Proponente de ideia legislativa; recorte documental de participação cívica, sem entrevista | Focal no trabalho de Caio; prioridade global a revisar |
@@ -57,7 +56,7 @@ A Tabela 2 reúne as cinco personas vinculadas às sessões e as duas personas d
 As prioridades atuais distinguem objetivos e tarefas:
 
 - **Lucas Mendes:** compreender a situação de uma proposição de interesse cotidiano, com linguagem acessível e identificação do documento correto.
-- **Letícia Oliveira:** localizar a consulta pública e registrar seu posicionamento.
+- **Letícia Oliveira:** localizar a consulta pública e registrar seu posicionamento (com escopo expandido na Etapa 4 para envio de pergunta técnica a orador em audiência da CRA).
 - **Marina Alves:** localizar uma reunião de comissão e relacionar pauta e resultado.
 - **Rafael Almeida:** coordenar a participação da turma e obter a comprovação da oficina.
 - **Camila Nogueira:** preparar, enviar e acompanhar uma ideia própria, distinguindo envio, apoios e lei.
@@ -78,7 +77,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | --- | --- | --- |
+| :---: | --- | --- | --- | --- |
 | `0.1` | 21/09/2026 | Item de conteúdo sobre personas e estrutura do elenco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 24/09/2026 | Inclui Renata Moreira e corrige o perfil depois da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 27/09/2026 | Inclui Marta Oliveira, persona da sessão do Israel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
@@ -95,6 +94,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.7` | 13/10/2026 | Inclui Camila Nogueira como persona documental focal do recorte de autoria, sem alterar as prioridades já decididas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.9` | 22/10/2026 | Adapta a descrição da persona Marta Oliveira para a funcionalidade de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.10` | 24/10/2026 | Registra nota sobre evolução de escopo da persona Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 
 ## Referências

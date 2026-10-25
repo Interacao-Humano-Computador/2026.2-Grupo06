@@ -1,4 +1,4 @@
-﻿<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Entrevista e observação</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Entrevista e observação</span>
 
 # Entrevista e observação
 
@@ -23,6 +23,9 @@ A Tabela 1 registra quem atuou neste artefato.
 ## Introdução
 
 Esta página documenta a sessão de coleta de dados conduzida por Heitor Pinheiro com uma pessoa usuária do Portal do Senado Federal pertencente ao perfil de **Participante**. A sessão aplica as duas [técnicas de coleta](../../tecnicas-coleta.md) adotadas pelo grupo: a entrevista semiestruturada e a observação da tarefa (investigação contextual com relato em voz alta), seguindo rigorosamente os [aspectos éticos](../../etica.md) da disciplina. Os dados coletados alimentam a [persona](persona.md), o [cenário](cenario.md), a [análise de tarefas](analise-tarefas.md) e o [perfil do usuário](../../perfil-usuario.md) consolidado do grupo.
+
+!!! info "Nota de transição de escopo para a Etapa 4"
+    Os dados empíricos registrados nesta página refletem fielmente a sessão de entrevista e observação realizada em 25/09/2026. A partir da Etapa 4, o escopo da tarefa da persona Letícia Oliveira foi refinado e aprofundado para o módulo de **Eventos Interativos** (audiência pública ao vivo da CRA sobre a regulamentação do PL 1215/2025 com envio de pergunta técnica direcionada a orador), preservando o contexto sociotécnico e a fundamentação empírica desta coleta.
 
 ## Participante
 
@@ -223,6 +226,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `0.2` | 27/09/2026 | Atualização completa com dados reais da participante, falas da entrevista e transcrição da observação no PL 1215/2025 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.3` | 27/09/2026 | Adição de fontes documentais complementares consultadas antes da coleta (Item 20 da lista de verificação de IHC) e correção de erro tipográfico na descrição da participante | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.1` | 24/10/2026 | Adiciona nota de transição de escopo da tarefa para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 ## Referências
 

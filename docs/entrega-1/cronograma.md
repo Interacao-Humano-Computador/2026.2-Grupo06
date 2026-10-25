@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado | [Etapa 1](cronograma.md#etapa-1-planejamento-do-projeto) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização das atividades executadas na Etapa 4 — Oficina Legislativa | [Cronograma executado](cronograma.md#cronograma-executado) |
+| Codex (OpenAI) | Apoio à atualização da agenda de Bruno | [Replanejamento](#replanejamento-das-avaliacoes-de-bruno-23102026) |
 | Google Gemini | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -300,15 +301,33 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Preparação das listas de inspeção da Etapa 4 dos Grupos 06 e 05 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Listas dos [Grupos 06](../verificacao/grupo-06/etapa-4/lista-verificacao.md) e [05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) criadas com respostas em branco; preparação dos instrumentos |
 | Organização dos artefatos individuais e correção da navegação da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Arquivos agrupados na pasta de Bruno Ferreira e vinculados ao menu individual |
 | Elaboração e ajustes do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Storyboard v0.2](../entrega-4/individual/bruno/storyboard.md) com sete quadros, descrição textual, ampliações e correspondência com HTA/CTT |
-| Atualização do cronograma executado com as atividades individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Registro da produção dos artefatos; piloto e entrevistas permanecem previstos nos planejamentos |
+| Atualização do cronograma executado com as atividades individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Registro da produção dos artefatos; naquela data, piloto e entrevistas estavam previstos nos planejamentos |
+| Ensaio individual dos blocos de storyboard e análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 23/10/2026 | 23/10/2026 | [Gravação do ensaio](https://www.youtube.com/watch?v=qCNNY5LH0EQ); não houve ajustes decorrentes do ensaio |
+| Entrevistas do storyboard e da análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas e P01 | 24/10/2026 | 24/10/2026 | Realizadas presencialmente no mesmo encontro: storyboard (10min50s), seguido da análise de tarefas (8min09s). Horários de início e fim não registrados |
+| Análise e redação dos relatos de storyboard e tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 25/10/2026 | 25/10/2026 | [Relato do storyboard](../entrega-5/individual/bruno/relato-storyboard.md) e [relato das tarefas](../entrega-5/individual/bruno/relato-analise-tarefas.md) preenchidos com evidências e encaminhamentos |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
-A equipe agradece o apoio do Google Gemini na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
+O Codex (OpenAI) apoiou a atualização da agenda específica de Bruno. A equipe agradece o apoio do Google Gemini na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
 
+
+## Replanejamento das avaliações de Bruno — 23/10/2026
+
+A Tabela 12 apresenta a agenda específica de Bruno e sua execução informada. O recorte atual é [Complementos de ideias legislativas, com Letícia](../entrega-4/individual/bruno/storyboard.md). Os registros da Oficina Legislativa descrevem o planejamento anterior; o ensaio e as entrevistas do recorte atual foram realizados em 23 e 24/10/2026, respectivamente.
+
+| Atividade | Data | Execução / continuidade |
+| --- | --- | --- |
+| Ensaio individual dos blocos de storyboard e tarefas | 23/10/2026 | Realizado e gravado por Bruno; não houve ajustes |
+| Entrevistas de storyboard e análise de tarefas, no mesmo encontro | 24/10/2026 | Realizadas presencialmente com P01: storyboard (10min50s), seguido de tarefas (8min09s); autorização das duas gravações formalizada em 25/10 |
+| Análise e redação dos relatos | 25/10/2026 | Resultados e respostas ao DECIDE consolidados nos dois relatos da Etapa 5; Bruno é o autor e Caio o revisor |
+
+<p class="caption">Tabela 12 — Agenda e execução das avaliações de Bruno.</p>
+<p class="source">Fonte: planejamentos e registros de execução de Bruno Ferreira Dornelas (2026).</p>
+
+A preparação e a avaliação futura do protótipo de papel seguem a [agenda proposta](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md#cronograma-e-registro-de-agendamento-previsto), com execução prevista para a Etapa 6. Essas atividades ainda não compõem o cronograma executado.
 
 ## Histórico de versão
 
@@ -326,6 +345,7 @@ A equipe agradece o apoio do Google Gemini na organização do texto e na format
 | `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `2.3` | 05/10/2026 | Divisão dos itens da Etapa 3, correções da Etapa 2 no planejado e atividades executadas até 05/10 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.4` | 13/10/2026 | Registra as atividades executadas por Bruno na Etapa 4, incluindo os quatro planejamentos e o storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.5 | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Votação em consulta pública (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Participação em Evento Interativo (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
 
 # Planejamento do relato dos resultados da avaliação do storyboard
 
@@ -17,11 +17,11 @@ A Tabela 1 registra as contribuições no planejamento do relato do Storyboard.
 
 ## Introdução
 
-Este artefato define o protocolo para organizar, interpretar e relatar os resultados que serão obtidos na futura avaliação do **Storyboard** da persona **Letícia Oliveira** no módulo **e-Cidadania** do Senado Federal.
+Este artefato define o protocolo para organizar, interpretar e relatar os resultados que serão obtidos na futura avaliação do **Storyboard** da persona **Letícia Oliveira** no módulo **e-Cidadania** do Senado Federal, focada na participação em audiência pública da Comissão de Agricultura e Reforma Agrária (CRA) sobre o **PL 1215/2025** e no envio de pergunta técnica direcionada a orador.
 
-O relato documentará em que medida a narrativa em cinco quadros foi considerada clara, verossímil e representativa da experiência real de cidadãos mobilizados em consultas públicas, destacando as confirmações, dúvidas e propostas de aprimoramento que subsidiarão o futuro protótipo de papel.
+O relato documentará em que medida a narrativa em cinco quadros foi considerada clara, verossímil e representativa da experiência real de cidadãos mobilizados em transmissões legislativas, destacando as confirmações, percepções sobre a interface proposta de reprojeto (Quadro 4) e sugestões que subsidiarão o protótipo de papel na Etapa 5.
 
-**Situação em 13/10/2026:** trata-se exclusivamente do **planejamento do relato**. Nenhuma avaliação com usuários foi conduzida e nenhum formulário desta página contém resultados empíricos simulados. A coleta de dados e a geração do relatório definitivo ocorrerão na Etapa 5 (entrega em 25/10/2026).
+**Situação em 24/10/2026:** trata-se exclusivamente do **planejamento do relato**. Nenhuma avaliação com usuários foi conduzida até este momento e nenhum formulário desta página contém resultados empíricos simulados. A coleta de dados e a geração do relatório definitivo ocorrerão na Etapa 5 (entrega em 25/10/2026).
 
 ## Item de conteúdo da disciplina
 
@@ -35,7 +35,7 @@ A estrutura deste planejamento fundamenta-se nos componentes de consolidação d
 
 O relato apoiará duas decisões fundamentais da equipe do Grupo 06:
 1. **Refinamento do Storyboard:** identificar quais quadros ou balões de fala precisam de ajustes contextuais ou gráficos;
-2. **Requisitos de usabilidade para o Reprojeto:** extrair as necessidades e expectativas manifestadas pelos participantes para orientar o desenho do protótipo de papel na Etapa 5.
+2. **Requisitos de usabilidade para o Reprojeto:** extrair as necessidades e expectativas manifestadas pelos participantes (em especial quanto aos controles dedicados para direcionamento a oradores) para orientar o desenho do protótipo de papel na Etapa 5.
 
 A versão pública do relato protegerá a privacidade dos participantes por meio de anonimização (P1, P2, P3).
 
@@ -43,11 +43,11 @@ A versão pública do relato protegerá a privacidade dos participantes por meio
 
 Durante a sessão de leitura guiada, o avaliador preencherá uma matriz de anotações organizada pelas cinco cenas do Storyboard (**QD01 a QD05**):
 
-- **QD01 (Contexto / Motivação):** registro sobre a verossimilhança da convocação por WhatsApp;
-- **QD02 (Acesso e Busca):** avaliação da facilidade de localização do PL 1215/2025;
-- **QD03 (Barreira de Usabilidade / Conflito):** concordância quanto à frustração de não encontrar os botões de voto e rolagem excessiva;
-- **QD04 (Interação e Autenticação):** percepção sobre a posição final dos botões e a exigência de login via gov.br;
-- **QD05 (Ação Compensatória):** validação empírica de se o usuário já precisou alertar terceiros sobre botões escondidos.
+- **QD01 (Contexto / Motivação):** registro sobre a verossimilhança da demanda técnica urgente durante audiência ao vivo da comissão;
+- **QD02 (Acesso e Busca):** avaliação da facilidade de navegação no módulo "Eventos Interativos" e filtro da audiência da CRA;
+- **QD03 (Barreira de Usabilidade / Conflito):** concordância quanto ao atrito da caixa única de texto livre e receio de descarte da pergunta sem campo para orador;
+- **QD04 (Interface Proposta de Reprojeto):** avaliação da solução conceitual proposta (seleção de "Pergunta a Orador", escolha de orador em menu e autenticação gov.br);
+- **QD05 (Ação Colaborativa / Desfecho):** validação empírica da orientação repassada ao coletivo para garantir a triagem das perguntas enviadas.
 
 As anotações separarão expressamente falas espontâneas do participante de respostas formuladas após intervenção explicativa do avaliador. Os dados do teste piloto serão descartados do cômputo final dos resultados.
 
@@ -57,14 +57,14 @@ A Tabela 2 define a estrutura dos 8 tópicos que comporão o relatório oficial 
 
 | Nº | Componente do relato | Conteúdo a ser preenchido na Etapa 5 | Fonte dos dados |
 | :---: | :--- | --- | --- |
-| **1** | **Objetivos e escopo da avaliação** | Definição clara de que se avaliou a compreensibilidade e verossimilhança do Storyboard de Letícia Oliveira na votação do PL 1215/2025 no e-Cidadania. | Planejamento da avaliação (Seção D) |
+| **1** | **Objetivos e escopo da avaliação** | Definição clara de que se avaliou a compreensibilidade e verossimilhança do Storyboard de Letícia Oliveira na participação em evento interativo (audiência da CRA sobre o PL 1215/2025) e envio de pergunta direcionada no e-Cidadania. | Planejamento da avaliação (Seção D) |
 | **2** | **Breve descrição do método utilizado** | Descrição formal do método: *validação do modelo de análise de tarefas HTA, leitura guiada do Storyboard como prototipação conceitual de baixa fidelidade e sua transição para o método de prototipação em papel*. | Protocolo metodológico da Seção C |
 | **3** | **Número e perfil do avaliador e participantes** | Registro dos 3 participantes (jovens atuantes em coletivos e movimentos sociais), do avaliador (Heitor Pinheiro) e do revisor (Caio Breno), sob estrito anonimato. | Fichas de triagem e TCLE assinado |
 | **4** | **Tarefas executadas pelos participantes** | Descrição do percurso de leitura sequencial dos 5 quadros e resposta às perguntas P01, P06 a P09 do roteiro semiestruturado. | Registro em áudio e notas da sessão |
-| **5** | **Sumário dos dados coletados** | Matriz de evidências por cena (QD01 a QD05): pontos validados, elementos contestados e reações emocionais expressas. | Formulário de evidências do Storyboard |
-| **6** | **Interpretação e análise dos dados** | Análise crítica sobre o alinhamento da narrativa com a vida real dos cidadãos e confirmação da hipótese de comportamento compensatório no Quadro 5. | Matriz interpretativa de respostas |
-| **7** | **Lista de problemas classificados por severidade** | Relação de incongruências narrativas e problemas de interface destacados, classificados na escala de Nielsen (1994) de 0 a 4 (0 = sem problema; 1 = cosmético; 2 = simples; 3 = grave; 4 = catastrófico). | Matriz de severidade acordada na equipe |
-| **8** | **Planejamento do reprojeto** | Orientações práticas e soluções de posicionamento visual de botões levantadas na pergunta P09 para guiar o protótipo de papel na Etapa 5. | Recomendações de design participativo |
+| **5** | **Sumário dos dados coletados** | Matriz de evidências por cena (QD01 a QD05): pontos validados, elementos contestados e reações à interface proposta de reprojeto. | Formulário de evidências do Storyboard |
+| **6** | **Interpretação e análise dos dados** | Análise crítica sobre o alinhamento da narrativa com a prática real em audiências públicas e avaliação da aceitação da interface proposta no Quadro 4. | Matriz interpretativa de respostas |
+| **7** | **Lista de problemas classificados por severidade** | Relação de barreiras e incoerências apontadas, categorizadas na escala de gravidade de Nielsen (1994) de 0 a 4 (0 = sem problema; 1 = cosmético; 2 = simples; 3 = grave; 4 = catastrófico). | Matriz de severidade acordada na equipe |
+| **8** | **Planejamento do reprojeto** | Recomendações ergonômicas colhidas nas perguntas P08 e P09 sobre a estruturação de campos de perguntas a oradores para guiar o protótipo de papel na Etapa 5. | Recomendações de design participativo |
 
 <p class="caption">Tabela 2 — Estrutura de consolidação do relato do Storyboard.</p>
 <p class="source">Fonte: elaboração do autor com base em Barbosa e Silva (2010, p. 311–312) e SALES (2026).</p>
@@ -73,9 +73,9 @@ A Tabela 2 define a estrutura dos 8 tópicos que comporão o relatório oficial 
 
 O relato conterá análise técnica das validades de pesquisa (BARBOSA; SILVA, 2010, p. 313):
 - **Confiabilidade:** reprodutibilidade da compreensão da narrativa em amostras similares;
-- **Validade interna:** garantia de que o avaliador não antecipou o desfecho da história nem conduziu o participante a concordar com a frustração do Quadro 3;
-- **Validade externa:** reflexão sobre em que medida a experiência de militantes no DF reflete a diversidade do público usuário do e-Cidadania;
-- **Validade ecológica:** verificação de como a leitura de ilustrações se aproximou da autêntica mobilização comunitária em dispositivos móveis e desktops.
+- **Validade interna:** garantia de que o avaliador manteve postura neutra ao apresentar a interface proposta no Quadro 4, sem induzir juízo prévio sobre a solução de design;
+- **Validade externa:** reflexão sobre em que medida a experiência de militantes no DF reflete a diversidade do público usuário do e-Cidadania em transmissões legislativas;
+- **Validade ecológica:** verificação de como a leitura de pranchas ilustradas no Laboratório de Informática da FCTE/UnB se aproximou das condições reais de acompanhamento de transmissões.
 
 ## Agradecimentos
 
@@ -90,6 +90,7 @@ Em atenção às recomendações de integridade acadêmica da Sociedade Brasilei
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato do Storyboard | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento do relato estruturado nos componentes de Barbosa e Silva (2010), matriz por cena e severidades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a narrativa de Eventos Interativos da CRA e acolhimento da interface proposta de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 
 ## Referências
