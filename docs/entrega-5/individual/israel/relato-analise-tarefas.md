@@ -44,7 +44,7 @@ A Tabela 2 descreve os aspectos metodológicos e metadados da sessão de avalia�
 | Pessoa participante | Uma cidadã alinhada ao perfil de Marta Oliveira (com demanda de agendamento presencial cívico) |
 | Observador | Integrante do Grupo 06 |
 | Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| Modalidade e ambiente | Remota via Google Meet com gravação de tela e áudio autorizados |
+| Modalidade e ambiente | Presencial na casa do entrevistado com gravação de tela e áudio autorizados |
 | Materiais de apoio | Diagrama HTA (`flowchart LR`), tabela de operações com input/feedback, especificação CTT e roteiro |
 | Cuidados éticos | TCLE lido e assinado previamente; dados pessoais preservados sob código |
 | Sessão piloto | Realizada com `PP-PILOTO01` para calibrar o tempo de explicação dos blocos |
