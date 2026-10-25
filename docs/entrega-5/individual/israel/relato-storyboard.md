@@ -43,7 +43,7 @@ A Tabela 2 apresenta o protocolo de avaliação e os metadados da sessão. O mé
 | Persona de referência | [Marta Oliveira](../../../entrega-2/individual/israel/persona.md), 47 anos, servidora pública externa com necessidade de agendamento em grupo |
 | Observador | Integrante do Grupo 06 |
 | Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| Modalidade e ambiente | Remota síncrona via Google Meet, com compartilhamento de tela das cenas |
+| Modalidade e ambiente | Presencial na casa do entrevistado, com compartilhamento de tela das cenas |
 | Material apresentado | Conjunto sequencial das 7 cenas do Storyboard com transcrição acessível |
 | Cuidados éticos | Aplicação e assinatura do TCLE antes da sessão; garantia de anonimato e uso estritamente acadêmico dos registros |
 | Teste-piloto | Realizado previamente com `PP-PILOTO01`, garantindo a calibração do roteiro sem inclusão de seus dados nesta amostra |

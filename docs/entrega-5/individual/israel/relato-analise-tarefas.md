@@ -74,6 +74,82 @@ A Tabela 3 reúne o roteiro de perguntas aplicado à participante — dividido e
 <p class="caption">Tabela 3 — Discussão dos modelos de tarefas com a participante.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
+## Diagrama HTA avaliado
+
+O diagrama abaixo apresenta a estrutura hierárquica completa do HTA versão 2.0 utilizado durante a avaliação. A disposição horizontal facilita a leitura dos ramos e planos de cada nível.
+
+```mermaid
+flowchart LR
+    T0["0. Agendar visita ao Senado Federal<br/>plano: 1 > 2 > 3 > 4 > 5 > 6 (se necessário: 7)"]
+
+    T1["1. Acessar a página de agendamento<br/>plano: 1.1 > 1.2 > 1.3"]
+    T2["2. Definir o tipo de visita<br/>plano: 2.1 > 2.2"]
+    T3["3. Escolher data e horário<br/>plano: 3.1 > 3.2 > 3.3"]
+    T4["4. Informar os dados dos visitantes<br/>plano: 4.1 (> 4.2) (> 4.3)"]
+    T5["5. Revisar e confirmar o agendamento<br/>plano: 5.1; se erro: 5.2 > 5.1; depois 5.3"]
+    T6["6. Obter a confirmação<br/>plano: 6.1 > (6.2) > 6.3"]
+    T7["7. Alterar ou cancelar o agendamento<br/>plano: 7.1 > 7.2 > 7.3"]
+
+    T11["1.1 Abrir o portal do Senado"]
+    T12["1.2 Localizar a opção de visitação institucional"]
+    T13["1.3 Ler informações e regras da visita"]
+    T21["2.1 Escolher visita individual ou em grupo"]
+    T22["2.2 Informar número total de visitantes"]
+    T31["3.1 Consultar datas disponíveis no calendário"]
+    T32["3.2 Selecionar a data desejada"]
+    T33["3.3 Selecionar o horário da visita"]
+    T41["4.1 Preencher dados do responsável"]
+    T42["4.2 Preencher identificação dos acompanhantes"]
+    T43["4.3 Informar necessidades de acessibilidade"]
+    T51["5.1 Conferir resumo das informações"]
+    T52["5.2 Corrigir dados incorretos"]
+    T53["5.3 Confirmar submissão do agendamento"]
+    T61["6.1 Visualizar código e confirmação na tela"]
+    T62["6.2 Salvar ou imprimir o comprovante"]
+    T63["6.3 Verificar orientações recebidas por e-mail"]
+    T71["7.1 Localizar agendamento por código ou CPF"]
+    T72["7.2 Solicitar cancelamento ou alteração"]
+    T73["7.3 Confirmar alteração e obter comprovante"]
+
+    T0 --> T1
+    T0 --> T2
+    T0 --> T3
+    T0 --> T4
+    T0 --> T5
+    T0 --> T6
+    T0 -.-> T7
+    T1 --> T11
+    T1 --> T12
+    T1 --> T13
+    T2 --> T21
+    T2 --> T22
+    T3 --> T31
+    T3 --> T32
+    T3 --> T33
+    T4 --> T41
+    T4 --> T42
+    T4 --> T43
+    T5 --> T51
+    T5 --> T52
+    T5 --> T53
+    T6 --> T61
+    T6 --> T62
+    T6 --> T63
+    T7 -.-> T71
+    T7 -.-> T72
+    T7 -.-> T73
+
+    classDef default fill:#f9f9fb,stroke:#2b3a4a,stroke-width:1.5px;
+    classDef pontoCritico fill:#fff0f0,stroke:#c0392b,stroke-width:3px;
+    classDef sobDemanda fill:#f4f6f7,stroke:#7f8c8d,stroke-width:1.5px,stroke-dasharray: 5 5;
+
+    class T12,T31,T43,T63 pontoCritico;
+    class T7,T71,T72,T73 sobDemanda;
+```
+
+<p class="caption">Figura 1 — Diagrama HTA do Agendamento de Visita ao Senado Federal.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 193–195). Nós em vermelho indicam pontos críticos de usabilidade; nós tracejados indicam fluxo alternativo sob demanda.</p>
+
 ## Conferência técnica dos modelos (CT01–CT06)
 
 A Tabela 4 documenta a conferência técnica interna realizada pela equipe de avaliadores para atestar a conformidade com as normas metodológicas de IHC (BARBOSA; SILVA, 2010; PATERNÒ, 2000).
