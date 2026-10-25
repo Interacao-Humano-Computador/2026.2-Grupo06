@@ -65,17 +65,17 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 19/10/2026 | Abertura da seção por integrante e inclusão dos dois planejamentos individuais da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
+| `0.1` | 19/10/2026 | Abertura da seção por integrante e inclusão dos dois planejamentos individuais da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 22/10/2026 | Integra os quatro artefatos de Caio e a lista de verificação da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 23/10/2026 | Integra os artefatos de planejamento do protótipo de papel e o índice individual de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 23/10/2026 | Integra os relatos do Storyboard e da Análise de Tarefas de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 24/10/2026 | Registra as gravações dos relatos de Caio Breno | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.7` | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
-| `0.8` | 24/10/2026 | Inclui modelagem preliminar e inspeção documental do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Pendente |
-| `0.9` | 24/10/2026 | Acrescenta os links da modelagem HTA/CTT, inspeção e planos do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Pendente |
-| `1.0` | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor dos documentos de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
-| `1.1` | 25/10/2026 | Inclui as estruturas dos relatos de Bruno, ainda sem resultados de coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
+| `0.7` | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.8` | 24/10/2026 | Inclui modelagem preliminar e inspeção documental do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.9` | 24/10/2026 | Acrescenta os links da modelagem HTA/CTT, inspeção e planos do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor dos documentos de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 25/10/2026 | Inclui as estruturas dos relatos de Bruno, ainda sem resultados de coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
