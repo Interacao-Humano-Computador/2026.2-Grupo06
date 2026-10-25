@@ -30,7 +30,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 | Integrante | Funcionalidade / Persona | Relatos das avaliações anteriores | Protótipo de papel |
 | --- | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Oficina Legislativa na Escola — Professor / Rafael Almeida | Storyboard: aguarda dados da avaliação.<br>Análise de tarefas: aguarda dados da avaliação. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participação em Evento Interativo — Letícia Oliveira | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Participação em Evento Interativo](individual/heitor/index.md) — Letícia Oliveira | • [Storyboard](individual/heitor/relato-storyboard.md)<br>• [Análise de tarefas](individual/heitor/relato-analise-tarefas.md) | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-prototipo-papel.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): sessões gravadas, com perguntas, respostas, localizadores e vídeos. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | [Storyboard](individual/israel/relato-storyboard.md) e [análise de tarefas](individual/israel/relato-analise-tarefas.md): perguntas, respostas, análise e recomendações organizadas. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Recorte da Etapa 5 a registrar pelo integrante | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
@@ -38,7 +38,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
 <p class="source">Fonte: artefatos disponíveis no repositório em 24/10/2026 e recortes da Etapa 4.</p>
 
-Consultar também o [índice de Caio](individual/caio/index.md) e o [índice de Israel](individual/israel/index.md), com as agendas propostas, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
+Consultar também o [índice de Caio](individual/caio/index.md), o [índice de Israel](individual/israel/index.md) e o [índice de Heitor](individual/heitor/index.md), com as agendas propostas, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
 
 ## Relação entre avaliações e entregas
 
@@ -71,6 +71,7 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `0.5` | 23/10/2026 | Integra os relatos do Storyboard e da Análise de Tarefas de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 24/10/2026 | Registra as gravações dos relatos de Caio Breno | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.7` | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `0.8` | 24/10/2026 | Integra os quatro artefatos individuais e o índice de Heitor Pinheiro na Etapa 5 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
