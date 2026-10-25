@@ -25,13 +25,28 @@ Os critérios da etapa estão na [Lista de verificação da Etapa 5](../verifica
 
 ## Vídeos
 
-Cada pessoa incorpora a própria gravação na seção correspondente. O vídeo de Caio Breno de Souza Bezerra já está publicado. Os demais espaços permanecem reservados para o link de cada integrante. Quando o link estiver disponível, substitua “a publicar” e incorpore o player no mesmo formato da seção de Caio.
+Cada pessoa incorpora a própria gravação na seção correspondente. Os vídeos de Bruno Ferreira Dornelas e de Caio Breno de Souza Bezerra já estão publicados. Os demais espaços permanecem reservados para o link de cada integrante. Quando o link estiver disponível, substitua “a publicar” e incorpore o player no mesmo formato das seções já preenchidas.
 
 ### Bruno Ferreira Dornelas
 
 - Categoria no YouTube: **não listado**
-- Link: a publicar
-- Data da gravação: a publicar
+- Link: [https://youtu.be/etmz5FHORxE](https://youtu.be/etmz5FHORxE)
+- Data da gravação: 25/10/2026
+- Participante: Bruno Ferreira Dornelas
+
+??? note "Vídeo — Apresentação da Etapa 5, Bruno Ferreira Dornelas"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/etmz5FHORxE"
+        title="Apresentação da Etapa 5 — Bruno Ferreira Dornelas"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ### Caio Breno de Souza Bezerra
 
@@ -90,6 +105,7 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
+| `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 
 ## Referências
 

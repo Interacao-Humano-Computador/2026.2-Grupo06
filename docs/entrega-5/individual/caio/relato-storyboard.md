@@ -99,18 +99,24 @@ Depois da síntese, Caio pergunta se o resumo corresponde ao que acabou de ser d
 
 ## Vídeo
 
-O Vídeo 1 é a conversa inteira, da apresentação ao encerramento.
+O Vídeo 1 é a conversa inteira, da apresentação ao encerramento. Categoria no YouTube: **não listado**. Link: [https://youtu.be/0hMG_Xsp5l8](https://youtu.be/0hMG_Xsp5l8).
 
 ??? note "Vídeo 1 — Discussão do storyboard com PROP01"
 
-    <div class="session-video">
-      <video controls preload="metadata" playsinline title="Discussão do storyboard de Camila com PROP01">
-        <source src="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4" type="video/mp4">
-      </video>
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/0hMG_Xsp5l8"
+        title="Discussão do storyboard de Camila com PROP01"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
     </div>
 
     <p class="caption">Vídeo 1 — Discussão do storyboard com PROP01.</p>
-    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 24/10/2026, 13h28–14h00. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4">avaliacao-storyboard.mp4</a>.</p>
+    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 24/10/2026, 13h28–14h00. Categoria no YouTube: não listado.</p>
 
 ## Limites
 
@@ -139,6 +145,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, a duração, a modalidade e os localizadores de Q1–Q7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 13h28–14h00 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 25/10/2026 | Substitui o arquivo local pelo vídeo não listado no YouTube | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 
 ## Referências
 
