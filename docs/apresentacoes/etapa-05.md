@@ -12,6 +12,7 @@ A Tabela 1 concentra a contribuição da Entrega 5. Cada linha é uma atividade,
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel (envio de ideia legislativa — Camila Nogueira) | [Recorte individual](../entrega-5/individual/caio/index.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel (agendamento de visita ao Senado — Marta Oliveira) | [Recorte individual](../entrega-5/individual/israel/index.md) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Modelagem HTA/CTT, inspeção documental e relatos das entrevistas sobre plenárias; gravação do piloto em conjunto com Caio | [Recorte individual](../entrega-5/individual/luis/index.md), [vídeos e transcrições](#gravacoes-do-recorte-de-luis) |
 | Grok (xAI) | Apoio à estruturação da página de apresentação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição da Entrega 5.</p>
@@ -25,7 +26,7 @@ Os critérios da etapa estão na [Lista de verificação da Etapa 5](../verifica
 
 ## Vídeos
 
-Cada pessoa incorpora a própria gravação na seção correspondente. Os vídeos de Bruno Ferreira Dornelas e de Caio Breno de Souza Bezerra já estão publicados. Os demais espaços permanecem reservados para o link de cada integrante. Quando o link estiver disponível, substitua “a publicar” e incorpore o player no mesmo formato das seções já preenchidas.
+Cada pessoa incorpora a própria gravação de apresentação na seção correspondente. Os vídeos de Bruno Ferreira Dornelas e de Caio Breno de Souza Bezerra já estão publicados. As entrevistas de Luís e o piloto conjunto aparecem em seção separada, pois não são a gravação da apresentação individual.
 
 ### Bruno Ferreira Dornelas
 
@@ -81,11 +82,48 @@ Cada pessoa incorpora a própria gravação na seção correspondente. Os vídeo
 - Link: a publicar
 - Data da gravação: 25/10/2026
 
-### Luis Henrique Luna de Arruda
+### Luís Henrique Luna de Arruda
 
-- Categoria no YouTube: **não listado**
-- Link: a publicar
-- Data da gravação: a publicar
+- Vídeo individual da apresentação da Etapa 5: **pendente de link**.
+- As gravações de entrevista e do teste piloto estão na seção [Gravações do recorte de Luís](#gravacoes-do-recorte-de-luis); elas não são a apresentação individual.
+
+## Gravações do recorte de Luís { #gravacoes-do-recorte-de-luis }
+
+Os vídeos abaixo documentam as entrevistas do recorte de agendamento em plenárias e o teste piloto. As transcrições das entrevistas estão disponíveis em PDF no [índice individual de Luís](../entrega-5/individual/luis/index.md).
+
+### Entrevista sobre HTA e CTT
+
+- Link: [YouTube — entrevista sobre HTA e CTT](https://youtu.be/hxmxnHQyGSk)
+- Transcrição: [PDF](../entrega-5/individual/luis/transcricoes/entrevista-hta-ctt.pdf)
+
+??? note "Vídeo — Entrevista sobre HTA e CTT"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/hxmxnHQyGSk" title="Entrevista sobre análise de tarefas HTA e CTT" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+### Entrevista sobre o storyboard
+
+- Link: [YouTube — entrevista sobre o storyboard](https://youtu.be/3iwosR0pnZI)
+- Transcrição: [PDF](../entrega-5/individual/luis/transcricoes/entrevista-storyboard.pdf)
+
+??? note "Vídeo — Entrevista sobre o storyboard"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/3iwosR0pnZI" title="Entrevista de avaliação do storyboard" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+### Teste piloto — gravação conjunta com Caio
+
+- Link: [YouTube — gravação do teste piloto](https://youtu.be/XroAJouSclE)
+- Participação na gravação: Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna.
+- Também registrado no [índice de Caio](../entrega-5/individual/caio/index.md#teste-piloto--gravacao-conjunta).
+
+??? note "Vídeo — Teste piloto, gravação conjunta com Caio"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/XroAJouSclE" title="Teste piloto gravado em conjunto por Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 
 ## Roteiro sugerido
 
@@ -106,6 +144,7 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 | `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
+| `0.3` | 25/10/2026 | Acrescenta a contribuição, entrevistas, transcrições e piloto conjunto do recorte de Luís | Luís Henrique Arruda Luna | Pendente |
 
 ## Referências
 

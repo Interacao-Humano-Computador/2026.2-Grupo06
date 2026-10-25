@@ -24,11 +24,12 @@ As entrevistas de análise de tarefas e storyboard foram realizadas e estão reg
 
 | Artefato | Situação |
 | --- | --- |
+| [Storyboard manual da proposta](../../../entrega-4/individual/luis.md#storyboard-manual) | Oito quadros; caminho de confirmação e alternativa de indisponibilidade. |
 | [Modelagem HTA e CTT](modelagem-tarefas.md) | Fluxo preliminar com disponibilidade e confirmação; regras institucionais pendentes |
 | [Inspeção documental dos modelos](inspecao-modelos.md) | Inspeção analítica concluída; não equivale a avaliação com participante |
 | [Relato da avaliação do storyboard](relato-storyboard.md) | Entrevista registrada; recomendações para disponibilidade e desfecho |
 | [Relato da avaliação da análise de tarefas](relato-analise-tarefas.md) | Entrevista registrada; achados sobre informações, revisão e confirmação |
-| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Plano preliminar; storyboard e telas em elaboração, regras institucionais pendentes |
+| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Plano preliminar; telas do protótipo e regras institucionais ainda pendentes |
 | [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Plano preliminar para a Etapa 6 |
 
 ## Histórico de versão
