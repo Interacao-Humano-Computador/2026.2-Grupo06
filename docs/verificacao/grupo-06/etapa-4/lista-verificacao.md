@@ -110,7 +110,7 @@ A Tabela 4 apresenta os **10 itens adicionais** elaborados pelos integrantes do 
 | 17 | O TCLE assegura explicitamente a não maleficência, garantia de desistência sem ônus, sigilo e solicitação formal de autorização para gravações? | Caio Breno de Souza Bezerra | | | |
 | 18 | A decomposição de objetivos em subobjetivos na HTA comprova ser mutuamente exclusiva (sem sobreposições) e exaustiva (completa)? | Heitor Pinheiro Gonçalves das Chagas | | | |
 | 19 | Cada quadro do Storyboard possui rastreabilidade formal e identificada com as operações modeladas na Análise de Tarefas (HTA)? | Heitor Pinheiro Gonçalves das Chagas | | | |
-| 20 | O planejamento do relato dos resultados estrutura os 8 componentes de consolidação de dados e expressa os limites de generalização? | Israel Soares de Paiva | | | |
+| 20 | O planejamento do relato dos resultados estrutura os 7 componentes de consolidação de dados e expressa os limites de generalização? | Israel Soares de Paiva | | | |
 | 21 | O planejamento do relato define uma métrica ou escala padronizada de severidade (ex.: escala de 0 a 4 de Nielsen) para orientar o futuro reprojeto? | Israel Soares de Paiva | | | |
 | 22 | O artefato fixa a realização do teste piloto com participante fora da amostra oficial e registra formalmente o descarte dos seus dados no relato final? | Luis Henrique Arruda Luna | | | |
 | 23 | O planejamento estabelece diretrizes operacionais sobre o papel do avaliador durante as sessões (não indução e anotação imediata de atritos)? | Luis Henrique Arruda Luna | | | |
@@ -272,7 +272,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-co
 **Fundamentação:** Barbosa e Silva alertam que avaliações de IHC indicam *tendências de problemas*, e não certezas absolutas, exigindo cuidados para não generalizar indevidamente os achados. Para manter o rigor científico, os autores prescrevem que o relatório de resultados seja estruturado em tópicos consolidados (objetivos, método, participantes, dados brutos, interpretação, problemas encontrados e propostas de reprojeto). O planejamento deve definir antecipadamente essa estrutura.
 
 **Como verificar:** consultar os artefatos de planejamento de relato da HTA e do Storyboard:
-* **Sim:** quando o planejamento estruturar formalmente os 8 componentes de consolidação de dados de Barbosa e Silva e explicitar a ressalva sobre os limites de generalização dos resultados;
+* **Sim:** quando o planejamento estruturar formalmente os 7 componentes de consolidação de dados de Barbosa e Silva e explicitar a ressalva sobre os limites de generalização dos resultados;
 * **Incompleto:** quando o modelo de relatório listar tópicos soltos sem base na literatura ou omitir o tratamento e interpretação dos dados;
 * **Não:** quando não houver planejamento de como as evidências coletadas serão apresentadas e interpretadas.
 
@@ -374,6 +374,7 @@ O Codex (OpenAI), o Google Gemini e o Claude (Anthropic) apoiaram a transcriçã
 | 1.3 | 13/10/2026 | Inclusão do vídeo da inspeção da Etapa 4 do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.4 | 13/10/2026 | Preenchimento dos 23 itens com base na transcrição da autoverificação e registro dos localizadores | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.5 | 13/10/2026 | Simplificação das observações e identificação da avaliação como Versão 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.6 | 24/10/2026 | Corrige de oito para sete a quantidade de componentes do relato no item 20, conforme Barbosa e Silva (2010, p. 312), sem alterar respostas da inspeção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

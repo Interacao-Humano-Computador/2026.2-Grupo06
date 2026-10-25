@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas — Oficina Legislativa · Autor do item: Bruno Ferreira Dornelas</span>
+<span class="owner">Responsável: Bruno Ferreira Dornelas — Complementos de ideias legislativas · Autor do item: Bruno Ferreira Dornelas</span>
 
 # Planejamento do relato dos resultados da avaliação da análise de tarefas
 
@@ -16,151 +16,121 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 ## Introdução
 
-Este planejamento define como organizar, analisar e apresentar os resultados da [avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md) da **Oficina Legislativa na Escola**, com o perfil **Professor**. O relato será destinado ao Grupo 06 e à avaliação acadêmica, para fundamentar revisões do artefato e decisões de reprojeto.
-
-**Participante e sessão:** entrevista prevista com **Alisson dos Santos, professor de Física**, em **21/10/2026, das 19h às 19h50**, pelo Google Meet. Bruno conduzirá e registrará a sessão; Caio é o revisor designado. A agenda é provisória, com revisão final até **24/10/2026**, antes da entrega de 25/10. Resultados e atividades realizadas serão preenchidos após a coleta.
+Este planejamento define como Bruno analisará e relatará a avaliação da **análise de tarefas de complementos de ideias legislativas**, tendo Letícia como referência do perfil participante. A entrevista com **P01** foi realizada e gravada em **24/10/2026**, após o ensaio individual de **23/10/2026**. O [plano da avaliação](planejamento-avaliacao-analise-tarefas.md#registro-de-agendamento-previsto) registra a execução. Os resultados estão consolidados no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-analise-tarefas.md).
 
 ## Item de conteúdo da disciplina
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-Este documento detalha o último **E do DECIDE**, mantendo os objetivos AT-O1–AT-O3 e as perguntas AT-Q1–AT-Q8 do plano de avaliação. A estrutura segue os sete componentes de Barbosa e Silva (2010, seção 9.7.5, p. 311–312), apresentados na Figura 1.
+O documento detalha o último E do DECIDE. Bruno responderá às questões **AT-Q1–AT-Q6**, usando evidências para avaliar **O1: adequação da ideia de design** e **O2: problemas na representação da interação**. Respostas da entrevistada são dados para essa análise, não conclusões automáticas. A Figura 1 apresenta os sete componentes do relato (BARBOSA; SILVA, 2010, p. 311–313).
 
 ??? note "Figura 1 — Consolidação e relato dos resultados"
 
-    ![Página 312 com a estrutura do relato e cuidados na generalização.](../../../assets/img/referencias/barbosa-relato-resultados-p312.png)
+    ![Página 312 com componentes do relato e limites da generalização.](../../../assets/img/referencias/barbosa-relato-resultados-p312.png)
     <p class="caption">Figura 1 — Consolidação e relato dos resultados.</p>
-    <p class="source">Fonte: Barbosa e Silva (2010, seção 9.7.5, p. 312).</p>
-
-A análise comparará a documentação, o relato do professor e a conferência técnica dos modelos para identificar diferenças entre as tarefas descritas e a prática docente (BARBOSA; SILVA, 2010, p. 192, 196).
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 312).</p>
 
 ## Estrutura prevista do relato
 
-A Tabela 2 define o conteúdo a preencher. Introdução, referências, histórico e anexos pertinentes seguirão o padrão do grupo.
+A Tabela 2 organiza o documento a produzir. Referências, histórico e anexos seguirão o padrão do grupo.
 
-| Componente | Conteúdo previsto |
+| Componente | Conteúdo |
 | --- | --- |
-| 1. Objetivos e escopo | AT-O1–AT-O3, funcionalidade, perfil, tarefa, materiais e versão efetivamente avaliada |
-| 2. Método e execução | Entrevista remota apoiada em HTA/CTT, descrição em linguagem comum e conferência técnica CT01–CT06; justificativa, data, horário, duração, plataforma, atividades realizadas, desvios do plano e ajustes metodológicos do piloto, sem seus resultados |
-| 3. Participantes e avaliadores | Quantidade e perfil efetivos, seleção, experiência na Oficina, vínculos prévios e papéis da equipe; identidade do professor protegida |
-| 4. Sumário dos dados | Perguntas e partes do material abordadas, registros disponíveis, comentários, dúvidas e interrupções |
-| 5. Interpretação e análise | Resposta a cada AT-Q1–AT-Q8, com IDs das evidências, intervenções, divergências e lacunas |
-| 6. Problemas encontrados | Achados localizados no material, evidência, efeito, prioridade e justificativa |
-| 7. Planejamento do reprojeto | Alteração ou investigação ligada ao achado, responsável, prazo, situação e forma de verificar a revisão |
+| 1. Objetivos e escopo | O1/O2, recorte, materiais apresentados e partes não avaliadas |
+| 2. Método e execução | Procedimento efetivo, data, horário, duração, plataforma, atividades, intervenções e desvios; ajustes do ensaio individual, sem tratar simulações como dados |
+| 3. Participantes e avaliadores | Quantidade, perfil, seleção, experiência, vínculos prévios, papéis e ordem das sessões |
+| 4. Sumário dos dados | Registros disponíveis, partes discutidas, comentários, dúvidas e interrupções |
+| 5. Interpretação e análise | Respostas de Bruno a AT-Q1–AT-Q6, evidências, divergências e limites |
+| 6. Problemas encontrados | Localização, efeito, evidência, prioridade e justificativa |
+| 7. Planejamento do reprojeto | Alteração ou investigação, responsável, prazo e forma de verificar a revisão |
 
 <p class="caption">Tabela 2 — Estrutura prevista do relato.</p>
 <p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 311–312).</p>
 
-Alisson será identificado por **AT-PROF01** nos registros; sua etapa de ensino e experiência na Oficina serão verificadas na triagem. Os dois planos consideram a mesma pessoa, com storyboard em 20/10 e análise de tarefas em 21/10; registrar a exposição anterior na interpretação. A identificação nominal no site seguirá a autorização prevista no plano ético.
-
-A delimitação do método frente à menção de prototipação em papel no item 7 da lista está no [plano de avaliação](planejamento-avaliacao-analise-tarefas.md#c-escolher-os-metodos). O relato descreverá o procedimento efetivamente realizado.
+O relato descreverá a entrevista efetivamente realizada. A delimitação frente à prototipação em papel permanece na [conferência](conferencia-planejamentos.md#metodo-a-descrever-nos-relatos). P01 será a mesma pessoa nos dois relatos, sem duplicação da amostra.
 
 ## Instrumentos para registrar e analisar os dados
 
-### Registro de evidências
+Cada evidência **AT-EV01, AT-EV02…** registrará participante/origem, material, questão de avaliação, nó, plano ou relação, localizador, registro, intervenção e interpretação em campos separados. Preservar o material apresentado; distinguir fala verificável de paráfrase e resposta espontânea de resposta posterior a esclarecimento. O formulário orienta a organização das evidências da gravação.
 
-O avaliador preparará um formulário privado antes do piloto. Cada registro **AT-EV01, AT-EV02…** conterá: data, participante AT-PROF01 quando aplicável, autor/origem, versão, pergunta/critério, nó, plano ou relação HTA/CTT, atividade da sessão, localizador (nota, áudio autorizado ou fonte), registro, intervenção e interpretação em campos separados.
+### Critérios de interpretação e conferência técnica
 
-As falas serão transcritas literalmente quando houver registro verificável; nos demais casos, serão apresentadas como paráfrases. O registro distinguirá respostas espontâneas das respostas obtidas após esclarecimentos. Dados ausentes serão marcados como não coletados, não respondidos ou insuficientes. Contato posterior, se autorizado, terá data própria.
+Comparar a proposta com experiências análogas e expectativas de P01. A Tabela 3 orienta a análise; conferência técnica e opinião da entrevistada permanecerão identificadas por sua origem.
 
-Classificar a origem como conferência técnica, documento, experiência ou expectativa do professor. A fonte documental E01–E09, a contribuição do participante e o critério CT serão confrontados quando tratarem do mesmo elemento, preservando divergências.
-
-### Ficha consolidada de achado e encaminhamento
-
-A Tabela 3 reúne análise, prioridade e ação em uma ficha por achado **AT-A01, AT-A02…**.
-
-| Campo | Preenchimento após a análise |
+| Questão | Critério para analisar as evidências |
 | --- | --- |
-| Identificação e localização | ID, título, classificação, pergunta, nó, plano ou relação HTA/CTT e versão |
-| Evidência e origem | IDs AT-EV, localizadores e trechos desidentificados; fontes comparadas e divergências pertinentes |
-| Descrição e interpretação | O que foi registrado, interpretação, efeito e explicações alternativas, em campos separados |
-| Prioridade | Alta, média ou baixa, com justificativa pelo efeito |
-| Encaminhamento | Manter, revisar ou investigar; proposta e evidência que a sustenta |
-| Responsável e prazo | Pessoa encarregada e data definida na revisão |
-| Situação e verificação | Pendente, em andamento ou resolvido; como verificar, evidência da verificação e nova versão, quando houver |
+| AT-Q1–AT-Q2 | Identificar resultados relevantes, condições e recursos, distinguindo experiências anteriores de expectativas sobre a proposta. |
+| AT-Q3 | Verificar cobertura e ordem dentro do caminho declarado; uma lacuna interna não é resolvida apenas por justificá-la como limitação. |
+| AT-Q4 | Verificar a distinção entre ações da proponente, respostas do sistema e decisões externas. |
+| AT-Q5 | Registrar alternativas necessárias e ramos não modelados; não concluir que o caminho de sucesso cobre essas situações. |
+| AT-Q6 | Verificar se a interpretação distingue contribuição encaminhada de decisão legislativa aprovada, indicando o que permanece pendente. |
 
-<p class="caption">Tabela 3 — Ficha consolidada de achado e encaminhamento.</p>
-<p class="source">Fonte: instrumento do projeto, orientado por Barbosa e Silva (2010, p. 310–313).</p>
+<p class="caption">Tabela 3 — Critérios de interpretação da análise de tarefas.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
 ### Conferência técnica
 
-Para cada critério **CT01–CT06**, registrar elemento/versão, figura e página do livro ou fonte documental, estado (**conforme, não conforme ou não verificado**) e evidência AT-EV. Uma não conformidade abrirá ficha de achado na Tabela 3; o registro técnico pertence à equipe, sem ser atribuído ao professor. Os critérios completos estão no [plano da avaliação](planejamento-avaliacao-analise-tarefas.md#notacao-exata-e-conferencia-tecnica).
+Para cada **CT01–CT06**, registrar material/elemento, referência, estado (**conforme, não conforme ou não verificado**) e evidência AT-EV. A exclusão explícita de um ramo limita o alcance do resultado; lacuna no escopo declarado exige correção. Uma não conformidade abrirá achado. Aplicar os [critérios do plano](planejamento-avaliacao-analise-tarefas.md#notacao-exata-e-conferencia-tecnica) sem atribuir esse julgamento técnico à entrevistada.
+
+### Síntese por questão de avaliação
+
+A Tabela 4 será preenchida por Bruno após a análise. Quando não houver dados suficientes, registrar a lacuna e a coleta adicional necessária.
+
+| Questão DECIDE | Resposta analítica do avaliador | Evidências | Limites / encaminhamento |
+| --- | --- | --- | --- |
+| AT-Q1 | | | |
+| AT-Q2 | | | |
+| AT-Q3 | | | |
+| AT-Q4 | | | |
+| AT-Q5 | | | |
+| AT-Q6 | | | |
+
+<p class="caption">Tabela 4 — Matriz de respostas da avaliação.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
 ### Registro das atividades do participante
 
-A Tabela 4 registrará o que ocorreu na avaliação, distinguindo a discussão dos materiais da execução da Oficina. As colunas finais permanecerão vazias até a sessão.
-
-| ID | Atividade prevista para o participante | Material / perguntas | Situação efetiva (realizada, parcial, não realizada) | Evidências / intervenções / motivo de desvio |
-| --- | --- | --- | --- | --- |
-| AT-AT01 | Relatar livremente como organiza atividades com turmas e sua experiência com a Oficina | Caracterização e relato antes dos modelos | | |
-| AT-AT02 | Discutir preparação, vínculo, coordenação e comprovação | HTA 1–4, CTT P/V/C/D; AT-Q1–AT-Q5 e AT-Q7 | | |
-| AT-AT03 | Examinar dependências e situações de exceção apresentadas | Nós/relações pertinentes; AT-Q3–AT-Q6 | | |
-| AT-AT04 | Conferir a síntese e acrescentar correções ou comentários | Encerramento | | |
-
-<p class="caption">Tabela 4 — Atividades a registrar após a sessão.</p>
-<p class="source">Fonte: roteiro da avaliação da análise de tarefas; organização para o relato conforme Barbosa e Silva (2010, p. 311–312).</p>
+Registrar quais atividades ocorreram, quais foram parciais ou não realizadas e o motivo, com evidências e intervenções. Prever relato inicial, discussão dos quatro blocos, exame de dependências e exceções e conferência da síntese. Identificar nós e relações efetivamente discutidos e os não examinados. Essas atividades não equivalem à execução de tarefas no portal.
 
 ## Procedimento de interpretação e consolidação
 
-1. Guardar a versão avaliada e conferir autorizações, integridade e desidentificação dos registros. **Excluir os dados do piloto dos resultados principais**, mantendo apenas seus ajustes metodológicos.
-2. Responder a cada AT-Q1–AT-Q8 com evidências e limites; registrar dados insuficientes quando necessário. Respostas posteriores a esclarecimentos não substituirão as iniciais.
-3. Confrontar fontes e reunir registros do mesmo problema na ficha da Tabela 3, preservando divergências. Repetições de uma pessoa não representam consenso entre professores.
-4. Submeter conclusões, prioridades e encaminhamentos à revisão de Caio; registrar incertezas não resolvidas e ações ainda pendentes.
+1. Conferir autorizações, desidentificar registros e guardar os materiais avaliados. Excluir registros simulados do ensaio individual dos resultados principais.
+2. Interpretar as evidências e preencher a Tabela 4; preservar divergências, respostas iniciais e possíveis efeitos das intervenções.
+3. Reunir registros do mesmo problema em um achado **AT-A01, AT-A02…**, com localização, descrição, efeito, evidências, explicações alternativas e prioridade.
+4. Definir ação (manter, revisar ou investigar), responsável, prazo e estado de acompanhamento; submeter a Caio e registrar como verificar cada correção.
 
-O procedimento segue Barbosa e Silva (2010, p. 310–313). Se a amostra aumentar, analisar cada caso antes de comparar resultados e informar diferenças de versão e condições.
+Repetições de P01 não constituem consenso entre pessoas. Se houver novos participantes, analisar cada caso antes de comparar resultados (BARBOSA; SILVA, 2010, p. 310–313).
 
 ## Prioridades e controle das revisões
 
-A Tabela 5 define critérios próprios do projeto para ordenar as ações.
+A Tabela 5 apresenta critérios operacionais do projeto; a prioridade depende do efeito, não apenas da quantidade de menções.
 
-| Prioridade | Critério para este estudo |
+| Prioridade | Critério |
 | --- | --- |
-| Alta | A representação omite condição essencial, atribui ação ao ator errado ou estabelece relação que compromete alcançar/representar o objetivo; inclui símbolo ou operador cujo significado altera a tarefa |
-| Média | Há ambiguidade ou decomposição insuficiente que exige explicação ou aprofundamento, preservando o entendimento geral |
-| Baixa | Ajuste de apresentação ou padronização sem mudança de significado ou de acesso ao conteúdo |
+| Alta | Omite condição essencial, atribui ação ao ator errado ou altera o significado do objetivo ou das relações por erro de modelo/notação |
+| Média | Ambiguidade, omissão ou detalhamento insuficiente exige esclarecimento relevante, preservando o entendimento geral |
+| Baixa | Ajuste de apresentação sem alteração do sentido ou do acesso ao conteúdo |
 
-<p class="caption">Tabela 5 — Critérios de prioridade das revisões.</p>
-<p class="source">Fonte: critérios operacionais definidos para o projeto.</p>
+<p class="caption">Tabela 5 — Prioridades das revisões da análise de tarefas.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
-A prioridade dependerá do efeito sustentado pelos dados, não apenas do número de menções. Legibilidade que impeça o acesso ao conteúdo poderá receber prioridade alta. Questões sobre regras do serviço sem confirmação permanecerão como investigação.
-
-As revisões preservarão **HTA conforme Figuras 6.1–6.2 e Tabela 6.3 (p. 193–195) e CTT conforme Figuras 6.4–6.6 (p. 203–205)**. Atualizar conjuntamente diagramas, planos, tabelas, expressões e correspondências afetadas; reaplicar CT01–CT06. Mudanças relevantes no trabalho ou nas dependências deverão ser discutidas novamente com participante adequado quando viável.
-
-A versão avaliada será preservada. Cada alteração terá sua versão identificada e seu estado de verificação registrado na ficha de acompanhamento.
+Legibilidade que impeça acesso ao conteúdo poderá ter prioridade alta. Distinguir problema da representação, necessidade do contexto e hipótese sobre o serviço. Guardar o material avaliado e registrar alterações no histórico. Preservar as notações HTA/CTT, atualizar modelos e correspondências conjuntamente e reaplicar CT01–CT06.
 
 ## Apresentação e limites das conclusões
 
-O relato combinará síntese narrativa, respostas por pergunta e fichas de achados. Contagens, quando úteis, indicarão sua unidade; figuras terão legenda, fonte, versão e descrição alternativa. Não serão publicados rosto, contatos, TCLE ou registros brutos, conforme o [plano ético](planejamento-avaliacao-analise-tarefas.md#d-decidir-como-lidar-com-questoes-eticas).
+Apresentar síntese, respostas analíticas, achados e encaminhamentos com trechos desidentificados autorizados. TCLE, contatos e registros brutos permanecerão privados, conforme o [plano ético](planejamento-avaliacao-analise-tarefas.md#d-decidir-como-lidar-com-questoes-eticas).
 
-Relatar familiaridade com a Oficina, exposição prévia ao storyboard, diferenças entre experiência e expectativa e influência da explicação dos modelos. Registrar os quatro blocos efetivamente discutidos e os nós/relações não examinados, sem estender uma resposta a toda a árvore.
-
-A conclusão retomará os objetivos e discutirá **confiabilidade e validades interna, externa e ecológica** nas condições efetivas (BARBOSA; SILVA, 2010, p. 313). Um caso exploratório não sustenta generalização estatística, e esta entrevista não mede eficiência ou execução de tarefas no portal. Ausência de objeção não comprova ausência de problemas.
+Discutir confiabilidade e validades interna, externa e ecológica (BARBOSA; SILVA, 2010, p. 313): rastreabilidade, influência das explicações e da ordem das sessões, limites de um caso e distância entre conversa e uso real. A análise não mede eficiência nem comprova apropriação cotidiana, usabilidade do serviço ou ausência de problemas.
 
 ## Responsabilidades e cronograma do relato
 
-A Tabela 6 detalha a agenda provisória, no horário de Brasília (UTC−3), compatível com o [agendamento da avaliação](planejamento-avaliacao-analise-tarefas.md#registro-de-agendamento-previsto). Ajustes de disponibilidade atualizarão os dois documentos, preservando a conclusão até **24/10/2026, às 19h**.
-
-| Atividade | Data e horário propostos | Responsável | Produto |
-| --- | --- | --- | --- |
-| Preparar instrumentos e identificar versões | 16/10/2026, 18h–21h | Bruno | Formulários e cópias prontos, junto à preparação da avaliação |
-| Conferir dados do piloto e ajustar instrumentos | 18/10/2026, 19h–20h | Bruno | Ajustes metodológicos; piloto separado dos resultados |
-| Organizar e desidentificar registros | 21/10/2026, 20h–20h30 | Bruno | Evidências em pasta privada |
-| Interpretar perguntas e consolidar achados | 22/10/2026, 19h–20h30 | Bruno | Síntese por pergunta e fichas fundamentadas |
-| Redigir o relato | 23/10/2026, 19h–20h | Bruno | Primeira versão |
-| Revisar e incorporar correções | 24/10/2026, 17h–18h | Caio e Bruno | Evidências, conclusões e recomendações conferidas |
-| Conferir o conjunto para a entrega | 24/10/2026, 18h–19h | Bruno | Conferência conjunta dos dois relatos e materiais |
-
-<p class="caption">Tabela 6 — Agenda provisória de produção e revisão do relato.</p>
-<p class="source">Fonte: cronograma de avaliação e produção do relato, Grupo 06 (2026).</p>
-
-Antes da publicação, conferir cobertura das perguntas, vínculo entre achados e evidências, separação do piloto, proteção dos dados, referências e revisão humana, seguindo o padrão de [autoria, revisão e versões](../../../guia/autoria-revisao-versoes.md).
+O ensaio individual ocorreu em 23/10/2026 e a entrevista em 24/10/2026. A organização dos registros, a análise e a redação são de responsabilidade de Bruno; Caio é o revisor. A duração da gravação, as evidências e os resultados estão no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-analise-tarefas.md).
 
 ## Agradecimentos
 
-O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos instrumentos e referências. A responsabilidade pelo conteúdo é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
-
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
@@ -169,13 +139,12 @@ O Codex (OpenAI) foi utilizado como apoio à redação e à organização dos in
 | 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 13/10/2026 | Define participante previsto e agenda de análise, produção e revisão do relato até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.4 | 23/10/2026 | Alinha relato aos objetivos O1/O2, seis perguntas, novo perfil e agenda de 23–24/10. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 1.5 | 24/10/2026 | Retoma a estrutura dos planejamentos do professor, adaptada ao complemento e a Letícia; retira identificação de versões do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.0 | 24/10/2026 | Reorganiza o DECIDE para a proposta de complementos, separa questões de avaliação e roteiro, indica P01 e substitui a agenda anterior por coleta a agendar; simplifica instrumentos e preserva o histórico do recorte docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
-[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 191–196, 203–205, 305–313.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010. p. 138–149, 193–196, 203–205, 291–294, 301, 307–313.
 
-[2] GRUPO 06. **Planejamento da avaliação da análise de tarefas — Oficina Legislativa**. Brasília: FCTE/UnB, 2026. [Planejamento DECIDE](planejamento-avaliacao-analise-tarefas.md).
-
-[3] GRUPO 06. **Análise de tarefas — Oficina Legislativa**. Versão 1.1. Brasília: FCTE/UnB, 2026. [HTA, CTT e tabelas](../../../entrega-2/individual/bruno/perfil-2/analise-tarefas.md).
-
-[4] GRUPO 06. **Análise documental — Professor**. Brasília: FCTE/UnB, 2026. [Fontes oficiais e evidências E01–E09](../../../entrega-2/individual/bruno/perfil-2/analise-documental.md).
+[2] GRUPO 06. **Complementos de ideias legislativas**. [Storyboard](storyboard.md), [análise de tarefas](analise-tarefas.md) e [conferência dos planejamentos](conferencia-planejamentos.md). Brasília: FCTE/UnB, 2026.
