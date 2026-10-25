@@ -79,7 +79,7 @@ Cada pessoa incorpora a própria gravação de apresentação na seção corresp
 ### Israel Soares de Paiva
 
 - Categoria no YouTube: **não listado**
-- Link: a publicar
+- Link: [Link do Vídeo](https://youtu.be/SpN5dZkSQtQ?si=F-_A5U-GEj2wBvzU).
 - Data da gravação: 25/10/2026
 
 ### Luís Henrique Luna de Arruda
