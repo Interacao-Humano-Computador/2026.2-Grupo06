@@ -22,7 +22,7 @@ A Etapa 5 reúne os **relatos das avaliações do storyboard e da análise de ta
 
 Conforme o [cronograma do projeto](../entrega-1/cronograma.md), a entrega está prevista para **25/10/2026**, a inspeção para **26/10** e a apresentação para **27/10**. A execução da avaliação do papel e seu relato integram a Etapa 6, com entrega em **03/11/2026**.
 
-Estão disponíveis os dois planejamentos de Bruno e seus dois relatos, os quatro artefatos de Caio, os artefatos de Israel e o recorte de Luís. Os relatos de Luís documentam as entrevistas de storyboard e análise de tarefas, com vídeos e transcrições em PDF. O piloto gravado em conjunto com Caio está identificado nos dois índices individuais. Os planejamentos do papel orientam as atividades da Etapa 6.
+Estão disponíveis os dois planejamentos de Bruno e seus dois relatos, os quatro artefatos de Caio, os artefatos de Israel, os quatro artefatos com sessão gravada de Heitor e os documentos preparatórios do recorte de Luís. Os dois relatos de Bruno reúnem evidências das gravações de 24/10/2026, respostas ao DECIDE e propostas de revisão. Os relatos de Caio e de Heitor incluem as gravações do storyboard e da análise de tarefas, com localizadores de vídeo e transcrições. Os planejamentos do papel orientam as atividades da Etapa 6.
 
 ## Artefatos individuais da etapa
 
@@ -31,7 +31,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 | Integrante | Funcionalidade / Persona | Relatos das avaliações anteriores | Protótipo de papel |
 | --- | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Complementos de ideias legislativas — participante / Letícia Oliveira | [Storyboard](individual/bruno/relato-storyboard.md) e [análise de tarefas](individual/bruno/relato-analise-tarefas.md): evidências e resultados organizados. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participação em Evento Interativo — Letícia Oliveira | Ainda não adicionados à Etapa 5. | Planejamentos individuais ainda não adicionados. |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Participação em Evento Interativo](individual/heitor/index.md) — Letícia Oliveira | [Storyboard](individual/heitor/relato-storyboard.md) e [análise de tarefas](individual/heitor/relato-analise-tarefas.md): sessão gravada (07 min 25 s), com perguntas, respostas, localizadores e vídeo. | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-prototipo-papel.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): sessões gravadas, com perguntas, respostas, localizadores e vídeos. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | [Storyboard](individual/israel/relato-storyboard.md) e [análise de tarefas](individual/israel/relato-analise-tarefas.md): perguntas, respostas, análise e recomendações organizadas. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Agendamento para participar de plenárias com limite de vagas | [Modelagem HTA/CTT](individual/luis/modelagem-tarefas.md), [inspeção documental](individual/luis/inspecao-modelos.md), [relato do storyboard](individual/luis/relato-storyboard.md) e [relato da análise de tarefas](individual/luis/relato-analise-tarefas.md), com vídeos e transcrições. | [Planejamento da avaliação](individual/luis/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/luis/planejamento-relato-prototipo-papel.md); protótipo e regras institucionais ainda dependem de definição. |
@@ -39,7 +39,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
 <p class="source">Fonte: artefatos disponíveis no repositório em 25/10/2026 e recortes da Etapa 4.</p>
 
-Consultar também o [índice de Caio](individual/caio/index.md) e o [índice de Israel](individual/israel/index.md), com as agendas propostas, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
+Consultar também o [índice de Caio](individual/caio/index.md), o [índice de Israel](individual/israel/index.md) e o [índice de Heitor](individual/heitor/index.md), com as agendas propostas, e a [lista de verificação da Etapa 5](../verificacao/listas/etapa-5.md).
 
 ## Relação entre avaliações e entregas
 
@@ -76,6 +76,7 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `0.9` | 24/10/2026 | Acrescenta os links da modelagem HTA/CTT, inspeção e planos do recorte de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor dos documentos de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 25/10/2026 | Inclui as estruturas dos relatos de Bruno, ainda sem resultados de coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 25/10/2026 | Integra os quatro artefatos individuais e o índice de Heitor Pinheiro na Etapa 5 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
