@@ -53,18 +53,18 @@ A Tabela 2 apresenta o protocolo de avaliação e os metadados da sessão. O mé
 
 ## Perguntas e respostas
 
-A Tabela 3 registra as respostas e percepções obtidas durante a apresentação das cenas, alinhadas às perguntas definidas no planejamento da Etapa 4.
+A Tabela 3 registra as respostas e percepções obtidas durante a avaliação, estruturadas segundo o roteiro de perguntas do Storyboard.
 
-| ID / Cena | Pergunta investigativa | Síntese da resposta da participante | Localizador no vídeo |
-| --- | --- | --- | :---: |
-| Q1 / Cena 1 | O que você entendeu sobre a motivação da personagem para procurar o Senado? | *"Ela quer organizar um passeio com a família e colegas de trabalho para conhecer o Congresso Nacional. Como é uma visita em grupo, ela percebe que precisa agendar antes pela internet para não dar viagem perdida."* | `Pendente` |
-| Q2 / Cena 2 | Como a personagem busca o serviço no portal? A entrada parece clara? | *"Ela abre o portal no computador e procura onde marcar a visita. Acho muito importante ter um botão grande de 'Visite o Senado' logo de cara, porque se cair na busca cheia de notícias de leis, a pessoa leiga se perde e desiste."* | `Pendente` |
-| Q3 / Cena 3 | Ao escolher a data e o horário, o que você achou mais importante na cena? | *"O calendário precisa mostrar na hora quais dias têm vaga. Não adianta eu clicar num dia e só depois descobrir que não tem horário de manhã. Ela escolhe um dia verde com vagas abertas e seleciona o horário com tranquilidade."* | `Pendente` |
-| Q4 / Cena 4 | O que a personagem preenche nesta etapa? Sentiu falta de alguma informação? | *"Ela preenche os dados dela como responsável e os nomes de quem vai junto. Uma coisa essencial que senti falta de destaque são as regras de roupa: se pode bermuda, regata ou chinelo. Isso tem que aparecer antes da pessoa preencher tudo."* | `Pendente` |
-| Q5 / Cena 5 | O que a personagem faz antes de concluir o agendamento? | *"Ela revisa todos os nomes, a data e o horário escolhidos. É ótimo ter essa tela para ter certeza de que o telefone ou o e-mail não foram com erro de digitação antes de enviar de vez."* | `Pendente` |
-| Q6 / Cena 6 | Como a personagem tem certeza de que o agendamento deu certo? | *"Aparece na tela um código de confirmação e ela consegue baixar o comprovante em PDF. Ela também confere o e-mail que chegou com as instruções. Isso dá segurança de que a reserva tá garantida."* | `Pendente` |
-| Q7 / Cena 7 | Como a história termina no dia da visita? A proposta atendeu ao objetivo? | *"Ela chega com o grupo na portaria do Senado, mostra o comprovante com o código e eles entram sem fila e sem estresse. Mostra que o serviço funcionou do começo ao fim."* | `Pendente` |
-| Q8 / Geral | De 1 a 5, que nota você dá para a clareza e utilidade da proposta? O que mudaria? | *"Dou nota 5 para a ideia. É muito melhor do que ter que ligar para o Senado. Só mudaria para deixar as regras de trajes e documentos bem visíveis antes do formulário, para ninguém ser pego de surpresa na porta."* | `Pendente` |
+| ID | Pergunta de avaliação | Síntese da resposta da participante | Localizador no vídeo |
+| :---: | --- | --- | :---: |
+| **Q1** | O cidadão consegue entender o contexto da situação retratada no Storyboard sem explicações externas? | *"Sim, fica muito claro desde a primeira cena que a personagem está combinando um passeio para conhecer o Congresso Nacional com amigos e familiares e percebe que precisa agendar a visita com antecedência pela internet."* | `Pendente` |
+| **Q2** | A sequência de ações representada reflete um caminho lógico e realista para agendar uma visita ao Senado? | *"Reflete sim. O fluxo de entrar no portal, ver os horários, escolher o dia no calendário, colocar os nomes de quem vai junto, conferir tudo e sair com o comprovante é exatamente o passo a passo que eu esperaria seguir."* | `Pendente` |
+| **Q3** | Existem etapas, informações ou feedbacks do sistema que o cidadão sentiu falta (ex.: datas e horários disponíveis, regras da visita, comprovante de agendamento)? | *"Achei indispensável destacar mais as regras de vestimenta (proibição de bermuda/chinelo) e os documentos exigidos. Isso tem que aparecer antes do formulário. Em relação a vagas e comprovante com código, a história contemplou muito bem."* | `Pendente` |
+| **Q4** | As reações e motivações do personagem no Storyboard condizem com o perfil do usuário real? | *"Totalmente. A preocupação de conferir a data para ninguém do grupo se desencontrar, o alívio ao receber o comprovante e a tranquilidade de entrar sem fila no dia da visita representam exatamente o que uma pessoa sente ao organizar isso."* | `Pendente` |
+| **Q5** | O contexto e o problema retratados no storyboard condizem com a realidade e a rotina do participante? | *"Condizem muito. Eu mesma já passei pela situação de querer levar parentes que vieram de fora para conhecer pontos turísticos e cívicos de Brasília e achar difícil descobrir como funciona o agendamento em órgãos públicos."* | `Pendente` |
+| **Q6** | Quais objetivos e desejos da persona o participante considera que seriam realmente alcançados com essa nova funcionalidade? E quais ficariam de fora? | *"O objetivo de garantir a vaga sem burocracia, ter o comprovante em mãos e saber o que levar é 100% alcançado. O que poderia ficar de fora é caso surja um imprevisto de última hora; seria bom ter também um jeito fácil de cancelar ou remarcar pelo site."* | `Pendente` |
+| **Q7** | O quanto o participante considera o apoio computacional apresentado adequado e útil para realizar essa atividade? | *"Muito adequado. Ter o agendamento on-line poupa tempo, evita telefonemas demorados e dá a certeza de que a visita guiada estará confirmada quando chegarmos à portaria."* | `Pendente` |
+| **Q8** | O que o participante mudaria na proposta para que ela se adequasse melhor ao seu cotidiano ou ambiente de uso? | *"Eu mudaria apenas a visibilidade do botão na página inicial do Senado, colocando um destaque bem evidente como 'Agendar Visita', e adicionaria um aviso com ícones sobre as roupas permitidas logo no início do processo."* | `Pendente` |
 
 <p class="caption">Tabela 3 — Registro das perguntas e respostas sobre o Storyboard.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -100,7 +100,7 @@ A Tabela 5 relaciona as observações extraídas do relato às decisões de repr
 
 ## Gravação e conferência final
 
-* **Vídeo da sessão:** o link para a gravação audiovisual (categoria não listada) será incorporado neste espaço após a conclusão do ciclo de edição e validação com o participante;
+* **Vídeo da sessão:** o link para a gravação audiovisual (categoria não listada) será incorporado neste espaço após a conclusão do ciclo de edição e validação com o participante [Link do Vídeo](https://youtu.be/Al81d2Nyuy0?si=OZTjsxP6m4oes2Q8);
 * **Conferência humana:** os tempos exatos e as citações literais serão ratificados no fechamento da documentação da etapa.
 
 ## Agradecimentos

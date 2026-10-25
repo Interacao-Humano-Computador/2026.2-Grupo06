@@ -58,8 +58,8 @@ A HTA decompõe uma tarefa em subtarefas e operações organizadas hierarquicame
 2. Existe alguma etapa faltando, desnecessária ou fora de ordem?
 3. O que você faria se a data ou o horário que deseja não estivessem disponíveis?
 4. O que você faria se precisasse alterar ou cancelar o agendamento?
-5. Há alguma tarefa importante para você que não aparece no modelo?
-6. Algum termo ou etapa do modelo ficou difícil de entender?
+
+5. Algum termo ou etapa do modelo ficou difícil de entender?
 
 ## C: Escolher os métodos de avaliação
 

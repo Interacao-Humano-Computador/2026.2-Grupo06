@@ -79,7 +79,7 @@ Cada pessoa incorpora a própria gravação na seção correspondente. Os vídeo
 
 - Categoria no YouTube: **não listado**
 - Link: a publicar
-- Data da gravação: a publicar
+- Data da gravação: 25/10/2026
 
 ### Luis Henrique Luna de Arruda
 

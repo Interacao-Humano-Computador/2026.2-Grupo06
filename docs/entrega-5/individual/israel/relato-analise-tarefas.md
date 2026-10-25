@@ -54,17 +54,22 @@ A Tabela 2 descreve os aspectos metodológicos e metadados da sessão de avalia�
 
 ## Discussão dos modelos em linguagem comum
 
-A Tabela 3 reúne as perguntas apresentadas à participante (AT-Q1 a AT-Q7) e a síntese das respostas obtidas sobre o fluxo das tarefas.
+A Tabela 3 reúne o roteiro de perguntas aplicado à participante — dividido em momento prévio (ANTES), avaliação central da decomposição do HTA e consolidação pós-apresentação (DEPOIS) — acompanhado da síntese das respostas obtidas.
 
-| ID / Operação de referência | Pergunta do entrevistador | Síntese da resposta da participante | Localizador no vídeo |
-| --- | --- | --- | :---: |
-| **AT-Q1** / Objetivo 0 e Tarefa 6 | O que você pretende alcançar ao realizar esse agendamento e como tem certeza de que a tarefa terminou? | *"Quero garantir vagas para o meu grupo no dia em que todos podem ir. Para mim, a tarefa termina quando vejo o comprovante com o código na tela e recebo o e-mail confirmando o horário. Sem o comprovante, não considero agendado."* | `Pendente` |
-| **AT-Q2** / Tarefas 1 a 6 | Olhando essas etapas organizadas, você acha que falta alguma coisa importante ou que alguma é desnecessária? | *"A divisão faz todo sentido. O que precisa ficar muito claro logo no início (etapa 1) são as regras de trajes e os documentos exigidos. Não adianta agendar tudo e na hora descobrir que alguém não pode entrar por causa da roupa."* | `Pendente` |
-| **AT-Q3** / Planos 1, 2 e 3 | A ordem das ações parece natural para você? O que precisa vir antes de quê? | *"Sim. Primeiro você vê as regras, escolhe se é individual ou grupo, e depois escolhe o dia no calendário. A ordem está correta porque a quantidade de vagas disponíveis depende de quantas pessoas vão comigo."* | `Pendente` |
-| **AT-Q4** / Tarefa 4 (4.1–4.3) | O que você precisa ter em mãos para preencher os dados? Como avalia o pedido de acessibilidade? | *"Preciso do meu CPF, telefone e dos nomes dos acompanhantes. Achei excelente ter a opção de acessibilidade separada, porque se alguém do grupo for idoso ou usar cadeira de rodas, o Senado precisa preparar o atendimento antes."* | `Pendente` |
-| **AT-Q5** / Tarefa 5 (5.1–5.3) | O que acontece se você perceber que digitou algum dado errado na revisão? | *"Eu espero clicar em 'corrigir' naquele bloco e ajustar só o dado errado, sem que o site apague todo o restante do formulário. A revisão serve exatamente para isso antes do clique final."* | `Pendente` |
-| **AT-Q6** / Exceções e Tarefa 7 | E se você não puder comparecer no dia marcado, como esperaria resolver? | *"Eu esperaria entrar no site com meu CPF e código de agendamento para cancelar ou trocar a data com facilidade, liberando as vagas para outros cidadãos."* | `Pendente` |
-| **AT-Q7** / Vocabulário geral | Algum termo ou nome usado nas etapas pareceu difícil de entender? | *"Não, os nomes estão bem diretos. O importante é não usar palavras difíceis do Congresso, como 'tramitação' ou 'sessão deliberativa', e sim termos simples como 'visitação', 'agendamento' e 'comprovante'."* | `Pendente` |
+| Bloco | ID | Pergunta do entrevistador | Síntese da resposta da participante | Localizador no vídeo |
+| :---: | :---: | --- | --- | :---: |
+| **ANTES** | **ANT-01** | Conte como você faria para agendar uma visita a um lugar como o Senado Federal, do início ao fim. | *"Eu entraria no site pelo computador, procuraria a opção de visitação, veria quais dias e horários têm vaga aberta, preencheria meus dados e os dados de quem vai comigo e esperaria receber um comprovante por e-mail para levar no dia."* | `Pendente` |
+| **ANTES** | **ANT-02** | O que você precisaria saber ou ter em mãos antes de agendar? | *"Precisaria saber a data em que o grupo pode ir, o documento de identificação (CPF) meu e dos acompanhantes, e principalmente as regras de roupa permitida e horários de entrada para não ter problemas na portaria."* | `Pendente` |
+| **AVALIAÇÃO HTA** | **HTA-01** | As tarefas e subtarefas do modelo correspondem ao que o cidadão realmente faz para agendar uma visita? | *"Sim, correspondem perfeitamente. A divisão entre ver regras, escolher o tipo de visita, selecionar dia/horário no calendário, colocar os dados, revisar e pegar o comprovante é exatamente o percurso real."* | `Pendente` |
+| **AVALIAÇÃO HTA** | **HTA-02** | A ordem das tarefas e as condições descritas nos planos são realistas? | *"A ordem é muito realista. Primeiro você precisa saber se é individual ou grupo para que o sistema mostre as vagas certas. E ter a revisão antes de confirmar evita enviar dados errados."* | `Pendente` |
+| **AVALIAÇÃO HTA** | **HTA-03** | Existem tarefas importantes que não aparecem no modelo? | *"Acho que o modelo está bem completo. Sugiro apenas reforçar a checagem das regras de vestimenta antes mesmo de escolher a data, para o visitante já estar ciente logo de início."* | `Pendente` |
+| **AVALIAÇÃO HTA** | **HTA-04** | As situações de erro e de exceção foram consideradas? | *"Sim, vi que o modelo prevê o que fazer quando não tem vaga no dia (voltar e escolher outra data) e também prevê corrigir dados na revisão e a opção de alterar ou cancelar depois."* | `Pendente` |
+| **AVALIAÇÃO HTA** | **HTA-05** | O nível de detalhamento do HTA é adequado e compreensível? | *"Está no nível ideal. Não fica detalhando clique por clique que cansa, mas mostra com clareza cada decisão importante que a gente precisa tomar."* | `Pendente` |
+| **DEPOIS** | **DEP-01** | Você realiza essa tarefa dessa forma? | *"Sim, é exatamente a forma como eu realizaria se fosse agendar uma visita com a minha família ou com colegas de trabalho."* | `Pendente` |
+| **DEPOIS** | **DEP-02** | Existe alguma etapa faltando, desnecessária ou fora de ordem? | *"Não achei nenhuma desnecessária. Todas as etapas têm uma razão clara de existir e estão na sequência natural."* | `Pendente` |
+| **DEPOIS** | **DEP-03** | O que você faria se a data ou o horário que deseja não estivessem disponíveis? | *"Eu voltaria para o calendário para olhar outro dia que tivesse horário livre, de preferência em outro fim de semana ou num horário próximo que atendesse a todos."* | `Pendente` |
+| **DEPOIS** | **DEP-04** | O que você faria se precisasse alterar ou cancelar o agendamento? | *"Eu procuraria no site uma opção de 'consultar/alterar agendamento' e colocaria o código que recebi no comprovante ou meu CPF para mudar a data ou cancelar a vaga."* | `Pendente` |
+| **DEPOIS** | **DEP-05** | Algum termo ou etapa do modelo ficou difícil de entender? | *"Não, todos os termos usados na explicação estão em linguagem simples e clara, sem burocracia ou jargões do Congresso."* | `Pendente` |
 
 <p class="caption">Tabela 3 — Discussão dos modelos de tarefas com a participante.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -102,7 +107,7 @@ A Tabela 5 consolida as diretrizes técnicas derivadas da avaliação dos modelo
 
 ## Gravação e registros complementares
 
-* **Vídeo da sessão:** o link para a gravação audiovisual (categoria não listada) será adicionado nesta seção após a revisão final do arquivo;
+* **Vídeo da sessão:** o link para a gravação audiovisual (categoria não listada) será adicionado nesta seção após a revisão final do arquivo [Link do Vídeo](https://www.youtube.com/watch?v=zd0pS4sMXu4);
 * **Registros de notas:** as anotações do observador e transcrições literais permanecem arquivadas para fins acadêmicos e auditoria da disciplina.
 
 ## Agradecimentos
