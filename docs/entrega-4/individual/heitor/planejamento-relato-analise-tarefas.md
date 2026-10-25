@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Votação em consulta pública (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
+<span class="owner">Responsável: Heitor Pinheiro Gonçalves das Chagas — Participação em Evento Interativo (e-Cidadania) · Autor do item: Heitor Pinheiro Gonçalves das Chagas</span>
 
 # Planejamento do relato dos resultados da avaliação da análise de tarefas
 
@@ -17,11 +17,11 @@ A Tabela 1 registra quem atuou na elaboração deste planejamento do relato.
 
 ## Introdução
 
-Este artefato define o protocolo de consolidação, interpretação e apresentação dos dados que serão coletados durante a futura avaliação da **Análise Hierárquica de Tarefas (HTA)** da persona **Letícia Oliveira**, focada na votação de consulta pública (PL 1215/2025) no módulo **e-Cidadania** do Senado Federal.
+Este artefato define o protocolo de consolidação, interpretação e apresentação dos dados que serão coletados durante a futura avaliação da **Análise Hierárquica de Tarefas (HTA)** da persona **Letícia Oliveira**, focada na participação em audiência pública e envio de pergunta técnica direcionada a orador (audiência da CRA sobre o PL 1215/2025) no módulo **e-Cidadania** do Senado Federal.
 
 O objetivo do relato é sistematizar as evidências levantadas nas sessões empíricas, documentar as discordâncias entre o modelo conceitual e o fluxo cognitivo do cidadão e orientar diretamente o reprojeto das telas na forma de protótipos de papel.
 
-**Situação em 13/10/2026:** trata-se estritamente do **planejamento do relato**. Nenhuma sessão foi realizada até o momento e nenhum campo desta estrutura contém dados empíricos simulados ou fictícios. A execução das entrevistas e a geração do relato oficial ocorrerão na Etapa 5 (entrega em 25/10/2026).
+**Situação em 24/10/2026:** trata-se estritamente do **planejamento do relato**. Nenhuma sessão foi realizada até o momento e nenhum campo desta estrutura contém dados empíricos simulados ou fictícios. A execução das entrevistas e a geração do relato oficial ocorrerão na Etapa 5 (entrega em 25/10/2026).
 
 ## Item de conteúdo da disciplina
 
@@ -45,7 +45,7 @@ Cada evidência empírica coletada durante a validação da HTA receberá um ide
 - **Confirmação:** quando o participante valida que a subtarefa, operação ou plano reflete com exatidão sua ação na vida real;
 - **Divergência / Correção:** quando o participante aponta erro na ordem dos passos, nas condições de entrada ou nos pré-requisitos;
 - **Lacuna / Omissão:** quando o participante descreve ação intermediária necessária que não estava mapeada no modelo;
-- **Ponto de atrito de interface:** relatos de frustração, dúvida ou hesitação visual (com foco especial na operação 4.1).
+- **Ponto de atrito de interface:** relatos de frustração, dúvida ou hesitação visual (com foco especial na ausência de campo específico para seleção de orador no portal atual e nas operações de reprojeto 2.2, 2.3 e 4.1).
 
 Os dados do teste piloto serão categorizados separadamente e descartados do cômputo dos resultados substantivos da avaliação, sendo empregados unicamente para relatar os ajustes procedimentais implementados.
 
@@ -55,14 +55,14 @@ A Tabela 2 apresenta os 8 componentes obrigatórios que serão preenchidos após
 
 | Nº | Componente do relato | Descrição do conteúdo a ser apresentado na Etapa 5 | Fonte dos dados |
 | :---: | :--- | --- | --- |
-| **1** | **Objetivos e escopo da avaliação** | Explicitação clara de que se avaliou a representatividade e a exatidão da HTA na tarefa de votar em consulta pública no e-Cidadania, delimitando o escopo ao percurso da persona Letícia Oliveira. | Planejamento da avaliação (Seção D) |
+| **1** | **Objetivos e escopo da avaliação** | Explicitação clara de que se avaliou a representatividade e a exatidão da HTA na tarefa de participar de evento interativo / audiência pública no e-Cidadania com envio de pergunta técnica direcionada a orador, delimitando o escopo ao percurso da persona Letícia Oliveira. | Planejamento da avaliação (Seção D) |
 | **2** | **Breve descrição do método utilizado** | Registro detalhado do método: *validação do modelo de análise de tarefas HTA, leitura guiada do Storyboard como prototipação conceitual de baixa fidelidade e sua transição para o método de prototipação em papel*. | Protocolo metodológico da Seção C |
 | **3** | **Número e perfil do avaliador e dos participantes** | Caracterização dos 3 participantes voluntários (idade, engajamento social, histórico de uso do e-Cidadania), identificação do avaliador responsável (Heitor Pinheiro) e do revisor (Caio Breno), preservando o anonimato. | Fichas de caracterização e TCLE assinado |
-| **4** | **Tarefas executadas pelos participantes** | Descrição do percurso operacional realizado: análise da árvore de decomposição, percurso guiado nó a nó da HTA e resposta às perguntas P01 a P05 do roteiro semiestruturado. | Registro em áudio e notas do avaliador |
+| **4** | **Tarefas executadas pelos participantes** | Descrição do percurso operacional realizado: análise da árvore de decomposição, percurso guiado nó a nó da HTA (operações 1.1 a 4.2) e resposta às perguntas P01 a P05 do roteiro semiestruturado. | Registro em áudio e notas do avaliador |
 | **5** | **Sumário dos dados coletados** | Apresentação tabular quanti-qualitativa dos achados: relação das operações confirmadas, corrigidas e propostas de novas operações para a HTA. | Ficha consolidada de evidências (AT-EV) |
-| **6** | **Interpretação e análise dos dados** | Confrontação dos relatos com as premissas do modelo; análise das causas de divergências na percepção da tarefa e discussão sobre hábitos de busca vs. links diretos. | Matriz de análise temática e cognitiva |
+| **6** | **Interpretação e análise dos dados** | Confrontação dos relatos com as premissas do modelo; análise das causas de divergências na percepção da tarefa, limitações do portal atual (onde o orador é digitado em texto livre) e avaliação das propostas de reprojeto (2.2, 2.3 e 4.1). | Matriz de análise temática e cognitiva |
 | **7** | **Lista de problemas classificados por severidade** | Tabela ordenada de barreiras de usabilidade e inadequações do modelo, categorizadas segundo a escala clássica de gravidade de Nielsen (1994):<br>• 0 = Não é considerado problema de usabilidade;<br>• 1 = Problema cosmético (baixo impacto);<br>• 2 = Problema simples (atrasa mas não bloqueia);<br>• 3 = Problema grave (dificulta muito a conclusão);<br>• 4 = Catastrófico (impede a conclusão da tarefa). | Matriz de severidade e consenso da equipe |
-| **8** | **Planejamento do reprojeto** | Definição das correções prioritárias a serem incorporadas nas árvores de tarefas e especificação direta dos requisitos ergonômicos que nortearão a construção do protótipo de papel na Etapa 5. | Encaminhamentos de design para a Etapa 5 |
+| **8** | **Planejamento do reprojeto** | Definição das correções prioritárias a serem incorporadas nas árvores de tarefas e especificação direta dos requisitos ergonômicos (campos dedicados para orador e acompanhamento de status) que nortearão a construção do protótipo de papel na Etapa 5. | Encaminhamentos de design para a Etapa 5 |
 
 <p class="caption">Tabela 2 — Estrutura de consolidação do relato da análise de tarefas.</p>
 <p class="source">Fonte: elaboração do autor com base em Barbosa e Silva (2010, p. 311–312) e SALES (2026).</p>
@@ -72,9 +72,9 @@ A Tabela 2 apresenta os 8 componentes obrigatórios que serão preenchidos após
 O relato dedicará uma seção específica para discutir a qualidade científica dos achados à luz dos quatro critérios de validação propostos por Barbosa e Silva (2010, p. 313):
 
 1. **Confiabilidade:** discussão sobre se a repetição da sessão com outros membros de coletivos sociais nas mesmas condições produziria achados convergentes;
-2. **Validade interna:** verificação do isolamento de variáveis e garantia de que o avaliador manteve postura neutra, sem induzir concordância com o modelo ou com o ponto crítico 4.1;
+2. **Validade interna:** verificação do isolamento de variáveis e garantia de que o avaliador manteve postura neutra, sem induzir concordância com o modelo ou com as hipóteses de reprojeto (2.2, 2.3 e 4.1);
 3. **Validade externa:** reflexão sobre em que medida os resultados obtidos com os 3 participantes do DF podem ser extrapolados para a diversidade de cidadãos brasileiros que acessam o e-Cidadania;
-4. **Validade ecológica:** avaliação de como o ambiente de teste (remoto via Meet ou presencial em laboratório) se aproximou das condições reais em que o cidadão vota (usualmente em casa, em momentos de mobilização comunitária).
+4. **Validade ecológica:** avaliação de como o ambiente de teste presencial no Laboratório de Informática da FCTE/UnB se aproximou das condições reais em que o cidadão participa de audiências públicas (usualmente em casa ou no trabalho comunitário, em momentos de mobilização).
 
 ## Agradecimentos
 
@@ -89,6 +89,7 @@ Em atenção às recomendações de integridade acadêmica da Sociedade Brasilei
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato da HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento do relato conforme os 7 componentes de Barbosa e Silva (2010), severidades de Nielsen e validades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a tarefa de Participação em Evento Interativo (e-Cidadania) e integração das propostas de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
 
 
 ## Referências

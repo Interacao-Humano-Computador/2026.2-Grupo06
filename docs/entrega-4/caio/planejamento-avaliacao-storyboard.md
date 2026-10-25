@@ -20,7 +20,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
 
-A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) registra a execução: piloto em 22/10, 18h30–19h10, e sessão presencial em 24/10, 13h28–14h00. A revisão dos relatos é de Bruno Ferreira Dornelas.
 
 Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
 
@@ -28,7 +28,7 @@ Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as
 
 Este planejamento organiza uma avaliação formativa do [storyboard](storyboard.md) de **preparar, revisar e enviar uma ideia legislativa**, no Portal e-Cidadania, com uma pessoa do perfil **Proponente de ideia legislativa**. O recorte acompanha Camila Nogueira do rascunho ao acompanhamento da ideia publicada, distinguindo envio, apoios e lei. Uma entrevista semiestruturada remota, apoiada na leitura do storyboard, investigará a compreensão da história, sua adequação a quem pretende formalizar uma proposta e as informações necessárias antes do envio.
 
-**Situação em 22/10/2026:** planejamento elaborado para revisão interna; participante, observador, datas e horários ainda não confirmados. O storyboard manual versão 1.1 está na página do storyboard. O TCLE específico da sessão deverá ser preparado antes do piloto. Nenhuma sessão ou coleta é relatada como realizada. O [planejamento do relato](planejamento-relato-storyboard.md) define como organizar os resultados futuros.
+**Situação em 24/10/2026:** o piloto com PP-PROP01 ocorreu em 22/10, 18h30–19h10. A sessão com PROP01 ocorreu em 24/10, 13h28–14h00, presencial. O relato está em [Relato do storyboard](../../entrega-5/individual/caio/relato-storyboard.md). Revisor: Bruno Ferreira Dornelas.
 
 ## Contextualização
 
@@ -113,10 +113,10 @@ A Tabela 3 estabelece os recursos e responsabilidades previstos.
 | Item | Definição |
 | --- | --- |
 | Moderador e responsável pelos dados | Caio Breno de Souza Bezerra: convite, consentimento, condução, organização e análise |
-| Observador | Um integrante do grupo, a confirmar; registrará evidências e intervenções sem conduzir respostas |
-| Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf): conferirá fontes, análise e relato |
-| Local | Sessão remota; cada pessoa em ambiente escolhido por ela, com privacidade e pouco ruído |
-| Plataforma | Google Meet como opção prevista; confirmar acesso, compartilhamento e recursos de acessibilidade no piloto; link enviado em privado |
+| Observador | Caio conduziu e a gravação é o registro da sessão |
+| Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf): conferiu fontes, análise e relato |
+| Local | Presencial, mesma sala, em 24/10/2026 |
+| Plataforma | Conversa presencial. O material foi lido no celular de PROP01 |
 | Equipamentos | Computador ou dispositivo que permita ler os quadros, conexão e áudio; câmera facial opcional |
 | Material de avaliação | Storyboard manual QD01–QD06, versão 1.1 de 22/10/2026 |
 | Instrumentos | TCLE específico, perguntas de caracterização, roteiro desta página e formulário de registro |
@@ -176,9 +176,9 @@ O piloto ocorrerá em **data anterior à sessão principal**, com uma pessoa que
 
 Será ensaiado todo o procedimento: consentimento, acesso remoto, leitura, entrevista, registro e uma breve análise dos dados. O piloto deverá verificar se as respostas permitem abordar Q1–Q7, se os quadros podem ser identificados, se a linguagem é neutra e se há tempo suficiente. Seus dados serão excluídos do conjunto de resultados da avaliação; o registro metodológico preservará somente problemas do procedimento e ajustes realizados, sem falas pessoais. Mudanças extensas exigirão novo piloto.
 
-### Cronograma e pendências de agendamento
+### Cronograma
 
-A Tabela 6 define a ordem e o esforço previsto. **T** representa a data ainda não agendada da avaliação principal. As janelas são propostas de organização, não compromissos confirmados. A data de entrega acadêmica não será tratada como data de coleta.
+A Tabela 6 guarda a ordem prevista na preparação. A execução está na Tabela 7: piloto em 22/10 e sessão com PROP01 em 24/10, 13h28–14h00.
 
 | Atividade | Janela prevista | Esforço estimado | Produto / condição de conclusão |
 | --- | --- | --- | --- |
@@ -193,19 +193,19 @@ A Tabela 6 define a ordem e o esforço previsto. **T** representa a data ainda n
 <p class="caption">Tabela 6 — Cronograma relativo da avaliação.</p>
 <p class="source">Fonte: estimativas do projeto; atividades básicas de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
-### Registro de agendamento previsto
+### Registro da execução
 
-A Tabela 7 explicita os campos de calendário e o local. As datas abaixo são propostas para o reagendamento individual e dependem de aceite. Caio deverá confirmar a proposta com as pessoas antes do piloto, preservando o intervalo para ajustes.
+A Tabela 7 registra o que foi realizado. O piloto manteve o horário previsto. A sessão com PROP01 foi presencial, em 24/10, mais curta que a reserva de 40 minutos.
 
-| Sessão | Data prevista | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma prevista | Condição |
+| Sessão | Data | Horário de Brasília (UTC−3) | Duração | Local | Participante |
 | --- | --- | --- | --- | --- | --- |
-| Piloto do storyboard | 22/10/2026; T−1 dia, proposta | 18h30–19h10 | 40 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa PP-PROP01, diferente de PROP01 e não envolvida na elaboração |
-| Avaliação do storyboard | 23/10/2026; T, proposta | 18h30–19h10 | 40 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, materiais ajustados e consentimento |
+| Piloto do storyboard | 22/10/2026 | 18h30–19h10 | 40 min | Presencial | PP-PROP01 |
+| Avaliação do storyboard | 24/10/2026 | 13h28–14h00 | 6 min 31 s | Presencial | PROP01 |
 
-<p class="caption">Tabela 7 — Agendamento proposto, a confirmar antes das sessões.</p>
-<p class="source">Fonte: planejamento operacional do projeto, orientado por Barbosa e Silva (2010, p. 307–308).</p>
+<p class="caption">Tabela 7 — Piloto e sessão do storyboard.</p>
+<p class="source">Fonte: execução do recorte de Caio, 22/10 e 24/10/2026.</p>
 
-O moderador acumulará o registro se não houver observador. Bruno Ferreira Dornelas é o responsável designado pela revisão do planejamento e dos materiais antes do piloto e, posteriormente, do relato.
+Caio conduziu as duas atividades. Bruno Ferreira Dornelas revisou o planejamento e o relato.
 
 ## D — Decidir como lidar com questões éticas
 
@@ -255,6 +255,7 @@ Grok (xAI) apoiou a redação e a organização deste planejamento, no molde his
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.4 | 24/10/2026 | Atualiza a referência ao storyboard de Bruno para complementos e distingue o uso histórico da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 13h28–14h00. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

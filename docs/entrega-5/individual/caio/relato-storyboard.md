@@ -8,8 +8,9 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação das perguntas, da análise e dos encaminhamentos | [Conteúdo](#objetivos-e-escopo) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação das perguntas, condução da sessão e encaminhamentos | [Conteúdo](#objetivos-e-escopo) |
 | Codex (OpenAI) | Apoio à consulta das fontes, redação e organização documental | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Conferência das falas com a gravação e preenchimento dos localizadores | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +19,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Este relato dá continuidade ao [planejamento da avaliação](../../../entrega-4/caio/planejamento-avaliacao-storyboard.md) e ao [planejamento do relato](../../../entrega-4/caio/planejamento-relato-storyboard.md). O material é o storyboard manual **1.1, de 22/10/2026**, com QD01–QD06.
 
-**Situação:** relato em elaboração, com perguntas, respostas, análise e encaminhamentos organizados. A versão final incorporará a gravação, os dados da sessão e a conferência das falas.
+**Situação em 24/10/2026:** a conversa com PROP01 está gravada e os localizadores apontam para o arquivo. O roteiro tinha sido escrito antes; a gravação confirma as respostas e acrescenta a leitura no celular, a modalidade presencial e a concordância final com a síntese.
 
 ## Objetivos e escopo
 
@@ -26,55 +27,57 @@ Investigar a compreensão de objetivo, sequência e responsabilidades; discutir 
 
 ## Método, pessoas e registro
 
-A Tabela 2 reúne o protocolo e os campos que dependem da execução. A investigação com apoio visual permite discutir interpretações e expectativas (BARBOSA; SILVA, 2010, p. 145–149, 301). As falas desta versão foram elaboradas previamente para a atividade didática; sua correspondência com a gravação será conferida na versão final.
+A Tabela 2 reúne o que a gravação permite afirmar. A investigação com apoio visual discute interpretações e expectativas (BARBOSA; SILVA, 2010, p. 145–149, 301). As perguntas e as respostas previstas foram preparadas para a atividade didática. Na sessão, Caio leu o roteiro e PROP01 respondeu nesses termos. A conferência com o vídeo manteve esse conteúdo, com os ajustes indicados na tabela e no fechamento.
 
 | Campo | Registro |
 | --- | --- |
-| Procedimento | Conversa semiestruturada apoiada na leitura dos seis quadros, conforme Q1–Q7 da Etapa 4 |
-| Moderador | Caio Breno de Souza Bezerra |
-| Pessoa participante | Uma pessoa no papel de proponente, código PROP01; identidade e caracterização efetiva a registrar de forma privada |
-| Persona | Camila é personagem do projeto; não é a identidade da pessoa gravada |
-| Observador | A confirmar |
+| Procedimento | Conversa apoiada na leitura dos seis quadros, com Q1–Q7 da Etapa 4 |
+| Moderador | Caio Breno de Souza Bezerra, presente no quadro e identificado no início da gravação |
+| Pessoa participante | PROP01, uma pessoa adulta no papel de proponente. O nome e o contato ficam fora do site |
+| Persona | Camila é personagem do projeto; não é a identidade de PROP01 |
+| Observador | O quadro mostra Caio e PROP01. O registro desta sessão é a própria gravação |
 | Revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| Data, início, fim e duração efetivos | Pendentes; proposta em 23/10, 18h30–19h10 |
-| Modalidade / local | Remota, Google Meet, a confirmar; registrar eventual mudança |
-| Material apresentado | Storyboard manual 1.1 e transcrição acessível |
-| Consentimento | Confirmar participação, voz, imagem quando houver e disponibilização do vídeo; documentos fora do repositório |
-| Piloto | PP-PROP01, outra pessoa; registrar ajustes separadamente, sem somar à sessão principal |
+| Duração | 6 min 31 s. A leitura dos quadros no celular ocupa cerca de 1:08 a 1:44 |
+| Data e horário | 24/10/2026, 13h28–14h00. Duração de 6 min 31 s. A sessão seguinte começou em seguida |
+| Modalidade / local | Presencial, na mesma sala |
+| Material apresentado | Storyboard manual 1.1, consultado por PROP01 no celular. Caio indica a leitura da linha de cima e depois da de baixo (0:59–1:08) |
+| Consentimento | Participação, voz e imagem autorizadas para a disciplina. Identidade e termo ficam fora do repositório |
+| Piloto | Realizado em 22/10/2026, 18h30–19h10, com PP-PROP01. Os dados abaixo são só da conversa com PROP01 |
+| Sequência | Esta gravação vem antes da [análise de tarefas](relato-analise-tarefas.md), no mesmo encontro |
 
 <p class="caption">Tabela 2 — Protocolo e metadados da gravação.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: gravação com PROP01, incorporada em 24/10/2026.</p>
 
 ## Perguntas e respostas
 
-A Tabela 3 preserva os identificadores Q1–Q7 da Etapa 4. Q2 foi ajustada para o desenho manual, que não apresenta o episódio do telefone. Os campos de localizador deverão receber os tempos reais do vídeo.
+A Tabela 3 preserva os identificadores Q1–Q7 da Etapa 4. Q2 foi ajustada para o desenho manual, que não apresenta o episódio do telefone. Os tempos são os da resposta de PROP01 no [Vídeo 1](#video).
 
 | ID / quadro | Pergunta de Caio | Resposta | Localizador efetivo |
 | --- | --- | --- | --- |
-| Q1 / QD01–QD06 | Conte com suas palavras o que Camila pretende fazer e como a história termina. | Ela quer encaminhar uma ideia para melhorar uma situação. Primeiro organiza o texto, encontra a página, entra e envia. Depois tenta saber se foi recebido. No último quadro já aparece a ideia publicada com apoios; entendo que passou um tempo, não que virou lei. | Pendente |
-| Q2 / QD04–QD05 | O que ela precisa conferir antes de enviar? O que ainda depende do Senado depois? | Ela precisa conferir se o título e a descrição dizem o que quer e tirar dados pessoais que não precisam estar no texto. Eu gostaria de uma revisão antes do envio, porque depois não dá para editar. Depois o serviço ainda precisa avaliar se a ideia respeita as regras. | Pendente |
-| Q3 / QD03–QD06 | O que cabe a quem envia e o que cabe ao serviço do Senado? | A pessoa prepara o conteúdo, entra com sua conta e decide enviar. O serviço registra o recebimento, avalia a ideia e informa o andamento. A pessoa não pode decidir sozinha que a proposta já foi publicada ou aprovada. | Pendente |
-| Q4 / QD01–QD04 | A sequência faz sentido? Você mudaria ou detalharia algum passo? | O rascunho no começo faz sentido, mas eu leria as regras antes de terminar o texto. Entre preencher e enviar, falta mostrar uma conferência do conteúdo. Eu deixaria claro onde volto para corrigir. | Pendente |
-| Q5 / QD02–QD03 | De quais informações você precisaria para realizar esse percurso? | Eu procuraria no site do Senado uma opção com nome claro, como Enviar ideia legislativa. Ao entrar na conta, gostaria de continuar no mesmo contexto e entender por que estou acessando aquele serviço. Também precisaria saber o que pode ser escrito e o que vai acontecer depois. | Pendente |
-| Q6 / QD05 | O que você conferiria para considerar a ideia enviada, sem confundir isso com aprovação? | Só o botão apertado não me deixaria seguro. Eu procuraria uma confirmação com o título da ideia, uma identificação e a data. A mensagem deveria dizer que foi recebida e será avaliada. Assim eu saberia que não preciso enviar de novo e que ainda não é uma lei aprovada. | Pendente |
-| Q7 / QD05–QD06 | Qual trecho ficou confuso ou incompleto? O que mudaria e por quê? | A passagem da dúvida no envio para a ideia com apoios ficou rápida. Eu mostraria primeiro o recebimento, depois a avaliação e, quando publicada, os apoios. Também colocaria um caminho para acompanhar minha ideia sem depender só de procurar um e-mail. | Pendente |
+| Q1 / QD01–QD06 | Conte com suas palavras o que Camila pretende fazer e como a história termina. | Quer encaminhar uma ideia para melhorar uma situação. Organiza o texto, encontra a página, entra e envia. Depois tenta saber se foi recebido. No último quadro a ideia aparece publicada, com alguns apoios. Entende que passou um tempo, e não que virou lei. | 1:56–2:16 |
+| Q2 / QD04–QD05 | O que ela precisa conferir antes de enviar? O que ainda depende do Senado depois? | Conferir se o título e a descrição dizem o que ela quer e tirar dados que não precisam estar no texto. Queria uma revisão antes do envio, porque depois não dá para editar. O serviço ainda precisa avaliar a ideia e seguir as regras. | 2:28–2:51 |
+| Q3 / QD03–QD06 | O que cabe a quem envia e o que cabe ao serviço do Senado? | A pessoa prepara o conteúdo, entra com a conta e decide enviar. O serviço registra o recebimento, avalia a ideia e informa o andamento. Quem envia não decide se a proposta já foi publicada ou aprovada. | 3:02–3:20 |
+| Q4 / QD01–QD04 | A sequência faz sentido? Você mudaria ou detalharia algum passo? | O rascunho no começo faz sentido, mas leria as regras antes de terminar o texto. Entre preencher e enviar, falta uma conferência do conteúdo e um lugar claro para voltar e corrigir. | 3:29–3:45 |
+| Q5 / QD02–QD03 | De quais informações você precisaria para realizar esse percurso? | Uma opção com nome claro no site do Senado para enviar a ideia legislativa. Ao entrar na conta, continuar no mesmo contexto e entender por que está naquele serviço. Também saber o que pode ser escrito e o que acontece depois. | 3:54–4:14 |
+| Q6 / QD05 | O que você conferiria para considerar a ideia enviada, sem confundir isso com aprovação? | Só apertar o botão não deixaria seguro. Procuraria confirmação com o título, uma identificação e a data. A mensagem deveria dizer que foi recebida e que será avaliada, para não enviar de novo e não tratar isso como lei aprovada. | 4:24–4:45 |
+| Q7 / QD05–QD06 | Qual trecho ficou confuso ou incompleto? O que mudaria e por quê? | A passagem da dúvida no envio para a ideia com apoios ficou rápida. Mostraria o recebimento, depois a avaliação e, quando publicada, os apoios. Também um caminho para acompanhar a mesma ideia sem procurar um e-mail. | 4:59–5:16 |
 
 <p class="caption">Tabela 3 — Perguntas e respostas sobre o storyboard.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: fala de PROP01 na gravação de 24/10/2026, redigida para leitura.</p>
 
 ## Atividades da avaliação
 
 A Tabela 4 mantém os IDs de atividade do planejamento do relato.
 
-| ID | Atividade | Registro a conferir na gravação |
+| ID | Atividade | O que a gravação mostra |
 | --- | --- | --- |
-| SB-AT01 | Ler livremente os seis quadros | Material legível, comentários e pedidos de ampliação |
-| SB-AT02 | Recontar objetivo, sequência e responsabilidades | Q1–Q4; relacionar a explicação aos quadros apresentados |
-| SB-AT03 | Discutir contexto e critério de envio | Q5–Q6; relacionar navegação e confirmação ao reprojeto |
-| SB-AT04 | Apontar revisões e conferir a síntese | Q7 e encerramento; conferir a síntese e registrar os comentários finais |
+| SB-AT01 | Ler os seis quadros | 0:54–1:44. PROP01 olha o desenho no celular, da linha de cima para a de baixo. Não há pedido de ampliação |
+| SB-AT02 | Recontar objetivo, sequência e responsabilidades | 1:50–3:45, Q1–Q4. A resposta acompanha os seis quadros e separa envio, recebimento e lei |
+| SB-AT03 | Discutir contexto e critério de envio | 3:45–4:45, Q5–Q6. Pede nome claro, continuidade depois da conta e confirmação com título, identificação e data |
+| SB-AT04 | Apontar revisões e conferir a síntese | 4:48–6:25, Q7 e fechamento. PROP01 concorda com as quatro melhorias e reforça a correção antes de confirmar |
 
-<p class="caption">Tabela 4 — Atividades a documentar.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="caption">Tabela 4 — Atividades documentadas na gravação.</p>
+<p class="source">Fonte: gravação com PROP01, 24/10/2026.</p>
 
 ## Análise e encaminhamentos
 
@@ -92,11 +95,22 @@ A Tabela 5 relaciona as questões discutidas e os elementos do desenho às decis
 
 O desenho é mantido como versão avaliada. A próxima versão poderá inserir a revisão, um retorno explícito e a passagem de tempo. Essas correções estão **propostas**, não concluídas nem reavaliadas. O desenho não comprova ausência de feedback no sistema real.
 
-## Vídeo e conferência após a gravação
+Depois da síntese, Caio pergunta se o resumo corresponde ao que acabou de ser discutido (5:54–6:02). PROP01 concorda (6:03–6:15): o principal é saber que a ideia foi recebida e o que ainda falta, sem enviar outra vez, e ver onde corrigir o texto antes de confirmar. Esse fechamento reforça RP02 e RP03 na mesma conversa. A interface proposta segue para o protótipo de papel.
 
-**Vídeo:** aguardando inclusão do link autorizado. A gravação será incorporada no padrão das apresentações do grupo.
+## Vídeo
 
-Antes de fechar o relato, preencher data, duração, equipe e caracterização efetivas; conferir as falas e os localizadores; registrar alterações do roteiro e intervenções; indicar os ajustes do piloto em registro separado; e manter a revisão humana pendente até sua realização.
+O Vídeo 1 é a conversa inteira, da apresentação ao encerramento.
+
+??? note "Vídeo 1 — Discussão do storyboard com PROP01"
+
+    <div class="session-video">
+      <video controls preload="metadata" playsinline title="Discussão do storyboard de Camila com PROP01">
+        <source src="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <p class="caption">Vídeo 1 — Discussão do storyboard com PROP01.</p>
+    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 24/10/2026, 13h28–14h00. Arquivo: <a href="../../../../assets/video/entrega-5/caio/avaliacao-storyboard.mp4">avaliacao-storyboard.mp4</a>.</p>
 
 ## Limites
 
@@ -114,7 +128,7 @@ A Figura 1 apresenta a orientação sobre consolidação e relato usada na estru
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -122,6 +136,9 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 22/10/2026 | Relato preparatório com perguntas, respostas previstas, análise e plano de reprojeto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 24/10/2026 | Incorpora a gravação presencial, a duração, a modalidade e os localizadores de Q1–Q7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 24/10/2026 | Registra a sessão de 13h28–14h00 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

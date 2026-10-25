@@ -19,7 +19,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
 
-A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) registra a execução: piloto em 22/10, 19h20–20h10, e sessão presencial em 24/10, 14h00–14h06. A revisão do relato é de Bruno Ferreira Dornelas.
 
 Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
 
@@ -27,7 +27,7 @@ Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as
 
 Este planejamento define como relatar os resultados da [avaliação da análise de tarefas](planejamento-avaliacao-analise-tarefas.md) da **autoria de uma ideia legislativa**, com o perfil **Proponente**. Serão examinados a HTA e a CTT da tarefa de preparar, revisar e enviar uma ideia. O relato deverá apresentar o que foi avaliado, as evidências coletadas, as divergências encontradas e os encaminhamentos para revisar os modelos.
 
-**Situação em 22/10/2026:** planejamento para revisão interna; a avaliação ainda não foi realizada. Participante, piloto, observador e agendamentos estão a confirmar. Os campos deste documento são instrumentos para preenchimento futuro; não representam resultados nem aprovação dos diagramas.
+**Situação em 24/10/2026:** a sessão com PROP01 ocorreu em 24/10, 14h00–14h06, depois do piloto de 22/10. O relato preenchido está em [Relato da análise de tarefas](../../entrega-5/individual/caio/relato-analise-tarefas.md). Revisor: Bruno Ferreira Dornelas.
 
 ## Item de conteúdo da disciplina
 
@@ -135,7 +135,7 @@ A conferência CT01–CT06 será registrada à parte, como atividade da equipe, 
 
 ## Responsabilidades
 
-Caio organiza os registros, interpreta as perguntas e redige o relato até T-AT+2 dias. Bruno revisa até T-AT+3 dias. T-AT é a data da sessão principal, ainda a confirmar na [Tabela 7 de agendamento](planejamento-avaliacao-analise-tarefas.md#registro-de-agendamento-previsto). Os dados do piloto não entram nos achados; apenas os ajustes do procedimento podem ser relatados.
+Caio organizou os registros e redigiu o relato. Bruno Ferreira Dornelas revisou. A sessão principal foi em 24/10, 14h00–14h06, conforme a [Tabela 7](planejamento-avaliacao-analise-tarefas.md#registro-da-execucao). Os dados do piloto de 22/10 não entram nos achados.
 
 ## Verificação antes da publicação
 
@@ -159,6 +159,7 @@ Grok (xAI) apoiou a redação e a organização dos instrumentos. Caio Breno de 
 | 1.0 | 13/10/2026 | Estrutura e instrumentos para o futuro relato da avaliação da HTA/CTT da autoria de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 24/10/2026 | Aponta a sessão de 24/10, 14h00–14h06, e a revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -19,7 +19,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 
 O [storyboard versão 1.1](storyboard.md) substitui os SVG pelo desenho manual QD01–QD06. Os objetivos passam a explicitar o **reprojeto da experiência existente**, com RP01 (continuidade pelo portal do Senado), RP02 (recebimento reconhecível), RP03 (revisão antes do envio) e RP04 (acompanhamento compreensível). O e-Cidadania já é um serviço do Senado; não se propõe tratá-lo como instituição diferente.
 
-A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) detalha a agenda individual reagendada: pilotos em 22/10 e gravações em 23/10, seguidas de revisão em 24/10. As datas são propostas, a confirmar; não são registros de execução. Esta agenda substitui os campos “a confirmar” e as janelas relativas anteriores para a preparação atual.
+A [Etapa 5 de Caio](../../entrega-5/individual/caio/index.md#agenda-proposta) registra a execução: piloto em 22/10, 19h20–20h10, e sessão presencial em 24/10, 14h00–14h06, na sequência do storyboard. A revisão dos relatos é de Bruno Ferreira Dornelas.
 
 Os relatos da Etapa 5 concentram a descrição do procedimento, as perguntas, as respostas e os encaminhamentos. A conferência técnica CT01–CT06 permanece atividade da equipe. O registro passa a incluir tela e voz para a disciplina, mediante consentimento; imagem facial é opcional e requer autorização específica. O TCLE e os arquivos brutos ficam fora do repositório.
 
@@ -29,7 +29,7 @@ Este planejamento organiza a avaliação formativa da **análise de tarefas de p
 
 Será realizada uma entrevista semiestruturada remota apoiada nos modelos, precedida de conferência técnica da notação pela equipe. O [planejamento do relato dos resultados](planejamento-relato-analise-tarefas.md) define os registros e o tratamento das evidências.
 
-**Situação em 22/10/2026:** planejamento para revisão interna. Pessoa participante, pessoa do piloto, observador, datas e horários estão a confirmar. Os modelos existem em forma textual. A cópia de avaliação, a descrição em linguagem comum e o TCLE específico devem ser preparados antes do piloto. Não houve coleta neste recorte.
+**Situação em 24/10/2026:** o piloto com PP-PROP01 ocorreu em 22/10, 19h20–20h10. A sessão com PROP01 ocorreu em 24/10, 14h00–14h06, presencial. O relato está em [Relato da análise de tarefas](../../entrega-5/individual/caio/relato-analise-tarefas.md). Revisor: Bruno Ferreira Dornelas.
 
 ## Contextualização
 
@@ -118,7 +118,7 @@ A Tabela 3 relaciona os blocos e materiais a apresentar.
 <p class="caption">Tabela 3 — Cobertura da leitura dos modelos.</p>
 <p class="source">Fonte: HTA/CTT da autoria de ideia, Grupo 06 (2026).</p>
 
-Materiais necessários: a hierarquia textual, as tabelas de planos e de operações, a expressão CTT, a descrição em linguagem comum, o roteiro AT-Q1–AT-Q7, o formulário de evidências, a ficha de conferência técnica e o TCLE. Cada pessoa usará ambiente com privacidade, áudio e conexão. Prevê-se Google Meet, a confirmar no piloto. Não há custos adicionais previstos.
+Materiais necessários: a hierarquia textual, as tabelas de planos e de operações, a expressão CTT, a descrição em linguagem comum, o roteiro AT-Q1–AT-Q7, o formulário de evidências, a ficha de conferência técnica e o TCLE. A sessão de 24/10 foi presencial, na mesma sala, com o material no celular. Não há custos adicionais.
 
 ### Notação exata e conferência técnica
 
@@ -164,7 +164,7 @@ A Tabela 5 prevê 45 minutos de atividades, com reserva de até cinco minutos pa
 
 O piloto será realizado em data anterior à avaliação principal, com uma pessoa que não tenha elaborado os materiais e que não será a participante principal. Os dados do piloto não serão incorporados aos resultados principais.
 
-A Tabela 6 usa **T-AT** como data ainda não agendada da avaliação da análise de tarefas, distinta da data da avaliação do storyboard.
+A Tabela 6 guarda a ordem prevista na preparação. A execução está na Tabela 7: piloto em 22/10, 19h20–20h10, e sessão com PROP01 em 24/10, 14h00–14h06.
 
 | Atividade | Janela prevista | Esforço estimado | Produto |
 | --- | --- | --- | --- |
@@ -179,19 +179,19 @@ A Tabela 6 usa **T-AT** como data ainda não agendada da avaliação da análise
 <p class="caption">Tabela 6 — Cronograma relativo da avaliação.</p>
 <p class="source">Fonte: estimativas do projeto; atividades de avaliação de Barbosa e Silva (2010, seção 9.7).</p>
 
-### Registro de agendamento previsto
+### Registro da execução
 
-A Tabela 7 organiza os campos de calendário e local. As datas abaixo são propostas para o reagendamento individual e dependem de aceite.
+A Tabela 7 registra o que foi realizado. O piloto manteve o horário previsto. A sessão com PROP01 foi presencial, em seguida ao storyboard, mais curta que a reserva de 50 minutos.
 
-| Sessão | Data prevista | Horário de Brasília (UTC−3) | Duração reservada | Local / plataforma prevista | Condição |
+| Sessão | Data | Horário de Brasília (UTC−3) | Duração | Local | Participante |
 | --- | --- | --- | --- | --- | --- |
-| Piloto da análise de tarefas | 22/10/2026; T-AT−1 dia, proposta | 19h20–20h10 | 50 min | Remota, Google Meet; cada pessoa em ambiente privado | Pessoa PP-PROP01, diferente de PROP01 e não envolvida na elaboração |
-| Avaliação da análise de tarefas | 23/10/2026; T-AT, proposta | 19h20–20h10 | 50 min | Remota, Google Meet; link enviado em privado | Pessoa elegível, CT01–CT06 conferidos, ajustes do piloto e consentimento |
+| Piloto da análise de tarefas | 22/10/2026 | 19h20–20h10 | 50 min | Presencial | PP-PROP01 |
+| Avaliação da análise de tarefas | 24/10/2026 | 14h00–14h06 | 6 min | Presencial | PROP01 |
 
-<p class="caption">Tabela 7 — Agendamento proposto, a confirmar antes das sessões.</p>
-<p class="source">Fonte: planejamento operacional do projeto, orientado por Barbosa e Silva (2010, p. 307–308).</p>
+<p class="caption">Tabela 7 — Piloto e sessão da análise de tarefas.</p>
+<p class="source">Fonte: execução do recorte de Caio, 22/10 e 24/10/2026.</p>
 
-Bruno Ferreira Dornelas é o responsável designado pela revisão do planejamento, da notação e dos materiais antes do piloto e, posteriormente, do relato.
+Caio conduziu as duas atividades. Bruno Ferreira Dornelas revisou o planejamento, a notação e o relato.
 
 ## D — Decidir como lidar com questões éticas
 
@@ -233,6 +233,7 @@ Grok (xAI) apoiou a redação e a organização deste planejamento. Caio Breno d
 | 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação da HTA/CTT da autoria de ideia, com conferência CT01–CT06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 14h00–14h06. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

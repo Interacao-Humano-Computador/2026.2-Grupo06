@@ -42,6 +42,12 @@ O framework DECIDE orienta o planejamento de uma avaliação em seis passos: det
 2. A sequência de ações representada reflete um caminho lógico e realista para agendar uma visita ao Senado?
 3. Existem etapas, informações ou feedbacks do sistema que o cidadão sentiu falta (ex.: datas e horários disponíveis, regras da visita, comprovante de agendamento)?
 4. As reações e motivações do personagem no Storyboard condizem com o perfil do usuário real?
+5.  O contexto e o problema retratados no storyboard condizem com a realidade e a rotina do participante?
+6. Quais objetivos e desejos da persona o participante considera que seriam realmente alcançados com essa nova funcionalidade? E quais ficariam de fora?
+7. O quanto o participante considera o apoio computacional apresentado adequado e útil para realizar essa atividade?
+8. O que o participante mudaria na proposta para que ela se adequasse melhor ao seu cotidiano ou ambiente de uso?
+
+<p class="source">Fonte: elaboração do Grupo 06 adaptado por Barbosa e silva (2026).</p>
 
 A Tabela 2 apresenta a sequência de cenas de referência do Storyboard avaliado. Ela deve ser ajustada à versão real do Storyboard do grupo.
 
@@ -69,8 +75,7 @@ A Tabela 2 apresenta a sequência de cenas de referência do Storyboard avaliado
 
 1. Essa situação é realista para quem quer visitar o Senado?
 2. Você já passou por algo parecido, como agendar uma visita a outro lugar? Como foi?
-3. O que você mudaria nessa história?
-4. De 1 a 5, o quanto a história ficou clara para você? Por quê?
+3. De 1 a 5, o quanto a história ficou clara para você? Por quê?
 
 ## C: Escolher os métodos de avaliação
 

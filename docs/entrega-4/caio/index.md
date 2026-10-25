@@ -28,7 +28,7 @@ Esta página reúne o storyboard e os planejamentos do recorte de autoria de ide
 - [Planejamento do relato da análise de tarefas](planejamento-relato-analise-tarefas.md).
 - [Conferência dos planejamentos](conferencia-planejamentos.md).
 
-O recorte melhora uma funcionalidade existente: acesso pelo portal do Senado, revisão antes de enviar, confirmação do recebimento e acompanhamento. O e-Cidadania já é um serviço do Senado; a proposta integra a experiência de navegação. Os [relatos e planos de Caio na Etapa 5](../../entrega-5/individual/caio/index.md) reúnem a discussão dos materiais, os encaminhamentos e a agenda proposta. Gravações e metadados efetivos permanecem pendentes.
+O recorte melhora uma funcionalidade existente: acesso pelo portal do Senado, revisão antes de enviar, confirmação do recebimento e acompanhamento. O e-Cidadania já é um serviço do Senado; a proposta integra a experiência de navegação. Os [relatos de Caio na Etapa 5](../../entrega-5/individual/caio/index.md) reúnem a discussão gravada com PROP01, os encaminhamentos e os planos do protótipo de papel.
 
 ## Agradecimentos
 
@@ -43,6 +43,7 @@ Grok (xAI) apoiou a organização desta página de índice. Caio Breno de Souza 
 | 1.0 | 13/10/2026 | Índice do storyboard e dos planejamentos do perfil Proponente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 22/10/2026 | Atualiza o storyboard manual e explicita melhorias e continuidade na Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 24/10/2026 | Aponta as gravações já publicadas nos relatos da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
