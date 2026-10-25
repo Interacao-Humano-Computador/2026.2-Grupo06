@@ -11,6 +11,7 @@ A Tabela 1 registra quem contribuiu neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição da funcionalidade, do perfil e da avaliação remota; responsabilidade pelo planejamento | [Contextualização](#contextualizacao) |
 | Codex (OpenAI) | Apoio à atualização do escopo, do material e da continuidade na Etapa 5 | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à redação, à organização e à conferência das referências | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização da referência ao recorte de Bruno | [Storyboard de Bruno](../individual/bruno/storyboard.md) |
 
 <p class="caption">Tabela 1 — Contribuição no planejamento.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -48,7 +49,7 @@ Barbosa e Silva (2010, p. 294) incluem storyboards entre os artefatos que podem 
 <p class="caption">Figura 1 — Framework DECIDE.</p>
 <p class="source">Fonte: Barbosa e Silva (2010, seção 9.8, p. 312–313).</p>
 
-As referências teóricas deste documento usam a edição de **2010**. O planejamento da Oficina Legislativa, de Bruno, foi usado como molde de organização. A avaliação daquele recorte não é transportada para este estudo.
+As referências teóricas deste documento usam a edição de **2010**. O planejamento histórico de Bruno para a Oficina Legislativa foi usado como molde de organização. A avaliação daquele recorte não é transportada para este estudo.
 
 ## D — Determinar os objetivos
 
@@ -83,7 +84,7 @@ Será realizada uma **avaliação formativa por investigação**, com **entrevis
 
 As Figuras 2 e 3 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto) reproduzem a explicação da entrevista semiestruturada e dos métodos de investigação. **Autores da fundamentação:** Simone Diniz Junqueira Barbosa e Bruno Santana da Silva (2010).
 
-**Aplicação do item 7 da lista:** a estrutura do relato descreverá o método efetivamente planejado para este artefato. O storyboard é uma narrativa visual usada na entrevista; a prototipação em papel, mencionada na lista, tem planejamento próprio previsto na [Etapa 5](../../proximas/etapa-05.md). Para este recorte, a investigação com material de apoio é justificada pelos objetivos de compreensão e adequação ao contexto, conforme Barbosa e Silva (2010, p. 301). Essa delimitação é a interpretação adotada no projeto, no mesmo sentido do planejamento da Oficina Legislativa, e não uma dispensa concedida pelo professor.
+**Aplicação do item 7 da lista:** a estrutura do relato descreverá o método efetivamente planejado para este artefato. O storyboard é uma narrativa visual usada na entrevista; a prototipação em papel, mencionada na lista, tem planejamento próprio previsto na [Etapa 5](../../proximas/etapa-05.md). Para este recorte, a investigação com material de apoio é justificada pelos objetivos de compreensão e adequação ao contexto, conforme Barbosa e Silva (2010, p. 301). Essa delimitação é a interpretação adotada no projeto, no mesmo sentido do planejamento histórico da Oficina Legislativa, e não uma dispensa concedida pelo professor.
 
 A modalidade remota é uma decisão operacional: compartilhamento de tela e cópia acessível do material permitem conversar sobre os mesmos quadros. Não haverá teste de execução no portal, prototipação interativa em papel ou medição de tempo de tarefa. Tempo de leitura e pausas serão registros de contexto, não indicadores de desempenho.
 
@@ -146,7 +147,7 @@ A Tabela 4 identifica os quadros do desenho manual e sua relação com as tarefa
 
 As orientações conhecidas podem aparecer na história; o que será investigado é sua interpretação após a leitura. O moderador não fornecerá explicações adicionais antes de registrar a resposta inicial. Qualquer mudança na quantidade ou ordem dos quadros deverá atualizar esta tabela, a figura e os instrumentos.
 
-**Critério de preparação:** o desenho manual versão 1.1 possui seis quadros; a Tabela 4 identifica ações e vínculos, e a transcrição do storyboard explicita suas lacunas. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. O de [Bruno — Oficina Legislativa](../individual/bruno/storyboard.md) também está disponível. A autoverificação registra o storyboard de Israel como incompleto; Luís não entregou o seu. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
+**Critério de preparação:** o desenho manual versão 1.1 possui seis quadros; a Tabela 4 identifica ações e vínculos, e a transcrição do storyboard explicita suas lacunas. A revisão interna conferirá essa correspondência antes do piloto. O plano coletivo prevê **cinco storyboards, um por integrante**. Este documento entrega o de Caio, com seis quadros. O de Heitor, sobre Letícia, está desenhado. O material atual de [Bruno — Complementos de ideias legislativas](../individual/bruno/storyboard.md) contém roteiro e referência visual; o desenho manual ainda será preparado. A autoverificação registra o storyboard de Israel como incompleto; Luís não entregou o seu. A contagem será de storyboards completos, não de quadros. A existência deste material não comprova que o conjunto de cinco já esteja pronto.
 
 ### Roteiro da sessão
 
@@ -239,9 +240,11 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312): o
 
 ## Agradecimentos
 
+O Codex (OpenAI) apoiou a atualização das referências ao recorte de Bruno em 24/10/2026.
+
 Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
-Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos documentos da Oficina Legislativa. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
+Grok (xAI) apoiou a redação e a organização deste planejamento, no molde histórico dos documentos da Oficina Legislativa. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
 
 ## Histórico de versão
 
@@ -251,7 +254,8 @@ Grok (xAI) apoiou a redação e a organização deste planejamento, no molde dos
 | `1.1` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.4` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 13h28–14h00. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.4 | 24/10/2026 | Atualiza a referência ao storyboard de Bruno para complementos e distingue o uso histórico da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 13h28–14h00. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

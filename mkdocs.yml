@@ -183,7 +183,8 @@ nav:
       - entrega-4/index.md
       - Trabalhos individuais:
           - Bruno Ferreira:
-              - Storyboard · Oficina Legislativa: entrega-4/individual/bruno/storyboard.md
+              - Storyboard · Complementos de ideias: entrega-4/individual/bruno/storyboard.md
+              - Análise de tarefas · Complementos de ideias: entrega-4/individual/bruno/analise-tarefas.md
               - Storyboard · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md
               - Storyboard · Planejamento do relato: entrega-4/individual/bruno/planejamento-relato-storyboard.md
               - Análise de tarefas · Planejamento da avaliação: entrega-4/individual/bruno/planejamento-avaliacao-analise-tarefas.md
@@ -215,26 +216,36 @@ nav:
       - entrega-5/index.md
       - Trabalhos individuais:
           - Bruno Ferreira:
+              - Storyboard · Relato: entrega-5/individual/bruno/relato-storyboard.md
+              - Análise de tarefas · Relato: entrega-5/individual/bruno/relato-analise-tarefas.md
               - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md
               - Protótipo de papel · Planejamento do relato: entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md
-          - Caio Breno:
-              - entrega-5/individual/caio/index.md
-              - Storyboard · Relato: entrega-5/individual/caio/relato-storyboard.md
-              - Análise de tarefas · Relato: entrega-5/individual/caio/relato-analise-tarefas.md
-              - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/caio/planejamento-avaliacao-prototipo-papel.md
-              - Protótipo de papel · Planejamento do relato: entrega-5/individual/caio/planejamento-relato-prototipo-papel.md
           - Heitor Pinheiro:
               - entrega-5/individual/heitor/index.md
               - Storyboard · Relato: entrega-5/individual/heitor/relato-storyboard.md
               - Análise de tarefas · Relato: entrega-5/individual/heitor/relato-analise-tarefas.md
               - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/heitor/planejamento-avaliacao-prototipo-papel.md
               - Protótipo de papel · Planejamento do relato: entrega-5/individual/heitor/planejamento-relato-prototipo-papel.md
+          - Caio Breno:
+              - entrega-5/individual/caio/index.md
+              - Storyboard · Relato: entrega-5/individual/caio/relato-storyboard.md
+              - Análise de tarefas · Relato: entrega-5/individual/caio/relato-analise-tarefas.md
+              - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/caio/planejamento-avaliacao-prototipo-papel.md
+              - Protótipo de papel · Planejamento do relato: entrega-5/individual/caio/planejamento-relato-prototipo-papel.md
           - Israel Soares:
               - entrega-5/individual/israel/index.md
               - Storyboard · Relato: entrega-5/individual/israel/relato-storyboard.md
               - Análise de tarefas · Relato: entrega-5/individual/israel/relato-analise-tarefas.md
               - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md
               - Protótipo de papel · Planejamento do relato: entrega-5/individual/israel/planejamento-relato-prototipo-papel.md
+          - Luís Henrique:
+              - entrega-5/individual/luis/index.md
+              - Modelagem da tarefa · HTA e CTT: entrega-5/individual/luis/modelagem-tarefas.md
+              - Inspeção documental · HTA e CTT: entrega-5/individual/luis/inspecao-modelos.md
+              - Storyboard · Relato: entrega-5/individual/luis/relato-storyboard.md
+              - Análise de tarefas · Relato: entrega-5/individual/luis/relato-analise-tarefas.md
+              - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/luis/planejamento-avaliacao-prototipo-papel.md
+              - Protótipo de papel · Planejamento do relato: entrega-5/individual/luis/planejamento-relato-prototipo-papel.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
@@ -263,6 +274,7 @@ nav:
           - Etapa 2: apresentacoes/etapa-02.md
           - Etapa 3: apresentacoes/etapa-03.md
           - Etapa 4: apresentacoes/etapa-04.md
+          - Etapa 5: apresentacoes/etapa-05.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md
