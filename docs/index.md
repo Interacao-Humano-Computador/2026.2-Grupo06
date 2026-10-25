@@ -102,7 +102,7 @@ hide:
 
 ## Introdução
 
-Esta página abre o site do Grupo 06. As Etapas 1, 2 e 3 estão publicadas, incluindo os artefatos de planejamento, perfil de usuário e análise de requisitos. A [Etapa 4](entrega-4/index.md) reúne os planejamentos de avaliação e dos relatos. A [Etapa 5](entrega-5/index.md) está aberta com organização por integrante e os planejamentos do protótipo de papel de Bruno; os relatos anteriores aguardam os dados das avaliações. Sua entrega está prevista para 25/10/2026. O objeto do projeto é o Portal do Senado Federal. As verificações, os registros e as próximas etapas estão disponíveis no menu.
+Esta página abre o site do Grupo 06. As Etapas 1, 2 e 3 estão publicadas, incluindo os artefatos de planejamento, perfil de usuário e análise de requisitos. A [Etapa 4](entrega-4/index.md) reúne os planejamentos de avaliação e os links aos materiais individuais relacionados. A [Etapa 5](entrega-5/index.md) reúne relatos de entrevistas, vídeos e transcrições, além dos planejamentos do protótipo de papel. O objeto do projeto é o Portal do Senado Federal. As verificações, os registros e as próximas etapas estão disponíveis no menu.
 
 ## Tabela de contribuição
 

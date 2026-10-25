@@ -7,7 +7,7 @@ Entrega em 25/10/2026; inspeção em 26/10; apresentação em 27/10.
 
 Artefatos previstos: relato do storyboard; relato da análise de tarefas; planejamento da avaliação do protótipo de papel; planejamento do relato desses resultados.
 
-A etapa possui seção própria em [Etapa 5 — Relatos e planejamento do protótipo de papel](../entrega-5/index.md), com índice e trabalhos individuais. Os dois planejamentos de Bruno estão redigidos; os relatos das avaliações anteriores aguardam os dados das sessões. Esta página preserva o acesso pelos links antigos.
+A etapa possui seção própria em [Etapa 5 — Relatos e planejamento do protótipo de papel](../entrega-5/index.md), com índice e trabalhos individuais. Os relatos de Bruno, Caio e Luís já registram entrevistas; o índice reúne os links de vídeo e, no recorte de Luís, também as transcrições em PDF. Esta página preserva o acesso pelos links antigos.
 
 ## Tabela de contribuição
 
