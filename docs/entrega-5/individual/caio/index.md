@@ -57,7 +57,17 @@ PROP01 participou das duas gravações, na mesma sala, primeiro o storyboard e d
 
 ## Gravações e verificação
 
-Os vídeos das sessões com PROP01 estão nos dois relatos. O piloto de 22/10 permanece separado. Reunião de inspeção e apresentação são registros coletivos, distintos destas sessões.
+Os vídeos das sessões com PROP01 estão nos dois relatos. O registro audiovisual do teste piloto foi gravado em conjunto com Caio e Luís e também fica listado abaixo nesta página, atribuído ao trabalho conjunto. O piloto permanece separado dos resultados da sessão principal. Reunião de inspeção e apresentação são registros coletivos, distintos destas sessões.
+
+### Teste piloto — gravação conjunta
+
+A [gravação do teste piloto no YouTube](https://youtu.be/XroAJouSclE) foi realizada em conjunto com Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna. O vídeo é apresentado aqui como registro compartilhado do piloto, separado das entrevistas principais com PROP01.
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+  <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/XroAJouSclE" title="Gravação do teste piloto, sessão conjunta com Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<p class="caption">Vídeo — Registro do teste piloto, gravação conjunta com Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna.</p>
 
 Consultar a [lista de verificação da Etapa 5](../../../verificacao/listas/etapa-5.md). A avaliação do protótipo de papel será executada para a Etapa 6; a Etapa 5 entrega seu planejamento.
 
@@ -73,6 +83,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Registra as duas gravações presenciais e as durações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Fixa os horários de 13h28–14h06, o piloto de 22/10 e a revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 25/10/2026 | Inclui o vídeo do teste piloto como registro gravado em conjunto com Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) e Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

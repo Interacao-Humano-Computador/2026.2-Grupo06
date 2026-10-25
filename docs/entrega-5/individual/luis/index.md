@@ -16,7 +16,7 @@
 
 Este recorte propõe uma funcionalidade ainda inexistente no Portal do Senado: permitir que uma pessoa encontre uma plenária e solicite participação, respeitando um limite de vagas. A proposta parte da persona [Marina Alves](../../../entrega-2/individual/luis/persona.md) e da observação de navegação em [reuniões de comissão](../../../entrega-2/individual/luis/cenario.md). Essa evidência ajuda a pensar em encontrabilidade e clareza, mas não comprova necessidades de inscrição em plenárias.
 
-Os documentos abaixo são preparatórios. Não há sessão de avaliação desta proposta nem resultados empíricos registrados. Regras como abertura e encerramento de inscrições, confirmação de vaga, lista de espera, cancelamento e dados exigidos ainda precisam ser definidas e validadas com o responsável pela funcionalidade.
+As entrevistas de análise de tarefas e storyboard foram realizadas e estão registradas nos relatos abaixo, com os vídeos e as transcrições fornecidas. Elas documentam a compreensão de uma participante sobre a proposta; não validam a notação técnica nem regras institucionais. Regras como abertura e encerramento de inscrições, confirmação de vaga, lista de espera, cancelamento e dados exigidos ainda precisam ser definidas e validadas com o responsável pela funcionalidade.
 
 **Revisão humana:** Caio Breno de Souza Bezerra foi designado revisor dos documentos deste recorte; a revisão está pendente.
 
@@ -26,8 +26,8 @@ Os documentos abaixo são preparatórios. Não há sessão de avaliação desta 
 | --- | --- |
 | [Modelagem HTA e CTT](modelagem-tarefas.md) | Fluxo preliminar com disponibilidade e confirmação; regras institucionais pendentes |
 | [Inspeção documental dos modelos](inspecao-modelos.md) | Inspeção analítica concluída; não equivale a avaliação com participante |
-| [Relato da avaliação do storyboard](relato-storyboard.md) | Aguarda storyboard e sessão com participante |
-| [Relato da avaliação da análise de tarefas](relato-analise-tarefas.md) | Aguarda avaliação com participante; inspeção documental em página separada |
+| [Relato da avaliação do storyboard](relato-storyboard.md) | Entrevista registrada; recomendações para disponibilidade e desfecho |
+| [Relato da avaliação da análise de tarefas](relato-analise-tarefas.md) | Entrevista registrada; achados sobre informações, revisão e confirmação |
 | [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Plano preliminar; storyboard e telas em elaboração, regras institucionais pendentes |
 | [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Plano preliminar para a Etapa 6 |
 
@@ -38,6 +38,7 @@ Os documentos abaixo são preparatórios. Não há sessão de avaliação desta 
 | 0.1 | 24/10/2026 | Cria o índice e registra o novo recorte e suas pendências | Luís Henrique Arruda Luna | Pendente |
 | 0.2 | 24/10/2026 | Acrescenta HTA/CTT preliminares e inspeção documental | Luís Henrique Arruda Luna | Pendente |
 | 0.3 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| 0.4 | 25/10/2026 | Registra entrevistas de HTA/CTT e storyboard, links de vídeo e transcrições em PDF | Luís Henrique Arruda Luna | Pendente |
 
 ## Referências
 
