@@ -9,14 +9,16 @@ A Tabela 1 registra quem atuou neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md), [Etapa 3](etapa-03.md) e [Etapa 4](etapa-04.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da Etapa 5 e vídeo individual | [Etapa 5](etapa-05.md) |
 | Codex (OpenAI) | Apoio à padronização da apresentação e à correção dos participantes | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Apoio à inclusão da Etapa 5 neste índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
 
-Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). A Tabela 2 organiza esses vídeos. As etapas 1 a 4 já têm gravação disponível. A apresentação em aula da Etapa 4 está prevista para 15/10/2026.
+Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). Nas etapas 1 a 4 há um vídeo coletivo, na categoria **não listado** do YouTube. Na Etapa 5, cada integrante publica a própria gravação, também não listada. A Tabela 2 organiza esses vídeos. A apresentação em aula da Etapa 5 está prevista para 27/10/2026.
 
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
@@ -24,7 +26,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 | 2 | 29/09/2026 | [YouTube](https://youtu.be/Sw4IeebXzRQ) | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | [YouTube](https://youtu.be/EXlnSLsEW94) | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | [Etapa 3](etapa-03.md) |
 | 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno Ferreira, Caio Breno, Heitor Pinheiro e Israel Soares | [Etapa 4](etapa-04.md) |
-| 5 | 27/10/2026 | — | — | — |
+| 5 | 27/10/2026 | [Caio](https://youtu.be/LI57pS_ZuLQ); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | — | — | — |
 | 7 | 17/11/2026 | — | — | — |
 | 8 | 24/11/2026 | — | — | — |
@@ -35,7 +37,7 @@ Cada etapa tem um vídeo na categoria **não listado** do YouTube. Quem produziu
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a padronização e a correção dos participantes conforme as informações fornecidas por Bruno Ferreira Dornelas. A responsabilidade pelo conteúdo permanece com o autor.
+O Codex (OpenAI) apoiou a padronização e a correção dos participantes conforme as informações fornecidas por Bruno Ferreira Dornelas. Grok (xAI) apoiou a inclusão da Etapa 5 neste índice, conforme as informações de Caio Breno de Souza Bezerra. A responsabilidade pelo conteúdo permanece com o autor.
 
 ## Histórico de versão
 
@@ -50,6 +52,7 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `0.7` | 13/10/2026 | Adição da página da Etapa 4 e participante(s) da apresentação | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.8` | 13/10/2026 | Inclusão da página e do vídeo da apresentação da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.9` | 15/10/2026 | Explicita os participantes das etapas 1 a 3 e corrige os participantes da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 25/10/2026 | Inclui a página da Etapa 5, com um vídeo por integrante, e o link da gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 
 ## Referências
 
