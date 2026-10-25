@@ -9,6 +9,7 @@ A Tabela 1 registra as contribuições neste artefato.
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Estrutura do relato, fichas de registro, critérios de prioridade e controle de ciclos | [Conteúdo](#estrutura-do-relato) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica por pares e conformidade documental | [Histórico de versão](#historico-de-versao) |
 | Antigravity (IA generativa) | Apoio à organização das tabelas e à redação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
@@ -104,13 +105,14 @@ As conclusões ficam limitadas ao que foi observado com 2 a 3 pessoas em papel. 
 
 ## Agradecimentos
 
-O Antigravity (IA generativa) apoiou a organização das tabelas e a redação. A responsabilidade pelo conteúdo é de Heitor Pinheiro Gonçalves das Chagas.
+O Antigravity (IA generativa) apoiou a organização das tabelas e a redação. A responsabilidade pelo conteúdo é de Heitor Pinheiro Gonçalves das Chagas. A revisão técnica por pares é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 24/10/2026 | Estrutura do relato, fichas de execução e de problemas, prioridades e controle de ciclos | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A solicitar |
+| `0.1` | 24/10/2026 | Estrutura do relato, fichas de execução e de problemas, prioridades e controle de ciclos | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 25/10/2026 | Consolidação da estrutura de relato com fichas de tarefas, matriz de recorrência e critérios de severidade | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

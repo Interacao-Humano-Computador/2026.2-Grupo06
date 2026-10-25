@@ -9,6 +9,7 @@ A Tabela 1 registra as contribuições neste planejamento individual.
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Planejamento DECIDE, definição das telas, tarefas, critérios de conclusão e agenda | [Conteúdo](#contextualizacao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica por pares e conformidade com os critérios da Etapa 5 | [Histórico de versão](#historico-de-versao) |
 | Antigravity (IA generativa) | Apoio à estruturação das tabelas e à redação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no planejamento da avaliação do protótipo de papel.</p>
@@ -196,25 +197,26 @@ Para cada tarefa serão registrados: conclusão (sem ajuda, com ajuda, não conc
 
 ## Rastreabilidade: relatos, hipóteses e telas
 
-| Origem | Hipótese / decisão | Tela | Tarefa / pergunta |
+| Origem / Evidência empírica | Hipótese / decisão de reprojeto | Tela / Elemento móvel | Tarefa / pergunta |
 | --- | --- | :---: | :---: |
-| Storyboard QD02; HTA 1.1–1.3 | RP01 — localizar a audiência ao vivo | PP-S01, PP-S02 | T1 / PP-Q1 |
-| Storyboard QD03–QD04; HTA 2.2–2.3 | RP02 — separar pergunta de comentário e escolher orador | PP-S03, PP-S04, PP-M01 | T2, T3 / PP-Q2–Q4 |
-| HTA 3.1–3.2 | Manter o texto durante o login e revisar antes do envio | PP-S05, PP-S06 | T2, T3 / PP-Q5 |
-| Storyboard QD05–QD06; HTA 4.1–4.2 | RP03–RP04 — retorno de recebimento e estado da pergunta | PP-S07, PP-M03 | T4 / PP-Q6 |
+| Storyboard QD02; HTA 1.1–1.3;<br>Relato: dificuldade no campo de busca (01:50) e preferência por link direto no WhatsApp (05:50) | **RP01:** Campo de busca limpo e de alta visibilidade, atalho de comissões (CRA) e transmissão ao vivo em destaque | PP-S01, PP-S02 | T1 / PP-Q1 |
+| Storyboard QD03–QD04; HTA 2.2–2.3;<br>Relato: nota 4 de dificuldade (06:21) e sugestão de menu suspenso para orador (07:04) | **RP02:** Seleção obrigatória entre "Comentário" e "Pergunta a Orador", com autoridade escolhida via menu suspenso (dropdown) | PP-S03, PP-S04, PP-M01 (menu suspenso) | T2, T3 / PP-Q2–Q4 |
+| HTA 3.1–3.2;<br>Conferência CT06 | Manter o rascunho do texto salvo durante a autenticação gov.br e permitir revisão/edição antes de confirmar | PP-S05, PP-S06 | T2, T3 / PP-Q5 |
+| Storyboard QD05–QD06; HTA 4.1–4.2;<br>Relato: importância crítica do comprovante de envio para segurança (03:28) | **RP03–RP04:** Exibição imediata de protocolo na tela, status "Em moderação" e botão "Copiar comprovante para o grupo" | PP-S07, PP-M03 (mudança de estado) | T4 / PP-Q6 |
 
-<p class="caption">Tabela 8 — Rastreabilidade entre artefatos anteriores, hipóteses, telas e tarefas.</p>
-<p class="source">Fonte: elaboração do autor (2026). Atualizar após a consolidação dos relatos da Etapa 5.</p>
+<p class="caption">Tabela 8 — Rastreabilidade entre artefatos anteriores, achados empíricos dos relatos, telas e tarefas.</p>
+<p class="source">Fonte: elaboração do autor (2026), articulando as evidências coletadas em 25/10/2026 ao protótipo de papel.</p>
 
 ## Agradecimentos
 
-O Antigravity (IA generativa) apoiou a organização das tabelas e a redação deste planejamento. As decisões sobre objetivos, telas, tarefas e agenda, e a responsabilidade pelo conteúdo, são de Heitor Pinheiro Gonçalves das Chagas.
+O Antigravity (IA generativa) apoiou a organização das tabelas e a redação deste planejamento. As decisões sobre objetivos, telas, tarefas e agenda, e a responsabilidade pelo conteúdo, são de Heitor Pinheiro Gonçalves das Chagas. A revisão técnica por pares é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 24/10/2026 | Planejamento DECIDE inicial do protótipo de papel: objetivos, perguntas, telas, tarefas, papéis, piloto, agenda e ética | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | A solicitar |
+| `0.1` | 24/10/2026 | Planejamento DECIDE inicial do protótipo de papel: objetivos, perguntas, telas, tarefas, papéis, piloto, agenda e ética | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 25/10/2026 | Integração dos achados empíricos dos relatos (nota 4 no ponto crítico, menu suspenso e comprovante) na matriz de rastreabilidade | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
