@@ -22,7 +22,7 @@ A Tabela 1 registra as atividades e responsabilidades na elaboração e conduç�
 
 Este artefato documenta formalmente a **autoverificação da Etapa 5** realizada pelo Grupo 06 sobre a documentação e artefatos produzidos para a entrega (FCTE/UnB, 2026.2). A entrega abrange:
 
-1. Os **relatos das avaliações do Storyboard e da Análise de Tarefas** planejadas na [Etapa 4](../../entrega-4/index.md);
+1. Os **relatos das avaliações do Storyboard e da Análise de Tarefas** planejadas na [Etapa 4](../../../entrega-4/index.md);
 2. Os **planejamentos da avaliação por prototipação em papel** e do **relato de seus resultados**, preparatórios para a Etapa 6;
 3. As gravações audiovisuais individuais de apresentação da etapa e as entrevistas empíricas realizadas.
 
@@ -67,7 +67,7 @@ A Tabela 2 registra as respostas aos **11 critérios gerais de desenvolvimento**
 | 6 | O cronograma executado registra quem fez cada atividade e suas datas reais? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:01:11) | Aprovado; o grupo conferiu a atualização das datas e responsáveis reais no cronograma executado da Etapa 1. |
 | 7 | Há atas das reuniões da etapa, com data, horários, pessoas e decisões? | **Não** | v1.0 — 25/10/2026, 20:02 (00:01:11) | **Reprovado na sessão:** Caio Breno explicou que os alinhamentos ocorreram presencialmente na faculdade e a ata formal não foi redigida e publicada no site a tempo. |
 | 8 | As gravações das reuniões e inspeções realizadas estão acessíveis e autorizadas? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:02:40) | Aprovado; links no YouTube operacionais e autorizações expressas registradas no início dos vídeos. |
-| 9 | O vídeo da apresentação da Etapa 5 está acessível na categoria prevista pelo grupo? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:02:40) | Aprovado; vídeos individuais reunidos em [Apresentação da Etapa 5](../../apresentacoes/etapa-05.md) na categoria *Não Listado*. |
+| 9 | O vídeo da apresentação da Etapa 5 está acessível na categoria prevista pelo grupo? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:02:40) | Aprovado; vídeos individuais reunidos em [Apresentação da Etapa 5](../../../apresentacoes/etapa-05.md) na categoria *Não Listado*. |
 | 10 | A contribuição aparece no início de cada artefato e corresponde a quem atuou nele? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:02:40) | Aprovado; Tabela 1 delimita nominalmente as atividades executadas por cada autor em seus respectivos recortes. |
 | 11 | O uso de IA está identificado na contribuição e nos agradecimentos? | **Sim** | v1.0 — 25/10/2026, 20:02 (00:02:40) | Aprovado; declaração expressa do uso das IAs (Gemini, ChatGPT/Codex, Claude) para estruturação textual e formatação. |
 

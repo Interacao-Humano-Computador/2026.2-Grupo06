@@ -133,7 +133,7 @@ Os vídeos abaixo documentam as entrevistas do recorte de agendamento em plenár
 
 - Link: [YouTube — gravação do teste piloto](https://youtu.be/XroAJouSclE)
 - Participação na gravação: Caio Breno de Souza Bezerra e Luís Henrique Arruda Luna.
-- Também registrado no [índice de Caio](../entrega-5/individual/caio/index.md#teste-piloto--gravacao-conjunta).
+- Também registrado no [índice de Caio](../entrega-5/individual/caio/index.md#teste-piloto-gravacao-conjunta).
 
 ??? note "Vídeo — Teste piloto, gravação conjunta com Caio"
 

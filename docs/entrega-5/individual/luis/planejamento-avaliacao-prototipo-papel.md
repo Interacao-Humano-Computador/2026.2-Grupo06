@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Definição do recorte e das condições práticas a confirmar | [Objetivos](#d--determinar-os-objetivos) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Definição do recorte e das condições práticas a confirmar | [Objetivos](#d-determinar-os-objetivos) |
 | Codex (OpenAI) | Apoio à estruturação do plano DECIDE e dos instrumentos | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste planejamento.</p>
