@@ -11,6 +11,7 @@ A Tabela 1 concentra a contribuição da Entrega 5. Cada linha é uma atividade,
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da avaliação e do relato do protótipo de papel (Oficina Legislativa na Escola — Rafael Almeida) | [Avaliação](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md) e [relato](../entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel (envio de ideia legislativa — Camila Nogueira) | [Recorte individual](../entrega-5/individual/caio/index.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Apresentação individual da Etapa 5 (Participação em Evento Interativo — Letícia Oliveira) | [Vídeo de Heitor](#heitor-pinheiro-goncalves-das-chagas) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel (agendamento de visita ao Senado — Marta Oliveira) | [Recorte individual](../entrega-5/individual/israel/index.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Modelagem HTA/CTT, inspeção documental e relatos das entrevistas sobre plenárias; gravação do piloto em conjunto com Caio | [Recorte individual](../entrega-5/individual/luis/index.md), [vídeos e transcrições](#gravacoes-do-recorte-de-luis) |
 | Grok (xAI) | Apoio à estruturação da página de apresentação | [Agradecimentos](#agradecimentos) |
@@ -73,8 +74,23 @@ Cada pessoa incorpora a própria gravação de apresentação na seção corresp
 ### Heitor Pinheiro Gonçalves das Chagas
 
 - Categoria no YouTube: **não listado**
-- Link: a publicar
-- Data da gravação: a publicar
+- Link: [https://youtu.be/vwWp70YW_jc](https://youtu.be/vwWp70YW_jc)
+- Data da gravação: 25/10/2026
+- Participante: Heitor Pinheiro Gonçalves das Chagas
+
+??? note "Vídeo — Apresentação da Etapa 5, Heitor Pinheiro Gonçalves das Chagas"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/vwWp70YW_jc"
+        title="Apresentação da Etapa 5 — Heitor Pinheiro Gonçalves das Chagas"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ### Israel Soares de Paiva
 
@@ -145,6 +161,7 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 | `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 | `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 | `0.3` | 25/10/2026 | Acrescenta a contribuição, entrevistas, transcrições e piloto conjunto do recorte de Luís | Luís Henrique Arruda Luna | Pendente |
+| `0.4` | 25/10/2026 | Inclui a gravação individual de apresentação de Heitor Pinheiro Gonçalves das Chagas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | — |
 
 ## Referências
 
