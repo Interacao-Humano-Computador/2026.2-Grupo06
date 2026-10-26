@@ -100,8 +100,24 @@ Cada pessoa incorpora a própria gravação de apresentação na seção corresp
 
 ### Luís Henrique Luna de Arruda
 
-- Vídeo individual da apresentação da Etapa 5: **pendente de link**.
-- As gravações de entrevista e do teste piloto estão na seção [Gravações do recorte de Luís](#gravacoes-do-recorte-de-luis); elas não são a apresentação individual.
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/NomecpK1sko](https://youtu.be/NomecpK1sko)
+- Data da gravação: 25/10/2026
+- Participante: Luís Henrique Luna de Arruda
+
+??? note "Vídeo — Apresentação da Etapa 5, Luís Henrique Luna de Arruda"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/NomecpK1sko"
+        title="Apresentação da Etapa 5 — Luís Henrique Luna de Arruda"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Gravações do recorte de Luís { #gravacoes-do-recorte-de-luis }
 
@@ -160,8 +176,8 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 | `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
-| `0.3` | 25/10/2026 | Acrescenta a contribuição, entrevistas, transcrições e piloto conjunto do recorte de Luís | Luís Henrique Arruda Luna | Pendente |
 | `0.4` | 25/10/2026 | Inclui a gravação individual de apresentação de Heitor Pinheiro Gonçalves das Chagas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | — |
+| `0.5` | 25/10/2026 | Inclui a gravação individual da apresentação de Luís Henrique | Luís Henrique Luna de Arruda | Pendente |
 
 ## Referências
 

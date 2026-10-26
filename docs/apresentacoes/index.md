@@ -26,7 +26,7 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 2 | 29/09/2026 | [YouTube](https://youtu.be/Sw4IeebXzRQ) | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | [Etapa 2](etapa-02.md) |
 | 3 | 08/10/2026 | [YouTube](https://youtu.be/EXlnSLsEW94) | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | [Etapa 3](etapa-03.md) |
 | 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno Ferreira, Caio Breno, Heitor Pinheiro e Israel Soares | [Etapa 4](etapa-04.md) |
-| 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE) e [Caio](https://youtu.be/LI57pS_ZuLQ); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
+| 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | — | — | — |
 | 7 | 17/11/2026 | — | — | — |
 | 8 | 24/11/2026 | — | — | — |
@@ -54,6 +54,7 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `0.9` | 15/10/2026 | Explicita os participantes das etapas 1 a 3 e corrige os participantes da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 25/10/2026 | Inclui a página da Etapa 5, com um vídeo por integrante, e o link da gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
 | `1.1` | 25/10/2026 | Inclui o link da gravação individual de Bruno na Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
+| `1.2` | 25/10/2026 | Inclui o vídeo individual de Luís na apresentação da Etapa 5 | Luís Henrique Luna de Arruda | — |
 
 ## Referências
 
