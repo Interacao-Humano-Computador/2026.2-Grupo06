@@ -10,8 +10,9 @@ A Tabela 1 registra quem atuou neste artefato.
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Criação da seção de verificação | [Estrutura](index.md#estrutura) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inclusão da lista da Etapa 5 | [Estrutura](#estrutura) |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão da autoverificação da Etapa 5 | [Estrutura](#estrutura) |
-| Codex (OpenAI) | Apoio à atualização do índice | [Agradecimentos](#agradecimentos) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão da autoverificação da Etapa 5 e da inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participação na inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
+| Codex (OpenAI) e Antigravity | Apoio à atualização do índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -29,11 +30,11 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
 
-A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md).
+A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização do índice com a lista da Etapa 5.
+Codex (OpenAI) e Antigravity apoiaram a atualização do índice com a lista e as inspeções da Etapa 5.
 
 ## Histórico de versão
 
@@ -44,6 +45,7 @@ Codex (OpenAI) apoiou a atualização do índice com a lista da Etapa 5.
 | `1.2` | 26/09/2026 | Adiciona Verificação do Grupo 05 à estrutura da seção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 22/10/2026 | Inclui os critérios elaborados para a Etapa 5 no menu de listas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 25/10/2026 | Inclui o link para a autoverificação da Etapa 5 do Grupo 06 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 28/10/2026 | Inclui o link para a inspeção da Etapa 5 do Grupo 07 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) e [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
