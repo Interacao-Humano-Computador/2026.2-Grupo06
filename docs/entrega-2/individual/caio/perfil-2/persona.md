@@ -4,7 +4,7 @@
 
 ## Tabela de contribuição
 
-A Tabela 1 registra a elaboração desta proposta, ainda sujeita à revisão humana.
+A Tabela 1 registra a elaboração desta proposta.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |

@@ -174,10 +174,10 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
-| `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
-| `0.4` | 25/10/2026 | Inclui a gravação individual de apresentação de Heitor Pinheiro Gonçalves das Chagas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | — |
-| `0.5` | 25/10/2026 | Inclui a gravação individual da apresentação de Luís Henrique | Luís Henrique Luna de Arruda | Pendente |
+| `0.1` | 25/10/2026 | Criação da página da Etapa 5, com um espaço de vídeo por integrante e a gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 25/10/2026 | Inclui a gravação individual de apresentação de Heitor Pinheiro Gonçalves das Chagas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.5` | 25/10/2026 | Inclui a gravação individual da apresentação de Luís Henrique | Luís Henrique Luna de Arruda | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -45,10 +45,10 @@ O storyboard abaixo apresenta a busca por uma plenária, a consulta de informaç
 
 ## Histórico de versão
 
-| Versão | Data | Alteração | Autor(es) | Revisão |
+| Versão | Data | Alteração | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Reserva de espaço individual | Caio Breno de Souza Bezerra, com apoio de Codex/OpenAI | Pendente |
-| 0.2 | 25/10/2026 | Preenche o índice com materiais existentes e liga os registros das entrevistas da Etapa 5 | Luís Henrique Arruda Luna | Pendente |
+| 0.1 | 13/10/2026 | Reserva de espaço individual | Caio Breno de Souza Bezerra, com apoio de Codex/OpenAI | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 0.2 | 25/10/2026 | Preenche o índice com materiais existentes e liga os registros das entrevistas da Etapa 5 | Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referência
 

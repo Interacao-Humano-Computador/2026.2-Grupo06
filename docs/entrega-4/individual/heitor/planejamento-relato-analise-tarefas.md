@@ -89,7 +89,7 @@ Em atenção às recomendações de integridade acadêmica da Sociedade Brasilei
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato da HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento do relato conforme os 7 componentes de Barbosa e Silva (2010), severidades de Nielsen e validades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a tarefa de Participação em Evento Interativo (e-Cidadania) e integração das propostas de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a tarefa de Participação em Evento Interativo (e-Cidadania) e integração das propostas de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

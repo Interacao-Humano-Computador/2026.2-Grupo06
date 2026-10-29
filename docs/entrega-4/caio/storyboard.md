@@ -80,7 +80,7 @@ Consultar o [planejamento da avaliação](planejamento-avaliacao-storyboard.md),
 
 ## Agradecimentos
 
-Os quadros desta versão são do desenho manual fornecido por Caio. Grok (xAI) produziu os SVG da versão anterior, substituídos nesta revisão. Codex (OpenAI) apoiou a transcrição acessível, o esclarecimento do escopo e a organização do texto. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Os quadros desta versão são do desenho manual fornecido por Caio. Grok (xAI) produziu os SVG da versão anterior, substituídos nesta revisão. Codex (OpenAI) apoiou a transcrição acessível, o esclarecimento do escopo e a organização do texto.
 
 ## Histórico de versão
 

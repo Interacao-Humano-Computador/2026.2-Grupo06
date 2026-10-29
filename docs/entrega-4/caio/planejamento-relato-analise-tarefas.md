@@ -148,7 +148,7 @@ Caio organizou os registros e redigiu o relato. Bruno Ferreira Dornelas revisou.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a atualização de 22/10/2026.
 
 Grok (xAI) apoiou a redação e a organização dos instrumentos. Caio Breno de Souza Bezerra permanece responsável pelo conteúdo.
 

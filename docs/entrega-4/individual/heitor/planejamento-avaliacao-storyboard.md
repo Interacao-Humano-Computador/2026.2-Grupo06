@@ -381,7 +381,7 @@ Em atenção às recomendações de integridade acadêmica da Sociedade Brasilei
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial do planejamento DECIDE da avaliação do storyboard (Letícia Oliveira — PL 1215/2025) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento DECIDE com cronograma fechado, teste piloto, roteiro de perguntas (P01, P06–P09), TCLE e 5 cenas SVG do Storyboard | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Refatoração da narrativa para Participação em Evento Interativo da CRA, explicitação da interface proposta no Quadro 4 e remarcação presencial para 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| 2.0 | 24/10/2026 | Refatoração da narrativa para Participação em Evento Interativo da CRA, explicitação da interface proposta no Quadro 4 e remarcação presencial para 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

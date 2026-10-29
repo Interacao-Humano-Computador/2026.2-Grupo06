@@ -110,8 +110,8 @@ Registrar tarefa, estado inicial, sequência de ações, conclusão, hesitaçõe
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 24/10/2026 | Plano preliminar para funcionalidade proposta, com perguntas, tarefas e decisões em aberto | Luís Henrique Arruda Luna | Pendente |
-| 0.2 | 24/10/2026 | Especifica telas, cartões e transições do protótipo de papel | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| 0.1 | 24/10/2026 | Plano preliminar para funcionalidade proposta, com perguntas, tarefas e decisões em aberto | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.2 | 24/10/2026 | Especifica telas, cartões e transições do protótipo de papel | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

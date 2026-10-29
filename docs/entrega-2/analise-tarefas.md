@@ -107,7 +107,7 @@ Esta página contou com o auxílio do ChatGPT (OpenAI GPT-4o) na estruturação 
 | `1.3` | 13/10/2026 | Integra a HTA e a CTT documentais da autoria de uma ideia, sem aumentar a amostra | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 13/10/2026 | Atualiza a tarefa de Camila com o acompanhamento por e-mail e pela página da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 22/10/2026 | Atualiza a tarefa de Israel Soares para a funcionalidade oficial de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.6` | 24/10/2026 | Registra nota sobre evolução de escopo da tarefa de Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `1.6` | 24/10/2026 | Registra nota sobre evolução de escopo da tarefa de Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

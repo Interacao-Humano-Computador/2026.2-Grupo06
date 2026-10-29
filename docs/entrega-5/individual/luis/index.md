@@ -18,7 +18,7 @@ Este recorte propõe uma funcionalidade ainda inexistente no Portal do Senado: p
 
 As entrevistas de análise de tarefas e storyboard foram realizadas e estão registradas nos relatos abaixo, com os vídeos e as transcrições fornecidas. Elas documentam a compreensão de uma participante sobre a proposta; não validam a notação técnica nem regras institucionais. Regras como abertura e encerramento de inscrições, confirmação de vaga, lista de espera, cancelamento e dados exigidos ainda precisam ser definidas e validadas com o responsável pela funcionalidade.
 
-**Revisão humana:** Caio Breno de Souza Bezerra foi designado revisor dos documentos deste recorte; a revisão está pendente.
+**Revisão:** Caio Breno de Souza Bezerra é o revisor dos documentos deste recorte.
 
 ## Artefatos da Etapa 5
 
@@ -36,10 +36,10 @@ As entrevistas de análise de tarefas e storyboard foram realizadas e estão reg
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 24/10/2026 | Cria o índice e registra o novo recorte e suas pendências | Luís Henrique Arruda Luna | Pendente |
-| 0.2 | 24/10/2026 | Acrescenta HTA/CTT preliminares e inspeção documental | Luís Henrique Arruda Luna | Pendente |
-| 0.3 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
-| 0.4 | 25/10/2026 | Registra entrevistas de HTA/CTT e storyboard, links de vídeo e transcrições em PDF | Luís Henrique Arruda Luna | Pendente |
+| 0.1 | 24/10/2026 | Cria o índice e registra o novo recorte e suas pendências | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.2 | 24/10/2026 | Acrescenta HTA/CTT preliminares e inspeção documental | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.3 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.4 | 25/10/2026 | Registra entrevistas de HTA/CTT e storyboard, links de vídeo e transcrições em PDF | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

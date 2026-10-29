@@ -30,7 +30,7 @@ O Codex (OpenAI) apoiou a atualização do encaminhamento. A responsabilidade pe
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.2` | 19/10/2026 | Encaminha para a seção própria e informa o estado dos artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
+| `0.2` | 19/10/2026 | Encaminha para a seção própria e informa o estado dos artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -85,7 +85,7 @@ Este storyboard é objeto do [Planejamento da Avaliação do Storyboard](planeja
 
 ## Agradecimentos
 
-O roteiro narrativo, os recortes de IHC e a rastreabilidade com o modelo analítico foram desenvolvidos por Heitor Pinheiro Gonçalves das Chagas. A geração da ilustração conceitual em folha pautada contou com o suporte da ferramenta de IA Generativa Antigravity, calibrada para reproduzir o aspecto manual autêntico de sketch de estudante. A revisão humana por pares deste artefato é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O roteiro narrativo, os recortes de IHC e a rastreabilidade com o modelo analítico foram desenvolvidos por Heitor Pinheiro Gonçalves das Chagas. A geração da ilustração conceitual em folha pautada contou com o suporte da ferramenta de IA Generativa Antigravity, calibrada para reproduzir o aspecto manual autêntico de sketch de estudante.
 
 ## Histórico de versão
 

@@ -32,7 +32,7 @@ O recorte melhora uma funcionalidade existente: acesso pelo portal do Senado, re
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026; a revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a atualização de 22/10/2026.
 
 Grok (xAI) apoiou a organização desta página de índice. Caio Breno de Souza Bezerra permanece responsável pelo recorte.
 

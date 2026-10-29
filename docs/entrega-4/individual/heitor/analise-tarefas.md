@@ -224,7 +224,7 @@ Este artefato orienta diretamente o [Planejamento da Avaliação da Análise de 
 
 ## Agradecimentos
 
-A modelagem HTA, a definição dos operadores lógicos e as recomendações ergonômicas de reprojeto foram concebidas por Heitor Pinheiro Gonçalves das Chagas. O suporte computacional de Claude (Anthropic) e Google Gemini foi empregado na estilização visual dos elementos vetoriais SVG e na padronização Markdown. A revisão humana por pares deste artefato é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+A modelagem HTA, a definição dos operadores lógicos e as recomendações ergonômicas de reprojeto foram concebidas por Heitor Pinheiro Gonçalves das Chagas. O suporte computacional de Claude (Anthropic) e Google Gemini foi empregado na estilização visual dos elementos vetoriais SVG e na padronização Markdown.
 
 ## Histórico de versão
 

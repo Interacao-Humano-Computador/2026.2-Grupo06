@@ -130,7 +130,7 @@ O Whisper small, executado localmente com faster-whisper, gerou a transcrição 
 | --- | --- | --- | --- | --- |
 | 0.1 | 25/10/2026 | Estrutura para preenchimento após a entrevista, sem resultados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.2 | 25/10/2026 | Consolida evidências da entrevista, respostas ao DECIDE e propostas de revisão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.3 | 25/10/2026 | Remove rótulos de classificação das respostas ao DECIDE e ajusta a redação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
+| 0.3 | 25/10/2026 | Remove rótulos de classificação das respostas ao DECIDE e ajusta a redação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

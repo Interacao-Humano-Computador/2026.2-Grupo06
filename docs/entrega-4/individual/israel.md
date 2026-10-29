@@ -80,7 +80,7 @@ Os planejamentos desenvolvidos nesta Etapa 4 estabelecem as diretrizes operacion
 
 | Versão | Data | Alteração | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 13/10/2026 | Reserva inicial de espaço | Caio Breno de Souza Bezerra | — |
+| `0.1` | 13/10/2026 | Reserva inicial de espaço | Caio Breno de Souza Bezerra | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 25/10/2026 | Estruturação completa do hub individual de Israel Soares: funcionalidade, links para Storyboard, HTA e planejamentos, cronograma e instrumentos de coleta | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências

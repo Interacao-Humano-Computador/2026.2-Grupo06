@@ -73,7 +73,7 @@ Consultar a [lista de verificação da Etapa 5](../../../verificacao/listas/etap
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

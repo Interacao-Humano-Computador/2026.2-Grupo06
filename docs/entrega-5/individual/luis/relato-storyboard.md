@@ -70,5 +70,5 @@ Este relato se baseia em uma única conversa moderada sobre uma proposta visual.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 24/10/2026 | Estrutura preparatória da avaliação | Luís Henrique Arruda Luna | Pendente |
-| 0.2 | 25/10/2026 | Registra as respostas da entrevista, incorpora o vídeo e disponibiliza a transcrição recebida | Luís Henrique Arruda Luna | Pendente |
+| 0.1 | 24/10/2026 | Estrutura preparatória da avaliação | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.2 | 25/10/2026 | Registra as respostas da entrevista, incorpora o vídeo e disponibiliza a transcrição recebida | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

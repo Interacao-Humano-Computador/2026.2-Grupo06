@@ -172,7 +172,7 @@ O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Et
 | `1.3` | 03/10/2026 | Atualiza as datas para a Etapa 3 e os cartões do que já está publicado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 03/10/2026 | Aponta o cartão da Etapa 3 para a página aberta da análise de requisitos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | — |
+| `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Bibliografia
 

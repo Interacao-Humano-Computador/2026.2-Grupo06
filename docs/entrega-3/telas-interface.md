@@ -681,7 +681,7 @@ O Claude Sonnet 5.5 (Anthropic) apoiou o levantamento das evidências da Etapa 2
 | `0.1` | 11/10/2026 | Abertura da página com o esqueleto das telas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 11/10/2026 | Preenchimento das seis telas com base nas evidências da Etapa 2 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.0` | 11/10/2026 | Integração das capturas reais do portal, refinamento dos mapas de elementos, confronto de interface e tabela de correspondência | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 24/10/2026 | Adiciona nota de rastreabilidade sobre a evolução do escopo da persona Letícia Oliveira na Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `1.1` | 24/10/2026 | Adiciona nota de rastreabilidade sobre a evolução do escopo da persona Letícia Oliveira na Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ---
 

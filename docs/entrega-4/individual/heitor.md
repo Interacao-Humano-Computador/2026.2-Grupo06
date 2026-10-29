@@ -36,7 +36,7 @@ A Tabela 1 lista os artefatos individuais da Etapa 4 deste recorte de trabalho.
 
 | Versão | Data | Alteração | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Reserva inicial de espaço | Caio Breno de Souza Bezerra | Pendente |
+| 0.1 | 13/10/2026 | Reserva inicial de espaço | Caio Breno de Souza Bezerra | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.0 | 24/10/2026 | Estruturação do hub de artefatos individuais de Heitor Pinheiro com links para Storyboard, HTA, planejamentos e conferência | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências

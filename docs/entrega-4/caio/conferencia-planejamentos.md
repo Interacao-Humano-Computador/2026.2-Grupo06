@@ -80,7 +80,7 @@ O storyboard de Caio está publicado. A sessão foi presencial, com Caio e PROP0
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a atualização de 22/10/2026.
 
 Grok (xAI) apoiou a comparação com a lista da Apresentação 4.
 

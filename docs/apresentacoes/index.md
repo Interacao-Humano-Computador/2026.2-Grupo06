@@ -52,9 +52,9 @@ O Codex (OpenAI) apoiou a padronização e a correção dos participantes confor
 | `0.7` | 13/10/2026 | Adição da página da Etapa 4 e participante(s) da apresentação | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.8` | 13/10/2026 | Inclusão da página e do vídeo da apresentação da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.9` | 15/10/2026 | Explicita os participantes das etapas 1 a 3 e corrige os participantes da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.0` | 25/10/2026 | Inclui a página da Etapa 5, com um vídeo por integrante, e o link da gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
-| `1.1` | 25/10/2026 | Inclui o link da gravação individual de Bruno na Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
-| `1.2` | 25/10/2026 | Inclui o vídeo individual de Luís na apresentação da Etapa 5 | Luís Henrique Luna de Arruda | — |
+| `1.0` | 25/10/2026 | Inclui a página da Etapa 5, com um vídeo por integrante, e o link da gravação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 25/10/2026 | Inclui o link da gravação individual de Bruno na Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 25/10/2026 | Inclui o vídeo individual de Luís na apresentação da Etapa 5 | Luís Henrique Luna de Arruda | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

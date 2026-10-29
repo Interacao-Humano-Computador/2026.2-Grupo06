@@ -81,7 +81,7 @@ O Google Gemini e o Claude (Anthropic) apoiaram a organização da matriz compar
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Elaboração inicial da conferência documental dos planejamentos da Etapa 4 de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão da matriz de conformidade com os 12 critérios da Apresentação 4 e blindagem ao Plano de Ensino | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Atualização da conferência para o escopo de Participação em Evento Interativo da CRA e conformidade do cronograma presencial de 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| 2.0 | 24/10/2026 | Atualização da conferência para o escopo de Participação em Evento Interativo da CRA e conformidade do cronograma presencial de 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

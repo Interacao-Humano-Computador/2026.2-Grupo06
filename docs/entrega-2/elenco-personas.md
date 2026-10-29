@@ -94,7 +94,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.7` | 13/10/2026 | Inclui Camila Nogueira como persona documental focal do recorte de autoria, sem alterar as prioridades já decididas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 13/10/2026 | Atualiza a tarefa de Camila para o envio e o acompanhamento da ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.9` | 22/10/2026 | Adapta a descrição da persona Marta Oliveira para a funcionalidade de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.10` | 24/10/2026 | Registra nota sobre evolução de escopo da persona Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `1.10` | 24/10/2026 | Registra nota sobre evolução de escopo da persona Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

@@ -101,7 +101,7 @@ A Tabela 5 relaciona as observações extraídas do relato às decisões de repr
 ## Gravação e conferência final
 
 * **Vídeo da sessão:** o link para a gravação audiovisual (categoria não listada) será incorporado neste espaço após a conclusão do ciclo de edição e validação com o participante [Link do Vídeo](https://youtu.be/Al81d2Nyuy0?si=OZTjsxP6m4oes2Q8);
-* **Conferência humana:** os tempos exatos e as citações literais serão ratificados no fechamento da documentação da etapa.
+* **Conferência:** os tempos exatos e as citações literais serão ratificados no fechamento da documentação da etapa.
 
 ## Agradecimentos
 

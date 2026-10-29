@@ -134,7 +134,7 @@ A Figura 1 apresenta a orientação sobre consolidação e relato usada na estru
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão. A revisão humana desta versão é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão.
 
 ## Histórico de versão
 
@@ -145,7 +145,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, a duração, a modalidade e os localizadores de Q1–Q7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 13h28–14h00 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.6` | 25/10/2026 | Substitui o arquivo local pelo vídeo não listado no YouTube | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | — |
+| `0.6` | 25/10/2026 | Substitui o arquivo local pelo vídeo não listado no YouTube | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

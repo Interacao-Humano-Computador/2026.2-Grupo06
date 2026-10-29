@@ -45,8 +45,8 @@ A estrutura cobre o caminho principal e as duas indisponibilidades relevantes pa
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 24/10/2026 | Inspeciona cobertura e lacunas da modelagem preliminar | Luís Henrique Arruda Luna, com apoio de Codex | Pendente |
-| 0.2 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| 0.1 | 24/10/2026 | Inspeciona cobertura e lacunas da modelagem preliminar | Luís Henrique Arruda Luna, com apoio de Codex | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.2 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

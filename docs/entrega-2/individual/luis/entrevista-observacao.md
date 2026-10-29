@@ -23,7 +23,7 @@ Esta página documenta a sessão presencial conduzida por Luís Henrique em 27/0
 
 !!! info "Transcrição incorporada"
 
-    Esta versão foi conferida com a transcrição automática do arquivo de 20min28s. Os tempos são aproximados e alguns trechos continuam marcados como incertos, pois não houve conferência humana por escuta. O nome real presente no arquivo foi removido desta página.
+    Esta versão foi conferida com a transcrição automática do arquivo de 20min28s. Os tempos são aproximados e alguns trechos continuam marcados como incertos, pois não houve conferência por escuta. O nome real presente no arquivo foi removido desta página.
 
 ## Participante
 
@@ -173,7 +173,7 @@ Segundo Luís Henrique, a participante aprovou sem correções a persona Marina 
 - participante recrutada entre familiares do entrevistador;
 - sessão realizada em ambiente residencial, e não necessariamente no contexto habitual de estudo;
 - uma única participante;
-- transcrição automática sem conferência humana por escuta, com trechos e número do projeto ainda incertos;
+- transcrição automática sem conferência por escuta, com trechos e número do projeto ainda incertos;
 - diferença entre a duração total informada da sessão (26 minutos) e o arquivo transcrito (20min28s);
 - a validação da persona, do cenário, da HTA e da CTT foi relatada pelo entrevistador, mas não está no arquivo transcrito;
 - idade informada posteriormente pelo entrevistador, não registrada no áudio;

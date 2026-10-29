@@ -161,6 +161,7 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-com
 
 **Trecho do livro:** a preencher
 
+## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |

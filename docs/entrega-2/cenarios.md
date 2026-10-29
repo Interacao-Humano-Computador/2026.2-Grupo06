@@ -100,7 +100,7 @@ Esta página contou com o apoio do Claude (Anthropic) na estruturação, na reda
 | `1.6` | 13/10/2026 | Integra o cenário documental de Camila Nogueira, sem tratá-lo como sessão observada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 13/10/2026 | Atualiza o cenário de Camila com o formulário e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 22/10/2026 | Atualiza o cenário de Israel Soares para a tarefa de Agendamento de Visita ao Senado | [Israel Soares](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.9` | 24/10/2026 | Registra nota sobre evolução de escopo da tarefa de Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| `1.9` | 24/10/2026 | Registra nota sobre evolução de escopo da tarefa de Letícia Oliveira para a Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

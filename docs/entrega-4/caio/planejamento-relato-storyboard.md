@@ -207,11 +207,11 @@ A Tabela 9 será preenchida após a sessão. Campos em branco não indicam ativi
 - Manter separados registros do piloto, resposta espontânea e resposta após intervenção.
 - Não apresentar resultado de leitura como desempenho no portal.
 - Retirar dados pessoais, conforme o [plano ético](planejamento-avaliacao-storyboard.md#d-decidir-como-lidar-com-questoes-eticas).
-- Conferir referências, numeração, legendas, autoria, histórico e revisão humana antes da publicação.
+- Conferir referências, numeração, legendas, autoria, histórico e revisão antes da publicação.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a atualização de 22/10/2026.
 
 Grok (xAI) apoiou a redação e a organização dos instrumentos de relato. Caio Breno de Souza Bezerra permanece responsável pela revisão e pelo conteúdo do artefato.
 

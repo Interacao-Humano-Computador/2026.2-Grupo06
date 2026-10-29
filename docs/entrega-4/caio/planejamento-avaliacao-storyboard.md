@@ -242,7 +242,7 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312): o
 
 O Codex (OpenAI) apoiou a atualização das referências ao recorte de Bruno em 24/10/2026.
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026. A revisão humana desta atualização é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a atualização de 22/10/2026.
 
 Grok (xAI) apoiou a redação e a organização deste planejamento, no molde histórico dos documentos da Oficina Legislativa. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
 

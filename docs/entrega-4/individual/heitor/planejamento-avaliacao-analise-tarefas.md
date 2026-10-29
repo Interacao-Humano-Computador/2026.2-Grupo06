@@ -377,7 +377,7 @@ Em consonância com as recomendações de integridade acadêmica da Sociedade Br
 | :---: | :---: | --- | --- | --- |
 | 0.1 | 13/10/2026 | Estruturação inicial do planejamento DECIDE da avaliação da HTA (Letícia Oliveira — PL 1215/2025) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.0 | 13/10/2026 | Conclusão do planejamento DECIDE com cronograma fechado, teste piloto, roteiro de perguntas (P01–P05), TCLE, diagrama SVG e tabela HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Refatoração do escopo da tarefa para Participação em Evento Interativo (e-Cidadania), modelagem de reprojeto (2.2, 2.3, 4.1) e remarcação das gravações para 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| 2.0 | 24/10/2026 | Refatoração do escopo da tarefa para Participação em Evento Interativo (e-Cidadania), modelagem de reprojeto (2.2, 2.3, 4.1) e remarcação das gravações para 24/10/2026 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -59,8 +59,8 @@ Heitor Pinheiro organizou o índice e desenvolveu o storyboard e a HTA de Letíc
 | 1.3 | 22/10/2026 | Atualiza o recorte de Caio para o storyboard manual e a melhoria da experiência existente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.4 | 23/10/2026 | Atualiza recorte e vínculos de Bruno para complementos com Letícia | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.5 | 24/10/2026 | Indica que as sessões gravadas de Caio estão nos relatos da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.6 | 25/10/2026 | Preenche o índice individual de Luís, incorpora seu storyboard manual e referencia os relatos da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Pendente |
-| 1.6 | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo (e-Cidadania) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (pendente) |
+| 1.6 | 25/10/2026 | Preenche o índice individual de Luís, incorpora seu storyboard manual e referencia os relatos da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.6 | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo (e-Cidadania) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.7 | 24/10/2026 | Integração das páginas dedicadas de Storyboard (versão manual) e Análise de Tarefas (HTA) de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
