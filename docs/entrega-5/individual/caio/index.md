@@ -71,6 +71,8 @@ A [gravação do teste piloto no YouTube](https://youtu.be/XroAJouSclE) foi real
 
 Consultar a [lista de verificação da Etapa 5](../../../verificacao/listas/etapa-5.md). A avaliação do protótipo de papel será executada para a Etapa 6; a Etapa 5 entrega seu planejamento.
 
+**Continuidade:** [Etapa 6 de Caio](../../../entrega-6/individual/caio/index.md), com telas de papel, relato e planos da alta fidelidade.
+
 ## Agradecimentos
 
 O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização deste artefato. Caio Breno de Souza Bezerra responde pelo conteúdo.
@@ -84,6 +86,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.3` | 24/10/2026 | Registra as duas gravações presenciais e as durações | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Fixa os horários de 13h28–14h06, o piloto de 22/10 e a revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 25/10/2026 | Inclui o vídeo do teste piloto como registro gravado em conjunto com Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) e Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

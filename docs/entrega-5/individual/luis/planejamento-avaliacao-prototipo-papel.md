@@ -125,4 +125,4 @@ O Codex (OpenAI) apoiou a organização e a redação inicial do plano. Luís He
 
 ## Revisão
 
-Revisor designado: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). Revisão pendente.
+Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). Revisão pendente.

@@ -18,6 +18,8 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Este documento planeja a avaliação formativa de uma proposta de interface para **enviar e acompanhar uma ideia legislativa**, com entrada pelo portal do Senado. É um reprojeto da experiência existente, orientado por RP01–RP04 do [storyboard](../../../entrega-4/caio/storyboard.md). A Etapa 5 entrega o planejamento; a execução e o relato do papel pertencem à **Etapa 6, em 03/11/2026**.
 
+A execução e os materiais da avaliação estão no [relato da Etapa 6](../../../entrega-6/individual/caio/relato-prototipo-papel.md).
+
 ## Contextualização
 
 A proposta parte do [perfil Proponente](../../../entrega-2/individual/caio/perfil-2/perfil-usuario.md), da persona Camila e da HTA/CTT documental. Os [relatos do storyboard](relato-storyboard.md) e da [análise de tarefas](relato-analise-tarefas.md) reúnem as respostas de PROP01, os localizadores das gravações e as recomendações para o reprojeto. RP01–RP04 e AT-P01–AT-P04 seguem como hipóteses a experimentar no papel. A sessão discutiu a narrativa e os modelos; não executou as telas.
@@ -81,7 +83,7 @@ A Tabela 3 define a equipe mínima. Para o papel, uma pessoa participante e Caio
 
 ### Materiais e estados
 
-A Tabela 4 é a especificação para desenhar as folhas. Não é um protótipo já produzido. Usar papel, canetas, cartões móveis, suporte de câmera, computador, conexão, áudio, roteiro e ficha. Recursos próprios; orçamento adicional previsto de R$ 0, a rever se houver compra ou impressão. Seguir rótulos, contraste e feedback do guia de estilo, com legibilidade priorizada no esboço.
+A Tabela 4 é a especificação para desenhar as folhas. Não é um protótipo já produzido. Usar papel, canetas, cartões móveis, suporte de câmera, computador, conexão, áudio e instrumentos de registro. Recursos próprios; orçamento adicional previsto de R$ 0, a rever se houver compra ou impressão. Seguir rótulos, contraste e feedback do guia de estilo, com legibilidade priorizada no esboço.
 
 | ID | Folha / cartão a preparar | Relação |
 | --- | --- | --- |
@@ -191,6 +193,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | `0.1` | 22/10/2026 | Planejamento DECIDE, tarefas, papéis, agenda e critérios para a avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Liga o plano às gravações já conferidas nos relatos do storyboard e da análise de tarefas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 03/11/2026 | Atualização das referências entre o planejamento e os artefatos da avaliação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -19,7 +19,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Este relato dá continuidade ao [planejamento da avaliação](../../../entrega-4/caio/planejamento-avaliacao-storyboard.md) e ao [planejamento do relato](../../../entrega-4/caio/planejamento-relato-storyboard.md). O material é o storyboard manual **1.1, de 22/10/2026**, com QD01–QD06.
 
-**Situação em 24/10/2026:** a conversa com PROP01 está gravada e os localizadores apontam para o arquivo. O roteiro tinha sido escrito antes; a gravação confirma as respostas e acrescenta a leitura no celular, a modalidade presencial e a concordância final com a síntese.
+**Situação em 24/10/2026:** a conversa com PROP01 está gravada e os localizadores apontam para o arquivo. O relato reúne as respostas registradas, a leitura dos quadros no celular e a síntese discutida no encerramento.
 
 ## Objetivos e escopo
 
@@ -27,7 +27,7 @@ Investigar a compreensão de objetivo, sequência e responsabilidades; discutir 
 
 ## Método, pessoas e registro
 
-A Tabela 2 reúne o que a gravação permite afirmar. A investigação com apoio visual discute interpretações e expectativas (BARBOSA; SILVA, 2010, p. 145–149, 301). As perguntas e as respostas previstas foram preparadas para a atividade didática. Na sessão, Caio leu o roteiro e PROP01 respondeu nesses termos. A conferência com o vídeo manteve esse conteúdo, com os ajustes indicados na tabela e no fechamento.
+A Tabela 2 reúne o que a gravação permite afirmar. A investigação com apoio visual discute interpretações e expectativas (BARBOSA; SILVA, 2010, p. 145–149, 301). A atividade didática é organizada pelas perguntas Q1–Q7. O relato relaciona as respostas registradas de PROP01 aos quadros e à síntese apresentada no encerramento.
 
 | Campo | Registro |
 | --- | --- |
@@ -140,12 +140,13 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 22/10/2026 | Relato preparatório com perguntas, respostas previstas, análise e plano de reprojeto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.1` | 22/10/2026 | Elaboração do relato e análise do storyboard | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, a duração, a modalidade e os localizadores de Q1–Q7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 13h28–14h00 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 25/10/2026 | Substitui o arquivo local pelo vídeo não listado no YouTube | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.7` | 03/11/2026 | Revisão textual e organização do relato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A Etapa 2 já foi publicada. A Etapa 3 está publicada em [Análise de requisitos](../entrega-3/index.md). A [Etapa 4 — Planejamento da avaliação](../entrega-4/index.md) possui seção própria, com os planejamentos do storyboard, da análise de tarefas e de seus relatos. A [Etapa 5](../entrega-5/index.md) também possui seção própria, com os planejamentos individuais do protótipo de papel de Bruno e indicação dos relatos pendentes. Da Etapa 6 em diante, as páginas ainda são âncoras: dizem o que o plano pede e apontam o prazo. Quando uma etapa abrir, seu conteúdo ganha pasta própria.
+As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa 6](../entrega-6/index.md) tem seção própria com o relato do papel e os planos da alta fidelidade. Esta página reúne os marcos seguintes previstos no plano de ensino.
 
 | Etapa | Entrega | O que entra |
 | :---: | :---: | --- |
@@ -10,7 +10,7 @@ A Etapa 2 já foi publicada. A Etapa 3 está publicada em [Análise de requisito
 | [3, publicada](../entrega-3/index.md) | 06/10/2026 | [Plataforma](../entrega-3/plataforma.md), [princípios](../entrega-3/principios-gerais.md), [tópicos](../entrega-3/topicos-principios.md), [metas](../entrega-3/metas-usabilidade.md) e [guia de estilo](../entrega-3/guia-de-estilo.md) publicados |
 | [4, aberta](../entrega-4/index.md) | 13/10/2026 | Planejamentos DECIDE do storyboard e da análise de tarefas e dos respectivos relatos |
 | [5, aberta](../entrega-5/index.md) | 25/10/2026 | Relatos das avaliações anteriores + planejamentos individuais da avaliação e do relato do protótipo de papel |
-| [6](etapa-06.md) | 03/11/2026 | Relato do papel + planejamento da alta fidelidade |
+| [6](../entrega-6/index.md) | 03/11/2026 | Relato do papel + planejamento da alta fidelidade |
 | [7](etapa-07.md) | 15/11/2026 | Relato da alta fidelidade |
 | [8](etapa-08.md) | 22/11/2026 | Verificação dos artefatos |
 | [Final](entrega-final.md) | 30/11/2026 | Sínteses, tabelas e vídeo de 20 a 30 minutos |
@@ -22,19 +22,22 @@ Quando uma etapa abrir, crie os arquivos dentro de uma pasta nova e troque o lin
 
 ## Tabela de contribuição
 
-A Tabela 2 registra a atualização de abertura da Etapa 5; as alterações anteriores permanecem no histórico.
+A Tabela 2 registra a manutenção dos acessos às etapas; as alterações anteriores permanecem no histórico.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Abertura da Etapa 5 na organização das entregas | [Introdução](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Integração dos acessos à Etapa 6 | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à atualização do texto e dos links | [Agradecimentos](#agradecimentos) |
 
-<p class="caption">Tabela 2 — Contribuições na atualização de 19/10/2026.</p>
+<p class="caption">Tabela 2 — Contribuições na manutenção dos acessos.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
 O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5. A responsabilidade por esta atualização é de Bruno Ferreira Dornelas.
+
+Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 
@@ -46,6 +49,7 @@ O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5. A responsabilida
 | `1.3` | 13/10/2026 | Aponta a Etapa 4 para seu índice próprio e atualiza o estado da etapa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 19/10/2026 | Aponta a Etapa 5 para a seção própria com trabalhos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
