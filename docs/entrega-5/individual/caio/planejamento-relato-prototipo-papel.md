@@ -18,6 +18,8 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Este documento organiza o futuro relato da avaliação em papel de **enviar e acompanhar uma ideia legislativa**. Usa as perguntas PP-Q1–PP-Q5 e as tarefas PP-T1–PP-T4 do [planejamento da avaliação](planejamento-avaliacao-prototipo-papel.md). A Etapa 5 entrega o plano; resultados efetivos serão produzidos para a Etapa 6.
 
+A execução e os materiais da avaliação estão no [relato da Etapa 6](../../../entrega-6/individual/caio/relato-prototipo-papel.md).
+
 ## Fundamentação
 
 **Autor do item:** Caio Breno de Souza Bezerra.
@@ -139,6 +141,7 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 22/10/2026 | Estrutura e instrumentos do relato do papel, com correções, recorrência e limites | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Atualização das referências entre o planejamento e os artefatos da avaliação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

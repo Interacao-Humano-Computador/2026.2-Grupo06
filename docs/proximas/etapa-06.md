@@ -1,5 +1,7 @@
 # Etapa 6 — Relato do papel e planejamento da alta fidelidade
 
+[Abrir os artefatos da Etapa 6](../entrega-6/index.md){ .md-button .md-button--primary }
+
 ## Introdução
 
 

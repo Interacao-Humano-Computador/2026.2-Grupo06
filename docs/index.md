@@ -15,7 +15,7 @@ hide:
 <p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal do Senado Federal.</p>
 
 <p class="actions">
-<a class="btn btn-gold" href="entrega-1/cronograma/">Ver o planejamento</a>
+<a class="btn btn-gold" href="entrega-6/">Abrir a Etapa 6</a>
 <a class="btn btn-ghost" href="equipe/">Ver a equipe</a>
 </p>
 
@@ -30,11 +30,11 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Etapa 5">
-  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 5</p>
-  <div><b>25/10</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>26/10</b><span>Inspeção pelo Grupo +1</span></div>
-  <div><b>27/10</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da Etapa 6">
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 6</p>
+  <div><b>03/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
+  <div><b>04/11</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>05/11</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -62,11 +62,17 @@ hide:
     <strong>Planejamento da avaliação</strong>
     <span>Planejamentos individuais do storyboard, da análise de tarefas e de seus relatos.</span>
   </a>
-  <a class="tile tile-featured" href="entrega-5/">
+  <a class="tile" href="entrega-5/">
     <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 5</span>
     <strong>Relatos e protótipo de papel</strong>
     <span>Trabalhos individuais, planejamentos do papel e acompanhamento dos relatos.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-6/">
+    <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 6</span>
+    <strong>Papel e alta fidelidade</strong>
+    <span>Relato do papel, planos de avaliação e acesso aos protótipos.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
@@ -96,13 +102,13 @@ hide:
   <a class="tile" href="proximas/">
     <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
     <strong>Próximas etapas</strong>
-    <span>Etapas 6 a 8 e entrega final.</span>
+    <span>Etapas 7 e 8 e entrega final.</span>
   </a>
 </nav>
 
 ## Introdução
 
-Esta página abre o site do Grupo 06. As Etapas 1, 2 e 3 estão publicadas, incluindo os artefatos de planejamento, perfil de usuário e análise de requisitos. A [Etapa 4](entrega-4/index.md) reúne os planejamentos de avaliação e os links aos materiais individuais relacionados. A [Etapa 5](entrega-5/index.md) reúne relatos de entrevistas, vídeos e transcrições, além dos planejamentos do protótipo de papel. O objeto do projeto é o Portal do Senado Federal. As verificações, os registros e as próximas etapas estão disponíveis no menu.
+O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 6](entrega-6/index.md) reúne o relato da avaliação do papel e os planejamentos da alta fidelidade. Acesse também os [artefatos anteriores](entrega-5/index.md), as [listas de verificação](verificacao/index.md) e os [vídeos das apresentações](apresentacoes/index.md).
 
 ## Tabela de contribuição
 
@@ -160,7 +166,9 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Etapa 5. A responsabilidade por esta atualização é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Etapa 5, sob responsabilidade de Bruno Ferreira Dornelas.
+
+Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 
@@ -173,6 +181,7 @@ O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Et
 | `1.4` | 03/10/2026 | Aponta o cartão da Etapa 3 para a página aberta da análise de requisitos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 03/11/2026 | Atualização da página inicial e dos acessos à Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Bibliografia
 

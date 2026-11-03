@@ -27,7 +27,7 @@ Examinar cobertura, ordem, revisão, condições de conclusão e responsabilidad
 
 ## Método, pessoas e material
 
-A Tabela 2 delimita o material e o que a gravação mostra. As perguntas e as respostas previstas foram preparadas para a atividade didática. Na sessão, Caio leu o roteiro e PROP01 respondeu nesses termos, depois de um relato livre. A discussão em linguagem comum e a conferência da notação continuam separadas: aos 5:30 Caio diz que a conferência técnica fica no documento.
+A Tabela 2 delimita o material e o que a gravação mostra. A atividade didática utiliza um relato dos passos da tarefa e as perguntas AT-Q1–AT-Q7. O relato reúne as respostas registradas de PROP01. A discussão em linguagem comum e a conferência da notação continuam separadas: aos 5:30 Caio diz que a conferência técnica fica no documento.
 
 | Campo | Registro |
 | --- | --- |
@@ -158,12 +158,13 @@ O Codex (OpenAI) apoiou a consulta bibliográfica, a redação e a organização
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 22/10/2026 | Relato preparatório, respostas previstas, conferência documental e proposta de revisão das tarefas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.1` | 22/10/2026 | Elaboração do relato e revisão da análise de tarefas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 24/10/2026 | Incorpora a gravação presencial, o relato livre, o acréscimo sobre acompanhamento e os localizadores | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 24/10/2026 | Registra a sessão de 14h00–14h06 e o piloto de 22/10. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 24/10/2026 | Coloca a gravação em bloco recolhível, no padrão das outras páginas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.6` | 25/10/2026 | Substitui o arquivo local pelo vídeo não listado no YouTube | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.7` | 03/11/2026 | Revisão textual e organização do relato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

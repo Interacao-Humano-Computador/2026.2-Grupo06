@@ -32,9 +32,13 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
+As listas das [Etapas 5](listas/etapa-5.md) e [6](listas/etapa-6.md) apresentam perguntas com autor, referência e imagem da fonte. Preencha as respostas nas tabelas de inspeção: [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e [Grupo 07](grupo-07/etapa-6/lista-verificacao.md).
+
 ## Agradecimentos
 
 Codex (OpenAI) e Antigravity apoiaram a atualização do índice com a lista e as inspeções da Etapa 5.
+
+Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 
@@ -46,6 +50,7 @@ Codex (OpenAI) e Antigravity apoiaram a atualização do índice com a lista e a
 | `1.3` | 22/10/2026 | Inclui os critérios elaborados para a Etapa 5 no menu de listas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 25/10/2026 | Inclui o link para a autoverificação da Etapa 5 do Grupo 06 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 28/10/2026 | Inclui o link para a inspeção da Etapa 5 do Grupo 07 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) e [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

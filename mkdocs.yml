@@ -247,10 +247,19 @@ nav:
               - Análise de tarefas · Relato: entrega-5/individual/luis/relato-analise-tarefas.md
               - Protótipo de papel · Planejamento da avaliação: entrega-5/individual/luis/planejamento-avaliacao-prototipo-papel.md
               - Protótipo de papel · Planejamento do relato: entrega-5/individual/luis/planejamento-relato-prototipo-papel.md
+  - Etapa 6 · Papel e alta fidelidade:
+      - entrega-6/index.md
+      - Trabalhos individuais:
+          - Caio Breno:
+              - entrega-6/individual/caio/index.md
+              - Papel · Relato: entrega-6/individual/caio/relato-prototipo-papel.md
+              - Alta fidelidade · Planejamento da avaliação: entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md
+              - Alta fidelidade · Planejamento do relato: entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
           - Etapa 5: verificacao/listas/etapa-5.md
+          - Etapa 6: verificacao/listas/etapa-6.md
       - Inspeções:
           - Autoverificação (Grupo 06):
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
@@ -258,6 +267,7 @@ nav:
               - Etapa 3: verificacao/grupo-06/etapa-3/lista-verificacao.md
               - Etapa 4: verificacao/grupo-06/etapa-4/lista-verificacao.md
               - Etapa 5: verificacao/grupo-06/etapa-5/lista-verificacao.md
+              - Etapa 6: verificacao/grupo-06/etapa-6/lista-verificacao.md
           - Inspeção do Grupo 05:
               - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
               - Etapa 4: verificacao/grupo-05/etapa-4/lista-verificacao.md
@@ -265,6 +275,7 @@ nav:
               - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
               - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
               - Etapa 5: verificacao/grupo-07/etapa-5/lista-verificacao.md
+              - Etapa 6: verificacao/grupo-07/etapa-6/lista-verificacao.md
   - Registros:
       - Atas:
           - atas/index.md
@@ -278,6 +289,7 @@ nav:
           - Etapa 3: apresentacoes/etapa-03.md
           - Etapa 4: apresentacoes/etapa-04.md
           - Etapa 5: apresentacoes/etapa-05.md
+          - Etapa 6: apresentacoes/etapa-06.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md
@@ -289,7 +301,6 @@ nav:
       - proximas/index.md
       - Etapa 2: proximas/etapa-02.md
       - Etapa 3: proximas/etapa-03.md
-      - Etapa 6: proximas/etapa-06.md
       - Etapa 7: proximas/etapa-07.md
       - Etapa 8: proximas/etapa-08.md
       - Entrega final: proximas/entrega-final.md
