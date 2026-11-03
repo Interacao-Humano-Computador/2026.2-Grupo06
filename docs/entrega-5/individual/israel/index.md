@@ -34,7 +34,6 @@ A Tabela 2 relaciona os cinco artefatos individuais desta etapa e seus respectiv
 
 | Artefato | Conteúdo consolidado | Próximo passo / Execução |
 | --- | --- | --- |
-| [Relato consolidado dos resultados](relato-resultados-etapa5.md) | **Síntese integrada da etapa:** rastreabilidade completa, sessões executadas, convergência dos achados e encaminhamentos para a Etapa 6 | Visão panorâmica dos resultados para subsidiar a prototipação |
 | [Relato do Storyboard](relato-storyboard.md) | Perguntas Q1–Q8 com localizadores de vídeo, síntese das respostas, análise das 7 cenas e diretrizes RP01–RP05 | Concluído com [vídeo gravado](https://youtu.be/Al81d2Nyuy0) (06 min 35 s) |
 | [Relato da Análise de Tarefas](relato-analise-tarefas.md) | Perguntas AT (Antes, HTA-01–05 e Depois) com localizadores, conferência técnica CT01–CT06 e requisitos AT-P01–AT-P05 | Concluído com [vídeo gravado](https://www.youtube.com/watch?v=zd0pS4sMXu4) (07 min 50 s) |
 | [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Framework DECIDE, papéis, inventário de 7 telas em papel (PP-S01 a PP-S07), cartões móveis, 5 tarefas com cenários, piloto e ética | Desenho físico das folhas e execução dos testes na Etapa 6 |
@@ -52,7 +51,7 @@ A Tabela 3 apresenta a matriz de encadeamento metodológico que interliga as ent
 | **Etapa 2** | [Entrevista e observação](../../../entrega-2/individual/israel/entrevista-observacao.md) → [Persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md) → [Cenário](../../../entrega-2/individual/israel/cenario.md) → [HTA e CTT](../../../entrega-2/individual/israel/analise-tarefas.md) | Levantamento de requisitos, caracterização do usuário real e modelagem da tarefa em 7 objetivos |
 | **Etapa 3** | [Princípios gerais](../../../entrega-3/principios-gerais.md) → [Metas de usabilidade](../../../entrega-3/metas-usabilidade.md) → [Guia de estilo](../../../entrega-3/guia-de-estilo.md) | Definição das diretrizes heurísticas de usabilidade (visibilidade de estado e prevenção de erros) |
 | **Etapa 4** | [Storyboard](../../../entrega-4/individual/israel/storyboard.md) → [Planos de avaliação e relatos](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) → [Conferência documental](../../../entrega-4/individual/israel/conferencia-planejamentos.md) | Concepção da narrativa visual de 7 cenas e elaboração dos protocolos DECIDE para Storyboard e HTA |
-| **Etapa 5** | [Relato Storyboard](relato-storyboard.md) + [Relato HTA](relato-analise-tarefas.md) → [Relato Consolidado](relato-resultados-etapa5.md) → [Planos do papel](planejamento-avaliacao-prototipo-papel.md) | Validação empírica em vídeo, conferência técnica CT01–CT06 e especificação do protótipo de papel |
+| **Etapa 5** | [Relato Storyboard](relato-storyboard.md) + [Relato HTA](relato-analise-tarefas.md) → [Planos do papel](planejamento-avaliacao-prototipo-papel.md) | Validação empírica em vídeo, conferência técnica CT01–CT06 e especificação do protótipo de papel |
 | **Etapa 6** | *Execução do protótipo de papel e relato final* | Desenho físico das pranchas, teste-piloto, sessões oficiais e reporte dos problemas sanados |
 
 <p class="caption">Tabela 3 — Cadeia de rastreabilidade de Agendamento de Visita.</p>
@@ -98,4 +97,4 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, estru
 
 [1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010.
 
-[2] GRUPO 06. [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md); [Relato do Storyboard](relato-storyboard.md); [Relato da Análise de Tarefas](relato-analise-tarefas.md). Brasília: FCTE/UnB, 2026.
+[2] GRUPO 06. [Relato do Storyboard](relato-storyboard.md); [Relato da Análise de Tarefas](relato-analise-tarefas.md). Brasília: FCTE/UnB, 2026.

@@ -71,7 +71,6 @@ A condução das avaliações do Storyboard e da Análise de Tarefas apoia-se em
 Os planejamentos desenvolvidos nesta Etapa 4 estabelecem as diretrizes operacionais e analíticas para as fases subsequentes do projeto:
 
 * **[Índice individual de Israel na Etapa 5](../../entrega-5/individual/israel/index.md):** visão integrada dos artefatos e agenda da Etapa 5;
-* **[Relato consolidado dos resultados da Etapa 5](../../entrega-5/individual/israel/relato-resultados-etapa5.md):** síntese integrada das avaliações e encaminhamentos para a Etapa 6;
 * **[Relato da avaliação do Storyboard](../../entrega-5/individual/israel/relato-storyboard.md):** resultados empíricos, falas transcritas e vídeo gravado de 06m35s;
 * **[Relato da avaliação da Análise de Tarefas](../../entrega-5/individual/israel/relato-analise-tarefas.md):** validação dos modelos conceituais HTA/CTT e vídeo gravado de 07m50s;
 * **[Planejamento da avaliação do protótipo de papel](../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md):** inventário de 7 telas físicas (PP-S01 a PP-S07) e 5 tarefas práticas (PP-T1 a PP-T5);

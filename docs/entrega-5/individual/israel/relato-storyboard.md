@@ -121,7 +121,6 @@ Para garantir a coerência metodológica recomendada por Barbosa e Silva (2010),
 | **Etapa 5** | [Relato da Análise de Tarefas](relato-analise-tarefas.md) | Avaliação complementar do modelo conceitual (HTA/CTT) realizada com a mesma participante |
 | **Etapa 5** | [Planejamento do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Destino direto das hipóteses RP01–RP05 na forma de folhas (PP-S01 a PP-S07) e tarefas (PP-T1 a PP-T5) |
 | **Etapa 5** | [Planejamento do relato do papel](planejamento-relato-prototipo-papel.md) | Modelo de reporte e fichas de observação para os testes da Etapa 6 |
-| **Etapa 5** | [Relato consolidado da Etapa 5](relato-resultados-etapa5.md) | Síntese integrada de todos os achados empíricos de Israel Soares na Etapa 5 |
 
 <p class="caption">Tabela 6 — Cadeia de rastreabilidade do Storyboard entre as etapas do projeto.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

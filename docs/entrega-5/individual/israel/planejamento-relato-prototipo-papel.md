@@ -69,7 +69,6 @@ Esta cadeia metodológica assegura a continuidade direta dos seguintes artefatos
 * [Princípios Gerais do Projeto](../../../entrega-3/principios-gerais.md) (Etapa 3);
 * [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamento da Avaliação do Storyboard](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) (Etapa 4);
 * [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
-* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md) e [Planejamento da Avaliação do Papel](planejamento-avaliacao-prototipo-papel.md) (Etapa 5).
 
 ## Preparação e controle dos registros
 
@@ -153,4 +152,4 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na e
 
 [3] SNYDER, Carolyn. *Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces*. San Francisco: Morgan Kaufmann, 2003.
 
-[4] GRUPO 06. [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md); [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md). Brasília: FCTE/UnB, 2026.
+[4] GRUPO 06. [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md); Brasília: FCTE/UnB, 2026.

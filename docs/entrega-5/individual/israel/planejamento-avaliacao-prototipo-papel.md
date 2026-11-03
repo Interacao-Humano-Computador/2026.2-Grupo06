@@ -204,7 +204,7 @@ A cadeia metodológica articula-se com os seguintes artefatos de referência:
 * [Princípios Gerais de IHC](../../../entrega-3/principios-gerais.md) e [Metas de Usabilidade](../../../entrega-3/metas-usabilidade.md) (Etapa 3);
 * [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamentos da Etapa 4](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md);
 * [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
-* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md) e [Planejamento do Relato do Papel](planejamento-relato-prototipo-papel.md) (Etapa 5/6).
+* [Planejamento do Relato do Papel](planejamento-relato-prototipo-papel.md) (Etapa 5/6).
 
 ## Agradecimentos
 
@@ -225,4 +225,4 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, estru
 
 [3] SNYDER, Carolyn. *Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces*. San Francisco: Morgan Kaufmann, 2003.
 
-[4] GRUPO 06. [Relato do Storyboard](relato-storyboard.md); [Relato da Análise de Tarefas](relato-analise-tarefas.md); [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md). Brasília: FCTE/UnB, 2026.
+[4] GRUPO 06. [Relato do Storyboard](relato-storyboard.md); [Relato da Análise de Tarefas](relato-analise-tarefas.md);  Brasília: FCTE/UnB, 2026.

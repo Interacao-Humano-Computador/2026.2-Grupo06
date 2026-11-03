@@ -203,7 +203,6 @@ A modelagem de tarefas desempenha papel integrador crucial na engenharia de usab
 | **Etapa 5** | [Relato do Storyboard](relato-storyboard.md) | Avaliação empírica da narrativa visual realizada com a mesma participante (`SB-PART01`) |
 | **Etapa 5** | [Planejamento do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Mapeamento direto dos requisitos AT-P01–AT-P05 nas tarefas PP-T1–PP-T5 e telas PP-S01–PP-S07 |
 | **Etapa 5** | [Planejamento do relato do papel](planejamento-relato-prototipo-papel.md) | Fichas de teste para verificação do modelo cognitivo durante o manuseio das folhas |
-| **Etapa 5** | [Relato consolidado da Etapa 5](relato-resultados-etapa5.md) | Consolidação dos resultados da HTA e do Storyboard para a Etapa 6 |
 
 <p class="caption">Tabela 6 — Rastreabilidade entre a Análise de Tarefas e os artefatos do projeto.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
