@@ -8,7 +8,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Estruturação do modelo de relato, fichas de evidência e consolidação | [Conteúdo](#estrutura-do-relato) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Estruturação do modelo de relato, fichas de evidência, consolidação e matriz de rastreabilidade | [Conteúdo](#estrutura-do-relato) |
 | Google Gemini | Apoio na estruturação das tabelas e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão de conformidade com a Etapa 5 e rastreabilidade | [Introdução](#introducao) |
 
@@ -37,7 +37,7 @@ A Tabela 2 especifica as seções que comporão o relato final da Etapa 6 e suas
 | --- | --- | --- |
 | 1. Objetivos e escopo | Retomada dos objetivos PP-O1–PP-O5 e das perguntas investigativas PP-Q1–PP-Q6 | [Planejamento da avaliação](planejamento-avaliacao-prototipo-papel.md) |
 | 2. Método e procedimento | Detalhamento da simulação em papel, modalidade (remota/presencial), data, duração e eventuais desvios | Registro de sessão e gravação em vídeo |
-| 3. Participantes e avaliadores | Caracterização de PAP-VIS01 e equipe de avaliação (operador, observador e revisor) | Questionário de perfil e TCLE assinado |
+| 3. Participantes e avaliadores | Caracterização de PAP-VIS01 e equipe de avaliação (operador, observador e revisor) | Questionário de perfil e [TCLE assinado](../../../assets/docs/tcle/tcle-israel-assinado.pdf) |
 | 4. Tarefas executadas | Análise do desempenho nas tarefas PP-T1 a PP-T5, percursos e tempo | Fichas de execução por tarefa |
 | 5. Síntese e interpretação | Respostas fundamentadas às perguntas PP-Q1–PP-Q6 com confronto de evidências | Ações observadas e comentários literais |
 | 6. Problemas identificados e corrigidos | Relação dos problemas ajustados entre as iterações do protótipo em papel | Fichas de problemas e histórico de telas |
@@ -46,6 +46,30 @@ A Tabela 2 especifica as seções que comporão o relato final da Etapa 6 e suas
 
 <p class="caption">Tabela 2 — Estrutura prevista do relato dos resultados.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+## Rastreabilidade metodológica do relato
+
+A Tabela 3 estabelece o cruzamento formal entre as perguntas investigativas, as tarefas a serem executadas no protótipo de papel, as hipóteses conceituais originadas nas etapas 2, 3 e 4, as evidências empíricas dos relatos da Etapa 5 e o local de reporte no relato da Etapa 6.
+
+| Pergunta (Etapa 5/6) | Tarefa no Papel | Hipótese / Requisito Origem | Evidência nos Relatos da Etapa 5 | Tela Associada | Seção no Relato Futuro |
+| :---: | :---: | :---: | --- | :---: | :---: |
+| **PP-Q1** (Encontrabilidade) | PP-T1 | **RP01** | Sugestão de card visível na home ([Relato Storyboard](relato-storyboard.md), Q2/Q8) | PP-S01 | Seção 4 e 5 |
+| **PP-Q2** (Regras prévias) | PP-T1 | **RP03 / AT-P01** | Exigência de regras de trajes antes da data ([Relato HTA](relato-analise-tarefas.md), HTA-03) | PP-S02 | Seção 4 e 5 |
+| **PP-Q3** (Vagas no calendário) | PP-T2 | **RP02 / AT-P02** | Destaque por cores para evitar cliques frustrados ([Relato HTA](relato-analise-tarefas.md), DEP-03) | PP-S03, PP-S04 | Seção 4 e 5 |
+| **PP-Q4** (Dados e acessibilidade) | PP-T3 | **AT-P03** | Inclusão obrigatória de acompanhante com mobilidade ([Relato Storyboard](relato-storyboard.md), Q4) | PP-S05 | Seção 4 e 5 |
+| **PP-Q5** (Revisão modular) | PP-T4 | **RP04 / AT-P04** | Recuperação de erro sem perda de estado ([Relato Storyboard](relato-storyboard.md), Q2/Q8) | PP-S06 | Seção 4, 5 e 6 |
+| **PP-Q6** (Comprovante seguro) | PP-T5 | **RP05 / AT-P05** | Emissão de código localizador e PDF por e-mail ([Relato HTA](relato-analise-tarefas.md), ANT-01) | PP-S07 | Seção 4, 5 e 7 |
+
+<p class="caption">Tabela 3 — Matriz de rastreabilidade entre hipóteses, evidências empíricas e o relato da Etapa 6.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+Esta cadeia metodológica assegura a continuidade direta dos seguintes artefatos:
+* [Persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md) e [Cenário de Agendamento](../../../entrega-2/individual/israel/cenario.md) (Etapa 2);
+* [Análise de Tarefas HTA e CTT v2.0](../../../entrega-2/individual/israel/analise-tarefas.md) (Etapa 2);
+* [Princípios Gerais do Projeto](../../../entrega-3/principios-gerais.md) (Etapa 3);
+* [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamento da Avaliação do Storyboard](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) (Etapa 4);
+* [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
+* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md) e [Planejamento da Avaliação do Papel](planejamento-avaliacao-prototipo-papel.md) (Etapa 5).
 
 ## Preparação e controle dos registros
 
@@ -57,7 +81,7 @@ Para garantir a confiabilidade científica e o rigor ético dos dados:
 
 ## Ficha de execução por tarefa
 
-A Tabela 3 estabelece o modelo de ficha individual que o observador preencherá para cada uma das cinco tarefas (PP-T1 a PP-T5) durante a avaliação.
+A Tabela 4 estabelece o modelo de ficha individual que o observador preencherá para cada uma das cinco tarefas (PP-T1 a PP-T5) durante a avaliação.
 
 | Campo de registro | Descrição e padrão de preenchimento |
 | --- | --- |
@@ -72,19 +96,19 @@ A Tabela 3 estabelece o modelo de ficha individual que o observador preencherá 
 | Comentários espontâneos | Falas literais do usuário em voz alta (*think-aloud*) registradas entre aspas |
 | Localizador no vídeo | Minutagem exata (ex.: `[12:35–14:20]`) na gravação de apoio |
 
-<p class="caption">Tabela 3 — Ficha de execução e evidência por tarefa.</p>
+<p class="caption">Tabela 4 — Ficha de execução e evidência por tarefa.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Ficha de problemas identificados e controle de ciclos
 
-A Tabela 4 padroniza o registro dos problemas de usabilidade encontrados durante a avaliação, garantindo rastreabilidade com a literatura e o encaminhamento para o reprojeto.
+A Tabela 5 padroniza o registro dos problemas de usabilidade encontrados durante a avaliação, garantindo rastreabilidade com a literatura e o encaminhamento para o reprojeto.
 
 | ID | Tela / Cartão | Descrição do problema e evidência observada | Fator de usabilidade afetado | Prioridade de correção | Proposta de reprojeto | Status de resolução |
 | :---: | --- | --- | --- | :---: | --- | :---: |
 | PR01 | PP-S04 | *[Exemplo: Usuário não percebeu que o dia em vermelho significava esgotado]* | Facilidade de aprendizado | Média | Incluir legenda textual explícita abaixo do calendário | A preencher na Etapa 6 |
 | PR02 | | | | | | |
 
-<p class="caption">Tabela 4 — Ficha de registro de problemas de usabilidade.</p>
+<p class="caption">Tabela 5 — Ficha de registro de problemas de usabilidade.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ### Critérios de prioridade operacional
@@ -96,7 +120,7 @@ Os problemas serão classificados de acordo com o impacto prático sobre a exper
 
 ## Consolidação e respostas às perguntas investigativas
 
-A Tabela 5 servirá como síntese final do relato, confrontando as hipóteses de design com as evidências reais observadas.
+A Tabela 6 servirá como síntese final do relato, confrontando as hipóteses de design com as evidências reais observadas.
 
 | Pergunta de avaliação | Tarefa associada | Síntese das evidências observadas | Conclusão / Encaminhamento |
 | --- | :---: | --- | --- |
@@ -107,7 +131,7 @@ A Tabela 5 servirá como síntese final do relato, confrontando as hipóteses de
 | **PP-Q5:** Eficiência da tela de revisão e edição | PP-T4 | *A preencher após a sessão na Etapa 6* | *A preencher na Etapa 6* |
 | **PP-Q6:** Segurança do comprovante e orientações finais | PP-T5 | *A preencher após a sessão na Etapa 6* | *A preencher na Etapa 6* |
 
-<p class="caption">Tabela 5 — Matriz de consolidação das perguntas de avaliação.</p>
+<p class="caption">Tabela 6 — Matriz de consolidação das perguntas de avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Agradecimentos
@@ -119,6 +143,7 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na e
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 23/10/2026 | Criação do planejamento do relato dos resultados do protótipo de papel | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 02/11/2026 | Inclusão da matriz de rastreabilidade metodológica entre perguntas, evidências empíricas e o relato da Etapa 6 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
@@ -128,3 +153,4 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na e
 
 [3] SNYDER, Carolyn. *Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces*. San Francisco: Morgan Kaufmann, 2003.
 
+[4] GRUPO 06. [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md); [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md). Brasília: FCTE/UnB, 2026.

@@ -11,6 +11,7 @@ A Tabela 1 registra as contribuições neste índice da Etapa 5.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização da etapa por trabalhos individuais e definição de seu recorte | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Integração dos relatos e planos do recorte Proponente | [Artefatos individuais](#artefatos-individuais-da-etapa) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do recorte de agendamento em plenárias e de seus documentos preparatórios | [Artefatos individuais](#artefatos-individuais-da-etapa) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Integração do relato consolidado de resultados, relatos e planos de agendamento de visita | [Artefatos individuais](#artefatos-individuais-da-etapa) |
 | Codex (OpenAI) | Apoio à redação do índice e à organização da navegação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no índice da Etapa 5.</p>
@@ -22,7 +23,7 @@ A Etapa 5 reúne os **relatos das avaliações do storyboard e da análise de ta
 
 Conforme o [cronograma do projeto](../entrega-1/cronograma.md), a entrega está prevista para **25/10/2026**, a inspeção para **26/10** e a apresentação para **27/10**. A execução da avaliação do papel e seu relato integram a Etapa 6, com entrega em **03/11/2026**.
 
-Estão disponíveis os dois planejamentos de Bruno e seus dois relatos, os quatro artefatos de Caio, os artefatos de Israel, os quatro artefatos com sessão gravada de Heitor e os documentos preparatórios do recorte de Luís. Os dois relatos de Bruno reúnem evidências das gravações de 24/10/2026, respostas ao DECIDE e propostas de revisão. Os relatos de Caio e de Heitor incluem as gravações do storyboard e da análise de tarefas, com localizadores de vídeo e transcrições. Os planejamentos do papel orientam as atividades da Etapa 6.
+Estão disponíveis os dois planejamentos de Bruno e seus dois relatos, os quatro artefatos de Caio, os artefatos com relatos consolidados de Israel, os quatro artefatos com sessão gravada de Heitor e os documentos preparatórios do recorte de Luís. Os dois relatos de Bruno reúnem evidências das gravações de 24/10/2026, respostas ao DECIDE e propostas de revisão. Os relatos de Caio, de Israel e de Heitor incluem as gravações do storyboard e da análise de tarefas, com localizadores de vídeo, transcrições e matrizes de rastreabilidade. Os planejamentos do papel orientam as atividades da Etapa 6.
 
 ## Artefatos individuais da etapa
 
@@ -33,7 +34,7 @@ A Tabela 2 relaciona os recortes e o estado dos artefatos nesta seção. Apenas 
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Complementos de ideias legislativas — participante / Letícia Oliveira | [Storyboard](individual/bruno/relato-storyboard.md) e [análise de tarefas](individual/bruno/relato-analise-tarefas.md): evidências e resultados organizados. | • [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-prototipo-papel.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Participação em Evento Interativo](individual/heitor/index.md) — Letícia Oliveira | [Storyboard](individual/heitor/relato-storyboard.md) e [análise de tarefas](individual/heitor/relato-analise-tarefas.md): sessão gravada (07 min 25 s), com perguntas, respostas, localizadores e vídeo. | • [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-prototipo-papel.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa — Camila Nogueira | [Storyboard](individual/caio/relato-storyboard.md) e [análise de tarefas](individual/caio/relato-analise-tarefas.md): sessões gravadas, com perguntas, respostas, localizadores e vídeos. | [Planejamento da avaliação](individual/caio/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/caio/planejamento-relato-prototipo-papel.md). |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | [Storyboard](individual/israel/relato-storyboard.md) e [análise de tarefas](individual/israel/relato-analise-tarefas.md): perguntas, respostas, análise e recomendações organizadas. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Agendamento de visita ao Senado](individual/israel/index.md) — Marta Oliveira | • [Relato consolidado dos resultados](individual/israel/relato-resultados-etapa5.md)<br>• [Storyboard](individual/israel/relato-storyboard.md) (06 min 35 s) e [análise de tarefas](individual/israel/relato-analise-tarefas.md) (07 min 50 s): sessões gravadas, transcrições e rastreabilidade completa. | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-prototipo-papel.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-prototipo-papel.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Agendamento para participar de plenárias com limite de vagas | [Modelagem HTA/CTT](individual/luis/modelagem-tarefas.md), [inspeção documental](individual/luis/inspecao-modelos.md), [relato do storyboard](individual/luis/relato-storyboard.md) e [relato da análise de tarefas](individual/luis/relato-analise-tarefas.md), com vídeos e transcrições. | [Planejamento da avaliação](individual/luis/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](individual/luis/planejamento-relato-prototipo-papel.md); protótipo e regras institucionais ainda dependem de definição. |
 
 <p class="caption">Tabela 2 — Trabalhos individuais e situação documental da Etapa 5.</p>
@@ -59,7 +60,7 @@ Os planos de complementos de ideias legislativas seguem o DECIDE, com objetivos,
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa. Bruno Ferreira Dornelas responde pela organização original; Caio Breno de Souza Bezerra responde pela atualização de seu recorte.
+Codex (OpenAI) apoiou a redação do índice e a organização da navegação. Os autores individuais respondem por seus respectivos recortes.
 
 ## Histórico de versão
 
@@ -77,6 +78,7 @@ O Codex (OpenAI) apoiou a organização deste índice e da navegação da etapa.
 | `1.0` | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor dos documentos de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 25/10/2026 | Inclui as estruturas dos relatos de Bruno, ainda sem resultados de coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 25/10/2026 | Integra os quatro artefatos individuais e o índice de Heitor Pinheiro na Etapa 5 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 02/11/2026 | Integra o relato consolidado dos resultados da Etapa 5 de Israel Soares com vídeos e rastreabilidade | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

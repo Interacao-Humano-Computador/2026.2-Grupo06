@@ -8,7 +8,7 @@ A Tabela 1 registra as contribuições neste planejamento individual.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração do planejamento da avaliação pelo framework DECIDE e especificação das tarefas | [Conteúdo](#contextualizacao) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração do planejamento da avaliação pelo framework DECIDE, especificação das tarefas e rastreabilidade | [Conteúdo](#contextualizacao) |
 | Google Gemini | Apoio na estruturação do protocolo, redação e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e alinhamento com a Etapa 5 | [Introdução](#introducao) |
 
@@ -23,7 +23,7 @@ O planejamento integra a **Etapa 5, com entrega em 25/10/2026**. A execução pr
 
 ## Contextualização
 
-O reprojeto parte das necessidades e barreiras identificadas na [persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md), no [cenário de agendamento de visita](../../../entrega-2/individual/israel/cenario.md), na modelagem da [HTA e CTT](../../../entrega-2/individual/israel/analise-tarefas.md) e no [Storyboard do Agendamento](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md). 
+O reprojeto parte das necessidades e barreiras identificadas na [persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md), no [cenário de agendamento de visita](../../../entrega-2/individual/israel/cenario.md), na modelagem da [HTA e CTT](../../../entrega-2/individual/israel/analise-tarefas.md) e no [Storyboard do Agendamento](../../../entrega-4/individual/israel/storyboard.md). Ele incorpora diretamente os achados empíricos e diretrizes consolidados no [Relato do Storyboard](relato-storyboard.md) e no [Relato da Análise de Tarefas](relato-analise-tarefas.md).
 
 A avaliação do protótipo de papel visa simular o fluxo reprojetado antes de qualquer linha de código em alta fidelidade. As telas e elementos móveis serão propostas de design para sanar gargalos históricos do portal, tais como:
 1. Encontrabilidade deficiente do serviço de visitação a partir da página principal;
@@ -166,7 +166,7 @@ A Tabela 5 detalha o cronograma proposto para a execução na Etapa 6.
 ## D — Decidir como lidar com as questões éticas
 
 A avaliação segue rigorosamente as diretrizes éticas estabelecidas no documento de [Aspectos Éticos do projeto](../../../entrega-2/etica.md):
-* **Termo de Consentimento Livre e Esclarecido (TCLE):** lido e assinado eletronicamente antes do início da sessão, informando os objetivos acadêmicos, a garantia de que o sistema é o objeto de teste (e não a capacidade do participante) e a liberdade de interromper a sessão a qualquer instante;
+* **Termo de Consentimento Livre e Esclarecido (TCLE):** lido e assinado eletronicamente antes do início da sessão ([TCLE assinado](../../../assets/docs/tcle/tcle-israel-assinado.pdf)), informando os objetivos acadêmicos, a garantia de que o sistema é o objeto de teste (e não a capacidade do participante) e a liberdade de interromper a sessão a qualquer instante;
 * **Preservação de identidade:** o participante é codificado como PAP-VIS01, mantendo dados pessoais e contatos desvinculados dos registros públicos;
 * **Uso da imagem e voz:** a gravação audiovisual só ocorre mediante autorização expressa no termo e restringe-se aos integrantes da disciplina;
 * **Dados fictícios:** nenhum dado pessoal sensível real (como senhas, dados bancários ou números de documentos verídicos) será solicitado.
@@ -181,6 +181,31 @@ A compilação dos dados registrará:
 
 Os resultados consolidados alimentarão o [Relato dos resultados do protótipo de papel](planejamento-relato-prototipo-papel.md) na Etapa 6, fornecendo subsídios diretos para a construção do protótipo de alta fidelidade na etapa seguinte.
 
+## Rastreabilidade: das evidências empíricas às telas e tarefas do papel
+
+A Tabela 6 sintetiza a matriz de rastreabilidade bidirecional que conecta as etapas 2, 3, 4 e os relatos empíricos da Etapa 5 às especificações físicas e operacionais do protótipo de papel.
+
+| Origem / Evidência nos Relatos da Etapa 5 | Diretriz / Hipótese Validada | Tela / Cartão no Papel | Tarefa Associada | Pergunta Investigada |
+| --- | --- | :---: | :---: | :---: |
+| **Storyboard Cena 2 / HTA 1.1–1.2:**<br>Participante sugeriu card evidente "Agendar Visita" na home (`01:48`, `05:30` no relato do storyboard) | **RP01:** Card destacado e entrada desobstruída para visitação na página principal | PP-S01 | PP-T1 | PP-Q1 |
+| **Storyboard Cena 2 / HTA 1.3:**<br>Exigência expressa de saber regras de vestimenta antes do formulário (`02:25` no storyboard; `02:58` na HTA) | **RP03 / AT-P01:** Apresentação visual de trajes permitidos e documentos obrigatórios | PP-S02 | PP-T1 | PP-Q2 |
+| **Storyboard Cena 3 / HTA 2.1–2.2:**<br>Definição de modalidade individual vs. grupo para dimensionar vagas (`02:20` na HTA) | Estruturação de fluxo por perfil de visitação | PP-S03 | PP-T2 | PP-Q3 |
+| **Storyboard Cena 3 / HTA 3.1–3.3:**<br>Necessidade de ver vagas abertas sem cliques frustrados (`01:35`, `05:48` na HTA) | **RP02 / AT-P02:** Calendário mensal com legenda de cores (verde com vagas, vermelho esgotado) | PP-S04, PP-X01 | PP-T2 | PP-Q3 |
+| **Storyboard Cena 4 / HTA 4.1–4.3:**<br>Inclusão explícita de acessibilidade e acompanhantes (`01:00` na HTA; `03:08` no storyboard) | **AT-P03:** Campos para dados dos membros e checklist de suporte e mobilidade reduzida | PP-S05, PP-X02 | PP-T3 | PP-Q4 |
+| **Storyboard Cena 5 / HTA 5.1–5.3:**<br>Edição rápida de telefone sem perda de estado (`01:48` no storyboard; `02:20` na HTA) | **RP04 / AT-P04:** Tela de resumo modular com botão "Editar" por bloco de informação | PP-S06 | PP-T4 | PP-Q5 |
+| **Storyboard Cena 6 / HTA 6.1–6.3:**<br>Insegurança com confirmação simples em tela (`04:18` no storyboard; `06:25` na HTA) | **RP05 / AT-P05:** Código localizador, botão "Baixar PDF" e confirmação por e-mail | PP-S07 | PP-T5 | PP-Q6 |
+
+<p class="caption">Tabela 6 — Rastreabilidade entre artefatos anteriores, achados empíricos e protótipo de papel.</p>
+<p class="source">Fonte: elaboração do autor (2026), articulando as evidências coletadas em 23/10/2026 ao protótipo de papel.</p>
+
+A cadeia metodológica articula-se com os seguintes artefatos de referência:
+* [Persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md) e [Cenário](../../../entrega-2/individual/israel/cenario.md) (Etapa 2);
+* [Modelagem HTA e CTT v2.0](../../../entrega-2/individual/israel/analise-tarefas.md) (Etapa 2);
+* [Princípios Gerais de IHC](../../../entrega-3/principios-gerais.md) e [Metas de Usabilidade](../../../entrega-3/metas-usabilidade.md) (Etapa 3);
+* [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamentos da Etapa 4](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md);
+* [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
+* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md) e [Planejamento do Relato do Papel](planejamento-relato-prototipo-papel.md) (Etapa 5/6).
+
 ## Agradecimentos
 
 Esta página contou com o apoio do Google Gemini na formatação Markdown, estruturação do protocolo DECIDE e organização das tabelas. A definição dos fluxos e a responsabilidade pelo planejamento são do autor.
@@ -190,6 +215,7 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, estru
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 23/10/2026 | Elaboração inicial do planejamento da avaliação do protótipo de papel para o Agendamento de Visita | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 02/11/2026 | Inclusão de matriz completa de rastreabilidade empírica ligando relatos da Etapa 5 às folhas e tarefas | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
@@ -199,3 +225,4 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, estru
 
 [3] SNYDER, Carolyn. *Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces*. San Francisco: Morgan Kaufmann, 2003.
 
+[4] GRUPO 06. [Relato do Storyboard](relato-storyboard.md); [Relato da Análise de Tarefas](relato-analise-tarefas.md); [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md). Brasília: FCTE/UnB, 2026.

@@ -55,7 +55,7 @@ A condução das avaliações do Storyboard e da Análise de Tarefas apoia-se em
 
 | Instrumento | Finalidade | Descrição do recurso |
 | --- | --- | --- |
-| **Termo de Consentimento Livre e Esclarecido (TCLE)** | Garantia ética e conformidade | Documento com esclarecimento dos objetivos acadêmicos, garantia de anonimato, gravação facultativa e direito de recusa a qualquer momento. |
+| **Termo de Consentimento Livre e Esclarecido (TCLE)** | Garantia ética e conformidade | Documento com esclarecimento dos objetivos acadêmicos, garantia de anonimato, gravação facultativa e direito de recusa a qualquer momento ([TCLE assinado](../../assets/docs/tcle/tcle-israel-assinado.pdf)). |
 | **Roteiro de Perguntas do Storyboard** | Coleta qualitativa sobre a narrativa | Conjunto de 8 perguntas investigativas focadas na clareza do contexto, lógica da sequência, etapas ausentes, motivação da persona e utilidade do apoio computacional. |
 | **Roteiro de Perguntas da HTA** | Validação da decomposição e planos | Roteiro dividido em momento prévio (relato espontâneo), 5 perguntas centrais de validação do HTA e 5 perguntas de consolidação pós-apresentação (tratamento de erros, exceções e termos). |
 | **Material visual de apoio** | Apresentação durante a entrevista | Cenas ilustradas do Storyboard em alta resolução e diagrama em árvore da HTA (`flowchart LR`) com tabela de operações. |
@@ -69,8 +69,13 @@ A condução das avaliações do Storyboard e da Análise de Tarefas apoia-se em
 ## Continuidade na Etapa 5 e Etapa 6
 
 Os planejamentos desenvolvidos nesta Etapa 4 estabelecem as diretrizes operacionais e analíticas para as fases subsequentes do projeto:
-1. **Etapa 5 (Relatos e Planejamento do Protótipo de Papel):** consolida os relatos empíricos da avaliação do Storyboard e da Análise de Tarefas e estrutura o [Planejamento da avaliação do protótipo de papel](../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md);
-2. **Etapa 6 (Avaliação do Protótipo de Papel):** executa os testes práticos de usabilidade utilizando as folhas e cartões do protótipo físico de baixa fidelidade, gerando os insumos concretos para o protótipo de alta fidelidade.
+
+* **[Índice individual de Israel na Etapa 5](../../entrega-5/individual/israel/index.md):** visão integrada dos artefatos e agenda da Etapa 5;
+* **[Relato consolidado dos resultados da Etapa 5](../../entrega-5/individual/israel/relato-resultados-etapa5.md):** síntese integrada das avaliações e encaminhamentos para a Etapa 6;
+* **[Relato da avaliação do Storyboard](../../entrega-5/individual/israel/relato-storyboard.md):** resultados empíricos, falas transcritas e vídeo gravado de 06m35s;
+* **[Relato da avaliação da Análise de Tarefas](../../entrega-5/individual/israel/relato-analise-tarefas.md):** validação dos modelos conceituais HTA/CTT e vídeo gravado de 07m50s;
+* **[Planejamento da avaliação do protótipo de papel](../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md):** inventário de 7 telas físicas (PP-S01 a PP-S07) e 5 tarefas práticas (PP-T1 a PP-T5);
+* **[Planejamento do relato do protótipo de papel](../../entrega-5/individual/israel/planejamento-relato-prototipo-papel.md):** especificação do relatório de resultados para a Etapa 6 (03/11/2026).
 
 [Voltar à Etapa 4](../index.md){ .md-button }
 
@@ -82,6 +87,7 @@ Os planejamentos desenvolvidos nesta Etapa 4 estabelecem as diretrizes operacion
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 13/10/2026 | Reserva inicial de espaço | Caio Breno de Souza Bezerra | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 25/10/2026 | Estruturação completa do hub individual de Israel Soares: funcionalidade, links para Storyboard, HTA e planejamentos, cronograma e instrumentos de coleta | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 02/11/2026 | Atualização da seção de continuidade com links diretos para todos os relatos e planejamentos da Etapa 5 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
