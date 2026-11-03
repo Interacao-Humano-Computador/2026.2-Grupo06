@@ -9,6 +9,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Abertura da etapa e acesso aos artefatos de Caio | [Conteúdo](#introducao) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do recorte individual de Eventos Interativos da Etapa 6 | [Trabalhos individuais](#trabalhos-individuais) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -37,6 +38,19 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     - [Telas para desenhar ou imprimir](../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf)
     - [Protótipo navegável](../prototipos/caio/alta-fidelidade/index.html)
 
+??? abstract "Heitor Pinheiro Gonçalves das Chagas"
+
+    **Envio de pergunta a orador em audiência pública interativa — Persona Letícia.**
+
+    [Abrir entrega individual](individual/heitor/index.md){ .md-button .md-button--primary }
+
+    - [Relato da avaliação do papel](individual/heitor/relato-prototipo-papel.md)
+    - [Gravações da avaliação do papel (PP-H01 a PP-H03)](individual/heitor/relato-prototipo-papel.md#11-gravacoes-e-anexos)
+    - [Planejamento da avaliação de alta fidelidade](individual/heitor/planejamento-avaliacao-alta-fidelidade.md)
+    - [Planejamento do relato de alta fidelidade](individual/heitor/planejamento-relato-alta-fidelidade.md)
+    - [Telas do papel](../prototipos/heitor/papel/index.html)
+    - [Protótipo navegável](../prototipos/heitor/alta-fidelidade/index.html)
+
 ## Verificação e continuidade
 
 [Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../verificacao/grupo-07/etapa-6/lista-verificacao.md) · [Etapa 5](../entrega-5/index.md) · [Etapa 7](../proximas/etapa-07.md).
@@ -52,6 +66,7 @@ A Tabela 2 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Organização dos artefatos individuais da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 03/11/2026 | Inclusão do recorte individual de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
