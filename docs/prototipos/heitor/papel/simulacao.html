@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulador de Aplicação do Protótipo de Papel (Ensaio T1–T4) — e-Cidadania</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      background: #2b2b2b;
+      color: #000;
+      font-family: "Courier New", Courier, monospace;
+      margin: 0;
+      padding: 0;
+    }
+    .sim-layout {
+      display: grid;
+      grid-template-columns: 340px 1fr;
+      min-height: calc(100vh - 36px);
+      gap: 12px;
+      padding: 12px;
+    }
+    /* Painel do Facilitador / Computador / Observador */
+    .sim-panel {
+      background: #f5f5f5;
+      border: 2px solid #000;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+    .sim-box {
+      border: 2px solid #000;
+      background: #fff;
+      padding: 8px;
+    }
+    .sim-box h3 {
+      font-size: 12px;
+      text-transform: uppercase;
+      border-bottom: 1px solid #000;
+      padding-bottom: 3px;
+      margin-bottom: 6px;
+    }
+    .task-btns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px;
+    }
+    .task-btn {
+      border: 2px solid #000;
+      background: #fff;
+      padding: 6px;
+      font-weight: bold;
+      cursor: pointer;
+      font-size: 11.5px;
+      text-align: left;
+    }
+    .task-btn.active {
+      background: #111;
+      color: #fff;
+    }
+    .card-enunciado {
+      border: 2px dashed #000;
+      background: #fffef0;
+      padding: 8px;
+      font-family: "Courier New", monospace;
+      font-size: 12.5px;
+      font-weight: bold;
+      line-height: 1.35;
+    }
+    .computer-cue {
+      border-left: 5px solid #000;
+      background: #eaeaea;
+      padding: 6px 8px;
+      font-size: 11.5px;
+      line-height: 1.35;
+    }
+    .log-list {
+      max-height: 150px;
+      overflow-y: auto;
+      font-family: monospace;
+      font-size: 11px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .log-entry {
+      border-bottom: 1px dotted #999;
+      padding-bottom: 2px;
+    }
+    /* Mesa onde ficam as folhas de papel */
+    .wooden-desk {
+      background: #3d352e;
+      border: 2px solid #000;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+    .paper-stage {
+      width: 100%;
+      max-width: 980px;
+      min-height: 560px;
+      background: #fff;
+      border: 3px solid #000;
+      box-shadow: 6px 6px 0 #111;
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+    }
+    .sheet-badge {
+      position: absolute;
+      top: -12px;
+      right: 14px;
+      background: #111;
+      color: #fff;
+      padding: 2px 10px;
+      font-family: sans-serif;
+      font-size: 11px;
+      font-weight: bold;
+      border: 2px solid #000;
+    }
+    /* Elementos clicáveis com dica de "toque do dedo" */
+    .touch-target {
+      cursor: pointer;
+      transition: transform 0.08s ease, background-color 0.1s ease;
+      position: relative;
+    }
+    .touch-target:hover {
+      outline: 3px dashed #000;
+      outline-offset: 2px;
+    }
+    .touch-target::after {
+      content: "👆 Toque";
+      position: absolute;
+      right: 4px;
+      top: -18px;
+      background: #000;
+      color: #fff;
+      font-family: sans-serif;
+      font-size: 10px;
+      padding: 1px 5px;
+      display: none;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .touch-target:hover::after {
+      display: inline-block;
+    }
+    /* Peça recortada sobreposta (Post-it / Menu Móvel) */
+    .paper-cutout-overlay {
+      border: 2px dashed #000;
+      background: #fffef2;
+      box-shadow: 4px 4px 0 rgba(0,0,0,0.85);
+      padding: 6px;
+      position: relative;
+    }
+    .cutout-tag {
+      font-size: 10px;
+      font-family: sans-serif;
+      font-weight: bold;
+      background: #000;
+      color: #fff;
+      padding: 1px 5px;
+      display: inline-block;
+      margin-bottom: 4px;
+    }
+    .screen-view {
+      display: none;
+      flex-direction: column;
+      flex: 1;
+      justify-content: space-between;
+    }
+    .screen-view.active {
+      display: flex;
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav-bar no-print">
+    <div>
+      <strong>Simulador de Bancada — Protótipo de Papel (e-Cidadania)</strong> |
+      <a href="index.html">&laquo; Voltar ao Índice</a>
+      <a href="cartoes-tarefa.html">Cartões T1–T4</a>
+      <a href="ficha-observacao.html">Fichas de Observação</a>
+    </div>
+    <div>Clique nos elementos da folha como a participante faria com o dedo</div>
+  </nav>
+
+  <div class="sim-layout">
+    <!-- COLUNA ESQUERDA: BANCADA DO FACILITADOR / COMPUTADOR / OBSERVADOR -->
+    <aside class="sim-panel">
+      <div class="sim-box">
+        <h3>1. Escolha a Tarefa para Ensaiar (Tabela 6)</h3>
+        <div class="task-btns">
+          <button class="task-btn active" id="btn-t1" onclick="startTask('T1')">▶ T1: Achar audiência (PP-S01)</button>
+          <button class="task-btn" id="btn-t2" onclick="startTask('T2')">▶ T2: Enviar pergunta (PP-S02)</button>
+          <button class="task-btn" id="btn-t3" onclick="startTask('T3')">▶ T3: Corrigir orador (PP-S06)</button>
+          <button class="task-btn" id="btn-t4" onclick="startTask('T4')">▶ T4: Status e grupo (PP-S07)</button>
+        </div>
+      </div>
+
+      <div class="sim-box">
+        <h3>2. Cartão Entregue à Participante</h3>
+        <div id="task-card-text" class="card-enunciado">
+          "Seu coletivo avisou que está acontecendo agora uma audiência da Comissão de Agricultura sobre o PL 1215/2025. Entre na sala dessa audiência."
+        </div>
+      </div>
+
+      <div class="sim-box">
+        <h3>3. Ação do "Computador" (Heitor)</h3>
+        <div id="computer-instruction" class="computer-cue">
+          <strong>Folha na mesa:</strong> <code>PP-S01</code>.<br>
+          Aguarde a participante explorar os filtros ou tocar em <strong>"Entrar na sala"</strong>. Quando ela tocar, troque pela folha <code>PP-S02</code>.
+        </div>
+      </div>
+
+      <div class="sim-box">
+        <h3>4. Controle Manual de Peças (Modo Livre)</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+          <button class="task-btn" onclick="goToSheet('PP-S01', 'Troca manual para PP-S01')">PP-S01</button>
+          <button class="task-btn" onclick="goToSheet('PP-S02', 'Troca manual para PP-S02')">PP-S02</button>
+          <button class="task-btn" onclick="goToSheet('PP-S03', 'Troca manual para PP-S03')">PP-S03</button>
+          <button class="task-btn" onclick="goToSheet('PP-S04', 'Troca manual para PP-S04')">PP-S04</button>
+          <button class="task-btn" onclick="goToSheet('PP-S05', 'Troca manual para PP-S05')">PP-S05</button>
+          <button class="task-btn" onclick="goToSheet('PP-S06', 'Troca manual para PP-S06')">PP-S06</button>
+          <button class="task-btn" onclick="goToSheet('PP-S07', 'Troca manual para PP-S07')">PP-S07</button>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px;">
+          <button class="task-btn" onclick="toggleM01()">✂ Sobrepor PP-M01</button>
+          <button class="task-btn" onclick="showM02()">✂ Sobrepor PP-M02 (Erro)</button>
+          <button class="task-btn" onclick="applyM03()">✂ Sobrepor PP-M03 (Lida)</button>
+        </div>
+      </div>
+
+      <div class="sim-box" style="flex: 1; display: flex; flex-direction: column;">
+        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #000; padding-bottom: 3px; margin-bottom: 6px;">
+          <h3 style="border: none; margin: 0; padding: 0;">5. Registro do Observador (<span id="timer-display">00:00</span>)</h3>
+          <button onclick="clearLog()" style="font-size: 10px; padding: 1px 5px; cursor: pointer;">Limpar</button>
+        </div>
+        <div id="obs-log" class="log-list"></div>
+      </div>
+    </aside>
+
+    <!-- COLUNA DIREITA: MESA COM A FOLHA DE PAPEL ATUAL -->
+    <main class="wooden-desk">
+      <div class="paper-stage">
+        <div id="active-sheet-badge" class="sheet-badge">FOLHA NA MESA: PP-S01</div>
+
+        <!-- Cabeçalho comum desenhado em todas as folhas -->
+        <div>
+          <div class="top-a11y">
+            <span>① Acessibilidade · VLibras · Contraste · A+ A−</span>
+            <span id="header-auth-status">e-Cidadania</span>
+          </div>
+          <header class="main-header">
+            <div class="brand-box">② SENADO</div>
+            <div class="header-search">
+              <span>Buscar no portal...</span>
+              <strong>[Buscar]</strong>
+            </div>
+            <span id="header-breadcrumb">③ Início &rsaquo; Participe &rsaquo; <strong>Eventos Interativos</strong></span>
+          </header>
+        </div>
+
+        <!-- ==================== TELA PP-S01 ==================== -->
+        <div id="view-PP-S01" class="screen-view active">
+          <div style="display: grid; grid-template-columns: 1fr 180px 260px; gap: 8px; align-items: end; border-bottom: 2px solid #000; padding: 8px 0;">
+            <div class="field-group">
+              <label class="field-label">④ Buscar audiência ou projeto</label>
+              <div class="input-box touch-target" onclick="logAction('Tocou na busca (PP-S01 ④) e buscou PL 1215/2025')">
+                <span>PL 1215/2025...</span>
+                <strong>[Buscar]</strong>
+              </div>
+            </div>
+            <div class="field-group">
+              <label class="field-label">⑤ Situação</label>
+              <div class="select-box touch-target" onclick="logAction('Conferiu filtro Situação: Em andamento (PP-S01 ⑤)')">
+                <strong>Em andamento</strong><span>▾</span>
+              </div>
+            </div>
+            <div class="field-group">
+              <label class="field-label">⑥ Comissão</label>
+              <div class="select-box touch-target" onclick="logAction('Conferiu filtro Comissão: CRA (PP-S01 ⑥)')">
+                <strong>CRA — Agricultura e Reforma Agrária</strong><span>▾</span>
+              </div>
+            </div>
+          </div>
+
+          <div style="display: flex; flex-direction: column; justify-content: space-evenly; flex: 1; gap: 10px; padding: 8px 0;">
+            <!-- Cartão AO VIVO -->
+            <div class="card card-highlight" style="flex-direction: row; justify-content: space-between; align-items: center; padding: 12px;">
+              <div>
+                <div>
+                  <span class="badge badge-live">● AO VIVO</span>
+                  <strong style="margin-left: 6px;">⑦ CRA — Agricultura e Reforma Agrária</strong>
+                </div>
+                <div style="font-size: 15px; font-weight: bold; margin-top: 4px;">
+                  Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+                </div>
+              </div>
+              <div class="btn-primary touch-target" onclick="handleEnterRoom()">
+                ⑧ Entrar na sala &raquo;
+              </div>
+            </div>
+
+            <!-- Distrator 1 -->
+            <div class="card card-distractor" style="flex-direction: row; justify-content: space-between; align-items: center;">
+              <div>
+                <span class="badge">Amanhã · 10h</span>
+                <strong>⑨ Audiência Pública CE — PL 3410/2025 (Internet em escolas rurais)</strong>
+              </div>
+              <span class="btn-secondary touch-target" onclick="logAction('⚠ Desvio: tocou em audiência distratora da CE (PP-S01 ⑨)')">Ver pauta</span>
+            </div>
+
+            <!-- Distrator 2 -->
+            <div class="card card-distractor" style="flex-direction: row; justify-content: space-between; align-items: center;">
+              <div>
+                <span class="badge">Encerrada</span>
+                <strong>Audiência Pública CAS — Atendimento prioritário no SUS</strong>
+              </div>
+              <span class="btn-secondary touch-target" onclick="logAction('⚠ Desvio: tocou em audiência encerrada da CAS (PP-S01 ⑨)')">Ver vídeo</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S02 ==================== -->
+        <div id="view-PP-S02" class="screen-view">
+          <div style="border-bottom: 2px solid #000; padding: 6px 0; font-weight: bold; font-size: 14px;">
+            <span class="badge badge-live">● AO VIVO</span>
+            Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          </div>
+
+          <div class="grid-2col" style="padding: 8px 0;">
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+              <div class="video-box">
+                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                  <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+                </svg>
+                <div class="video-caption">④ ● AO VIVO — VÍDEO DA AUDIÊNCIA</div>
+              </div>
+              <div class="card" style="flex: 1; justify-content: center;">
+                <strong>⑤ Pauta resumida</strong>
+                <p>PL 1215/2025: Prazos do crédito emergencial e compra de alimentos da agricultura familiar.</p>
+              </div>
+            </div>
+
+            <div style="display: flex; flex-direction: column; justify-content: space-between; gap: 8px;">
+              <div class="card" style="flex: 1; justify-content: space-evenly;">
+                <strong>⑥ Mesa da Audiência (Oradores)</strong>
+                <p>• <strong>Sen. Carlos Silva — Relator</strong> (Senador responsável pelo parecer)</p>
+                <p>• <strong>Sen. Marcos Souza — Presidente da CRA</strong></p>
+                <p>• <strong>Dra. Helena Costa — Convidada, Ministério do Desenvolvimento Agrário</strong></p>
+              </div>
+
+              <div class="card card-highlight" style="align-items: center; text-align: center; padding: 12px;">
+                <div style="font-weight: bold; margin-bottom: 4px;">Envie sua pergunta à mesa ou deixe um comentário</div>
+                <div class="btn-primary touch-target" style="padding: 8px 28px; font-size: 14px;" onclick="goToSheet('PP-S03', 'Tocou em ⑦ Participar na PP-S02 -> Computador coloca PP-S03')">
+                  ⑦ Participar &raquo;
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S03 ==================== -->
+        <div id="view-PP-S03" class="screen-view">
+          <div style="border-bottom: 2px solid #000; padding: 6px 0; font-weight: bold; font-size: 14px;">
+            <span class="badge badge-live">● AO VIVO</span>
+            Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          </div>
+
+          <div class="grid-2col" style="padding: 8px 0;">
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+              <div class="video-box">
+                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                  <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+                </svg>
+                <div class="video-caption">④ ● AO VIVO — VÍDEO DA AUDIÊNCIA</div>
+              </div>
+              <div class="card" style="flex: 1; justify-content: center;">
+                <strong>Mesa da CRA (Referência):</strong>
+                <p>• Sen. Carlos Silva — Relator (Senador responsável pelo parecer)<br>
+                   • Sen. Marcos Souza — Presidente da CRA<br>
+                   • Dra. Helena Costa — Convidada (MDA)</p>
+              </div>
+            </div>
+
+            <div class="card card-highlight" style="justify-content: space-between; padding: 10px;">
+              <div>
+                <div style="font-weight: bold; border-bottom: 2px solid #000; padding-bottom: 4px; margin-bottom: 8px;">
+                  PAINEL DE PARTICIPAÇÃO (Ponto Crítico HTA 2.2)
+                </div>
+
+                <div class="field-group">
+                  <label class="field-label">⑤ Tipo de manifestação * (escolha obrigatória antes de digitar)</label>
+                  <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 4px;">
+                    <div class="input-box touch-target" onclick="logAction('⚠ Erro/Desvio: escolheu ( ) Comentário geral em vez de Pergunta a Orador (PP-S03 ⑤)')">
+                      <strong>( &nbsp; ) Comentário geral</strong>
+                    </div>
+                    <div class="input-box touch-target" onclick="goToSheet('PP-S04', 'Escolheu (•) Pergunta a Orador em PP-S03 ⑤ -> Computador troca pela folha PP-S04')">
+                      <strong>( &nbsp; ) Pergunta a Orador</strong>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="field-group" style="margin-top: 10px;">
+                  <label class="field-label">⑥ Texto da manifestação</label>
+                  <div class="textarea-disabled touch-target" onclick="logAction('Tentou tocar no campo de texto bloqueado antes de escolher o tipo (PP-S03 ⑥ — evidência PP-Q2)')">
+                    🔒 Escolha o tipo para começar
+                  </div>
+                </div>
+              </div>
+
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span class="btn-secondary touch-target" onclick="goToSheet('PP-S02', 'Voltou para PP-S02')">Voltar</span>
+                <span style="border: 2px dashed #000; padding: 5px 14px; color: #555;">⑦ Revisar (bloqueado)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S04 ==================== -->
+        <div id="view-PP-S04" class="screen-view">
+          <div style="border-bottom: 2px solid #000; padding: 6px 0; font-weight: bold; font-size: 14px;">
+            <span class="badge badge-live">● AO VIVO</span>
+            Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          </div>
+
+          <div class="grid-2col" style="padding: 8px 0;">
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+              <div class="video-box">
+                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                  <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+                </svg>
+                <div class="video-caption">● AO VIVO — VÍDEO DA AUDIÊNCIA</div>
+              </div>
+              <div class="card" style="flex: 1; justify-content: center;">
+                <strong>Mesa da CRA (Referência):</strong>
+                <p>• Sen. Carlos Silva — Relator (Senador responsável pelo parecer)<br>
+                   • Sen. Marcos Souza — Presidente da CRA<br>
+                   • Dra. Helena Costa — Convidada (MDA)</p>
+              </div>
+            </div>
+
+            <div class="card card-highlight" style="justify-content: space-between; padding: 10px;">
+              <div style="display: flex; flex-direction: column; gap: 6px;">
+                <div class="field-group">
+                  <label class="field-label">④ Tipo de manifestação *</label>
+                  <div style="display: flex; gap: 16px; border: 2px solid #000; padding: 4px 8px;">
+                    <span>( &nbsp; ) Comentário geral</span>
+                    <strong>( ● ) Pergunta a Orador</strong>
+                  </div>
+                </div>
+
+                <!-- Seletor de Destinatário + Sobreposição de PP-M01 e PP-M02 -->
+                <div class="field-group">
+                  <label class="field-label">⑤ Destinatário *</label>
+                  <div class="select-box touch-target" onclick="toggleM01()">
+                    <span id="selected-speaker-label">[ Selecione o orador… ]</span>
+                    <strong>▾</strong>
+                  </div>
+
+                  <!-- Recorte Móvel PP-M01 -->
+                  <div id="overlay-M01" class="paper-cutout-overlay" style="display: none; margin-top: 2px;">
+                    <span class="cutout-tag">✂ PEÇA MÓVEL SOBREPOSTA: PP-M01 (Menu Suspenso)</span>
+                    <div class="touch-target" style="border-bottom: 1px solid #000; padding: 5px;" onclick="selectSpeaker('Sen. Carlos Silva — Relator (Senador responsável pelo parecer)', true)">
+                      <strong>Sen. Carlos Silva — Relator</strong> (Senador responsável pelo parecer)
+                    </div>
+                    <div class="touch-target" style="border-bottom: 1px solid #000; padding: 5px;" onclick="selectSpeaker('Sen. Marcos Souza — Presidente da CRA', false)">
+                      <strong>Sen. Marcos Souza — Presidente da CRA</strong>
+                    </div>
+                    <div class="touch-target" style="padding: 5px;" onclick="selectSpeaker('Dra. Helena Costa — Convidada, Ministério do Desenvolvimento Agrário', false)">
+                      <strong>Dra. Helena Costa — Convidada, Ministério do Desenvolvimento Agrário</strong>
+                    </div>
+                  </div>
+
+                  <!-- Recorte Móvel PP-M02 (Erro) -->
+                  <div id="overlay-M02" class="paper-cutout-overlay error-hatched" style="display: none; margin-top: 4px;">
+                    <span class="cutout-tag">✂ PEÇA MÓVEL SOBREPOSTA: PP-M02 (Faixa de Erro)</span><br>
+                    ⚠ <strong>Escolha um destinatário para enviar uma pergunta a orador</strong>
+                  </div>
+                </div>
+
+                <!-- Campo de pergunta com 3 linhas -->
+                <div class="field-group">
+                  <div style="display: flex; justify-content: space-between;">
+                    <label class="field-label">⑥ Sua pergunta *</label>
+                    <span>⑦ <strong id="char-counter">0/500</strong></span>
+                  </div>
+                  <div id="question-box" class="textarea-lined touch-target" onclick="fillQuestionText()" style="height: auto; min-height: 68px;">
+                    <span id="question-placeholder" style="color: #444; font-size: 11.5px;">
+                      (Toque aqui para simular a escrita à mão ou colar o cartão da pergunta-base fictícia)
+                    </span>
+                    <strong id="question-written" style="display: none; font-size: 12.5px;">
+                      "Como ficam os prazos do crédito emergencial para a agricultura familiar no PL 1215/2025?"
+                    </strong>
+                  </div>
+                </div>
+              </div>
+
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 6px;">
+                <span class="btn-secondary touch-target" onclick="goToSheet('PP-S03', 'Voltou para PP-S03')">Voltar</span>
+                <div class="btn-primary touch-target" onclick="handleReviewSubmit()">
+                  ⑧ Revisar &raquo;
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S05 ==================== -->
+        <div id="view-PP-S05" class="screen-view" style="justify-content: center; align-items: center;">
+          <div class="card card-highlight" style="width: 560px; padding: 14px; gap: 10px;">
+            <div style="font-size: 15px; font-weight: bold; border-bottom: 2px solid #000; padding-bottom: 4px;">
+              Identificação gov.br (Dados fictícios de teste)
+            </div>
+
+            <div style="border: 2px solid #000; border-left-width: 8px; padding: 8px 10px; font-weight: bold; font-size: 13.5px; background: #f2f2f2;">
+              ④ ✔ Seu texto e o destinatário serão mantidos
+            </div>
+
+            <div class="field-group">
+              <label class="field-label">⑤ Conta de teste (não use CPF real)</label>
+              <div class="input-box"><strong>cidadã de teste (Letícia Oliveira)</strong></div>
+            </div>
+
+            <div class="field-group">
+              <label class="field-label">⑥ Senha fictícia</label>
+              <div class="input-box"><strong>● ● ● ● ● ● ● ●</strong></div>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 4px;">
+              <span class="btn-secondary touch-target" onclick="goToSheet('PP-S04', 'Voltou do login gov.br para PP-S04')">⑦ Voltar</span>
+              <div class="btn-primary touch-target" onclick="completeLogin()">
+                ⑧ Continuar &raquo;
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S06 ==================== -->
+        <div id="view-PP-S06" class="screen-view">
+          <div style="border-bottom: 2px solid #000; padding: 6px 0; font-weight: bold; font-size: 14px;">
+            <span class="badge badge-live">● AO VIVO</span>
+            Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          </div>
+
+          <div class="grid-2col" style="padding: 8px 0;">
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+              <div class="video-box">
+                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                  <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+                </svg>
+                <div class="video-caption">● AO VIVO — VÍDEO DA AUDIÊNCIA</div>
+              </div>
+              <div class="card" style="flex: 1; justify-content: center;">
+                <strong>Mesa da CRA (Referência):</strong>
+                <p>• Sen. Carlos Silva — Relator (Senador responsável pelo parecer)<br>
+                   • Sen. Marcos Souza — Presidente da CRA<br>
+                   • Dra. Helena Costa — Convidada (MDA)</p>
+              </div>
+            </div>
+
+            <div class="card card-highlight" style="justify-content: space-between; padding: 10px;">
+              <div style="display: flex; flex-direction: column; gap: 8px;">
+                <div style="font-weight: bold; font-size: 14px; border-bottom: 2px solid #000; padding-bottom: 4px;">
+                  REVISÃO ANTES DO ENVIO
+                </div>
+
+                <div class="field-group">
+                  <span class="field-label">④ Tipo</span>
+                  <div class="input-box"><strong>Pergunta a Orador</strong></div>
+                </div>
+
+                <div class="field-group">
+                  <span class="field-label">⑤ Destinatário (Caixa vazada com Post-it colado)</span>
+                  <div class="paper-cutout-overlay">
+                    <span class="cutout-tag">✂ POST-IT COLADO NA CAIXA VAZADA ⑤</span><br>
+                    <strong id="review-speaker-postit">Sen. Carlos Silva — Relator (Senador responsável pelo parecer)</strong>
+                  </div>
+                </div>
+
+                <div class="field-group">
+                  <span class="field-label">⑥ Texto</span>
+                  <div class="input-box">
+                    <span>"Como ficam os prazos do crédito emergencial para a agricultura familiar no PL 1215/2025?"</span>
+                  </div>
+                </div>
+              </div>
+
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <div class="btn-secondary touch-target" onclick="handleEditFromReview()">
+                  ⑦ Editar
+                </div>
+                <div class="btn-primary touch-target" onclick="handleConfirmSend()">
+                  ⑧ Confirmar envio à mesa &raquo;
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ==================== TELA PP-S07 ==================== -->
+        <div id="view-PP-S07" class="screen-view">
+          <div style="border-bottom: 2px solid #000; padding: 6px 0; font-weight: bold; font-size: 14px;">
+            <span class="badge badge-live">● AO VIVO</span>
+            Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          </div>
+
+          <div class="grid-2col" style="padding: 8px 0;">
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+              <div class="video-box">
+                <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                  <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                  <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+                </svg>
+                <div class="video-caption">● AO VIVO — VÍDEO DA AUDIÊNCIA</div>
+              </div>
+              <div class="card" style="flex: 1; justify-content: center;">
+                <strong>Pergunta enviada:</strong>
+                <p>• <strong>Para:</strong> <span id="confirmed-speaker">Sen. Carlos Silva — Relator</span><br>
+                   • <strong>Texto:</strong> "Como ficam os prazos do crédito emergencial para a agricultura familiar no PL 1215/2025?"</p>
+              </div>
+            </div>
+
+            <div class="card card-highlight" style="justify-content: space-between; padding: 10px;">
+              <div style="display: flex; flex-direction: column; gap: 8px;">
+                <div style="font-weight: bold; font-size: 14px; border-bottom: 2px solid #000; padding-bottom: 4px;">
+                  ✔ PERGUNTA ENVIADA COM SUCESSO
+                </div>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; border: 2px solid #000; padding: 8px;">
+                  <div>
+                    <span style="font-size: 11px;">Protocolo:</span><br>
+                    ④ <strong style="font-size: 16px;">CRA-2026-0842</strong>
+                  </div>
+
+                  <div>
+                    ⑤
+                    <span id="status-badge-default" class="touch-target" onclick="applyM03()" style="padding: 6px 12px; border: 2px dashed #000; font-weight: bold; display: inline-block;">
+                      ● Em moderação (toque p/ sobrepor PP-M03)
+                    </span>
+                    <span id="status-badge-M03" class="paper-cutout-overlay" style="display: none; font-weight: bold; border: 3px solid #000;">
+                      <span class="cutout-tag">✂ PP-M03</span> ✔ Lida pela mesa
+                    </span>
+                  </div>
+                </div>
+
+                <div class="card" style="padding: 8px;">
+                  <strong>⑥ O que acontece depois:</strong>
+                  <p style="font-size: 12px;">
+                    1. A equipe da comissão confere se o texto segue as regras.<br>
+                    2. Aprovada, a pergunta vai para a fila do <strong>Relator (Sen. Carlos Silva)</strong>.<br>
+                    3. Quando for lida na mesa, o selo acima muda para <strong>"Lida pela mesa"</strong>.
+                  </p>
+                </div>
+              </div>
+
+              <div style="display: flex; justify-content: flex-end; align-items: center;">
+                <div class="btn-primary touch-target" onclick="logAction('✔ Tocou em ⑦ Copiar link para o grupo (PP-S07) — concluiu T4')">
+                  ⑦ 📋 Copiar link para o grupo
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+  <script>
+    var currentTask = 'T1';
+    var chosenSpeaker = '';
+    var isRelatorChosen = false;
+    var questionFilled = false;
+    var isLoggedIn = false;
+    var startTime = Date.now();
+
+    setInterval(function () {
+      var elapsed = Math.floor((Date.now() - startTime) / 1000);
+      var m = String(Math.floor(elapsed / 60)).padStart(2, '0');
+      var s = String(elapsed % 60).padStart(2, '0');
+      document.getElementById('timer-display').textContent = m + ':' + s;
+    }, 1000);
+
+    function logAction(msg) {
+      var elapsed = document.getElementById('timer-display').textContent;
+      var log = document.getElementById('obs-log');
+      var item = document.createElement('div');
+      item.className = 'log-entry';
+      item.textContent = '[' + elapsed + ' | ' + currentTask + '] ' + msg;
+      log.prepend(item);
+    }
+
+    function clearLog() {
+      document.getElementById('obs-log').innerHTML = '';
+      startTime = Date.now();
+    }
+
+    function goToSheet(sheetId, reason) {
+      var views = document.querySelectorAll('.screen-view');
+      for (var i = 0; i < views.length; i++) {
+        views[i].classList.remove('active');
+      }
+      document.getElementById('view-' + sheetId).classList.add('active');
+      document.getElementById('active-sheet-badge').textContent = 'FOLHA NA MESA: ' + sheetId;
+      if (reason) logAction(reason);
+      updateComputerCue(sheetId);
+    }
+
+    function updateComputerCue(sheetId) {
+      var cue = document.getElementById('computer-instruction');
+      var cues = {
+        'PP-S01': '<strong>Folha na mesa:</strong> <code>PP-S01</code>.<br>Quando a participante tocar em <strong>⑧ Entrar na sala</strong> no cartão AO VIVO da CRA, troque pela folha <code>PP-S02</code>.',
+        'PP-S02': '<strong>Folha na mesa:</strong> <code>PP-S02</code>.<br>Critério de T1 atingido! Para T2, quando ela tocar em <strong>⑦ Participar</strong>, coloque a folha <code>PP-S03</code>.',
+        'PP-S03': '<strong>Folha na mesa:</strong> <code>PP-S03</code> (Ponto Crítico HTA 2.2).<br>Observe se ela percebe os rádios antes do campo bloqueado (PP-Q2). Ao tocar em <strong>( ) Pergunta a Orador</strong>, troque por <code>PP-S04</code>.',
+        'PP-S04': '<strong>Folha na mesa:</strong> <code>PP-S04</code>.<br>• Se tocar no seletor ⑤, coloque o recorte <code>PP-M01</code>.<br>• Se tocar em ⑧ Revisar sem escolher destinatário, coloque a faixa de erro <code>PP-M02</code>.<br>• Após preencher e tocar em Revisar, vá para <code>PP-S05</code> (ou direto para <code>PP-S06</code> se já logada na T3).',
+        'PP-S05': '<strong>Folha na mesa:</strong> <code>PP-S05</code> (Login gov.br).<br>Observe se ela nota o aviso ④ de que o texto e destinatário são mantidos (PP-Q5). Ao tocar em <strong>⑧ Continuar</strong>, coloque <code>PP-S06</code>.',
+        'PP-S06': '<strong>Folha na mesa:</strong> <code>PP-S06</code> (Revisão).<br>• Na <strong>T3</strong>, o post-it começa com o orador errado (Presidente da CRA); ela deve tocar em <strong>⑦ Editar</strong> para voltar à <code>PP-S04</code> sem reescrever o texto.<br>• Ao tocar em <strong>⑧ Confirmar envio à mesa</strong>, coloque <code>PP-S07</code>.',
+        'PP-S07': '<strong>Folha na mesa:</strong> <code>PP-S07</code> (Confirmação).<br>Na <strong>T4</strong>, peça para ela explicar o protocolo e o selo <em>"Em moderação"</em>. Em seguida, coloque o recorte <code>PP-M03</code> (<em>"✔ Lida pela mesa"</em>) sobre o selo ⑤.'
+      };
+      cue.innerHTML = cues[sheetId] || '';
+    }
+
+    function startTask(taskId) {
+      currentTask = taskId;
+      var btns = document.querySelectorAll('.task-btns .task-btn');
+      for (var i = 0; i < btns.length; i++) btns[i].classList.remove('active');
+      document.getElementById('btn-' + taskId.toLowerCase()).classList.add('active');
+
+      var cards = {
+        'T1': '"Seu coletivo avisou que está acontecendo agora uma audiência da Comissão de Agricultura sobre o PL 1215/2025. Entre na sala dessa audiência."',
+        'T2': '"O coletivo quer saber do relator como ficam os prazos do crédito emergencial. Envie essa pergunta para ele."',
+        'T3': '"Você percebeu que mandou para a pessoa errada da mesa. Antes de confirmar, corrija."',
+        'T4': '"Explique para o seu grupo o que aconteceu com a sua pergunta e como eles podem fazer o mesmo."'
+      };
+      document.getElementById('task-card-text').textContent = cards[taskId];
+
+      if (taskId === 'T1') {
+        isLoggedIn = false;
+        document.getElementById('header-auth-status').textContent = 'e-Cidadania';
+        goToSheet('PP-S01', '=== Início da Tarefa T1 (Folha inicial: PP-S01) ===');
+      } else if (taskId === 'T2') {
+        chosenSpeaker = '';
+        isRelatorChosen = false;
+        questionFilled = false;
+        isLoggedIn = false;
+        document.getElementById('selected-speaker-label').textContent = '[ Selecione o orador… ]';
+        document.getElementById('overlay-M01').style.display = 'none';
+        document.getElementById('overlay-M02').style.display = 'none';
+        document.getElementById('question-placeholder').style.display = 'inline';
+        document.getElementById('question-written').style.display = 'none';
+        document.getElementById('char-counter').textContent = '0/500';
+        goToSheet('PP-S02', '=== Início da Tarefa T2 (Folha inicial: PP-S02) ===');
+      } else if (taskId === 'T3') {
+        isLoggedIn = true;
+        questionFilled = true;
+        chosenSpeaker = 'Sen. Marcos Souza — Presidente da CRA';
+        isRelatorChosen = false;
+        document.getElementById('header-auth-status').textContent = '✔ Identificada: cidadã de teste (gov.br)';
+        document.getElementById('selected-speaker-label').textContent = chosenSpeaker;
+        document.getElementById('review-speaker-postit').textContent = 'Sen. Marcos Souza — Presidente da CRA (⚠ DESTINATÁRIO ERRADO)';
+        document.getElementById('question-placeholder').style.display = 'none';
+        document.getElementById('question-written').style.display = 'inline';
+        document.getElementById('char-counter').textContent = '89/500';
+        goToSheet('PP-S06', '=== Início da Tarefa T3 (PP-S06 com post-it de destinatário errado: Presidente da CRA) ===');
+      } else if (taskId === 'T4') {
+        document.getElementById('status-badge-default').style.display = 'inline-block';
+        document.getElementById('status-badge-M03').style.display = 'none';
+        goToSheet('PP-S07', '=== Início da Tarefa T4 (PP-S07 com selo "Em moderação") ===');
+      }
+    }
+
+    function handleEnterRoom() {
+      goToSheet('PP-S02', '✔ Tocou em ⑧ Entrar na sala (PP-S01) -> Computador coloca PP-S02 (Concluiu T1 sem ajuda)');
+    }
+
+    function toggleM01() {
+      var m01 = document.getElementById('overlay-M01');
+      var visible = m01.style.display === 'block';
+      m01.style.display = visible ? 'none' : 'block';
+      if (!visible) {
+        logAction('Tocou no seletor Destinatário ⑤ -> Computador sobrepõe recorte PP-M01 (Menu suspenso)');
+      }
+    }
+
+    function selectSpeaker(name, isRelator) {
+      chosenSpeaker = name;
+      isRelatorChosen = isRelator;
+      document.getElementById('selected-speaker-label').textContent = name;
+      document.getElementById('overlay-M01').style.display = 'none';
+      document.getElementById('overlay-M02').style.display = 'none';
+      document.getElementById('review-speaker-postit').textContent = name;
+      document.getElementById('confirmed-speaker').textContent = name;
+      logAction((isRelator ? '✔ Escolheu o Relator correto: ' : '⚠ Escolheu outro orador: ') + name);
+    }
+
+    function showM02() {
+      document.getElementById('overlay-M02').style.display = 'block';
+      logAction('⚠ Tentou revisar sem destinatário -> Computador sobrepõe recorte PP-M02 (Faixa de erro)');
+    }
+
+    function fillQuestionText() {
+      questionFilled = true;
+      document.getElementById('question-placeholder').style.display = 'none';
+      document.getElementById('question-written').style.display = 'inline';
+      document.getElementById('char-counter').textContent = '89/500';
+      logAction('Redigiu/colou a pergunta-base sobre o PL 1215/2025 no campo ⑥ (PP-S04)');
+    }
+
+    function handleReviewSubmit() {
+      if (!chosenSpeaker) {
+        showM02();
+        return;
+      }
+      if (!questionFilled) {
+        fillQuestionText();
+      }
+      if (isLoggedIn) {
+        goToSheet('PP-S06', 'Tocou em ⑧ Revisar (já autenticada) -> Computador retorna à PP-S06 com post-it atualizado');
+      } else {
+        goToSheet('PP-S05', 'Tocou em ⑧ Revisar -> Computador coloca PP-S05 (Login gov.br)');
+      }
+    }
+
+    function completeLogin() {
+      isLoggedIn = true;
+      document.getElementById('header-auth-status').textContent = '✔ Identificada: cidadã de teste (gov.br)';
+      goToSheet('PP-S06', '✔ Tocou em ⑧ Continuar no login gov.br (PP-S05) -> Computador coloca PP-S06 (Texto e destinatário mantidos)');
+    }
+
+    function handleEditFromReview() {
+      goToSheet('PP-S04', '✔ Tocou em ⑦ Editar na PP-S06 -> Computador volta à PP-S04 mantendo o texto escrito');
+    }
+
+    function handleConfirmSend() {
+      goToSheet('PP-S07', '✔ Tocou em ⑧ Confirmar envio à mesa (PP-S06) -> Computador coloca PP-S07 (Protocolo CRA-2026-0842)');
+    }
+
+    function applyM03() {
+      document.getElementById('status-badge-default').style.display = 'none';
+      document.getElementById('status-badge-M03').style.display = 'inline-block';
+      logAction('Computador sobrepôs o recorte PP-M03 ("✔ Lida pela mesa") sobre o selo ⑤ da PP-S07');
+    }
+  </script>
+</body>
+</html>
+
