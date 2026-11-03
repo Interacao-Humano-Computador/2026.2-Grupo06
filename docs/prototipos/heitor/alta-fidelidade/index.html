@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Protótipo de Alta Fidelidade — e-Cidadania | Heitor Pinheiro</title>
+  <style>
+    :root {
+      --primary: #003366;
+      --primary-dark: #002244;
+      --text: #1d2129;
+      --muted: #65676b;
+      --bg: #f0f2f5;
+      --card-bg: #ffffff;
+      --border: #ccd0d5;
+      --badge-bg: #e7f3ff;
+      --badge-text: #1877f2;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 24px;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      max-width: 620px;
+      width: 100%;
+      padding: 36px 32px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      text-align: center;
+    }
+    .badge {
+      display: inline-block;
+      background: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    h1 {
+      font-size: 24px;
+      color: var(--primary);
+      margin-bottom: 12px;
+    }
+    p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+    .details {
+      background: #f8f9fa;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      padding: 16px;
+      text-align: left;
+      font-size: 14px;
+      margin-bottom: 28px;
+    }
+    .details ul {
+      list-style-type: none;
+    }
+    .details li {
+      padding: 6px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .details li:last-child {
+      border-bottom: none;
+    }
+    .details strong {
+      color: var(--text);
+    }
+    .actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-block;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      transition: background 0.2s, transform 0.1s;
+    }
+    .btn-primary {
+      background: var(--primary);
+      color: #ffffff;
+    }
+    .btn-primary:hover {
+      background: var(--primary-dark);
+    }
+    .btn-secondary {
+      background: #e4e6eb;
+      color: #050505;
+    }
+    .btn-secondary:hover {
+      background: #d8dadf;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <span class="badge">Etapa 7 — Em desenvolvimento</span>
+    <h1>Protótipo de Alta Fidelidade</h1>
+    <p>
+      Este protótipo navegável interativo está previsto para entrega na <strong>Etapa 7 (15/11/2026)</strong>, conforme estabelecido no cronograma da disciplina e nas diretrizes metodológicas do Grupo 06.
+    </p>
+
+    <div class="details">
+      <ul>
+        <li><strong>Integrante responsável:</strong> Heitor Pinheiro Gonçalves das Chagas</li>
+        <li><strong>Funcionalidade:</strong> Participação em Evento Interativo (e-Cidadania)</li>
+        <li><strong>Fluxo modelado:</strong> Envio de pergunta técnica direcionada a orador da mesa</li>
+        <li><strong>Persona:</strong> Letícia Oliveira (CRA / PL 1215/2025)</li>
+        <li><strong>Base do reprojeto:</strong> Decisões validadas na prototipação em papel (Etapa 6)</li>
+      </ul>
+    </div>
+
+    <div class="actions">
+      <a href="../../../entrega-6/individual/heitor/index.html" class="btn btn-primary">Voltar à Etapa 6 de Heitor</a>
+      <a href="../papel/index.html" class="btn btn-secondary">Ver protótipo de papel</a>
+    </div>
+  </div>
+</body>
+</html>
