@@ -29,6 +29,8 @@ A Tabela 2 lista os artefatos e sua finalidade.
 | [Planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md) | Definir objetivos, tarefas AF-T1–AF-T5, método, ética e agenda do teste moderado remoto | Versão 0.1 |
 | [Planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md) | Fixar fichas, matriz de problemas e regras de interpretação antes da coleta | Versão 0.1 |
 
+- **Papel:** [fotografias das telas e dos cartões usados na sessão](../../../assets/img/entrega-6/israel/TELAS_PAPEL.pdf). Material PP-2.0 desenhado à mão: bases de entrada, formulário e recebimento, mais os cartões móveis.
+
 <p class="caption">Tabela 2 — Artefatos individuais da Etapa 6.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
