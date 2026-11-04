@@ -8,7 +8,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Preparação do relato, fichas e decisões de reprojeto | [Conteúdo](#introducao) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Preparação do relato, fichas, condução da sessão e decisões de reprojeto | [Conteúdo](#introducao) |
 | Claude (Anthropic) | Apoio à estruturação, redação e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e alinhamento com o planejamento | [Introdução](#introducao) |
 
@@ -19,7 +19,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 Este relato acompanha a avaliação de **agendar uma visita ao Senado Federal**, conforme o [planejamento da Etapa 5](../../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md) e o [planejamento do relato](../../../entrega-5/individual/israel/planejamento-relato-prototipo-papel.md). O recorte abrange localização do serviço, leitura das regras, escolha de data e horário, preenchimento de dados com acessibilidade, revisão com correção de erro e obtenção do comprovante.
 
-A persona de referência é [Marta Oliveira](../../../entrega-2/individual/israel/persona.md). Os encaminhamentos RP01–RP05 e AT-P01–AT-P05 vêm dos relatos do [storyboard](../../../entrega-5/individual/israel/relato-storyboard.md) e da [análise de tarefas](../../../entrega-5/individual/israel/relato-analise-tarefas.md).
+A persona de referência é [Marta Oliveira](../../../entrega-2/individual/israel/persona.md). Os encaminhamentos RP01–RP05 e AT-P01–AT-P05 vêm dos relatos do [storyboard](../../../entrega-5/individual/israel/relato-storyboard.md) e da [análise de tarefas](../../../entrega-5/individual/israel/relato-analise-tarefas.md). A sessão com o participante PAP-VIS01 foi realizada em 03/11/2026 e seus resultados constam na seção [Resultados da sessão](#resultados-da-sessao).
 
 [Reprojeto de alta fidelidade](../../../prototipos/israel/alta-fidelidade/index.html){ .md-button }
 
@@ -98,7 +98,7 @@ Classificar cada execução como **sem ajuda, com ajuda, não concluída ou não
 
 ## Análise das telas e decisões de projeto
 
-A análise documental das telas foi consolidada em 03/11/2026. A Tabela 5 apresenta a conclusão sobre cada decisão de interface, vinculada aos resultados das etapas anteriores. A comprovação das ações e da compreensão da pessoa será associada ao vídeo da sessão.
+A análise documental das telas foi consolidada em 03/11/2026. A Tabela 5 apresenta a conclusão sobre cada decisão de interface, vinculada aos resultados das etapas anteriores. A comprovação das ações e da compreensão da pessoa está associada ao vídeo da sessão e à seção [Resultados da sessão](#resultados-da-sessao).
 
 | ID / origem | Local e fator de uso | Análise da interface | Decisão incorporada |
 | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ A sugestão de cancelar ou remarcar (Q6 do storyboard; ramo 7 da HTA) aparece em
 
 ## Conferência e encaminhamento
 
-A Tabela 6 registra a conferência das soluções presentes na proposta. Os resultados de uso serão vinculados ao vídeo e às notas da avaliação.
+A Tabela 6 registra a conferência das soluções presentes na proposta antes da sessão. Os resultados de uso constam na seção seguinte.
 
 | Aspecto | Evidência na proposta | Encaminhamento para a avaliação |
 | --- | --- | --- |
@@ -131,31 +131,62 @@ A Tabela 6 registra a conferência das soluções presentes na proposta. Os resu
 <p class="caption">Tabela 6 — Conferência da proposta consolidada.</p>
 <p class="source">Fonte: análise documental das telas PP-1.0 (2026).</p>
 
-Caso haja dificuldade, registrar tela, consequência, evidência e prioridade.
+<span id="resultados-da-sessao"></span>
+
+## Resultados da sessão
+
+Em 03/11/2026, PAP-VIS01 executou o percurso no protótipo PP-1.0, pelo Google Meet. Segundo a síntese do moderador, a pessoa **compreendeu todo o fluxo**, **não teve dúvida sobre o tratamento de erro** e **concluiu a tarefa**. A única dúvida registrada foi sobre a tela final: não ficou claro se a ação disponível levava de volta ao menu inicial ou de volta à edição dos passos anteriores.
+
+A Tabela 7 relaciona esses registros às perguntas de avaliação. Os localizadores de vídeo e a classificação de ajuda por tarefa (sem ajuda, com ajuda, não concluída) serão acrescentados na conferência das gravações.
+
+| Pergunta | Resultado observado | Localizador no vídeo |
+| --- | --- | --- |
+| PP-Q1 — localização do serviço | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
+| PP-Q2 — regras antes do preenchimento | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
+| PP-Q3 — calendário e vagas | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
+| PP-Q4 — dados e acessibilidade | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
+| PP-Q5 — revisão e correção de erro | Sem dúvida sobre o tratamento de erro | A anexar |
+| PP-Q6 — confirmação e comprovante | Tarefa concluída; **dúvida sobre o destino da tela final** (menu inicial ou edição dos passos anteriores) | A anexar |
+
+<p class="caption">Tabela 7 — Resultados da sessão por pergunta de avaliação.</p>
+<p class="source">Fonte: síntese do moderador após a sessão com PAP-VIS01 (2026).</p>
+
+### Problema identificado e decisão de reprojeto
+
+A Tabela 8 consolida o problema observado, conforme Barbosa e Silva (2010, p. 361–362).
+
+| ID / tarefa / tela | Evidência | Descrição / fator / consequência | Hipótese de causa | Prioridade / frequência | Correção proposta | Reteste |
+| --- | --- | --- | --- | --- | --- | --- |
+| PAP-PR01 / PP-T5 / S07 | Dúvida verbalizada pelo participante; localizador no vídeo a anexar | A pessoa não soube se a ação da tela final voltava ao menu inicial ou à edição dos passos anteriores. Fator: clareza dos rótulos e do que acontece em seguida. Não impediu a conclusão, mas ocorre no fechamento do fluxo e pode levar a reabrir um agendamento já confirmado. | O destino das ações da tela final não está explícito (hipótese a confirmar no vídeo) | **Média** (proposta); 1 ocorrência em 1 execução de PP-T5, versão PP-1.0 | Em S07, separar dois controles com rótulos de destino: "Voltar ao início do portal" (principal) e "Alterar / cancelar agendamento" (secundário, com a explicação "use o código localizador"). Evitar setas ou botões "Voltar" sem destino. | Não retestado; observar em AF-T5 |
+
+<p class="caption">Tabela 8 — Problema, causa interpretada e correção proposta.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026), com base na sessão com PAP-VIS01.</p>
+
+A prioridade segue a consequência para a conclusão correta: o problema não impediu a tarefa, mas afeta a segurança percebida ao fim do fluxo. Uma correção sem nova execução permanece como **não retestada**. Esta decisão alimenta o critério de AF-T5 no [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md).
 
 ## Registro e vídeo
 
-**Vídeo da avaliação:** [Link_Não_Listado](https://youtu.be/iHwOIBnKUUU?si=_2O3e4XUBa5qO3bi);
+**Vídeo da avaliação:** [Link não listado](https://youtu.be/iHwOIBnKUUU?si=_2O3e4XUBa5qO3bi). Publicar somente a versão autorizada; o link não listado permite acesso a quem o possui.
 
-A Tabela 7 concentra os campos de fechamento, evitando repetir pendências pelo relato.
+A Tabela 9 concentra os campos de fechamento, evitando repetir pendências pelo relato.
 
 | Campo | Registro da sessão |
 | --- | --- |
-| Data, início, fim e duração efetivos | A registrar |
+| Data, início, fim e duração efetivos | 03/11/2026; horários e duração a registrar |
 | Perfil de PAP-VIS01 e exposição anterior ao material | A registrar sem identificação pessoal |
 | Piloto: data, pessoa distinta e ajustes do procedimento | A registrar, separado dos resultados principais |
-| Autorização para participar, gravar e disponibilizar | Conferir antes de iniciar; termo fora do repositório |
+| Autorização para participar, gravar e disponibilizar | Conferir antes de disponibilizar; termo fora do repositório |
 | Versão do material | PP-1.0 |
-| Link do vídeo e localizadores de PP-T1–PP-T5 | A anexar |
+| Link do vídeo | Anexado; localizadores de PP-T1–PP-T5 a acrescentar |
 
-<p class="caption">Tabela 7 — Identificação e fechamento da sessão.</p>
+<p class="caption">Tabela 9 — Identificação e fechamento da sessão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Síntese e continuidade
 
-A análise das telas conclui que a proposta cobre os cinco objetivos do recorte: localização do serviço, compreensão das regras, leitura do calendário, correção de erro antes do envio e confirmação com comprovante. As melhorias das etapas anteriores estão representadas na versão em papel.
+Na sessão com PAP-VIS01, o percurso foi compreendido de ponta a ponta, o tratamento de erro não gerou dúvida e a tarefa foi concluída. A proposta cobriu os cinco objetivos do recorte: localização do serviço, compreensão das regras, leitura do calendário, correção de erro antes do envio e confirmação com comprovante. O único ponto de melhoria registrado foi o destino das ações na tela final (PAP-PR01).
 
-A gravação das cinco tarefas permitirá relacionar essas decisões às escolhas, explicações e dificuldades da pessoa. O relato diferencia a presença de uma solução na interface de sua eficácia durante o uso. Os encaminhamentos seguem para AF-T1–AF-T5 do [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md). Com um participante, a avaliação descreve este caso e suas condições; não estima a experiência de toda a população.
+O relato diferencia a presença de uma solução na interface de sua eficácia durante o uso. Os encaminhamentos seguem para AF-T1–AF-T5 do [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md), com atenção ao destino dos botões da tela final. Com um participante, a avaliação descreve este caso e suas condições; não estima a experiência de toda a população.
 
 O estudo não mede recordação após dias, comparação de eficiência com o portal oficial, alteração ou cancelamento de reserva, nem integração real. A opinião final é qualitativa. A continuidade no Meet depende de áudio e legibilidade da câmera. Código localizador, vagas e estados são representações da interface proposta.
 
@@ -165,13 +196,14 @@ Claude (Anthropic) apoiou a estruturação e a formatação deste material. Isra
 
 ## Histórico de versão
 
-A Tabela 8 registra a versão deste artefato.
+A Tabela 10 registra as versões deste artefato.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do relato e documentação do protótipo de papel do Agendamento de Visita | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 03/11/2026 | Inclusão do vídeo, dos resultados da sessão e do problema PAP-PR01 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
-<p class="caption">Tabela 8 — Histórico de versão.</p>
+<p class="caption">Tabela 10 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Referências
