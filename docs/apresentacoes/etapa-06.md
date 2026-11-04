@@ -8,7 +8,7 @@ A Tabela 1 registra a contribuição neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação de Caio e dos acessos à entrega | [Conteúdo](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -16,15 +16,53 @@ A Tabela 1 registra a contribuição neste artefato.
 
 ## Introdução
 
-Apresentação dos três artefatos da Etapa 6, conforme o plano de ensino [1]. A apresentação em aula é em **05/11/2026**. O [índice da etapa](../entrega-6/index.md) reúne os documentos.
+Este artefato reúne as gravações da apresentação da Etapa 6. Cada integrante publica o próprio vídeo, na categoria **não listado**, sobre o relato da avaliação do protótipo de papel e sobre os planejamentos da avaliação de alta fidelidade e do relato desses resultados [1].
 
-??? abstract "Caio Breno de Souza Bezerra"
+Os critérios da etapa estão na [Lista de verificação da Etapa 6](../verificacao/listas/etapa-6.md). A apresentação em aula é em **05/11/2026**. O [índice da etapa](../entrega-6/index.md) reúne os documentos.
 
-    **Vídeo da apresentação:** a anexar na categoria não listado após a gravação.
+## Vídeos
 
-    Percurso sugerido: [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md) → [reprojeto navegável](../prototipos/caio/alta-fidelidade/index.html) → [planejamento da avaliação](../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md) → [planejamento do relato](../entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md).
+Cada pessoa incorpora a própria gravação na seção correspondente. O vídeo de Caio Breno de Souza Bezerra já está publicado. A gravação da avaliação com participante fica no relato do papel e não substitui esta apresentação.
 
-    A gravação da avaliação com PAP-P01, de 03/11/2026, 21h28–21h33, fica no [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video). Link não listado: [https://youtu.be/MYhU_5oUe8M](https://youtu.be/MYhU_5oUe8M). Essa sessão é distinta da apresentação.
+### Bruno Ferreira Dornelas
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
+
+### Caio Breno de Souza Bezerra
+
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/vaXEtY_bNgE](https://youtu.be/vaXEtY_bNgE)
+- Data da gravação: 03/11/2026
+- Duração: 3 min 54 s
+- Participante: Caio Breno de Souza Bezerra
+- Percurso: [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md), [reprojeto navegável](../prototipos/caio/alta-fidelidade/index.html), [planejamento da avaliação](../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato](../entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md)
+- Avaliação com PAP-P01, distinta desta apresentação: [vídeo da sessão](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video)
+
+??? note "Vídeo — Apresentação da Etapa 6, Caio Breno de Souza Bezerra"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/vaXEtY_bNgE"
+        title="Apresentação da Etapa 6 — Caio Breno de Souza Bezerra"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+### Heitor Pinheiro Gonçalves das Chagas
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
+
+### Israel Soares de Paiva
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
+
+### Luís Henrique Luna de Arruda
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
 
 
 ## Agradecimentos
@@ -39,6 +77,7 @@ A Tabela 2 registra a versão deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração da página de apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/11/2026 | Indica a gravação da avaliação do papel, distinta do vídeo de apresentação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
