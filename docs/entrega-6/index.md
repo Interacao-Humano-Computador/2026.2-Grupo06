@@ -9,9 +9,11 @@ A Tabela 1 registra a contribuição neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Abertura da etapa e acesso aos artefatos de Caio | [Conteúdo](#introducao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Integração dos artefatos individuais de Bruno na Etapa 6 | [Trabalhos individuais](#trabalhos-individuais) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do recorte individual de Eventos Interativos da Etapa 6 | [Trabalhos individuais](#trabalhos-individuais) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Inclusão do recorte individual de Agendamento de Visita da Etapa 6 | [Trabalhos individuais](#trabalhos-individuais) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do próprio recorte de inscrição em plenárias | [Trabalhos individuais](#trabalhos-individuais) |
-| Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) / Antigravity (Google DeepMind) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -26,6 +28,17 @@ A Etapa 6 reúne **relato da avaliação do protótipo de papel**, **planejament
 ## Trabalhos individuais
 
 Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará sua entrega em um bloco próprio.
+
+??? abstract "Bruno Ferreira Dornelas"
+
+    **Complementos de ideias legislativas · Persona Letícia Oliveira.**
+
+    [Abrir entrega individual](individual/bruno/index.md){ .md-button .md-button--primary }
+
+    - [Relato da avaliação do protótipo de papel](individual/bruno/relato-prototipo-papel.md)
+    - [Planejamento da avaliação de alta fidelidade](individual/bruno/planejamento-avaliacao-alta-fidelidade.md)
+    - [Planejamento do relato de alta fidelidade](individual/bruno/planejamento-relato-alta-fidelidade.md)
+    - [Vídeo do teste-piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) · [Vídeo da validação com PP-P01 (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE)
 
 ??? abstract "Caio Breno de Souza Bezerra"
 
@@ -42,7 +55,7 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
 
 ??? abstract "Heitor Pinheiro Gonçalves das Chagas"
 
-    **Envio de pergunta a orador em audiência pública interativa — Persona Letícia.**
+    **Envio de pergunta a orador em audiência pública interativa · Persona Letícia.**
 
     [Abrir entrega individual](individual/heitor/index.md){ .md-button .md-button--primary }
 
@@ -52,6 +65,17 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     - [Planejamento do relato de alta fidelidade](individual/heitor/planejamento-relato-alta-fidelidade.md)
     - [Telas do papel](../prototipos/heitor/papel/index.html)
     - [Protótipo navegável](../prototipos/heitor/alta-fidelidade/index.html)
+
+??? abstract "Israel Soares de Paiva"
+
+    **Agendamento de visita ao Senado · Persona Marta Oliveira.**
+
+    [Abrir entrega individual](individual/israel/index.md){ .md-button .md-button--primary }
+
+    - [Relato da avaliação do papel](individual/israel/relato-prototipo-papel.md)
+    - [Planejamento da avaliação de alta fidelidade](individual/israel/planejamento-avaliacao-alta-fidelidade.md)
+    - [Planejamento do relato de alta fidelidade](individual/israel/planejamento-relato-alta-fidelidade.md)
+    - [Fotografias das telas e cartões](../assets/img/entrega-6/israel/TELAS_PAPEL.pdf)
 
 ??? abstract "Luís Henrique Arruda Luna"
 
@@ -71,7 +95,7 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) e Antigravity (Google DeepMind) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra, Bruno Ferreira Dornelas, Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva e Luís Henrique Arruda Luna respondem pelos seus respectivos conteúdos.
 
 ## Histórico de versão
 
@@ -83,9 +107,10 @@ A Tabela 2 registra a versão deste artefato.
 | `0.2` | 03/11/2026 | Inclusão do recorte individual de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/11/2026 | Liga o recorte de Caio à gravação da avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/11/2026 | Troca o acesso às telas de Caio pelas fotografias do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.5` | 03/11/2026 | Inclui o recorte individual de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
-| `0.6` | 03/11/2026 | Liga os planejamentos de alta fidelidade de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
-
+| `0.5` | 03/11/2026 | Inclui o recorte individual de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.6` | 03/11/2026 | Liga os planejamentos de alta fidelidade de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.7` | 03/11/2026 | Inclusão dos artefatos individuais de Bruno Ferreira Dornelas na Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.8` | 03/11/2026 | Inclusão do recorte individual de Israel Soares de Paiva na Etapa 6 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

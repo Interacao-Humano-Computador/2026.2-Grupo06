@@ -1,4 +1,4 @@
-﻿site_name: Grupo 06
+site_name: Grupo 06
 site_description: Documentação do projeto de Interação Humano-Computador do Grupo 06, FCTE/UnB, 2026.2.
 site_author: Grupo 06 — IHC 2026.2
 site_url: https://interacao-humano-computador.github.io/2026.2-Grupo06/
@@ -250,6 +250,11 @@ nav:
   - Etapa 6 · Papel e alta fidelidade:
       - entrega-6/index.md
       - Trabalhos individuais:
+          - Bruno Ferreira:
+              - entrega-6/individual/bruno/index.md
+              - Papel · Relato: entrega-6/individual/bruno/relato-prototipo-papel.md
+              - Alta fidelidade · Planejamento da avaliação: entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md
+              - Alta fidelidade · Planejamento do relato: entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md
           - Caio Breno:
               - entrega-6/individual/caio/index.md
               - Papel · Relato: entrega-6/individual/caio/relato-prototipo-papel.md

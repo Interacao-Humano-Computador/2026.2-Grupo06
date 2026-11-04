@@ -305,6 +305,9 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Ensaio individual dos blocos de storyboard e análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 23/10/2026 | 23/10/2026 | [Gravação do ensaio](https://www.youtube.com/watch?v=qCNNY5LH0EQ); não houve ajustes decorrentes do ensaio |
 | Entrevistas do storyboard e da análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas e P01 | 24/10/2026 | 24/10/2026 | Realizadas presencialmente no mesmo encontro: storyboard (10min50s), seguido da análise de tarefas (8min09s). Horários de início e fim não registrados |
 | Análise e redação dos relatos de storyboard e tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 25/10/2026 | 25/10/2026 | [Relato do storyboard](../entrega-5/individual/bruno/relato-storyboard.md) e [relato das tarefas](../entrega-5/individual/bruno/relato-analise-tarefas.md) preenchidos com evidências e encaminhamentos |
+| Desenho manual, fotografia das 11 peças e teste-piloto do protótipo de papel (`v1.0`) — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | Moldura fixa e 10 recortes móveis fotografados; [vídeo do piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) |
+| Sessão de validação do protótipo de papel com `PP-P01` no Google Meet | Bruno Ferreira Dornelas (operador), Luís Henrique, Caio Breno e Israel Soares (observadores) | 03/11/2026 | 03/11/2026 | [Gravação da validação (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) |
+| Elaboração do relato do protótipo de papel e dos planejamentos de alta fidelidade (Etapa 6) | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | [Relato do papel](../entrega-6/individual/bruno/relato-prototipo-papel.md), [planejamento da avaliação](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md); revisão de Luís Henrique |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -323,6 +326,7 @@ A Tabela 12 apresenta a agenda específica de Bruno e sua execução informada. 
 | Ensaio individual dos blocos de storyboard e tarefas | 23/10/2026 | Realizado e gravado por Bruno; não houve ajustes |
 | Entrevistas de storyboard e análise de tarefas, no mesmo encontro | 24/10/2026 | Realizadas presencialmente com P01: storyboard (10min50s), seguido de tarefas (8min09s); autorização das duas gravações formalizada em 25/10 |
 | Análise e redação dos relatos | 25/10/2026 | Resultados e respostas ao DECIDE consolidados nos dois relatos da Etapa 5; Bruno é o autor e Caio o revisor |
+| Preparação do papel (`v1.0`), teste-piloto e validação com `PP-P01` | 03/11/2026 | Fotografias das 11 peças, [piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) e [sessão no Meet (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) consolidados no [relato da Etapa 6](../entrega-6/individual/bruno/relato-prototipo-papel.md), junto aos planejamentos da alta fidelidade |
 
 <p class="caption">Tabela 12 — Agenda e execução das avaliações de Bruno.</p>
 <p class="source">Fonte: planejamentos e registros de execução de Bruno Ferreira Dornelas (2026).</p>
@@ -346,6 +350,7 @@ A preparação e a avaliação futura do protótipo de papel seguem a [agenda pr
 | `2.3` | 05/10/2026 | Divisão dos itens da Etapa 3, correções da Etapa 2 no planejado e atividades executadas até 05/10 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.4` | 13/10/2026 | Registra as atividades executadas por Bruno na Etapa 4, incluindo os quatro planejamentos e o storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 2.5 | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.6` | 03/11/2026 | Registra no cronograma executado a preparação, o piloto, a validação do protótipo de papel e os artefatos da Etapa 6 de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
