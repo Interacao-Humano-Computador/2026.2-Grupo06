@@ -8,10 +8,10 @@ A Tabela 1 registra as contribuições neste artefato.
 
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Desenho manual da moldura e dos recortes, condução do piloto e da sessão de validação, análise e redação | [Método e execução](#metodo-e-execucao) |
-| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Observação da sessão remota, análise conjunta das evidências e revisão do relato | [Método e execução](#metodo-e-execucao) |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Observação da sessão remota e apoio à consolidação dos achados | [Método e execução](#metodo-e-execucao) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoaresPaiva) | Observação da sessão remota | [Método e execução](#metodo-e-execucao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Desenho manual da moldura e dos recortes, condução do piloto e da sessão de validação, análise e redação | [Método e execução](#metodo-material-e-execucao) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Observação da sessão remota, análise conjunta das evidências e revisão do relato | [Método e execução](#metodo-material-e-execucao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Observação da sessão remota e apoio à consolidação dos achados | [Método e execução](#metodo-material-e-execucao) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoaresPaiva) | Observação da sessão remota | [Método e execução](#metodo-material-e-execucao) |
 | Antigravity (Google DeepMind) | Extração da transcrição das gravações, organização das tabelas de evidências e apoio à redação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no relato do protótipo de papel.</p>

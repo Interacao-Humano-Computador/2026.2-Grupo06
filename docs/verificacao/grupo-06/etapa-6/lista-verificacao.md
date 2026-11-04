@@ -40,7 +40,7 @@ A Tabela 2 recebe a conferência dos critérios gerais.
 | [D05](../../listas/etapa-6.md#d05) | Os artefatos têm introdução que esclarece objetivo e escopo? | Incompleto | 03/11/2026 23:30 | Há artefato sem introdução |
 | [D06](../../listas/etapa-6.md#d06) | O cronograma executado registra quem fez cada atividade e suas datas reais? | Incompleto | 03/11/2026 23:30 | Falta registro de Heitor |
 | [D07](../../listas/etapa-6.md#d07) | Há atas das reuniões da etapa, com data, horários, pessoas e decisões? | Não | 03/11/2026 23:30 | Sem ata da Etapa 6 |
-| [D08](../../listas/etapa-6.md#d08) | As gravações das reuniões e inspeções realizadas estão acessíveis e autorizadas? | Incompleto | 03/11/2026 23:30 | Só esta inspeção tem gravação |
+| [D08](../../listas/etapa-6.md#d08) | As gravações das reuniões e inspeções realizadas estão acessíveis e autorizadas? | Sim | 03/11/2026 23:30 |  |
 | [D09](../../listas/etapa-6.md#d09) | O vídeo da apresentação da Etapa 6 está acessível na categoria prevista pelo grupo? | Incompleto | 03/11/2026 23:30 | Falta o vídeo de Heitor |
 | [D10](../../listas/etapa-6.md#d10) | A contribuição aparece no início de cada artefato e corresponde a quem atuou nele? | Sim | 03/11/2026 23:30 |  |
 | [D11](../../listas/etapa-6.md#d11) | O uso de IA está identificado na contribuição e nos agradecimentos? | Sim | 03/11/2026 23:30 |  |
