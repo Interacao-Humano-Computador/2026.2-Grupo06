@@ -164,7 +164,7 @@ A Tabela 8 liga os achados anteriores ao papel e indica o destino de cada decis�
 <p class="caption">Tabela 8 — Rastreabilidade entre evidências, decisões e próxima versão.</p>
 <p class="source">Fonte: relatos da Etapa 5 e resultados desta sessão.</p>
 
-Antes da alta fidelidade, seguem pendentes as regras de momento de ocupação da vaga, confirmação, lista de espera, cancelamento e dados mínimos. O plano de alta fidelidade também deve separar moderador e operador, e fazer perguntas neutras sobre o resultado.
+Antes da alta fidelidade, seguem pendentes as regras de momento de ocupação da vaga, confirmação, lista de espera, cancelamento e dados mínimos. O [plano de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md) transforma esses pontos em requisitos e tarefas, e também separa as funções da equipe.
 
 ## Limitações
 
@@ -194,6 +194,7 @@ A Tabela 9 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Registra a sessão, o protótipo PP-1.0, os problemas e os encaminhamentos | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| `0.2` | 03/11/2026 | Liga os encaminhamentos ao plano de alta fidelidade | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 <p class="caption">Tabela 9 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

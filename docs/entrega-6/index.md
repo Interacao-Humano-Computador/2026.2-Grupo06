@@ -62,6 +62,8 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     - [Relato da avaliação do papel](individual/luis/relato-prototipo-papel.md)
     - [Foto do protótipo de papel](individual/luis/relato-prototipo-papel.md#metodo-e-versao-avaliada)
     - [Gravação da avaliação do papel com PART-PP01](individual/luis/relato-prototipo-papel.md#registro-e-video)
+    - [Planejamento da avaliação de alta fidelidade](individual/luis/planejamento-avaliacao-alta-fidelidade.md)
+    - [Planejamento do relato de alta fidelidade](individual/luis/planejamento-relato-alta-fidelidade.md)
 
 ## Verificação e continuidade
 
@@ -82,6 +84,7 @@ A Tabela 2 registra a versão deste artefato.
 | `0.3` | 03/11/2026 | Liga o recorte de Caio à gravação da avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/11/2026 | Troca o acesso às telas de Caio pelas fotografias do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.5` | 03/11/2026 | Inclui o recorte individual de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| `0.6` | 03/11/2026 | Liga os planejamentos de alta fidelidade de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
