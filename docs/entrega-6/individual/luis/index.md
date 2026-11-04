@@ -25,8 +25,8 @@ A Tabela 2 mostra a situação dos três artefatos previstos no plano de ensino,
 | Artefato | Situação |
 | --- | --- |
 | [Relato dos resultados da avaliação do papel](relato-prototipo-papel.md) | Publicado, com foto das folhas e vídeo da sessão |
-| Planejamento da avaliação de alta fidelidade | Pendente |
-| Planejamento do relato de alta fidelidade | Pendente |
+| [Planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md) | Publicado; o protótipo AF-1.0 ainda será construído |
+| [Planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md) | Publicado |
 
 <p class="caption">Tabela 2 — Artefatos de Luís para a Etapa 6.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -42,6 +42,7 @@ A Tabela 3 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Cria o índice individual e registra o relato do papel | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| `0.2` | 03/11/2026 | Liga os planejamentos de alta fidelidade | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
