@@ -40,7 +40,7 @@ As entrevistas de análise de tarefas e storyboard foram realizadas e estão reg
 | 0.2 | 24/10/2026 | Acrescenta HTA/CTT preliminares e inspeção documental | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.3 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.4 | 25/10/2026 | Registra entrevistas de HTA/CTT e storyboard, links de vídeo e transcrições em PDF | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.5 | 03/11/2026 | Liga os planejamentos do papel ao relato da Etapa 6 | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| 0.5 | 03/11/2026 | Liga os planejamentos do papel ao relato da Etapa 6 | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

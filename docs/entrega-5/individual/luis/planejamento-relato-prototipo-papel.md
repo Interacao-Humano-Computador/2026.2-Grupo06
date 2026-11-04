@@ -62,7 +62,7 @@ Definir datas após confirmar a regra funcional, o participante e a disponibilid
 | --- | --- | --- | --- | --- |
 | 0.1 | 24/10/2026 | Estrutura do relato e fichas para a proposta de agendamento em plenárias | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.2 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.3 | 03/11/2026 | Aponta para o relato da sessão realizada, preservando o plano | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
+| 0.3 | 03/11/2026 | Aponta para o relato da sessão realizada, preservando o plano | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
