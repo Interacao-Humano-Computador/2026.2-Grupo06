@@ -58,7 +58,11 @@ Cada pessoa incorpora a própria gravação na seção correspondente. O vídeo 
 
 ### Israel Soares de Paiva
 
-- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
+- Vídeo individual da apresentação da Etapa 6: [Vídeo](https://www.youtube.com/watch?v=iwQLsozWMsI).
+- Categoria do Youtube: Não Listado
+- Data da Gravação:03/11/2026
+- Duração:4 min 4 s
+- Participante: Israel Soares de Paiva
 
 ### Luís Henrique Luna de Arruda
 
