@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-O relato da Etapa 7 responderá a AF-Q1–AF-Q6 do [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md), usando as execuções de AF-T1–AF-T5 no [protótipo AF-1.0](../../../prototipos/israel/alta-fidelidade/index.html). Este documento fixa a estrutura e os campos antes da coleta.
+O relato da Etapa 7 responderá a AF-Q1–AF-Q6 do [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md), usando as execuções de AF-T1–AF-T5 no protótipo AF-1.0. Este documento fixa a estrutura e os campos antes da coleta.
 
 ## Estrutura do relato
 

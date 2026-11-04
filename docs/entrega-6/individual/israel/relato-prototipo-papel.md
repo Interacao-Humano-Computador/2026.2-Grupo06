@@ -21,8 +21,6 @@ Este relato acompanha a avaliação de **agendar uma visita ao Senado Federal**,
 
 A persona de referência é [Marta Oliveira](../../../entrega-2/individual/israel/persona.md). Os encaminhamentos RP01–RP05 e AT-P01–AT-P05 vêm dos relatos do [storyboard](../../../entrega-5/individual/israel/relato-storyboard.md) e da [análise de tarefas](../../../entrega-5/individual/israel/relato-analise-tarefas.md). A sessão com o participante PAP-VIS01 foi realizada em 03/11/2026 e seus resultados constam na seção [Resultados da sessão](#resultados-da-sessao).
 
-[Reprojeto de alta fidelidade](../../../prototipos/israel/alta-fidelidade/index.html){ .md-button }
-
 ## Método e objetivos
 
 **Autor do item:** Israel Soares de Paiva.

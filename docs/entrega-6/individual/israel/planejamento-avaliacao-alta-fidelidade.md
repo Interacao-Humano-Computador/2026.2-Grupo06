@@ -17,9 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este plano avalia o [protótipo navegável AF-1.0](../../../prototipos/israel/alta-fidelidade/index.html) do agendamento de visita ao Senado Federal. Retoma os pontos PAP-R01–PAP-R06 do [relato do papel](relato-prototipo-papel.md#analise-do-reprojeto). O relato desta avaliação será entregue na **Etapa 7, em 15/11/2026**; este documento e seu [planejamento de relato](planejamento-relato-alta-fidelidade.md) compõem a Etapa 6.
-
-[Abrir protótipo AF-1.0](../../../prototipos/israel/alta-fidelidade/index.html){ .md-button .md-button--primary }
+Este plano avalia o protótipo navegável AF-1.0 do agendamento de visita ao Senado Federal. Retoma os pontos PAP-R01–PAP-R06 do [relato do papel](relato-prototipo-papel.md#analise-do-reprojeto). O relato desta avaliação será entregue na **Etapa 7, em 15/11/2026**; este documento e seu [planejamento de relato](planejamento-relato-alta-fidelidade.md) compõem a Etapa 6.
 
 ## Fundamentação
 
