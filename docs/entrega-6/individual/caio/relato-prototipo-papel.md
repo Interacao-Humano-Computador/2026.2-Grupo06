@@ -10,6 +10,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação do relato, fichas e decisões de reprojeto | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Conferência das falas com a gravação e preenchimento dos localizadores | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +19,9 @@ A Tabela 1 registra a contribuição neste artefato.
 
 Este relato acompanha a avaliação de **enviar e acompanhar uma ideia legislativa**, conforme o [plano da Etapa 5](../../../entrega-5/individual/caio/planejamento-avaliacao-prototipo-papel.md) e o [planejamento do relato](../../../entrega-5/individual/caio/planejamento-relato-prototipo-papel.md). O recorte abrange acesso ao serviço, conferência do texto, recebimento e acompanhamento da ideia.
 
-[Telas e cartões em PDF](../../../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf){ .md-button }
+A sessão com PAP-P01 foi gravada em 03/11/2026, no Google Meet, das 21h28 às 21h33. O arquivo dura 5 min 8 s. O [vídeo](#registro-e-video) está nesta página, na categoria não listado. As falas abaixo foram redigidas para leitura e localizadas nesse arquivo.
+
+[Fotografias das telas e cartões](../../../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf){ .md-button }
 [Reprojeto de alta fidelidade](../../../prototipos/caio/alta-fidelidade/index.html){ .md-button }
 
 ## Método e objetivos
@@ -39,15 +42,16 @@ A Tabela 2 identifica os papéis confirmados para a gravação.
 | --- | --- |
 | Avaliador, moderador e operador das folhas | Caio Breno de Souza Bezerra |
 | Observadores | Bruno Ferreira Dornelas e Israel Soares de Paiva |
-| Câmera, enquadramento e gravação no Meet | Luís Henrique Arruda Luna |
-| Participante principal | PAP-P01; perfil e experiência com o serviço a registrar na sessão |
-| Piloto | PP-PAP01, pessoa distinta da principal; registrar separadamente |
-| Modalidade e material | Google Meet, câmera mostrando as bases e os cartões; PP-2.0 |
+| Câmera das folhas | Caio Breno de Souza Bezerra, no próprio enquadramento do Meet |
+| Gravação e presença de Luís | Luís Henrique Arruda Luna está na sala. O arquivo publicado é esta gravação |
+| Participante principal | PAP-P01. Nome e contato ficam fora do site. A gravação não informa experiência anterior com o serviço |
+| Piloto | PP-PAP01 não aparece neste arquivo. Os resultados abaixo são só da sessão com PAP-P01 |
+| Modalidade e material | Google Meet, 03/11/2026, 21h28–21h33, 5 min 8 s. A câmera de Caio mostra as bases e os cartões; PP-2.0 |
 
 <p class="caption">Tabela 2 — Papéis e condições da avaliação.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: gravação com PAP-P01, 03/11/2026.</p>
 
-No Meet, a pessoa aponta ou informa o controle escolhido e verbaliza seu entendimento. Caio apresenta os objetivos e movimenta as bases e os cartões conforme as ações. Bruno registra o percurso e eventuais ajudas; Israel registra comentários e dificuldades; Luís cuida do enquadramento e da gravação. A análise relaciona esses registros às perguntas de avaliação.
+No Meet, PAP-P01 diz onde clicaria e o que entendeu. Caio abre a sessão, avisa que não vai indicar o caminho (0:28) e troca as folhas na própria câmera. Bruno, Israel e Luís estão na sala. Israel permanece com a câmera desligada. A análise abaixo usa o que se ouve no vídeo. Por volta de 1:08, PAP-P01 autoriza a participação e a gravação para a disciplina. O termo fica fora do repositório.
 
 ### Organização do material
 
@@ -64,24 +68,24 @@ A Tabela 3 relaciona tarefas, materiais e critérios. Os registros de vídeo e n
 
 | Tarefa / pergunta | Ação e telas | Critério de conclusão | Evidência / resultado |
 | --- | --- | --- | --- |
-| PP-T1 / PP-Q1 | Encontrar o serviço e chegar ao formulário; S01 → S02 → S03 | Localizar o envio e retomar o percurso após o acesso | Vídeo: percurso, eventual ajuda e chegada ao formulário |
-| PP-T2 / PP-Q2 | Conferir o texto e revisar; S03 → S04 → S05 | Conferir o texto, reconhecer a condição após envio e confirmar uma vez | Vídeo: leitura da revisão e confirmação |
-| PP-T3 / PP-Q3 | Interpretar o recebimento; S05 | Reconhecer DEMO-001 e próximo passo; distinguir recebida de publicada e de lei aprovada | Vídeo: explicação do recebimento e escolha de acompanhamento |
-| PP-T4 / PP-Q4 | Acompanhar a mesma ideia; S06 → K04 → X02 | Localizar o estado e explicar publicação para apoios, distinguindo de lei aprovada | Vídeo: acompanhamento e interpretação da atualização |
-| Todas / PP-Q5 | Verbalizar entendimento e sintetizar a experiência | Associar os comentários às telas e ações | Vídeo: comentários durante a interação e síntese da experiência |
+| PP-T1 / PP-Q1 | Encontrar o serviço e chegar ao formulário; S01 → S02 → S03 | Localizar o envio e retomar o percurso após o acesso | Sem ajuda, 1:12–1:54. Localiza “Enviar ideia legislativa”, lê a avaliação antes da publicação e chega ao formulário |
+| PP-T2 / PP-Q2 | Conferir o texto e revisar; S03 → S04 → S05 | Conferir o texto, reconhecer a condição após envio e confirmar uma vez | Sem ajuda, 1:54–2:38. Confere título e descrição, lê que não poderá editar depois e confirma uma vez |
+| PP-T3 / PP-Q3 | Interpretar o recebimento; S05 | Reconhecer a referência e o próximo passo; distinguir recebida de publicada e de lei aprovada | Sem ajuda, 2:45–3:11. Reconhece o recebimento, a referência, a data e diz que ainda não é lei |
+| PP-T4 / PP-Q4 | Acompanhar a mesma ideia; S06 → K04 → X02 | Localizar o estado e explicar publicação para apoios, distinguindo de lei aprovada | Sem ajuda, 3:11–4:09. Vê “Recebida”, depois “Publicada para receber apoios”, e segue no mesmo lugar |
+| Todas / PP-Q5 | Verbalizar entendimento e sintetizar a experiência | Associar os comentários às telas e ações | 4:16–4:56. Caminho tranquilo e confirmação clara; no fecho usa a palavra “aprovação” |
 
 <p class="caption">Tabela 3 — Tarefas e critérios da avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 Dados de exemplo: título **“Orientações claras nos serviços”**; descrição **“Explicar documentos e etapas em linguagem simples.”** O texto permite verificar a conferência do conteúdo antes da confirmação de envio. Todos os identificadores e estados das folhas pertencem ao protótipo.
 
-Classificar cada execução como **sem ajuda, com ajuda, não concluída ou não executada**, com justificativa. Troca errada de folha, áudio cortado e falha de câmera são ocorrências de condução. As tarefas podem ocorrer em sequência; qualquer reinício deve ser anotado. Tempo de troca de papel não comprova eficiência do sistema.
+As quatro tarefas foram classificadas como **sem ajuda**. Troca de folha, áudio e câmera não interromperam o percurso. As tarefas ocorreram em sequência, sem reinício. O tempo de troca de papel não entra como medida de eficiência.
 
 <span id="analise-do-reprojeto"></span>
 
 ## Análise das telas e decisões de projeto
 
-A análise documental das telas foi consolidada em 03/11/2026. A Tabela 4 apresenta a conclusão sobre cada decisão de interface, vinculada aos resultados anteriores. A comprovação das ações e da compreensão da pessoa será associada ao vídeo da sessão.
+A análise documental das telas foi consolidada em 03/11/2026. A Tabela 4 apresenta a conclusão sobre cada decisão de interface, vinculada aos resultados anteriores. As ações e a compreensão de PAP-P01 estão no [vídeo da sessão](#registro-e-video).
 
 | ID / origem | Local e fator de uso | Análise da interface | Decisão incorporada |
 | --- | --- | --- | --- |
@@ -93,55 +97,74 @@ A análise documental das telas foi consolidada em 03/11/2026. A Tabela 4 aprese
 <p class="caption">Tabela 4 — Análise das telas e decisões incorporadas ao reprojeto.</p>
 <p class="source">Fonte: análise documental do material PP-2.0 e do protótipo AF-1.1, com base em RP01–RP04 e AT-P01–AT-P04 (2026).</p>
 
-O protótipo de alta fidelidade mantém as mesmas decisões de navegação e acrescenta validação dos campos e transições executáveis. Alterações posteriores devem indicar o componente modificado e a versão correspondente.
+O protótipo de alta fidelidade mantém as mesmas decisões de navegação e acrescenta validação dos campos e transições executáveis. Alterações posteriores devem indicar o componente modificado e a versão correspondente. Na sessão, PAP-P01 percorreu as quatro decisões sem ajuda. No comentário final, ao falar do acompanhamento, usou a palavra “aprovação”; durante PP-T4, acompanhou o aviso de que a publicação não é lei aprovada.
 
 <span id="problemas-corrigidos-e-pendentes"></span>
 
 ## Conferência e encaminhamento
 
-A Tabela 5 registra a conferência das soluções presentes na proposta. Os resultados de uso serão vinculados ao vídeo e às notas da avaliação.
+A Tabela 5 registra a conferência das soluções e o que PAP-P01 fez na gravação.
 
-| Aspecto | Evidência na proposta | Encaminhamento para a avaliação |
+| Aspecto | Evidência na proposta | O que a sessão mostra |
 | --- | --- | --- |
-| Entrada e continuidade | S01–S03: serviço identificado e retorno ao formulário após o acesso | Observar o percurso escolhido sem indicar controles |
-| Conferência antes do envio | S04: texto completo, aviso e confirmação explícita | Observar a leitura e a decisão de confirmar o envio |
-| Compreensão do resultado | S05: título, referência, data, estado e próximo passo | Registrar a explicação espontânea do recebimento |
-| Acompanhamento | S06 e X02: mesma ideia, etapas e significado de publicação | Registrar a leitura da atualização após o cartão K04 |
+| Entrada e continuidade | S01–S03: serviço identificado e retorno ao formulário após o acesso | 1:17–1:54. Procura onde participar, clica em “Enviar ideia legislativa”, lê que a ideia passa por avaliação antes da publicação e chega ao formulário pelo acesso |
+| Conferência antes do envio | S04: texto completo, aviso e confirmação explícita | 1:54–2:38. Lê título e descrição, diz que não há dado pessoal, abre “Revisar ideia”, reconhece que não poderá editar depois e confirma uma vez |
+| Compreensão do resultado | S05: título, referência, data, estado e próximo passo | 2:45–3:11. “Minha ideia foi recebida.” Cita título, referência e data, separa o recebimento de uma lei e segue para “Acompanhar esta ideia” |
+| Acompanhamento | S06 e X02: mesma ideia, etapas e significado de publicação | 3:11–4:09. Encontra a mesma referência em “Recebida”. Depois da atualização, lê “Publicada para receber apoios” e diz que outras pessoas podem apoiar, sem tratar isso como lei aprovada |
 
-<p class="caption">Tabela 5 — Conferência da proposta consolidada.</p>
-<p class="source">Fonte: análise documental das telas PP-2.0 e do protótipo AF-1.1 (2026).</p>
+<p class="caption">Tabela 5 — Conferência da proposta e registro da sessão com PAP-P01.</p>
+<p class="source">Fonte: material PP-2.0 e gravação de 03/11/2026.</p>
 
-Caso haja dificuldade, registrar tela, consequência, evidência e prioridade. M3 não integra os indicadores deste protocolo, pois não há uma tarefa específica de recuperação de incidente.
+Nenhuma das quatro tarefas ficou sem conclusão nem pediu ajuda de percurso. O texto de exemplo não traz telefone: PAP-P01 lê o aviso e diz que a descrição não tem dado pessoal. A folha de retorno incerto, prevista no plano da Etapa 5, não entra nesta gravação. Entre “Recebida” e a publicação há uma pausa compatível com o cartão K04 (cerca de 3:35–3:51). M3 fica fora dos indicadores, porque não houve tarefa de recuperação de incidente.
+
+No fecho (4:23–4:56), PAP-P01 diz que deu para seguir o caminho sem dificuldade, que a confirmação do envio ficou clara e que encontrou onde acompanhar. Na mesma fala, descreve o andamento como “essa aprovação”. A tarefa já tinha separado publicação e lei. O uso dessa palavra fica pendente, prioridade baixa, sem correção de folha e sem novo teste neste arquivo.
 
 ## Registro e vídeo
 
-**Vídeo da avaliação:** a anexar após a gravação no Google Meet. Publicar somente a versão autorizada; o link não listado permite acesso a quem o possui.
+O Vídeo 1 é a sessão inteira, da apresentação ao encerramento. Categoria no YouTube: **não listado**. Link: [https://youtu.be/MYhU_5oUe8M](https://youtu.be/MYhU_5oUe8M). Duração: 5 min 8 s.
 
-A Tabela 6 concentra os campos de fechamento, evitando repetir pendências pelo relato.
+??? note "Vídeo 1 — Avaliação do protótipo de papel com PAP-P01"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/MYhU_5oUe8M"
+        title="Avaliação do protótipo de papel com PAP-P01"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+    <p class="caption">Vídeo 1 — Avaliação do protótipo de papel com PAP-P01.</p>
+    <p class="source">Fonte: gravação conduzida por Caio Breno de Souza Bezerra, 03/11/2026, 21h28–21h33. Categoria no YouTube: não listado.</p>
+
+A Tabela 6 concentra o fechamento da sessão.
 
 | Campo | Registro da sessão |
 | --- | --- |
-| Data, início, fim e duração efetivos | A registrar |
-| Perfil de PAP-P01 e exposição anterior | A registrar sem identificação pessoal |
-| Piloto: data, pessoa distinta e ajustes do procedimento | A registrar, separado dos resultados principais |
-| Autorização para participar, gravar e disponibilizar | Conferir antes de iniciar; termo fora do repositório |
+| Data, início, fim e duração efetivos | 03/11/2026, 21h28–21h33, 5 min 8 s. Horário lido no relógio da gravação |
+| Perfil de PAP-P01 e exposição anterior | A gravação não informa idade, experiência com o serviço nem contato anterior com o material. Nome e contato ficam fora do site |
+| Piloto: data, pessoa distinta e ajustes do procedimento | PP-PAP01 não aparece neste arquivo |
+| Autorização para participar, gravar e disponibilizar | Autorização verbal por volta de 1:08. Termo fora do repositório |
 | Versão do material | PP-2.0 |
-| Link do vídeo e localizadores de PP-T1–PP-T4 | A anexar |
+| Link do vídeo e localizadores de PP-T1–PP-T4 | [Vídeo 1](https://youtu.be/MYhU_5oUe8M). T1 1:12; T2 1:54; T3 2:45; T4 3:11; fecho 4:16 |
 
 <p class="caption">Tabela 6 — Identificação e fechamento da sessão.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+<p class="source">Fonte: gravação com PAP-P01, 03/11/2026.</p>
 
 ## Síntese e continuidade
 
-A análise das telas conclui que a proposta cobre os quatro objetivos do recorte: entrada no serviço, revisão antes do envio, confirmação identificável e acompanhamento do estado. As melhorias das etapas anteriores estão representadas na versão em papel; a alta fidelidade mantém o percurso e acrescenta validação e transições executáveis. A alta fidelidade também oferece uma página de orientações acessível pelo formulário e pelo acompanhamento. As evidências da sessão orientarão a consolidação das conclusões de uso.
+A análise das telas conclui que a proposta cobre os quatro objetivos do recorte: entrada no serviço, revisão antes do envio, confirmação identificável e acompanhamento do estado. Na gravação, PAP-P01 cumpriu esses quatro percursos sem ajuda. As melhorias das etapas anteriores estão representadas na versão em papel; a alta fidelidade mantém o percurso e acrescenta validação e transições executáveis. A alta fidelidade também oferece uma página de orientações acessível pelo formulário e pelo acompanhamento.
 
-A gravação das quatro tarefas permitirá relacionar essas decisões às escolhas, explicações e dificuldades da pessoa. O relato diferencia a presença de uma solução na interface de sua eficácia durante o uso. Os encaminhamentos seguem para AF-T1–AF-T4 do [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md). Com um participante, a avaliação descreve este caso e suas condições; não estima a experiência de toda a população.
+O relato separa a presença de uma solução na interface do que esta pessoa fez com ela. A pendência de linguagem no fecho segue para reteste em AF-T4 do [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md). Com um participante, a avaliação descreve este caso e suas condições; não estima a experiência de toda a população.
 
 O estudo não mede recuperação de incidente, recordação após sete dias, comparação de eficiência com o portal oficial nem moderação real. A opinião final é qualitativa; só contabilizar M6 se a escala numérica for aplicada. A continuidade no Meet depende de áudio e legibilidade. Identificador, autenticação e mudança de estado são representações da interface proposta.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -150,6 +173,8 @@ A Tabela 7 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do relato e documentação do protótipo de papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 03/11/2026 | Incorpora a gravação com PAP-P01, a duração e os localizadores de PP-T1–PP-T4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Substitui o gabarito impresso pelas fotografias do papel usado na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 7 — Histórico de versão.</p>

@@ -24,7 +24,7 @@ Apresentação dos três artefatos da Etapa 6, conforme o plano de ensino [1]. A
 
     Percurso sugerido: [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md) → [reprojeto navegável](../prototipos/caio/alta-fidelidade/index.html) → [planejamento da avaliação](../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md) → [planejamento do relato](../entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md).
 
-    A gravação da avaliação com PAP-P01 fica no [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video), separada da apresentação.
+    A gravação da avaliação com PAP-P01, de 03/11/2026, 21h28–21h33, fica no [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video). Link não listado: [https://youtu.be/MYhU_5oUe8M](https://youtu.be/MYhU_5oUe8M). Essa sessão é distinta da apresentação.
 
 
 ## Agradecimentos
@@ -38,6 +38,7 @@ A Tabela 2 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração da página de apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 03/11/2026 | Indica a gravação da avaliação do papel, distinta do vídeo de apresentação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>

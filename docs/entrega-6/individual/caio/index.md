@@ -10,6 +10,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da entrega e integração dos protótipos | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Conferência das falas da avaliação do papel com a gravação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -42,9 +43,9 @@ A Tabela 2 dá acesso direto aos três artefatos previstos no plano de ensino, p
 
 ## Protótipos e gravações
 
-- **Papel:** [telas e cartões de texto para imprimir ou redesenhar](../../../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf). Material PP-2.0: 3 bases reutilizáveis e 11 cartões, em 6 páginas A4 paisagem.
+- **Papel:** [fotografias das telas e dos cartões usados na sessão](../../../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf). Material PP-2.0 desenhado à mão: bases de entrada, formulário e recebimento, mais os cartões móveis.
 - **Alta fidelidade:** [protótipo navegável AF-1.1](../../../prototipos/caio/alta-fidelidade/index.html), utilizável também no celular. Acesso de demonstração, preenchimento, revisão, recebimento e acompanhamento funcionam localmente. AF-1.1 organiza o fluxo por etapas, mostra contadores nos campos e destaca estado e próximo passo.
-- **Avaliação do papel:** Google Meet, prevista para a noite de 03/11. Caio opera; Bruno e Israel observam; Luís cuida do enquadramento e da gravação. [Registro e vídeo](relato-prototipo-papel.md#registro-e-video).
+- **Avaliação do papel:** Google Meet, 03/11/2026, 21h28–21h33, 5 min 8 s, com PAP-P01. Caio opera as folhas na própria câmera; Bruno, Israel e Luís estão na sala. [Vídeo não listado](https://youtu.be/MYhU_5oUe8M) e [registro](relato-prototipo-papel.md#registro-e-video).
 - **Apresentação da etapa:** [página própria para o vídeo](../../../apresentacoes/etapa-06.md). É uma gravação distinta da avaliação com participante.
 
 ## Conferência da entrega
@@ -55,7 +56,7 @@ Marcos do plano: **entrega 03/11 · inspeção 04/11 · apresentação 05/11**. 
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas da avaliação do papel. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -64,6 +65,8 @@ A Tabela 3 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Organização do recorte individual e dos materiais da avaliação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 03/11/2026 | Liga a avaliação do papel à gravação de 03/11 com PAP-P01 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Aponta o PDF para as fotografias do material usado na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>

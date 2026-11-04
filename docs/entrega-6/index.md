@@ -33,9 +33,10 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     [Abrir entrega individual](individual/caio/index.md){ .md-button .md-button--primary }
 
     - [Relato da avaliação do papel](individual/caio/relato-prototipo-papel.md)
+    - [Gravação da avaliação do papel com PAP-P01](individual/caio/relato-prototipo-papel.md#registro-e-video)
     - [Planejamento da avaliação de alta fidelidade](individual/caio/planejamento-avaliacao-alta-fidelidade.md)
     - [Planejamento do relato de alta fidelidade](individual/caio/planejamento-relato-alta-fidelidade.md)
-    - [Telas para desenhar ou imprimir](../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf)
+    - [Fotografias das telas e cartões](../assets/docs/entrega-6/caio/TELAS_E_CARTOES_PAPEL.pdf)
     - [Protótipo navegável](../prototipos/caio/alta-fidelidade/index.html)
 
 ??? abstract "Heitor Pinheiro Gonçalves das Chagas"
@@ -67,6 +68,8 @@ A Tabela 2 registra a versão deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Organização dos artefatos individuais da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/11/2026 | Inclusão do recorte individual de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Liga o recorte de Caio à gravação da avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 03/11/2026 | Troca o acesso às telas de Caio pelas fotografias do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
