@@ -8,8 +8,8 @@ A Tabela 1 registra a contribuição neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação de Caio e dos acessos à entrega | [Conteúdo](#introducao) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do roteiro e acessos da entrega de Bruno | [Conteúdo](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do vídeo da apresentação individual de Bruno | [Vídeo de Bruno](#bruno-ferreira-dornelas) |
 | Codex (OpenAI) / Antigravity (Google DeepMind) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -17,23 +17,77 @@ A Tabela 1 registra a contribuição neste artefato.
 
 ## Introdução
 
-Apresentação dos três artefatos da Etapa 6, conforme o plano de ensino [1]. A apresentação em aula é em **05/11/2026**. O [índice da etapa](../entrega-6/index.md) reúne os documentos.
+Este artefato reúne as gravações da apresentação da Etapa 6. Cada integrante publica o próprio vídeo, na categoria **não listado**, sobre o relato da avaliação do protótipo de papel e sobre os planejamentos da avaliação de alta fidelidade e do relato desses resultados [1].
 
-??? abstract "Bruno Ferreira Dornelas"
+Os critérios da etapa estão na [Lista de verificação da Etapa 6](../verificacao/listas/etapa-6.md). A apresentação em aula é em **05/11/2026**. O [índice da etapa](../entrega-6/index.md) reúne os documentos.
 
-    **Vídeo da apresentação:** a anexar na categoria não listado após a gravação.
+## Vídeos
 
-    Percurso sugerido: [relato do protótipo de papel](../entrega-6/individual/bruno/relato-prototipo-papel.md) → [planejamento da avaliação de alta fidelidade](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) → [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md).
+Cada pessoa incorpora a própria gravação na seção correspondente. A gravação da avaliação com participante fica no relato do papel e não substitui esta apresentação.
 
-    As gravações do [teste-piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) e da [validação com PP-P01 (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) encontram-se no [relato do protótipo de papel](../entrega-6/individual/bruno/relato-prototipo-papel.md#tarefas-executadas-e-sumario-de-evidencias), separadas da apresentação da etapa.
+### Bruno Ferreira Dornelas
 
-??? abstract "Caio Breno de Souza Bezerra"
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/UQWIHJG5idI](https://youtu.be/UQWIHJG5idI)
+- Data da gravação: 03/11/2026
+- Duração: 5 min 36 s
+- Participante: Bruno Ferreira Dornelas
+- Percurso: [relato do protótipo de papel](../entrega-6/individual/bruno/relato-prototipo-papel.md), [planejamento da avaliação de alta fidelidade](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md)
+- Avaliação com PP-P01, distinta desta apresentação: [gravação do teste-piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) e [gravação da validação com PP-P01 (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE)
 
-    **Vídeo da apresentação:** a anexar na categoria não listado após a gravação.
+??? note "Vídeo — Apresentação da Etapa 6, Bruno Ferreira Dornelas"
 
-    Percurso sugerido: [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md) → [reprojeto navegável](../prototipos/caio/alta-fidelidade/index.html) → [planejamento da avaliação](../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md) → [planejamento do relato](../entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md).
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/UQWIHJG5idI"
+        title="Apresentação da Etapa 6 — Bruno Ferreira Dornelas"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
-    A gravação da avaliação com PAP-P01 fica no [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video), separada da apresentação.
+### Caio Breno de Souza Bezerra
+
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/vaXEtY_bNgE](https://youtu.be/vaXEtY_bNgE)
+- Data da gravação: 03/11/2026
+- Duração: 3 min 54 s
+- Participante: Caio Breno de Souza Bezerra
+- Percurso: [relato do papel](../entrega-6/individual/caio/relato-prototipo-papel.md), [reprojeto navegável](../prototipos/caio/alta-fidelidade/index.html), [planejamento da avaliação](../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato](../entrega-6/individual/caio/planejamento-relato-alta-fidelidade.md)
+- Avaliação com PAP-P01, distinta desta apresentação: [vídeo da sessão](../entrega-6/individual/caio/relato-prototipo-papel.md#registro-e-video)
+
+??? note "Vídeo — Apresentação da Etapa 6, Caio Breno de Souza Bezerra"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/vaXEtY_bNgE"
+        title="Apresentação da Etapa 6 — Caio Breno de Souza Bezerra"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+### Heitor Pinheiro Gonçalves das Chagas
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
+
+### Israel Soares de Paiva
+
+- Vídeo individual da apresentação da Etapa 6: [Vídeo](https://www.youtube.com/watch?v=iwQLsozWMsI).
+- Categoria do Youtube: Não Listado
+- Data da Gravação:03/11/2026
+- Duração:4 min 4 s
+- Participante: Israel Soares de Paiva
+
+### Luís Henrique Luna de Arruda
+
+- Vídeo individual da apresentação da Etapa 6: **pendente de link**.
 
 
 ## Agradecimentos
@@ -47,7 +101,9 @@ A Tabela 2 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração da página de apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.2` | 03/11/2026 | Inclusão do bloco de apresentação de Bruno Ferreira Dornelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.2` | 03/11/2026 | Indica a gravação da avaliação do papel, distinta do vídeo de apresentação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 03/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 03/11/2026 | Inclusão do vídeo da apresentação individual de Bruno Ferreira Dornelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
