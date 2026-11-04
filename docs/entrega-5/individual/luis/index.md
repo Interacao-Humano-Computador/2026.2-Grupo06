@@ -29,8 +29,8 @@ As entrevistas de análise de tarefas e storyboard foram realizadas e estão reg
 | [Inspeção documental dos modelos](inspecao-modelos.md) | Inspeção analítica concluída; não equivale a avaliação com participante |
 | [Relato da avaliação do storyboard](relato-storyboard.md) | Entrevista registrada; recomendações para disponibilidade e desfecho |
 | [Relato da avaliação da análise de tarefas](relato-analise-tarefas.md) | Entrevista registrada; achados sobre informações, revisão e confirmação |
-| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Plano preliminar; telas do protótipo e regras institucionais ainda pendentes |
-| [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Plano preliminar para a Etapa 6 |
+| [Planejamento da avaliação do protótipo de papel](planejamento-avaliacao-prototipo-papel.md) | Plano da Etapa 5; o protótipo foi construído e avaliado no [relato da Etapa 6](../../../entrega-6/individual/luis/relato-prototipo-papel.md). Regras institucionais seguem pendentes |
+| [Planejamento do relato dos resultados](planejamento-relato-prototipo-papel.md) | Plano aplicado no [relato da Etapa 6](../../../entrega-6/individual/luis/relato-prototipo-papel.md) |
 
 ## Histórico de versão
 
@@ -40,6 +40,7 @@ As entrevistas de análise de tarefas e storyboard foram realizadas e estão reg
 | 0.2 | 24/10/2026 | Acrescenta HTA/CTT preliminares e inspeção documental | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.3 | 24/10/2026 | Designa Caio Breno de Souza Bezerra como revisor; revisão pendente | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.4 | 25/10/2026 | Registra entrevistas de HTA/CTT e storyboard, links de vídeo e transcrições em PDF | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.5 | 03/11/2026 | Liga os planejamentos do papel ao relato da Etapa 6 | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 ## Referências
 
