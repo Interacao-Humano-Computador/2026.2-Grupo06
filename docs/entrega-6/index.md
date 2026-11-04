@@ -10,6 +10,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Abertura da etapa e acesso aos artefatos de Caio | [Conteúdo](#introducao) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do recorte individual de Eventos Interativos da Etapa 6 | [Trabalhos individuais](#trabalhos-individuais) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do próprio recorte de inscrição em plenárias | [Trabalhos individuais](#trabalhos-individuais) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -52,6 +53,16 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     - [Telas do papel](../prototipos/heitor/papel/index.html)
     - [Protótipo navegável](../prototipos/heitor/alta-fidelidade/index.html)
 
+??? abstract "Luís Henrique Arruda Luna"
+
+    **Inscrição em plenárias com limite de vagas.**
+
+    [Abrir entrega individual](individual/luis/index.md){ .md-button .md-button--primary }
+
+    - [Relato da avaliação do papel](individual/luis/relato-prototipo-papel.md)
+    - [Foto do protótipo de papel](individual/luis/relato-prototipo-papel.md#metodo-e-versao-avaliada)
+    - [Gravação da avaliação do papel com PART-PP01](individual/luis/relato-prototipo-papel.md#registro-e-video)
+
 ## Verificação e continuidade
 
 [Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../verificacao/grupo-07/etapa-6/lista-verificacao.md) · [Etapa 5](../entrega-5/index.md) · [Etapa 7](../proximas/etapa-07.md).
@@ -70,6 +81,7 @@ A Tabela 2 registra a versão deste artefato.
 | `0.2` | 03/11/2026 | Inclusão do recorte individual de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/11/2026 | Liga o recorte de Caio à gravação da avaliação do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/11/2026 | Troca o acesso às telas de Caio pelas fotografias do papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 03/11/2026 | Inclui o recorte individual de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>

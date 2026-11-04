@@ -2,6 +2,10 @@
 
 # Planejamento da avaliação do protótipo de papel
 
+!!! info "Atualização de 03/11/2026"
+
+    A sessão ocorreu em 03/11/2026 e seus resultados estão no [relato do protótipo de papel](../../../entrega-6/individual/luis/relato-prototipo-papel.md). O texto abaixo preserva o planejamento feito na Etapa 5.
+
 ## Tabela de contribuição
 
 | Integrante | Contribuição | Artefato / atividade |
@@ -112,6 +116,7 @@ Registrar tarefa, estado inicial, sequência de ações, conclusão, hesitaçõe
 | --- | --- | --- | --- | --- |
 | 0.1 | 24/10/2026 | Plano preliminar para funcionalidade proposta, com perguntas, tarefas e decisões em aberto | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.2 | 24/10/2026 | Especifica telas, cartões e transições do protótipo de papel | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.3 | 03/11/2026 | Aponta para o relato da sessão realizada, preservando o plano | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado; pendente) |
 
 ## Referências
 
