@@ -18,7 +18,7 @@ A Tabela 1 registra a contribuição neste artefato.
 
 Cada pergunta possui **autor, evidência esperada, referência e imagem do trecho utilizado**. Abra um item para consultar sua fundamentação. Os critérios de desenvolvimento vêm do plano de ensino; os critérios de conteúdo foram formulados para a etapa, com base no livro e no cronograma. São uma lista do grupo, não uma transcrição de lista oficial da Etapa 6.
 
-**Esta página define perguntas.** Respostas, versão inspecionada, data e evidências ficam nas tabelas de inspeção: [Grupo 06](../grupo-06/etapa-6/lista-verificacao.md) e [Grupo 07](../grupo-07/etapa-6/lista-verificacao.md).
+**Esta página define perguntas.** Respostas, versão inspecionada, data e evidências ficam nas tabelas de inspeção: [Grupo 06](../grupo-06/etapa-6/lista-verificacao.md) e [Grupo 05](../grupo-05/etapa-6/lista-verificacao.md).
 
 Usar **Sim / Não / Incompleto**; vazio significa não inspecionado. Registrar a evidência da versão realmente examinada.
 

@@ -66,7 +66,7 @@ Para orientar a leitura da documentação e garantir rastreabilidade entre as et
 
 ## Conferência da entrega
 
-[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Autoverificação do Grupo 06](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-07/etapa-6/lista-verificacao.md).
+[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Autoverificação do Grupo 06](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-05/etapa-6/lista-verificacao.md).
 
 Pelo plano de ensino [1], os marcos da Etapa 6 são: **entrega em 03/11 · inspeção em 04/11 · apresentação em 05/11/2026**. Os resultados da avaliação de alta fidelidade serão relatados na **Etapa 7**, com entrega prevista para **15/11/2026**.
 

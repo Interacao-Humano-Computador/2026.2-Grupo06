@@ -50,7 +50,7 @@ A Tabela 2 dá acesso direto aos três artefatos previstos no plano de ensino, p
 
 ## Conferência da entrega
 
-[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Tabela de autoverificação](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-07/etapa-6/lista-verificacao.md).
+[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Tabela de autoverificação](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-05/etapa-6/lista-verificacao.md).
 
 Marcos do plano: **entrega 03/11 · inspeção 04/11 · apresentação 05/11**. A alta fidelidade será avaliada para o relato da Etapa 7, em 15/11.
 

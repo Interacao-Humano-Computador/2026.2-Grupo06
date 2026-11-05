@@ -91,7 +91,7 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
 
 ## Verificação e continuidade
 
-[Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../verificacao/grupo-07/etapa-6/lista-verificacao.md) · [Etapa 5](../entrega-5/index.md) · [Etapa 7](../proximas/etapa-07.md).
+[Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Etapa 5](../entrega-5/index.md) · [Etapa 7](../proximas/etapa-07.md).
 
 ## Agradecimentos
 
