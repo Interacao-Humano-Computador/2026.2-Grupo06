@@ -19,7 +19,7 @@ A Tabela 1 registra as atividades e responsabilidades na condução e documenta�
 
 ## Introdução
 
-Este artefato documenta a **inspeção da Etapa 6** realizada pelo Grupo 06 sobre a documentação produzida pelo **Grupo 07** (portal **PCI Concursos**) na disciplina de Interação Humano-Computador (FCTE/UnB, 2026.2). A entrega inspecionada abrange:
+Este artefato documenta a **inspeção da Etapa 6** realizada pelo Grupo 06 sobre a documentação produzida pelo **Grupo 05** (portal **SEMOB-DF**) na disciplina de Interação Humano-Computador (FCTE/UnB, 2026.2). A entrega inspecionada abrange:
 
 1. Os **relatos dos resultados da avaliação do Protótipo de Papel**, com problemas corrigidos e pendentes;
 2. O **planejamento da avaliação de alta fidelidade** (teste de usabilidade) e o **planejamento do relato de seus resultados**;
@@ -29,14 +29,14 @@ A avaliação segue o método de inspeção formal de Fagan (1976) [3], aplicand
 
 ## Reunião de inspeção e gravação
 
-A reunião de inspeção do Grupo 07 (grupo +1) foi realizada de forma síncrona pelos integrantes do Grupo 06 e disponibilizada no YouTube na categoria **Não listado**:
+A reunião de inspeção do Grupo 05 (grupo -1) foi realizada de forma síncrona pelos integrantes do Grupo 06 e disponibilizada no YouTube na categoria **Não listado**:
 
 - **Categoria no YouTube:** Não listado
 - **Link da gravação:** [https://youtu.be/YqV1ZKPWC5Y](https://youtu.be/YqV1ZKPWC5Y)
 - **Data da gravação:** 04/11/2026, às 20:05 (horário de Brasília)
 - **Duração total:** 20 minutos e 26 segundos
 - **Participantes:**  Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva , Luís Henrique Luna de Arruda e Caio Breno
-- **Repositório / site inspecionado:** [Documentação IHC — Grupo 05 (SEMOB-DF)](https://interacao-humano-computador.github.io/2026.2-Grupo07/) 
+- **Repositório / site inspecionado:** [Documentação IHC — Grupo 05 (SEMOB-DF)](https://interacao-humano-computador.github.io/2026.2-Grupo05/) 
 
 ??? note "Vídeo — Inspeção da Etapa 6 do Grupo 05"
 
@@ -130,7 +130,7 @@ A Tabela 4 resume os resultados obtidos pelo Grupo 05 na inspeção da Etapa 6.
 <p class="caption">Tabela 4 — Síntese quantitativa da inspeção da Etapa 6 do Grupo 07.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-### Principais observações para o Grupo 07
+### Principais observações para o Grupo 05
 
 1. **Desenvolvimento do projeto (D01 a D11):** _Registrar os principais problemas, responsáveis e prazo de correção._
 2. **Relato do protótipo de papel (E6-C01 a E6-C06):** _Registrar os principais problemas, responsáveis e prazo de correção._
@@ -157,10 +157,10 @@ O Codex (OpenAI) apoiou a consulta das fontes e a preparação da ficha-base des
 
 [3] FAGAN, Michael E. Design and code inspections to reduce errors in program development. *IBM Systems Journal*, v. 15, n. 3, p. 182–211, 1976.
 
-[4] GRUPO 07. *Documentação do Projeto de IHC — PCI Concursos (Etapa 6)*. Brasília: FCTE/UnB, 2026. Disponível em: [https://interacao-humano-computador.github.io/2026.2-Grupo07/](https://interacao-humano-computador.github.io/2026.2-Grupo07/). Acesso em: DD nov. 2026.
+[4] GRUPO 05. *Documentação do Projeto de IHC — PCI Concursos (Etapa 6)*. Brasília: FCTE/UnB, 2026. Disponível em: [https://interacao-humano-computador.github.io/2026.2-Grupo07/](https://interacao-humano-computador.github.io/2026.2-Grupo05/). Acesso em: DD nov. 2026.
 
 [5] SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*, v1. Brasília: FCTE/UnB, 2026. p. 8–9 do PDF.
 
-[6] GRUPO 06. *Inspeção da Etapa 6 do Grupo 07 (+1)*, DD nov. 2026. Gravação audiovisual com duração de XXminXXs. Disponível em: [https://youtu.be/YqV1ZKPWC5Y](https://youtu.be/YqV1ZKPWC5Y). Acesso em: DD nov. 2026.
+[6] GRUPO 06. *Inspeção da Etapa 6 do Grupo 05 (-1)*, DD nov. 2026. Gravação audiovisual com duração de XXminXXs. Disponível em: [https://youtu.be/YqV1ZKPWC5Y](https://youtu.be/YqV1ZKPWC5Y). Acesso em: DD nov. 2026.
 
 [7] GRUPO 06. [Lista de verificação da Etapa 6](../../listas/etapa-6.md), versão 0.1. 2026.

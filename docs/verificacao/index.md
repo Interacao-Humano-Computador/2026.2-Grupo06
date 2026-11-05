@@ -32,7 +32,7 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
-As listas das [Etapas 5](listas/etapa-5.md) e [6](listas/etapa-6.md) apresentam perguntas com autor, referência e imagem da fonte. Preencha as respostas nas tabelas de inspeção: [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e [Grupo 07](grupo-07/etapa-6/lista-verificacao.md).
+As listas das [Etapas 5](listas/etapa-5.md) e [6](listas/etapa-6.md) apresentam perguntas com autor, referência e imagem da fonte. Preencha as respostas nas tabelas de inspeção: [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e [Grupo 05](grupo-05/etapa-6/lista-verificacao.md).
 
 ## Agradecimentos
 
