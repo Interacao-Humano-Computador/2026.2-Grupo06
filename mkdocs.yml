@@ -1,4 +1,4 @@
-site_name: Grupo 06
+﻿site_name: Grupo 06
 site_description: Documentação do projeto de Interação Humano-Computador do Grupo 06, FCTE/UnB, 2026.2.
 site_author: Grupo 06 — IHC 2026.2
 site_url: https://interacao-humano-computador.github.io/2026.2-Grupo06/
@@ -291,11 +291,11 @@ nav:
           - Inspeção do Grupo 05:
               - Etapa 2: verificacao/grupo-05/etapa-2/lista-verificacao.md
               - Etapa 4: verificacao/grupo-05/etapa-4/lista-verificacao.md
+              - Etapa 6: verificacao/grupo-05/etapa-6/lista-verificacao.md
           - Inspeção do Grupo 07:
               - Etapa 1: verificacao/grupo-07/etapa-1/lista-verificacao.md
               - Etapa 3: verificacao/grupo-07/etapa-3/lista-verificacao.md
               - Etapa 5: verificacao/grupo-07/etapa-5/lista-verificacao.md
-              - Etapa 6: verificacao/grupo-07/etapa-6/lista-verificacao.md
   - Registros:
       - Atas:
           - atas/index.md
