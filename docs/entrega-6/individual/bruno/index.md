@@ -23,6 +23,7 @@ Recorte individual de **sugestão e acompanhamento de complementos de ideias leg
 [Relato do protótipo de papel](relato-prototipo-papel.md){ .md-button .md-button--primary }
 [Planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md){ .md-button }
 [Planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md){ .md-button }
+[Roteiro para o teste presencial](roteiro-teste-presencial.md){ .md-button }
 
 </div>
 
@@ -33,7 +34,7 @@ A Tabela 2 reúne os três artefatos previstos no plano de ensino [1] para a Eta
 | Artefato | Conteúdo e acesso |
 | --- | --- |
 | Relato dos resultados da avaliação do protótipo de papel | [Método, 11 fotos do material `v1.0`, vídeos do piloto e da sessão com `PP-P01`, evidências `PP-EV01`–`PP-EV09` e problemas `PP-C01`–`PP-C02` / `PP-A01`–`PP-A04`](relato-prototipo-papel.md) |
-| Planejamento da avaliação do protótipo de alta fidelidade | [DECIDE completo, objetivos `AF-O1`–`AF-O3`, questões `AF-Q1`–`AF-Q6`, tarefas `AF-T1`–`AF-T4`, piloto `PP-AF01` e agenda para a Etapa 7](planejamento-avaliacao-alta-fidelidade.md) |
+| Planejamento da avaliação do protótipo de alta fidelidade | [DECIDE completo, objetivos `AF-O1`–`AF-O2`, questões `AF-Q1`–`AF-Q7`, tarefas `AF-T1`–`AF-T4`, piloto `PP-AF01` e agenda para a Etapa 7](planejamento-avaliacao-alta-fidelidade.md) |
 | Planejamento do relato da avaliação de alta fidelidade | [Estrutura do relato da Etapa 7, fichas por sessão e por tarefa, matriz de problemas e regras de interpretação](planejamento-relato-alta-fidelidade.md) |
 
 <p class="caption">Tabela 2 — Artefatos individuais de Bruno para a Etapa 6.</p>
