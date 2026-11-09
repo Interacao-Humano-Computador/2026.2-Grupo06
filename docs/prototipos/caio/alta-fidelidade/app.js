@@ -1,4 +1,4 @@
-/* AF-1.1: estado da sessão em memória; sem credenciais ou submissão real. */
+/* AF-1.2: estado da sessão em memória; sem credenciais ou submissão real. */
 "use strict";
 const model = window.IdeaModel;
 let state = model.create();
@@ -33,7 +33,7 @@ function render() {
   if (page === "inicio") {
     content = `<div class="layout"><section class="card"><div class="card-heading"><p class="eyebrow">Participação cidadã</p><h1>Ideia legislativa</h1><p class="lead">Envie uma proposta e acompanhe sua ideia.</p></div><p>Apresente uma sugestão para criar ou alterar leis. Antes de enviar, você poderá conferir o texto completo.</p><div class="actions"><a class="btn" href="#acesso">Enviar ideia legislativa <span aria-hidden="true">→</span></a><a class="btn secondary" href="#minhas">Minhas ideias</a></div><div class="notice"><strong>Depois do envio</strong><p>A ideia passa por avaliação do conteúdo antes de ser publicada para receber apoios. Você pode consultar o estado neste mesmo espaço.</p></div></section><aside class="card aside"><p class="eyebrow">Como participar</p><h2>Envio e acompanhamento</h2><ol><li>Descreva a mudança que deseja propor.</li><li>Confira o texto antes de confirmar.</li><li>Acompanhe o recebimento e as atualizações.</li></ol><hr><a class="text-link" href="#orientacoes">Orientações sobre o envio →</a></aside></div>`;
   } else if (page === "acesso") {
-    content = `${steps(0)}<div class="layout"><section class="card"><div class="card-heading"><p class="eyebrow">Comece por aqui</p><h1>Antes de escrever</h1><p class="lead">Um acesso, e você continua direto para sua ideia.</p></div><p>A ideia será avaliada antes de aparecer para receber apoios. Confira se já existe uma proposta semelhante e escreva a mudança que deseja propor.</p><div class="notice"><strong>Acesso de demonstração</strong><p>Este botão representa a entrada na sua conta. Não é necessário informar senha ou documento.</p></div><div class="actions">${button(state.authenticated ? "Continuar para escrever →" : "Continuar com acesso de demonstração →", "authenticate")}</div><p class="hint" style="margin-top:18px">Depois do acesso, você retorna ao formulário.</p></section>${aside}</div>`;
+    content = `${steps(0)}<div class="layout"><section class="card"><div class="card-heading"><p class="eyebrow">Comece por aqui</p><h1>Antes de escrever</h1><p class="lead">Um acesso, e você continua direto para sua ideia.</p></div><p>A ideia será avaliada antes de aparecer para receber apoios. O rascunho de exemplo já está no formulário, para você conferir antes de enviar.</p><div class="notice"><strong>Acesso de demonstração</strong><p>Este botão representa a entrada na sua conta. Não é necessário informar senha ou documento.</p></div><div class="actions">${button(state.authenticated ? "Continuar para escrever →" : "Continuar com acesso de demonstração →", "authenticate")}</div><p class="hint" style="margin-top:18px">Depois do acesso, você retorna ao formulário.</p></section>${aside}</div>`;
   } else if (page === "escrever") {
     content = `${steps(1)}<div class="layout"><section class="card"><div class="card-heading"><p class="eyebrow">Rascunho · ainda não enviado</p><h1>Qual é a sua ideia?</h1><p class="lead">Uma descrição simples ajuda a entender sua proposta.</p></div><form id="idea-form" novalidate><div id="form-error" role="alert"></div><div class="field"><div class="field-label"><label for="title">Título da ideia</label><small>Obrigatório</small></div><input type="text" id="title" maxlength="100" value="${esc(state.title)}" required aria-describedby="title-help title-count"><div class="field-help"><span id="title-help">Resuma a mudança em uma frase.</span><span id="title-count" class="counter">${state.title.length}/100</span></div></div><div class="field"><div class="field-label"><label for="description">Descrição da ideia</label><small>Obrigatório</small></div><textarea id="description" maxlength="1000" required aria-describedby="description-help description-count">${esc(state.description)}</textarea><div class="field-help"><span id="description-help">Explique a proposta sem incluir telefone, CPF, endereço ou e-mail.</span><span id="description-count" class="counter">${state.description.length}/1.000</span></div></div><div class="form-bottom"><p class="hint">Você poderá conferir tudo na próxima etapa.</p><div class="actions"><button class="btn" type="submit">Revisar ideia <span aria-hidden="true">→</span></button></div></div></form></section>${aside}</div>`;
   } else if (page === "revisar") {
@@ -52,7 +52,8 @@ function render() {
       const reviewing = state.status === "Em avaliação";
       const statusTitle = published ? "Sua ideia está publicada para receber apoios." : archived ? "O conteúdo foi arquivado." : reviewing ? "O conteúdo está em avaliação." : "Sua ideia foi recebida.";
       const next = published ? "Acompanhe os apoios e as atualizações nesta página. A publicação não significa aprovação de uma lei." : archived ? "Leia o motivo de exemplo antes de preparar outra proposta: conteúdo fora do escopo de atuação do Senado." : reviewing ? "Aguarde a conclusão da avaliação do conteúdo. A atualização aparecerá neste mesmo espaço." : "Aguarde a avaliação do conteúdo antes da publicação. Não é necessário repetir o envio.";
-      content = heading + `<div class="layout"><section class="card"><div class="idea-summary"><div><p class="hint">DEMO-001 · identificação de exemplo</p><h2>${esc(state.title)}</h2></div>${badge(state.status)}</div><div class="status-explainer"><p class="eyebrow">Próximo passo</p><h3>${statusTitle}</h3><p>${next}</p></div><ol class="timeline" aria-label="Etapas da ideia"><li class="${published || archived || reviewing ? "done" : "current"}"><strong>Recebida</strong><p>O envio foi registrado.</p></li><li class="${published || archived ? "done" : reviewing ? "current" : ""}"><strong>Em avaliação do conteúdo</strong><p>Conferência antes da publicação.</p></li><li class="${published || archived ? "current" : ""}"><strong>${archived ? "Arquivada" : "Publicada para receber apoios"}</strong><p>${archived ? "Confira o motivo informado." : "Etapa posterior à avaliação."}</p></li></ol><details class="text-details"><summary>Ler o texto enviado</summary><p class="review-text">${esc(state.description)}</p></details></section><aside class="card aside"><p class="eyebrow">Entenda os estados</p><h2>Cada etapa tem seu significado.</h2><p>Recebida confirma o envio. Publicada indica que a ideia está disponível para apoios.</p><p class="hint">A publicação não equivale à aprovação de uma lei. A avaliação do conteúdo também pode resultar em arquivamento.</p><hr><a class="text-link" href="#orientacoes">Como funciona o envio →</a></aside></div>`;
+      const elapsed = state.timePassed ? `<div class="notice"><strong>Passou algum tempo.</strong><p>A situação desta ideia foi atualizada.</p></div>` : "";
+      content = heading + `<div class="layout"><section class="card">${elapsed}<div class="idea-summary"><div><p class="hint">DEMO-001 · identificação de exemplo</p><h2>${esc(state.title)}</h2></div>${badge(state.status)}</div><div class="status-explainer"><p class="eyebrow">Próximo passo</p><h3>${statusTitle}</h3><p>${next}</p></div><ol class="timeline" aria-label="Etapas da ideia"><li class="${published || archived || reviewing ? "done" : "current"}"><strong>Recebida</strong><p>O envio foi registrado.</p></li><li class="${published || archived ? "done" : reviewing ? "current" : ""}"><strong>Em avaliação do conteúdo</strong><p>Conferência antes da publicação.</p></li><li class="${published || archived ? "current" : ""}"><strong>${archived ? "Arquivada" : "Publicada para receber apoios"}</strong><p>${archived ? "Confira o motivo informado." : published ? "Disponível para receber apoios." : "Etapa posterior à avaliação."}</p></li></ol><details class="text-details"><summary>Ler o texto enviado</summary><p class="review-text">${esc(state.description)}</p></details></section><aside class="card aside"><p class="eyebrow">Entenda os estados</p><h2>Cada etapa tem seu significado.</h2><p>Recebida confirma o envio. Publicada indica que a ideia está disponível para apoios.</p><p class="hint">A publicação não equivale à aprovação de uma lei. A avaliação do conteúdo também pode resultar em arquivamento.</p><hr><a class="text-link" href="#orientacoes">Como funciona o envio →</a></aside></div>`;
     }
   } else if (page === "orientacoes") {
     content = `<div class="layout"><section class="card"><div class="card-heading"><p class="eyebrow">Antes e depois do envio</p><h1>Como funciona</h1><p class="lead">Da sua proposta ao acompanhamento.</p></div><ol class="info-list"><li><strong>Escreva e confira.</strong> Explique a mudança que propõe, retire dados pessoais e leia o texto completo antes de confirmar.</li><li><strong>Reconheça o recebimento.</strong> A confirmação identifica a ideia e informa como acompanhar o envio. O texto enviado não poderá ser editado.</li><li><strong>Acompanhe a avaliação.</strong> Antes da publicação, o conteúdo será avaliado. A avaliação não acontece instantaneamente.</li><li><strong>Entenda a atualização.</strong> Publicação permite receber apoios; isso não significa aprovação de lei. O conteúdo também pode ser arquivado.</li></ol><div class="actions"><a class="btn" href="${state.authenticated && !state.submitted ? "#escrever" : state.submitted ? "#minhas" : "#acesso"}">${state.submitted ? "Acompanhar minha ideia" : state.authenticated ? "Voltar ao meu rascunho" : "Começar minha ideia"} →</a></div></section>${aside.replace('<a class="text-link" href="#orientacoes">Como funciona o envio →</a>', '')}</div>`;
@@ -69,13 +70,20 @@ function render() {
   main.focus({ preventScroll: true });
   window.scrollTo(0, 0);
   const titles = { inicio: "Ideia legislativa", acesso: "Antes de escrever", escrever: "Escrever ideia", revisar: "Revisar ideia", recebida: "Ideia recebida", minhas: "Minhas ideias", incerto: "Consultar recebimento", orientacoes: "Como funciona" };
-  document.title = `${titles[page]} · Protótipo de Caio`;
+  document.title = `${titles[page]} · Senado Federal`;
 }
 
 main.addEventListener("click", event => {
   const element = event.target.closest("[data-action]");
   if (!element) return;
-  if (element.dataset.action === "authenticate") { state.authenticated = true; go("escrever"); }
+  if (element.dataset.action === "authenticate") {
+    state.authenticated = true;
+    if (!state.title.trim() && !state.description.trim()) {
+      state.title = model.sample.title;
+      state.description = model.sample.description;
+    }
+    go("escrever");
+  }
   if (element.dataset.action === "edit") { state.reviewed = false; go("escrever"); }
 });
 
@@ -118,6 +126,26 @@ document.querySelector(".lab").addEventListener("click", event => {
   const target = { clean: "escrever", draft: "escrever", receipt: "recebida", uncertain: "incerto", reviewing: "minhas", published: "minhas", archived: "minhas", reset: "inicio" }[kind];
   document.querySelector("#lab-message").textContent = "Contexto preparado. Feche estes controles antes de iniciar a tarefa.";
   go(target);
+});
+
+window.addEventListener("keydown", event => {
+  if (!(event.ctrlKey && event.altKey) || event.repeat) return;
+  const key = event.key.toLowerCase();
+  if (key === "p") {
+    event.preventDefault();
+    if (!state.submitted) return;
+    state = { ...state, status: "Publicada para receber apoios", timePassed: true };
+    go("minhas");
+  } else if (key === "r") {
+    event.preventDefault();
+    state = model.create();
+    go("inicio");
+  } else if (key === "l") {
+    event.preventDefault();
+    const lab = document.querySelector(".lab");
+    lab.hidden = !lab.hidden;
+    if (!lab.hidden) lab.open = true;
+  }
 });
 
 window.addEventListener("hashchange", render);
