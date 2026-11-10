@@ -7,6 +7,7 @@
 | Integrante / ferramenta | Contribuição | Seção |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Responsabilidade pelo recorte, planejamento adotado e preparação do roteiro, cartões e fichas | [Uso](#como-usar) |
+| Codex (OpenAI) | Apoio à integração dos acessos ao protótipo | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
@@ -22,6 +23,13 @@ Instrumento do [planejamento DECIDE](planejamento-avaliacao-alta-fidelidade.md),
 Krug [1] fundamenta a rodada de três pessoas. O roteiro oficial [2] fundamenta a sequência de abertura, caracterização, primeira impressão, tarefas e encerramento, a verbalização e a facilitação neutra. Suas instruções aos observadores [3] fundamentam notas, três problemas prioritários por sessão e discussão conjunta. As falas abaixo são redação operacional para este projeto, não transcrição ou tradução integral de Krug.
 
 Os cenários legislativos, códigos, divisão de minutos, classificação M0/M2/M6, posição do observador na mesma sala quando necessário e publicação acadêmica são adaptações locais. O piloto separado segue Barbosa e Silva [4, p. 307–308]. As perguntas analíticas `AF-Q1–AF-Q7` do planejamento derivam da Tabela 9.1 [4, p. 293].
+
+## Acesso ao protótipo
+
+[Abrir protótipo navegável AF-1.0](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button .md-button--primary }
+[Abrir protótipo no Figma](https://www.figma.com/proto/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263&starting-point-node-id=5%3A2263){ .md-button }
+
+Consultar o [funcionamento do protótipo e os controles de simulação](roteiro-teste-alta-fidelidade.md#preparacao-e-funcionamento) e o [painel do moderador](../../../prototipos/bruno/alta-fidelidade/moderador.html) na preparação da sessão.
 
 ## Preparação da equipe — antes de receber a pessoa
 
@@ -222,11 +230,16 @@ Reunir as listas dos observadores [3], agrupar problemas repetidos e decidir cor
 - Definir responsável e correção; sem nova coleta, registrar **corrigida, não reavaliada**.
 - Responder Q1–Q7 e informar limites de amostra, aprendizado prévio, simulação e contexto. O piloto permanece separado.
 
+## Agradecimentos
+
+O Codex (OpenAI) apoiou a integração dos links do protótipo e do painel do moderador neste roteiro. Bruno Ferreira Dornelas mantém a responsabilidade acadêmica.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 09/11/2026 | Roteiro presencial, cartões e ficha do observador alinhados ao DECIDE revisado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 10/11/2026 | Inclusão dos acessos ao protótipo HTML, Figma e painel do moderador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

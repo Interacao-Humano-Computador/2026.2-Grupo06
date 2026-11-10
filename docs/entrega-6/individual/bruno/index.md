@@ -10,6 +10,7 @@ A Tabela 1 registra as contribuições neste artefato.
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização da entrega individual da Etapa 6, execução do teste em papel e planejamentos da alta fidelidade | [Introdução](#introducao) |
 | Antigravity (Google DeepMind) | Apoio à organização dos links, tabelas e estruturação documental | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Apoio à integração dos acessos ao protótipo e aos roteiros de alta fidelidade | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -24,8 +25,17 @@ Recorte individual de **sugestão e acompanhamento de complementos de ideias leg
 [Planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md){ .md-button }
 [Planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md){ .md-button }
 [Roteiro para o teste presencial](roteiro-teste-presencial.md){ .md-button }
+[Protótipo e roteiro operacional](roteiro-teste-alta-fidelidade.md){ .md-button }
 
 </div>
+
+## Protótipo e roteiros de alta fidelidade
+
+- [Abrir protótipo navegável AF-1.0](../../../prototipos/bruno/alta-fidelidade/index.html).
+- [Abrir protótipo no Figma](https://www.figma.com/proto/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263&starting-point-node-id=5%3A2263) e [telas editáveis](https://www.figma.com/design/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263).
+- [Roteiro para o teste presencial](roteiro-teste-presencial.md).
+- [Roteiro operacional e funcionamento do protótipo](roteiro-teste-alta-fidelidade.md).
+- [Painel e roteiro resumido do moderador](../../../prototipos/bruno/alta-fidelidade/moderador.html).
 
 ## Artefatos entregues na Etapa 6
 
@@ -50,11 +60,14 @@ A Tabela 2 reúne os três artefatos previstos no plano de ensino [1] para a Eta
 
 O assistente Antigravity (Google DeepMind) apoiou a preparação e revisão da estrutura documental. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico. Revisor: [Luís Henrique Arruda Luna](https://github.com/Donnk61).
 
+O Codex (OpenAI) apoiou a organização dos acessos ao protótipo e aos roteiros de alta fidelidade na Etapa 6.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 03/11/2026 | Organização do índice individual da Etapa 6 de Bruno Ferreira Dornelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 10/11/2026 | Integração do protótipo HTML, Figma, painel e roteiros de alta fidelidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
