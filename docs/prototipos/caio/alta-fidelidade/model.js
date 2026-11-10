@@ -1,7 +1,7 @@
 (function (root) {
   "use strict";
   const sample = { title: "Orientações claras nos serviços", description: "Explicar documentos e etapas em linguagem simples." };
-  const create = () => ({ authenticated: false, title: "", description: "", reviewed: false, submitted: false, status: "Recebida", date: "03/11/2026 · data de exemplo" });
+  const create = () => ({ authenticated: false, title: "", description: "", reviewed: false, submitted: false, status: "Recebida", date: "11/11/2026", timePassed: false });
   function personalData(text) {
     return /\b(?:cpf|rg|telefone|celular|contato|endereço|endereco)\s*[:\-]|\b\d{3}\.?\d{3}\.?\d{3}[-.]?\d{2}\b|\b(?:\(?\d{2}\)?\s*)?\d{4,5}[-\s]?\d{4}\b|[\w.+-]+@[\w.-]+\.[a-z]{2,}|\[telefone fictício\]/i.test(text);
   }
@@ -22,7 +22,7 @@
     if (kind === "draft") { state.description += " Contato: [telefone fictício]"; return state; }
     state.reviewed = true; state.submitted = true;
     if (kind === "reviewing") state.status = "Em avaliação";
-    if (kind === "published") state.status = "Publicada para receber apoios";
+    if (kind === "published") { state.status = "Publicada para receber apoios"; state.timePassed = true; }
     if (kind === "archived") state.status = "Arquivada";
     return state;
   }
