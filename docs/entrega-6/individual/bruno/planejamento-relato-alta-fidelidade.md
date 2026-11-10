@@ -36,12 +36,12 @@ A Tabela 2 define as seções obrigatórias do futuro relato e a fonte de evidê
 
 | Seção do relato | Conteúdo previsto | Fonte de evidência |
 | --- | --- | --- |
-| **1. Objetivos e escopo** | Objetivos `AF-O1` a `AF-O3`, perguntas `AF-Q1` a `AF-Q6`, link para o protótipo `AF-1.0` avaliado e limites do escopo | [Planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e versão congelada do protótipo |
-| **2. Método, participantes e piloto** | Condições efetivas da sessão no Google Meet, papéis dos avaliadores, perfil desidentificado de `AF-P01`, exposição anterior e registro separado do teste-piloto (`PP-AF01`) | Tabela 3 (Ficha da sessão) e vídeo do piloto |
+| **1. Objetivos e escopo** | Objetivos `AF-O1` a `AF-O2`, perguntas `AF-Q1` a `AF-Q7`, link para o protótipo `AF-1.0` avaliado e limites do escopo | [Planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e versão congelada do protótipo |
+| **2. Método, participantes e piloto** | Condições efetivas de cada sessão, preferencialmente presencial, papéis dos avaliadores, perfil desidentificado de `AF-P01`, `AF-P02` e `AF-P03`, exposição anterior e registro separado do teste-piloto (`PP-AF01`) | Tabela 3 (Ficha da sessão) e vídeo do piloto |
 | **3. Tarefas executadas, medições e evidências** | Desempenho por tarefa (`AF-T1` a `AF-T4`), classificação de conclusão (`M0`), prevenção de erros (`M2`), tempo ativo, satisfação (`M6`) e tabela de evidências (`AF-EV01`…) com links para os minutos do vídeo | Tabela 4 (Ficha por tarefa), Tabela 5 (Evidências) e gravação no YouTube |
-| **4. Análise do DECIDE e verificação das decisões do papel** | Respostas analíticas a `AF-Q1`–`AF-Q6` e verificação do efeito das correções `PP-A01` a `PP-A04` vindas do protótipo de papel | Tabela 6 (Matriz DECIDE) e comparação entre papel e alta fidelidade |
+| **4. Análise do DECIDE e verificação das decisões do papel** | Respostas analíticas a `AF-Q1`–`AF-Q7` e verificação do efeito das correções `PP-A01` a `PP-A04` vindas do protótipo de papel | Tabela 6 (Matriz DECIDE) e comparação entre papel e alta fidelidade |
 | **5. Problemas de usabilidade e reprojeto** | Problemas encontrados na alta fidelidade (`AF-A01`…), com local, fator prejudicado, descrição, justificativa, gravidade/prioridade, frequência e sugestão de correção | Tabela 7 (Matriz de problemas) |
-| **6. Conclusões e limites** | Síntese do atendimento às metas, limitações da amostra unitária, diferenças de mediação e encaminhamentos finais | Consolidação conjunta dos avaliadores |
+| **6. Conclusões e limites** | Síntese do atendimento às metas, limitações da amostra formativa de três pessoas, diferenças de mediação e encaminhamentos finais | Consolidação conjunta dos avaliadores |
 
 <p class="caption">Tabela 2 — Estrutura planejada para o relato da avaliação de alta fidelidade.</p>
 <p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 312, 343 [1]).</p>
@@ -50,14 +50,14 @@ A Tabela 2 define as seções obrigatórias do futuro relato e a fonte de evidê
 
 ### Ficha de identificação da sessão e do participante
 
-A Tabela 3 será preenchida para o teste-piloto (`PP-AF01`, mantido separado dos resultados principais) e para a sessão principal (`AF-P01`). Dados pessoais e o termo de consentimento permanecem fora do repositório público.
+A Tabela 3 será preenchida para o teste-piloto (`PP-AF01`, mantido separado dos resultados principais) e separadamente para cada sessão principal (`AF-P01`, `AF-P02`, `AF-P03`). Dados pessoais e o termo de consentimento permanecem fora do repositório público.
 
-| Campo de controle | Registro da sessão principal (`AF-P01`) |
+| Campo de controle | Registro de uma sessão (duplicar para cada participante) |
 | --- | --- |
-| Código do participante e perfil resumido | `AF-P01` — (ocupação, faixa etária aproximada e familiaridade digital, sem dados pessoais) |
+| Código do participante e perfil resumido | Código da sessão — (ocupação, faixa etária aproximada e familiaridade digital, sem dados pessoais) |
 | Participação em etapas anteriores do projeto | Informar se é novo participante ou se participou do papel (`PP-P01`) / entrevistas (`P01`) |
 | Data, horário de início/fim e duração do vídeo | |
-| Modalidade, dispositivo e navegador utilizados | Google Meet (compartilhamento de tela) — Dispositivo/navegador: |
+| Modalidade, dispositivo e navegador utilizados | Presencial (local a registrar) ou remoto excepcional (plataforma a registrar) — Dispositivo/navegador: |
 | Versão / commit do protótipo avaliado | `AF-1.0` |
 | Moderador e observadores presentes | Moderador: Bruno Ferreira Dornelas · Observadores: |
 | Registro do teste-piloto (`PP-AF01`) | Data, duração, link do vídeo e ajustes aplicados antes de `AF-P01` |
@@ -67,6 +67,8 @@ A Tabela 3 será preenchida para o teste-piloto (`PP-AF01`, mantido separado dos
 <p class="source">Fonte: elaboração do projeto (2026).</p>
 
 ### Ficha de desempenho, métricas e opinião por tarefa
+
+Duplicar a ficha para cada participante, identificando o código no título. Registrar M6 na entrevista final, retomando cada tarefa, conforme o roteiro revisado.
 
 A Tabela 4 registrará as medições de `AF-T1` a `AF-T4` logo após a sessão, utilizando a gravação para aferir os tempos e minutos exatos.
 
@@ -82,9 +84,11 @@ A Tabela 4 registrará as medições de `AF-T1` a `AF-T4` logo após a sessão, 
 
 ### Tabela de evidências localizáveis (`AF-EV01`…)
 
+Cada evidência terá prefixo de participante (ex.: `AF-P02-EV01`) para não misturar sessões. Para `AF-Q7`, vincular os registros atuais ao histórico do papel, sem atribuir minutos de vídeo a evidências documentais.
+
 A Tabela 5 documentará cada ação, fala ou dificuldade observada com link direto para o minuto correspondente da gravação no YouTube.
 
-| ID da evidência | Tarefa e tela | Questão (`AF-Q1`–`AF-Q6`) | Minuto no vídeo | Ação observada e resposta da interface | Fala verificável (entre aspas) ou paráfrase | Houve ajuda ou explicação prévia do moderador? |
+| ID da evidência | Tarefa e tela | Questão (`AF-Q1`–`AF-Q7`) | Minuto no vídeo | Ação observada e resposta da interface | Fala verificável (entre aspas) ou paráfrase | Houve ajuda ou explicação prévia do moderador? |
 | --- | --- | --- | --- | --- | --- | --- |
 | **AF-EV01** | `AF-T1` / `AF-S01a`–`AF-S01b` | `AF-Q1` | | | | |
 | **AF-EV02** | `AF-T2` / `AF-S02`–`AF-X01a` | `AF-Q2` | | | | |
@@ -98,7 +102,7 @@ A Tabela 5 documentará cada ação, fala ou dificuldade observada com link dire
 
 ## Matriz de análise do DECIDE e rastreabilidade com o protótipo de papel
 
-A Tabela 6 será preenchida após a análise conjunta entre Bruno e os observadores para responder a `AF-Q1`–`AF-Q6` e verificar se as correções `PP-A01` a `PP-A04` surtiram efeito.
+A Tabela 6 será preenchida após a análise conjunta entre Bruno e os observadores para responder a `AF-Q1`–`AF-Q7` e verificar se as correções `PP-A01` a `PP-A04` surtiram efeito.
 
 | Questão e vínculo com o papel | Resposta analítica apoiada nos dados | Evidências (`AF-EV`) e métricas (`M0`, `M2`, `M6`) | Limites da observação e encaminhamento |
 | --- | --- | --- | --- |
@@ -108,9 +112,14 @@ A Tabela 6 será preenchida após a análise conjunta entre Bruno e os observado
 | **AF-Q4** (`PP-A01`, `PP-A04`) — Reconhecer autoria do próprio complemento e distinguir apoios (`12.343` vs. `40`) | | | |
 | **AF-Q5** (`PP-A04`, `PP-Q6`) — Distinguir publicação de encaminhamento à CDH e localizar `Anexo Consultivo #1` | | | |
 | **AF-Q6** — Dificuldades remanescentes e satisfação por tarefa (`M6`) | | | |
+| **AF-Q7** (`AF-O1`) — Decisões de design e comparação histórica com o papel | | | |
 
 <p class="caption">Tabela 6 — Matriz de consolidação das perguntas de avaliação da alta fidelidade.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
+
+### Registro das decisões de design
+
+Para `AF-O1`, registrar cada `PP-A01–PP-A04`: problema no papel, decisão de reprojeto, tela atual, evidências dos três participantes e conclusão limitada. Comparação histórica não demonstra ganho causal de eficiência. Para `AF-O2`, consolidar os problemas de interação observados na matriz seguinte.
 
 ## Matriz de problemas de usabilidade e controle de correções
 
@@ -123,12 +132,16 @@ Cada problema identificado no teste de alta fidelidade (`AF-A01`, `AF-A02`…) s
 <p class="caption">Tabela 7 — Matriz de problemas de usabilidade da alta fidelidade.</p>
 <p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 343 [1]).</p>
 
+### Discussão dos achados segundo Krug
+
+Cada observador registra os três problemas mais sérios após cada sessão. Ao final da rodada, a equipe reúne as listas e decide ações, conforme as [instruções de Krug](https://sensible.com/downloads/instructions-for-observers.pdf) [4]. Registrar participantes da reunião, evidências, prioridade, responsável e estado de reteste. Apresentar contagens por tarefa com denominador de pessoas efetivamente expostas, sem extrapolação populacional.
+
 ## Regras de interpretação, consolidação e responsabilidades
 
 1. **Separação entre ação espontânea e ajuda:** caso o moderador forneça qualquer dica ou explicação antes da resposta da pessoa, a evidência será marcada na Tabela 5 e a tarefa será classificada no máximo como `Concluída com ajuda`, sem contabilizar compreensão espontânea.
-2. **Critério para conclusão de `AF-T4`:** a tarefa `AF-T4` só será classificada como `Concluída sem ajuda` se `AF-P01` demonstrar compreensão tanto no Momento 1 (`AF-S04`: autoria própria e contadores separados) quanto no Momento 2 (`AF-S05`: localização do `Anexo Consultivo #1` e distinção entre envio para análise na CDH e aprovação de lei).
+2. **Critério para conclusão de `AF-T4`:** a tarefa `AF-T4` só será classificada como `Concluída sem ajuda` se a pessoa daquela sessão demonstrar compreensão tanto no Momento 1 (`AF-S04`: autoria própria e contadores separados) quanto no Momento 2 (`AF-S05`: localização do `Anexo Consultivo #1` e distinção entre envio para análise na CDH e aprovação de lei).
 3. **Priorização e controle de versão:** problemas serão priorizados em **alta**, **média** ou **baixa** gravidade conforme seu impacto sobre a intenção da proponente e a compreensão do resultado. Correções implementadas no código após a sessão sem novo teste com usuário serão registradas como **“corrigida, não reavaliada”**.
-4. **Limites metodológicos:** o relato explicitará os limites de uma sessão exploratória individual (`AF-P01`), eventual exposição prévia da pessoa participante, mediação por compartilhamento de tela e simulação temporal da transição entre `AF-S04` e `AF-S05`.
+4. **Limites metodológicos:** o relato explicitará os limites de três sessões exploratórias individuais (`AF-P01`, `AF-P02`, `AF-P03`), eventual exposição prévia da pessoa participante, condições presenciais ou eventual mediação remota e simulação temporal da transição entre `AF-S04` e `AF-S05`.
 5. **Cronograma e revisão até a Etapa 7:** seguindo a [agenda do planejamento](planejamento-avaliacao-alta-fidelidade.md#cronograma-e-agenda-proposta-ate-a-etapa-7), após a sessão prevista para `11/11/2026`, Bruno e os observadores consolidarão os registros em `12–13/11`, e Luís Henrique realizará a revisão em `14/11/2026`, antes da entrega da Etapa 7 (`15/11/2026`).
 
 ## Agradecimentos
@@ -140,6 +153,7 @@ O assistente Antigravity (Google DeepMind) apoiou a formatação das fichas de r
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 03/11/2026 | Elaboração do planejamento do relato da avaliação do protótipo de alta fidelidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 09/11/2026 | Alinhamento à rodada de três participantes, dois objetivos, sete perguntas e discussão de achados com Krug | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
@@ -152,3 +166,5 @@ O assistente Antigravity (Google DeepMind) apoiou a formatação das fichas de r
 
 [3] GRUPO 06. [Relato da avaliação do protótipo de papel](relato-prototipo-papel.md) e [Planejamento da avaliação do protótipo de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md). 2026.
 
+
+[4] KRUG, Steve. **Instructions for Usability Test Observers**. Reproduzido de *Rocket Surgery Made Easy*, 2010. p. 1–2. [Documento oficial](https://sensible.com/downloads/instructions-for-observers.pdf). Acesso em: 9 nov. 2026.

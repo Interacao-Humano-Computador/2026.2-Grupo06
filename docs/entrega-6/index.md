@@ -38,6 +38,8 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
     - [Relato da avaliação do protótipo de papel](individual/bruno/relato-prototipo-papel.md)
     - [Planejamento da avaliação de alta fidelidade](individual/bruno/planejamento-avaliacao-alta-fidelidade.md)
     - [Planejamento do relato de alta fidelidade](individual/bruno/planejamento-relato-alta-fidelidade.md)
+    - [Protótipo navegável AF-1.0](../prototipos/bruno/alta-fidelidade/index.html) · [Protótipo no Figma](https://www.figma.com/proto/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263&starting-point-node-id=5%3A2263)
+    - [Roteiro presencial](individual/bruno/roteiro-teste-presencial.md) · [Roteiro operacional e funcionamento do protótipo](individual/bruno/roteiro-teste-alta-fidelidade.md)
     - [Vídeo do teste-piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) · [Vídeo da validação com PP-P01 (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE)
 
 ??? abstract "Caio Breno de Souza Bezerra"
@@ -111,6 +113,7 @@ A Tabela 2 registra a versão deste artefato.
 | `0.6` | 03/11/2026 | Liga os planejamentos de alta fidelidade de Luís Henrique | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.7` | 03/11/2026 | Inclusão dos artefatos individuais de Bruno Ferreira Dornelas na Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.8` | 03/11/2026 | Inclusão do recorte individual de Israel Soares de Paiva na Etapa 6 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.9` | 10/11/2026 | Integração dos acessos ao protótipo e aos roteiros de alta fidelidade de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

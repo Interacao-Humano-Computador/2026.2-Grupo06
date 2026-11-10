@@ -1,0 +1,55 @@
+PROTÓTIPO ACADÊMICO — COMPLEMENTOS DE IDEIAS LEGISLATIVAS
+Grupo 06 / UnB · Bruno Ferreira Dornelas · AF-1.0 · 10/11/2026
+
+1. Extraia todos os arquivos do ZIP para uma pasta.
+2. Abra index.html em um navegador atualizado.
+3. Abra roteiro.html para ler ou imprimir o roteiro completo.
+4. Abra moderador.html para os controles de simulação e o cronômetro auxiliar.
+
+TESTE LIVRE
+As etapas de espera exibem controles de demonstração: simular resposta do
+autor, aprovação da moderação e encaminhamento após 20 mil apoios.
+Esses botões preservam seu texto. Não há respostas ou e-mails automáticos.
+Para avaliar com participante, abra index.html?modo=avaliacao: os controles
+ficam ocultos e o moderador conduz as atualizações pelo painel ou atalhos.
+
+Não há instalação de dependências, login real ou envio ao Senado.
+Todos os dados são fictícios. O progresso fica no navegador local.
+Se o navegador bloquear armazenamento em arquivos locais, use HTTP:
+    python -m http.server 8000 --bind 127.0.0.1
+Execute dentro desta pasta e abra http://127.0.0.1:8000/.
+
+PAINEL E TESTE REMOTO
+O painel sincroniza apenas abas do mesmo navegador e da mesma origem.
+Para o participante em outro computador, os atalhos na aba index.html são:
+    Ctrl + Alt + 1 — resposta do autor (após envio)
+    Ctrl + Alt + 2 — publicação (após concordância)
+    Ctrl + Alt + 3 — encaminhamento à CDH (após publicação)
+    Ctrl + Alt + 4 — exemplo independente publicado (após discordância)
+Execute-os fora do tempo da tarefa, conforme o roteiro.
+Não compartilhe a aba do moderador nem antecipe os critérios de sucesso.
+localhost / 127.0.0.1 não é um endereço público para enviar a participantes.
+
+ESCOPO
+Fluxo completo de complementos: pesquisa, seleção, acesso fictício, redação,
+revisão, envio, espera, ajuste do autor, concordância ou discordância,
+moderação, publicação, apoios separados e anexo consultivo.
+Menus do Senado/e-Cidadania preservam a estrutura visual. Seções externas
+ao recorte abrem avisos locais de escopo. Não são serviços operacionais.
+Este pacote contém o protótipo web. A versão Figma está disponível em:
+https://www.figma.com/design/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263
+Para apresentar o fluxo:
+https://www.figma.com/proto/LAUZecEX9cr4fXp9ddwuhg?node-id=5-2263&starting-point-node-id=5%3A2263
+O Figma usa campos com exemplo predefinido. Use o HTML para digitação livre.
+
+REFERÊNCIAS E CRÉDITOS
+Interface de referência: e-Cidadania / Senado Federal, consulta em 10/11/2026.
+https://www12.senado.leg.br/ecidadania/principalideia
+Marca senado.svg: Senado Federal.
+Trecho de apoio ao roteiro: Barbosa e Silva (2010), p. 343, uso acadêmico.
+Complementos são uma proposta acadêmica do Grupo 06.
+Codex (OpenAI): implementação e apoio à redação do roteiro.
+Responsabilidade acadêmica: Bruno Ferreira Dornelas.
+Revisão humana prevista: Luís Henrique Arruda Luna.
+
+Os testes técnicos não equivalem a teste-piloto ou validação com participante.
