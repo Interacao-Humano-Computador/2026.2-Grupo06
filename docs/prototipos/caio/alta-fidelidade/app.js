@@ -27,7 +27,7 @@ function render() {
   if (["escrever", "revisar"].includes(page) && !state.authenticated) page = "acesso";
   if (page === "revisar" && (!state.reviewed || model.validate(state.title, state.description))) page = "escrever";
   if (page === "recebida" && !state.submitted) page = "minhas";
-  const crumb = `<nav class="crumb" aria-label="Caminho da página"><a href="#inicio">Início</a><span aria-hidden="true">/</span>Participação cidadã<span aria-hidden="true">/</span>Ideia legislativa</nav>`;
+  const crumb = `<nav class="crumb" aria-label="Caminho da página"><a href="#inicio">Início</a><span aria-hidden="true">›</span><a href="#inicio">e-Cidadania</a><span aria-hidden="true">›</span>Ideia Legislativa</nav>`;
   let content;
 
   if (page === "inicio") {
