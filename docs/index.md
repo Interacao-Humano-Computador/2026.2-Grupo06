@@ -15,7 +15,7 @@ hide:
 <p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal do Senado Federal.</p>
 
 <p class="actions">
-<a class="btn btn-gold" href="entrega-6/">Abrir a Etapa 6</a>
+<a class="btn btn-gold" href="entrega-7/">Abrir a Etapa 7</a>
 <a class="btn btn-ghost" href="equipe/">Ver a equipe</a>
 </p>
 
@@ -30,11 +30,11 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Etapa 6">
-  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 6</p>
-  <div><b>03/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>04/11</b><span>Inspeção pelo Grupo +1</span></div>
-  <div><b>05/11</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da Etapa 7">
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 7</p>
+  <div><b>15/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
+  <div><b>16/11</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>17/11</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -68,11 +68,17 @@ hide:
     <strong>Relatos e protótipo de papel</strong>
     <span>Trabalhos individuais, planejamentos do papel e acompanhamento dos relatos.</span>
   </a>
-  <a class="tile tile-featured" href="entrega-6/">
+  <a class="tile" href="entrega-6/">
     <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 6</span>
     <strong>Papel e alta fidelidade</strong>
     <span>Relato do papel, planos de avaliação e acesso aos protótipos.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-7/">
+    <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 7</span>
+    <strong>Resultados da alta fidelidade</strong>
+    <span>Relato da avaliação, vídeos, resultados e decisões de reprojeto.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
@@ -102,13 +108,13 @@ hide:
   <a class="tile" href="proximas/">
     <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
     <strong>Próximas etapas</strong>
-    <span>Etapas 7 e 8 e entrega final.</span>
+    <span>Etapa 8 e entrega final.</span>
   </a>
 </nav>
 
 ## Introdução
 
-O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 6](entrega-6/index.md) reúne o relato da avaliação do papel e os planejamentos da alta fidelidade. Acesse também os [artefatos anteriores](entrega-5/index.md), as [listas de verificação](verificacao/index.md) e os [vídeos das apresentações](apresentacoes/index.md).
+O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 7](entrega-7/index.md) reúne os resultados da avaliação da alta fidelidade. A [Etapa 6](entrega-6/index.md) mantém o relato do papel e os planejamentos. Acesse também os [artefatos anteriores](entrega-5/index.md), as [listas de verificação](verificacao/index.md) e os [vídeos das apresentações](apresentacoes/index.md).
 
 ## Tabela de contribuição
 
@@ -170,6 +176,8 @@ O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Et
 
 Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
+Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -182,6 +190,7 @@ Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, s
 | `1.5` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 03/11/2026 | Atualização da página inicial e dos acessos à Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 11/11/2026 | Abre a Etapa 7, com datas e acesso aos resultados da alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Bibliografia
 

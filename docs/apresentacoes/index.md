@@ -29,7 +29,7 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno Ferreira, Caio Breno, Heitor Pinheiro e Israel Soares | [Etapa 4](etapa-04.md) |
 | 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | [Caio](https://youtu.be/vaXEtY_bNgE); demais a publicar | Um vídeo por integrante | [Etapa 6](etapa-06.md) |
-| 7 | 17/11/2026 | — | — | — |
+| 7 | 17/11/2026 | A anexar | Autores dos respectivos artefatos | [Etapa 7](etapa-07.md) |
 | 8 | 24/11/2026 | — | — | — |
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
@@ -43,6 +43,8 @@ A [apresentação da Etapa 6](etapa-06.md) reúne um espaço por integrante. A g
 O Codex (OpenAI) apoiou a padronização e a correção dos participantes conforme as informações fornecidas por Bruno Ferreira Dornelas. Grok (xAI) apoiou a inclusão da Etapa 5 neste índice, conforme as informações de Caio Breno de Souza Bezerra. A responsabilidade pelo conteúdo permanece com o autor.
 
 Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
+
+Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 
@@ -62,6 +64,7 @@ Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, s
 | `1.2` | 25/10/2026 | Inclui o vídeo individual de Luís na apresentação da Etapa 5 | Luís Henrique Luna de Arruda | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 03/11/2026 | Inclusão da apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 03/11/2026 | Inclui o vídeo individual de Caio na apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 11/11/2026 | Integra a página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

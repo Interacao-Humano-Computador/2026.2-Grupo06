@@ -277,11 +277,19 @@ nav:
               - Papel · Relato: entrega-6/individual/luis/relato-prototipo-papel.md
               - Alta fidelidade · Planejamento da avaliação: entrega-6/individual/luis/planejamento-avaliacao-alta-fidelidade.md
               - Alta fidelidade · Planejamento do relato: entrega-6/individual/luis/planejamento-relato-alta-fidelidade.md
+  - Etapa 7 · Resultados da alta fidelidade:
+      - entrega-7/index.md
+      - Trabalhos individuais:
+          - Caio Breno:
+              - entrega-7/individual/caio/index.md
+              - Alta fidelidade · Relato: entrega-7/individual/caio/relato-alta-fidelidade.md
+              - Vídeos e evidências: entrega-7/individual/caio/evidencias.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
           - Etapa 5: verificacao/listas/etapa-5.md
           - Etapa 6: verificacao/listas/etapa-6.md
+          - Etapa 7: verificacao/listas/etapa-7.md
       - Inspeções:
           - Autoverificação (Grupo 06):
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
@@ -312,6 +320,7 @@ nav:
           - Etapa 4: apresentacoes/etapa-04.md
           - Etapa 5: apresentacoes/etapa-05.md
           - Etapa 6: apresentacoes/etapa-06.md
+          - Etapa 7: apresentacoes/etapa-07.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md
@@ -323,6 +332,5 @@ nav:
       - proximas/index.md
       - Etapa 2: proximas/etapa-02.md
       - Etapa 3: proximas/etapa-03.md
-      - Etapa 7: proximas/etapa-07.md
       - Etapa 8: proximas/etapa-08.md
       - Entrega final: proximas/entrega-final.md

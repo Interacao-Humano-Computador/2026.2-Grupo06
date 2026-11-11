@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa 6](../entrega-6/index.md) tem seção própria com o relato do papel e os planos da alta fidelidade. Esta página reúne os marcos seguintes previstos no plano de ensino.
+As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa 6](../entrega-6/index.md) tem seção própria com o relato do papel e os planos da alta fidelidade. A [Etapa 7](../entrega-7/index.md) reúne os resultados da alta fidelidade. Esta página reúne os marcos seguintes previstos no plano de ensino.
 
 | Etapa | Entrega | O que entra |
 | :---: | :---: | --- |
@@ -11,7 +11,7 @@ As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa
 | [4, aberta](../entrega-4/index.md) | 13/10/2026 | Planejamentos DECIDE do storyboard e da análise de tarefas e dos respectivos relatos |
 | [5, aberta](../entrega-5/index.md) | 25/10/2026 | Relatos das avaliações anteriores + planejamentos individuais da avaliação e do relato do protótipo de papel |
 | [6](../entrega-6/index.md) | 03/11/2026 | Relato do papel + planejamento da alta fidelidade |
-| [7](etapa-07.md) | 15/11/2026 | Relato da alta fidelidade |
+| [7, aberta](../entrega-7/index.md) | 15/11/2026 | Relato da alta fidelidade |
 | [8](etapa-08.md) | 22/11/2026 | Verificação dos artefatos |
 | [Final](entrega-final.md) | 30/11/2026 | Sínteses, tabelas e vídeo de 20 a 30 minutos |
 
@@ -39,6 +39,8 @@ O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5. A responsabilida
 
 Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
+Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -50,6 +52,7 @@ Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, s
 | `1.4` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 19/10/2026 | Aponta a Etapa 5 para a seção própria com trabalhos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.7` | 11/11/2026 | Liga a Etapa 7 ao relato da alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

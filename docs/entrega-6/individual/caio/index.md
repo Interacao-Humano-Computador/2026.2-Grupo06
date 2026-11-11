@@ -48,6 +48,8 @@ A Tabela 2 dá acesso direto aos três artefatos previstos no plano de ensino, p
 - **Avaliação do papel:** Google Meet, 03/11/2026, 21h28–21h33, 5 min 8 s, com PAP-P01. Caio opera as folhas na própria câmera; Bruno, Israel e Luís estão na sala. [Vídeo não listado](https://youtu.be/MYhU_5oUe8M) e [registro](relato-prototipo-papel.md#registro-e-video).
 - **Apresentação da etapa:** [página própria para o vídeo](../../../apresentacoes/etapa-06.md). É uma gravação distinta da avaliação com participante.
 
+**Continuidade:** [resultados da avaliação de alta fidelidade — Etapa 7](../../../entrega-7/individual/caio/index.md).
+
 ## Conferência da entrega
 
 [Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Tabela de autoverificação](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-05/etapa-6/lista-verificacao.md).
@@ -58,6 +60,8 @@ Marcos do plano: **entrega 03/11 · inspeção 04/11 · apresentação 05/11**. 
 
 Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas da avaliação do papel. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
+Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+
 ## Histórico de versão
 
 A Tabela 3 registra a versão deste artefato.
@@ -67,6 +71,7 @@ A Tabela 3 registra a versão deste artefato.
 | `0.1` | 03/11/2026 | Organização do recorte individual e dos materiais da avaliação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/11/2026 | Liga a avaliação do papel à gravação de 03/11 com PAP-P01 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/11/2026 | Aponta o PDF para as fotografias do material usado na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 11/11/2026 | Acrescenta acesso aos resultados da avaliação de alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
