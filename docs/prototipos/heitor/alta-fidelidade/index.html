@@ -3,138 +3,313 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Protótipo de Alta Fidelidade — e-Cidadania | Heitor Pinheiro</title>
-  <style>
-    :root {
-      --primary: #003366;
-      --primary-dark: #002244;
-      --text: #1d2129;
-      --muted: #65676b;
-      --bg: #f0f2f5;
-      --card-bg: #ffffff;
-      --border: #ccd0d5;
-      --badge-bg: #e7f3ff;
-      --badge-text: #1877f2;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      background-color: var(--bg);
-      color: var(--text);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      padding: 24px;
-    }
-    .card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      max-width: 620px;
-      width: 100%;
-      padding: 36px 32px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-      text-align: center;
-    }
-    .badge {
-      display: inline-block;
-      background: var(--badge-bg);
-      color: var(--badge-text);
-      font-size: 13px;
-      font-weight: 600;
-      padding: 6px 14px;
-      border-radius: 20px;
-      margin-bottom: 20px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    h1 {
-      font-size: 24px;
-      color: var(--primary);
-      margin-bottom: 12px;
-    }
-    p {
-      font-size: 15px;
-      line-height: 1.6;
-      color: var(--muted);
-      margin-bottom: 20px;
-    }
-    .details {
-      background: #f8f9fa;
-      border: 1px solid #e9ecef;
-      border-radius: 8px;
-      padding: 16px;
-      text-align: left;
-      font-size: 14px;
-      margin-bottom: 28px;
-    }
-    .details ul {
-      list-style-type: none;
-    }
-    .details li {
-      padding: 6px 0;
-      border-bottom: 1px solid #eee;
-    }
-    .details li:last-child {
-      border-bottom: none;
-    }
-    .details strong {
-      color: var(--text);
-    }
-    .actions {
-      display: flex;
-      gap: 12px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .btn {
-      display: inline-block;
-      text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 6px;
-      font-size: 14px;
-      font-weight: 600;
-      transition: background 0.2s, transform 0.1s;
-    }
-    .btn-primary {
-      background: var(--primary);
-      color: #ffffff;
-    }
-    .btn-primary:hover {
-      background: var(--primary-dark);
-    }
-    .btn-secondary {
-      background: #e4e6eb;
-      color: #050505;
-    }
-    .btn-secondary:hover {
-      background: #d8dadf;
-    }
-  </style>
+  <title>Portal do Senado Federal — Protótipo de Alta Fidelidade (Grupo 06)</title>
+  <meta name="description" content="Protótipo navegável de alta fidelidade do reprojeto do Portal do Senado Federal e módulo e-Cidadania (Grupo 06 · IHC 2026.2).">
+  <link rel="icon" href="../../../assets/img/marca/senado-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
 </head>
 <body>
-  <div class="card">
-    <span class="badge">Etapa 7 — Em desenvolvimento</span>
-    <h1>Protótipo de Alta Fidelidade</h1>
-    <p>
-      Este protótipo navegável interativo está previsto para entrega na <strong>Etapa 7 (15/11/2026)</strong>, conforme estabelecido no cronograma da disciplina e nas diretrizes metodológicas do Grupo 06.
-    </p>
+  <a class="skip-link" href="#main-content">Ir para o conteúdo principal (Alt + 1)</a>
 
-    <div class="details">
-      <ul>
-        <li><strong>Integrante responsável:</strong> Heitor Pinheiro Gonçalves das Chagas</li>
-        <li><strong>Funcionalidade:</strong> Participação em Evento Interativo (e-Cidadania)</li>
-        <li><strong>Fluxo modelado:</strong> Envio de pergunta técnica direcionada a orador da mesa</li>
-        <li><strong>Persona:</strong> Letícia Oliveira (CRA / PL 1215/2025)</li>
-        <li><strong>Base do reprojeto:</strong> Decisões validadas na prototipação em papel (Etapa 6)</li>
-      </ul>
-    </div>
-
-    <div class="actions">
-      <a href="../../../entrega-6/individual/heitor/index.html" class="btn btn-primary">Voltar à Etapa 6 de Heitor</a>
-      <a href="../papel/index.html" class="btn btn-secondary">Ver protótipo de papel</a>
+  <!-- Barra de acessibilidade limpa (Tabela 5: topo, 40px, #F4F6F8) -->
+  <div class="a11y-bar">
+    <div class="container a11y-bar-inner">
+      <nav class="a11y-shortcuts" aria-label="Atalhos de acessibilidade">
+        <button type="button" class="a11y-link" data-skip="main">Conteúdo (1)</button>
+        <button type="button" class="a11y-link" data-skip="nav">Menu (2)</button>
+        <button type="button" class="a11y-link" data-skip="search">Busca (3)</button>
+        <button type="button" class="a11y-link" data-skip="footer">Rodapé (4)</button>
+      </nav>
+      <div class="a11y-controls" role="group" aria-label="Recursos de acessibilidade">
+        <button type="button" class="a11y-btn" id="btn-a11y-page">
+          <span>Acessibilidade</span>
+        </button>
+        <button type="button" class="a11y-btn" id="btn-vlibras" aria-pressed="false">
+          <span class="ico ico-sm" data-icon="vlibras" aria-hidden="true"></span>
+          <span>VLibras</span>
+        </button>
+        <button type="button" class="a11y-btn" id="btn-contrast" aria-pressed="false" title="Alternar Alto Contraste (Alt + C)">
+          <span class="ico ico-sm" data-icon="contrast" aria-hidden="true"></span>
+          <span>Alto contraste</span>
+          <span class="sr-only" id="contrast-state-badge">Desligado</span>
+        </button>
+        <div class="a11y-font-group" role="group" aria-label="Tamanho da fonte">
+          <button type="button" class="a11y-btn a11y-font-btn" id="btn-font-dec" aria-label="Diminuir tamanho do texto" title="Diminuir texto">A−</button>
+          <button type="button" class="a11y-btn a11y-font-btn" id="btn-font-reset" aria-label="Restaurar tamanho padrão do texto" title="Tamanho padrão">100%</button>
+          <button type="button" class="a11y-btn a11y-font-btn" id="btn-font-inc" aria-label="Aumentar tamanho do texto" title="Aumentar texto">A+</button>
+        </div>
+      </div>
     </div>
   </div>
+
+  <!-- Cabeçalho principal (Tabela 5: altura 80px desktop / 64px mobile, #002B49) -->
+  <header class="site-header">
+    <div class="container header-grid">
+      <div class="header-brand-wrap">
+        <button type="button" class="mobile-menu-trigger" id="btn-mobile-menu" aria-expanded="false" aria-controls="mobile-drawer">
+          <span class="ico" data-icon="menu" aria-hidden="true"></span>
+          <span>Menu</span>
+        </button>
+        <a href="#home" class="brand-link" aria-label="Senado Federal — Página inicial">
+          <svg class="brand-cupolas" width="48" height="36" viewBox="0 0 48 36" fill="none" aria-hidden="true">
+            <rect x="2" y="28" width="44" height="5" rx="1" fill="currentColor"/>
+            <path d="M8 27C8 19.5 14 14 21 14C22.2 14 23 14.8 23 16V27H8Z" fill="currentColor"/>
+            <path d="M25 27V21C25 18 28 16 32.5 16C37 16 40 18 40 21V27H25Z" fill="currentColor"/>
+            <rect x="21" y="4" width="2.2" height="23" fill="currentColor"/>
+            <rect x="24.8" y="4" width="2.2" height="23" fill="currentColor"/>
+          </svg>
+          <span class="brand-text">
+            <strong>SENADO FEDERAL</strong>
+            <small>Portal Legislativo e Cidadania</small>
+          </span>
+        </a>
+      </div>
+
+      <form class="universal-search" id="universal-search-form" role="search" aria-label="Busca universal no portal">
+        <label class="sr-only" for="universal-search-input">Busque por assunto, número da matéria (ex.: PL 5253/2026) ou senador</label>
+        <div class="search-field-wrap">
+          <span class="search-icon" data-icon="search" aria-hidden="true"></span>
+          <input
+            type="search"
+            id="universal-search-input"
+            name="q"
+            placeholder="Busque por assunto, número (ex.: PL 5253/2026) ou senador"
+            autocomplete="off"
+          >
+        </div>
+        <button type="submit" class="btn-primary search-submit-btn">Buscar</button>
+      </form>
+
+      <div class="header-account">
+        <button type="button" class="account-btn" id="btn-header-auth">
+          <span class="ico" data-icon="user" aria-hidden="true"></span>
+          <span id="header-auth-label">Entrar</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Menu principal (Tabela 5: altura 56px, #004B87, rótulos sempre visíveis no desktop) -->
+  <nav class="primary-nav" id="primary-nav" aria-label="Navegação principal">
+    <div class="container">
+      <ul class="nav-list" role="menubar">
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="legislativa">
+            <span>Atividade legislativa</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-legislativa" hidden>
+            <a href="#busca?tipo=proposicao">Proposições e Projetos de Lei</a>
+            <a href="#proposicao?id=PL-5253-2026">Em destaque: PL 5253/2026 (Jornada)</a>
+            <a href="#comissoes">Comissões e Reuniões (CCJ / CRA)</a>
+            <a href="#busca?tipo=reuniao">Pautas e deliberações</a>
+          </div>
+        </li>
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="senadores">
+            <span>Senadores</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-senadores" hidden>
+            <a href="#busca?tipo=senador">Consultar senadores e relatores</a>
+            <a href="#busca?q=Carlos+Silva&tipo=senador">Sen. Carlos Silva (Relator PL 1215/2025)</a>
+            <a href="#busca?q=Marina+Campos&tipo=senador">Sen. Marina Campos (Autora PL 5253/2026)</a>
+          </div>
+        </li>
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="noticias">
+            <span>Notícias</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-noticias" hidden>
+            <a href="#busca?tipo=noticia">Agência Senado — Últimas notícias</a>
+            <a href="#busca?tipo=noticia&periodo=mes">Filtrar notícias do último mês</a>
+            <a href="#home">Destaques do dia</a>
+          </div>
+        </li>
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="orcamento">
+            <span>Orçamento</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-orcamento" hidden>
+            <a href="#busca?q=cr%C3%A9dito+emergencial">Orçamento e crédito emergencial</a>
+            <a href="#proposicao?id=PL-1215-2025">PL 1215/2025 — Agricultura familiar</a>
+          </div>
+        </li>
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="transparencia">
+            <span>Transparência</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-transparencia" hidden>
+            <a href="#comissoes">Atas e gravações de comissões (CCJ)</a>
+            <a href="#acessibilidade">Acessibilidade, atalhos e alto contraste</a>
+            <a href="#busca?q=acessibilidade">Propostas e normas de acessibilidade</a>
+          </div>
+        </li>
+        <li class="nav-item" role="none">
+          <button type="button" class="nav-trigger" role="menuitem" aria-expanded="false" aria-haspopup="true" data-menu="participe">
+            <span>Participe</span>
+            <span class="ico ico-sm" data-icon="chevron-down" aria-hidden="true"></span>
+          </button>
+          <div class="nav-submenu" id="submenu-participe" hidden>
+            <a href="#eventos"><strong>Eventos Interativos:</strong> Audiência CRA (AO VIVO)</a>
+            <a href="#consulta"><strong>Consulta Pública:</strong> Votar no PL 1215/2025</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Gaveta Mobile (Tela 6: menu em tela cheia ao acionar botão "Menu") -->
+  <div class="mobile-drawer" id="mobile-drawer" role="dialog" aria-modal="true" aria-label="Menu de navegação móvel" hidden>
+    <div class="mobile-drawer-header">
+      <strong>Menu do Senado Federal</strong>
+      <button type="button" class="btn-icon-close" id="btn-close-mobile-menu" aria-label="Fechar menu">
+        <span class="ico" data-icon="close" aria-hidden="true"></span>
+        <span>Fechar</span>
+      </button>
+    </div>
+    <nav class="mobile-drawer-nav" aria-label="Seções principais">
+      <a href="#home">Início</a>
+      <a href="#busca">Buscar no portal</a>
+      <a href="#busca?tipo=proposicao">Atividade legislativa · Proposições</a>
+      <a href="#proposicao?id=PL-5253-2026">Ficha do PL 5253/2026 (Jornada)</a>
+      <a href="#comissoes">Comissões · Reunião da CCJ</a>
+      <a href="#busca?tipo=noticia">Notícias recentes</a>
+      <a href="#busca?tipo=senador">Senadores</a>
+      <a href="#eventos">Participe · Eventos Interativos (CRA PL 1215/2025)</a>
+      <a href="#consulta">Participe · Consulta Pública (Votar Sim/Não)</a>
+      <a href="#acessibilidade">Acessibilidade e Alto Contraste</a>
+    </nav>
+  </div>
+
+  <!-- Trilha de navegação (ocultada na página inicial) -->
+  <div class="breadcrumb-wrap" id="breadcrumb-wrap" hidden>
+    <div class="container">
+      <nav id="breadcrumb" class="breadcrumb" aria-label="Trilha de navegação"></nav>
+    </div>
+  </div>
+
+  <!-- Conteúdo principal dentro do container de 1200 px -->
+  <main id="main-content" class="main-content container" tabindex="-1"></main>
+
+  <!-- Região para leitores de tela -->
+  <div id="sr-live" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- Widget simulado do VLibras (flutuante acessível) -->
+  <aside id="vlibras-widget" class="vlibras-panel" role="region" aria-label="Intérprete virtual VLibras" hidden>
+    <div class="vlibras-header">
+      <strong>VLibras — Tradução em Libras</strong>
+      <button type="button" class="vlibras-close" id="btn-close-vlibras" aria-label="Fechar janela VLibras">×</button>
+    </div>
+    <div class="vlibras-body">
+      <div class="vlibras-avatar" aria-hidden="true">
+        <span class="ico ico-lg" data-icon="vlibras"></span>
+      </div>
+      <p id="vlibras-caption">Modo intérprete ativo. Selecione qualquer texto ou título para acompanhar a sinalização em Libras.</p>
+    </div>
+  </aside>
+
+  <!-- Rodapé institucional (Tabela 5: fundo #002B49, texto branco 14px, padding 48px, 4 colunas desktop / 1 mobile) -->
+  <footer id="site-footer" class="site-footer" tabindex="-1">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h2 class="footer-heading">Senado Federal</h2>
+          <p class="footer-desc">Praça dos Três Poderes · Brasília — DF · CEP 70165-900</p>
+          <p class="footer-desc">Alô Senado: 0800 061 2211</p>
+          <a href="#home">Página inicial</a>
+          <a href="#acessibilidade">Acessibilidade e atalhos</a>
+        </div>
+        <div class="footer-col">
+          <h2 class="footer-heading">Atividade Legislativa</h2>
+          <a href="#busca?tipo=proposicao">Proposições e Projetos de Lei</a>
+          <a href="#proposicao?id=PL-5253-2026">PL 5253/2026 (Ficha didática)</a>
+          <a href="#comissoes">Comissões e reuniões (CCJ)</a>
+          <a href="#busca?tipo=senador">Senadores em exercício</a>
+        </div>
+        <div class="footer-col">
+          <h2 class="footer-heading">Participação Cidadã</h2>
+          <a href="#eventos">Eventos Interativos (Audiência CRA)</a>
+          <a href="#consulta">Consultas Públicas (e-Cidadania)</a>
+          <a href="#busca?tipo=noticia">Agência Senado — Notícias</a>
+        </div>
+        <div class="footer-col">
+          <h2 class="footer-heading">Transparência e Diretrizes</h2>
+          <a href="#acessibilidade">Modo Alto Contraste (Alt + C)</a>
+          <a href="#proposicao?id=PL-5253-2026">Glossário em linguagem cidadã</a>
+          <a href="#busca?q=transpar%C3%AAncia">Atos e regras de transparência</a>
+        </div>
+      </div>
+
+      <!-- Painel discreto de apoio ao avaliador (para alternar estados e cenários AF-T1..AF-T4) -->
+      <details class="evaluator-panel">
+        <summary>Controles de avaliação e estados do protótipo (Uso da equipe · IHC Etapa 7)</summary>
+        <div class="evaluator-grid">
+          <div class="evaluator-group">
+            <strong>Telas principais (Etapa 3)</strong>
+            <div class="evaluator-btns">
+              <button type="button" data-nav="home">1. Início</button>
+              <button type="button" data-nav="busca?q=jornada+de+trabalho">2. Busca</button>
+              <button type="button" data-nav="proposicao?id=PL-5253-2026">3. Ficha PL</button>
+              <button type="button" data-nav="comissoes">4. Comissões CCJ</button>
+              <button type="button" data-nav="consulta">5A. Consulta (Voto)</button>
+              <button type="button" data-nav="eventos">5B. Eventos CRA</button>
+              <button type="button" data-nav="acessibilidade">6. Acessibilidade / Contraste</button>
+            </div>
+          </div>
+          <div class="evaluator-group">
+            <strong>Simulação de estados</strong>
+            <div class="evaluator-btns">
+              <button type="button" data-sim="normal">Estado padrão</button>
+              <button type="button" data-sim="loading">Carregando (Skeleton)</button>
+              <button type="button" data-sim="error">Erro de carga</button>
+              <button type="button" data-sim="empty">Busca vazia</button>
+              <button type="button" data-sim="hc">Alternar Alto Contraste</button>
+            </div>
+          </div>
+          <div class="evaluator-group">
+            <strong>Cenários de teste (Heitor · AF-T1 a AF-T4)</strong>
+            <div class="evaluator-btns">
+              <button type="button" data-scenario="af-t1">AF-T1 (Lista Eventos)</button>
+              <button type="button" data-scenario="af-t2">AF-T2 (Sala da CRA)</button>
+              <button type="button" data-scenario="af-t3">AF-T3 (Revisão c/ erro)</button>
+              <button type="button" data-scenario="af-t4">AF-T4 (Comprovante)</button>
+              <button type="button" data-scenario="reset">Reiniciar sessão</button>
+            </div>
+          </div>
+        </div>
+      </details>
+
+      <div class="footer-bottom">
+        <span>Grupo 06 · IHC (FCTE/UnB, 2026.2) · Dados simulados · <a href="../papel/index.html" style="color:inherit;">Protótipo em papel</a></span>
+        <span>Contraste WCAG AA/AAA · Alvos mínimos 44 × 44 px · Navegação por teclado</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal acessível reutilizável (Tabela 4: 560px desktop / 100% mobile, overlay 0.5, fecha com X, fora ou Esc) -->
+  <dialog id="app-modal" class="app-modal" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 id="modal-title" class="modal-title">Confirmação</h2>
+        <button type="button" class="btn-icon-close" id="btn-modal-close" aria-label="Fechar janela modal">
+          <span class="ico" data-icon="close" aria-hidden="true"></span>
+        </button>
+      </div>
+      <div id="modal-body" class="modal-body"></div>
+      <div id="modal-footer" class="modal-footer"></div>
+    </div>
+  </dialog>
+
+  <noscript>
+    <div class="container" style="padding: 24px;">
+      <p><strong>Ative o JavaScript</strong> para navegar pelos fluxos interativos deste protótipo.</p>
+    </div>
+  </noscript>
 </body>
 </html>
