@@ -1,0 +1,391 @@
+/* style.css — Gabarito para Desenho à Mão no Papel (Baixa Fidelidade) */
+
+@page {
+  size: A4 landscape;
+  margin: 10mm;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  color: #000;
+  background-color: #e0e0e0;
+  font-size: 13px;
+  line-height: 1.35;
+}
+
+@media print {
+  body {
+    background-color: #fff;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .sheet {
+    margin: 0 !important;
+    border: 2px solid #000 !important;
+    box-shadow: none !important;
+    width: 277mm !important;
+    height: 190mm !important;
+    page-break-after: always;
+    break-after: page;
+  }
+  .sheet:last-of-type {
+    page-break-after: auto;
+    break-after: auto;
+  }
+}
+
+/* Barra superior apenas para navegação na tela */
+.nav-bar {
+  background: #111;
+  color: #fff;
+  padding: 6px 14px;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.nav-bar a {
+  color: #fff;
+  text-decoration: underline;
+  margin-right: 10px;
+}
+
+/* Folha A4 Paisagem útil (27,7 cm x 19,0 cm) */
+.sheet {
+  width: 277mm;
+  height: 190mm;
+  margin: 10px auto;
+  background: #fff;
+  border: 2px solid #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 5mm;
+}
+
+/* Área desenhável da tela (26,7 cm x 15,2 cm) */
+.wireframe-canvas {
+  border: 2px solid #000;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Cabeçalho simplificado e rápido de traçar à régua (3 faixas retas) */
+.top-a11y {
+  border-bottom: 2px solid #000;
+  padding: 3px 8px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.main-header {
+  border-bottom: 2px solid #000;
+  padding: 6px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.brand-box {
+  border: 2px solid #000;
+  padding: 3px 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.header-search {
+  border: 2px solid #000;
+  padding: 3px 10px;
+  width: 110mm;
+  display: flex;
+  justify-content: space-between;
+}
+
+.breadcrumb {
+  border-bottom: 2px solid #000;
+  padding: 4px 8px;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Corpo principal da tela */
+.content-area {
+  flex: 1;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+/* Divisão padrão: Esquerda fixa (12 cm) | Direita interativa (13,5 cm) */
+.grid-2col {
+  display: grid;
+  grid-template-columns: 120mm 1fr;
+  gap: 10mm;
+  flex: 1;
+  align-items: stretch;
+}
+
+/* Numeração ① ② ③ e Etiquetas de Medida na Régua */
+.num {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 3px;
+}
+
+.ruler-dim {
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  color: #111;
+  background: #efefef;
+  border: 1px dashed #333;
+  padding: 0 4px;
+  margin-left: 4px;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.frame-ruler-bar {
+  font-family: sans-serif;
+  font-size: 10.5px;
+  font-weight: bold;
+  background: #111;
+  color: #fff;
+  padding: 2px 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Rótulos sempre ACIMA do campo */
+.field-group {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.field-label {
+  font-weight: bold;
+  font-size: 13px;
+}
+.input-box, .select-box {
+  border: 2px solid #000;
+  padding: 5px 8px;
+  min-height: 10mm;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+}
+
+/* Caixa de texto grande apenas com 3 linhas horizontais fáceis de riscar */
+.textarea-lined {
+  border: 2px solid #000;
+  height: 25mm;
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.hand-line {
+  border-bottom: 1px solid #000;
+  height: 6mm;
+}
+
+/* Campo bloqueado: traço tracejado + riscos diagonais largos */
+.textarea-disabled {
+  border: 2px dashed #000;
+  background: repeating-linear-gradient(
+    -45deg,
+    #fff,
+    #fff 8px,
+    #ddd 8px,
+    #ddd 12px
+  );
+  height: 24mm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* Botões Primário (preenchido/hachurado escuro) e Secundário (contorno) */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #000;
+  background: #222;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px 14px;
+  font-size: 13px;
+  min-height: 10mm;
+}
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  font-weight: bold;
+  padding: 5px 14px;
+  font-size: 13px;
+  min-height: 10mm;
+}
+
+/* Caixas e Cartões simples */
+.card {
+  border: 2px solid #000;
+  padding: 6px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.card-highlight {
+  border: 3px solid #000;
+}
+.card-distractor {
+  border: 2px dashed #000;
+}
+
+/* Selos */
+.badge {
+  display: inline-block;
+  border: 2px solid #000;
+  padding: 1px 6px;
+  font-weight: bold;
+  font-size: 12px;
+}
+.badge-live {
+  background: #222;
+  color: #fff;
+}
+
+/* Vídeo: retângulo com X diagonal */
+.video-box {
+  border: 2px solid #000;
+  position: relative;
+  height: 48mm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.video-box svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video-caption {
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  border: 2px solid #000;
+  padding: 3px 10px;
+  font-weight: bold;
+}
+
+/* Área tracejada para colar post-it / recorte */
+.dropzone {
+  border: 2px dashed #000;
+  padding: 6px 8px;
+  min-height: 13mm;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Erro com hachura larga fácil de fazer a lápis */
+.error-hatched {
+  border: 2px solid #000;
+  border-left-width: 8px;
+  background: repeating-linear-gradient(
+    -45deg,
+    #fff,
+    #fff 8px,
+    #e0e0e0 8px,
+    #e0e0e0 12px
+  );
+  padding: 6px 10px;
+  font-weight: bold;
+}
+
+/* Rodapé de instruções de desenho à mão (fora da moldura da tela) */
+.sheet-footer {
+  margin-top: 3mm;
+  padding-top: 2mm;
+  border-top: 2px dashed #000;
+  font-size: 11px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.sheet-footer-top {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+.legend-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.draw-notes {
+  border: 1px solid #000;
+  padding: 2px 6px;
+  background: #f5f5f5;
+}
+
+/* Peças móveis recortáveis */
+.cutout {
+  border: 2px dashed #000;
+  padding: 8px;
+  background: #fff;
+}
+.cutout-header {
+  font-size: 11px;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+  margin-bottom: 6px;
+  padding-bottom: 2px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Tabelas */
+table.wire-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11.5px;
+}
+table.wire-table th,
+table.wire-table td {
+  border: 2px solid #000;
+  padding: 4px 6px;
+  text-align: left;
+  vertical-align: top;
+}
+table.wire-table th {
+  background: #eaeaea;
+}
+table.wire-table tr.blank-row td {
+  height: 24px;
+}
