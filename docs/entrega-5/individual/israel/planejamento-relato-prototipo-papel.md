@@ -69,6 +69,7 @@ Esta cadeia metodológica assegura a continuidade direta dos seguintes artefatos
 * [Princípios Gerais do Projeto](../../../entrega-3/principios-gerais.md) (Etapa 3);
 * [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamento da Avaliação do Storyboard](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md) (Etapa 4);
 * [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
+* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md) e [Planejamento da Avaliação do Papel](planejamento-avaliacao-prototipo-papel.md) (Etapa 5).
 
 ## Preparação e controle dos registros
 

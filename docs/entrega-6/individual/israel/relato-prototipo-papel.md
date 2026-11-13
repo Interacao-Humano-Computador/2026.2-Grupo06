@@ -19,7 +19,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 Este relato acompanha a avaliação de **agendar uma visita ao Senado Federal**, conforme o [planejamento da Etapa 5](../../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md) e o [planejamento do relato](../../../entrega-5/individual/israel/planejamento-relato-prototipo-papel.md). O recorte abrange localização do serviço, leitura das regras, escolha de data e horário, preenchimento de dados com acessibilidade, revisão com correção de erro e obtenção do comprovante.
 
-A persona de referência é [Marta Oliveira](../../../entrega-2/individual/israel/persona.md). Os encaminhamentos RP01–RP05 e AT-P01–AT-P05 vêm dos relatos do [storyboard](../../../entrega-5/individual/israel/relato-storyboard.md) e da [análise de tarefas](../../../entrega-5/individual/israel/relato-analise-tarefas.md). A sessão com o participante PAP-VIS01 foi realizada em 03/11/2026 e seus resultados constam na seção [Resultados da sessão](#resultados-da-sessao).
+A persona de referência é [Marta Oliveira](../../../entrega-2/individual/israel/persona.md). Os encaminhamentos RP01–RP05 e AT-P01–AT-P05 vêm do [relato consolidado da Etapa 5](../../../entrega-5/individual/israel/relato-resultados-etapa5.md), dos relatos do [storyboard](../../../entrega-5/individual/israel/relato-storyboard.md) e da [análise de tarefas](../../../entrega-5/individual/israel/relato-analise-tarefas.md). A sessão com o participante PAP-VIS01 foi realizada em 03/11/2026 e seus resultados constam na seção [Resultados da sessão](#resultados-da-sessao).
 
 ## Método e objetivos
 

@@ -47,7 +47,7 @@ A Tabela 2 relaciona perguntas, tarefas e dados.
 
 ## C — Escolher os métodos
 
-**Teste de usabilidade moderado remoto**, com compartilhamento da tela da pessoa participante no Google Meet. Ela controla o protótipo; Israel lê os enunciados e não move o cursor por ela. Solicitar que diga o que espera e o que está pensando, sem ensinar o percurso. Concluir com entrevista breve. O operador manual era necessário no papel; na alta fidelidade, as respostas são executadas pelo próprio protótipo.
+**Teste de usabilidade moderado presencial**, com compartilhamento da tela da pessoa participante. Ela controla o protótipo; Israel lê os enunciados e não move o cursor por ela. Solicitar que diga o que espera e o que está pensando, sem ensinar o percurso. Concluir com entrevista breve. O operador manual era necessário no papel; na alta fidelidade, as respostas são executadas pelo próprio protótipo.
 
 Não executar reserva no serviço oficial. O protótipo usa dados fictícios, não pede credenciais e mantém o estado apenas na memória da página; recarregar reinicia os dados. A avaliação limita-se ao comportamento implementado, não a integração, regras reais de vagas ou segurança de produção.
 

@@ -23,7 +23,7 @@ O planejamento integra a **Etapa 5, com entrega em 25/10/2026**. A execução pr
 
 ## Contextualização
 
-O reprojeto parte das necessidades e barreiras identificadas na [persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md), no [cenário de agendamento de visita](../../../entrega-2/individual/israel/cenario.md), na modelagem da [HTA e CTT](../../../entrega-2/individual/israel/analise-tarefas.md) e no [Storyboard do Agendamento](../../../entrega-4/individual/israel/storyboard.md). Ele incorpora diretamente os achados empíricos e diretrizes consolidados no [Relato do Storyboard](relato-storyboard.md) e no [Relato da Análise de Tarefas](relato-analise-tarefas.md).
+O reprojeto parte das necessidades e barreiras identificadas na [persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md), no [cenário de agendamento de visita](../../../entrega-2/individual/israel/cenario.md), na modelagem da [HTA e CTT](../../../entrega-2/individual/israel/analise-tarefas.md) e no [Storyboard do Agendamento](../../../entrega-4/individual/israel/storyboard.md). Ele incorpora diretamente os achados empíricos e diretrizes consolidados no [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md), no [Relato do Storyboard](relato-storyboard.md) e no [Relato da Análise de Tarefas](relato-analise-tarefas.md).
 
 A avaliação do protótipo de papel visa simular o fluxo reprojetado antes de qualquer linha de código em alta fidelidade. As telas e elementos móveis serão propostas de design para sanar gargalos históricos do portal, tais como:
 1. Encontrabilidade deficiente do serviço de visitação a partir da página principal;
@@ -203,7 +203,7 @@ A cadeia metodológica articula-se com os seguintes artefatos de referência:
 * [Modelagem HTA e CTT v2.0](../../../entrega-2/individual/israel/analise-tarefas.md) (Etapa 2);
 * [Princípios Gerais de IHC](../../../entrega-3/principios-gerais.md) e [Metas de Usabilidade](../../../entrega-3/metas-usabilidade.md) (Etapa 3);
 * [Storyboard de Agendamento](../../../entrega-4/individual/israel/storyboard.md) e [Planejamentos da Etapa 4](../../../entrega-4/individual/israel/planejamento-avaliacao-storyboard.md);
-* [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
+* [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md), [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
 * [Planejamento do Relato do Papel](planejamento-relato-prototipo-papel.md) (Etapa 5/6).
 
 ## Agradecimentos
