@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Grupo 06 · Autores: Caio Breno de Souza Bezerra e Israel Soares de Paiva</span>
+<span class="owner">Responsável: Grupo 06 · Autores: Caio Breno de Souza Bezerra, Israel Soares de Paiva e Bruno Ferreira Dornelas</span>
 
 # Etapa 7 — Resultados da alta fidelidade
 
@@ -10,7 +10,8 @@ A Tabela 1 identifica as contribuições neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Abertura da Etapa 7 e integração do recorte de Caio | [Conteúdo](#introducao) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Integração do recorte individual de agendamento de visita | [Trabalhos individuais](#trabalhos-individuais) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e integração do recorte de complementos de ideias legislativas | [Trabalhos individuais](#trabalhos-individuais) |
+| Codex (OpenAI) | Apoio à integração da estrutura individual de Bruno | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -23,6 +24,7 @@ A Etapa 7 reúne o **relato dos resultados da avaliação do protótipo de alta 
 
 <div class="etapa-actions" markdown>
 
+[Bruno Ferreira — Complementos de ideias legislativas](individual/bruno/index.md){ .md-button }
 [Caio Breno — Envio e acompanhamento de ideia](individual/caio/index.md){ .md-button }
 [Israel Soares — Agendamento de visita ao Senado](individual/israel/index.md){ .md-button .md-button--primary }
 [Apresentação da etapa](../apresentacoes/etapa-07.md){ .md-button }
@@ -30,6 +32,8 @@ A Etapa 7 reúne o **relato dos resultados da avaliação do protótipo de alta 
 </div>
 
 Os recortes individuais estruturam os testes com usuários dos protótipos navegáveis:
+
+* **Bruno Ferreira:** Estrutura do relato de complementos de ideias legislativas com campos para três participantes e registros de tela e ambiente; resultados a preencher após análise;
 * **Caio Breno:** Avaliação de envio e acompanhamento de ideia legislativa com duas pessoas e duas perspectivas de registro (tela e câmera da sala);
 * **Israel Soares:** Avaliação do agendamento de visita ao Senado com metodologia enxuta de Steve Krug (3 a 4 participantes e piloto), Thinking Aloud e triagem no mesmo dia;
 * Os demais recortes serão integrados pelos respectivos autores.
@@ -38,13 +42,13 @@ Os recortes individuais estruturam os testes com usuários dos protótipos naveg
 
 A Tabela 2 relaciona o que precisa ser consultado nesta etapa.
 
-| Item | Acesso Caio | Acesso Israel |
-| --- | --- | --- |
-| Objetivos, método, participantes, tarefas e resultados | [Relato de Caio](individual/caio/relato-alta-fidelidade.md) | [Relato de Israel](individual/israel/relato-alta-fidelidade.md) |
-| Gravações e localizadores das evidências | [Registros audiovisuais](individual/caio/evidencias.md) | [Registros audiovisuais](individual/israel/evidencias.md) |
-| Problemas, propostas e pendências de reteste | [Decisões de reprojeto](individual/caio/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto) | [Triagem de Steve Krug](individual/israel/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto-triagem-de-steve-krug) |
-| Critérios de entrega | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) |
-| Vídeo de apresentação do artefato | [Apresentação de Caio](../apresentacoes/etapa-07.md#caio-breno-de-souza-bezerra) | [Apresentação de Israel](../apresentacoes/etapa-07.md#israel-soares-de-paiva) |
+| Item | Acesso Bruno | Acesso Caio | Acesso Israel |
+| --- | --- | --- | --- |
+| Objetivos, método, participantes, tarefas e resultados | [Estrutura do relato de Bruno](individual/bruno/relato-alta-fidelidade.md) | [Relato de Caio](individual/caio/relato-alta-fidelidade.md) | [Relato de Israel](individual/israel/relato-alta-fidelidade.md) |
+| Gravações e localizadores das evidências | [Campos dos registros audiovisuais](individual/bruno/evidencias.md) | [Registros audiovisuais](individual/caio/evidencias.md) | [Registros audiovisuais](individual/israel/evidencias.md) |
+| Problemas, propostas e pendências de reteste | [Matriz de problemas e reprojeto](individual/bruno/relato-alta-fidelidade.md#5-problemas-e-decisoes-de-reprojeto) | [Decisões de reprojeto](individual/caio/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto) | [Triagem de Steve Krug](individual/israel/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto-triagem-de-steve-krug) |
+| Critérios de entrega | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) |
+| Vídeo de apresentação do artefato | | [Apresentação de Caio](../apresentacoes/etapa-07.md#caio-breno-de-souza-bezerra) | [Apresentação de Israel](../apresentacoes/etapa-07.md#israel-soares-de-paiva) |
 
 <p class="caption">Tabela 2 — Acessos da Etapa 7.</p>
 <p class="source">Fonte: plano de ensino e organização do Grupo 06 (2026).</p>
@@ -53,12 +57,15 @@ A Tabela 2 relaciona o que precisa ser consultado nesta etapa.
 
 Codex (OpenAI) e Claude (Anthropic) apoiaram a consulta bibliográfica, a estruturação e a organização documental. Caio Breno de Souza Bezerra e Israel Soares de Paiva respondem pelos respectivos conteúdos. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
+O Codex (OpenAI) apoiou a integração da estrutura individual de Bruno Ferreira Dornelas, responsável pelo recorte de complementos de ideias legislativas. A revisão desse recorte está designada a Luís Henrique Arruda Luna.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Abertura da Etapa 7 e integração do recorte de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 12/11/2026 | Integração do recorte individual de Israel Soares | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 13/11/2026 | Integração da estrutura do relato e das evidências de Bruno, com resultados em branco | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
