@@ -1,4 +1,4 @@
-﻿site_name: Grupo 06
+site_name: Grupo 06
 site_description: Documentação do projeto de Interação Humano-Computador do Grupo 06, FCTE/UnB, 2026.2.
 site_author: Grupo 06 — IHC 2026.2
 site_url: https://interacao-humano-computador.github.io/2026.2-Grupo06/
@@ -292,6 +292,10 @@ nav:
               - entrega-7/individual/caio/index.md
               - Alta fidelidade · Relato: entrega-7/individual/caio/relato-alta-fidelidade.md
               - Vídeos e evidências: entrega-7/individual/caio/evidencias.md
+          - Israel Soares:
+              - entrega-7/individual/israel/index.md
+              - Alta fidelidade · Relato: entrega-7/individual/israel/relato-alta-fidelidade.md
+              - Vídeos e evidências: entrega-7/individual/israel/evidencias.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
