@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições na preparação deste artefato.
 
 ## Introdução
 
-Este relato segue o planejamento da avaliação [1] e do relato [2] da Etapa 6. O recorte é sugerir e acompanhar complementos de ideias legislativas. A versão `0.7` consolida os três testes, responde às perguntas da avaliação, compara as decisões do papel e apresenta prioridades de reprojeto. A consolidação é documental e qualitativa, limitada pela conferência audiovisual descrita nesta página.
+Este relato segue o planejamento da avaliação [1] e do relato [2] da Etapa 6. O recorte é sugerir e acompanhar complementos de ideias legislativas. A versão `0.9` consolida os três testes, responde às perguntas da avaliação, compara as decisões do papel e apresenta prioridades de reprojeto. A consolidação é documental e qualitativa, limitada pela conferência audiovisual descrita nesta página.
 
 Os resultados estão vinculados aos [vídeos e evidências](evidencias.md). Dados ausentes são identificados como não informados ou não aferidos; não representam tempo zero, ausência de problema ou aprovação de um critério.
 
@@ -51,11 +51,11 @@ A Tabela 2 distingue o material disponível no projeto da identificação ainda 
 
 | Campo | Registro |
 | --- | --- |
-| Plataforma utilizada (HTML ou Figma) | Interface web observada nas três gravações; plataforma de execução não confirmada pelo responsável. |
+| Plataforma utilizada (HTML ou Figma) | Protótipo em HTML, executado no Microsoft Edge nas três sessões, conforme confirmação do responsável em 15/11/2026. |
 | Acesso ao material | [Protótipo e roteiro na Etapa 6](../../../entrega-6/individual/bruno/index.md). O acesso atual não comprova a URL exata usada em 11/11. |
 | Versão / identificação das telas | Busca e detalhes da ideia, formulário e prévia, espera, ajuste, discordância, publicação e anexo consultivo. Commit da coleta não informado. |
 | Data de congelamento da versão | Não informada; não se adotou a data prevista como fato executado. |
-| Alterações entre sessões | Não informadas. A semelhança das telas não garante identidade do código entre sessões. |
+| Alterações entre sessões | Não houve alterações entre as sessões: os três participantes utilizaram a mesma versão, conforme confirmação do responsável. |
 
 <p class="caption">Tabela 2 — Identificação do material avaliado.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -74,6 +74,8 @@ Cada sessão possui gravação da tela e do ambiente. Os seis vídeos representa
 
 A análise reuniu as legendas dos dois ângulos, os estados conferidos visualmente e as intervenções da moderação. Os comentários são paráfrases, não citações literais revisadas. Não foram inferidos perfil, experiência anterior, consentimento ou satisfação a partir da aparência das pessoas.
 
+Os três participantes eram estudantes de engenharia, de 20 a 21 anos, com muita familiaridade com tecnologia e alguma familiaridade com participação legislativa. Conheciam o site e o envio de ideias do Senado, mas não o protótipo. Segundo o responsável, a novidade da funcionalidade proposta provocou estranhamento inicial; isso contextualiza a experiência, sem explicar isoladamente as dificuldades observadas. Essas informações foram confirmadas em 15/11/2026.
+
 ### Teste-piloto
 
 A Tabela 3 registra a ausência de piloto, confirmada pelo responsável pela coleta.
@@ -81,7 +83,7 @@ A Tabela 3 registra a ausência de piloto, confirmada pelo responsável pela col
 
 | Campo | Registro |
 | --- | --- |
-| Realização e data do piloto | **Não realizado**, conforme confirmação de Bruno em 13/11/2026. |
+| Realização e data do piloto | **Não realizado**. Ausência confirmada em 13/11/2026; em 15/11/2026, Bruno informou que ocorreu por esquecimento. |
 | Perfil e independência da amostra | Não se aplica: não houve quarta pessoa em sessão de piloto. |
 | Modalidade, equipe e duração | Não se aplica. |
 | Registro disponível / link | Não existe registro de piloto informado para esta rodada. |
@@ -94,23 +96,23 @@ A Tabela 3 registra a ausência de piloto, confirmada pelo responsável pela col
 
 ### Diferenças entre planejamento e execução
 
-A Tabela 4 compara a versão 1.1 dos planejamentos, de 09/11, com a coleta efetiva. A revisão de 13/11 dos planejamentos (versões 1.2 e 1.3) registra o procedimento aplicado e as notas confirmadas, mantendo o cronograma original. Quando o motivo não foi informado, registra-se essa ausência em vez de atribuir uma justificativa à equipe.
+A Tabela 4 compara a versão 1.1 dos planejamentos, de 09/11, com a coleta efetiva. As revisões de 13 e 15/11 dos planejamentos registram o procedimento aplicado, as notas e os dados da coleta confirmados, mantendo o cronograma original. Quando o motivo não foi informado, registra-se essa ausência em vez de atribuir uma justificativa à equipe.
 
 
 | Aspecto / participante | Previsto | Realizado | Motivo / evidência | Efeito na análise |
 | --- | --- | --- | --- | --- |
-| Amostra e modalidade | Três pessoas em sessões individuais, preferencialmente presenciais. | Três sessões presenciais, com tela e ambiente. | Confirmação do responsável e seis registros. | Quantidade e modalidade previstas foram mantidas; perfil e exposição anterior não informados. |
-| Horário e local | 11/11, sessões às 18h, 19h e 20h; sala reservada a confirmar. | 11/11, por volta das 9h, contêiner da EJS, UnB Gama. | Confirmação do responsável; motivo da mudança de horário não informado. | Data mantida; horário e local efetivos substituem as propostas somente no relato. |
-| Equipe | Bruno modera; Luís Henrique é observador proposto, com possível participação de Caio e Israel. | Bruno moderou e Caio observou. | Confirmação do responsável; motivo da composição não informado. | Registra-se a equipe efetiva, sem atribuir presença aos demais. |
-| Teste-piloto | Sessão completa com quarta pessoa antes da rodada. | Não houve piloto. | Confirmação do responsável; motivo não informado. | Procedimento, captura e duração não foram validados em ensaio separado. |
+| Amostra e modalidade | Três pessoas em sessões individuais, preferencialmente presenciais. | Três sessões presenciais, com tela e ambiente. | Confirmação do responsável e seis registros. | Quantidade e modalidade mantidas; estudantes de engenharia de 20 a 21 anos, familiarizados com o site, sem contato prévio com o protótipo. |
+| Horário e local | 11/11, sessões às 18h, 19h e 20h; sala reservada a confirmar. | 11/11, por volta das 9h, contêiner da EJS, UnB Gama. | Disponibilidade dos participantes, do moderador e do observador no período da manhã, confirmada em 15/11/2026. | Data mantida; horário e local efetivos substituem as propostas somente no relato. |
+| Equipe | Bruno modera; Luís Henrique é observador proposto, com possível participação de Caio e Israel. | Bruno moderou e Caio observou. | Caio tinha disponibilidade para acompanhar os testes, conforme confirmação do responsável em 15/11/2026. | Registra-se a equipe efetiva, sem atribuir presença aos demais. |
+| Teste-piloto | Sessão completa com quarta pessoa antes da rodada. | Não houve piloto. | O piloto não foi realizado por esquecimento, conforme confirmação do responsável em 15/11/2026. | Procedimento, captura e duração não foram validados em ensaio separado. |
 | Apresentação das tarefas | Enunciados um por vez, sem antecipar a opção de complementar ou os critérios de sucesso. | Fluxo completo explicado na abertura dos três testes. | [Aberturas e localizadores](evidencias.md); motivo não informado. | Descoberta espontânea e compreensão sem orientação não podem ser demonstradas por essa aplicação. |
 | Busca e conteúdo | Pesquisar tema e elaborar proposta de atendimento noturno com apoio de cartão. | Localização por navegação; pesquisa digitada não confirmada. Participante 3 usa texto sem sentido. | [Participante 3, 02:29–03:24](https://youtu.be/bbDlreTH3uw?t=149); declara intenção de experimentar. | Distingue-se avanço operacional de elaboração e revisão de uma proposta pertinente. |
 | Discordância | Após discordar, preparar cenário independente de publicação para a tarefa seguinte. | Participante 3 volta a revisar, reenvia e depois concorda. | [Participante 3, 03:24–04:01](https://youtu.be/bbDlreTH3uw?t=204). | Reenvio é exploração adicional da mesma sessão; não é outra pessoa nem cenário independente comprovado. |
 | Duração | Reserva de até 50 minutos por pessoa. | Vídeos de tela de 6min40s, 6min10s e 7min38s. | Duração exibida pelos vídeos; não comprova todo o tempo presencial. | Sessões gravadas curtas não descumprem um teto de duração; não se convertem em tempo ativo das tarefas. |
 | Satisfação | Nota de um a cinco e justificativa para cada tarefa. | Opiniões gerais nas entrevistas. Notas gerais de 4, 5 e 4,5 para os Participantes 1, 2 e 3, respectivamente. | Entrevistas e confirmação complementar do responsável em 13/11/2026. | As três notas descrevem a avaliação geral; não medem satisfação por tarefa nem comprovam as metas do plano original. |
 | Medições e compreensão | Classificar tarefas, contar erros, medir tempo ativo e sondar autoria, apoios e anexo. | Há ações, opiniões e intervenções; faltam medições contínuas e algumas demonstrações de compreensão. | Localizadores individuais; não foram fornecidas fichas de medição. | Tempos e erros totais não aferidos. Falta de evidência é inconclusão, não fracasso do participante. |
-| Imagem e identificação | Captura de tela/áudio sem rosto e identificação por códigos. | Câmera do ambiente mostra rostos; documentos usam Participante 1, 2 e 3. | Vídeos recebidos e convenção descritiva adotada no relato. | Escopo de autorização de imagem e divulgação ainda não informado; identificação textual não anonimiza os vídeos. |
-| Triagem e reunião | Até três problemas por observador e reunião de consolidação após a rodada. | Listas e reunião não documentadas no material recebido; consolidação documental realizada em 13/11. | Não foram fornecidos registros da discussão. | As prioridades desta análise não são apresentadas como deliberação de uma reunião realizada. |
+| Imagem e identificação | Captura de tela/áudio sem rosto e identificação por códigos. | Câmera do ambiente mostra rostos; documentos usam Participante 1, 2 e 3. | Vídeos recebidos e convenção descritiva adotada no relato. | Participação, gravação e divulgação pública autorizadas, conforme confirmação do responsável em 15/11/2026. Identificação textual não anonimiza os vídeos. |
+| Triagem e reunião | Até três problemas por observador e reunião de consolidação após a rodada. | Caio fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos. As propostas de correção coincidem com as apresentadas no relato. | Confirmação do responsável em 15/11/2026; anotações originais não anexadas. | Há convergência dos achados; não foram informadas data e duração de uma reunião formal nem uma ordem de prioridade definida pela equipe. |
 
 <p class="caption">Tabela 4 — Diferenças entre planejamento e execução.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -152,15 +154,15 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 
 | Campo | Registro |
 | --- | --- |
-| Perfil resumido (ocupação e faixa etária aproximada) | Não informado pelo responsável; não inferido pela imagem. |
-| Familiaridade digital e com participação legislativa | Não informada; a exploração do protótipo não substitui caracterização de perfil. |
-| Participação anterior no projeto / contato prévio com o protótipo | Não informada; possível aprendizado prévio não controlado nesta consolidação. |
+| Perfil resumido (ocupação e faixa etária aproximada) | Estudante de engenharia, na faixa de 20 a 21 anos. Perfil informado para os três participantes pelo responsável em 15/11/2026. |
+| Familiaridade digital e com participação legislativa | Muita familiaridade com tecnologia e alguma familiaridade com participação legislativa, conforme informação do responsável. |
+| Participação anterior no projeto / contato prévio com o protótipo | Já conhecia o site do Senado e o envio de uma ideia legislativa, mas não conhecia o protótipo de complementos. |
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. Informação confirmada pelo responsável para a rodada. |
 | Horário de início, fim e duração da sessão | Vídeo de tela: 6min40s; ambiente: 6min39s. Essas durações não comprovam a duração integral da sessão. Horários não confirmados. |
-| Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; navegador e configurações a confirmar. |
-| Versão / commit e plataforma efetivamente utilizados | Protótipo web observado; versão e commit não confirmados. |
+| Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Bruno Ferreira Dornelas: moderador e responsável pelo recorte. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não informada. |
-| Confirmação das autorizações de participação, gravação e divulgação | Não informada pelo responsável; a disponibilidade dos links não comprova o alcance do consentimento. |
+| Confirmação das autorizações de participação, gravação e divulgação | Participação e gravação autorizadas pelos três participantes, conforme confirmação do responsável em 15/11/2026. Divulgação pública dos vídeos também autorizada, conforme confirmação do responsável em 15/11/2026. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
 | Intercorrências e alterações no procedimento | O percurso completo foi apresentado na abertura; houve instruções para operar as simulações durante a sessão. Conferir detalhes nos registros de evidências. |
 
@@ -200,15 +202,15 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 
 | Campo | Registro |
 | --- | --- |
-| Perfil resumido (ocupação e faixa etária aproximada) | Não informado pelo responsável; não inferido pela imagem. |
-| Familiaridade digital e com participação legislativa | Não informada; a exploração do protótipo não substitui caracterização de perfil. |
-| Participação anterior no projeto / contato prévio com o protótipo | Não informada; possível aprendizado prévio não controlado nesta consolidação. |
+| Perfil resumido (ocupação e faixa etária aproximada) | Estudante de engenharia, na faixa de 20 a 21 anos. Perfil informado para os três participantes pelo responsável em 15/11/2026. |
+| Familiaridade digital e com participação legislativa | Muita familiaridade com tecnologia e alguma familiaridade com participação legislativa, conforme informação do responsável. |
+| Participação anterior no projeto / contato prévio com o protótipo | Já conhecia o site do Senado e o envio de uma ideia legislativa, mas não conhecia o protótipo de complementos. |
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. Informação confirmada pelo responsável para a rodada. |
 | Horário de início, fim e duração da sessão | Tela: 6min10s; ambiente: 6min11s. Duração integral da sessão e horários não confirmados. |
-| Dispositivo, navegador e condições de acessibilidade | Notebook com mouse externo visível no ambiente; navegador e condições de acessibilidade a confirmar. |
-| Versão / commit e plataforma efetivamente utilizados | Interface do protótipo web observada; plataforma de execução, versão e commit não confirmados. |
+| Dispositivo, navegador e condições de acessibilidade | Notebook com mouse externo visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Bruno Ferreira Dornelas: moderador e responsável pelo recorte. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não informada. |
-| Confirmação das autorizações de participação, gravação e divulgação | Não informada pelo responsável; a disponibilidade dos links não comprova o alcance do consentimento. |
+| Confirmação das autorizações de participação, gravação e divulgação | Participação e gravação autorizadas pelos três participantes, conforme confirmação do responsável em 15/11/2026. Divulgação pública dos vídeos também autorizada, conforme confirmação do responsável em 15/11/2026. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
 | Intercorrências e alterações no procedimento | O enunciado antecipa o percurso e as simulações. Entrevista final contém avaliação geral; notas numéricas por tarefa não localizadas nas legendas. |
 
@@ -248,15 +250,15 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 
 | Campo | Registro |
 | --- | --- |
-| Perfil resumido (ocupação e faixa etária aproximada) | Não informado pelo responsável; não inferido pela imagem. |
-| Familiaridade digital e com participação legislativa | Não informada; a exploração do protótipo não substitui caracterização de perfil. |
-| Participação anterior no projeto / contato prévio com o protótipo | Não informada; possível aprendizado prévio não controlado nesta consolidação. |
+| Perfil resumido (ocupação e faixa etária aproximada) | Estudante de engenharia, na faixa de 20 a 21 anos. Perfil informado para os três participantes pelo responsável em 15/11/2026. |
+| Familiaridade digital e com participação legislativa | Muita familiaridade com tecnologia e alguma familiaridade com participação legislativa, conforme informação do responsável. |
+| Participação anterior no projeto / contato prévio com o protótipo | Já conhecia o site do Senado e o envio de uma ideia legislativa, mas não conhecia o protótipo de complementos. |
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. Informação confirmada pelo responsável para a rodada. |
 | Horário de início, fim e duração da sessão | Tela: 7min38s; ambiente: 7min33s. Esses valores não comprovam a duração integral da sessão; horários a confirmar. |
-| Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; navegador e condições de acessibilidade a confirmar. |
-| Versão / commit e plataforma efetivamente utilizados | Interface do protótipo web observada; plataforma de execução, versão e commit não confirmados. |
+| Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Bruno Ferreira Dornelas: moderador e responsável pelo recorte. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não informada. |
-| Confirmação das autorizações de participação, gravação e divulgação | Não informada pelo responsável; a disponibilidade dos links não comprova o alcance do consentimento. |
+| Confirmação das autorizações de participação, gravação e divulgação | Participação e gravação autorizadas pelos três participantes, conforme confirmação do responsável em 15/11/2026. Divulgação pública dos vídeos também autorizada, conforme confirmação do responsável em 15/11/2026. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
 | Intercorrências e alterações no procedimento | Percurso explicado antecipadamente. Participante usa sequências sem sentido como conteúdo e explora botões, incluindo discordância e reenvio. Entrevista recolhe avaliação geral de 4,5/5, confirmada pelo responsável, em vez de notas por tarefa. |
 
@@ -313,7 +315,7 @@ A Tabela 15 apresenta a cobertura das quatro tarefas e as classificações docum
 
 ### Perguntas da avaliação
 
-A Tabela 16 responde às sete perguntas da revisão de 13/11 dos planejamentos [1–2], preservando as condições necessárias para interpretar cada resultado.
+A Tabela 16 responde às sete perguntas dos planejamentos revisados [1–2], preservando as condições necessárias para interpretar cada resultado.
 
 
 | Questão / foco | Resposta apoiada nos dados | Evidências / métricas | Limites e encaminhamento |
@@ -365,26 +367,26 @@ Conforme a escala local [1–2], prioridade **alta** corresponde a bloqueio ou i
 
 ### Discussão dos achados
 
-A Tabela 19 sintetiza os achados por sessão nesta análise documental. Caio foi o observador da coleta, mas suas listas de triagem não foram fornecidas. Os itens abaixo não são atribuídos a uma seleção feita por ele.
+A Tabela 19 sintetiza os achados por sessão. Em 15/11/2026, o responsável confirmou que Caio fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos e que as propostas de correção coincidem com as apresentadas neste relato. A organização por sessão abaixo usa os localizadores audiovisuais; as anotações originais não estão anexadas.
 
 
 | Sessão | Origem da seleção | Problemas identificados | Evidências e justificativa |
 | --- | --- | --- | --- |
-| Participante 1 | Análise documental; lista de Caio não fornecida. | Acesso ao complemento pouco evidente. | Queixa da entrevista; orientação em espera e encaminhamento registrada como limite de compreensão. |
-| Participante 2 | Análise documental; lista de Caio não fornecida. | Relação entre apoios e encaminhamento. | Dúvida final e interpretação sobre votação; revisão do texto é evidência positiva. |
-| Participante 3 | Análise documental; lista de Caio não fornecida. | Consequência da discordância e visibilidade da confirmação. | Pergunta sobre nova resposta e queixa sobre o controle; abertura do anexo confirmada. |
+| Participante 1 | Registros audiovisuais; convergência com as anotações de Caio confirmada pelo responsável. | Acesso ao complemento pouco evidente. | Queixa da entrevista; orientação em espera e encaminhamento registrada como limite de compreensão. |
+| Participante 2 | Registros audiovisuais; convergência com as anotações de Caio confirmada pelo responsável. | Relação entre apoios e encaminhamento. | Dúvida final e interpretação sobre votação; revisão do texto é evidência positiva. |
+| Participante 3 | Registros audiovisuais; convergência com as anotações de Caio confirmada pelo responsável. | Consequência da discordância e visibilidade da confirmação. | Pergunta sobre nova resposta e queixa sobre o controle; abertura do anexo confirmada. |
 
 <p class="caption">Tabela 19 — Síntese documental dos problemas por sessão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A Tabela 20 distingue esta consolidação de uma reunião da equipe, cuja realização não foi confirmada.
+A Tabela 20 registra a consolidação e a confirmação posterior dos achados e das propostas, sem atribuir data ou duração a uma reunião formal.
 
 
 | Campo | Registro |
 | --- | --- |
 | Data e duração da reunião | Não informadas. Consolidação documental produzida em 13/11/2026. |
-| Pessoas presentes | Não informado para reunião; Bruno e Caio confirmados como equipe da coleta. |
-| Problemas agrupados e evidências | Quatro problemas na Tabela 18, derivados dos seis vídeos de três sessões. |
+| Pessoas presentes | Bruno moderou e Caio observou e fez anotações; informações sobre a consolidação confirmadas por Bruno em 15/11/2026. |
+| Problemas agrupados e evidências | Quatro problemas na Tabela 18, derivados dos vídeos e coincidentes com os levantados nas anotações de Caio, conforme confirmação de Bruno. |
 | Prioridades | Proposta: primeiro clareza do encaminhamento; depois acesso, discordância e confirmação. Não se apresenta como decisão de reunião. |
 | Responsáveis e prazos | Bruno proposto para o reprojeto; prazo de implementação e rodada de reteste ainda não definidos. |
 | Versões alteradas e reteste | Nenhuma mudança do protótipo feita nesta consolidação. Melhorias propostas, não implementadas nem reavaliadas. |
@@ -404,8 +406,8 @@ A Tabela 21 sintetiza os resultados e seus limites para esta rodada formativa.
 | Conclusão das tarefas | Os três chegam à publicação. Cumprimento integral dos critérios é menos demonstrado que o avanço entre telas. | Um indício documental de conclusão com ajuda; demais critérios integrais não avaliáveis com segurança. Não há taxa global de sucesso validada. |
 | Erros e compreensão | Apoios, encaminhamento e discordância exigem atenção; ausência de erro verbalizado não prova compreensão. | Intervenções, texto de teste e cobertura parcial limitam a aferição. |
 | Avaliação geral individual | Participante 1: 4/5; Participante 2: 5/5; Participante 3: 4,5/5, confirmadas pelo responsável. Comentários favoráveis com ressalvas específicas. | Notas globais; não substituem evidências de compreensão nem medições por tarefa. |
-| Amostra e condução | Três sessões presenciais com Bruno e Caio; ausência de piloto e instrução antecipada do fluxo. | Perfil e contato prévio não informados. Sem generalização ao público do Senado. |
-| Registro e medições | Seis vídeos e localizadores permitem revisão; não constituem transcrição integral revisada. | Tempos ativos, erros totais e sincronização exata não aferidos; autorizações de divulgação não confirmadas nesta documentação. |
+| Amostra e condução | Três sessões presenciais com Bruno e Caio; ausência de piloto e instrução antecipada do fluxo. | Estudantes de engenharia de 20 a 21 anos, com muita familiaridade tecnológica e sem contato prévio com o protótipo. Amostra restrita, sem generalização ao público do Senado. |
+| Registro e medições | Seis vídeos e localizadores permitem revisão; não constituem transcrição integral revisada. | Tempos ativos, erros totais e sincronização exata não aferidos; divulgação dos vídeos autorizada pelos três participantes, conforme confirmação do responsável em 15/11/2026. |
 | Encaminhamentos | Validar regras e mensagens, implementar melhorias priorizadas e testar novamente com instruções neutras. | Em uma nova rodada, recolher perfil e sondagens de compreensão; manter nota geral e comentários por tarefa; registrar versão, piloto e intervenções. |
 
 <p class="caption">Tabela 21 — Síntese dos resultados e limitações.</p>
@@ -421,7 +423,7 @@ Recomenda-se uma nova rodada após o reprojeto, com cenário apresentado por obj
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a análise das legendas e de pontos das gravações, a consolidação documental dos três testes, a comparação com o planejamento, a redação das propostas de melhoria e a revisão final de consistência documental. Bruno confirmou data, horário aproximado, local, equipe, ausência de piloto e as notas gerais dos três participantes. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico. Revisor designado: [Luís Henrique Arruda Luna](https://github.com/Donnk61).
+O Codex (OpenAI) apoiou a análise das legendas e de pontos das gravações, a consolidação documental dos três testes, a comparação com o planejamento, a redação das propostas de melhoria e a revisão final de consistência documental. Bruno confirmou data, horário aproximado, local, equipe, ausência de piloto e as notas gerais dos três participantes. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico.
 
 ## Histórico de versão
 
@@ -437,6 +439,8 @@ A tabela a seguir registra a preparação desta versão.
 | `0.5` | 13/11/2026 | Consolidação dos três testes, condições confirmadas da coleta, perguntas, indicadores, comparação com o papel, prioridades e diferenças em relação ao plano | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.6` | 13/11/2026 | Notas gerais dos Participantes 1 e 2 confirmadas; alinhamento aos planejamentos revisados, preservando a comparação com a versão anterior e o cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.7` | 13/11/2026 | Revisão final de consistência com a Etapa 6, confirmação da nota geral 4,5 do Participante 3 e delimitação das informações externas ao fechamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.8` | 15/11/2026 | Inclusão das informações confirmadas sobre participantes, aplicação e autorizações; revisão do relato por Luís Henrique sem correções, confirmada pelo responsável nesta data | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 22 — Histórico de versão.</p>
@@ -444,9 +448,9 @@ A tabela a seguir registra a preparação desta versão.
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.3, de 13/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.3, de 13/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 343.
 

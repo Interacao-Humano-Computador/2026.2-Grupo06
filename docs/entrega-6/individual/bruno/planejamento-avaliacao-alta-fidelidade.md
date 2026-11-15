@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.3, de 13/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
+Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.5, de 15/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
 
 Os resultados são apresentados separadamente no relato da Etapa 7. Este documento define o método, as perguntas e os instrumentos correspondentes à rodada, sem transformar dados não coletados em medições.
 
@@ -34,7 +34,7 @@ Dos aspectos apresentados por Barbosa e Silva (2010, p. 290–293 [1]), foram se
 - **Avaliar ideias e alternativas de design:** examinar autoria, comparação de textos, espera e contadores, relacionando a experiência atual aos problemas do papel. A comparação é histórica e formativa, sem teste A/B ou atribuição causal de superioridade.
 - **Identificar problemas de interação e interface:** localizar dificuldades na busca, redação, revisão, decisão sobre ajustes e acompanhamento, descrevendo impacto e possibilidades de melhoria.
 
-O público-alvo do recorte são cidadãos adultos interessados em participação legislativa digital, com referência na persona [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md). A coleta compreende três pessoas no mesmo recorte; perfil e exposição anterior não foram informados. Outros serviços, adoção longitudinal e comparação cronometrada com o portal oficial ficam fora do escopo (p. 304 [1]).
+O público-alvo do recorte são cidadãos adultos interessados em participação legislativa digital, com referência na persona [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md). A coleta compreende três pessoas no mesmo recorte; são estudantes de engenharia de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa. Conheciam o site e o envio de ideias do Senado, mas não o protótipo. Outros serviços, adoção longitudinal e comparação cronometrada com o portal oficial ficam fora do escopo (p. 304 [1]).
 
 ## E — Explorar as perguntas
 
@@ -63,7 +63,7 @@ O procedimento é um **teste de usabilidade presencial, moderado, qualitativo e 
 
 - **Participantes:** três pessoas em sessões individuais. A rodada pequena permite identificar dificuldades, sem garantir saturação ou porcentagem de problemas encontrados [4, p. 146].
 - **Moderador:** Bruno Ferreira Dornelas apresentou o cenário, conduziu a sessão e a entrevista e esclareceu dúvidas.
-- **Observador:** Caio Breno de Souza Bezerra acompanhou a coleta. A observação segue a referência de Krug [6]; listas individuais de problemas e reunião posterior não foram fornecidas para a consolidação.
+- **Observador:** Caio Breno de Souza Bezerra acompanhou a coleta. A observação segue a referência de Krug [6]; Caio fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos, conforme confirmação do responsável em 15/11/2026. As anotações originais não estão anexadas.
 - **Registro:** um vídeo da tela e um do ambiente para cada participante. As duas perspectivas representam a mesma sessão. A análise relaciona ações, comentários e intervenções, sem inferir emoções pela aparência.
 - **Consolidação:** análise documental dos três testes, com dificuldades, prioridades propostas e limites. Não atribuir essa análise a uma reunião da equipe sem registro de realização.
 
@@ -75,15 +75,15 @@ Confrontar as decisões do papel com os estados e comportamentos da alta fidelid
 
 ### Ambiente e modalidade
 
-A aplicação ocorreu presencialmente em **11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama**. O participante utilizou o notebook com o protótipo; Bruno moderou e Caio observou. Horários individuais, navegador e plataforma de execução exata não foram informados. Esses dados efetivos não substituem as propostas preservadas no cronograma.
+A aplicação ocorreu presencialmente em **11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama**. O participante utilizou o notebook com o protótipo; Bruno moderou e Caio observou. Todos utilizaram a mesma versão HTML no Microsoft Edge, sem alterações entre sessões. O horário da manhã atendia à disponibilidade dos participantes e da equipe; Caio assumiu a observação por ter disponibilidade. Horários individuais não foram registrados no relato. Esses dados efetivos não substituem as propostas preservadas no cronograma.
 
-### Perfil, recrutamento e quantidade de participantes
+### Perfil e quantidade de participantes
 
 - **Amostra:** Participante 1, Participante 2 e Participante 3, em sessões individuais, sem subgrupos.
-- **Perfil e recrutamento:** ocupação, faixa etária, familiaridade digital, contato anterior com o projeto e forma de recrutamento não informados. Não deduzir essas informações da gravação.
-- **Piloto:** não realizado, conforme confirmação do responsável. A ausência limita a verificação prévia do procedimento, da captura e das perguntas.
+- **Perfil e familiaridade:** estudantes de engenharia, de 20 a 21 anos; muita familiaridade com tecnologia e alguma familiaridade com participação legislativa. Conheciam o site e o envio de uma ideia do Senado, mas não o protótipo. Segundo o responsável, a novidade da funcionalidade proposta provocou estranhamento inicial.
+- **Piloto:** não realizado por esquecimento, conforme confirmação do responsável. A ausência limita a verificação prévia do procedimento, da captura e das perguntas.
 - **Abrangência:** os três percorrem busca, envio, decisão e acompanhamento. O Participante 3 explora também discordância e reenvio.
-- **Preparação e recursos:** dados fictícios, protótipo navegável e gravações de tela e ambiente. Versão congelada, alterações entre sessões e custos efetivos não foram informados.
+- **Preparação e recursos:** dados fictícios, protótipo navegável e gravações de tela e ambiente. A mesma versão HTML foi usada nas três sessões, sem alterações. Commit, data de congelamento e custos efetivos não foram registrados.
 
 ### Tarefas, dados de teste e critérios de conclusão
 
@@ -112,7 +112,7 @@ Os vídeos de tela têm 6min40s, 6min10s e 7min38s. Essas durações incluem ins
 
 As respostas de terceiros e o avanço do tempo são simulados. Registrar a orientação técnica separadamente da compreensão da pessoa. No terceiro teste, a discordância foi seguida de revisão e reenvio; não foi confirmado o uso de um cenário independente de publicação. A explicação do moderador sobre o fim do complemento deve ser confrontada com a regra do protótipo.
 
-A consolidação considera as intervenções como parte do contexto. A ausência de registros de triagem ou reunião não será substituída por uma reunião presumida.
+A consolidação considera as intervenções como parte do contexto. A convergência entre os problemas das anotações de Caio e a análise documental foi confirmada, assim como as propostas de correção. Não se atribui data ou duração a uma reunião formal sem registro.
 
 ### Cronograma e agenda proposta até a Etapa 7
 
@@ -136,8 +136,8 @@ A Tabela 4 define a agenda prevista para construção, piloto, coleta e redaçã
 
 O [protocolo ético do Grupo 06](../../../entrega-2/etica.md) e Barbosa e Silva (2010, p. 138–142, 313 [1]) orientam participação voluntária, limites de uso e proteção dos registros.
 
-- **Consentimento:** a confirmação das autorizações de participação, gravação e divulgação ainda não foi informada. Os links enviados não comprovam o alcance do consentimento.
-- **Identificação:** utilizar Participante 1, Participante 2 e Participante 3 nos documentos, sem nomes ou códigos. A câmera do ambiente mostra rostos; a identificação descritiva no texto não torna os vídeos anônimos. Conferir autorização específica de imagem antes de divulgação identificável.
+- **Consentimento:** participação e gravação autorizadas pelos três participantes, conforme confirmação do responsável em 15/11/2026. A divulgação pública dos vídeos também foi autorizada pelos três participantes, conforme confirmação do responsável em 15/11/2026.
+- **Identificação:** utilizar Participante 1, Participante 2 e Participante 3 nos documentos, sem nomes ou códigos. A câmera do ambiente mostra rostos; a identificação descritiva no texto não torna os vídeos anônimos. A divulgação dos vídeos de tela e ambiente foi autorizada pelos três participantes, conforme confirmação do responsável em 15/11/2026.
 - **Guarda e descarte:** termos e dados pessoais ficam fora do repositório público, restritos aos avaliadores. Mantém-se a orientação de excluir arquivos brutos em até 30 dias após o encerramento do semestre. A execução dessa política não foi verificada nesta análise.
 
 ## E — Avaliar, interpretar e apresentar os dados
@@ -159,7 +159,7 @@ Relacionar cada conclusão às gravações ou à confirmação do responsável. 
 
 Propor prioridade **alta** para bloqueio ou interpretação incorreta de intenção, autoria, apoios ou aprovação legislativa; **média** para hesitação, retrabalho ou dúvida de continuidade; **baixa** para ajuste visual complementar. Informar o denominador de pessoas expostas a cada situação. Recomendações não implementadas e correções sem reteste devem permanecer explicitamente identificadas.
 
-O [planejamento do relato](planejamento-relato-alta-fidelidade.md) organiza a apresentação dos dados. A análise documental não substitui listas de observação ou reunião de equipe não fornecidas.
+O [planejamento do relato](planejamento-relato-alta-fidelidade.md) organiza a apresentação dos dados. O relato relaciona os registros audiovisuais à confirmação dos achados e propostas pelo responsável, sem tratar anotações não anexadas como documentos examinados.
 
 ## Agradecimentos
 
@@ -175,6 +175,8 @@ O Codex (OpenAI) apoiou a revisão direta do procedimento e dos instrumentos em 
 | `1.1` | 09/11/2026 | Três participantes com Krug; protocolo preferencialmente presencial; dois objetivos selecionados de Barbosa e Silva; sete perguntas e agenda revisadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.2` | 13/11/2026 | Revisão direta conforme a aplicação: três sessões presenciais, Bruno e Caio, ausência de piloto, fluxo apresentado em conjunto e avaliação geral; cronograma original preservado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.3` | 13/11/2026 | Confirmação da nota geral 4,5 do Participante 3 e alinhamento da consolidação, preservando o cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.4` | 15/11/2026 | Atualização dos dados da aplicação confirmados em 15/11, sem alteração do cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.5` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

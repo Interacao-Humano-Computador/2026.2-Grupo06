@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.3, de 13/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
+Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.5, de 15/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
 
 O [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md) concentra os resultados. O cronograma originalmente proposto é preservado; o relato registra o horário efetivo e as diferenças em relação à versão anterior dos planejamentos.
 
@@ -40,7 +40,7 @@ A Tabela 2 organiza o conteúdo do relato com base nos dados efetivamente dispon
 | Seção do relato | Conteúdo | Fonte de evidência |
 | --- | --- | --- |
 | Objetivos e escopo | Avaliar decisões de design e identificar dificuldades no fluxo de complementos. | Planejamento da avaliação e histórico do papel. |
-| Método, participantes e piloto | Três sessões presenciais, equipe e condições confirmadas; ausência de piloto; dados de perfil não informados. | Confirmação do responsável, fichas e vídeos. |
+| Método, participantes e piloto | Três sessões presenciais, equipe e condições confirmadas; ausência de piloto; perfil e familiaridade confirmados pelo responsável. | Confirmação do responsável, fichas e vídeos. |
 | Tarefas, dados e evidências | Ações por tarefa, intervenções, cobertura, intervalos aproximados e avaliação geral por participante. | Seis vídeos, legendas e localizadores. |
 | Perguntas e decisões de design | Sete perguntas analíticas e comparação histórica com as soluções do papel. | Evidências individuais e matriz de rastreabilidade. |
 | Problemas e reprojeto | Local, descrição, fatores prejudicados, evidência, prioridade proposta e sugestão de melhoria. | Matriz de problemas fundamentada nos registros. |
@@ -57,14 +57,14 @@ A Tabela 3 define os campos das três fichas. Os documentos utilizam Participant
 
 | Campo | Registro e tratamento |
 | --- | --- |
-| Participante e perfil | Nome descritivo da sessão; perfil, familiaridade e contato anterior somente se informados. |
+| Participante e perfil | Participante 1, 2 ou 3; estudantes de engenharia de 20 a 21 anos, muita familiaridade tecnológica e alguma familiaridade legislativa; conheciam o site e o envio de ideias, mas não o protótipo. |
 | Data, horário e local | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama. Horários individuais não informados. |
-| Modalidade e equipamento | Presencial, com notebook; navegador e plataforma de execução exata não confirmados. |
-| Versão avaliada | Registrar telas observadas; commit e data de congelamento não informados. |
+| Modalidade e equipamento | Presencial, com notebook, protótipo HTML e Microsoft Edge nas três sessões. |
+| Versão avaliada | Mesma versão HTML, sem alterações entre sessões; commit e data de congelamento não registrados. |
 | Equipe | Bruno Ferreira Dornelas na moderação e Caio Breno de Souza Bezerra na observação. |
-| Piloto | Não realizado, conforme confirmação do responsável. |
+| Piloto | Não realizado por esquecimento, conforme confirmação do responsável. |
 | Gravações | Tela e ambiente por pessoa; durações informadas separadamente, sem somar os ângulos. |
-| Autorizações | Situação não informada; não inferir consentimento da existência dos vídeos. |
+| Autorizações | Participação e gravação autorizadas pelos três participantes, conforme confirmação do responsável em 15/11/2026. Divulgação pública dos vídeos também autorizada, conforme confirmação do responsável em 15/11/2026. |
 | Avaliação numérica geral | Nota global e origem: Participante 1, 4; Participante 2, 5; Participante 3, 4,5. As três notas foram confirmadas pelo responsável em 13/11/2026. |
 
 <p class="caption">Tabela 3 — Campos da ficha de identificação da sessão.</p>
@@ -138,7 +138,7 @@ A Tabela 7 organiza a apresentação dos problemas conforme Barbosa e Silva (201
 
 ### Discussão dos achados segundo Krug
 
-Krug [4] orienta selecionar problemas e discutir correções. Nesta rodada, Caio observou a coleta, mas suas listas individuais e uma reunião posterior não foram documentadas no material fornecido. O relato apresenta síntese documental e prioridades propostas, sem atribuí-las a uma reunião presumida. Se houver registro posterior de discussão, identificar pessoas, data, decisões e responsáveis.
+Krug [4] orienta selecionar problemas e discutir correções. Caio observou a coleta e fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos. Em 15/11/2026, o responsável confirmou essa convergência e as propostas de correção apresentadas no relato. As anotações originais não estão anexadas; data, duração e ordem de prioridade de uma reunião formal não foram registradas. Distinguir essa confirmação das prioridades propostas pela análise documental.
 
 ## Regras de interpretação, consolidação e responsabilidades
 
@@ -162,6 +162,8 @@ O Codex (OpenAI) apoiou a revisão direta do procedimento e dos instrumentos em 
 | `1.1` | 09/11/2026 | Alinhamento à rodada de três participantes, dois objetivos, sete perguntas e discussão de achados com Krug | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.2` | 13/11/2026 | Revisão direta conforme a aplicação: três sessões presenciais, Bruno e Caio, ausência de piloto, fluxo apresentado em conjunto e avaliação geral; cronograma original preservado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.3` | 13/11/2026 | Confirmação da nota geral 4,5 do Participante 3 e alinhamento da consolidação, preservando o cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.4` | 15/11/2026 | Atualização dos dados da aplicação confirmados em 15/11, sem alteração do cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.5` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
