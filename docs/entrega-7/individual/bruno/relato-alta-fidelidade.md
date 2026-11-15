@@ -96,23 +96,17 @@ A Tabela 3 apresenta as condições relacionadas à ausência de teste-piloto.
 
 ### Diferenças entre planejamento e execução
 
-A Tabela 4 compara a versão 1.1 dos planejamentos, de 09/11, com a coleta efetiva. As revisões de 13 e 15/11 dos planejamentos registram o procedimento aplicado, as notas e as condições da coleta, mantendo o cronograma original. Os motivos não documentados são identificados na comparação.
+A Tabela 4 reúne as diferenças de procedimento entre o planejamento original e a aplicação. Essas diferenças contextualizam os resultados; a conclusão de cada tarefa é apresentada nas fichas individuais e na Tabela 15.
 
-
-| Aspecto / participante | Previsto | Realizado | Motivo / evidência | Efeito na análise |
-| --- | --- | --- | --- | --- |
-| Amostra e modalidade | Três pessoas em sessões individuais, preferencialmente presenciais. | Três sessões presenciais, com tela e ambiente. | Registro da aplicação e seis registros. | Quantidade e modalidade mantidas; estudantes de engenharia de 20 a 21 anos, familiarizados com o site, sem contato prévio com o protótipo. |
-| Horário e local | 11/11, sessões às 18h, 19h e 20h; sala reservada a confirmar. | 11/11, por volta das 9h, contêiner da EJS, UnB Gama. | Disponibilidade dos participantes, do moderador e do observador no período da manhã. | Data mantida; horário e local efetivos substituem as propostas somente no relato. |
-| Equipe | Minha participação na moderação; Luís Henrique é observador proposto, com possível participação de Caio e Israel. | Moderei as sessões e Caio observou. | Caio tinha disponibilidade para acompanhar os testes. | Registra-se a equipe efetiva, sem atribuir presença aos demais. |
-| Teste-piloto | Sessão completa com quarta pessoa antes da rodada. | Não houve piloto. | O piloto não foi realizado por esquecimento. | Procedimento, captura e duração não foram validados em ensaio separado. |
-| Apresentação das tarefas | Enunciados um por vez, sem antecipar a opção de complementar ou os critérios de sucesso. | Fluxo completo explicado na abertura dos três testes. | [Aberturas e localizadores](evidencias.md); motivo não documentado. | Descoberta espontânea e compreensão sem orientação não podem ser demonstradas por essa aplicação. |
-| Busca e conteúdo | Pesquisar tema e elaborar proposta de atendimento noturno com apoio de cartão. | Localização por navegação; pesquisa digitada não confirmada. Participante 3 usa texto sem sentido. | [Participante 3, 02:29–03:24](https://youtu.be/bbDlreTH3uw?t=149); declara intenção de experimentar. | Distingue-se avanço operacional de elaboração e revisão de uma proposta pertinente. |
-| Discordância | Após discordar, preparar cenário independente de publicação para a tarefa seguinte. | Participante 3 volta a revisar, reenvia e depois concorda. | [Participante 3, 03:24–04:01](https://youtu.be/bbDlreTH3uw?t=204). | Reenvio é exploração adicional da mesma sessão; não é outra pessoa nem cenário independente comprovado. |
-| Duração | Reserva de até 50 minutos por pessoa. | Vídeos de tela de 6min40s, 6min10s e 7min38s. | Duração exibida pelos vídeos; não comprova todo o tempo presencial. | Sessões gravadas curtas não descumprem um teto de duração; não se convertem em tempo ativo das tarefas. |
-| Satisfação | Nota de um a cinco e justificativa para cada tarefa. | Opiniões gerais nas entrevistas. Notas gerais de 4, 5 e 4,5 para os Participantes 1, 2 e 3, respectivamente. | Entrevistas e notas gerais registradas. | As três notas descrevem a avaliação geral; não medem satisfação por tarefa nem comprovam as metas do plano original. |
-| Medições e compreensão | Classificar tarefas, contar erros, medir tempo ativo e sondar autoria, apoios e anexo. | Há ações, opiniões e intervenções; faltam medições contínuas e algumas demonstrações de compreensão. | Localizadores individuais; não há fichas de medição entre os registros apresentados. | Tempos e erros totais não aferidos. Falta de evidência é inconclusão, não fracasso do participante. |
-| Imagem e identificação | Captura de tela/áudio sem rosto e identificação por códigos. | Câmera do ambiente mostra rostos; documentos usam Participante 1, 2 e 3. | Gravações das sessões e convenção descritiva adotada no relato. | Participação, gravação e divulgação pública autorizadas. Identificação textual não anonimiza os vídeos. |
-| Triagem e reunião | Até três problemas por observador e reunião de consolidação após a rodada. | Caio fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos. As propostas de correção coincidem com as apresentadas no relato. | Anotações da observação e registros audiovisuais; anotações originais não anexadas. | Há convergência dos achados; não há registro de data e duração de uma reunião formal nem de uma ordem de prioridade definida pela equipe. |
+| Aspecto | Planejado | Realizado e motivo da mudança |
+| --- | --- | --- |
+| Horário e local | Sessões em 11/11, às 18h, 19h e 20h, em sala a definir. | Sessões em 11/11, por volta das 9h, no contêiner da EJS, UnB Gama, pela disponibilidade dos participantes e da equipe. |
+| Observação | Luís Henrique como observador proposto, com possível participação de Caio e Israel. | Caio acompanhou os testes e fez anotações, pois tinha disponibilidade. Mantive a moderação. |
+| Teste-piloto | Ensaio anterior às três sessões principais. | Não foi realizado por esquecimento. |
+| Apresentação das tarefas | Enunciados apresentados um por vez. | O percurso foi apresentado na abertura e houve orientação durante o teste. A ajuda é considerada na classificação das tarefas de busca e acompanhamento. |
+| Avaliação numérica | Nota de um a cinco para cada tarefa. | Foi recolhida uma nota geral por participante: 4, 5 e 4,5. Os comentários específicos foram associados às tarefas. |
+| Medições | Tempo ativo, contagem de erros e classificação das tarefas. | As tarefas foram classificadas a partir da execução e da ajuda recebida. Foram registrados intervalos aproximados e episódios de dificuldade; tempo ativo e total de erros não foram aferidos. |
+| Gravação | Registro de tela e áudio sem rosto. | Foram gravados tela e ambiente. Os três participantes autorizaram participação, gravação e divulgação dos vídeos. |
 
 <p class="caption">Tabela 4 — Diferenças entre planejamento e execução.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -123,29 +117,30 @@ A Tabela 4 compara a versão 1.1 dos planejamentos, de 09/11, com a coleta efeti
 
 ### Critérios de análise
 
-A Tabela 5 sintetiza os critérios da versão 1.1 do planejamento [1], usados somente como referência histórica da cobertura. O planejamento revisado organiza a análise por ações, intervenções, compreensão demonstrada e opinião geral. A Tabela 15 apresenta o resultado operacional observado e explicita quais critérios históricos não puderam ser avaliados integralmente.
+A Tabela 5 define o resultado observado em cada tarefa e os aspectos de compreensão analisados separadamente. A classificação considera o uso da interface e a ajuda recebida durante a execução. Dúvidas conceituais ou ausência de medição de tempo não tornam uma tarefa executada automaticamente não avaliada.
 
-
-| Tarefa | Estados de referência | Critério previsto |
+| Tarefa | Resultado observado para classificação | Aspectos analisados separadamente |
 | --- | --- | --- |
-| Busca da ideia — Buscar e escolher participar | Página de busca → Detalhes da ideia | Localizar a ideia, abrir os detalhes e escolher sugerir um complemento sem orientação antecipada. |
-| Envio do complemento — Redigir, revisar e enviar | Formulário do complemento → Espera pela resposta do autor | Conferir a prévia, confirmar o envio e reconhecer a espera pelo autor e o aviso por e-mail. |
-| Decisão sobre o ajuste — Decidir sobre o ajuste | Resposta do autor → Espera pela moderação ou Discordância do ajuste | Comparar os dois textos completos e justificar concordância ou discordância preservando a intenção. |
-| Acompanhamento da contribuição — Acompanhar publicação e encaminhamento | Complemento publicado → Encaminhamento à comissão | Reconhecer a própria autoria, distinguir apoios da ideia e do complemento e localizar o Anexo Consultivo #1, sem confundir encaminhamento à CDH com lei aprovada. |
+| Busca da ideia | Localizar a ideia, abrir os detalhes e acessar a opção de complementar. | Orientação inicial e caminho utilizado; descoberta espontânea não foi avaliada nesta aplicação. |
+| Envio do complemento | Preencher, revisar e confirmar o envio, alcançando a espera pela resposta do autor. | Pertinência do texto ao cenário e compreensão da espera e do aviso por e-mail. |
+| Decisão sobre o ajuste | Consultar os textos apresentados e registrar concordância ou discordância sem orientação para escolher a resposta. | Justificativa da escolha, compreensão da continuidade após discordar e uso de conteúdo de teste. |
+| Acompanhamento da contribuição | Consultar a publicação e o estado de encaminhamento após as simulações. | Autoria, contadores, significado legislativo e acesso ao anexo, registrados conforme a evidência de cada sessão. |
 
-<p class="caption">Tabela 5 — Tarefas e critérios previstos.</p>
-<p class="source">Fonte: planejamento da avaliação da Etapa 6 [1].</p>
+<p class="caption">Tabela 5 — Tarefas e critérios de análise da execução.</p>
+<p class="source">Fonte: planejamento revisado da Etapa 6 e registros da avaliação.</p>
 
-Para a comparação histórica de cobertura, foram mantidas as definições da versão 1.1 dos planejamentos [1–2]:
+As classificações adotadas são:
 
-- **Conclusão da tarefa:** concluída sem ajuda, concluída com ajuda, não concluída ou não avaliada. Registrar a razão da classificação.
-- **Erros e compreensão:** registrar erros, hesitações e compreensão de autoria, contadores e estados; distinguir o comportamento espontâneo daquele ocorrido após explicação.
-- **Tempo ativo:** registrar início e fim no vídeo de referência, descontando pausas técnicas, simulações e sondagens posteriores. Manter os intervalos descontados identificados.
-- **Satisfação:** nota de 1 (muito insatisfeito) a 5 (muito satisfeito), informada na entrevista final para cada tarefa tentada, com justificativa. Não inferir a nota pela fala ou expressão da pessoa.
+- **Concluída sem ajuda:** execução da tarefa sem intervenção para orientar as ações. A apresentação do cenário não equivale, por si só, a ajuda na operação do formulário.
+- **Indício de conclusão com ajuda:** resultado observado após orientação do percurso ou apoio na navegação e nas simulações. A classificação não significa execução autônoma de todos os passos.
+- **Não concluída:** resultado não alcançado durante a tentativa.
+- **Não avaliada integralmente:** evidência insuficiente para classificar o resultado definido para a tarefa.
 
-No critério histórico de acompanhamento, a conclusão sem ajuda exigia compreensão tanto da publicação quanto do encaminhamento. Após uma discordância, o plano original previa um cenário independente para avaliar o acompanhamento. Na aplicação, o Participante 3 revisou, reenviou e concordou antes de chegar à publicação; não se atribui a publicação à discordância.
+Na busca e no acompanhamento, os três participantes apresentam indícios de conclusão com ajuda. O preenchimento, a revisão, o envio e a decisão sobre o ajuste foram concluídos sem ajuda pelos três. Na decisão, a classificação se refere à operação de escolher e registrar a resposta; a orientação para disponibilizar uma resposta simulada é descrita separadamente. A compreensão dos estados e a qualidade do conteúdo são analisadas nas colunas de observações, sem apagar a execução do percurso. No terceiro teste, o texto sem sentido limita a avaliação da pertinência da proposta, mas permite observar a operação do formulário.
 
-Nesta consolidação, **não avaliada integralmente** é uma aplicação de “não avaliada” ao critério completo: houve execução, mas faltou evidência suficiente ou condição adequada de avaliação. Não é sinônimo de não concluída. Orientações antecipadas impedem classificar o resultado como espontâneo; a preparação técnica da simulação é descrita separadamente da decisão sobre o texto. Aprendizado entre sessões repetidas, recuperação de falha induzida, recordação após sete dias e comparação cronometrada com o portal oficial não integram este protocolo [1].
+O acompanhamento foi analisado pela consulta da publicação e do encaminhamento. A abertura do anexo foi observada no terceiro teste; nas demais sessões, não há evidência suficiente desse passo específico. Essa distinção permanece explícita nas fichas. No terceiro teste, a publicação ocorreu após revisão, reenvio e concordância, não como efeito direto da discordância.
+
+Os intervalos dos vídeos são localizadores aproximados, não tempos ativos. As notas de 1 a 5 são gerais e não foram distribuídas entre as tarefas. Aprendizado repetido, recuperação de falha induzida, recordação após sete dias e comparação cronometrada com o portal oficial não integram esta rodada.
 
 ### Participante 1
 
@@ -174,10 +169,10 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
 | --- | --- | --- | --- | --- | --- |
-| Busca da ideia | 01:13–01:34, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: descoberta espontânea comprometida pelo enunciado. | A abertura já orienta enviar um complemento, limitando a avaliação da descoberta espontânea. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Busca e participação](evidencias.md#participante-1) |
-| Envio do complemento | 01:34–03:00, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: envio observado, mas compreensão do aviso por e-mail não demonstrada. | O participante comenta trocas de letras. A prévia apresenta o título “Uso noturno”. Não quantificar erros sem rever a digitação. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 02:40](https://youtu.be/8syZ8h5umsc?t=160) |
-| Decisão sobre o ajuste | 03:19–03:53, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: escolha observada, justificativa sem confirmação suficiente. | O acesso à resposta é precedido de orientação para simular a atualização. Separar essa operação da decisão sobre o texto. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 03:20](https://youtu.be/8syZ8h5umsc?t=200) |
-| Acompanhamento da contribuição | 03:53–05:12, inclui simulações; tempo ativo não aferido. | Não avaliada integralmente: etapas alcançadas com orientação; anexo e compreensão completa não demonstrados. | O moderador indica onde simular e intervém na explicação do encaminhamento. Leitura dos dois contadores e abertura do anexo não confirmadas. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 05:00](https://youtu.be/8syZ8h5umsc?t=300) |
+| Busca da ideia | 01:13–01:34, intervalo aproximado; tempo ativo não aferido. | Indício de conclusão com ajuda: localiza a ideia e acessa o complemento após orientação inicial do percurso. | A abertura já orienta enviar um complemento, limitando a avaliação da descoberta espontânea. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Busca e participação](evidencias.md#participante-1) |
+| Envio do complemento | 01:34–03:00, intervalo aproximado; tempo ativo não aferido. | Concluída sem ajuda: preenche, revisa e confirma o envio sem intervenção na operação do formulário. | O participante comenta trocas de letras. A prévia apresenta o título “Uso noturno”. Não quantificar erros sem rever a digitação. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 02:40](https://youtu.be/8syZ8h5umsc?t=160) |
+| Decisão sobre o ajuste | 03:19–03:53, intervalo aproximado; tempo ativo não aferido. | Concluída sem ajuda: consulta a comparação e registra a concordância sem orientação para escolher a resposta. | O acesso à resposta é precedido de orientação para simular a atualização. Separar essa operação da decisão sobre o texto. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 03:20](https://youtu.be/8syZ8h5umsc?t=200) |
+| Acompanhamento da contribuição | 03:53–05:12, inclui simulações; tempo ativo não aferido. | Indício de conclusão com ajuda: consulta a publicação e o encaminhamento com orientação para as simulações e a navegação. | O moderador indica onde simular e intervém na explicação do encaminhamento. Leitura dos dois contadores e abertura do anexo não confirmadas. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela em 05:00](https://youtu.be/8syZ8h5umsc?t=300) |
 
 <p class="caption">Tabela 7 — Desempenho por tarefa do Participante 1.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -222,10 +217,10 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
 | --- | --- | --- | --- | --- | --- |
-| Busca da ideia | 02:02–02:35, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: enunciado antecipa a escolha e pesquisa por termo não confirmada. | Escolha precedida de explicação do percurso; não classificar como descoberta espontânea. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 02:28](https://youtu.be/MOw51y1hty0?t=148) |
-| Envio do complemento | 02:35–03:53, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: revisão e envio observados; compreensão da notificação não demonstrada. | Percebe erro no título durante a revisão e reconhece a confirmação obrigatória. Não contar a correção como falha da interface. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 03:22](https://youtu.be/MOw51y1hty0?t=202) e [03:42](https://youtu.be/MOw51y1hty0?t=222) |
-| Decisão sobre o ajuste | 03:58–04:20, intervalo aproximado; tempo ativo não aferido. | Indício documental de conclusão com ajuda: compara e justifica concordância, após orientação prévia do percurso e da simulação. | Resposta obtida no cenário de simulação explicado previamente; separar essa operação da compreensão do texto. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 04:04](https://youtu.be/MOw51y1hty0?t=244) |
-| Acompanhamento da contribuição | 04:20–05:08, inclui estados simulados; tempo ativo não aferido. | Não avaliada integralmente: publicação e encaminhamento visíveis, mas compreensão de contadores e anexo incompleta nos registros. | Relata dúvida sobre mínimo de apoios e encaminhamento na entrevista. Dizer que releu não comprova distinção entre análise, votação e aprovação. | Avaliação geral positiva com ressalva sobre o final; sem nota numérica por tarefa. | [Tela 04:56](https://youtu.be/MOw51y1hty0?t=296) e [entrevista 05:33](https://youtu.be/MOw51y1hty0?t=333) |
+| Busca da ideia | 02:02–02:35, intervalo aproximado; tempo ativo não aferido. | Indício de conclusão com ajuda: escolhe a ideia e acessa a participação após a apresentação do percurso. | Escolha precedida de explicação do percurso; não classificar como descoberta espontânea. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 02:28](https://youtu.be/MOw51y1hty0?t=148) |
+| Envio do complemento | 02:35–03:53, intervalo aproximado; tempo ativo não aferido. | Concluída sem ajuda: revisa, identifica e corrige o título e confirma o envio sem intervenção na tarefa. | Percebe erro no título durante a revisão e reconhece a confirmação obrigatória. Não contar a correção como falha da interface. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 03:22](https://youtu.be/MOw51y1hty0?t=202) e [03:42](https://youtu.be/MOw51y1hty0?t=222) |
+| Decisão sobre o ajuste | 03:58–04:20, intervalo aproximado; tempo ativo não aferido. | Concluída sem ajuda: compara os textos, justifica e registra a concordância sem orientação para decidir. | Resposta obtida no cenário de simulação explicado previamente; separar essa operação da compreensão do texto. | Sem nota específica por tarefa; avaliação geral registrada abaixo. | [Tela 04:04](https://youtu.be/MOw51y1hty0?t=244) |
+| Acompanhamento da contribuição | 04:20–05:08, inclui estados simulados; tempo ativo não aferido. | Indício de conclusão com ajuda: consulta a publicação e o encaminhamento no percurso previamente orientado. | Relata dúvida sobre mínimo de apoios e encaminhamento na entrevista. Dizer que releu não comprova distinção entre análise, votação e aprovação. | Avaliação geral positiva com ressalva sobre o final; sem nota numérica por tarefa. | [Tela 04:56](https://youtu.be/MOw51y1hty0?t=296) e [entrevista 05:33](https://youtu.be/MOw51y1hty0?t=333) |
 
 <p class="caption">Tabela 10 — Desempenho por tarefa do Participante 2.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -270,10 +265,10 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
 | --- | --- | --- | --- | --- | --- |
-| Busca da ideia | 02:29–02:59, intervalo aproximado; tempo ativo não aferido. | Não avaliada integralmente: localização por rolagem após instrução antecipada. | Roteiro antecipado; pergunta se o botão de apoio funciona. Pesquisa por termo e descoberta sem orientação não demonstradas. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 02:42](https://youtu.be/bbDlreTH3uw?t=162) |
-| Envio do complemento | 02:59–03:24; nova tentativa em 03:44–03:52. Tempo ativo não aferido. | Não avaliada integralmente: envio operacional com texto sem sentido, sem avaliação da proposta solicitada. | Entrevista aponta pouca visibilidade da confirmação. Reconhecimento de espera e e-mail não estabelecido. | Relato de insatisfação com tamanho e destaque da confirmação; sem nota por tarefa. | [Tela 03:13](https://youtu.be/bbDlreTH3uw?t=193) e [entrevista 06:34](https://youtu.be/bbDlreTH3uw?t=394) |
-| Decisão sobre o ajuste | 03:24–04:01, intercalada com reenvio; tempo ativo não aferido. | Não avaliada integralmente: exploração dos dois ramos sem justificativa substantiva e com dúvida posterior. | Pergunta na entrevista se o autor responde depois da discordância; recebe explicação do moderador. Não classificar compreensão integral sem ajuda. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 03:34](https://youtu.be/bbDlreTH3uw?t=214) e [entrevista 05:53](https://youtu.be/bbDlreTH3uw?t=353) |
-| Acompanhamento da contribuição | 04:01–05:15, inclui exploração e simulações; tempo ativo não aferido. | Não avaliada integralmente: publicação e anexo alcançados; compreensão legislativa completa não demonstrada. | Experimenta apoio e comenta a localização do complemento de acessibilidade. Explicação final do moderador não substitui demonstração do participante. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 04:35](https://youtu.be/bbDlreTH3uw?t=275) e [05:05](https://youtu.be/bbDlreTH3uw?t=305) |
+| Busca da ideia | 02:29–02:59, intervalo aproximado; tempo ativo não aferido. | Indício de conclusão com ajuda: localiza a ideia por rolagem e acessa o complemento após orientação inicial. | Roteiro antecipado; pergunta se o botão de apoio funciona. Pesquisa por termo e descoberta sem orientação não demonstradas. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 02:42](https://youtu.be/bbDlreTH3uw?t=162) |
+| Envio do complemento | 02:59–03:24; nova tentativa em 03:44–03:52. Tempo ativo não aferido. | Concluída sem ajuda: preenche, revisa e envia o conteúdo de teste sem intervenção na operação do formulário. | Entrevista aponta pouca visibilidade da confirmação. Reconhecimento de espera e e-mail não estabelecido. | Relato de insatisfação com tamanho e destaque da confirmação; sem nota por tarefa. | [Tela 03:13](https://youtu.be/bbDlreTH3uw?t=193) e [entrevista 06:34](https://youtu.be/bbDlreTH3uw?t=394) |
+| Decisão sobre o ajuste | 03:24–04:01, intercalada com reenvio; tempo ativo não aferido. | Concluída sem ajuda: registra discordância, reenvia e depois concorda, sem orientação para escolher a resposta. | Pergunta na entrevista se o autor responde depois da discordância; recebe explicação do moderador. Não classificar compreensão integral sem ajuda. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 03:34](https://youtu.be/bbDlreTH3uw?t=214) e [entrevista 05:53](https://youtu.be/bbDlreTH3uw?t=353) |
+| Acompanhamento da contribuição | 04:01–05:15, inclui exploração e simulações; tempo ativo não aferido. | Indício de conclusão com ajuda: consulta a publicação, o encaminhamento e o anexo no percurso previamente orientado. | Experimenta apoio e comenta a localização do complemento de acessibilidade. Explicação final do moderador não substitui demonstração do participante. | Nota por tarefa não localizada; avaliação geral tratada separadamente. | [Tela 04:35](https://youtu.be/bbDlreTH3uw?t=275) e [05:05](https://youtu.be/bbDlreTH3uw?t=305) |
 
 <p class="caption">Tabela 13 — Desempenho por tarefa do Participante 3.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -293,19 +288,19 @@ O detalhamento abaixo permite conferir os dois momentos do acompanhamento da con
 
 ### Consolidação dos indicadores
 
-A Tabela 15 apresenta a cobertura das quatro tarefas e as classificações documentais. Cada tarefa teve três pessoas expostas. As contagens dizem respeito ao **critério completo da versão 1.1 do planejamento**, não somente à chegada na última tela. Nenhuma contagem autoriza concluir que as pessoas sejam incapazes de realizar as tarefas.
+A Tabela 15 consolida as classificações das fichas individuais. Cada tarefa teve três participantes. As contagens se referem aos resultados definidos na Tabela 5; os aspectos de compreensão e a cobertura do anexo aparecem como observações específicas.
 
-| Tarefa | Pessoas expostas | Concluída sem ajuda comprovada | Indício de conclusão com ajuda | Não concluída comprovada | Não avaliada integralmente | Resultado operacional e limite |
+| Tarefa | Participantes | Concluída sem ajuda | Indício de conclusão com ajuda | Não concluída | Não avaliada integralmente | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
-| Busca da ideia | 3 | 0 | 0 | 0 | 3 | Os três avançam para complementar; a instrução antecipada impede avaliar a descoberta espontânea. Pesquisa digitada não confirmada. |
-| Envio do complemento | 3 | 0 | 0 | 0 | 3 | Envio registrado nos três; retorno para correção no Participante 2. Falta demonstração do reconhecimento do e-mail; o Participante 3 usa texto sem sentido. |
-| Decisão sobre o ajuste | 3 | 0 | 1: Participante 2, pelas legendas e capturas | 0 | 2 | Os três escolhem concordar em algum momento. Participante 2 justifica pela condição de cada biblioteca; Participante 3 também explora discordância. |
-| Acompanhamento da contribuição | 3 | 0 | 0 | 0 | 3 | Publicação observada nos três. Anexo aberto confirmado em uma das três sessões, a do Participante 3; nas outras duas, abertura não confirmada. Critério integral de compreensão não demonstrado. |
+| Busca da ideia | 3 | 0 | 3 | 0 | 0 | Os três localizaram a ideia e acessaram o complemento após a orientação do percurso. |
+| Envio do complemento | 3 | 3 | 0 | 0 | 0 | Os três preencheram, revisaram e enviaram sem ajuda na operação. O Participante 2 corrigiu o título; o Participante 3 utilizou conteúdo de teste. |
+| Decisão sobre o ajuste | 3 | 3 | 0 | 0 | 0 | Os três registraram a decisão sem ajuda para escolher a resposta. O Participante 2 justificou a concordância; o Participante 3 explorou também a discordância. |
+| Acompanhamento da contribuição | 3 | 0 | 3 | 0 | 0 | Os três consultaram a publicação e o encaminhamento com orientação. Abertura do anexo observada no terceiro teste; dúvidas conceituais são descritas nas fichas. |
 
-<p class="caption">Tabela 15 — Cobertura e classificação documental das tarefas.</p>
-<p class="source">Fonte: consolidação das fichas e dos localizadores dos três participantes (2026).</p>
+<p class="caption">Tabela 15 — Conclusão das tarefas e ajuda recebida.</p>
+<p class="source">Fonte: fichas de observação e registros audiovisuais das três sessões.</p>
 
-**Desempenho operacional:** três de três participantes chegam ao estado publicado; uma de três sessões tem abertura do anexo confirmada na inspeção visual. A segunda contagem é de evidência confirmada, não uma taxa de sucesso ou de fracasso das outras pessoas. O indício de conclusão com ajuda do Participante 2 apoia-se na justificativa das legendas e nas capturas. Como não houve revisão integral do áudio, ele não equivale a uma classificação audiovisual integralmente validada.
+**Desempenho:** o envio foi concluído sem ajuda pelos três participantes. A busca e o acompanhamento apresentam indícios de conclusão com ajuda nos três testes. A decisão sobre o ajuste também foi concluída sem ajuda pelos três, considerando a escolha e o registro da resposta. A abertura do anexo foi observada em uma sessão; isso não demonstra ausência de acesso nas outras duas. As contagens descrevem esta rodada e não representam uma taxa populacional de sucesso.
 
 **Tempo e erros:** as durações dos vídeos de tela são 6min40s, 6min10s e 7min38s, incluindo abertura e entrevista. Os intervalos por tarefa são aproximados, com simulações e intervenções; não foram tratados como tempos ativos, nem se calculou média de eficiência. Não há contagem completa de cliques equivocados. A correção do texto pelo Participante 2 é recuperação observada; a experimentação declarada pelo Participante 3 não é automaticamente erro de uso.
 
@@ -320,11 +315,11 @@ A Tabela 16 responde às sete perguntas dos planejamentos revisados [1–2], pre
 
 | Questão / foco | Resposta apoiada nos dados | Evidências / métricas | Limites e encaminhamento |
 | --- | --- | --- | --- |
-| Localizar a ideia e acessar a opção de complementar após a apresentação do cenário. | Avanço operacional observado nos três; descoberta espontânea não avaliada, pois o percurso foi antecipado. | [Aberturas e busca](evidencias.md). Participante 3 relata localização por rolagem. | Nova aplicação deve apresentar apenas o objetivo do cenário, sem nomear a funcionalidade. |
-| Redigir, revisar, enviar e reconhecer espera e e-mail. | Revisão e envio observados. Participante 2 identifica erro e retorna para editar; Participante 1 valoriza a revisão. Compreensão do e-mail não demonstrada. | [Participante 1](evidencias.md#participante-1), [Participante 2, 03:11](https://youtu.be/MOw51y1hty0?t=191). | Texto de teste do Participante 3 limita a avaliação da redação. Recolher explicação espontânea do que acontece após enviar. |
-| Utilizar os textos para decidir e interpretar a continuidade após concordar ou discordar. | Comparação disponível e concordância escolhida nas três sessões. Participante 2 relaciona o ajuste às condições de cada biblioteca; Participante 3 explora discordância e reenvio. | [Participante 2, 03:58–04:20](https://youtu.be/MOw51y1hty0?t=238), [Participante 3, 03:24–04:01](https://youtu.be/bbDlreTH3uw?t=204). | Justificativas do primeiro e terceiro testes não sustentam conclusão integral. Esclarecer consequência da discordância. |
+| Localizar a ideia e acessar a opção de complementar após a apresentação do cenário. | Indício de conclusão com ajuda nos três testes; a orientação do percurso foi considerada na classificação. | [Aberturas e busca](evidencias.md). Participante 3 relata localização por rolagem. | Nova aplicação deve apresentar apenas o objetivo do cenário, sem nomear a funcionalidade. |
+| Redigir, revisar, enviar e reconhecer espera e e-mail. | Preenchimento, revisão e envio concluídos sem ajuda pelos três. Participante 2 identifica erro e retorna para editar; Participante 1 valoriza a revisão. Compreensão do e-mail não demonstrada. | [Participante 1](evidencias.md#participante-1), [Participante 2, 03:11](https://youtu.be/MOw51y1hty0?t=191). | Texto de teste do Participante 3 limita a avaliação da redação. Recolher explicação espontânea do que acontece após enviar. |
+| Utilizar os textos para decidir e interpretar a continuidade após concordar ou discordar. | Comparação disponível e concordância escolhida nas três sessões. Participante 2 relaciona o ajuste às condições de cada biblioteca; Participante 3 explora discordância e reenvio. | [Participante 2, 03:58–04:20](https://youtu.be/MOw51y1hty0?t=238), [Participante 3, 03:24–04:01](https://youtu.be/bbDlreTH3uw?t=204). | Justificativas dos primeiro e terceiro testes não ficaram estabelecidas; isso limita a análise da motivação, sem invalidar a execução da escolha. Esclarecer consequência da discordância. |
 | Reconhecer autoria e distinguir contadores. | Participante 2 se refere aos apoios como sendo de sua contribuição. Participante 3 explora apoio ao complemento de acessibilidade. Não há demonstração inequívoca da independência das contagens nos três. | [Publicação do Participante 2](https://youtu.be/MOw51y1hty0?t=260), [Participante 3, 04:35](https://youtu.be/bbDlreTH3uw?t=275). | Ausência de confusão registrada não comprova a meta de zero erros. Repetir sondagem de autoria e contagem antes de explicar. |
-| Distinguir publicação e encaminhamento e localizar o anexo. | Estados alcançados; anexo aberto confirmado no terceiro teste. Participante 2 relata dúvida sobre apoios e encaminhamento; primeiro teste tem explicação do moderador. | [Participante 1, 04:41](https://youtu.be/8syZ8h5umsc?t=281), [Participante 2, 05:33](https://youtu.be/MOw51y1hty0?t=333), [Participante 3, 05:05](https://youtu.be/bbDlreTH3uw?t=305). | Abertura do documento não prova compreensão do caráter consultivo. Não declarar entendimento autônomo de que análise difere de aprovação. |
+| Distinguir publicação e encaminhamento e localizar o anexo. | Indício de conclusão com ajuda nos três; anexo aberto observado no terceiro teste. Participante 2 relata dúvida sobre apoios e encaminhamento; primeiro teste tem explicação do moderador. | [Participante 1, 04:41](https://youtu.be/8syZ8h5umsc?t=281), [Participante 2, 05:33](https://youtu.be/MOw51y1hty0?t=333), [Participante 3, 05:05](https://youtu.be/bbDlreTH3uw?t=305). | Abertura do documento não prova compreensão do caráter consultivo. Não declarar entendimento autônomo de que análise difere de aprovação. |
 | Dificuldades e avaliação geral do uso. | Quatro dificuldades qualitativas sustentadas: acesso, encaminhamento, discordância e confirmação. Opiniões gerais positivas coexistem com ressalvas. | Entrevistas dos três participantes; Tabela 18. | Notas gerais confirmadas: Participante 1, 4/5; Participante 2, 5/5; Participante 3, 4,5/5. A ausência de notas por tarefa é uma diferença em relação à versão 1.1 do plano. |
 | Decisões de design e problemas históricos do papel. | A revisão permite correção, a comparação sustenta justificativa no segundo teste e o ramo de discordância pode ser percorrido. Compreensão dos estados continua limitada. | Tabela 17 e relato do papel [4]. | Comparação histórica, com pessoas e mediação diferentes; não demonstra ganho causal nem eliminação dos problemas. |
 
@@ -403,7 +398,7 @@ A Tabela 21 sintetiza os resultados e seus limites para esta rodada formativa.
 | --- | --- | --- |
 | Decisões de design | Revisão permite recuperação, comparação apoia uma justificativa e discordância é navegável. | Participante 2 corrige texto e justifica ajuste; Participante 3 explora o ramo. Não há comparação causal com papel. |
 | Problemas de interação | Quatro problemas qualitativos sustentam propostas de melhoria. | Tabela 18; um relato explícito por problema, com denominador dependente da exposição. |
-| Conclusão das tarefas | Os três chegam à publicação. Cumprimento integral dos critérios é menos demonstrado que o avanço entre telas. | Um indício documental de conclusão com ajuda; demais critérios integrais não avaliáveis com segurança. Não há taxa global de sucesso validada. |
+| Conclusão das tarefas | Envio e decisão sobre o ajuste concluídos sem ajuda pelos três; busca e acompanhamento com indícios de conclusão com ajuda nos três testes. | A justificativa da escolha e as dúvidas sobre continuidade são analisadas separadamente da operação de decidir. O acesso ao anexo é descrito por sessão. |
 | Erros e compreensão | Apoios, encaminhamento e discordância exigem atenção; ausência de erro verbalizado não prova compreensão. | Intervenções, texto de teste e cobertura parcial limitam a aferição. |
 | Avaliação geral individual | Participante 1: 4/5; Participante 2: 5/5; Participante 3: 4,5/5, registradas na consolidação. Comentários favoráveis com ressalvas específicas. | Notas globais; não substituem evidências de compreensão nem medições por tarefa. |
 | Amostra e condução | Três sessões presenciais com minha moderação e observação de Caio; ausência de piloto e instrução antecipada do fluxo. | Estudantes de engenharia de 20 a 21 anos, com muita familiaridade tecnológica e sem contato prévio com o protótipo. Amostra restrita, sem generalização ao público do Senado. |
@@ -415,7 +410,7 @@ A Tabela 21 sintetiza os resultados e seus limites para esta rodada formativa.
 
 ### Conclusão geral
 
-A avaliação atendeu ao objetivo de identificar dificuldades no percurso e ofereceu evidências parciais sobre as decisões tomadas após o protótipo de papel. Os três participantes conseguiram avançar até a publicação. A revisão ajudou o Participante 2 a corrigir o texto; a comparação permitiu que justificasse o ajuste. O Participante 3 percorreu também a discordância e abriu o anexo consultivo.
+A avaliação atendeu ao objetivo de identificar dificuldades no percurso e ofereceu evidências parciais sobre as decisões tomadas após o protótipo de papel. Os três participantes concluíram o envio e a decisão sobre o ajuste sem ajuda e apresentaram indícios de conclusão com ajuda na busca e no acompanhamento até a publicação e o encaminhamento. A revisão ajudou o Participante 2 a corrigir o texto; a comparação permitiu que justificasse o ajuste. O Participante 3 percorreu também a discordância e abriu o anexo consultivo.
 
 Esses resultados sustentam a viabilidade operacional do fluxo nas condições observadas, mas não comprovam compreensão autônoma completa. O acesso à contribuição, o significado do encaminhamento, a consequência da discordância e a confirmação de revisão são os principais pontos de melhoria. A instrução antecipada, a ausência de piloto e a coleta incompleta das medidas previstas limitam a conclusão sobre eficácia e satisfação.
 
@@ -443,6 +438,8 @@ A tabela a seguir registra a preparação desta versão.
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.11` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 22 — Histórico de versão.</p>
@@ -450,9 +447,9 @@ A tabela a seguir registra a preparação desta versão.
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.9, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.9, de 15/11/2026; versão 1.1, de 09/11/2026, usada como referência da comparação histórica.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 343.
 

@@ -47,7 +47,7 @@ A Tabela 2 organiza a exposição dos resultados e das diferenças em relação 
 | --- | --- |
 | Objetivo | Retomar complementos, revisão do autor, publicação e anexo consultivo; relacionar às decisões do papel. |
 | Método executado | Três sessões presenciais em 11/11, por volta das 9h, contêiner da EJS, UnB Gama; Moderei as sessões, com Caio na observação; não houve piloto por esquecimento. Três estudantes de engenharia, de 20 a 21 anos, testaram a mesma versão HTML no Edge. |
-| Evidências favoráveis | Três chegaram à publicação; Participante 2 corrigiu o texto e justificou o ajuste; Participante 3 explorou discordância e abriu o anexo. |
+| Evidências favoráveis | Envio e decisão sobre o ajuste sem ajuda nos três testes; busca e acompanhamento com indícios de conclusão com ajuda; Participante 2 corrigiu o texto e justificou o ajuste; Participante 3 explorou discordância e abriu o anexo. |
 | Dificuldades e propostas | Acesso pouco evidente, dúvida sobre apoios e encaminhamento, consequência da discordância e confirmação pouco visível. Mostrar os trechos vinculados à matriz. |
 | Planejado e realizado | Fluxo antecipado, avaliações gerais de 4/5, 5/5 e 4,5/5 para os Participantes 1, 2 e 3, ausência de piloto e medições incompletas. Explicar por que avanço entre telas não prova compreensão integral. |
 | Conclusão e continuidade | Priorizar clareza do encaminhamento e os demais ajustes; melhorias ainda não implementadas ou retestadas. Informações ausentes e limites audiovisuais estão explícitos. |
@@ -81,7 +81,7 @@ A Tabela 2 organiza a exposição dos resultados e das diferenças em relação 
 
 **Mostrar:** consolidação dos indicadores e notas gerais.
 
-> Os três participantes chegaram ao estado de publicação. O segundo percebeu um erro no texto durante a revisão, voltou para corrigir e justificou sua concordância com o ajuste do autor. O terceiro explorou a discordância, o reenvio e abriu o anexo. As notas gerais foram quatro, cinco e quatro e meio, em uma escala de um a cinco. Esses resultados mostram que o fluxo pôde ser percorrido nas condições do teste. Porém, chegar à última tela não demonstra, sozinho, compreensão de todos os estados e regras.
+> Os três participantes concluíram o envio e a decisão sobre o ajuste sem ajuda. Na busca e no acompanhamento, houve indícios de conclusão com ajuda. O segundo percebeu um erro no texto durante a revisão, voltou para corrigir e justificou sua concordância com o ajuste do autor. O terceiro explorou a discordância, o reenvio e abriu o anexo. As notas gerais foram quatro, cinco e quatro e meio, em uma escala de um a cinco. Esses resultados mostram que o fluxo pôde ser percorrido nas condições do teste. Porém, chegar à última tela não demonstra, sozinho, compreensão de todos os estados e regras.
 
 ##### 5. Problemas e melhorias — cerca de 65 segundos
 
@@ -201,6 +201,8 @@ A Tabela 3 registra o histórico deste artefato. A numeração das versões foi 
 | `1.9` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Israel | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.10` | 15/11/2026 | Integração dos vídeos e contribuições dos integrantes com o roteiro completo de Bruno; conciliação da numeração do histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.11` | 15/11/2026 | Ajuste da voz narrativa no recorte de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

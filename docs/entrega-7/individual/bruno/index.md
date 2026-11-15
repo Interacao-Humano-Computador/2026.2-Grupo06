@@ -39,7 +39,7 @@ Os participantes eram estudantes de engenharia, de 20 a 21 anos, com muita famil
 
 As notas gerais registradas na consolidação foram **4/5 para o Participante 1**, **5/5 para o Participante 2** e **4,5/5 para o Participante 3**. Elas descrevem a avaliação geral do uso, sem equivaler a notas por tarefa.
 
-Os três chegaram à publicação. A compreensão completa de autoria, apoios e encaminhamento não ficou demonstrada em todos os registros. As prioridades são esclarecer o encaminhamento, destacar o acesso e a confirmação de envio e explicar o que acontece após discordar. As melhorias estão propostas, sem implementação ou reteste.
+Os três concluíram o envio e a decisão sobre o ajuste sem ajuda. Busca e acompanhamento apresentam indícios de conclusão com ajuda nos três testes. A compreensão completa de autoria, apoios e encaminhamento não ficou demonstrada em todos os registros. As prioridades são esclarecer o encaminhamento, destacar o acesso e a confirmação de envio e explicar o que acontece após discordar. As melhorias estão propostas, sem implementação ou reteste.
 
 ## Apresentação
 
@@ -67,6 +67,8 @@ A tabela a seguir registra a preparação desta versão.
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.11` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
@@ -74,6 +76,6 @@ A tabela a seguir registra a preparação desta versão.
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.9, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.9, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.

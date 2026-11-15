@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.7, de 15/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
+Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.9, de 15/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
 
 Os resultados são apresentados separadamente no relato da Etapa 7. Este documento define o método, as perguntas e os instrumentos correspondentes à rodada, sem transformar dados não coletados em medições.
 
@@ -161,6 +161,8 @@ Propor prioridade **alta** para bloqueio ou interpretação incorreta de intenç
 
 O [planejamento do relato](planejamento-relato-alta-fidelidade.md) organiza a apresentação dos dados. O relato relaciona os registros audiovisuais à confirmação dos achados e propostas por mim, sem tratar anotações não anexadas como documentos examinados.
 
+A conclusão das tarefas é classificada pela execução e pela ajuda recebida. Busca e acompanhamento apresentam indícios de conclusão com ajuda nos três testes; preenchimento, revisão, envio e decisão sobre o ajuste foram concluídos sem ajuda. Na decisão, a classificação considera a escolha e o registro da resposta; a disponibilização da resposta simulada e as dúvidas sobre continuidade são descritas separadamente. Dúvidas sobre e-mail, contadores e significado legislativo são registradas separadamente. No acompanhamento, a classificação cobre publicação e encaminhamento; o acesso ao anexo é descrito conforme a evidência de cada sessão.
+
 ## Agradecimentos
 
 Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organização, à redação e à revisão dos instrumentos. Assumo a responsabilidade acadêmica pelo conteúdo.
@@ -177,6 +179,8 @@ Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organi
 | `1.5` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.6` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.7` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.8` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.9` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

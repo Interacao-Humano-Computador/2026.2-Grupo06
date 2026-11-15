@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.7, de 15/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
+Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.9, de 15/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
 
 O [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md) concentra os resultados. O cronograma originalmente proposto é preservado; o relato registra o horário efetivo e as diferenças em relação à versão anterior dos planejamentos.
 
@@ -148,6 +148,8 @@ Krug [4] orienta selecionar problemas e discutir correções. Caio observou a co
 4. **Priorização e controle:** distinguir proposta, implementação e reteste. O relato inclui ausência de piloto, orientação prévia, simulações e informações não confirmadas como limites.
 5. **Cronograma e revisão até a Etapa 7:** seguindo a [agenda do planejamento](planejamento-avaliacao-alta-fidelidade.md#cronograma-e-agenda-proposta-ate-a-etapa-7), após a sessão prevista para `11/11/2026`, Bruno e os observadores consolidarão os registros em `12–13/11`, e Luís Henrique realizará a revisão em `14/11/2026`, antes da entrega da Etapa 7 (`15/11/2026`).
 
+A conclusão das tarefas é classificada pela execução e pela ajuda recebida. Busca e acompanhamento apresentam indícios de conclusão com ajuda nos três testes; preenchimento, revisão, envio e decisão sobre o ajuste foram concluídos sem ajuda. Na decisão, a classificação considera a escolha e o registro da resposta; a disponibilização da resposta simulada e as dúvidas sobre continuidade são descritas separadamente. Dúvidas sobre e-mail, contadores e significado legislativo são registradas separadamente. No acompanhamento, a classificação cobre publicação e encaminhamento; o acesso ao anexo é descrito conforme a evidência de cada sessão.
+
 ## Agradecimentos
 
 Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organização, à redação e à revisão dos instrumentos. Assumo a responsabilidade acadêmica pelo conteúdo.
@@ -164,6 +166,8 @@ Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organi
 | `1.5` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.6` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.7` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.8` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.9` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
