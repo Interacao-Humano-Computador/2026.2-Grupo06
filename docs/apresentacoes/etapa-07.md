@@ -9,6 +9,8 @@ A Tabela 1 registra a contribuição neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Gravação da apresentação individual de Israel | [Vídeo de Israel](#israel-soares-de-paiva) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Gravação da apresentação individual de Luís | [Vídeo de Luís](#luis-henrique-arruda-luna) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação e organização | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à consulta bibliográfica, redação e organização | [Agradecimentos](#agradecimentos) |
 
@@ -59,7 +61,27 @@ Cada pessoa incorpora a própria gravação na seção correspondente. A gravaç
 
 ### Israel Soares de Paiva
 
-- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/AapVPRbSGj4](https://youtu.be/AapVPRbSGj4)
+- Data da gravação: 15/11/2026
+- Duração: 3 min 44 s
+- Participante: Israel Soares de Paiva
+- Percurso: [relato da alta fidelidade](../entrega-7/individual/israel/relato-alta-fidelidade.md) e [protótipo AF-1.0](../prototipos/israel/alta-fidelidade/index.html)
+- Avaliações com AF-P01 e AF-P02, distintas desta apresentação: [vídeos das sessões](../entrega-7/individual/israel/evidencias.md)
+
+??? note "Vídeo — Apresentação da Etapa 7, Israel Soares de Paiva"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/AapVPRbSGj4"
+        title="Apresentação da Etapa 7 — Israel Soares de Paiva"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ### Luís Henrique Luna de Arruda { #luis-henrique-arruda-luna }
 
@@ -97,6 +119,7 @@ A Tabela 2 registra a versão deste artefato.
 | `1.1` | 15/11/2026 | Alinha a sequência à sessão da AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 15/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Israel | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
