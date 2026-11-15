@@ -89,13 +89,13 @@ A análise documental das telas foi consolidada em 03/11/2026. A Tabela 4 aprese
 
 | ID / origem | Local e fator de uso | Análise da interface | Decisão incorporada |
 | --- | --- | --- | --- |
-| PAP-R01 / RP03, AT-P01 | S03–S04; prevenção de erro | A revisão apresenta o texto completo, oferece retorno à edição e informa que o texto enviado não poderá ser alterado. O aviso de dados pessoais fica antes do compromisso final. | Avisos e controles integrados em PP-2.0. AF-1.1 acrescenta alerta para exemplos de contato e confirmação de conferência. Prioridade **alta**. |
-| PAP-R02 / RP02, AT-P02 | S05; compreensão do resultado | A confirmação reúne título, DEMO-001, data, estado e próximo passo. O texto distingue recebimento, publicação e aprovação de uma lei. | Confirmação explicativa integrada em PP-2.0 e AF-1.1. Prioridade **alta**. |
-| PAP-R03 / AT-P02 e AT-P04 | S05–S06; continuidade | O recebimento oferece acesso à mesma ideia, com identificação e estado preservados. O acompanhamento evita depender de um aviso por e-mail. | Acesso direto ao acompanhamento integrado em PP-2.0 e AF-1.1. Prioridade **alta**. |
-| PAP-R04 / RP04 | S06–X02; clareza dos estados | O acompanhamento apresenta as etapas e a atualização informa publicação para apoios, com próximo passo e distinção de lei aprovada. A passagem de tempo é anunciada antes da atualização. | Estados e explicações integrados em PP-2.0 e AF-1.1. Prioridade **média**. |
+| PAP-R01 / RP03, AT-P01 | S03–S04; prevenção de erro | A revisão apresenta o texto completo, oferece retorno à edição e informa que o texto enviado não poderá ser alterado. O aviso de dados pessoais fica antes do compromisso final. | Avisos e controles integrados em PP-2.0. AF-1.2 acrescenta alerta para exemplos de contato e confirmação de conferência. Prioridade **alta**. |
+| PAP-R02 / RP02, AT-P02 | S05; compreensão do resultado | A confirmação reúne título, DEMO-001, data, estado e próximo passo. O texto distingue recebimento, publicação e aprovação de uma lei. | Confirmação explicativa integrada em PP-2.0 e AF-1.2. Prioridade **alta**. |
+| PAP-R03 / AT-P02 e AT-P04 | S05–S06; continuidade | O recebimento oferece acesso à mesma ideia, com identificação e estado preservados. O acompanhamento evita depender de um aviso por e-mail. | Acesso direto ao acompanhamento integrado em PP-2.0 e AF-1.2. Prioridade **alta**. |
+| PAP-R04 / RP04 | S06–X02; clareza dos estados | O acompanhamento apresenta as etapas e a atualização informa publicação para apoios, com próximo passo e distinção de lei aprovada. A passagem de tempo é anunciada antes da atualização. | Estados e explicações integrados em PP-2.0 e AF-1.2. Prioridade **média**. |
 
 <p class="caption">Tabela 4 — Análise das telas e decisões incorporadas ao reprojeto.</p>
-<p class="source">Fonte: análise documental do material PP-2.0 e do protótipo AF-1.1, com base em RP01–RP04 e AT-P01–AT-P04 (2026).</p>
+<p class="source">Fonte: análise documental do material PP-2.0 e do protótipo AF-1.2, com base em RP01–RP04 e AT-P01–AT-P04 (2026).</p>
 
 O protótipo de alta fidelidade mantém as mesmas decisões de navegação e acrescenta validação dos campos e transições executáveis. Alterações posteriores devem indicar o componente modificado e a versão correspondente. Na sessão, PAP-P01 percorreu as quatro decisões sem ajuda. No comentário final, ao falar do acompanhamento, usou a palavra “aprovação”; durante PP-T4, acompanhou o aviso de que a publicação não é lei aprovada.
 
@@ -175,6 +175,7 @@ A Tabela 7 registra a versão deste artefato.
 | `0.1` | 03/11/2026 | Elaboração do relato e documentação do protótipo de papel | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/11/2026 | Incorpora a gravação com PAP-P01, a duração e os localizadores de PP-T1–PP-T4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/11/2026 | Substitui o gabarito impresso pelas fotografias do papel usado na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 15/11/2026 | Atualiza o reprojeto citado de AF-1.1 para a AF-1.2 avaliada na Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 7 — Histórico de versão.</p>

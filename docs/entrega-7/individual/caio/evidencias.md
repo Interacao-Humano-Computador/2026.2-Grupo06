@@ -18,81 +18,109 @@ A Tabela 1 identifica as contribuições neste artefato.
 
 Esta página reúne os registros de tela e de sala das duas sessões de avaliação do envio e acompanhamento de ideia legislativa. A análise e as decisões estão no [relato](relato-alta-fidelidade.md).
 
-**Avaliação principal:** 11/11/2026, às 9h, conforme confirmação de Caio. Caio atua como avaliador, Bruno como observador e as duas pessoas alternam a execução. O piloto foi realizado antes, sem gravação, e não compõe estes resultados.
+**Avaliação principal:** 11/11/2026, às 9h. Caio atua como avaliador, Bruno como observador e as duas pessoas alternam a execução. O piloto foi feito antes e não entra nestes vídeos.
 
 ## Como consultar
 
 As quatro perspectivas correspondem a **duas pessoas**. Os códigos AF-P01 e AF-P02 são usados também no [relato dos resultados](relato-alta-fidelidade.md). **Os localizadores do relato apontam para a captura de tela de cada pessoa nesta página.** A câmera da sala começa em outro instante e serve para conferir a condução e a operação do mouse.
 
-As cópias foram comprimidas para consulta no site. Na captura AF-P01, o início corresponde a 0:12,8 do arquivo de origem; na AF-P02, a 0:47,8. O corte preserva a apresentação, o cenário, a execução e a entrevista final. Não há cortes internos no percurso. Os originais permanecem na pasta local de origem, fora do repositório.
+As cópias de consulta estão no YouTube, na categoria **não listado**. Os tempos do relato são os destes vídeos. A câmera da sala começa em outro instante e serve para conferir a condução e o uso do mouse.
 
-A Tabela 2 identifica a correspondência entre os arquivos, sem expor nomes das pessoas participantes.
+A Tabela 2 identifica cada registro, sem expor nomes das pessoas participantes.
 
-| Código | Perspectiva / arquivo de origem | Cópia de consulta |
+| Código | Registro | Consulta |
 | --- | --- | --- |
-| AF-P01 | Tela: `Gravação de vídeo 1 (online-video-cutter.com) (1).mp4` | 3 min 23 s; começa na apresentação de Caio |
-| AF-P01 | Sala: `WhatsApp Video 2026-11-11 at 09.42.05.mp4` | 3 min 31 s; início próprio |
-| AF-P02 | Tela: `Gravação de vídeo 1 (online-video-cutter.com).mp4` | 3 min 51 s; começa na apresentação de Caio |
-| AF-P02 | Sala: `WhatsApp Video 2026-11-11 at 09.41.28.mp4` | 3 min 53 s; início próprio |
+| AF-P01 | Tela | [Não listado](https://youtu.be/ULoXhwjfX54), 3 min 24 s |
+| AF-P01 | Sala | [Não listado](https://youtu.be/rqQKK9hTjmE), 3 min 32 s |
+| AF-P02 | Tela | [Não listado](https://youtu.be/fb9sngTdH-c), 3 min 52 s |
+| AF-P02 | Sala | [Não listado](https://youtu.be/klwjnBfeWP4), 3 min 53 s |
 
 <p class="caption">Tabela 2 — Correspondência e duração dos registros.</p>
 <p class="source">Fonte: arquivos disponibilizados por Caio e cópias de consulta preparadas em 11/11/2026.</p>
 
 ## AF-P01 — Tela
 
-O Vídeo 1 permite conferir o percurso e o episódio da caixa de conferência.
+O Vídeo 1 permite conferir o percurso e o episódio da caixa de conferência. Categoria no YouTube: **não listado**.
 
-<video controls preload="metadata" playsinline style="width:100%; border-radius:0.75rem" aria-label="Vídeo 1 — Captura de tela da avaliação com AF-P01">
-  <source src="../../../../assets/videos/entrega-7/caio/af-p01-tela.mp4" type="video/mp4">
-  Seu navegador não reproduziu o vídeo. Use o link de acesso abaixo.
-</video>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+  <iframe
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    src="https://www.youtube-nocookie.com/embed/ULoXhwjfX54"
+    title="Vídeo 1 — Captura de tela da avaliação com AF-P01"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-[ Abrir captura de tela de AF-P01](../../../assets/videos/entrega-7/caio/af-p01-tela.mp4){ .md-button }
+[Abrir captura de tela de AF-P01](https://youtu.be/ULoXhwjfX54){ .md-button }
 
 <p class="caption">Vídeo 1 — Tela da sessão com AF-P01.</p>
-<p class="source">Fonte: gravação fornecida por Caio; cópia de consulta da AF-1.1.</p>
+<p class="source">Fonte: gravação fornecida por Caio; cópia não listada da AF-1.2. [https://youtu.be/ULoXhwjfX54](https://youtu.be/ULoXhwjfX54).</p>
 
 ## AF-P01 — Câmera da sala
 
-O Vídeo 2 complementa a tela com a condução presencial e as ações da pessoa.
+O Vídeo 2 complementa a tela com a condução presencial e as ações da pessoa. Categoria no YouTube: **não listado**.
 
-<video controls preload="metadata" playsinline style="width:100%; border-radius:0.75rem" aria-label="Vídeo 2 — Câmera da sala da avaliação com AF-P01">
-  <source src="../../../../assets/videos/entrega-7/caio/af-p01-sala.mp4" type="video/mp4">
-  Seu navegador não reproduziu o vídeo. Use o link de acesso abaixo.
-</video>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+  <iframe
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    src="https://www.youtube-nocookie.com/embed/rqQKK9hTjmE"
+    title="Vídeo 2 — Câmera da sala da avaliação com AF-P01"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-[Abrir câmera da sala de AF-P01](../../../assets/videos/entrega-7/caio/af-p01-sala.mp4){ .md-button }
+[Abrir câmera da sala de AF-P01](https://youtu.be/rqQKK9hTjmE){ .md-button }
 
 <p class="caption">Vídeo 2 — Sala da sessão com AF-P01.</p>
-<p class="source">Fonte: gravação fornecida por Caio; perspectiva complementar, com início próprio.</p>
+<p class="source">Fonte: gravação fornecida por Caio; perspectiva complementar, com início próprio. [https://youtu.be/rqQKK9hTjmE](https://youtu.be/rqQKK9hTjmE).</p>
 
 ## AF-P02 — Tela
 
-O Vídeo 3 registra o percurso e a opinião sobre o indicador de etapas.
+O Vídeo 3 registra o percurso e a opinião sobre o indicador de etapas. Categoria no YouTube: **não listado**.
 
-<video controls preload="metadata" playsinline style="width:100%; border-radius:0.75rem" aria-label="Vídeo 3 — Captura de tela da avaliação com AF-P02">
-  <source src="../../../../assets/videos/entrega-7/caio/af-p02-tela.mp4" type="video/mp4">
-  Seu navegador não reproduziu o vídeo. Use o link de acesso abaixo.
-</video>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+  <iframe
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    src="https://www.youtube-nocookie.com/embed/fb9sngTdH-c"
+    title="Vídeo 3 — Captura de tela da avaliação com AF-P02"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-[Abrir captura de tela de AF-P02](../../../assets/videos/entrega-7/caio/af-p02-tela.mp4){ .md-button }
+[Abrir captura de tela de AF-P02](https://youtu.be/fb9sngTdH-c){ .md-button }
 
 <p class="caption">Vídeo 3 — Tela da sessão com AF-P02.</p>
-<p class="source">Fonte: gravação fornecida por Caio; cópia de consulta da AF-1.1.</p>
+<p class="source">Fonte: gravação fornecida por Caio; cópia não listada da AF-1.2. [https://youtu.be/fb9sngTdH-c](https://youtu.be/fb9sngTdH-c).</p>
 
 ## AF-P02 — Câmera da sala
 
-O Vídeo 4 complementa a captura com a interação presencial.
+O Vídeo 4 complementa a captura com a interação presencial. Categoria no YouTube: **não listado**.
 
-<video controls preload="metadata" playsinline style="width:100%; border-radius:0.75rem" aria-label="Vídeo 4 — Câmera da sala da avaliação com AF-P02">
-  <source src="../../../../assets/videos/entrega-7/caio/af-p02-sala.mp4" type="video/mp4">
-  Seu navegador não reproduziu o vídeo. Use o link de acesso abaixo.
-</video>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+  <iframe
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    src="https://www.youtube-nocookie.com/embed/klwjnBfeWP4"
+    title="Vídeo 4 — Câmera da sala da avaliação com AF-P02"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
 
-[Abrir câmera da sala de AF-P02](../../../assets/videos/entrega-7/caio/af-p02-sala.mp4){ .md-button }
+[Abrir câmera da sala de AF-P02](https://youtu.be/klwjnBfeWP4){ .md-button }
 
 <p class="caption">Vídeo 4 — Sala da sessão com AF-P02.</p>
-<p class="source">Fonte: gravação fornecida por Caio; perspectiva complementar, com início próprio.</p>
+<p class="source">Fonte: gravação fornecida por Caio; perspectiva complementar, com início próprio. [https://youtu.be/klwjnBfeWP4](https://youtu.be/klwjnBfeWP4).</p>
 
 ## Localizadores por tarefa
 
@@ -107,7 +135,7 @@ A Tabela 3 permite encontrar os episódios nas capturas de tela. Os intervalos n
 | Nota global e opinião | 3:02–3:19 | 3:01–3:47 |
 
 <p class="caption">Tabela 3 — Localizadores nas cópias de tela incorporadas.</p>
-<p class="source">Fonte: análise das gravações da AF-1.1.</p>
+<p class="source">Fonte: análise das gravações da AF-1.2.</p>
 
 A [apresentação da Etapa 7](../../../apresentacoes/etapa-07.md) é outro registro: expõe o artefato e seus resultados. Estes quatro vídeos documentam as avaliações com as pessoas.
 
@@ -121,6 +149,9 @@ Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Organização dos registros audiovisuais e localizadores | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Identifica os registros como sessões da AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/11/2026 | Publica as quatro gravações como não listadas e incorpora os links | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 15/11/2026 | Simplifica a tabela dos vídeos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
