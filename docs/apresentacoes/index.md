@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Índice das apresentações e responsabilidade pelo vídeo | [Etapa 1](etapa-01.md), [Etapa 3](etapa-03.md) e [Etapa 4](etapa-04.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da Etapa 5 e vídeo individual | [Etapa 5](etapa-05.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da Etapa 6 e vídeo individual | [Etapa 6](etapa-06.md#caio-breno-de-souza-bezerra) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da Etapa 7 e vídeo individual | [Etapa 7](etapa-07.md#caio-breno-de-souza-bezerra) |
 | Codex (OpenAI) | Apoio à padronização da apresentação e à correção dos participantes | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à inclusão da Etapa 5 neste índice | [Agradecimentos](#agradecimentos) |
 
@@ -29,14 +30,14 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno Ferreira, Caio Breno, Heitor Pinheiro e Israel Soares | [Etapa 4](etapa-04.md) |
 | 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | [Caio](https://youtu.be/vaXEtY_bNgE); demais a publicar | Um vídeo por integrante | [Etapa 6](etapa-06.md) |
-| 7 | 17/11/2026 | A anexar | Autores dos respectivos artefatos | [Etapa 7](etapa-07.md) |
+| 7 | 17/11/2026 | [Caio](https://youtu.be/xpPGuxcD86I); demais a publicar | Um vídeo por integrante | [Etapa 7](etapa-07.md) |
 | 8 | 24/11/2026 | — | — | — |
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
 <p class="caption">Tabela 2 — Vídeos de apresentação do projeto.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
-A [apresentação da Etapa 6](etapa-06.md) reúne um espaço por integrante. A gravação de Caio Breno de Souza Bezerra já está publicada.
+A [apresentação da Etapa 6](etapa-06.md) e a [apresentação da Etapa 7](etapa-07.md) reúnem um espaço por integrante. A gravação de Caio Breno de Souza Bezerra já está publicada nas duas.
 
 ## Agradecimentos
 
@@ -65,6 +66,7 @@ Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidad
 | `1.3` | 03/11/2026 | Inclusão da apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 03/11/2026 | Inclui o vídeo individual de Caio na apresentação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.5` | 11/11/2026 | Integra a página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 15/11/2026 | Inclui o vídeo individual de Caio na apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

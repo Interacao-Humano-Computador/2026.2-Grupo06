@@ -1,62 +1,87 @@
 <span class="owner">Responsável: Caio Breno de Souza Bezerra · Autor do item: Caio Breno de Souza Bezerra</span>
 
-# Apresentação — Etapa 7
+# Apresentação da Etapa 7
 
 ## Tabela de contribuição
 
-A Tabela 1 identifica as contribuições neste artefato.
+A Tabela 1 registra a contribuição neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação da página e da sequência de apresentação de Caio | [Conteúdo](#introducao) |
-| Codex (OpenAI) | Apoio à consulta do plano e do livro, análise audiovisual e organização documental | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
+| Codex (OpenAI) | Apoio à consulta bibliográfica, redação e organização | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Apoio à consulta bibliográfica, redação e organização | [Agradecimentos](#agradecimentos) |
 
-<p class="caption">Tabela 1 — Contribuições neste artefato.</p>
+<p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Apresentação dos resultados da avaliação do protótipo de alta fidelidade. Pelo plano de ensino [1], a entrega ocorre em **15/11/2026** e a apresentação em aula em **17/11/2026**. Cada autor apresenta o próprio artefato.
+Este artefato reúne as gravações da apresentação da Etapa 7. Cada integrante publica o próprio vídeo, na categoria **não listado**, sobre o relato dos resultados da avaliação do protótipo de alta fidelidade [1].
 
-## Caio Breno de Souza Bezerra
+Os critérios da etapa estão na [Lista de verificação da Etapa 7](../verificacao/listas/etapa-7.md). A apresentação em aula é em **17/11/2026**. O [índice da etapa](../entrega-7/index.md) reúne os documentos.
 
-**Recorte:** envio e acompanhamento de ideia legislativa.
+## Vídeos
 
-[Entrega individual](../entrega-7/individual/caio/index.md){ .md-button .md-button--primary }
-[Relato dos resultados](../entrega-7/individual/caio/relato-alta-fidelidade.md){ .md-button }
+Cada pessoa incorpora a própria gravação na seção correspondente. A gravação da avaliação com participante fica na página de evidências do relato e não substitui esta apresentação.
 
-O vídeo desta apresentação é o registro em que Caio explica o artefato. As [gravações das sessões](../entrega-7/individual/caio/evidencias.md) são outro material.
+### Bruno Ferreira Dornelas
 
-### Sequência para a apresentação
+- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
 
-A Tabela 2 organiza a exposição do artefato.
+### Caio Breno de Souza Bezerra
 
-| Parte | O que mostrar / explicar |
-| --- | --- |
-| Objetivo e continuidade | Retomar as decisões do papel e os planos da Etapa 6; mostrar o protótipo AF-1.2 |
-| Método e pessoas | Duas pessoas, avaliação presencial com mouse, pensamento em voz alta, tela e câmera da sala |
-| Resultados | Ambas entram, revisam, enviam e consultam o recebimento. Notas globais 5/5, com destaque ao indicador de etapas |
-| Episódio e recomendação | Mostrar a caixa de conferência em AF-P01; propor maior destaque da exigência e um reteste |
-| Fechamento | As duas notas 5, o destaque ao indicador de etapas e a caixa de conferência, que pode ganhar mais destaque. A versão avaliada é a AF-1.2 |
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/xpPGuxcD86I](https://youtu.be/xpPGuxcD86I)
+- Data da gravação: 15/11/2026
+- Duração: 2 min 43 s
+- Participante: Caio Breno de Souza Bezerra
+- Percurso: [relato da alta fidelidade](../entrega-7/individual/caio/relato-alta-fidelidade.md) e [protótipo AF-1.2](../prototipos/caio/alta-fidelidade/index.html)
+- Avaliações com AF-P01 e AF-P02, distintas desta apresentação: [vídeos das sessões](../entrega-7/individual/caio/evidencias.md)
 
-<p class="caption">Tabela 2 — Sequência de apresentação do recorte de Caio.</p>
-<p class="source">Fonte: relato da avaliação da AF-1.2 (2026).</p>
+??? note "Vídeo — Apresentação da Etapa 7, Caio Breno de Souza Bezerra"
 
-Os demais integrantes acrescentarão os respectivos registros quando disponíveis.
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/xpPGuxcD86I"
+        title="Apresentação da Etapa 7 — Caio Breno de Souza Bezerra"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
+
+### Heitor Pinheiro Gonçalves das Chagas
+
+- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
+
+### Israel Soares de Paiva
+
+- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
+
+### Luís Henrique Luna de Arruda
+
+- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a organização deste material. A transcrição automática local com Faster-Whisper serviu de apoio à localização das falas; os resultados são apresentados como paráfrases associadas ao vídeo. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
+A Tabela 2 registra a versão deste artefato.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 11/11/2026 | Preparação da página e da sequência de apresentação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.1` | 15/11/2026 | Alinha a sequência à AF-1.2 e à nota global da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 11/11/2026 | Preparação da página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Alinha a sequência à sessão da AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+
+<p class="caption">Tabela 2 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Referências
 
 [1] SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*, v1. FCTE/UnB, 2026. Cronograma, p. 5 do PDF.
-
-[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Seção 10.2.1, p. 341–343.
