@@ -19,11 +19,11 @@ A Tabela 1 registra as contribuições na preparação deste artefato.
 
 Esta página organiza os registros de três participantes, com um vídeo de tela e um vídeo de ambiente por pessoa. Os dois vídeos de um participante documentam a mesma sessão; não representam duas avaliações. A estrutura segue os instrumentos do planejamento da Etapa 6 [1–2] e alimenta o [relato da alta fidelidade](relato-alta-fidelidade.md).
 
-**Versão 0.9 — evidências da consolidação revisada.** Os seis vídeos sustentam o [relato consolidado](relato-alta-fidelidade.md). A revisão documental mantém as paráfrases de legendas automáticas e a inspeção visual pontual como limites do método; não equivale a revisão integral do áudio.
+Os seis vídeos sustentam o [relato consolidado](relato-alta-fidelidade.md). A análise usa paráfrases de legendas automáticas e inspeção visual pontual, conforme os procedimentos descritos em cada sessão.
 
-**Condições confirmadas pelo responsável em 13/11/2026:** coleta presencial em 11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama; Bruno na moderação, Caio na observação; não houve teste-piloto.
+**Condições registradas na consolidação em 13/11/2026:** coleta presencial em 11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama; minha atuação na moderação e de Caio na observação; não houve teste-piloto.
 
-**Confirmações complementares de 15/11/2026:** três estudantes de engenharia, de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa; conheciam o site e o envio de ideias, mas não o protótipo. Todos utilizaram a mesma versão HTML no Microsoft Edge. Participação, gravação e divulgação pública dos vídeos foram autorizadas pelos três participantes, conforme confirmação do responsável.
+**Confirmações complementares de 15/11/2026:** três estudantes de engenharia, de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa; conheciam o site e o envio de ideias, mas não o protótipo. Todos utilizaram a mesma versão HTML no Microsoft Edge. Participação, gravação e divulgação pública dos vídeos foram autorizadas pelos três participantes.
 
 ## Inventário das gravações
 
@@ -32,12 +32,12 @@ A Tabela 2 reúne os seis registros da amostra principal. Identificar as pessoas
 
 | Participante | Perspectiva | Link | Duração | Áudio disponível | Autorização de divulgação conferida |
 | --- | --- | --- | --- | --- | --- |
-| Participante 1 | Tela | [Assistir à gravação de tela](https://youtu.be/8syZ8h5umsc) | 6min40s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
-| Participante 1 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/bUN1iqRsDHU) | 6min39s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
-| Participante 2 | Tela | [Assistir à gravação de tela](https://youtu.be/MOw51y1hty0) | 6min10s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
-| Participante 2 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/pkKRI0aiClY) | 6min11s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
-| Participante 3 | Tela | [Assistir à gravação de tela](https://youtu.be/bbDlreTH3uw) | 7min38s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
-| Participante 3 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/Sd4FNAAoh3Q) | 7min33s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme confirmação do responsável em 15/11/2026. |
+| Participante 1 | Tela | [Assistir à gravação de tela](https://youtu.be/8syZ8h5umsc) | 6min40s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
+| Participante 1 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/bUN1iqRsDHU) | 6min39s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
+| Participante 2 | Tela | [Assistir à gravação de tela](https://youtu.be/MOw51y1hty0) | 6min10s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
+| Participante 2 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/pkKRI0aiClY) | 6min11s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
+| Participante 3 | Tela | [Assistir à gravação de tela](https://youtu.be/bbDlreTH3uw) | 7min38s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
+| Participante 3 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/Sd4FNAAoh3Q) | 7min33s | Legendas automáticas em português disponíveis; sem conferência integral do áudio. | Autorizada, conforme registrado em 15/11/2026. |
 
 <p class="caption">Tabela 2 — Inventário dos seis vídeos.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -62,9 +62,9 @@ Registrar o intervalo da gravação usada para cada fala ou ação. Identificar 
 
 Na análise conjunta [3, p. 343], relacionar o que aparece na tela às falas e às intervenções da equipe. Descrever comportamentos observáveis no ambiente, sem inferir emoções ou satisfação por gestos. O mesmo evento presente nos dois vídeos conta uma única vez.
 
-As notas gerais registradas são 4, 5 e 4,5 para os Participantes 1, 2 e 3, respectivamente, confirmadas pelo responsável em 13/11/2026. Essa confirmação complementar é identificada separadamente das paráfrases das legendas automáticas do YouTube. Não foram inferidas notas a partir de comentários gerais; a análise não apresenta falas como transcrição literal revisada.
+As notas gerais registradas são 4, 5 e 4,5 para os Participantes 1, 2 e 3, respectivamente, registradas na consolidação em 13/11/2026. Essa confirmação complementar é identificada separadamente das paráfrases das legendas automáticas do YouTube. Não foram inferidas notas a partir de comentários gerais; a análise não apresenta falas como transcrição literal revisada.
 
-A captura do ambiente está registrada como condição efetiva da coleta: a versão 1.1 do planejamento previa proteção da identidade e registro de tela/áudio; a revisão de 13/11 registra os dois ângulos efetivamente usados [1]. O responsável confirmou em 15/11/2026 a autorização dos três participantes para participação, gravação e divulgação dos vídeos de tela e ambiente. A diferença de procedimento permanece registrada no relato.
+A captura do ambiente está registrada como condição efetiva da coleta: a versão 1.1 do planejamento previa proteção da identidade e registro de tela/áudio; a revisão de 13/11 registra os dois ângulos efetivamente usados [1]. Confirmei em 15/11/2026 a autorização dos três participantes para participação, gravação e divulgação dos vídeos de tela e ambiente. A diferença de procedimento permanece registrada no relato.
 
 ## Participante 1
 
@@ -109,7 +109,7 @@ A tabela abaixo reúne localizadores para as quatro tarefas e a entrevista final
 <p class="caption">Tabela 5 — Localizadores do Participante 1.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-**Confirmação complementar da avaliação geral:** o responsável pela coleta informou em 13/11/2026 a nota **4/5** para o Participante 1. O dado não foi atribuído a um minuto específico do vídeo nem distribuído pelas tarefas. As observações acima sobre ausência de nota localizada nas legendas descrevem apenas o resultado daquela transcrição automática.
+**Confirmação complementar da avaliação geral:** confirmei em 13/11/2026 a nota **4/5** para o Participante 1. O dado não foi atribuído a um minuto específico do vídeo nem distribuído pelas tarefas. As observações acima sobre ausência de nota localizada nas legendas descrevem apenas o resultado daquela transcrição automática.
 
 ## Participante 2
 
@@ -152,7 +152,7 @@ A tabela relaciona os localizadores de tela e ambiente, sem contar duas vezes o 
 <p class="caption">Tabela 7 — Localizadores do Participante 2.</p>
 <p class="source">Fonte: análise documental das gravações do Participante 2 (2026).</p>
 
-**Confirmação complementar da avaliação geral:** o responsável pela coleta informou em 13/11/2026 a nota **5/5** para o Participante 2. O dado não foi atribuído a um minuto específico do vídeo nem distribuído pelas tarefas. As observações acima sobre ausência de nota localizada nas legendas descrevem apenas o resultado daquela transcrição automática.
+**Confirmação complementar da avaliação geral:** confirmei em 13/11/2026 a nota **5/5** para o Participante 2. O dado não foi atribuído a um minuto específico do vídeo nem distribuído pelas tarefas. As observações acima sobre ausência de nota localizada nas legendas descrevem apenas o resultado daquela transcrição automática.
 
 ## Participante 3
 
@@ -174,7 +174,7 @@ A Tabela 8 localiza a execução e a entrevista, incluindo a exploração da dis
 | [Tela 04:38–05:15](https://youtu.be/bbDlreTH3uw?t=278) / [ambiente 04:36–05:14](https://youtu.be/Sd4FNAAoh3Q?t=276) | Participante | Questiona onde aparece o complemento de acessibilidade, continua explorando, abre o anexo e reconhece um segundo complemento. | A referência espacial da dúvida não é inequívoca nas legendas. Em 04:50 há acesso ao anexo; em 05:05 o documento mostra as duas contribuições. |
 | [Tela 05:18–06:21](https://youtu.be/bbDlreTH3uw?t=318) / [ambiente 05:14–06:20](https://youtu.be/Sd4FNAAoh3Q?t=314) | Moderador / participante | O moderador encerra o percurso e pergunta sobre compreensão. O participante pergunta se o autor pode responder novamente após a discordância; o moderador explica sua interpretação de um novo envio. | Dúvida explícita nas legendas. A explicação do moderador é evidência da condução, não comprovação da regra implementada no protótipo. |
 | [Tela 06:34–07:06](https://youtu.be/bbDlreTH3uw?t=394) / [ambiente 06:30–07:01](https://youtu.be/Sd4FNAAoh3Q?t=390) | Participante | Considera a confirmação de revisão pouco visível, pequena e com cor próxima do fundo; comenta que as pessoas podem ir direto ao botão de envio. | Relato após pergunta do moderador sobre clareza dos controles. Não equivale a medição de contraste nem comprova dificuldade de todas as pessoas. |
-| [Tela 07:11–07:29](https://youtu.be/bbDlreTH3uw?t=431) / [ambiente 07:07–07:26](https://youtu.be/Sd4FNAAoh3Q?t=427) | Moderador / participante | Há pedido de nota geral de usabilidade em escala de um a cinco. A resposta é positiva, com ressalva sobre a confirmação. | As legendas apresentam ambiguidade. O responsável confirmou posteriormente a nota geral de 4,5/5 em 13/11/2026; essa confirmação não é transcrição literal do trecho nem nota por tarefa. |
+| [Tela 07:11–07:29](https://youtu.be/bbDlreTH3uw?t=431) / [ambiente 07:07–07:26](https://youtu.be/Sd4FNAAoh3Q?t=427) | Moderador / participante | Há pedido de nota geral de usabilidade em escala de um a cinco. A resposta é positiva, com ressalva sobre a confirmação. | As legendas apresentam ambiguidade. Confirmei posteriormente a nota geral de 4,5/5 em 13/11/2026; essa confirmação não é transcrição literal do trecho nem nota por tarefa. |
 
 <p class="caption">Tabela 8 — Trechos utilizados na análise do Participante 3.</p>
 <p class="source">Fonte: análise documental das gravações do Participante 3 (2026).</p>
@@ -190,32 +190,18 @@ A Tabela 9 reúne as evidências de cada tarefa. Os intervalos são localizadore
 | Decisão sobre o ajuste — discordância e nova tentativa | [Tela 03:24](https://youtu.be/bbDlreTH3uw?t=204) / [ambiente 03:20](https://youtu.be/Sd4FNAAoh3Q?t=200) | Formulário de discordância em 03:34; novo envio em 03:49. | Registra discordância, reenvia e escolhe concordar. | Motivação da decisão não fundamentada; dúvida sobre nova resposta é esclarecida pelo moderador na entrevista. |
 | Acompanhamento — publicação e apoios | [Tela 04:01](https://youtu.be/bbDlreTH3uw?t=241) / [ambiente 03:57](https://youtu.be/Sd4FNAAoh3Q?t=237) | Contadores e retirada de apoio visíveis em 04:35. | Experimenta os botões para observar a contagem. | A exploração não demonstra por si só distinção entre apoios da ideia e do complemento. |
 | Acompanhamento — anexo e encaminhamento | [Tela 04:38](https://youtu.be/bbDlreTH3uw?t=278) / [ambiente 04:36](https://youtu.be/Sd4FNAAoh3Q?t=276) | Acesso ao anexo em 04:50 e documento aberto em 05:05, com as duas contribuições. | Reconhece o segundo complemento no documento. | Abertura confirmada; interpretação do caráter consultivo e da situação legislativa ainda não demonstrada. |
-| Entrevista final — dificuldades e avaliação geral | [Tela 05:53](https://youtu.be/bbDlreTH3uw?t=353) / [ambiente 05:52](https://youtu.be/Sd4FNAAoh3Q?t=352) | Dúvida sobre discordância, comentário sobre confirmação e avaliação geral. | Considera o percurso positivo, com ressalvas sobre o controle de confirmação. | Nota geral de 4,5/5 confirmada pelo responsável em 13/11/2026; notas por tarefa não coletadas. |
+| Entrevista final — dificuldades e avaliação geral | [Tela 05:53](https://youtu.be/bbDlreTH3uw?t=353) / [ambiente 05:52](https://youtu.be/Sd4FNAAoh3Q?t=352) | Dúvida sobre discordância, comentário sobre confirmação e avaliação geral. | Considera o percurso positivo, com ressalvas sobre o controle de confirmação. | Nota geral de 4,5/5 registrada na consolidação em 13/11/2026; notas por tarefa não coletadas. |
 
 <p class="caption">Tabela 9 — Localizadores do Participante 3.</p>
 <p class="source">Fonte: análise documental das gravações do Participante 3 (2026).</p>
 
-**Confirmação complementar da avaliação geral:** o responsável pela coleta confirmou em 13/11/2026 a nota **4,5/5** para o Participante 3. Essa informação resolve a ambiguidade das legendas e não foi distribuída pelas tarefas.
+**Confirmação complementar da avaliação geral:** confirmei em 13/11/2026 a nota **4,5/5** para o Participante 3. Essa informação resolve a ambiguidade das legendas e não foi distribuída pelas tarefas.
 
 **Diferença de contagem inconclusiva:** o complemento de acessibilidade aparece com 76 apoios na página em 04:35 e 04:50, mas com 75 no anexo em 05:05. O participante não verbaliza essa diferença nas legendas examinadas. A [verificação técnica do relato](relato-alta-fidelidade.md#5-problemas-e-decisoes-de-reprojeto) encontrou cálculo comum aos dois estados no código atual. Sem identificação da versão da coleta e rastreamento contínuo dos apoios, a diferença não permite afirmar um defeito do protótipo.
 
-## Registro da análise e revisão
-
-A tabela a seguir permite identificar quem analisou cada par de vídeos, o procedimento de transcrição e a conferência das evidências usadas no relato.
-
-
-| Participante | Data / analista | Transcrição manual ou ferramenta / versão | Trechos conferidos / revisor / data | Limitações de acesso ou qualidade |
-| --- | --- | --- | --- | --- |
-| Participante 1 | 13/11/2026 · Codex (OpenAI), apoio à análise | Legendas automáticas do YouTube, português, dos dois registros | Capturas pontuais conferidas; sem revisão integral do áudio.  | Palavras incorretas, atribuição de falantes e sincronização aproximadas. |
-| Participante 2 | 13/11/2026 · Codex (OpenAI), apoio à análise | Legendas automáticas do YouTube, português, dos dois registros | Oito pontos da tela e um do ambiente conferidos; sem revisão integral do áudio.  | Reconhecimento automático e atribuição contextual de falantes; transições contínuas e sincronização exata não aferidas. |
-| Participante 3 | 13/11/2026 · Codex (OpenAI), apoio à análise | Legendas automáticas do YouTube, português, dos dois registros | Oito pontos da tela e um do ambiente conferidos; sem revisão integral do áudio.  | Nota geral confirmada pelo responsável; falantes inferidos pelo contexto, transições contínuas e sincronização exata não aferidas. |
-
-<p class="caption">Tabela 10 — Controle da análise audiovisual.</p>
-<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
-
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a estruturação das fichas, a análise documental das legendas e de pontos das gravações e a revisão de consistência com o planejamento da Etapa 6. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico.
+Utilizei o Codex (OpenAI) como apoio à organização, à análise documental e à redação. Assumo a responsabilidade acadêmica pelo conteúdo.
 
 ## Histórico de versão
 
@@ -233,15 +219,16 @@ A tabela a seguir registra a preparação desta versão.
 | `0.7` | 13/11/2026 | Revisão final de consistência com a Etapa 6, confirmação da nota geral 4,5 do Participante 3 e delimitação das informações externas ao fechamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.8` | 15/11/2026 | Inclusão das informações confirmadas sobre participantes, aplicação e autorizações; revisão do relato por Luís Henrique sem correções, confirmada pelo responsável nesta data | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
-<p class="caption">Tabela 11 — Histórico de versão.</p>
+<p class="caption">Tabela 10 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
 
 [3] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 343.

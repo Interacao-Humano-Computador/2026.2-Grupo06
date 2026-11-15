@@ -46,7 +46,7 @@ A Tabela 2 organiza a exposição dos resultados e das diferenças em relação 
 | Parte | O que mostrar / explicar |
 | --- | --- |
 | Objetivo | Retomar complementos, revisão do autor, publicação e anexo consultivo; relacionar às decisões do papel. |
-| Método executado | Três sessões presenciais em 11/11, por volta das 9h, contêiner da EJS, UnB Gama; Bruno moderou, Caio observou; não houve piloto por esquecimento. Três estudantes de engenharia, de 20 a 21 anos, testaram a mesma versão HTML no Edge. |
+| Método executado | Três sessões presenciais em 11/11, por volta das 9h, contêiner da EJS, UnB Gama; Moderei as sessões, com Caio na observação; não houve piloto por esquecimento. Três estudantes de engenharia, de 20 a 21 anos, testaram a mesma versão HTML no Edge. |
 | Evidências favoráveis | Três chegaram à publicação; Participante 2 corrigiu o texto e justificou o ajuste; Participante 3 explorou discordância e abriu o anexo. |
 | Dificuldades e propostas | Acesso pouco evidente, dúvida sobre apoios e encaminhamento, consequência da discordância e confirmação pouco visível. Mostrar os trechos vinculados à matriz. |
 | Planejado e realizado | Fluxo antecipado, avaliações gerais de 4/5, 5/5 e 4,5/5 para os Participantes 1, 2 e 3, ausência de piloto e medições incompletas. Explicar por que avanço entre telas não prova compreensão integral. |
@@ -181,7 +181,7 @@ A Tabela 2 organiza a exposição dos resultados e das diferenças em relação 
 
 Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
-O Codex (OpenAI) apoiou a síntese da apresentação de Bruno, cuja responsabilidade acadêmica permanece com Bruno Ferreira Dornelas. Revisor desse recorte: Luís Henrique Arruda Luna.
+Na minha apresentação, utilizei o Codex (OpenAI) como apoio à organização e à redação do roteiro. Assumo a responsabilidade pelo conteúdo do meu recorte.
 
 ## Histórico de versão
 
@@ -200,6 +200,7 @@ A Tabela 3 registra o histórico deste artefato. A numeração das versões foi 
 | `1.8` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Israel | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.10` | 15/11/2026 | Integração dos vídeos e contribuições dos integrantes com o roteiro completo de Bruno; conciliação da numeração do histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.11` | 15/11/2026 | Ajuste da voz narrativa no recorte de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

@@ -19,7 +19,7 @@ A Tabela 1 registra as contribuições na preparação deste artefato.
 
 Esta entrega reúne o relato da avaliação de **complementos de ideias legislativas**, em continuidade ao planejamento da Etapa 6 [1–2]. A estrutura contempla três participantes (Participante 1, Participante 2 e Participante 3), quatro tarefas e dois registros de vídeo por participante: tela e ambiente.
 
-**Versão 0.9 — resultados consolidados e revisão documental.** Três sessões presenciais realizadas em 11/11/2026, com seis vídeos. O relato apresenta resultados por tarefa, respostas às perguntas, comparação com o papel, prioridades de melhoria e diferenças entre planejamento e execução. Os limites das legendas e as informações ainda não confirmadas estão identificados.
+**Resultados da avaliação.** Três sessões presenciais realizadas em 11/11/2026, com seis vídeos. O relato apresenta resultados por tarefa, respostas às perguntas, comparação com o papel, prioridades de melhoria e diferenças entre planejamento e execução. Os limites das legendas e as informações ainda não confirmadas estão identificados.
 
 <div class="etapa-actions" markdown>
 
@@ -35,23 +35,19 @@ Esta entrega reúne o relato da avaliação de **complementos de ideias legislat
 
 O relato contém os objetivos, o método revisado, a execução e a comparação histórica com o plano original, as fichas dos três participantes, os indicadores disponíveis, a análise das sete perguntas, a comparação com as decisões do papel, os problemas e as conclusões. A página de evidências concentra os seis links, as correspondências temporais aproximadas, as paráfrases das legendas e os localizadores usados na análise.
 
-Os participantes eram estudantes de engenharia, de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa. Conheciam o site e o envio de ideias, mas não o protótipo. Todos utilizaram a mesma versão HTML no Microsoft Edge. Não houve teste-piloto por esquecimento, conforme confirmação do responsável. A rodada foi moderada por Bruno e observada por Caio, no contêiner da EJS, UnB Gama, por volta das 9h.
+Os participantes eram estudantes de engenharia, de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa. Conheciam o site e o envio de ideias, mas não o protótipo. Todos utilizaram a mesma versão HTML no Microsoft Edge. Não houve teste-piloto por esquecimento. Moderei a rodada, com Caio na observação, no contêiner da EJS, UnB Gama, por volta das 9h.
 
-As notas gerais confirmadas pelo responsável foram **4/5 para o Participante 1**, **5/5 para o Participante 2** e **4,5/5 para o Participante 3**. Elas descrevem a avaliação geral do uso, sem equivaler a notas por tarefa.
+As notas gerais registradas na consolidação foram **4/5 para o Participante 1**, **5/5 para o Participante 2** e **4,5/5 para o Participante 3**. Elas descrevem a avaliação geral do uso, sem equivaler a notas por tarefa.
 
 Os três chegaram à publicação. A compreensão completa de autoria, apoios e encaminhamento não ficou demonstrada em todos os registros. As prioridades são esclarecer o encaminhamento, destacar o acesso e a confirmação de envio e explicar o que acontece após discordar. As melhorias estão propostas, sem implementação ou reteste.
 
-## Informações para fechamento
+## Apresentação
 
-Os dados de perfil, familiaridade, contato anterior, uso da mesma versão HTML no Edge, motivos das mudanças de horário e observador, ausência de piloto e convergência dos achados com as anotações de Caio foram confirmados em 15/11/2026. O cronograma original permanece preservado. Participação, gravação e divulgação dos vídeos foram autorizadas pelos três participantes, conforme confirmação do responsável. Resta:
-
-- **Apresentação:** gravar e fornecer o vídeo individual. O [roteiro de fala](../../../apresentacoes/etapa-07.md#roteiro-de-fala-de-bruno) está disponível na página da apresentação.
-
-Ausência de piloto, instrução antecipada, tempos ativos não aferidos, falta de notas por tarefa e cobertura audiovisual parcial são limitações registradas desta coleta. A revisão documental não acrescentou uma conferência integral do áudio. O reprojeto e o reteste são recomendações de continuidade, não atividades declaradas como realizadas nesta entrega.
+O [roteiro de fala](../../../apresentacoes/etapa-07.md#roteiro-de-fala-de-bruno) acompanha os resultados apresentados nesta entrega. O vídeo será incluído na [página de apresentação](../../../apresentacoes/etapa-07.md#bruno-ferreira-dornelas).
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a análise das legendas e de pontos das gravações, a consolidação dos resultados e a comparação entre planejamento e execução. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico.
+Utilizei o Codex (OpenAI) como apoio à organização, à análise documental e à redação. Assumo a responsabilidade acadêmica pelo conteúdo.
 
 ## Histórico de versão
 
@@ -69,6 +65,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.7` | 13/11/2026 | Revisão final de consistência com a Etapa 6, confirmação da nota geral 4,5 do Participante 3 e delimitação das informações externas ao fechamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.8` | 15/11/2026 | Inclusão das informações confirmadas sobre participantes, aplicação e autorizações; revisão do relato por Luís Henrique sem correções, confirmada pelo responsável nesta data | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
@@ -76,6 +73,6 @@ A tabela a seguir registra a preparação desta versão.
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.5, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
