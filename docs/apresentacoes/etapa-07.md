@@ -63,9 +63,25 @@ Cada pessoa incorpora a própria gravação na seção correspondente. A gravaç
 
 ### Luís Henrique Luna de Arruda { #luis-henrique-arruda-luna }
 
-- Vídeo individual da apresentação da Etapa 7: **pendente de link**.
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/a0eBTz5rEQ8](https://youtu.be/a0eBTz5rEQ8)
+- Participante: Luís Henrique Arruda Luna
 - Percurso: [relato da alta fidelidade](../entrega-7/individual/luis/relato-alta-fidelidade.md) e [protótipo AF-1.0 no Figma](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
 - Avaliação com AF-P01 e piloto PP-AF01, distintos desta apresentação: [vídeos da sessão](../entrega-7/individual/luis/evidencias.md)
+
+??? note "Vídeo — Apresentação da Etapa 7, Luís Henrique Arruda Luna"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/a0eBTz5rEQ8"
+        title="Apresentação da Etapa 7 — Luís Henrique Arruda Luna"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Agradecimentos
 
@@ -80,7 +96,7 @@ A Tabela 2 registra a versão deste artefato.
 | `1.0` | 11/11/2026 | Preparação da página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Alinha a sequência à sessão da AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 15/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.3` | 15/11/2026 | Inclui o percurso e as evidências de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 15/11/2026 | Inclui o percurso, as evidências e a gravação individual de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
