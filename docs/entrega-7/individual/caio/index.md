@@ -42,11 +42,11 @@ A Tabela 2 organiza os materiais para leitura e conferência.
 <p class="caption">Tabela 2 — Materiais do recorte individual.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-**Avaliação principal:** 11/11/2026, às 9h, com duas pessoas alternando o uso; Caio avalia e Bruno observa. Piloto realizado antes, sem gravação e separado dos resultados principais.
+**Avaliação principal:** 11/11/2026, às 9h, com duas pessoas alternando o uso; Caio avalia e Bruno observa. O piloto foi feito antes e fica separado destes resultados.
 
 ## Continuidade
 
-As sessões verificam as melhorias PAP-R01–PAP-R04 no protótipo **AF-1.1**. A versão avaliada permanece disponível para confrontar os resultados com a interface; sugestões posteriores ficam identificadas no relato, com o estado de reteste.
+As sessões verificam as melhorias PAP-R01–PAP-R04 no protótipo **AF-1.2**. A versão avaliada permanece disponível para confrontar os resultados com a interface; sugestões posteriores ficam identificadas no relato, com o estado de reteste.
 
 **Entrega 15/11 · inspeção 16/11 · apresentação 17/11/2026.**
 
@@ -59,6 +59,7 @@ Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Organização do relato e das evidências individuais | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Aponta a avaliação para a AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

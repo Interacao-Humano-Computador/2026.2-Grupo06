@@ -25,7 +25,7 @@ Apresentação dos resultados da avaliação do protótipo de alta fidelidade. P
 [Entrega individual](../entrega-7/individual/caio/index.md){ .md-button .md-button--primary }
 [Relato dos resultados](../entrega-7/individual/caio/relato-alta-fidelidade.md){ .md-button }
 
-**Vídeo individual de apresentação: ainda não anexado.** As [gravações das avaliações](../entrega-7/individual/caio/evidencias.md) estão disponíveis no relato e são registros distintos.
+O vídeo desta apresentação é o registro em que Caio explica o artefato. As [gravações das sessões](../entrega-7/individual/caio/evidencias.md) são outro material.
 
 ### Sequência para a apresentação
 
@@ -33,14 +33,14 @@ A Tabela 2 organiza a exposição do artefato.
 
 | Parte | O que mostrar / explicar |
 | --- | --- |
-| Objetivo e continuidade | Retomar as decisões do papel e os planos da Etapa 6; mostrar o protótipo AF-1.1 |
+| Objetivo e continuidade | Retomar as decisões do papel e os planos da Etapa 6; mostrar o protótipo AF-1.2 |
 | Método e pessoas | Duas pessoas, avaliação presencial com mouse, pensamento em voz alta, tela e câmera da sala |
 | Resultados | Ambas entram, revisam, enviam e consultam o recebimento. Notas globais 5/5, com destaque ao indicador de etapas |
 | Episódio e recomendação | Mostrar a caixa de conferência em AF-P01; propor maior destaque da exigência e um reteste |
-| Cobertura e conclusão | Explicar que a atualização para publicada não foi executada e que as notas não foram coletadas por tarefa; apontar o complemento necessário |
+| Fechamento | As duas notas 5, o destaque ao indicador de etapas e a caixa de conferência, que pode ganhar mais destaque. A versão avaliada é a AF-1.2 |
 
 <p class="caption">Tabela 2 — Sequência de apresentação do recorte de Caio.</p>
-<p class="source">Fonte: relato da avaliação da AF-1.1 (2026).</p>
+<p class="source">Fonte: relato da avaliação da AF-1.2 (2026).</p>
 
 Os demais integrantes acrescentarão os respectivos registros quando disponíveis.
 
@@ -53,6 +53,7 @@ Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Preparação da página e da sequência de apresentação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Alinha a sequência à AF-1.2 e à nota global da sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -10,15 +10,18 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Definição do DECIDE, tarefas, critérios, piloto e instrumentos | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Alinhamento do procedimento à sessão de 11/11 e à versão AF-1.2 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Este plano avalia o [protótipo navegável AF-1.1](../../../prototipos/caio/alta-fidelidade/index.html) de envio e acompanhamento de ideia legislativa. Retoma os pontos PAP-R01–PAP-R04 do [relato do papel](relato-prototipo-papel.md#analise-do-reprojeto). O relato desta avaliação será entregue na **Etapa 7, em 15/11/2026**; este documento e seu [planejamento de relato](planejamento-relato-alta-fidelidade.md) compõem a Etapa 6.
+Este plano avalia o [protótipo navegável AF-1.2](../../../prototipos/caio/alta-fidelidade/index.html) de envio e acompanhamento de ideia legislativa. Retoma os pontos PAP-R01–PAP-R04 do [relato do papel](relato-prototipo-papel.md#analise-do-reprojeto). O relato desta avaliação está na **Etapa 7, entregue em 15/11/2026**; este documento e seu [planejamento de relato](planejamento-relato-alta-fidelidade.md) compõem a Etapa 6.
 
-[Abrir protótipo AF-1.1](../../../prototipos/caio/alta-fidelidade/index.html){ .md-button .md-button--primary }
+A versão `1.0` registra o procedimento da sessão de **11/11/2026**, que é o que a Etapa 7 relata.
+
+[Abrir protótipo AF-1.2](../../../prototipos/caio/alta-fidelidade/index.html){ .md-button .md-button--primary }
 
 ## Fundamentação
 
@@ -40,14 +43,14 @@ A Tabela 2 relaciona perguntas, tarefas e dados.
 | AF-Q2 — Consegue conferir e confirmar corretamente o texto? | AF-T2 / PAP-R01 | Leitura da revisão, confirmação da conferência e texto efetivado |
 | AF-Q3 — Distingue recebimento, publicação e aprovação de lei? | AF-T3 / PAP-R02 e PAP-R04 | Explicação, referência DEMO-001 e próximo passo |
 | AF-Q4 — Encontra a mesma ideia e compreende a atualização? | AF-T4 / PAP-R03 e PAP-R04 | Acesso ao registro, estado e interpretação do próximo passo |
-| AF-Q5 — Que dificuldades e opiniões ajudam a melhorar as telas? | Todas | Ações, erros, falas, satisfação M6 e sugestões localizadas |
+| AF-Q5 — Que dificuldades e opiniões ajudam a melhorar as telas? | Todas | Ações, erros, falas, nota global ao final e sugestões localizadas |
 
 <p class="caption">Tabela 2 — Perguntas e evidências da alta fidelidade.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## C — Escolher os métodos
 
-**Teste de usabilidade moderado remoto**, com compartilhamento da tela da pessoa participante no Google Meet. Ela controla o protótipo; Caio lê os enunciados e não move o cursor por ela. Solicitar que diga o que espera e o que está pensando, sem ensinar o percurso. Concluir com entrevista breve. O operador manual é necessário no papel; na alta fidelidade, as respostas são executadas pelo próprio protótipo.
+**Teste de usabilidade moderado presencial.** AF-P01 e AF-P02 usam o protótipo no notebook, com mouse, e alternam a vez. Caio lê o cenário e não move o cursor durante o percurso. A pessoa diz o que espera e o que está pensando, sem indicação de qual controle acionar. A sessão termina com entrevista breve e uma nota global de 1 a 5. Cada pessoa fica registrada pela captura da tela e pela câmera da sala. O operador manual é necessário no papel; na alta fidelidade, as respostas são executadas pelo próprio protótipo.
 
 Não executar envio no serviço oficial. O acesso de demonstração não pede credenciais. As telas funcionam em navegador, com estado apenas na memória da página; recarregar reinicia os dados. A avaliação limita-se ao comportamento implementado, não a integração, moderação ou segurança de produção.
 
@@ -55,9 +58,9 @@ Não executar envio no serviço oficial. O acesso de demonstração não pede cr
 
 ### Pessoas, local e recursos
 
-Prevê-se **uma pessoa adulta principal (AF-P01) e outra distinta para o piloto (PP-AF01)**, por disponibilidade do recorte individual. É uma avaliação exploratória, sem representatividade estatística. Convidar voluntariamente por contato acadêmico ou comunitário, sem seleção por opinião política. Registrar familiaridade digital, experiência com o serviço, dispositivo, necessidades de leitura e exposição ao papel. Se for a mesma pessoa do papel, registrar a experiência anterior e o possível efeito de aprendizado.
+A sessão principal tem **duas pessoas adultas, AF-P01 e AF-P02**, que alternam o uso. O piloto ocorre antes e não entra nos resultados. O convite é voluntário, por contato acadêmico ou comunitário, sem seleção por opinião política. As pessoas aparecem no relato só pelos códigos.
 
-Equipe proposta: Caio modera; Bruno e Israel observam; Luís organiza a gravação. Confirmar disponibilidade antes do piloto. Local: Google Meet, com sala silenciosa em cada ponta; URL da sala e contatos ficam privados. Recursos próprios: computador ou celular, navegador, internet, áudio, compartilhamento de tela, fichas e protótipo AF-1.1. Orçamento adicional previsto **R$ 0**. Se a conexão impedir observar as ações, interromper e reagendar, registrando o ocorrido.
+Equipe: Caio modera; Bruno observa. A gravação reúne a captura da tela do notebook e a câmera da sala. Local: mesma sala, presencial, **11/11/2026, às 9h**. Recursos: notebook Dell, mouse, navegador e protótipo AF-1.2. Orçamento adicional **R$ 0**.
 
 ### Tarefas e critérios
 
@@ -65,51 +68,47 @@ A Tabela 3 relaciona enunciados, condições iniciais e critérios de conclusão
 
 | ID / enunciado lido à pessoa | Estado inicial e dados | Critério observável |
 | --- | --- | --- |
-| AF-T1 — “Você quer propor uma melhoria nos serviços. Mostre por onde começaria até chegar ao espaço de escrever sua ideia.” | Reiniciar sessão; página inicial | Localiza envio, entende acesso de demonstração e chega ao formulário sem orientação do moderador |
-| AF-T2 — “Confira o texto da ideia e prossiga com o envio quando considerar adequado.” | Controle “Preparar AF-T2: rascunho pronto”; mesmo título e descrição limpa do papel | Revisa o texto completo, reconhece que não poderá editar depois e confirma uma vez |
-| AF-T3 — “Você acabou de confirmar. Explique o que aconteceu e o que faria agora.” | Controle “Preparar AF-T3”, início independente no recebimento | Reconhece DEMO-001, recebimento e próximo passo, sem concluir que já foi publicada ou virou lei |
-| AF-T4 — “Consulte o estado da mesma ideia. Depois da atualização, explique o que aconteceu e o próximo passo.” | Acompanhamento da ideia enviada; cartão de passagem de tempo e controle “Avançar contexto: publicada” | Localiza o registro, reconhece publicação para apoios e distingue de aprovação de lei |
+| AF-T1 — “Você quer propor uma melhoria nos serviços. Mostre por onde começaria até chegar ao espaço de escrever sua ideia.” | Página de ideia legislativa da AF-1.2, sessão reiniciada | Localiza “Enviar ideia legislativa”, usa o acesso de demonstração e chega ao formulário sem orientação de percurso |
+| AF-T2 — “Confira o texto da ideia e prossiga com o envio quando considerar adequado.” | Rascunho preenchido depois do acesso, com o título e a descrição de exemplo | Abre a revisão, marca a conferência e confirma uma vez. A caixa desmarcada impede o envio |
+| AF-T3 — “Você acabou de confirmar. Explique o que aconteceu e o que faria agora.” | Recebimento no mesmo percurso, logo após a confirmação | Reconhece recebimento, identificação, data e o próximo passo |
+| AF-T4 — “Consulte o estado da mesma ideia e explique o que aconteceu e o próximo passo.” | “Minhas ideias”, com a ideia recém-enviada | Localiza o mesmo registro, lê o estado “Recebida” e o aviso de que a avaliação vem antes da publicação |
 
 <p class="caption">Tabela 3 — Tarefas do teste e critérios de conclusão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-O rascunho usa o título “Orientações claras nos serviços” e a descrição “Explicar documentos e etapas em linguagem simples.” As tarefas podem ocorrer em sequência. Os objetivos são apresentados no início; durante a execução, o participante controla a tela e verbaliza seu raciocínio. A equipe só altera o contexto para informar a atualização após passagem de tempo.
-
-O painel da equipe permite acessar os estados da interface. Seu uso deve ser registrado quando alterar o estado inicial de uma tarefa.
+O rascunho usa o título “Orientações claras nos serviços” e a descrição “Explicar documentos e etapas em linguagem simples.” Ele entra no formulário depois do acesso de demonstração. As quatro tarefas ocorrem em sequência. Os objetivos são apresentados no início; durante o percurso, a pessoa controla a tela e verbaliza o raciocínio. Em “Minhas ideias”, a mesma tela mostra o estado recebido e explica que a publicação só vem depois da avaliação do conteúdo.
 
 ### Condução e piloto
 
-Reservar **35–45 minutos**: apresentação, autorização e perfil (8), tarefa neutra de apontar e compartilhar tela (3), quatro tarefas (20), entrevista e fechamento (7), pausas (até 7). A pessoa pode parar antes. Apresentar o cenário e os objetivos numa introdução única. Durante o percurso, ouvir os pensamentos em voz alta e evitar perguntas a cada tela. Ao final, retomar brevemente as tarefas para coletar a opinião e, se aplicada, a escala M6: “Quão satisfeito(a) você ficou com a experiência de realizar esta tarefa?”, de 1 (muito insatisfeito) a 5 (muito satisfeito), com justificativa.
+A sessão observada é curta: apresentação do cenário, percurso das quatro tarefas em sequência e entrevista final. A pessoa pode parar antes. Durante o percurso, ouvir os pensamentos em voz alta e evitar perguntas a cada tela. Ao final, uma nota global de 1 (muito insatisfeito) a 5 (muito satisfeito), com justificativa. Essa nota não se reparte por tarefa. Não há cronômetro ativo; o minuto do vídeo localiza a evidência, sem virar tempo de desempenho.
 
-O piloto verifica link, câmera/tela, áudio, tamanho do texto, reinícios, enunciados, validação, preservação da ideia e preenchimento das fichas. É um ensaio do procedimento, com outra pessoa, realizado antes da coleta; seus resultados não compõem a sessão principal (BARBOSA; SILVA, 2010, p. 307–308). Registrar ajustes e fixar versão antes do teste principal.
+O piloto é um ensaio do procedimento, feito antes da coleta; seus resultados não compõem a sessão principal (BARBOSA; SILVA, 2010, p. 307–308).
 
 ### Agenda proposta
 
-A Tabela 4 usa horário de Brasília; convites ainda precisam ser confirmados.
+A Tabela 4 usa horário de Brasília e registra o que foi executado.
 
-| Atividade | Data / horário propostos | Responsável / produto |
+| Atividade | Data / horário | Responsável / produto |
 | --- | --- | --- |
-| Consolidar observações do papel e conferir AF-1.1 | 04–05/11, 19h–20h | Caio; ajustes rastreáveis |
-| Confirmar pessoas, acesso e autorizações | 06/11, 18h30–19h | Caio e Luís; recursos e sala |
-| Piloto PP-AF01 | 07/11, 19h–19h45 | Equipe; ficha de ajustes separada |
-| Ajustar e fixar versão | 08/11, 19h–20h | Caio e Bruno; versão do teste |
-| Sessão AF-P01 | 10/11, 19h–19h45 | Caio, Bruno, Israel e Luís; registros |
-| Analisar dados e preparar relato | 11–12/11, 19h–20h30 | Caio e observadores |
-| Revisar e gravar apresentação | 13–14/11, 19h–20h | Caio e Bruno |
+| Fixar o comportamento da AF-1.2 | 09/11/2026 | Caio; rascunho depois do acesso |
+| Ajuste visual da AF-1.2 | 10/11/2026 | Caio; identidade do e-Cidadania |
+| Piloto | antes da sessão principal | Caio; fora dos resultados |
+| Sessão de AF-P01 e AF-P02 | 11/11/2026, 9h, presencial | Caio modera; Bruno observa; tela e câmera da sala |
+| Análise e relato | 11/11/2026 | Caio; [relato da Etapa 7](../../../entrega-7/individual/caio/relato-alta-fidelidade.md) |
 | Entrega / inspeção / apresentação da Etapa 7 | 15/11 / 16/11 / 17/11 | Marcos do plano de ensino |
 
-<p class="caption">Tabela 4 — Agenda proposta da avaliação e do relato.</p>
+<p class="caption">Tabela 4 — Agenda executada da avaliação e do relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## D — Decidir questões éticas
 
-Usar o [procedimento ético do grupo](../../../entrega-2/etica.md), conforme Barbosa e Silva (2010, p. 138–142, 313). Autorizar separadamente participação, voz/imagem, compartilhamento de tela e disponibilização do vídeo para a disciplina. Explicar o alcance de um link não listado. Garantir recusa de perguntas, pausa e retirada sem prejuízo. Não coletar preferência política, documento, senha ou proposta real.
+Usar o [procedimento ético do grupo](../../../entrega-2/etica.md), conforme Barbosa e Silva (2010, p. 138–142, 313). Autorizar participação, voz, imagem, captura da tela, câmera da sala e disponibilização do vídeo para a disciplina. Explicar o alcance de um link não listado. Garantir recusa de perguntas, pausa e retirada sem prejuízo. Não coletar preferência política, documento, senha ou proposta real.
 
 Caio mantém termos, contato e arquivos brutos fora do repositório. Publicar somente registros autorizados e desidentificados. Proposta de retenção: excluir brutos e chave de identificação até 30 dias após o fim da disciplina, com data e contato efetivos definidos no consentimento. Se houver dados pessoais na tela, pausar, ocultar e retirar o trecho antes da disponibilização.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
-Registrar por tarefa: versão, condição inicial, ações, erros, ajuda, conclusão, falas, satisfação e minuto do vídeo. Iniciar tempo ao terminar o enunciado e disponibilizar a tela; encerrar na conclusão ou desistência. Separar pausas e falhas técnicas. Fala durante o uso e condições remotas limitam a comparação de tempos.
+Registrar por tarefa: versão, condição inicial, ações, erros, ajuda, conclusão, falas e minuto do vídeo. A nota de satisfação é global, ao final da sessão. Os minutos localizam a evidência. Fala durante o uso e ausência de cronômetro por tarefa limitam a comparação de tempos.
 
 A Tabela 5 delimita as [metas da Etapa 3](../../../entrega-3/metas-usabilidade.md) cobertas.
 
@@ -118,7 +117,7 @@ A Tabela 5 delimita as [metas da Etapa 3](../../../entrega-3/metas-usabilidade.m
 | M0 — eficácia | Conclusão correta sem ajuda por tarefa; apresentar contagem e denominador, sem extrapolar a amostra |
 | M2 — prevenção | Contar tentativas e resultados críticos: envio com contato no texto ou ideia duplicada; desejado zero efetivações críticas |
 | M3 — recuperação | Não avaliada neste protocolo: não há tarefa específica de recuperação de incidente |
-| M6 — satisfação | Registrar resposta de 1 a 5 e justificativa por tarefa; ausência não é zero |
+| M6 — satisfação | Nota global de 1 a 5 ao final da sessão, com justificativa. A nota não se reparte por tarefa; ausência não é zero |
 | M1, M4 e M5 | Não avaliadas: não há duas tentativas equivalentes, retorno após sete dias ou comparação controlada com o sistema oficial |
 
 <p class="caption">Tabela 5 — Indicadores e limites do protocolo.</p>
@@ -128,7 +127,7 @@ Manter critérios fixos antes da sessão principal. Interpretar cada problema co
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento do procedimento à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -137,6 +136,7 @@ A Tabela 6 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do planejamento da avaliação de alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 15/11/2026 | Alinha método, tarefas, agenda e indicadores à sessão presencial de 11/11 e à AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
