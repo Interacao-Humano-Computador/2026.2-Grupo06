@@ -10,13 +10,14 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação do relato, fichas e regras de interpretação | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
+| Grok (xAI) | Alinhamento das fichas à sessão de 11/11 e à versão AF-1.2 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-O relato da Etapa 7 responderá a AF-Q1–AF-Q5 do [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md), usando as execuções de AF-T1–AF-T4 no [protótipo AF-1.1](../../../prototipos/caio/alta-fidelidade/index.html). Este documento fixa a estrutura e os campos antes da coleta.
+O relato da Etapa 7 responde a AF-Q1–AF-Q5 do [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md), usando as execuções de AF-T1–AF-T4 no [protótipo AF-1.2](../../../prototipos/caio/alta-fidelidade/index.html). A versão `0.1` fixou a estrutura em 03/11. A versão `1.0` acompanha a sessão presencial de 11/11, com AF-P01 e AF-P02.
 
 ## Estrutura do relato
 
@@ -30,7 +31,7 @@ Barbosa e Silva (2010, p. 343) propõem relatar objetivos, método, pessoas, tar
 | Método e execução | Modalidade, equipe, data, horários, duração, recursos e desvios | Ficha da sessão |
 | Participantes | Quantidade, perfil, recrutamento e contato anterior com o material | Caracterização desidentificada |
 | Tarefas e desempenho | Enunciados, estado inicial, ações, conclusão, ajuda, erro e tempo | Fichas por tarefa e vídeo |
-| Opiniões | Dúvidas, satisfação M6 e sugestões associadas às telas | Entrevista e falas localizadas |
+| Opiniões | Dúvidas, nota global ao final e sugestões associadas às telas | Entrevista e falas localizadas |
 | Problemas | Local, descrição, evidência, causa interpretada, fator, consequência e prioridade | Matriz de problemas |
 | Reprojeto | Correção, versão, responsável, reteste e recorrência | Comparação de versões |
 | Respostas e limites | Resposta a cada AF-Q, lacunas, limites da amostra e próximos passos | Síntese rastreável |
@@ -44,28 +45,26 @@ A Tabela 3 será preenchida na execução. Não publicar contatos, termos ou dad
 
 | Campo | Registro |
 | --- | --- |
-| Código / participante | AF-P01 |
-| Data / início / fim / duração | |
-| Versão e commit do protótipo / dispositivo / navegador | |
-| Moderador / observadores / responsável pela gravação | |
-| Perfil e familiaridade digital / experiência com o serviço | |
-| Participação anterior e contato prévio com os materiais | |
-| Autorizações de participação, gravação e disponibilização | |
-| Link autorizado / falhas técnicas / desvios do plano | |
+| Código / participante | AF-P01 e AF-P02, duas pessoas na sessão principal |
+| Data / horário | 11/11/2026, 9h, presencial. Horários individuais de início e fim não foram registrados |
+| Versão / dispositivo | AF-1.2, faixa superior. Notebook Dell, mouse e navegador |
+| Moderador / observação / gravação | Caio modera; Bruno observa. Captura da tela e câmera da sala, com inícios diferentes |
+| Perfil e familiaridade digital / experiência com o serviço | Não caracterizado na sessão |
+| Participação anterior e contato prévio com os materiais | Não informado |
+| Autorizações de participação, gravação e disponibilização | Pedido na abertura de AF-P01. AF-P02 não mostra esse pedido no início do arquivo |
+| Registros | Vídeos da tela e da sala, na categoria não listado. O piloto fica fora das tabelas |
 
 <p class="caption">Tabela 3 — Identificação da sessão principal.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Ficha por tarefa
 
-A Tabela 4 terá uma linha por pessoa, tarefa e condição. Anotar qualquer reinício necessário; as tarefas do percurso principal podem ocorrer em sequência.
+A Tabela 4 reserva uma linha por pessoa. O relato detalha AF-T1–AF-T4. As tarefas do percurso principal ocorrem em sequência, com o rascunho de exemplo. A nota fica no encerramento.
 
-| Pessoa / tarefa / versão | Estado inicial / ações | Conclusão e ajuda | Erros / recuperação | Tempo ativo / pausas | M6 e justificativa | Evidência |
+| Pessoa / tarefa / versão | Estado inicial / ações | Conclusão e ajuda | Erros / recuperação | Localizador | Nota | Evidência |
 | --- | --- | --- | --- | --- | --- | --- |
-| AF-P01 / AF-T1 | | | | | | |
-| AF-P01 / AF-T2 | | | | | | |
-| AF-P01 / AF-T3 | | | | | | |
-| AF-P01 / AF-T4 | | | | | | |
+| AF-P01 / AF-T1 a AF-T4 | | | | | Nota global ao final | Captura de tela |
+| AF-P02 / AF-T1 a AF-T4 | | | | | Nota global ao final | Captura de tela |
 
 <p class="caption">Tabela 4 — Registro de desempenho e opinião por tarefa.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -97,22 +96,22 @@ A Tabela 6 será o resumo da resposta ao estudo.
 | AF-Q2 — conferência e revisão | AF-T2, texto lido e efetivado | |
 | AF-Q3 — compreensão do resultado | AF-T3, explicação e próximo passo | |
 | AF-Q4 — acompanhamento | AF-T4, consulta e interpretação da atualização | |
-| AF-Q5 — dificuldades e opinião | Todas, notas e M6 | |
+| AF-Q5 — dificuldades e opinião | Nota global ao final e falas localizadas | |
 
 <p class="caption">Tabela 6 — Resposta às perguntas da avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-Relatar M0 e M2 por caso e tarefa; M6 como resposta individual de 1 a 5, acompanhada da justificativa. M1, M3, M4 e M5 ficam não avaliadas no protocolo principal. Se houver mais de uma pessoa, mostrar contagens e denominadores; usar gráfico apenas se tornar a comparação mais clara, sem misturar estados ou versões. Não declarar metas do público alcançadas com esta amostra.
+Relatar M0 e M2 por caso e tarefa. A satisfação é uma nota global de 1 a 5 ao final de cada sessão, com justificativa; essa nota não gera quatro valores por pessoa. M1, M3, M4 e M5 ficam fora deste protocolo. Com duas pessoas, mostrar contagens e denominadores. Usar gráfico apenas se tornar a comparação mais clara, sem misturar estados ou versões. Não declarar metas do público alcançadas com esta amostra.
 
 ## Piloto, agenda e publicação
 
-O piloto PP-AF01 terá registro próprio de dificuldades do procedimento e ajustes. Seus dados não entram nas tabelas da coleta principal. Seguir a [agenda do plano](planejamento-avaliacao-alta-fidelidade.md#agenda-proposta): piloto em 07/11, sessão em 10/11, análise em 11–12/11 e revisão em 13–14/11, horários propostos. Confirmar e registrar os horários efetivos.
+O piloto ocorreu antes da sessão principal. Seus dados não entram nas tabelas da coleta. A [agenda executada](planejamento-avaliacao-alta-fidelidade.md#agenda-proposta) fixa a sessão em 11/11/2026, às 9h, e a análise no mesmo dia.
 
-Caio redige; Bruno e Israel conferem as observações; Luís confere o arquivo e o acesso autorizado; Bruno é o revisor do relato. Antes da entrega de 15/11: fechar tabelas, conferir localizadores e versões, anonimizar, verificar acesso ao vídeo, incluir histórico e ligações para cada decisão de reprojeto. A apresentação da etapa é um registro separado do vídeo de avaliação.
+Caio redige; Bruno é o revisor do relato. Antes da entrega de 15/11: fechar tabelas, conferir localizadores e a versão AF-1.2, anonimizar, verificar o acesso ao vídeo, incluir histórico e ligações para cada decisão de reprojeto. A apresentação da etapa é um registro separado do vídeo de avaliação.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento das fichas à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -121,6 +120,7 @@ A Tabela 7 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do planejamento do relato da alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 15/11/2026 | Alinha fichas, indicador de satisfação e agenda à sessão de 11/11 e à AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 
 <p class="caption">Tabela 7 — Histórico de versão.</p>
