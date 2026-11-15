@@ -42,6 +42,28 @@ A Tabela 2 organiza a exposição do artefato.
 <p class="caption">Tabela 2 — Sequência de apresentação do recorte de Caio.</p>
 <p class="source">Fonte: relato da avaliação da AF-1.1 (2026).</p>
 
+## Luís Henrique Arruda Luna { #luis-henrique-arruda-luna }
+
+**Recorte:** solicitação de vaga em plenária.
+
+[Entrega individual](../entrega-7/individual/luis/index.md){ .md-button .md-button--primary }
+[Relato dos resultados](../entrega-7/individual/luis/relato-alta-fidelidade.md){ .md-button }
+
+**Vídeo individual de apresentação: ainda não anexado.** As [gravações da avaliação](../entrega-7/individual/luis/evidencias.md) são registros distintos.
+
+A Tabela 3 organiza a exposição do artefato.
+
+| Parte | O que mostrar / explicar |
+| --- | --- |
+| Objetivo e continuidade | Retomar os problemas P01–P05 do papel e os requisitos AF-R01–AF-R09; mostrar o protótipo AF-1.0 no Figma |
+| Método e pessoa | Uma pessoa, teste moderado presencial, piloto no mesmo dia, câmera da sala e tela com webcam |
+| Resultados | AF-T1 a AF-T4 concluídas sem ajuda; estado “Inscrição confirmada” visível na lista e nos detalhes |
+| Sugestão e lacunas | Sugestão de pedir CPF, não adotada por envolver dados reais; erro preparado de AF-T2 não aplicado; AF-T5 não executada |
+| Conclusão | Manter o fluxo e, em nova versão, preparar AF-T2, construir AF-T5 e coletar M6 por tarefa |
+
+<p class="caption">Tabela 3 — Sequência de apresentação do recorte de Luís.</p>
+<p class="source">Fonte: relato da avaliação da AF-1.0 (2026).</p>
+
 Os demais integrantes acrescentarão os respectivos registros quando disponíveis.
 
 ## Agradecimentos
@@ -53,6 +75,7 @@ Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Preparação da página e da sequência de apresentação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Inclusão da sequência de apresentação de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
