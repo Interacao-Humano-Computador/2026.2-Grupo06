@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.6, de 15/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
+Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.7, de 15/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
 
 O [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md) concentra os resultados. O cronograma originalmente proposto é preservado; o relato registra o horário efetivo e as diferenças em relação à versão anterior dos planejamentos.
 
@@ -58,14 +58,14 @@ A Tabela 3 define os campos das três fichas. Os documentos utilizam Participant
 | Campo | Registro e tratamento |
 | --- | --- |
 | Participante e perfil | Participante 1, 2 ou 3; estudantes de engenharia de 20 a 21 anos, muita familiaridade tecnológica e alguma familiaridade legislativa; conheciam o site e o envio de ideias, mas não o protótipo. |
-| Data, horário e local | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama. Horários individuais não informados. |
+| Data, horário e local | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama. Horários individuais não constam dos registros apresentados. |
 | Modalidade e equipamento | Presencial, com notebook, protótipo HTML e Microsoft Edge nas três sessões. |
 | Versão avaliada | Mesma versão HTML, sem alterações entre sessões; commit e data de congelamento não registrados. |
 | Equipe | minha moderação e observação de Caio Breno de Souza Bezerra. |
 | Piloto | Não realizado por esquecimento. |
 | Gravações | Tela e ambiente por pessoa; durações informadas separadamente, sem somar os ângulos. |
-| Autorizações | Os três participantes autorizaram a participação, a gravação e a divulgação pública dos vídeos. Autorizações registradas em 15/11/2026. |
-| Avaliação numérica geral | Nota global e origem: Participante 1, 4; Participante 2, 5; Participante 3, 4,5. As três notas foram registradas na consolidação em 13/11/2026. |
+| Autorizações | Os três participantes autorizaram a participação, a gravação e a divulgação pública dos vídeos. |
+| Avaliação numérica geral | Nota global e origem: Participante 1, 4; Participante 2, 5; Participante 3, 4,5. |
 
 <p class="caption">Tabela 3 — Campos da ficha de identificação da sessão.</p>
 <p class="source">Fonte: organização da coleta e informações registradas na consolidação (2026).</p>
@@ -95,7 +95,7 @@ A Tabela 5 define como localizar as evidências, sem códigos de identificação
 | Ação e resposta | Descrever apenas o observado, indicando se foi captura pontual ou sequência conferida. |
 | Fala | Usar paráfrase identificada para legendas automáticas; aspas somente após revisão do áudio. |
 | Intervenção | Distinguir instrução inicial, orientação de simulação e explicação do significado da interface. |
-| Confirmação posterior | Registrar informações complementares da coleta, com data, sem atribuir minuto de vídeo inexistente. |
+| Origem dos dados | Distinguir gravações, anotações e notas gerais da avaliação; usar localizadores somente quando o dado puder ser encontrado no vídeo. |
 
 <p class="caption">Tabela 5 — Campos das evidências localizáveis.</p>
 <p class="source">Fonte: instrumentos do projeto (2026).</p>
@@ -138,7 +138,7 @@ A Tabela 7 organiza a apresentação dos problemas conforme Barbosa e Silva (201
 
 ### Discussão dos achados segundo Krug
 
-Krug [4] orienta selecionar problemas e discutir correções. Caio observou a coleta e fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos. Em 15/11/2026, confirmei essa convergência e as propostas de correção apresentadas no relato. As anotações originais não estão anexadas; data, duração e ordem de prioridade de uma reunião formal não foram registradas. Distinguir essa confirmação das prioridades propostas pela análise documental.
+Krug [4] orienta selecionar problemas e discutir correções. Caio observou a coleta e fez anotações que levaram aos mesmos problemas identificados na análise dos vídeos. As anotações e a análise dos vídeos convergem para os problemas e as propostas de correção apresentados no relato. As anotações originais não estão anexadas; data, duração e ordem de prioridade de uma reunião formal não foram registradas. Distinguir os achados da observação das prioridades propostas pela análise documental.
 
 ## Regras de interpretação, consolidação e responsabilidades
 
@@ -163,6 +163,7 @@ Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organi
 | `1.4` | 15/11/2026 | Atualização dos dados da aplicação confirmados em 15/11, sem alteração do cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.5` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.6` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.7` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

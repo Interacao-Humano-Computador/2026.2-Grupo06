@@ -19,7 +19,7 @@ A Tabela 1 registra as contribuições na preparação deste artefato.
 
 Esta entrega reúne o relato da avaliação de **complementos de ideias legislativas**, em continuidade ao planejamento da Etapa 6 [1–2]. A estrutura contempla três participantes (Participante 1, Participante 2 e Participante 3), quatro tarefas e dois registros de vídeo por participante: tela e ambiente.
 
-**Resultados da avaliação.** Três sessões presenciais realizadas em 11/11/2026, com seis vídeos. O relato apresenta resultados por tarefa, respostas às perguntas, comparação com o papel, prioridades de melhoria e diferenças entre planejamento e execução. Os limites das legendas e as informações ainda não confirmadas estão identificados.
+**Resultados da avaliação.** Três sessões presenciais realizadas em 11/11/2026, com seis vídeos. O relato apresenta resultados por tarefa, respostas às perguntas, comparação com o papel, prioridades de melhoria e diferenças entre planejamento e execução. Os limites das legendas e da cobertura da avaliação estão identificados.
 
 <div class="etapa-actions" markdown>
 
@@ -66,6 +66,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.8` | 15/11/2026 | Inclusão das informações confirmadas sobre participantes, aplicação e autorizações; revisão do relato por Luís Henrique sem correções, confirmada pelo responsável nesta data | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.11` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
@@ -73,6 +74,6 @@ A tabela a seguir registra a preparação desta versão.
 
 ## Referências
 
-[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[1] GRUPO 06. [Planejamento da avaliação de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
 
-[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.6, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
+[2] GRUPO 06. [Planejamento do relato de alta fidelidade](../../../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md). Versão 1.7, de 15/11/2026; versão 1.1, de 09/11/2026, como referência histórica.
