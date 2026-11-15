@@ -21,7 +21,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 Este relato apresenta os resultados do teste do **protótipo AF-1.0 de solicitação de vaga em plenária**, em continuidade ao [planejamento da avaliação](../../../entrega-6/individual/luis/planejamento-avaliacao-alta-fidelidade.md) e ao [planejamento do relato](../../../entrega-6/individual/luis/planejamento-relato-alta-fidelidade.md). A evidência é uma sessão com uma pessoa, registrada pela câmera da sala e pela tela com webcam.
 
 [Vídeos e localizadores](evidencias.md){ .md-button .md-button--primary }
-[Protótipo avaliado (Figma)](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3){ .md-button }
+[Abrir protótipo (Figma)](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3){ .md-button }
 
 ## Objetivos e método
 
@@ -33,9 +33,28 @@ Foi realizado um **teste de usabilidade moderado presencial**, com verbalizaçã
 
 Barbosa e Silva [1, p. 341–343] orientam relacionar objetivos, método, pessoas, tarefas, desempenho, opinião e problemas. As tabelas deste relato seguem essa estrutura e separam ação observada, fala e interpretação da equipe.
 
-## Protótipo avaliado
+## Protótipo de alta fidelidade
 
-A Tabela 2 registra a situação dos requisitos AF-R01–AF-R09 conforme o que aparece na gravação. “Observado” indica que o comportamento aparece na tela; não significa que foi validado com outras pessoas.
+O protótipo avaliado é a versão **AF-1.0**, navegável no Figma. Ele simula a consulta às plenárias, a solicitação de vaga em duas etapas (formulário e revisão), a confirmação com código e o estado da inscrição na lista e nos detalhes. Todo o conteúdo é fictício.
+
+[Abrir o protótipo AF-1.0 no Figma](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
+A Tabela 2 apresenta as telas que podem ser percorridas.
+
+| Tela | O que mostra |
+| --- | --- |
+| Plenárias | Busca por tema e lista com data, horário, local, prazo e selo de disponibilidade (“6 de 30 vagas disponíveis”, “Sem vagas disponíveis”, “Inscrição confirmada”) |
+| Detalhes da plenária | Data, horário, local, disponibilidade, prazo de inscrição, aviso de que a vaga só é confirmada após o envio e botão “Solicitar vaga” |
+| Solicitar uma vaga — Etapa 1 de 2 | Nome completo e e-mail, com aviso para usar apenas dados fictícios |
+| Revisão da solicitação — Etapa 2 de 2 | Dados do participante e da plenária, e-mail parcialmente mascarado e aviso de que a vaga ainda não está confirmada |
+| Inscrição confirmada | Código de confirmação, plenária, data, horário, local e “Voltar às plenárias” |
+
+<p class="caption">Tabela 2 — Telas do protótipo AF-1.0.</p>
+<p class="source">Fonte: protótipo AF-1.0 de Luís Henrique Arruda Luna no Figma (2026).</p>
+
+## Requisitos no protótipo avaliado
+
+A Tabela 3 registra a situação dos requisitos AF-R01–AF-R09 conforme o que aparece na gravação. “Observado” indica que o comportamento aparece na tela; não significa que foi validado com outras pessoas.
 
 | ID | Requisito | Situação na sessão |
 | --- | --- | --- |
@@ -49,12 +68,12 @@ A Tabela 2 registra a situação dos requisitos AF-R01–AF-R09 conforme o que a
 | AF-R08 | Validação de campos vazios e formato de e-mail | **Não observado.** Os campos foram preenchidos sem erro |
 | AF-R09 | Conteúdo fictício e aviso de demonstração | **Observado.** Faixa “Protótipo acadêmico — Serviço fictício, sem vínculo operacional com o Senado Federal” e aviso “Use apenas dados fictícios” no formulário. O cabeçalho mantém o nome “Senado Federal” como identificação do contexto |
 
-<p class="caption">Tabela 2 — Requisitos da AF-1.0 e o que a sessão permite afirmar.</p>
+<p class="caption">Tabela 3 — Requisitos da AF-1.0 e o que a sessão permite afirmar.</p>
 <p class="source">Fonte: plano da Etapa 6 e gravação de tela da sessão AF-P01.</p>
 
 ## Pessoas, material e condições
 
-A Tabela 3 identifica a sessão. O código AF-P01 distingue a pessoa participante sem indicar sua identidade civil.
+A Tabela 4 identifica a sessão. O código AF-P01 distingue a pessoa participante sem indicar sua identidade civil.
 
 | Campo | Registro |
 | --- | --- |
@@ -69,7 +88,7 @@ A Tabela 3 identifica a sessão. O código AF-P01 distingue a pessoa participant
 | Consentimento | TCLE assinado antes da sessão. O termo fica fora do site |
 | Piloto | PP-AF01, no mesmo dia, cerca de 20 minutos antes. Nenhum ajuste foi necessário. Seus dados não entram nos resultados |
 
-<p class="caption">Tabela 3 — Pessoa, material e condições efetivas.</p>
+<p class="caption">Tabela 4 — Pessoa, material e condições efetivas.</p>
 <p class="source">Fonte: gravações da sessão e registro de Luís em 15/11/2026.</p>
 
 Os tempos citados neste relato usam o **Vídeo 2 (tela com webcam)** da [página de evidências](evidencias.md).
@@ -86,7 +105,7 @@ Outras diferenças afetam a interpretação dos resultados:
 
 ## Tarefas, desempenho e opinião
 
-A Tabela 4 registra as tarefas. “Sem ajuda” significa que não houve indicação de qual controle acionar; não elimina o efeito do cenário lido pelo moderador. Os intervalos são **localizadores**, não tempos de desempenho.
+A Tabela 5 registra as tarefas. “Sem ajuda” significa que não houve indicação de qual controle acionar; não elimina o efeito do cenário lido pelo moderador. Os intervalos são **localizadores**, não tempos de desempenho.
 
 | Tarefa | Ações e evidência no Vídeo 2 | Conclusão e limite |
 | --- | --- | --- |
@@ -96,24 +115,24 @@ A Tabela 4 registra as tarefas. “Sem ajuda” significa que não houve indica�
 | AF-T4 — tentar a plenária sem vagas | **5:20–6:25.** Na lista, reconhece pelo selo “Sem vagas disponíveis” que não é possível se inscrever na plenária sobre orçamento público, sem abrir o formulário | **Sem ajuda.** Os detalhes da plenária sem vagas e a oferta de outras plenárias não foram abertos |
 | AF-T5 — perder a última vaga | — | **Não executada.** O cenário não estava disponível na AF-1.0 usada na sessão |
 
-<p class="caption">Tabela 4 — Desempenho por tarefa na AF-1.0.</p>
+<p class="caption">Tabela 5 — Desempenho por tarefa na AF-1.0.</p>
 <p class="source">Fonte: gravação de tela da sessão AF-P01 e registro do moderador.</p>
 
 Ao final do percurso (6:25–6:36), a pessoa reabre a plenária em que já se inscreveu e encontra “Você já possui inscrição” com o código, sem repetir o pedido. Esse episódio favorece AF-R01 e AF-Q5.
 
-A Tabela 5 resume a opinião como **paráfrase**, sem tratá-la como fala literal.
+A Tabela 6 resume a opinião como **paráfrase**, sem tratá-la como fala literal.
 
 | Momento | Opinião e satisfação | Interpretação e limite |
 | --- | --- | --- |
-| Entrevista final | Nota geral **[NOTA]/5**. Não relatou dificuldades no percurso | Avaliação global do percurso; não é nota por tarefa |
+| Entrevista final | Nota geral **5/5**. Não relatou dificuldades no percurso | Avaliação global do percurso; não é nota por tarefa |
 | Entrevista final | Sugeriu pedir mais dados na inscrição, como o CPF | Sugestão da pessoa, não um problema observado. Ver AF-PR01 |
 
-<p class="caption">Tabela 5 — Opinião final e satisfação global.</p>
+<p class="caption">Tabela 6 — Opinião final e satisfação global.</p>
 <p class="source">Fonte: entrevista ao final da sessão e registro do moderador.</p>
 
 ## Indicadores e perguntas da avaliação
 
-A Tabela 6 responde às perguntas do plano sem confundir “não medido” com resultado zero. Todas as contagens têm denominador de **uma pessoa**.
+A Tabela 7 responde às perguntas do plano sem confundir “não medido” com resultado zero. Todas as contagens têm denominador de **uma pessoa**.
 
 | Pergunta / indicador | Resultado apoiado no registro | Limite |
 | --- | --- | --- |
@@ -122,16 +141,16 @@ A Tabela 6 responde às perguntas do plano sem confundir “não medido” com r
 | AF-Q3 / M2 — prevenção | **Não avaliada.** O erro preparado não foi aplicado | Sem tentativa de erro, não há taxa de prevenção |
 | AF-Q4 — estado da solicitação | **1 de 1** explica que a vaga foi confirmada | A distinção com “nenhuma inscrição criada” depende de AF-T5 |
 | AF-Q5 — próximo passo | **1 de 1** volta à lista, reconhece a inscrição e não repete o pedido | Uma ocorrência, sem passagem de tempo |
-| AF-Q6 / M6 — opinião | Nota geral **[NOTA]/5**; sugestão de pedir CPF | M6 por tarefa **não coletada** |
+| AF-Q6 / M6 — opinião | Nota geral **5/5**; sugestão de pedir CPF | M6 por tarefa **não coletada** |
 | M3 — recuperação | **Não avaliada**, pois depende de AF-T5 | — |
 | M1, M4 e M5 | **Não avaliadas**, conforme o plano | Duração do vídeo não é tempo ativo de tarefa |
 
-<p class="caption">Tabela 6 — Perguntas, indicadores e limites de cobertura.</p>
+<p class="caption">Tabela 7 — Perguntas, indicadores e limites de cobertura.</p>
 <p class="source">Fonte: plano da Etapa 6 e análise do registro da AF-1.0.</p>
 
 ## Problemas e decisões de reprojeto
 
-A Tabela 7 separa a sugestão da pessoa das lacunas de procedimento. A prioridade segue o critério do [relato do papel](../../../entrega-6/individual/luis/relato-prototipo-papel.md#problemas): **média** indica cobertura necessária antes de concluir sobre um objetivo; **baixa**, ajuste sem bloqueio demonstrado.
+A Tabela 8 separa a sugestão da pessoa das lacunas de procedimento. A prioridade segue o critério do [relato do papel](../../../entrega-6/individual/luis/relato-prototipo-papel.md#problemas): **média** indica cobertura necessária antes de concluir sobre um objetivo; **baixa**, ajuste sem bloqueio demonstrado.
 
 | ID / local | Evidência e consequência | Causa proposta / fator | Decisão e situação |
 | --- | --- | --- | --- |
@@ -140,14 +159,14 @@ A Tabela 7 separa a sugestão da pessoa das lacunas de procedimento. A prioridad
 | AF-L02 / confirmação; AF-T5 | A lista tem duas plenárias, sem a de saúde digital com a última vaga | Cenário não construído na AF-1.0 usada na sessão | **Média.** Incluir a plenária de saúde digital e a tela de vaga esgotada em nova versão (AF-1.1) e executar AF-T5. **Pendente** |
 | AF-L03 / entrevista | A satisfação foi coletada só ao final | Ajuste de condução | **Baixa.** Aplicar M6 após cada tarefa no reteste. **Pendente** |
 
-<p class="caption">Tabela 7 — Sugestão, lacunas e decisões.</p>
+<p class="caption">Tabela 8 — Sugestão, lacunas e decisões.</p>
 <p class="source">Fonte: interpretação do registro com base em Barbosa e Silva (2010, p. 342–343).</p>
 
 A sessão não aponta mudança no fluxo principal. Devem ser mantidos o selo de disponibilidade na lista, a revisão com aviso de vaga ainda não confirmada, o código de confirmação e o estado “Inscrição confirmada” na lista e nos detalhes. Qualquer alteração deve receber nova versão; a AF-1.0 fica preservada para conferência.
 
 ### Retomada dos problemas do papel
 
-A Tabela 8 mostra o que aconteceu com cada problema do papel. Estar presente no protótipo não equivale a estar resolvido.
+A Tabela 9 mostra o que aconteceu com cada problema do papel. Estar presente no protótipo não equivale a estar resolvido.
 
 | Problema do papel | Requisito | Situação na AF-1.0 | Tarefa | Recorrência |
 | --- | --- | --- | --- | --- |
@@ -157,7 +176,7 @@ A Tabela 8 mostra o que aconteceu com cada problema do papel. Estar presente no 
 | P04 — textos de estado | AF-R04 | Estados consistentes nas telas exibidas; estado de inscrição não criada não exibido | AF-T3 a AF-T5 | Não recorreu nas telas exibidas |
 | P05 — saídas da revisão | AF-R05 | Saída presente, mas não usada | AF-T2 | Não avaliada |
 
-<p class="caption">Tabela 8 — Acompanhamento dos problemas do papel.</p>
+<p class="caption">Tabela 9 — Acompanhamento dos problemas do papel.</p>
 <p class="source">Fonte: Tabela 6 do relato do papel e sessão AF-P01.</p>
 
 Na comparação com o papel, as diferenças de material, pessoa e tarefas também explicam a mudança de desempenho. O resultado não é atribuído apenas ao novo design.
@@ -189,6 +208,7 @@ Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela,
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Consolidação da sessão, resultados e decisões de reprojeto | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 15/11/2026 | Registro da nota geral 5/5 e seção de acesso ao protótipo | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
