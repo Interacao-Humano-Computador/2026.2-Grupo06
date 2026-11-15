@@ -9,6 +9,7 @@ A Tabela 1 registra as contribuições neste artefato.
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do DECIDE, tarefas, métricas, piloto e agenda da alta fidelidade | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à revisão do procedimento e dos instrumentos conforme a aplicação realizada | [Agradecimentos](#agradecimentos) |
 | Antigravity (Google DeepMind) | Apoio à consulta bibliográfica, rastreabilidade com o relato do papel e redação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no planejamento da avaliação de alta fidelidade.</p>
@@ -16,109 +17,102 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento planeja a avaliação do **protótipo de alta fidelidade (`AF-1.0`)** para a funcionalidade de **sugerir e acompanhar complementos de ideias legislativas**, incorporando as decisões de reprojeto `PP-A01` a `PP-A04` identificadas no [relato da avaliação do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). O planejamento integra a Etapa 6 (entrega em `03/11/2026`), enquanto a execução do teste de usabilidade e a consolidação dos resultados pertencem à **Etapa 7 (entrega em `15/11/2026`)**, conforme estruturado no [planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md).
+Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.3, de 13/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
+
+Os resultados são apresentados separadamente no relato da Etapa 7. Este documento define o método, as perguntas e os instrumentos correspondentes à rodada, sem transformar dados não coletados em medições.
 
 ## Item de conteúdo da disciplina
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-O **DECIDE** estrutura o planejamento (BARBOSA; SILVA, 2010, p. 312–313 [1]). Os objetivos e perguntas vêm da seção 9.2 e Tabela 9.1 (p. 290–293). O teste formativo adota Krug: rodada pequena para encontrar e corrigir problemas [4], facilitador, observadores e roteiro [5–7]. Local, equipe, tarefas legislativas, indicadores e agenda são escolhas do projeto. O piloto complementa o teste com base em Barbosa e Silva.
+O **DECIDE** estrutura o planejamento (BARBOSA; SILVA, 2010, p. 312–313 [1]). Os objetivos e perguntas vêm da seção 9.2 e Tabela 9.1 (p. 290–293). O teste formativo adota Krug: rodada pequena para encontrar e corrigir problemas [4], facilitador, observadores e roteiro [5–7]. Local, equipe, tarefas legislativas, indicadores e agenda são escolhas do projeto. Barbosa e Silva fundamentam a preparação e o piloto; nesta rodada não houve teste-piloto, condição registrada como limitação.
 
 ## D — Determinar os objetivos
 
-Dos quatro aspectos apresentados por Barbosa e Silva (2010, p. 290–293 [1]), selecionamos **dois**: avaliar ideias de design e identificar problemas de interação. Eles correspondem à necessidade desta etapa: verificar as decisões tomadas após o papel e encontrar dificuldades na versão navegável. Não é necessário cobrir as quatro categorias em uma única avaliação.
+Dos aspectos apresentados por Barbosa e Silva (2010, p. 290–293 [1]), foram selecionados dois:
 
-- **AF-O1 — Avaliar ideias e alternativas de design:** verificar as decisões `PP-A01`–`PP-A04` sobre autoria, comparação de textos, espera e contadores, confrontando achados com evidências históricas do papel. É uma comparação formativa documental, sem teste A/B ou inferência causal de superioridade.
-- **AF-O2 — Identificar problemas na interação e na interface:** localizar barreiras na busca, redação, revisão, decisão sobre ajustes e acompanhamento; identificar causas prováveis, impacto, recorrência e melhorias.
+- **Avaliar ideias e alternativas de design:** examinar autoria, comparação de textos, espera e contadores, relacionando a experiência atual aos problemas do papel. A comparação é histórica e formativa, sem teste A/B ou atribuição causal de superioridade.
+- **Identificar problemas de interação e interface:** localizar dificuldades na busca, redação, revisão, decisão sobre ajustes e acompanhamento, descrevendo impacto e possibilidades de melhoria.
 
-O público-alvo são cidadãos adultos interessados em participação legislativa digital, com referência na persona [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md). Os três participantes avaliarão o mesmo recorte e as mesmas quatro tarefas. Outros serviços, adoção longitudinal e comparação cronometrada com o portal oficial ficam fora do escopo (p. 304 [1]).
+O público-alvo do recorte são cidadãos adultos interessados em participação legislativa digital, com referência na persona [Letícia Oliveira](../../../entrega-2/individual/heitor/persona.md). A coleta compreende três pessoas no mesmo recorte; perfil e exposição anterior não foram informados. Outros serviços, adoção longitudinal e comparação cronometrada com o portal oficial ficam fora do escopo (p. 304 [1]).
 
 ## E — Explorar as perguntas
 
-A Tabela 2 relaciona as perguntas de avaliação (`AF-Q1` a `AF-Q7`) aos objetivos, às origens no [relato do papel](relato-prototipo-papel.md) e às evidências que serão coletadas.
+A Tabela 2 reúne as perguntas analíticas para a rodada. A apresentação antecipada do fluxo exige distinguir ações realizadas após orientação de descobertas espontâneas.
 
-| ID | Pergunta de avaliação | Objetivo e origem | Evidência e dados para responder |
+| Foco | Pergunta de avaliação | Objetivo e origem | Evidências para responder |
 | --- | --- | --- | --- |
-| **AF-Q1** | A pessoa localiza a ideia pertinente nos resultados, abre seus detalhes e escolhe complementar sem orientação antecipada no enunciado? | `AF-O2`; `PP-Q1`, `PP-C01` | Percurso em `AF-T1`, cliques, conclusão sem ajuda e justificativa |
-| **AF-Q2** | Consegue preencher, revisar na prévia e confirmar o envio do complemento, reconhecendo o estado de espera pelo autor e o aviso de notificação por e-mail? | `AF-O1`, `AF-O2`; `PP-A03` | Ações em `AF-T2`, revisão antes do envio e explicação espontânea da tela `AF-X01a` |
-| **AF-Q3** | Compara os dois textos completos na tela de retorno do autor e justifica sua decisão (concordar ou não concordar) preservando sua intenção? | `AF-O1`, `AF-O2`; `PP-A02` | Leitura dos quadros em `AF-T3`, escolha entre concordar (`AF-X01b`) ou discordar (`AF-X02`) e justificativa |
-| **AF-Q4** | Reconhece a autoria do seu próprio complemento publicado sem confundi-lo com complemento de terceiro e distingue os contadores de apoio (`12.343 / 20.000` vs. `40 apoios`)? | `AF-O1`, `AF-O2`; `PP-A01`, `PP-A04` | Ações e interpretação espontânea da tela `AF-S04` na primeira parte de `AF-T4` |
-| **AF-Q5** | Distingue publicação de encaminhamento à CDH, localiza o complemento no `Anexo Consultivo #1` e compreende que o envio para análise não equivale a lei aprovada? | `AF-O1`, `AF-O2`; `PP-A04`, `PP-Q6` | Interpretação espontânea da tela `AF-S05` na segunda parte de `AF-T4`, antes de qualquer explicação do moderador |
-| **AF-Q6** | Quais dificuldades de interação, hesitações e níveis de satisfação (`M6`) permanecem no protótipo de alta fidelidade? | `AF-O2`; todas as tarefas | Erros, pedidos de ajuda, falas espontâneas e nota `M6` (`1` a `5`) na entrevista final, por tarefa |
-| **AF-Q7** | As soluções de autoria, comparação de textos e estados evidenciam como participar? Quais problemas do papel reaparecem ou deixam de ser observados? | `AF-O1`; diferenciais e alternativas de design (Tabela 9.1); `PP-A01`–`PP-A04` | `AF-T2–AF-T4` e matriz histórica problema → alteração → evidência atual; ausência de ocorrência não prova eliminação |
+| Busca e participação | Como a pessoa localiza a ideia e acessa a opção de complementar após a apresentação do cenário? | Problemas de interação; acesso aos detalhes da ideia no papel. | Navegação, escolha de participação e dúvidas; registrar se houve pesquisa ou rolagem. |
+| Envio e espera | Como preenche, revisa e confirma o envio, e o que demonstra compreender sobre espera e notificação? | Design e interação; estados de espera do papel. | Formulário, prévia, correções, envio e falas sobre o que acontece depois. Ausência de fala não comprova compreensão. |
+| Comparação e decisão | Como utiliza os textos apresentados para concordar ou discordar, e como interpreta a continuidade? | Design e interação; comparação e discordância. | Escolhas, justificativas e eventual reenvio; separar exploração de botões de decisão fundamentada. |
+| Autoria e apoios | Reconhece a contribuição própria e distingue os apoios da ideia dos apoios de cada complemento? | Design e interação; autoria e contadores do papel. | Identificação da contribuição, uso dos controles e explicação das contagens. |
+| Encaminhamento e anexo | Localiza o anexo e distingue publicação, encaminhamento para análise e aprovação de lei? | Design e interação; acompanhamento do papel. | Acesso ao documento, interpretação do estado e intervenções do moderador. |
+| Dificuldades e opinião geral | Quais dificuldades e avaliações gerais são expressas sobre o uso do protótipo? | Problemas de interação; entrevista final. | Comentários e nota geral de um a cinco, com indicação da fonte e de eventual ambiguidade. |
+| Decisões de design | Que evidências sustentam as soluções propostas após o papel e que dificuldades permanecem? | Avaliação das ideias de design. | Relação problema anterior, mudança, evidência atual e limite da conclusão. |
 
 <p class="caption">Tabela 2 — Perguntas de avaliação da alta fidelidade.</p>
-<p class="source">Fonte: elaboração do projeto (2026), com base em Barbosa e Silva (2010, Tabela 9.1, p. 293 [1]).</p>
+<p class="source">Fonte: adaptação das perguntas de Barbosa e Silva (2010, Tabela 9.1, p. 293 [1]) ao recorte e à aplicação realizada.</p>
 
-**Origem das perguntas:** `AF-Q1–AF-Q6` adaptam a Tabela 9.1 sobre operar o sistema, atingir objetivos, erros, satisfação, significado dos elementos e próxima ação. `AF-Q7` adapta a pergunta sobre evidenciar os diferenciais da solução, aplicando-a às decisões de reprojeto. São perguntas analíticas para a equipe, não um questionário a ser lido durante a navegação.
+As perguntas orientam a análise da equipe. Não constituem um questionário integralmente aplicado durante a navegação nem autorizam inferir respostas que não foram registradas.
 
 ## C — Escolher os métodos
 
-Será aplicado um **teste de usabilidade moderado, preferencialmente presencial**, qualitativo e formativo, fundamentado em Krug [4–7]. A pessoa controla o navegador; contagens e tempos apoiam o diagnóstico, sem estimativa populacional.
+O procedimento é um **teste de usabilidade presencial, moderado, qualitativo e formativo**, com pensamento em voz alta, navegação no protótipo e entrevista final. Krug [4–7] fundamenta a rodada pequena e a observação da interação; os detalhes da aplicação são decisões do projeto.
 
 ### Fundamentação das decisões e papéis
 
-- **Participantes:** Krug (2000, cap. 9, p. 146 [4]) recomenda três, no máximo quatro, por rodada, para encontrar problemas relevantes, corrigi-los e voltar a testar. Não se somam testes de outros recortes.
-- **Facilitador/moderador:** o roteiro de Krug [5] fundamenta a condução da sessão. **Bruno** também lê os enunciados (“locutor”); não há exigência de duas pessoas para essas funções.
-- **Observadores:** Krug [6] orienta anotar dificuldades, selecionar três problemas sérios por sessão e discuti-los depois. **Luís Henrique** é o observador proposto; Caio e Israel poderão acompanhar. Ao menos um observador é uma decisão operacional local, não um mínimo prescrito por Krug.
-- **Registro:** [5] fundamenta verbalização, gravação autorizada e perguntas dos observadores ao final. No presencial, observadores acompanham preferencialmente a transmissão de tela em outro ambiente; se não houver essa estrutura, ficam discretamente afastados, em silêncio, sem cercar ou instruir a pessoa. Essa disposição na mesma sala é adaptação local. Encaminham dúvidas ao facilitador ao final. O observador principal registra tarefa, versão, horário e intervenção.
-- **Consolidação:** discutir problemas e decidir correções segue [6–7]. A escala alta/média/baixa e as fichas são instrumentos locais.
+- **Participantes:** três pessoas em sessões individuais. A rodada pequena permite identificar dificuldades, sem garantir saturação ou porcentagem de problemas encontrados [4, p. 146].
+- **Moderador:** Bruno Ferreira Dornelas apresentou o cenário, conduziu a sessão e a entrevista e esclareceu dúvidas.
+- **Observador:** Caio Breno de Souza Bezerra acompanhou a coleta. A observação segue a referência de Krug [6]; listas individuais de problemas e reunião posterior não foram fornecidas para a consolidação.
+- **Registro:** um vídeo da tela e um do ambiente para cada participante. As duas perspectivas representam a mesma sessão. A análise relaciona ações, comentários e intervenções, sem inferir emoções pela aparência.
+- **Consolidação:** análise documental dos três testes, com dificuldades, prioridades propostas e limites. Não atribuir essa análise a uma reunião da equipe sem registro de realização.
 
 ### Verificação das decisões de design
 
-Para `AF-O1`, confrontar o relato e as fotografias do papel com a nova coleta, sem solicitar preferência entre versões não apresentadas. A avaliação de ideias pode ser não comparativa (BARBOSA; SILVA, p. 291 [1]); aqui a experiência atual é o dado principal e o histórico informa quais problemas motivaram cada decisão. Não atribuir diferenças exclusivamente ao reprojeto.
+Confrontar as decisões do papel com os estados e comportamentos da alta fidelidade. A avaliação de ideias pode ser não comparativa (Barbosa e Silva, p. 291 [1]); a coleta atual é a evidência principal, e o histórico explica as mudanças. Não solicitar preferência entre versões não apresentadas nem atribuir diferenças exclusivamente ao reprojeto.
 
 ## I — Identificar e administrar questões práticas
 
 ### Ambiente e modalidade
 
-**Preferência presencial:** sala silenciosa na FCTE/UnB ou outro local reservado, a confirmar no agendamento. Participante e facilitador compartilham a mesa, com o participante operando o computador. Reservar tela legível, energia, navegador, captura local de tela/áudio e fichas. Não é necessário laboratório especializado. Registrar local e condições efetivamente utilizados.
-
-**Alternativa remota:** somente se houver impedimento para o encontro presencial, usar Google Meet com compartilhamento de tela e áudio, verificar captura disponível e manter observadores silenciosos. Registrar a modalidade por participante e as limitações de comparar sessões com contextos diferentes.
+A aplicação ocorreu presencialmente em **11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama**. O participante utilizou o notebook com o protótipo; Bruno moderou e Caio observou. Horários individuais, navegador e plataforma de execução exata não foram informados. Esses dados efetivos não substituem as propostas preservadas no cronograma.
 
 ### Perfil, recrutamento e quantidade de participantes
 
-- **Amostra principal:** **3 pessoas distintas (`AF-P01`, `AF-P02`, `AF-P03`)**, em sessões individuais. Krug [4, p. 146] fundamenta a rodada formativa pequena; não há garantia de saturação ou porcentagem de problemas encontrados.
-- **Piloto:** uma quarta pessoa (`PP-AF01`), distinta da amostra principal, conforme Barbosa e Silva (p. 307–308 [1]).
-- **Recrutamento:** convite voluntário por contatos acadêmicos/comunitários a adultos interessados em participação pública digital. Registrar familiaridade digital, experiência no tema e participação anterior. Evitar quem construiu o protótipo. Conveniência e aprendizado prévio são limitações. Esses critérios são a aplicação local do público-alvo.
-- **Abrangência:** todos executam `AF-T1–AF-T4`; não há divisão em subgrupos. Usar computador com navegador, teclado e mouse; celular não integra esta rodada, salvo mudança documentada após o piloto.
-- **Preparação:** congelar URL/commit, preparar dados fictícios, cartões, fichas, TCLE e gravador de tela/áudio disponível à equipe. Validar captura local de tela e áudio no piloto. Reiniciar estados entre sessões.
-- **Recursos:** R$ 0,00 de orçamento adicional, recursos próprios e participação voluntária. Pausar cronômetro em falhas técnicas e reagendar se impedirem observar a interação. Equipe e horários são propostas sujeitas à confirmação.
+- **Amostra:** Participante 1, Participante 2 e Participante 3, em sessões individuais, sem subgrupos.
+- **Perfil e recrutamento:** ocupação, faixa etária, familiaridade digital, contato anterior com o projeto e forma de recrutamento não informados. Não deduzir essas informações da gravação.
+- **Piloto:** não realizado, conforme confirmação do responsável. A ausência limita a verificação prévia do procedimento, da captura e das perguntas.
+- **Abrangência:** os três percorrem busca, envio, decisão e acompanhamento. O Participante 3 explora também discordância e reenvio.
+- **Preparação e recursos:** dados fictícios, protótipo navegável e gravações de tela e ambiente. Versão congelada, alterações entre sessões e custos efetivos não foram informados.
 
 ### Tarefas, dados de teste e critérios de conclusão
 
-Os enunciados da Tabela 3 serão entregues **um por vez**, sem antecipar no texto de `AF-T1` o nome do botão de sugerir complemento (corrigindo o viés de instrução identificado em `PP-EV02`).
+O fluxo foi apresentado em conjunto na abertura. A Tabela 3 organiza as quatro partes da atividade para análise, sem apresentar seus enunciados como falas literais ou tarefas entregues uma por vez. O cenário envolve contribuir para o atendimento noturno de bibliotecas comunitárias.
 
-| ID e enunciado entregue à pessoa | Estado inicial e dados fornecidos | Critério observável de conclusão |
+| Tarefa | Contexto e dados utilizados | Aspectos observáveis e limites |
 | --- | --- | --- |
-| **AF-T1** — *“Você quer contribuir para que pessoas ocupadas durante o dia possam usar bibliotecas comunitárias à noite. Procure o que já existe no portal e escolha como participar.”* | Tela inicial de busca (`AF-S01a`), sem autenticação ativa; tema: `"Bibliotecas comunitárias"` | Pesquisa o tema, clica para abrir a ideia `"Incentivo às bibliotecas comunitárias"` (`AF-S01b`), examina os detalhes e complementos e escolhe participar sugerindo um complemento |
-| **AF-T2** — *“Envie a sua contribuição sobre o atendimento noturno para essa ideia e verifique o que acontece após confirmar o envio.”* | Ideia selecionada (`AF-S01b` → login simulado `gov.br` → formulário `AF-S02`); título `"Atendimento noturno"` e justificativa fornecidos no cartão de apoio | Preenche/seleciona título e justificativa, confere a prévia, confirma o envio e explica espontaneamente na tela `AF-X01a` que aguarda análise do autor e receberá aviso por e-mail |
-| **AF-T3** — *“O autor da ideia respondeu sobre a sua contribuição. Compare os textos apresentados e decida como prosseguir.”* | Tela de retorno do autor (`AF-S03`) com os dois textos completos preenchidos lado a lado | Lê e compara o texto enviado e o ajuste sugerido pelo autor (`"...conforme a demanda da comunidade e as condições de cada biblioteca"`), escolhe concordar (`AF-X01b`) ou não concordar (`AF-X02`) e justifica sua decisão |
-| **AF-T4** — *“Consulte novamente a ideia legislativa para ver como ficou a sua contribuição agora e, depois da atualização de tempo, explique o que aconteceu com a proposta.”* | **Momento 1:** tela `AF-S04` (complemento publicado com `40 apoios` e ideia com `12.343 / 20.000`).<br>**Momento 2:** acionamento do estado `AF-S05` (meta de `20.000 apoios` atingida e envio à CDH) | **Momento 1:** reconhece o card como sendo de sua própria autoria (`Seu complemento publicado`) e distingue os `12.343` apoios da ideia dos `40` apoios do complemento.<br>**Momento 2:** localiza o `Anexo Consultivo #1` em `AF-S05` e explica que o envio à CDH inicia análise pelos senadores, sem significar lei aprovada |
+| Busca da ideia | Localizar a proposta de incentivo às bibliotecas comunitárias e acessar a participação. | Registrar navegação, abertura dos detalhes e escolha de complementar. A explicação prévia impede avaliar descoberta espontânea. |
+| Envio do complemento | Acessar a conta fictícia, preencher título e texto, revisar e confirmar o envio. | Observar correções, confirmação e entendimento da espera. O Participante 3 utilizou texto sem sentido para experimentar; avanço operacional não demonstra elaboração pertinente. |
+| Decisão sobre o ajuste | Receber resposta simulada, comparar os textos e escolher concordar ou discordar. | Registrar decisão e justificativa quando disponível. Discordância, revisão e reenvio constituem uma sequência adicional dentro da mesma sessão. |
+| Acompanhamento da contribuição | Consultar publicação e apoios, simular encaminhamento e acessar o anexo. | Registrar autoria, contadores, acesso ao anexo e significado atribuído ao estado. Alcançar uma tela não comprova a compreensão dos conceitos apresentados. |
 
-<p class="caption">Tabela 3 — Tarefas, estados iniciais e critérios de conclusão para a alta fidelidade.</p>
-<p class="source">Fonte: elaboração do projeto (2026), a partir de `PP-A01`–`PP-A04` do relato do papel.</p>
+<p class="caption">Tabela 3 — Tarefas e aspectos de análise da aplicação.</p>
+<p class="source">Fonte: organização da rodada de complementos de ideias legislativas (2026).</p>
 
 ### Roteiro da sessão e teste-piloto
 
-[Roteiro de aplicação presencial: falas, cartões e ficha do observador](roteiro-teste-presencial.md).
+O [roteiro presencial](roteiro-teste-presencial.md) é referência da preparação original. A sequência efetivamente aplicada reuniu:
 
-A sequência de Krug [5] inclui abertura, caracterização, primeira impressão, tarefas, perguntas finais e encerramento. Ler instruções consistentes, pedir pensamento em voz alta, explicar que o site é avaliado e permitir pausas. Começar em página neutra, apresentar um cenário por vez e não ensinar caminhos. Encerrar tentativas sem informação nova ou com frustração. Retomar dúvidas e perguntas dos observadores ao final.
+1. **Abertura:** apresentação do protótipo, do cenário e do fluxo; orientação para pensar em voz alta e explicação das simulações.
+2. **Interação:** navegação pelas quatro partes da atividade, com registro de dúvidas, correções, escolhas e intervenções.
+3. **Entrevista final:** perguntas sobre dificuldades, clareza e avaliação geral do uso. A nota geral não equivale a uma nota para cada tarefa.
+4. **Encerramento:** esclarecimento de dúvidas e agradecimento.
 
-**Aplicação ao recorte — até 50 minutos por pessoa**, com 10 minutos entre sessões (duração de referência em [6]; distribuição local):
+Os vídeos de tela têm 6min40s, 6min10s e 7min38s. Essas durações incluem instruções e entrevista e não comprovam o tempo ativo nem a duração integral de cada encontro. Não houve piloto nem confirmação dos intervalos entre sessões.
 
-1. **Abertura e consentimento (5 min):** confirmar autorização, papéis e limites de uso da gravação.
-2. **Caracterização (5 min):** registrar experiência digital, familiaridade com participação legislativa e exposição anterior ao protótipo.
-3. **Primeira impressão (3 min):** abrir `AF-S01a` e registrar o que entende que pode fazer.
-4. **Tarefas (25 min):** aplicar a Tabela 3; manter busca habilitada porque integra `AF-T1`, adaptando a restrição de busca do roteiro original [5]. Registrar ação espontânea antes de perguntar sobre compreensão.
-5. **Entrevista final (10 min):** retomar a compreensão das decisões de design (`AF-Q7`) e dificuldades (`AF-Q1–AF-Q6`); colher M6 por tarefa com justificativa. A escala é do projeto, não um instrumento padronizado de Krug.
-6. **Encerramento (2 min):** esclarecer dúvidas e agradecer.
+As respostas de terceiros e o avanço do tempo são simulados. Registrar a orientação técnica separadamente da compreensão da pessoa. No terceiro teste, a discordância foi seguida de revisão e reenvio; não foi confirmado o uso de um cenário independente de publicação. A explicação do moderador sobre o fim do complemento deve ser confrontada com a regra do protótipo.
 
-**Regras locais:** entregar apenas o enunciado, sem critérios de sucesso. Solicitar verbalização quando houver silêncio, sem indicar a solução. Registrar toda ajuda. Se uma tarefa impedir a seguinte, registrar o insucesso e preparar o próximo estado, anotando a intervenção. Discordar em `AF-T3` é válido; em `AF-T4`, apresentar explicitamente um cenário independente de publicação, sem supor que discordância produziu publicação. No segundo momento de `AF-T4`, informar apenas passagem de tempo, sem antecipar o significado da CDH.
-
-**Piloto (`PP-AF01`):** executar o protocolo completo com pessoa não envolvida na preparação. Verificar estados, cartões, captura, duração e suficiência dos registros para responder às perguntas; corrigir e fixar versão. Analisar brevemente os dados, mas mantê-los fora dos resultados principais (BARBOSA; SILVA, p. 307–308 [1]).
-
-**Entre sessões e após a rodada:** usar o intervalo para notas, seleção de três problemas sérios por observador e reinício. Após a terceira sessão, discutir e escolher correções com evidências, seguindo [6]. Reservar 30 minutos para essa reunião é estimativa local. Manter a mesma versão durante a rodada; se defeito bloqueador exigir alteração, separar resultados por versão.
+A consolidação considera as intervenções como parte do contexto. A ausência de registros de triagem ou reunião não será substituída por uma reunião presumida.
 
 ### Cronograma e agenda proposta até a Etapa 7
 
@@ -140,36 +134,38 @@ A Tabela 4 define a agenda prevista para construção, piloto, coleta e redaçã
 
 ## D — Decidir como lidar com questões éticas
 
-O teste seguirá o [protocolo ético do Grupo 06](../../../entrega-2/etica.md) e as diretrizes de Barbosa e Silva (2010, p. 138–142, 313 [1]):
-- **Consentimento livre e esclarecido (TCLE):** obtenção de aceite prévio específico para participação voluntária, gravação de áudio e captura da tela do protótipo, além de divulgação acadêmica por link não listado no YouTube.
-- **Anonimato e privacidade:** identificação exclusiva pelos códigos **`PP-AF01`** (piloto) e **`AF-P01`, `AF-P02`, `AF-P03`** (participantes principais), sem exibição de rosto, nome completo, CPF, e-mail real ou abas pessoais do navegador da pessoa (orientar abertura do protótipo em janela limpa/anônima antes de iniciar a gravação).
-- **Guarda e descarte:** o termo assinado e a chave de identificação permanecerão restritos aos avaliadores fora do repositório público, com exclusão dos arquivos brutos em até 30 dias após o encerramento do semestre letivo. A pessoa poderá pausar, recusar perguntas ou encerrar a sessão a qualquer momento sem prejuízo.
+O [protocolo ético do Grupo 06](../../../entrega-2/etica.md) e Barbosa e Silva (2010, p. 138–142, 313 [1]) orientam participação voluntária, limites de uso e proteção dos registros.
+
+- **Consentimento:** a confirmação das autorizações de participação, gravação e divulgação ainda não foi informada. Os links enviados não comprovam o alcance do consentimento.
+- **Identificação:** utilizar Participante 1, Participante 2 e Participante 3 nos documentos, sem nomes ou códigos. A câmera do ambiente mostra rostos; a identificação descritiva no texto não torna os vídeos anônimos. Conferir autorização específica de imagem antes de divulgação identificável.
+- **Guarda e descarte:** termos e dados pessoais ficam fora do repositório público, restritos aos avaliadores. Mantém-se a orientação de excluir arquivos brutos em até 30 dias após o encerramento do semestre. A execução dessa política não foi verificada nesta análise.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
-As execuções de `AF-T1` a `AF-T4` serão analisadas combinando medidas de desempenho e evidências qualitativas, vinculadas às [metas de usabilidade definidas na Etapa 3](../../../entrega-3/metas-usabilidade.md), conforme a Tabela 5.
+A Tabela 5 define o tratamento dos dados disponíveis. A análise é qualitativa e distingue execução observada, opinião e evidência insuficiente.
 
-| Meta / indicador | Definição operacional e medida nesta avaliação | Critério de interpretação e limite |
+| Aspecto | Tratamento nesta rodada | Limite |
 | --- | --- | --- |
-| **M0 — Eficácia (conclusão correta)** | Classificação de cada tarefa (`AF-T1` a `AF-T4`) em: `Concluída sem ajuda`, `Concluída com ajuda`, `Não concluída` ou `Não avaliada`, acompanhada do tempo ativo de execução (em segundos). | Reportar contagem absoluta (ex.: `3/4` tarefas concluídas sem ajuda por `AF-P01`), acrescentando contagem por tarefa (ex.: 2/3 participantes), sem extrapolar para o público. |
-| **M2 — Prevenção de erro e compreensão de autoria/estados** | Número de cliques equivocados (como tentar apoiar o próprio complemento por confusão de autoria em `AF-S04`, `PP-A01`, ou enviar sem revisar) e verificação da leitura correta dos contadores e do anexo em `AF-S05`. | Desejado: `0` ocorrências de confusão sobre autoria do próprio complemento em `AF-S04` e reconhecimento espontâneo do Anexo Consultivo em `AF-S05`. |
-| **M6 — Satisfação subjetiva por tarefa** | Nota de `1` (*muito insatisfeito*) a `5` (*muito satisfeito*) informada por cada participante na entrevista final, retomando cada tarefa, acompanhada de justificativa verbal. | Relatar a nota individual e a justificativa associada à tela correspondente; não calcular média populacional. |
-| **M1, M3, M4 e M5** | Aprendizado entre sessões repetidas (`M1`), recuperação de falha técnica induzida (`M3`), recordação após 7 dias (`M4`) e comparação cronometrada com o portal oficial (`M5`). | **Não avaliadas** neste protocolo, pois a funcionalidade de complementos é inédita no portal e a coleta ocorre em sessão única. |
+| Execução e cobertura | Relatar por participante quais ações e estados foram observados, indicando ajuda e simulações. | Chegada à publicação não equivale à compreensão integral. A descoberta sem orientação não foi avaliada. |
+| Erros e compreensão | Descrever episódios de correção, dúvidas sobre autoria, contadores, discordância e encaminhamento. | Não há contagem completa de cliques equivocados; não tratar exploração deliberada como erro nem silêncio como compreensão. |
+| Duração e localizadores | Informar duração dos vídeos e intervalos aproximados das tarefas. | Tempo ativo com desconto de pausas e intervenções não aferido; não calcular eficiência a partir da duração total. |
+| Avaliação numérica geral | Registrar a nota global de um a cinco, por participante, com fonte e justificativa disponível. | Não distribuir a nota geral entre tarefas. Participante 1: 4; Participante 2: 5; Participante 3: 4,5. As três notas foram confirmadas pelo responsável em 13/11/2026. |
+| Outros indicadores | Aprendizado repetido, recuperação de falha induzida, recordação após sete dias e comparação cronometrada não integram a rodada. | Não apresentar resultados para esses aspectos. |
 
-<p class="caption">Tabela 5 — Medidas e metas de usabilidade aplicáveis ao teste de alta fidelidade.</p>
-<p class="source">Fonte: adaptação das metas da Etapa 3 ao recorte de complementos (2026).</p>
+<p class="caption">Tabela 5 — Dados e critérios de interpretação da rodada.</p>
+<p class="source">Fonte: adaptação dos instrumentos do projeto às evidências disponíveis (2026).</p>
 
-**Regras de interpretação e priorização:**
-- Após cada sessão, cada observador seleciona três problemas prioritários; ao fim da rodada, reunir e discutir as listas conforme Krug [6]. Vincular a decisão de correção à tarefa, participante e evidência.
-- Responder `AF-Q1–AF-Q7`, distinguindo teste, entrevista e comparação histórica. Para cada tarefa, informar participantes efetivamente expostos; não usar três como denominador quando alguém não a executou.
-- Relacionar `PP-A01–PP-A04` em matriz problema anterior → mudança → evidência nova → conclusão limitada.
-- Separar rigorosamente o comportamento espontâneo da pessoa daquelas respostas obtidas após qualquer intervenção ou esclarecimento do moderador.
-- Classificar os problemas observados em prioridade **alta** (impede conclusão da tarefa, compromete a preservação da intenção da proponente ou gera interpretação incorreta de autoria, apoios ou aprovação legislativa), **média** (provoca hesitação, retrabalho ou dúvida sanada na própria tela) ou **baixa** (ajuste cosmético ou de rotulagem complementar).
-- Toda alteração realizada após a sessão sem novo teste com usuário permanecerá registrada como **“corrigida, não reavaliada”**. A estrutura detalhada das tabelas e fichas do relatório final encontra-se no [planejamento do relato de alta fidelidade](planejamento-relato-alta-fidelidade.md).
+Relacionar cada conclusão às gravações ou à confirmação do responsável. As legendas automáticas são apoio à localização e à paráfrase, sem equivalência a transcrição literal revisada. Os critérios completos da versão anterior permanecem identificados no relato quando usados para explicar limites da coleta.
+
+Propor prioridade **alta** para bloqueio ou interpretação incorreta de intenção, autoria, apoios ou aprovação legislativa; **média** para hesitação, retrabalho ou dúvida de continuidade; **baixa** para ajuste visual complementar. Informar o denominador de pessoas expostas a cada situação. Recomendações não implementadas e correções sem reteste devem permanecer explicitamente identificadas.
+
+O [planejamento do relato](planejamento-relato-alta-fidelidade.md) organiza a apresentação dos dados. A análise documental não substitui listas de observação ou reunião de equipe não fornecidas.
 
 ## Agradecimentos
 
 O assistente Antigravity (Google DeepMind) apoiou a organização estrutural do DECIDE, o vínculo rastreável com os achados do protótipo de papel (`PP-A01` a `PP-A04`) e a revisão textual. A definição metodológica e a responsabilidade acadêmica pelo artefato são de Bruno Ferreira Dornelas, com revisão de Luís Henrique Arruda Luna.
+
+O Codex (OpenAI) apoiou a revisão direta do procedimento e dos instrumentos em 13/11/2026, preservando o cronograma originalmente planejado. A responsabilidade acadêmica permanece com Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -177,6 +173,8 @@ O assistente Antigravity (Google DeepMind) apoiou a organização estrutural do 
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 03/11/2026 | Elaboração do planejamento da avaliação do protótipo de alta fidelidade a partir dos achados `PP-A01`–`PP-A04` do relato em papel | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.1` | 09/11/2026 | Três participantes com Krug; protocolo preferencialmente presencial; dois objetivos selecionados de Barbosa e Silva; sete perguntas e agenda revisadas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 13/11/2026 | Revisão direta conforme a aplicação: três sessões presenciais, Bruno e Caio, ausência de piloto, fluxo apresentado em conjunto e avaliação geral; cronograma original preservado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 13/11/2026 | Confirmação da nota geral 4,5 do Participante 3 e alinhamento da consolidação, preservando o cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

@@ -9,6 +9,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação da página e da sequência de apresentação de Caio | [Conteúdo](#introducao) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização do recorte e da sequência de apresentação de Bruno | [Resultados de Bruno](#bruno-ferreira-dornelas) |
 | Codex (OpenAI) | Apoio à consulta do plano e do livro, análise audiovisual e organização documental | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
@@ -42,17 +43,49 @@ A Tabela 2 organiza a exposição do artefato.
 <p class="caption">Tabela 2 — Sequência de apresentação do recorte de Caio.</p>
 <p class="source">Fonte: relato da avaliação da AF-1.1 (2026).</p>
 
+## Bruno Ferreira Dornelas
+
+**Autor do item:** Bruno Ferreira Dornelas.
+
+**Recorte:** sugestão e acompanhamento de complementos de ideias legislativas.
+
+[Relato consolidado de Bruno](../entrega-7/individual/bruno/relato-alta-fidelidade.md){ .md-button .md-button--primary }
+[Vídeos e evidências](../entrega-7/individual/bruno/evidencias.md){ .md-button }
+
+**Vídeo individual de apresentação: não informado.** Os seis vídeos de teste documentam a coleta; não substituem a apresentação do artefato.
+
+### Sequência para a apresentação de Bruno
+
+A Tabela 3 organiza a exposição dos resultados e das diferenças em relação à Etapa 6.
+
+| Parte | O que mostrar / explicar |
+| --- | --- |
+| Objetivo | Retomar complementos, revisão do autor, publicação e anexo consultivo; relacionar às decisões do papel. |
+| Método executado | Três sessões presenciais em 11/11, por volta das 9h, contêiner da EJS, UnB Gama; Bruno moderou, Caio observou; não houve piloto. |
+| Evidências favoráveis | Três chegaram à publicação; Participante 2 corrigiu o texto e justificou o ajuste; Participante 3 explorou discordância e abriu o anexo. |
+| Dificuldades e propostas | Acesso pouco evidente, dúvida sobre apoios e encaminhamento, consequência da discordância e confirmação pouco visível. Mostrar os trechos vinculados à matriz. |
+| Planejado e realizado | Fluxo antecipado, avaliações gerais de 4/5, 5/5 e 4,5/5 para os Participantes 1, 2 e 3, ausência de piloto e medições incompletas. Explicar por que avanço entre telas não prova compreensão integral. |
+| Conclusão e continuidade | Priorizar clareza do encaminhamento e os demais ajustes; melhorias ainda não implementadas ou retestadas. Informações ausentes e limites audiovisuais estão explícitos. |
+
+<p class="caption">Tabela 3 — Sequência de apresentação do recorte de Bruno.</p>
+<p class="source">Fonte: relato consolidado da avaliação de Bruno (2026).</p>
+
 Os demais integrantes acrescentarão os respectivos registros quando disponíveis.
 
 ## Agradecimentos
 
 Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a organização deste material. A transcrição automática local com Faster-Whisper serviu de apoio à localização das falas; os resultados são apresentados como paráfrases associadas ao vídeo. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
+O Codex (OpenAI) apoiou a síntese da apresentação de Bruno, cuja responsabilidade acadêmica permanece com Bruno Ferreira Dornelas. Revisor desse recorte: Luís Henrique Arruda Luna.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Preparação da página e da sequência de apresentação de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 13/11/2026 | Inclusão da sequência de apresentação de Bruno a partir da consolidação dos três testes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 13/11/2026 | Inclusão das notas gerais confirmadas dos Participantes 1 e 2 no recorte de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 13/11/2026 | Atualização da sequência de Bruno com as três notas gerais confirmadas e revisão de consistência | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

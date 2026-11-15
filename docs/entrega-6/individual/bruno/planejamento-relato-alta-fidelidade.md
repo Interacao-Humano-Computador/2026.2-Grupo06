@@ -9,6 +9,7 @@ A Tabela 1 registra as contribuições neste artefato.
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição da estrutura do relato, fichas de coleta, matriz de problemas e regras de consolidação | [Introdução](#introducao) |
+| Codex (OpenAI) | Apoio à revisão do procedimento e dos instrumentos conforme a aplicação realizada | [Agradecimentos](#agradecimentos) |
 | Antigravity (Google DeepMind) | Apoio à estruturação das tabelas, alinhamento com o DECIDE e redação | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no planejamento do relato de alta fidelidade.</p>
@@ -16,7 +17,9 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento define a estrutura, os instrumentos de registro e os critérios de interpretação que orientarão a elaboração do **relato da avaliação do protótipo de alta fidelidade (`AF-1.0`)** para o recorte de **complementos de ideias legislativas**, conforme o [planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md) e os encaminhamentos `PP-A01` a `PP-A04` do [relato do protótipo de papel](relato-prototipo-papel.md). Este planejamento integra a **Etapa 6** (`03/11/2026`); o relato preenchido com os dados da coleta será entregue na **Etapa 7** (`15/11/2026`).
+Este documento define a organização do relato da avaliação de alta fidelidade de **complementos de ideias legislativas**, articulado ao [planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e às decisões do [protótipo de papel](relato-prototipo-papel.md). A versão 1.3, de 13/11/2026, ajusta diretamente os instrumentos à rodada realizada em 11/11: três sessões presenciais, sem piloto, com apresentação conjunta do fluxo e avaliação geral do uso.
+
+O [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md) concentra os resultados. O cronograma originalmente proposto é preservado; o relato registra o horário efetivo e as diferenças em relação à versão anterior dos planejamentos.
 
 ## Item de conteúdo da disciplina
 
@@ -32,121 +35,124 @@ De acordo com Barbosa e Silva (2010, Seção 10.2.1, p. 343 [1]), o relato dos r
 
 ## Estrutura prevista para o relato da Etapa 7
 
-A Tabela 2 define as seções obrigatórias do futuro relato e a fonte de evidência correspondente.
+A Tabela 2 organiza o conteúdo do relato com base nos dados efetivamente disponíveis.
 
-| Seção do relato | Conteúdo previsto | Fonte de evidência |
+| Seção do relato | Conteúdo | Fonte de evidência |
 | --- | --- | --- |
-| **1. Objetivos e escopo** | Objetivos `AF-O1` a `AF-O2`, perguntas `AF-Q1` a `AF-Q7`, link para o protótipo `AF-1.0` avaliado e limites do escopo | [Planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) e versão congelada do protótipo |
-| **2. Método, participantes e piloto** | Condições efetivas de cada sessão, preferencialmente presencial, papéis dos avaliadores, perfil desidentificado de `AF-P01`, `AF-P02` e `AF-P03`, exposição anterior e registro separado do teste-piloto (`PP-AF01`) | Tabela 3 (Ficha da sessão) e vídeo do piloto |
-| **3. Tarefas executadas, medições e evidências** | Desempenho por tarefa (`AF-T1` a `AF-T4`), classificação de conclusão (`M0`), prevenção de erros (`M2`), tempo ativo, satisfação (`M6`) e tabela de evidências (`AF-EV01`…) com links para os minutos do vídeo | Tabela 4 (Ficha por tarefa), Tabela 5 (Evidências) e gravação no YouTube |
-| **4. Análise do DECIDE e verificação das decisões do papel** | Respostas analíticas a `AF-Q1`–`AF-Q7` e verificação do efeito das correções `PP-A01` a `PP-A04` vindas do protótipo de papel | Tabela 6 (Matriz DECIDE) e comparação entre papel e alta fidelidade |
-| **5. Problemas de usabilidade e reprojeto** | Problemas encontrados na alta fidelidade (`AF-A01`…), com local, fator prejudicado, descrição, justificativa, gravidade/prioridade, frequência e sugestão de correção | Tabela 7 (Matriz de problemas) |
-| **6. Conclusões e limites** | Síntese do atendimento às metas, limitações da amostra formativa de três pessoas, diferenças de mediação e encaminhamentos finais | Consolidação conjunta dos avaliadores |
+| Objetivos e escopo | Avaliar decisões de design e identificar dificuldades no fluxo de complementos. | Planejamento da avaliação e histórico do papel. |
+| Método, participantes e piloto | Três sessões presenciais, equipe e condições confirmadas; ausência de piloto; dados de perfil não informados. | Confirmação do responsável, fichas e vídeos. |
+| Tarefas, dados e evidências | Ações por tarefa, intervenções, cobertura, intervalos aproximados e avaliação geral por participante. | Seis vídeos, legendas e localizadores. |
+| Perguntas e decisões de design | Sete perguntas analíticas e comparação histórica com as soluções do papel. | Evidências individuais e matriz de rastreabilidade. |
+| Problemas e reprojeto | Local, descrição, fatores prejudicados, evidência, prioridade proposta e sugestão de melhoria. | Matriz de problemas fundamentada nos registros. |
+| Conclusões e limites | Resultados qualitativos, lacunas de medição e propostas de reteste. | Consolidação documental, sem presumir reunião de equipe. |
 
-<p class="caption">Tabela 2 — Estrutura planejada para o relato da avaliação de alta fidelidade.</p>
-<p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 312, 343 [1]).</p>
+<p class="caption">Tabela 2 — Organização do relato da alta fidelidade.</p>
+<p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 343 [1]) à coleta realizada.</p>
 
 ## Instrumentos de registro da coleta
 
 ### Ficha de identificação da sessão e do participante
 
-A Tabela 3 será preenchida para o teste-piloto (`PP-AF01`, mantido separado dos resultados principais) e separadamente para cada sessão principal (`AF-P01`, `AF-P02`, `AF-P03`). Dados pessoais e o termo de consentimento permanecem fora do repositório público.
+A Tabela 3 define os campos das três fichas. Os documentos utilizam Participante 1, Participante 2 e Participante 3. Dados pessoais e termos de autorização permanecem fora do repositório público.
 
-| Campo de controle | Registro de uma sessão (duplicar para cada participante) |
+| Campo | Registro e tratamento |
 | --- | --- |
-| Código do participante e perfil resumido | Código da sessão — (ocupação, faixa etária aproximada e familiaridade digital, sem dados pessoais) |
-| Participação em etapas anteriores do projeto | Informar se é novo participante ou se participou do papel (`PP-P01`) / entrevistas (`P01`) |
-| Data, horário de início/fim e duração do vídeo | |
-| Modalidade, dispositivo e navegador utilizados | Presencial (local a registrar) ou remoto excepcional (plataforma a registrar) — Dispositivo/navegador: |
-| Versão / commit do protótipo avaliado | `AF-1.0` |
-| Moderador e observadores presentes | Moderador: Bruno Ferreira Dornelas · Observadores: |
-| Registro do teste-piloto (`PP-AF01`) | Data, duração, link do vídeo e ajustes aplicados antes de `AF-P01` |
-| Autorizações confirmadas no TCLE | Participação, captura de tela/áudio e publicação por link não listado |
+| Participante e perfil | Nome descritivo da sessão; perfil, familiaridade e contato anterior somente se informados. |
+| Data, horário e local | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama. Horários individuais não informados. |
+| Modalidade e equipamento | Presencial, com notebook; navegador e plataforma de execução exata não confirmados. |
+| Versão avaliada | Registrar telas observadas; commit e data de congelamento não informados. |
+| Equipe | Bruno Ferreira Dornelas na moderação e Caio Breno de Souza Bezerra na observação. |
+| Piloto | Não realizado, conforme confirmação do responsável. |
+| Gravações | Tela e ambiente por pessoa; durações informadas separadamente, sem somar os ângulos. |
+| Autorizações | Situação não informada; não inferir consentimento da existência dos vídeos. |
+| Avaliação numérica geral | Nota global e origem: Participante 1, 4; Participante 2, 5; Participante 3, 4,5. As três notas foram confirmadas pelo responsável em 13/11/2026. |
 
-<p class="caption">Tabela 3 — Ficha de identificação da sessão de alta fidelidade.</p>
-<p class="source">Fonte: elaboração do projeto (2026).</p>
+<p class="caption">Tabela 3 — Campos da ficha de identificação da sessão.</p>
+<p class="source">Fonte: organização da coleta e informações confirmadas pelo responsável (2026).</p>
 
 ### Ficha de desempenho, métricas e opinião por tarefa
 
-Duplicar a ficha para cada participante, identificando o código no título. Registrar M6 na entrevista final, retomando cada tarefa, conforme o roteiro revisado.
+A Tabela 4 orienta a descrição por tarefa. A opinião numérica é geral e fica na ficha da pessoa; comentários específicos podem ser associados às tarefas sem replicar a nota global em cada uma.
 
-A Tabela 4 registrará as medições de `AF-T1` a `AF-T4` logo após a sessão, utilizando a gravação para aferir os tempos e minutos exatos.
+| Tarefa | Execução a registrar | Intervenções e compreensão | Duração / evidência |
+| --- | --- | --- | --- |
+| Busca da ideia | Localização, abertura dos detalhes e acesso ao complemento. | Fluxo apresentado antecipadamente; distinguir pesquisa de rolagem. | Intervalo aproximado e localizador; não aferir descoberta espontânea. |
+| Envio do complemento | Preenchimento, revisão, correção e envio. | Reconhecimento de espera e notificação apenas quando demonstrado; identificar conteúdo de teste sem sentido. | Intervalo e estados observados; tempo ativo não aferido. |
+| Decisão sobre o ajuste | Concordância, discordância, justificativa, revisão e reenvio. | Separar exploração dos controles de decisão fundamentada sobre o texto. | Localizadores dos ramos percorridos e das dúvidas. |
+| Acompanhamento | Publicação, apoios, encaminhamento e acesso ao anexo. | Registrar interpretação e explicações externas; acesso à tela não demonstra compreensão. | Localizadores de cada momento; marcar o que não foi confirmado. |
 
-| Tarefa e estado inicial | Classificação de conclusão (`M0`) | Ajuda ou desvio de condução | Erros ou hesitações (`M2`) | Tempo ativo (s) / pausas | Satisfação `M6` (`1–5`) e justificativa | Localizador (`AF-EV`) |
-| --- | --- | --- | --- | --- | --- | --- |
-| **AF-T1** — Buscar ideia, abrir detalhes e escolher complementar (`AF-S01a` → `AF-S01b`) | | | | | | |
-| **AF-T2** — Preencher, revisar, enviar e interpretar espera pelo autor (`AF-S02` → `AF-X01a`) | | | | | | |
-| **AF-T3** — Comparar textos completos e decidir sobre o ajuste (`AF-S03` → `AF-X01b` ou `AF-X02`) | | | | | | |
-| **AF-T4** — Conferir complemento publicado (`AF-S04`) e encaminhamento à CDH (`AF-S05`) | | | | | | |
+<p class="caption">Tabela 4 — Organização dos registros por tarefa.</p>
+<p class="source">Fonte: adaptação dos instrumentos de avaliação do projeto (2026).</p>
 
-<p class="caption">Tabela 4 — Ficha de registro de desempenho e satisfação por tarefa.</p>
-<p class="source">Fonte: elaboração do projeto (2026), com base em Barbosa e Silva (2010, p. 342–343 [1]).</p>
+### Tabela de evidências localizáveis
 
-### Tabela de evidências localizáveis (`AF-EV01`…)
+A Tabela 5 define como localizar as evidências, sem códigos de identificação. Uma mesma ocorrência nos dois ângulos conta uma única vez.
 
-Cada evidência terá prefixo de participante (ex.: `AF-P02-EV01`) para não misturar sessões. Para `AF-Q7`, vincular os registros atuais ao histórico do papel, sem atribuir minutos de vídeo a evidências documentais.
+| Campo | Forma de registro |
+| --- | --- |
+| Participante e foco | Participante 1, 2 ou 3, com tarefa e nome descritivo do evento. |
+| Fonte e intervalo | Link de tela ou ambiente com tempo aproximado; não presumir sincronização exata. |
+| Ação e resposta | Descrever apenas o observado, indicando se foi captura pontual ou sequência conferida. |
+| Fala | Usar paráfrase identificada para legendas automáticas; aspas somente após revisão do áudio. |
+| Intervenção | Distinguir instrução inicial, orientação de simulação e explicação do significado da interface. |
+| Confirmação posterior | Registrar informação do responsável como fonte complementar, com data, sem atribuir minuto de vídeo inexistente. |
 
-A Tabela 5 documentará cada ação, fala ou dificuldade observada com link direto para o minuto correspondente da gravação no YouTube.
-
-| ID da evidência | Tarefa e tela | Questão (`AF-Q1`–`AF-Q7`) | Minuto no vídeo | Ação observada e resposta da interface | Fala verificável (entre aspas) ou paráfrase | Houve ajuda ou explicação prévia do moderador? |
-| --- | --- | --- | --- | --- | --- | --- |
-| **AF-EV01** | `AF-T1` / `AF-S01a`–`AF-S01b` | `AF-Q1` | | | | |
-| **AF-EV02** | `AF-T2` / `AF-S02`–`AF-X01a` | `AF-Q2` | | | | |
-| **AF-EV03** | `AF-T3` / `AF-S03` | `AF-Q3` | | | | |
-| **AF-EV04** | `AF-T4` / `AF-S04` | `AF-Q4` | | | | |
-| **AF-EV05** | `AF-T4` / `AF-S05` | `AF-Q5` | | | | |
-| **AF-EV06** | Pós-teste / Geral | `AF-Q6` | | | | |
-
-<p class="caption">Tabela 5 — Modelo de registro de evidências localizáveis.</p>
-<p class="source">Fonte: elaboração do projeto (2026).</p>
+<p class="caption">Tabela 5 — Campos das evidências localizáveis.</p>
+<p class="source">Fonte: instrumentos do projeto (2026).</p>
 
 ## Matriz de análise do DECIDE e rastreabilidade com o protótipo de papel
 
-A Tabela 6 será preenchida após a análise conjunta entre Bruno e os observadores para responder a `AF-Q1`–`AF-Q7` e verificar se as correções `PP-A01` a `PP-A04` surtiram efeito.
+A Tabela 6 orienta a resposta às sete perguntas. A análise considera as condições reais da aplicação e explicita o que permanece inconclusivo.
 
-| Questão e vínculo com o papel | Resposta analítica apoiada nos dados | Evidências (`AF-EV`) e métricas (`M0`, `M2`, `M6`) | Limites da observação e encaminhamento |
-| --- | --- | --- | --- |
-| **AF-Q1** (`PP-C01`) — Localizar ideia, abrir detalhes e decidir complementar | | | |
-| **AF-Q2** (`PP-A03`) — Redigir, revisar, enviar e reconhecer espera + aviso por e-mail | | | |
-| **AF-Q3** (`PP-A02`) — Comparar os dois textos completos e decidir preservando a intenção | | | |
-| **AF-Q4** (`PP-A01`, `PP-A04`) — Reconhecer autoria do próprio complemento e distinguir apoios (`12.343` vs. `40`) | | | |
-| **AF-Q5** (`PP-A04`, `PP-Q6`) — Distinguir publicação de encaminhamento à CDH e localizar `Anexo Consultivo #1` | | | |
-| **AF-Q6** — Dificuldades remanescentes e satisfação por tarefa (`M6`) | | | |
-| **AF-Q7** (`AF-O1`) — Decisões de design e comparação histórica com o papel | | | |
+| Questão / foco | Conteúdo a relacionar | Limite a registrar |
+| --- | --- | --- |
+| Busca e participação | Caminho até a ideia e opção de complementar. | Orientação antecipada e pesquisa digitada não confirmada. |
+| Envio e espera | Revisão, correções, confirmação e entendimento do estado. | Não presumir compreensão do aviso por e-mail. |
+| Comparação e decisão | Textos, decisão, justificativa e continuidade após discordar. | Texto sem sentido e exploração livre limitam avaliação da intenção. |
+| Autoria e apoios | Identificação do complemento e interpretação dos contadores. | Distinguir uso de botão de compreensão dos conceitos. |
+| Encaminhamento e anexo | Acesso ao documento e interpretação de publicação, análise e aprovação. | Explicações do moderador não são respostas espontâneas do participante. |
+| Dificuldades e opinião geral | Comentários e notas gerais confirmadas, por pessoa. | Ausência de nota por tarefa; valor ambíguo não deve ser arbitrado. |
+| Decisões de design | Problema do papel, mudança, evidência atual e conclusão limitada. | Comparação histórica sem ganho causal demonstrado. |
 
-<p class="caption">Tabela 6 — Matriz de consolidação das perguntas de avaliação da alta fidelidade.</p>
-<p class="source">Fonte: elaboração do projeto (2026).</p>
+<p class="caption">Tabela 6 — Organização das perguntas analíticas.</p>
+<p class="source">Fonte: planejamento da avaliação e instrumentos do projeto (2026).</p>
 
 ### Registro das decisões de design
 
-Para `AF-O1`, registrar cada `PP-A01–PP-A04`: problema no papel, decisão de reprojeto, tela atual, evidências dos três participantes e conclusão limitada. Comparação histórica não demonstra ganho causal de eficiência. Para `AF-O2`, consolidar os problemas de interação observados na matriz seguinte.
+Para cada decisão sobre autoria, comparação, espera e contadores, relacionar o problema no papel, a solução proposta e os registros atuais. Não considerar ausência de relato como eliminação do problema, nem atribuir melhora exclusivamente ao reprojeto.
 
 ## Matriz de problemas de usabilidade e controle de correções
 
-Cada problema identificado no teste de alta fidelidade (`AF-A01`, `AF-A02`…) será documentado na Tabela 7 conforme os cinco itens exigidos por Barbosa e Silva (2010, p. 343 [1]).
+A Tabela 7 organiza a apresentação dos problemas conforme Barbosa e Silva (2010, p. 343 [1]).
 
-| ID e local (tarefa / tela) | Fator de usabilidade prejudicado | Descrição, justificativa e evidência (`AF-EV`) | Prioridade e frequência (`ocorrências / oportunidades`) | Sugestão de melhoria, responsável e estado de reteste |
-| --- | --- | --- | --- | --- |
-| **AF-A01** | | | | |
+| Campo | Conteúdo |
+| --- | --- |
+| Nome e local | Dificuldade descrita em linguagem comum, com tarefa e tela. |
+| Descrição e justificativa | Comportamento ou comentário, consequência e evidência localizável. |
+| Fator e causa provável | Aspecto de usabilidade afetado, mantendo hipótese separada do fato observado. |
+| Prioridade e frequência | Alta, média ou baixa, com justificativa; pessoas com manifestação entre as expostas ao evento. |
+| Melhoria e acompanhamento | Proposta, responsável sugerido e situação de implementação e reteste. |
 
-<p class="caption">Tabela 7 — Matriz de problemas de usabilidade da alta fidelidade.</p>
+<p class="caption">Tabela 7 — Campos da matriz de problemas.</p>
 <p class="source">Fonte: adaptação de Barbosa e Silva (2010, p. 343 [1]).</p>
 
 ### Discussão dos achados segundo Krug
 
-Cada observador registra os três problemas mais sérios após cada sessão. Ao final da rodada, a equipe reúne as listas e decide ações, conforme as [instruções de Krug](https://sensible.com/downloads/instructions-for-observers.pdf) [4]. Registrar participantes da reunião, evidências, prioridade, responsável e estado de reteste. Apresentar contagens por tarefa com denominador de pessoas efetivamente expostas, sem extrapolação populacional.
+Krug [4] orienta selecionar problemas e discutir correções. Nesta rodada, Caio observou a coleta, mas suas listas individuais e uma reunião posterior não foram documentadas no material fornecido. O relato apresenta síntese documental e prioridades propostas, sem atribuí-las a uma reunião presumida. Se houver registro posterior de discussão, identificar pessoas, data, decisões e responsáveis.
 
 ## Regras de interpretação, consolidação e responsabilidades
 
-1. **Separação entre ação espontânea e ajuda:** caso o moderador forneça qualquer dica ou explicação antes da resposta da pessoa, a evidência será marcada na Tabela 5 e a tarefa será classificada no máximo como `Concluída com ajuda`, sem contabilizar compreensão espontânea.
-2. **Critério para conclusão de `AF-T4`:** a tarefa `AF-T4` só será classificada como `Concluída sem ajuda` se a pessoa daquela sessão demonstrar compreensão tanto no Momento 1 (`AF-S04`: autoria própria e contadores separados) quanto no Momento 2 (`AF-S05`: localização do `Anexo Consultivo #1` e distinção entre envio para análise na CDH e aprovação de lei).
-3. **Priorização e controle de versão:** problemas serão priorizados em **alta**, **média** ou **baixa** gravidade conforme seu impacto sobre a intenção da proponente e a compreensão do resultado. Correções implementadas no código após a sessão sem novo teste com usuário serão registradas como **“corrigida, não reavaliada”**.
-4. **Limites metodológicos:** o relato explicitará os limites de três sessões exploratórias individuais (`AF-P01`, `AF-P02`, `AF-P03`), eventual exposição prévia da pessoa participante, condições presenciais ou eventual mediação remota e simulação temporal da transição entre `AF-S04` e `AF-S05`.
+1. **Execução e compreensão:** registrar ações, estados e explicações separadamente. A apresentação inicial do fluxo limita descoberta espontânea; não tratar falta de evidência como fracasso da pessoa.
+2. **Cobertura das tarefas:** informar os trechos efetivamente observados. Quando o relato comparar a aplicação aos critérios completos da versão anterior, identificar essa referência histórica e registrar indícios documentais e critérios não avaliados integralmente, conforme a cobertura da evidência.
+3. **Opinião e medições:** registrar notas gerais por participante com sua fonte. Não convertê-las em satisfação por tarefa. Tempos ativos e erros totais não foram aferidos; durações dos vídeos são apenas metadados.
+4. **Priorização e controle:** distinguir proposta, implementação e reteste. O relato inclui ausência de piloto, orientação prévia, simulações e informações não confirmadas como limites.
 5. **Cronograma e revisão até a Etapa 7:** seguindo a [agenda do planejamento](planejamento-avaliacao-alta-fidelidade.md#cronograma-e-agenda-proposta-ate-a-etapa-7), após a sessão prevista para `11/11/2026`, Bruno e os observadores consolidarão os registros em `12–13/11`, e Luís Henrique realizará a revisão em `14/11/2026`, antes da entrega da Etapa 7 (`15/11/2026`).
 
 ## Agradecimentos
 
 O assistente Antigravity (Google DeepMind) apoiou a formatação das fichas de registro e o alinhamento com os critérios de Barbosa e Silva (2010). A responsabilidade acadêmica pelo planejamento é de Bruno Ferreira Dornelas, com revisão de Luís Henrique Arruda Luna.
+
+O Codex (OpenAI) apoiou a revisão direta do procedimento e dos instrumentos em 13/11/2026, preservando o cronograma originalmente planejado. A responsabilidade acadêmica permanece com Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -154,6 +160,8 @@ O assistente Antigravity (Google DeepMind) apoiou a formatação das fichas de r
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 03/11/2026 | Elaboração do planejamento do relato da avaliação do protótipo de alta fidelidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.1` | 09/11/2026 | Alinhamento à rodada de três participantes, dois objetivos, sete perguntas e discussão de achados com Krug | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 13/11/2026 | Revisão direta conforme a aplicação: três sessões presenciais, Bruno e Caio, ausência de piloto, fluxo apresentado em conjunto e avaliação geral; cronograma original preservado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 13/11/2026 | Confirmação da nota geral 4,5 do Participante 3 e alinhamento da consolidação, preservando o cronograma original | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
