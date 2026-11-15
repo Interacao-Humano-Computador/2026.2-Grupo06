@@ -61,9 +61,11 @@ Cada pessoa incorpora a própria gravação na seção correspondente. A gravaç
 
 - Vídeo individual da apresentação da Etapa 7: **pendente de link**.
 
-### Luís Henrique Luna de Arruda
+### Luís Henrique Luna de Arruda { #luis-henrique-arruda-luna }
 
 - Vídeo individual da apresentação da Etapa 7: **pendente de link**.
+- Percurso: [relato da alta fidelidade](../entrega-7/individual/luis/relato-alta-fidelidade.md) e [protótipo AF-1.0 no Figma](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3)
+- Avaliação com AF-P01 e piloto PP-AF01, distintos desta apresentação: [vídeos da sessão](../entrega-7/individual/luis/evidencias.md)
 
 ## Agradecimentos
 
@@ -78,6 +80,7 @@ A Tabela 2 registra a versão deste artefato.
 | `1.0` | 11/11/2026 | Preparação da página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Alinha a sequência à sessão da AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 15/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.3` | 15/11/2026 | Inclui o percurso e as evidências de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
