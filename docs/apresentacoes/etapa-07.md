@@ -36,6 +36,8 @@ Cada pessoa incorpora a própria gravação na seção correspondente. A gravaç
 
 **Recorte:** sugestão e acompanhamento de complementos de ideias legislativas.
 
+Categoria no YouTube: **não listado**.
+
 [Relato consolidado de Bruno](../entrega-7/individual/bruno/relato-alta-fidelidade.md){ .md-button .md-button--primary }
 [Vídeos e evidências](../entrega-7/individual/bruno/evidencias.md){ .md-button }
 
@@ -246,6 +248,7 @@ A Tabela 3 registra o histórico deste artefato. A numeração das versões foi 
 | `1.14` | 15/11/2026 | Inclusão da sequência e roteiro de fala de Heitor Pinheiro (vídeo individual mantido pendente de link) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.15` | 15/11/2026 | Atualização do roteiro de fala de Heitor com os dados reais observados nos três vídeos (`AF-H01` a `AF-H03`) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.16` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.17` | 15/11/2026 | Identificação do vídeo de apresentação de Bruno como não listado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 >>>>>>> c478340 (docs(etapa-7): adiciona sequencia e roteiro de apresentacao de Heitor)
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>

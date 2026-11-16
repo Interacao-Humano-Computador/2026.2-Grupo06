@@ -21,6 +21,10 @@ Esta página organiza os registros de três participantes, com um vídeo de tela
 
 Os seis vídeos sustentam o [relato consolidado](relato-alta-fidelidade.md). A análise usa paráfrases de legendas automáticas e inspeção visual pontual, conforme os procedimentos descritos em cada sessão.
 
+Os seis vídeos de tela e ambiente estão publicados no YouTube como **não listados**.
+
+[Abrir protótipo de alta fidelidade](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button }
+
 **Condições da aplicação:** coleta presencial em 11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama; minha atuação na moderação e de Caio na observação; não houve teste-piloto.
 
 **Participantes e recursos:** três estudantes de engenharia, de 20 a 21 anos, com muita familiaridade tecnológica e alguma familiaridade legislativa; conheciam o site e o envio de ideias, mas não o protótipo. Todos utilizaram a mesma versão HTML no Microsoft Edge. Participação, gravação e divulgação pública dos vídeos foram autorizadas pelos três participantes.
@@ -74,7 +78,7 @@ As duas transcrições foram exportadas das legendas automáticas do YouTube em 
 
 ### Trechos utilizados na análise
 
-A tabela a seguir localiza os trechos do primeiro teste; os papéis dos falantes são inferidos pelo contexto das legendas, sem validação integral no áudio.
+A Tabela 4 localiza os trechos do primeiro teste; os papéis dos falantes são inferidos pelo contexto das legendas, sem validação integral no áudio.
 
 
 | Fonte / intervalo | Falante | Transcrição ou paráfrase identificada | Conferência / trechos inaudíveis |
@@ -94,7 +98,7 @@ A tabela a seguir localiza os trechos do primeiro teste; os papéis dos falantes
 
 ### Evidências por tarefa
 
-A tabela abaixo reúne localizadores para as quatro tarefas e a entrevista final. Uma tarefa pode ter várias evidências; descrever cada ocorrência sem duplicar um evento por ter duas perspectivas.
+A Tabela 5 reúne localizadores para as quatro tarefas e a entrevista final. Uma tarefa pode ter várias evidências; descrever cada ocorrência sem duplicar um evento por ter duas perspectivas.
 
 
 | Tarefa / foco | Localizador de tela / ambiente | Ação observada e resposta da interface | Paráfrase das legendas | Ajuda / limite da evidência |
@@ -119,7 +123,7 @@ As legendas automáticas em português dos dois vídeos foram exportadas em 13/1
 
 ### Trechos utilizados na análise
 
-A tabela a seguir localiza os trechos relevantes do segundo teste, distinguindo comentários, observações visuais e limitações.
+A Tabela 6 localiza os trechos relevantes do segundo teste, distinguindo comentários, observações visuais e limitações.
 
 | Fonte / intervalo | Falante | Transcrição ou paráfrase identificada | Conferência / trechos inaudíveis |
 | --- | --- | --- | --- |
@@ -138,7 +142,7 @@ A tabela a seguir localiza os trechos relevantes do segundo teste, distinguindo 
 
 ### Evidências por tarefa
 
-A tabela relaciona os localizadores de tela e ambiente, sem contar duas vezes o mesmo evento. Tempos aproximados servem à revisão, não à medição do tempo ativo.
+A Tabela 7 relaciona os localizadores de tela e ambiente, sem contar duas vezes o mesmo evento. Tempos aproximados servem à revisão, não à medição do tempo ativo.
 
 | Tarefa / foco | Localizador de tela / ambiente | Ação observada e resposta da interface | Paráfrase das legendas | Ajuda / limite da evidência |
 | --- | --- | --- | --- | --- |
@@ -205,7 +209,7 @@ Utilizei o Codex (OpenAI) como apoio à organização, à análise documental e 
 
 ## Histórico de versão
 
-A tabela a seguir registra a preparação desta versão.
+A Tabela 10 registra o histórico de versões destas evidências.
 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -221,6 +225,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.9` | 15/11/2026 | Confirmação da autorização de divulgação dos vídeos dos três participantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.10` | 15/11/2026 | Ajuste da voz narrativa e remoção de comentários de acompanhamento editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.11` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.12` | 15/11/2026 | Correção das chamadas das tabelas, identificação dos seis vídeos como não listados e acesso direto ao protótipo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 10 — Histórico de versão.</p>

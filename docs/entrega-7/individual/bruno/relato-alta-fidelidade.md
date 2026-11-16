@@ -21,6 +21,10 @@ Este relato segue o planejamento da avaliação [1] e do relato [2] da Etapa 6. 
 
 Os resultados estão vinculados aos [vídeos e evidências](evidencias.md). As informações não coletadas são identificadas nas limitações da avaliação.
 
+[Abrir protótipo de alta fidelidade](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button .md-button--primary }
+
+O acesso abre a versão HTML disponível no projeto. As três sessões utilizaram a mesma versão, mas o commit da coleta não foi registrado; a correspondência exata com o código disponível deve ser conferida pelas gravações.
+
 ## Fundamentação do relato
 
 **Autor do item:** Bruno Ferreira Dornelas.
@@ -144,7 +148,7 @@ Os intervalos dos vídeos são localizadores aproximados, não tempos ativos. As
 
 ### Participante 1
 
-A ficha a seguir identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 1](evidencias.md#participante-1).
+A Tabela 6 identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 1](evidencias.md#participante-1).
 
 
 | Campo | Registro |
@@ -164,7 +168,7 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 <p class="caption">Tabela 6 — Ficha da sessão do Participante 1.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
+A Tabela 7 registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
 
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
@@ -177,7 +181,7 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 <p class="caption">Tabela 7 — Desempenho por tarefa do Participante 1.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-O detalhamento abaixo permite conferir os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
+A Tabela 8 detalha os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
 
 
 | Momento | Ação e interpretação registrada | Ajuda / simulação | Localizador |
@@ -192,7 +196,7 @@ O detalhamento abaixo permite conferir os dois momentos do acompanhamento da con
 
 ### Participante 2
 
-A ficha a seguir identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 2](evidencias.md#participante-2).
+A Tabela 9 identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 2](evidencias.md#participante-2).
 
 
 | Campo | Registro |
@@ -212,7 +216,7 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 <p class="caption">Tabela 9 — Ficha da sessão do Participante 2.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
+A Tabela 10 registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
 
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
@@ -225,7 +229,7 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 <p class="caption">Tabela 10 — Desempenho por tarefa do Participante 2.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-O detalhamento abaixo permite conferir os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
+A Tabela 11 detalha os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
 
 
 | Momento | Ação e interpretação registrada | Ajuda / simulação | Localizador |
@@ -240,7 +244,7 @@ O detalhamento abaixo permite conferir os dois momentos do acompanhamento da con
 
 ### Participante 3
 
-A ficha a seguir identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 3](evidencias.md#participante-3).
+A Tabela 12 identifica as condições efetivas desta sessão. Os registros audiovisuais correspondentes ficam em [evidências do Participante 3](evidencias.md#participante-3).
 
 
 | Campo | Registro |
@@ -260,7 +264,7 @@ A ficha a seguir identifica as condições efetivas desta sessão. Os registros 
 <p class="caption">Tabela 12 — Ficha da sessão do Participante 3.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
+A Tabela 13 registra o desempenho nas quatro tarefas. Os horários se referem à gravação de tela; quando indisponível, identificar expressamente a fonte utilizada.
 
 
 | Tarefa | Início–fim / tempo ativo (s) / pausas | Conclusão da tarefa e justificativa | Erros e compreensão, ajuda e desvios | Satisfação e justificativa | Evidências |
@@ -273,7 +277,7 @@ A tabela seguinte registra o desempenho nas quatro tarefas. Os horários se refe
 <p class="caption">Tabela 13 — Desempenho por tarefa do Participante 3.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-O detalhamento abaixo permite conferir os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
+A Tabela 14 detalha os dois momentos do acompanhamento da contribuição; não representa duas tarefas adicionais.
 
 
 | Momento | Ação e interpretação registrada | Ajuda / simulação | Localizador |
@@ -288,14 +292,14 @@ O detalhamento abaixo permite conferir os dois momentos do acompanhamento da con
 
 ### Consolidação dos indicadores
 
-A Tabela 15 consolida as classificações das fichas individuais. Cada tarefa teve três participantes. As contagens se referem aos resultados definidos na Tabela 5; os aspectos de compreensão e a cobertura do anexo aparecem como observações específicas.
+A Tabela 15 consolida as classificações das fichas individuais. Cada tarefa teve três participantes. As contagens são apresentadas como **x/N**, em que x é o número de participantes na categoria e N = 3 é o total avaliado em cada tarefa. As contagens se referem aos resultados definidos na Tabela 5; os aspectos de compreensão e a cobertura do anexo aparecem como observações específicas.
 
 | Tarefa | Participantes | Concluída sem ajuda | Indício de conclusão com ajuda | Não concluída | Não avaliada integralmente | Observações |
 | --- | --- | --- | --- | --- | --- | --- |
-| Busca da ideia | 3 | 0 | 3 | 0 | 0 | Os três localizaram a ideia e acessaram o complemento após a orientação do percurso. |
-| Envio do complemento | 3 | 3 | 0 | 0 | 0 | Os três preencheram, revisaram e enviaram sem ajuda na operação. O Participante 2 corrigiu o título; o Participante 3 utilizou conteúdo de teste. |
-| Decisão sobre o ajuste | 3 | 3 | 0 | 0 | 0 | Os três registraram a decisão sem ajuda para escolher a resposta. O Participante 2 justificou a concordância; o Participante 3 explorou também a discordância. |
-| Acompanhamento da contribuição | 3 | 0 | 3 | 0 | 0 | Os três consultaram a publicação e o encaminhamento com orientação. Abertura do anexo observada no terceiro teste; dúvidas conceituais são descritas nas fichas. |
+| Busca da ideia | 3 | 0/3 | 3/3 | 0/3 | 0/3 | Os três localizaram a ideia e acessaram o complemento após a orientação do percurso. |
+| Envio do complemento | 3 | 3/3 | 0/3 | 0/3 | 0/3 | Os três preencheram, revisaram e enviaram sem ajuda na operação. O Participante 2 corrigiu o título; o Participante 3 utilizou conteúdo de teste. |
+| Decisão sobre o ajuste | 3 | 3/3 | 0/3 | 0/3 | 0/3 | Os três registraram a decisão sem ajuda para escolher a resposta. O Participante 2 justificou a concordância; o Participante 3 explorou também a discordância. |
+| Acompanhamento da contribuição | 3 | 0/3 | 3/3 | 0/3 | 0/3 | Os três consultaram a publicação e o encaminhamento com orientação. Abertura do anexo observada no terceiro teste; dúvidas conceituais são descritas nas fichas. |
 
 <p class="caption">Tabela 15 — Conclusão das tarefas e ajuda recebida.</p>
 <p class="source">Fonte: fichas de observação e registros audiovisuais das três sessões.</p>
@@ -422,7 +426,7 @@ Utilizei o Codex (OpenAI) como apoio à organização, à análise documental e 
 
 ## Histórico de versão
 
-A tabela a seguir registra a preparação desta versão.
+A Tabela 22 registra o histórico de versões deste relato.
 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -441,6 +445,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.14` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.15` | 15/11/2026 | Correção das chamadas das tabelas, apresentação explícita das contagens x/N e acesso direto ao protótipo, preservando o limite de identificação da versão da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 22 — Histórico de versão.</p>

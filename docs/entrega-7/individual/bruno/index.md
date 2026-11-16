@@ -25,6 +25,7 @@ Esta entrega reúne o relato da avaliação de **complementos de ideias legislat
 
 [Relato da alta fidelidade](relato-alta-fidelidade.md){ .md-button .md-button--primary }
 [Vídeos e evidências](evidencias.md){ .md-button }
+[Abrir protótipo](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button }
 [Diferenças em relação ao plano](relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao){ .md-button }
 [Apresentação da entrega](../../../apresentacoes/etapa-07.md#bruno-ferreira-dornelas){ .md-button }
 [Planejamento da Etapa 6](../../../entrega-6/individual/bruno/index.md){ .md-button }
@@ -54,7 +55,7 @@ Utilizei o Codex (OpenAI) como apoio à organização, à análise documental e 
 
 ## Histórico de versão
 
-A tabela a seguir registra a preparação desta versão.
+A Tabela 2 registra o histórico de versões desta página.
 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -73,6 +74,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.14` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.15` | 15/11/2026 | Acesso direto ao protótipo e chamada do histórico de versões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>

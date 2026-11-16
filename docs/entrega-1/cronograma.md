@@ -11,6 +11,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma planejado | [Etapa 1](cronograma.md#etapa-1-planejamento-do-projeto) |
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização das atividades executadas na Etapa 4 — Oficina Legislativa | [Cronograma executado](cronograma.md#cronograma-executado) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Cronograma executado](#cronograma-executado) |
 | Codex (OpenAI) | Apoio à atualização da agenda de Bruno | [Replanejamento](#replanejamento-das-avaliacoes-de-bruno-23102026) |
 | Google Gemini | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
@@ -308,6 +309,8 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Desenho manual, fotografia das 11 peças e teste-piloto do protótipo de papel (`v1.0`) — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | Moldura fixa e 10 recortes móveis fotografados; [vídeo do piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) |
 | Sessão de validação do protótipo de papel com `PP-P01` no Google Meet | Bruno Ferreira Dornelas (operador), Luís Henrique, Caio Breno e Israel Soares (observadores) | 03/11/2026 | 03/11/2026 | [Gravação da validação (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) |
 | Elaboração do relato do protótipo de papel e dos planejamentos de alta fidelidade (Etapa 6) | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | [Relato do papel](../entrega-6/individual/bruno/relato-prototipo-papel.md), [planejamento da avaliação](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md); revisão de Luís Henrique |
+| Avaliação de alta fidelidade de complementos de ideias legislativas com três participantes — Etapa 7 | Bruno Ferreira Dornelas (moderação) e Caio Breno de Souza Bezerra (observação) | 11/11/2026 | 11/11/2026 | Sessões presenciais pela manhã, no contêiner da EJS, UnB Gama; [condições e evidências](../entrega-7/individual/bruno/evidencias.md). Não houve piloto |
+| Análise documental e consolidação do relato de alta fidelidade de complementos — Etapa 7 | Bruno Ferreira Dornelas | 13/11/2026 | 15/11/2026 | [Relato e histórico de versões](../entrega-7/individual/bruno/relato-alta-fidelidade.md#historico-de-versao), com resultados dos três participantes, localizadores e propostas de melhoria |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -351,6 +354,7 @@ A preparação e a avaliação futura do protótipo de papel seguem a [agenda pr
 | `2.4` | 13/10/2026 | Registra as atividades executadas por Bruno na Etapa 4, incluindo os quatro planejamentos e o storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 2.5 | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.6` | 03/11/2026 | Registra no cronograma executado a preparação, o piloto, a validação do protótipo de papel e os artefatos da Etapa 6 de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `2.7` | 15/11/2026 | Registro das sessões e da consolidação do relato de complementos na Etapa 7, preservando o cronograma planejado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
