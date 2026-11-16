@@ -414,7 +414,7 @@ A avaliação atendeu ao objetivo de identificar dificuldades no percurso e ofer
 
 Esses resultados sustentam a viabilidade operacional do fluxo nas condições observadas, mas não comprovam compreensão autônoma completa. O acesso à contribuição, o significado do encaminhamento, a consequência da discordância e a confirmação de revisão são os principais pontos de melhoria. A instrução antecipada, a ausência de piloto e a coleta incompleta das medidas previstas limitam a conclusão sobre eficácia e satisfação.
 
-Recomenda-se uma nova rodada após o reprojeto, com cenário apresentado por objetivo, sem ensinar o caminho; conteúdo pertinente; sondagens de autoria, contadores e caráter consultivo; e entrevista com nota geral e comentários por tarefa. As alterações propostas permanecem sem implementação ou reteste e constituem continuidade do projeto. O [roteiro de apresentação](../../../apresentacoes/etapa-07.md#roteiro-de-fala-de-bruno) sintetiza os resultados desta avaliação.
+Recomenda-se uma nova rodada após o reprojeto, com cenário apresentado por objetivo, sem ensinar o caminho; conteúdo pertinente; sondagens de autoria, contadores e caráter consultivo; e entrevista com nota geral e comentários por tarefa. As alterações propostas permanecem sem implementação ou reteste e constituem continuidade do projeto. O [vídeo de apresentação](../../../apresentacoes/etapa-07.md#bruno-ferreira-dornelas) sintetiza os resultados desta avaliação.
 
 ## Agradecimentos
 
@@ -440,6 +440,7 @@ A tabela a seguir registra a preparação desta versão.
 | `0.11` | 15/11/2026 | Remoção das menções a confirmações posteriores e ajuste da descrição dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.12` | 15/11/2026 | Reclassificação da execução das tarefas, separando ajuda, compreensão e limitações de medição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.14` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 22 — Histórico de versão.</p>
