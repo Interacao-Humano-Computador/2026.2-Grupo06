@@ -83,6 +83,10 @@ A Tabela 3 identifica tecnicamente o protótipo avaliado a partir do observado n
 
 ---
 
+### Referência permanente do protótipo
+
+A versão disponível no projeto corresponde ao [código preservado no commit `4ccc653`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/4ccc65364ee9465255cd1d7dd5e7f79f15b382b8/docs/prototipos/heitor/alta-fidelidade). A comparação com o diretório atual não apresenta alterações. O [protótipo navegável](../../../prototipos/heitor/alta-fidelidade/index.html) permite reproduzir o fluxo; o link permanente preserva o código de referência. O commit identifica a versão do repositório, mas não comprova, sozinho, qual cópia local foi aberta durante a coleta.
+
 ## 2. Método, ambiente, papéis e desvios
 
 O método planejado é o **teste de usabilidade moderado** (BARBOSA; SILVA, 2010, p. 341–343 [1]), combinado com **pensar em voz alta** (*think aloud*) durante a execução das tarefas e **entrevista pós-teste**.

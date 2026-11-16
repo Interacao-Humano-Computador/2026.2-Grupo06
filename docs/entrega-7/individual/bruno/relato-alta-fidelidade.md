@@ -23,7 +23,11 @@ Os resultados estão vinculados aos [vídeos e evidências](evidencias.md). As i
 
 [Abrir protótipo de alta fidelidade](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button .md-button--primary }
 
-O acesso abre a versão HTML disponível no projeto. As três sessões utilizaram a mesma versão, mas o commit da coleta não foi registrado; a correspondência exata com o código disponível deve ser conferida pelas gravações.
+O acesso abre a mesma versão HTML utilizada nos três testes, sem alterações posteriores no protótipo.
+
+### Referência permanente do protótipo
+
+A versão disponível no projeto corresponde ao [código preservado no commit `a389cd0`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/a389cd0b5afb5006efdb691cbe9d58e7df151052/docs/prototipos/bruno/alta-fidelidade). A comparação com o diretório atual não apresenta alterações. O [protótipo navegável](../../../prototipos/bruno/alta-fidelidade/index.html) permite reproduzir o fluxo; o link permanente preserva o código de referência. Essa versão foi utilizada nas três sessões de 11/11/2026, no Microsoft Edge, sem alterações entre as sessões ou após a coleta.
 
 ## Fundamentação do relato
 
@@ -57,7 +61,7 @@ A Tabela 2 distingue o material disponível no projeto da identificação ainda 
 | --- | --- |
 | Plataforma utilizada (HTML ou Figma) | Protótipo em HTML, executado no Microsoft Edge nas três sessões. |
 | Acesso ao material | [Protótipo e roteiro na Etapa 6](../../../entrega-6/individual/bruno/index.md). O acesso atual não comprova a URL exata usada em 11/11. |
-| Versão / identificação das telas | Busca e detalhes da ideia, formulário e prévia, espera, ajuste, discordância, publicação e anexo consultivo. Commit da coleta não identificado nos registros. |
+| Versão / identificação das telas | Busca e detalhes da ideia, formulário e prévia, espera, ajuste, discordância, publicação e anexo consultivo. Versão utilizada: commit `a389cd0b5afb5006efdb691cbe9d58e7df151052`. |
 | Data de congelamento da versão | Não consta nos registros da coleta. |
 | Alterações entre sessões | Não houve alterações entre as sessões: os três participantes utilizaram a mesma versão. |
 
@@ -93,7 +97,7 @@ A Tabela 3 apresenta as condições relacionadas à ausência de teste-piloto.
 | Registro disponível / link | Não se aplica: o piloto não foi realizado. |
 | Problemas encontrados no procedimento | Não houve ensaio separado para detectá-los antes da coleta principal. |
 | Ajustes aplicados antes da coleta | Não documentados; não podem ser atribuídos a um piloto. |
-| Versão resultante | Não se aplica a piloto; commit da versão utilizada não identificado nos registros. |
+| Versão resultante | Não se aplica: não houve piloto. A versão das sessões principais corresponde ao commit `a389cd0`. |
 
 <p class="caption">Tabela 3 — Registro separado do piloto.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -159,7 +163,7 @@ A Tabela 6 identifica as condições efetivas desta sessão. Os registros audiov
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. |
 | Horário de início, fim e duração da sessão | Vídeo de tela: 6min40s; ambiente: 6min39s. Essas durações não comprovam a duração integral da sessão. Horários não confirmados. |
 | Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
-| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, commit `a389cd0`, mesma versão nas três sessões, sem alterações entre elas ou após a coleta. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Atuei na moderação e na condução das tarefas. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não caracterizada neste relato. |
 | Confirmação das autorizações de participação, gravação e divulgação | Os três participantes autorizaram a participação, a gravação e a divulgação pública dos vídeos. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
@@ -207,7 +211,7 @@ A Tabela 9 identifica as condições efetivas desta sessão. Os registros audiov
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. |
 | Horário de início, fim e duração da sessão | Tela: 6min10s; ambiente: 6min11s. Duração integral da sessão e horários não confirmados. |
 | Dispositivo, navegador e condições de acessibilidade | Notebook com mouse externo visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
-| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, commit `a389cd0`, mesma versão nas três sessões, sem alterações entre elas ou após a coleta. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Atuei na moderação e na condução das tarefas. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não caracterizada neste relato. |
 | Confirmação das autorizações de participação, gravação e divulgação | Os três participantes autorizaram a participação, a gravação e a divulgação pública dos vídeos. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
@@ -255,7 +259,7 @@ A Tabela 12 identifica as condições efetivas desta sessão. Os registros audio
 | Data, local e modalidade | 11/11/2026, por volta das 9h, contêiner da EJS, UnB Gama; presencial. |
 | Horário de início, fim e duração da sessão | Tela: 7min38s; ambiente: 7min33s. Esses valores não comprovam a duração integral da sessão; horários a confirmar. |
 | Dispositivo, navegador e condições de acessibilidade | Notebook visível no ambiente; Microsoft Edge. Configurações de acessibilidade não registradas. |
-| Versão / commit e plataforma efetivamente utilizados | HTML, mesma versão nas três sessões, sem alterações entre elas. Commit não identificado. |
+| Versão / commit e plataforma efetivamente utilizados | HTML, commit `a389cd0`, mesma versão nas três sessões, sem alterações entre elas ou após a coleta. |
 | Moderador e observadores presentes; perfil / experiência da equipe | Atuei na moderação e na condução das tarefas. Caio Breno de Souza Bezerra: observador. Experiência anterior em avaliação não caracterizada neste relato. |
 | Confirmação das autorizações de participação, gravação e divulgação | Os três participantes autorizaram a participação, a gravação e a divulgação pública dos vídeos. |
 | Primeira impressão do portal | Não há registro separado de primeira impressão antes da explicação do percurso no material analisado. |
@@ -446,6 +450,7 @@ A Tabela 22 registra o histórico de versões deste relato.
 | `0.13` | 15/11/2026 | Ajuste da classificação da decisão sobre o ajuste para concluída sem ajuda, com análise separada da compreensão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.14` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.15` | 15/11/2026 | Correção das chamadas das tabelas, apresentação explícita das contagens x/N e acesso direto ao protótipo, preservando o limite de identificação da versão da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.16` | 15/11/2026 | Identificação da versão utilizada nos três testes e vínculo com o código preservado no repositório | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 
 <p class="caption">Tabela 22 — Histórico de versão.</p>

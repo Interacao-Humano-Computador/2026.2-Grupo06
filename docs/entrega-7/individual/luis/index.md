@@ -72,14 +72,14 @@ A sessão verifica no protótipo **AF-1.0** os requisitos derivados dos problema
 
 ## Agradecimentos
 
-Claude Code (Anthropic) apoiou a análise das gravações, a estruturação e a redação deste material. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
+Claude Code (Anthropic) apoiou a análise das gravações, a estruturação e a redação deste material. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 15/11/2026 | Estruturação do índice individual da Etapa 7 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 15/11/2026 | Seção de acesso ao protótipo de alta fidelidade | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 15/11/2026 | Estruturação do índice individual da Etapa 7 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Seção de acesso ao protótipo de alta fidelidade | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -201,14 +201,14 @@ A Figura 1 apresenta a fonte da estrutura do relato.
 
 ## Agradecimentos
 
-Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela, a estruturação e a redação. Os localizadores foram identificados pelas mudanças de tela; as opiniões são paráfrases do registro do moderador. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
+Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela, a estruturação e a redação. Os localizadores foram identificados pelas mudanças de tela; as opiniões são paráfrases do registro do moderador. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 15/11/2026 | Consolidação da sessão, resultados e decisões de reprojeto | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 15/11/2026 | Registro da nota geral 5/5 e seção de acesso ao protótipo | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 15/11/2026 | Consolidação da sessão, resultados e decisões de reprojeto | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Registro da nota geral 5/5 e seção de acesso ao protótipo | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
