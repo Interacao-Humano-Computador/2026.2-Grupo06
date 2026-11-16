@@ -51,7 +51,7 @@ A Tabela 2 organiza os materiais para leitura e conferência deste recorte indiv
 
 **Sessões executadas:** foram realizadas **três sessões presenciais** (`AF-H01`, `AF-H02` e `AF-H03`) em notebook Windows com Google Chrome, todas gravadas e publicadas no YouTube na categoria **Não Listado** ([ver evidências](evidencias.md)). Os participantes localizaram a sala da CRA (`3/3`), selecionaram `Pergunta ao Orador`, escolheram um orador, mantiveram o rascunho após login gov.br (`3/3`) e chegaram ao comprovante `CRA-2026-0842`.
 
-**Lacunas explicitadas no relato:** a tarefa `AF-T3` (edição de destinatário na revisão) não foi aplicada como cenário separado (`0/3` execuções) e a nota numérica M6 (Likert 1–5) não foi coletada nas entrevistas finais (há apenas relatos qualitativos). O teste-piloto (`PP-AF-H01`) foi realizado presencialmente na FCTE/UnB em 12/11/2026 (`04:00`), sem vídeo publicado, e o vídeo individual de apresentação permanece **pendente de link** na [página de apresentações](../../../apresentacoes/etapa-07.md#heitor-pinheiro-goncalves-das-chagas).
+**Lacunas explicitadas no relato:** a tarefa `AF-T3` (edição de destinatário na revisão) não foi aplicada como cenário separado (`0/3` execuções) e a nota numérica M6 (Likert 1–5) não foi coletada nas entrevistas finais (há apenas relatos qualitativos). O teste-piloto (`PP-AF-H01`) foi realizado presencialmente na FCTE/UnB em 12/11/2026 (`04:00`), sem vídeo publicado, e a apresentação individual encontra-se publicada na [página de apresentações](../../../apresentacoes/etapa-07.md#heitor-pinheiro-goncalves-das-chagas) (4 min 38 s, Não Listado).
 
 **Marcos da disciplina:** entrega em **15/11/2026 (até 23h59)** · inspeção em **16/11/2026** · apresentação em **17/11/2026** [1].
 
@@ -67,6 +67,7 @@ A Tabela 3 registra o histórico deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Criação do índice individual de Heitor Pinheiro na Etapa 7 com os acessos ao relato, evidências e protótipo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Atualização da síntese após análise das três sessões gravadas (`AF-H01` a `AF-H03`), explicitando lacunas reais da coleta | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/11/2026 | Atualização da situação do vídeo individual de apresentação (4 min 38 s, Não Listado) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
