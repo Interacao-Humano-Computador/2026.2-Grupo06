@@ -12,6 +12,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inclusão da lista da Etapa 5 | [Estrutura](#estrutura) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão da autoverificação da Etapa 5 e da inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participação na inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Estrutura](#estrutura) |
 | Codex (OpenAI) e Antigravity | Apoio à atualização do índice | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -32,13 +33,15 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
-As listas das [Etapas 5](listas/etapa-5.md), [6](listas/etapa-6.md) e [7](listas/etapa-7.md) apresentam perguntas com autor, referência e imagem da fonte. As respostas da Etapa 6 estão nas tabelas de inspeção do [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e do [Grupo 05](grupo-05/etapa-6/lista-verificacao.md). A [ficha da Etapa 7](grupo-06/etapa-7/lista-verificacao.md) está em branco para a inspeção posterior.
+As listas das [Etapas 5](listas/etapa-5.md), [6](listas/etapa-6.md) e [7](listas/etapa-7.md) apresentam perguntas com autor, referência e imagem da fonte. As respostas da Etapa 6 estão nas tabelas de inspeção do [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e do [Grupo 05](grupo-05/etapa-6/lista-verificacao.md). A Etapa 7 reúne a [autoinspeção do Grupo 06](grupo-06/etapa-7/lista-verificacao.md) e a [inspeção do Grupo 07](grupo-07/etapa-7/lista-verificacao.md), com respostas em tabela e vídeos das reuniões.
 
 ## Agradecimentos
 
 Codex (OpenAI) e Antigravity apoiaram a atualização do índice com a lista e as inspeções da Etapa 5.
 
 Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
+
+O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 
 ## Histórico de versão
 
@@ -52,6 +55,7 @@ Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, s
 | `1.5` | 28/10/2026 | Inclui o link para a inspeção da Etapa 5 do Grupo 07 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) e [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 15/11/2026 | Inclui a lista da Etapa 7 e a ficha de inspeção ainda sem respostas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
