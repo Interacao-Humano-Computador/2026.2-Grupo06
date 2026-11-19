@@ -33,7 +33,7 @@ hide:
 <nav class="dates" aria-label="Datas da Etapa 8">
   <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 8</p>
   <div><b>22/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>23/11</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>23/11</b><span>Inspeção da entrega do Grupo +1</span></div>
   <div><b>24/11</b><span>Apresentação em aula</span></div>
 </nav>
 
@@ -84,7 +84,7 @@ hide:
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 8</span>
     <strong>Verificação dos artefatos</strong>
-    <span>Listas V2, reinspeção das Etapas 6 e 7 e gráficos dos três grupos.</span>
+    <span>Listas V2, autoinspeção e inspeção externa por etapa, com gráficos.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>

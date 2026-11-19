@@ -18,7 +18,7 @@
 
 ## Como aplicar
 
-Use a mesma redação nos três grupos. A resposta resume a cobertura dos artefatos daquela etapa. Cada item traz a evidência esperada, o vínculo com a V1 e um recorte da fonte com o trecho relevante grifado e o texto ao redor.
+Use a mesma redação na autoinspeção do Grupo 06 e na inspeção externa do Grupo 07 (+1). A resposta resume a cobertura dos artefatos daquela etapa. Cada item traz a evidência esperada, o vínculo com a V1 e um recorte da fonte com o trecho relevante grifado e o texto ao redor.
 
 - **Sim** quando a evidência atende à pergunta em todo o recorte aplicável.
 - **Incompleto** quando existe evidência parcial, contraditória ou sem cobertura de todos os artefatos do recorte.
@@ -42,7 +42,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d01) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d01) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d01).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d01) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d01).
 
 <div class="etapa8-item" id="d02"></div>
 
@@ -58,7 +58,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d02) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d02) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d02).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d02) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d02).
 
 <div class="etapa8-item" id="d03"></div>
 
@@ -74,7 +74,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d03) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d03) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d03).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d03) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d03).
 
 <div class="etapa8-item" id="d04"></div>
 
@@ -90,7 +90,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d04) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d04) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d04).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d04) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d04).
 
 <div class="etapa8-item" id="d05"></div>
 
@@ -106,7 +106,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d05) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d05) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d05).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d05) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d05).
 
 <div class="etapa8-item" id="d06"></div>
 
@@ -122,7 +122,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d06) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d06) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d06).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d06) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d06).
 
 <div class="etapa8-item" id="d07"></div>
 
@@ -138,7 +138,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 9 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d07) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d07) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d07).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d07) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d07).
 
 <div class="etapa8-item" id="d08"></div>
 
@@ -154,7 +154,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 9 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d08) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d08) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d08).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d08) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d08).
 
 <div class="etapa8-item" id="d09"></div>
 
@@ -170,7 +170,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 9 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d09) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d09) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d09).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d09) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d09).
 
 <div class="etapa8-item" id="d10"></div>
 
@@ -186,7 +186,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 9 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d10) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d10) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d10).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d10) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d10).
 
 <div class="etapa8-item" id="d11"></div>
 
@@ -202,7 +202,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 3 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-d11) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-d11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d11).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d11).
 
 
 ## Conteúdo da disciplina
@@ -221,7 +221,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 5 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-01) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-01) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-01).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-01) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-01).
 
 <div class="etapa8-item" id="e7-02"></div>
 
@@ -237,7 +237,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 343. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-02) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-02) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-02).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-02) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-02).
 
 <div class="etapa8-item" id="e7-03"></div>
 
@@ -253,7 +253,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 341. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-03) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-03) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-03).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-03) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-03).
 
 <div class="etapa8-item" id="e7-04"></div>
 
@@ -269,7 +269,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 343. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-04) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-04) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-04).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-04) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-04).
 
 <div class="etapa8-item" id="e7-05"></div>
 
@@ -285,7 +285,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-05) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-05) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-05).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-05) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-05).
 
 <div class="etapa8-item" id="e7-06"></div>
 
@@ -301,7 +301,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-06) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-06) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-06).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-06) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-06).
 
 <div class="etapa8-item" id="e7-07"></div>
 
@@ -317,7 +317,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-07) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-07) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-07).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-07) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-07).
 
 <div class="etapa8-item" id="e7-08"></div>
 
@@ -333,7 +333,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 343. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-08) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-08) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-08).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-08) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-08).
 
 <div class="etapa8-item" id="e7-09"></div>
 
@@ -349,7 +349,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-09) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-09) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-09).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-09) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-09).
 
 <div class="etapa8-item" id="e7-10"></div>
 
@@ -365,7 +365,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 307. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-10) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-10) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-10).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-10) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-10).
 
 <div class="etapa8-item" id="e7-11"></div>
 
@@ -385,7 +385,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 141. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-11) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-11).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-11).
 
 <div class="etapa8-item" id="e7-12"></div>
 
@@ -401,7 +401,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-12) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-12) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-12).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-12) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-12).
 
 <div class="etapa8-item" id="e7-13"></div>
 
@@ -417,7 +417,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-13) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-13) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-13).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-13) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-13).
 
 <div class="etapa8-item" id="e7-14"></div>
 
@@ -437,7 +437,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-14) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-14) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-14).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-14) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-14).
 
 <div class="etapa8-item" id="e7-15"></div>
 
@@ -457,7 +457,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 05](grupo-05/etapa-7.md#etapa-7-e7-15) · [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-15) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-15).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-15) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-15).
 
 ## Conferência da lista
 

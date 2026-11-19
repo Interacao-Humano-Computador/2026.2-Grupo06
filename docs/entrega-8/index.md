@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-As listas V2 se aplicam aos artefatos das **Etapas 6 e 7**. A reinspeção documental abrange o próprio Grupo 06, o Grupo 07 (+1) e o Grupo 05 (−1). As seis fichas registram **159 classificações da inspeção**, com critério, constatação, página e versão consultadas.
+A reinspeção abrange a autoinspeção do Grupo 06 nas duas etapas. A inspeção externa cobre os artefatos do **Grupo 05 (−1) na Etapa 6** e os do **Grupo 07 (+1) na Etapa 7**. As quatro fichas registram **106 respostas**, com critério, constatação, página e versão consultadas.
 
 <div class="etapa8-acessos" markdown>
 
@@ -38,9 +38,9 @@ As listas usam os critérios de desenvolvimento do plano de ensino e adaptam os 
 | 6 | Relato do papel e dois planos para a alta fidelidade | [V1 da Etapa 6](../verificacao/listas/etapa-6.md) | [27 critérios](lista-etapa-6.md) |
 | 7 | Relatos da alta fidelidade e seus registros | [V1 da Etapa 7](../verificacao/listas/etapa-7.md) | [26 critérios](lista-etapa-7.md) |
 
-A entrega está prevista para **22/11**, a inspeção pelo Grupo +1 para **23/11** e a apresentação para **24/11/2026**, conforme as pp. 4–5 do plano de ensino.
+A entrega da Etapa 8 está prevista para **22/11** e a apresentação para **24/11/2026**. Para **23/11**, o plano de ensino registra a inspeção da entrega da Etapa 8 do Grupo +1 (pp. 4–5).
 
-![Trecho grifado do plano com entrega da Etapa 8 e inspeção pelo Grupo +1.](../assets/img/entrega-8/fontes/etapa8.png){ loading=lazy }
+![Trecho grifado do plano com a entrega da Etapa 8 e a inspeção da entrega do Grupo +1.](../assets/img/entrega-8/fontes/etapa8.png){ loading=lazy }
 
 <p class="source">Fonte: Sales (2026), p. 4 do PDF. Grifos nas datas de entrega e inspeção.</p>
 
@@ -60,13 +60,15 @@ Para classificar uma linha, **Sim** exige cobertura em todo o recorte aplicável
 
 ## Escopo e versões
 
-O inventário foi levantado pelos menus e links de cada site. As fichas ligam as páginas renderizadas ao código fonte na revisão de referência e indicam a versão de cada artefato quando ela está publicada. Os 13 endereços diretos de protótipos localizados nos relatos responderam à consulta HTTP. Identificar a versão testada exige cruzar o endereço com a revisão indicada no relato. Autorização e versão são avaliadas pelos registros disponíveis.
+A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 na etapa par e o Grupo +1 na etapa ímpar. [Ficha V1 da Etapa 6 · Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Ficha V1 da Etapa 7 · Grupo 07](../verificacao/grupo-07/etapa-7/lista-verificacao.md).
+
+O inventário foi levantado pelos menus e links de cada site. As fichas ligam as páginas renderizadas ao código-fonte na revisão de referência e indicam a versão de cada artefato quando ela está publicada. Identificar a versão testada exige cruzar o endereço do protótipo com a revisão indicada no relato. Autorização e versão são avaliadas pelos registros disponíveis.
 
 | Grupo inspecionado | Projeto | Revisão de referência | Ficha |
 | --- | --- | --- | --- |
 | Grupo 06 (autoinspeção) | [Portal do Senado Federal](https://interacao-humano-computador.github.io/2026.2-Grupo06/) | [`5dfe10f`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/5dfe10f7661a6b839c87ced4f37f15a33e3a7d46) | [Etapa 6](grupo-06/etapa-6.md) · [Etapa 7](grupo-06/etapa-7.md) |
-| Grupo 07 (+1) | [PCI Concursos](https://interacao-humano-computador.github.io/2026.2-Grupo07/) | [`12913da`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo07/tree/12913da5f0d83900ce91e500e26524987f0a9497) | [Etapa 6](grupo-07/etapa-6.md) · [Etapa 7](grupo-07/etapa-7.md) |
-| Grupo 05 (−1) | [SEMOB-DF](https://interacao-humano-computador.github.io/2026.2-Grupo05/) | [`cad2b42`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/cad2b42de633a5f997fb6a87942bd1cd4da33aa2) | [Etapa 6](grupo-05/etapa-6.md) · [Etapa 7](grupo-05/etapa-7.md) |
+| Grupo 07 (+1) | [PCI Concursos](https://interacao-humano-computador.github.io/2026.2-Grupo07/) | [`12913da`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo07/tree/12913da5f0d83900ce91e500e26524987f0a9497) | [Etapa 7](grupo-07/etapa-7.md) |
+| Grupo 05 (−1) | [SEMOB-DF](https://interacao-humano-computador.github.io/2026.2-Grupo05/) | [`cad2b42`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/cad2b42de633a5f997fb6a87942bd1cd4da33aa2) | [Etapa 6](grupo-05/etapa-6.md) |
 
 ## Agradecimentos
 
