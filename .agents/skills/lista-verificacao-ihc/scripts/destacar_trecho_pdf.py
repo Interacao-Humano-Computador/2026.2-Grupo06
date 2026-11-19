@@ -101,6 +101,60 @@ def resolve_pdf_path(pdf_arg: str, contexto_dir: Path) -> Path:
     )
 
 
+def list_acervo(contexto_dir: Path) -> int:
+    """Lista os PDFs em contexto/ identificando automaticamente edição (ex.: Barbosa 2021 vs 2010)."""
+    if not contexto_dir.is_dir():
+        print(f"Pasta não encontrada: {contexto_dir}", file=sys.stderr)
+        return 1
+
+    items = []
+    for entry in sorted(contexto_dir.iterdir()):
+        if not (entry.is_file() and entry.suffix.lower() == ".pdf"):
+            continue
+        try:
+            doc = pymupdf.open(str(entry))
+            n_pages = len(doc)
+            sample_txt = " ".join(
+                doc[i].get_text("text") for i in range(min(12, n_pages))
+            )
+            norm = normalize_for_match(sample_txt)
+            first_page_norm = normalize_for_match(doc[0].get_text("text")) if n_pages > 0 else ""
+            is_checklist = (
+                "lista de verificacao" in first_page_norm
+                or "universidade de brasilia" in first_page_norm
+                or entry.name.lower().startswith(("grupo6", "lvgrupo6"))
+            )
+            if is_checklist:
+                edicao_detectada = "Lista de verificação autoral (modelo de referência — NÃO recortar como livro)"
+            elif "978 85 352 3418 3" in norm or "elsevier editora" in norm:
+                edicao_detectada = "LIVRO: BARBOSA & SILVA (2010, Elsevier)"
+            elif (
+                "978 65 00 19677 1" in norm
+                or "humano computador e experiencia do usuario" in norm
+                or "autopublicacao" in norm
+            ):
+                edicao_detectada = "LIVRO/CAPÍTULO: BARBOSA et al. (2021, Autopublicação) — PREFERENCIAL"
+            elif "design thinking" in norm or "mjv" in norm:
+                edicao_detectada = "LIVRO: VIANNA et al. (2012, MJV Press)"
+            elif not sample_txt.strip():
+                edicao_detectada = "LIVRO/CAPÍTULO ESCANEADO (OCR automático disponível)"
+            else:
+                edicao_detectada = "LIVRO/MATERIAL COMPLEMENTAR (texto digital)"
+
+            items.append(
+                {
+                    "arquivo": entry.name,
+                    "paginas_pdf": n_pages,
+                    "identificacao": edicao_detectada,
+                }
+            )
+        except Exception as exc:
+            items.append({"arquivo": entry.name, "erro": str(exc)})
+
+    print(json.dumps(items, ensure_ascii=False, indent=2))
+    return 0
+
+
 def detect_printed_header(page: pymupdf.Page) -> str:
     """Extrai as primeiras linhas da página para identificar cabeçalho / página impressa."""
     lines = [ln.strip() for ln in page.get_text("text").splitlines() if ln.strip()]
@@ -506,9 +560,13 @@ def main() -> int:
         description="Busca trechos e gera recortes de páginas de livros de IHC com destaque amarelo."
     )
     parser.add_argument(
+        "--listar-acervo",
+        action="store_true",
+        help="Lista todos os PDFs em contexto/ detectando automaticamente a edição (ex.: Barbosa 2021 vs 2010).",
+    )
+    parser.add_argument(
         "--pdf",
-        required=True,
-        help="Nome parcial ou caminho do PDF (ex.: 'Simone_Barbosa', 'Livro_Design_Thinking', 'cap 8').",
+        help="Nome parcial ou caminho do PDF (ex.: '2021', 'ihc-ux', 'Simone_Barbosa', 'Livro_Design_Thinking', 'cap 8').",
     )
     parser.add_argument(
         "--contexto-dir",
@@ -580,6 +638,10 @@ def main() -> int:
     )
 
     args = parser.parse_args()
+    if args.listar_acervo:
+        return list_acervo(Path(args.contexto_dir))
+    if not args.pdf:
+        parser.error("Informe --pdf <nome_ou_caminho> (ou use --listar-acervo).")
     pdf_path = resolve_pdf_path(args.pdf, Path(args.contexto_dir))
 
     if args.buscar:

@@ -25,7 +25,9 @@ Nenhum item pode ser entregue sem cumprir simultaneamente estes quatro requisito
 
 3. **Referência bibliográfica exata (ABNT NBR 6023) fiel à edição do recorte:**
    - Informe obra completa, capítulo, seção, tabela/quadro (quando aplicável) e página(s) impressa(s) exata(s).
-   - **Proibição de mistura de edições:** O livro completo em `contexto/Simone_Barbosa_and_Bruno_Silva_Auth_Interação_Humano_computador.pdf` é a edição **Elsevier, 2010** (`BARBOSA, S. D. J.; SILVA, B. S. da`). Nunca cite a edição *Autopublicação, 2021* quando a imagem recortada vier do PDF de 2010! Veja o catálogo completo e o mapa de páginas em [acervo-contexto.md](./references/acervo-contexto.md).
+   - **Prioridade para Barbosa et al. (2021) + proibição de mistura de edições:** Rode `--listar-acervo` em [destacar_trecho_pdf.py](./scripts/destacar_trecho_pdf.py) antes de começar:
+     - **Se houver PDF da edição de 2021** (*Interação Humano-Computador e Experiência do Usuário*, Autopublicação, 2021 — livro completo do Leanpub ou capítulos do Aprender3) em `contexto/`, **priorize sempre o PDF de 2021** e cite `BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021`.
+     - **Se apenas o PDF de 2010** (`Simone_Barbosa_and_Bruno_Silva_Auth_Interação_Humano_computador.pdf`) estiver disponível para aquele capítulo, use o recorte de 2010 e cite obrigatoriamente **`Elsevier, 2010`** (`BARBOSA, S. D. J.; SILVA, B. S. da`). Jamais misture print de uma edição com referência de outra! Veja [acervo-contexto.md](./references/acervo-contexto.md).
 
 4. **Foto legível da página do livro marcando em amarelo o trecho exato:**
    - Todo item deve trazer o recorte real da página da obra de onde saiu o critério, mantendo parágrafos vizinhos e cabeçalho/número de página (quando próximos) para comprovar proveniência, com **marcação amarela estilo marca-texto** exatamente sobre o trecho fundamentador.

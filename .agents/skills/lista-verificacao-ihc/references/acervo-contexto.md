@@ -4,17 +4,18 @@ Este documento cataloga todos os **15 arquivos PDF** presentes em `contexto/` (5
 
 ---
 
-## 1. Regra Crítica de Fidelidade de Edição (Barbosa 2010 vs. Barbosa et al. 2021)
+## 1. Regra Crítica de Prioridade e Fidelidade de Edição (Barbosa et al. 2021 vs. Barbosa & Silva 2010)
 
-> **ATENÇÃO MÁXIMA:** Na pasta `contexto/`, o livro completo disponível em PDF é a **1ª edição de 2010 (Editora Elsevier)**, com 10 capítulos:
-> `Simone_Barbosa_and_Bruno_Silva_Auth_Interação_Humano_computador.pdf`.
+> **REGRA DE OURO:** Sempre execute `destacar_trecho_pdf.py --listar-acervo` ao iniciar uma lista para verificar quais PDFs estão em `contexto/`:
 >
-> Nas listas antigas em `contexto/`, alguns itens usaram prints dessa edição de **2010** (reconhecível pelo logotipo da árvore da **ELSEVIER** no topo esquerdo das páginas ímpares e pelo rodapé/cabeçalho `Capítulo X | ...`), mas citaram no texto a edição de **2021** (*Autopublicação*).
+> 1. **PRIORIDADE 1 — Edição de 2021 (*Autopublicação / Leanpub ou capítulos do Aprender3*):**
+>    Sempre que o PDF de **2021** (livro completo *Interação Humano-Computador e Experiência do Usuário* ou recortes de capítulos disponibilizados no Aprender3/UnB) estiver presente em `contexto/`, **prefira recortar dele** e use a referência oficial completa:
+>    `BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021. ISBN 978-65-00-19677-1.`
 >
-> **Regra obrigatória desta skill:**
-> - Se o recorte de imagem (`PNG`) sair de `Simone_Barbosa_and_Bruno_Silva_Auth_Interação_Humano_computador.pdf`, a referência **DEVE obrigatoriamente citar a edição de 2010 (Elsevier)** e o número da página impressa visível nesse PDF:
->   `BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.`
-> - Só cite `BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021` se o print vier comprovadamente de um PDF da edição de 2021 fornecido à parte.
+> 2. **FALLBACK — Edição de 2010 (*Editora Elsevier*):**
+>    Caso apenas o PDF `Simone_Barbosa_and_Bruno_Silva_Auth_Interação_Humano_computador.pdf` esteja na pasta `contexto/` para o capítulo desejado, extraia o recorte dele e **cite obrigatoriamente a edição de 2010 (Elsevier)** com a página impressa daquela edição:
+>    `BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.`
+>    *(Nunca misture print com logotipo ELSEVIER de 2010 com citação de 2021, nem vice-versa!)*
 
 ---
 

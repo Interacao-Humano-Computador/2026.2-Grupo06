@@ -33,6 +33,8 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
 
+A [lista da Etapa 4](listas/etapa-4.md) reúne os critérios oficiais da Apresentação 4 (com recortes destacados da lista docente) e os dez itens elaborados pelos integrantes do grupo; as respostas registradas nas reuniões encontram-se na [Autoverificação da Etapa 4](grupo-06/etapa-4/lista-verificacao.md) e na [Inspeção da Etapa 4 do Grupo 05](grupo-05/etapa-4/lista-verificacao.md).
+
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
 As listas V1 da [Etapa 6](listas/etapa-6.md) e da [Etapa 7](listas/etapa-7.md) documentam os critérios das primeiras inspeções. As respostas V1 da Etapa 6 estão nas fichas do [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e do [Grupo 05](grupo-05/etapa-6/lista-verificacao.md). As respostas V1 da Etapa 7 estão na [autoinspeção do Grupo 06](grupo-06/etapa-7/lista-verificacao.md) e na [inspeção do Grupo 07](grupo-07/etapa-7/lista-verificacao.md).
@@ -58,6 +60,7 @@ O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 | `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 15/11/2026 | Inclui a lista da Etapa 7 e a ficha de inspeção ainda sem respostas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.9` | 19/11/2026 | Inclusão da lista não preenchida da Etapa 4 no menu de listas de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

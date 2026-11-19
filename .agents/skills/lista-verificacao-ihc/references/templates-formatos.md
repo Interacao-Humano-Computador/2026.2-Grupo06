@@ -117,6 +117,35 @@ Usado quando a página combina a **definição dos itens** com o **resultado de 
 
 ---
 
+## Formato A3 — Padrão Etapa 8 · Lista V2 Oficial (`docs/entrega-8/lista-etapa-X.md`)
+
+Padrão instituído na Etapa 8 (*Verificação dos artefatos*, adaptado da inspeção documental de Fagan, 1976), integrando âncoras `.etapa8-item`, rastreabilidade explícita com a lista V1 e links diretos para as fichas de reinspeção do Grupo 06 (autoinspeção) e do grupo externo (`Grupo 05 [−1]` nas etapas pares; `Grupo 07 [+1]` nas etapas ímpares):
+
+```markdown
+<div class="etapa8-item" id="e4-01"></div>
+
+??? question "E4-01 · [Pergunta V2 autocontida, clara e operacionalizada]?"
+
+    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+
+    **O que conferir.** [Evidência objetiva esperada para Sim, o que caracteriza Incompleto e o que caracteriza Não nos artefatos consultados.]
+
+    **Rastreabilidade na V1.** [Item X](../verificacao/grupo-06/etapa-4/lista-verificacao.md#itens-de-conteudo-da-disciplina) · [mantido / refinado / consolidado / novo].
+
+    ![Barbosa e Silva (2010), p. NNN. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/nome-do-recorte.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. NNN. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-01) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-01).
+```
+
+> **Componentes acoplados da Etapa 8 (`docs/assets/css/etapa-8.css`):**
+> - **Fichas de inspeção (`grupo-06/etapa-X.md` e `grupo-05/etapa-X.md`):** tabela dentro de `<div class="etapa8-resultados" markdown="1">` com `<span id="etapa-4-e4-01"></span>`, selos `<span class="v2-status v2-sim">Sim</span>` / `v2-incompleto` / `v2-nao`, constatação objetiva e links duplos (URL do GitHub Pages + link permanente para o blob/commit com linhas `Lxx–Lyy`), além das seções `## Acompanhamento`, `## Recortes das evidências` e `## Artefatos consultados`.
+> - **Resultados e gráficos (`resultados/etapa-X.md` e `inspecao.md`):** barras horizontais em HTML/CSS puro usando `.v2-grafico`, `.v2-barra-linha`, `.v2-escala` e `.v2-partes` (`style="--total:N"` e `style="--qtd:K"`).
+> - **Conferência histórica (`conferencia-anterior.md`):** cotejo linha a linha entre a `Resposta V1` da reunião original e a `Conferência atual` dentro de `<div class="etapa8-historico" markdown="1">`.
+
+---
+
 ## Formato B — Lista de Verificação Autônoma em PDF (`exportar_lista_pdf.py`)
 
 Usado quando o usuário pedir um **arquivo PDF individual/autônomo** nos moldes dos PDFs da pasta `contexto/` (cabeçalho UnB/FGA, caixa de metadados, opções `( ) Conforme  ( ) Não Conforme  ( ) Não se Aplica`, **`Autor do item: Bruno Ferreira Dornelas`** explícito em cada item, citação ABNT e recorte destacado da página do livro).

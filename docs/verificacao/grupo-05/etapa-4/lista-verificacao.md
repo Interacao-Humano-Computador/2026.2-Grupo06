@@ -16,7 +16,7 @@ A Tabela 1 registra as contribuições na preparação desta lista.
 
 ## Introdução
 
-Esta lista apresenta os resultados da inspeção do Grupo 05 para a Apresentação 4: planejamento da avaliação do Storyboard e da Análise de Tarefas e planejamento dos respectivos relatos dos resultados.
+Esta página apresenta os resultados da inspeção do Grupo 05 para a Apresentação 4: planejamento da avaliação do Storyboard e da Análise de Tarefas e planejamento dos respectivos relatos dos resultados, com base nos critérios definidos na [Lista de verificação da Etapa 4](../../listas/etapa-4.md).
 
 As Tabelas 2 e 3 registram a avaliação realizada em 14/10/2026 sobre os artefatos disponibilizados pelo Grupo 05 (SEMOB-DF). As opções de resposta são **Sim**, **Não** e **Incompleto**.
 
@@ -94,6 +94,7 @@ O Codex (OpenAI) foi utilizado como apoio à transcrição e à formatação dos
 | `1.0` | 13/10/2026 | Prepara a lista da Etapa 4 com 11 itens de desenvolvimento e 12 de conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.1 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.2 | 14/10/2026 | Preenchimento dos resultados e evidências da inspeção da Etapa 4 do Grupo 05 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 19/11/2026 | Vincula a ficha preenchida à lista não preenchida da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
