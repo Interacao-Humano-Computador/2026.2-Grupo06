@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Protótipo acadêmico do Grupo 06: complementos de ideias legislativas no e-Cidadania.">
+  <title>Ideia legislativa · e-Cidadania — protótipo</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="model.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#conteudo">Ir para o conteúdo</a>
+  <div class="prototype-note">Protótipo acadêmico · Grupo 06 / UnB · Dados fictícios · Sem vínculo com serviços reais</div>
+  <header>
+    <div class="institutional">
+      <button id="menu-toggle" class="plain" aria-expanded="false" aria-controls="institutional-menu">☰ <span>Menu</span></button>
+      <a href="#inicio" aria-label="Senado Federal — início do protótipo"><img src="assets/senado.svg" alt="Senado Federal" width="170" height="28"></a>
+      <div class="accessibility"><button class="plain" data-info="Acessibilidade">Acessibilidade</button><button class="plain" id="contrast" aria-label="Alto contraste" aria-pressed="false">◐</button><button class="plain" id="font-up" aria-label="Aumentar fonte">A+</button><button class="plain" id="font-down" aria-label="Diminuir fonte">A−</button><button class="plain contact" data-info="Fale com o Senado">Fale com o Senado ☎</button></div>
+    </div>
+    <nav id="institutional-menu" class="mega" aria-label="Navegação institucional" hidden></nav>
+    <div class="portal-header">
+      <div class="portal-top"><a class="portal-logo" href="#inicio">e-Cidadania</a><form id="header-search" role="search"><label class="sr-only" for="global-query">Buscar no e-Cidadania</label><input id="global-query" name="query" type="search" placeholder="Buscar" required><button aria-label="Pesquisar no portal">⌕</button></form></div>
+      <nav class="portal-nav" aria-label="Navegação e-Cidadania"><button data-info="Sobre o e-Cidadania">Sobre</button><a href="#inicio" class="active">Ideia Legislativa</a><button data-info="Evento Interativo">Evento Interativo</button><button data-info="Consulta Pública">Consulta Pública</button><button data-info="Oficina Legislativa">Oficina Legislativa</button><span id="account-nav"></span><details class="more"><summary>Mais</summary><div><a href="#acompanhamento">Meus complementos</a><button data-info="Perguntas frequentes">Perguntas frequentes</button><button data-info="Como funciona">Como funciona</button></div></details></nav>
+    </div>
+  </header>
+  <div class="container"><nav id="breadcrumb" class="breadcrumb" aria-label="Você está aqui"></nav><main id="conteudo" tabindex="-1"></main></div>
+  <footer><div class="footer-inner"><div class="footer-brand"><img src="assets/senado.svg" alt="Senado Federal" width="170" height="28"><span>Participação que aproxima.</span></div><div class="footer-links"><div><strong>Institucional</strong><button data-info="Câmara dos Deputados">Câmara dos Deputados</button><button data-info="Congresso Nacional">Congresso Nacional</button><button data-info="Tribunal de Contas da União">Tribunal de Contas da União</button></div><div><strong>Serviços</strong><button data-info="Fale com o Senado">Fale com o Senado</button><button data-info="Proteção de dados">Proteção de dados (LGPD)</button><button data-info="Acessibilidade">Acessibilidade</button></div><div><strong>Acompanhe o Senado</strong><button data-info="Redes sociais">Facebook · X · Instagram · YouTube</button><button data-info="Idiomas">English · Español · Français</button><button data-info="Intranet e servidores">Intranet e servidores</button></div></div><p class="address">Senado Federal — Praça dos Três Poderes — Brasília DF — CEP 70165-900 | Telefone: 0800 0 61 2211</p><p class="academic">Estudo de IHC · Complementos são uma proposta do Grupo 06. Nenhuma contribuição é enviada ao Senado. <a href="moderador.html" target="_blank" rel="noopener">Área do moderador</a></p></div></footer>
+  <dialog id="dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div><form method="dialog"><button class="button secondary dialog-close">Fechar</button></form></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>

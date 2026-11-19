@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Ficha de Observação e Ficha de Problemas (Protótipo de Papel)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="nav-bar no-print">
+    <div>
+      <strong>Fichas de Observação (Em Branco)</strong> |
+      <a href="cartoes-tarefa.html">&laquo; Anterior (Cartões)</a>
+      <a href="index.html">Índice</a>
+    </div>
+    <div>Folha 1: Ficha de Execução por Tarefa (Tab. 3) | Folha 2: Ficha de Problemas e Ciclos (Tab. 4)</div>
+  </nav>
+
+  <!-- PÁGINA 1: MODELO DA TABELA 3 (FICHA DE EXECUÇÃO POR TAREFA — EM BRANCO) -->
+  <section class="sheet">
+    <div style="border-bottom: 2px solid #000; padding-bottom: 4px; margin-bottom: 6px; display: flex; justify-content: space-between; align-items: baseline;">
+      <h1 style="font-size: 15px;">FOLHA 1/2 — FICHA DE EXECUÇÃO POR TAREFA (MODELO DA TABELA 3 — EM BRANCO)</h1>
+      <span style="font-size: 11px; font-weight: bold;">Preenchimento pelo Observador</span>
+    </div>
+
+    <!-- Cabeçalho de controle da sessão -->
+    <div style="border: 2px solid #000; padding: 5px 8px; background: #f5f5f5; margin-bottom: 6px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; font-size: 11px;">
+      <div><span class="num">①</span> <strong>Código da Sessão:</strong> ______________<br><span style="font-size: 9.5px;">(PP-PILOTO-H01 ou PP-H01 a H03)</span></div>
+      <div><strong>Data:</strong> ____/____/2026<br><strong>Início / Fim:</strong> ____h____ às ____h____</div>
+      <div><strong>Versão do Protótipo:</strong> _________<br><strong>Local:</strong> _______________________</div>
+      <div><strong>Facilitador/"Computador":</strong> Heitor<br><strong>Observador(a):</strong> _________________</div>
+    </div>
+
+    <div class="content-area" style="padding: 0; gap: 6px;">
+      <table class="wire-table">
+        <thead>
+          <tr>
+            <th style="width: 8%;"><span class="num">②</span> Sessão</th>
+            <th style="width: 6%;">Tarefa</th>
+            <th style="width: 17%;">Conclusão<br><span style="font-weight: normal; font-size: 9.5px;">(Sem ajuda / Com ajuda / Não concluiu)</span></th>
+            <th style="width: 9%;">Tempo aprox.<br><span style="font-weight: normal; font-size: 9.5px;">(mm:ss)</span></th>
+            <th style="width: 20%;">Erros / desvios</th>
+            <th style="width: 14%;">Ajuda dada</th>
+            <th style="width: 18%;">Fala relevante<br><span style="font-weight: normal; font-size: 9.5px;">(entre aspas)</span></th>
+            <th style="width: 8%;">Localizador<br><span style="font-weight: normal; font-size: 9.5px;">(mm:ss)</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="blank-row">
+            <td></td>
+            <td><strong>T1</strong></td>
+            <td>( ) Sem ajuda<br>( ) Com ajuda<br>( ) Não concluiu</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row">
+            <td></td>
+            <td><strong>T2</strong></td>
+            <td>( ) Sem ajuda<br>( ) Com ajuda<br>( ) Não concluiu</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row">
+            <td></td>
+            <td><strong>T3</strong></td>
+            <td>( ) Sem ajuda<br>( ) Com ajuda<br>( ) Não concluiu</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row">
+            <td></td>
+            <td><strong>T4</strong></td>
+            <td>( ) Sem ajuda<br>( ) Com ajuda<br>( ) Não concluiu</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td>( ) Sem ajuda<br>( ) Com ajuda<br>( ) Não concluiu</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Registro separado para falhas da simulação -->
+      <div class="card" style="min-height: 22mm;">
+        <div style="font-weight: bold; font-size: 11px; border-bottom: 1px solid #000; padding-bottom: 2px;">
+          <span class="num">③</span> Falhas da simulação (ex.: folha errada mostrada pelo "computador" — marcadas à parte; não contam como problema da interface):
+        </div>
+        <div style="height: 14mm;"></div>
+      </div>
+    </div>
+
+    <footer class="sheet-footer">
+      <div class="sheet-footer-top">
+        <span>PEÇA: Ficha de Execução por Tarefa (Folha 1/2 — Modelo em branco da Tabela 3)</span>
+        <span>RASTREABILIDADE: Planejamento do Relato dos Resultados do Protótipo de Papel (Tabela 3)</span>
+      </div>
+      <div class="draw-notes">
+        <strong>Instruções de uso:</strong> Imprimir 1 via para o piloto (<code>PP-PILOTO-H01</code>, mantido em separado) e 1 via para cada sessão principal (<code>PP-H01</code> a <code>PP-H03</code>). Passar a limpo no mesmo dia.
+      </div>
+    </footer>
+  </section>
+
+  <!-- PÁGINA 2: MODELO DA TABELA 4 (FICHA DE PROBLEMAS E CONTROLE DE CICLOS — EM BRANCO) -->
+  <section class="sheet">
+    <div style="border-bottom: 2px solid #000; padding-bottom: 4px; margin-bottom: 6px; display: flex; justify-content: space-between; align-items: baseline;">
+      <h1 style="font-size: 15px;">FOLHA 2/2 — FICHA DE PROBLEMAS E CONTROLE DE CICLOS (MODELO DA TABELA 4 — EM BRANCO)</h1>
+      <span style="font-size: 11px; font-weight: bold;">Preenchimento pelo Observador / Consolidação</span>
+    </div>
+
+    <div class="content-area" style="padding: 0; gap: 6px;">
+      <table class="wire-table">
+        <thead>
+          <tr>
+            <th style="width: 6%;"><span class="num">①</span> ID</th>
+            <th style="width: 8%;">Tela / tarefa</th>
+            <th style="width: 16%;">Descrição do problema</th>
+            <th style="width: 13%;">Consequência</th>
+            <th style="width: 12%;">Princípio ou meta afetada</th>
+            <th style="width: 8%;">Sessões em que ocorreu</th>
+            <th style="width: 9%;">Prioridade<br><span style="font-weight: normal; font-size: 9px;">(Alta / Média / Baixa)</span></th>
+            <th style="width: 9%;">Situação<br><span style="font-weight: normal; font-size: 9px;">(Corrigido / Pendente)</span></th>
+            <th style="width: 11%;">Correção feita</th>
+            <th style="width: 8%;">Voltou a ocorrer?<br><span style="font-weight: normal; font-size: 9px;">(Sim / Não / Não retestado)</span></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-01</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-02</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-03</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-04</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-05</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="blank-row" style="height: 28px;">
+            <td>PPP-06</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Critérios de prioridade da Tabela 5 para consulta rápida -->
+      <div class="card" style="padding: 5px 8px; font-size: 10.5px;">
+        <strong><span class="num">②</span> Critérios de Prioridade (Tabela 5 do Planejamento do Relato):</strong><br>
+        • <strong>Alta:</strong> Impede concluir a tarefa ou faz a pergunta ir para o destino errado (ex.: enviar como comentário).<br>
+        • <strong>Média:</strong> A tarefa é concluída, mas com ajuda, erro recuperado ou hesitação longa.<br>
+        • <strong>Baixa:</strong> Incômodo ou dúvida de vocabulário que não afeta a conclusão.<br>
+        <em>Nota metodológica: Uma correção feita depois da última sessão é registrada como <strong>"Não retestado"</strong> (não é chamada de validada).</em>
+      </div>
+    </div>
+
+    <footer class="sheet-footer">
+      <div class="sheet-footer-top">
+        <span>PEÇA: Ficha de Problemas e Controle de Ciclos (Folha 2/2 — Modelo em branco da Tabela 4)</span>
+        <span>RASTREABILIDADE: Planejamento do Relato dos Resultados do Protótipo de Papel (Tabelas 4 e 5) · Barbosa e Silva (2010, p. 361–362)</span>
+      </div>
+      <div class="draw-notes">
+        <strong>Instruções de uso:</strong> Preencher a cada problema observado nas sessões e registrar se houve correção no papel entre uma sessão e outra.
+      </div>
+    </footer>
+  </section>
+</body>
+</html>
+
