@@ -40,8 +40,9 @@ Nenhum item pode ser entregue sem cumprir simultaneamente estes quatro requisito
 ### Passo 1 — Definir escopo e formato de saída
 1. Identifique o artefato ou etapa de IHC a ser verificado (ex.: *Perfil de Usuário, Personas, Elenco de Personas, Cenários, HTA, CTT, Guia de Estilo, Storyboard, Protótipo em Papel, Planejamento DECIDE, Relato de Avaliação, Protótipo de Alta Fidelidade / Teste de Usabilidade*).
 2. Escolha o formato de saída apropriado conforme [templates-formatos.md](./references/templates-formatos.md):
-   - **Formato A1 (MkDocs `??? question`):** padrão para listas em `docs/verificacao/listas/` e `docs/entrega-8/`.
+   - **Formato A1 (MkDocs `??? question`):** padrão para listas em `docs/verificacao/listas/`.
    - **Formato A2 (MkDocs seções abertas + tabela de inspeção):** padrão para `docs/verificacao/grupo-06/etapa-*/`.
+   - **Formato A3 (Padrão Etapa 8 · Lista V2 e Reinspeção Fagan):** padrão para `docs/entrega-8/lista-etapa-*.md`, fichas por grupo e gráficos `.v2-grafico` — consulte também o guia completo em [contexto-etapa-8.md](../../rules/contexto-etapa-8.md).
    - **Formato B (PDF acadêmico autônomo UnB/FGA):** gerado via [exportar_lista_pdf.py](./scripts/exportar_lista_pdf.py) quando o usuário pedir PDF individual.
 3. Para listas com **15 ou mais itens**, organize os itens em **seções temáticas numeradas** (ou *Parte A — Artefato* e *Parte B — Planejamento/Avaliação*).
 
