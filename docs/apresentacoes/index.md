@@ -31,7 +31,7 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | [Caio](https://youtu.be/vaXEtY_bNgE); demais a publicar | Um vídeo por integrante | [Etapa 6](etapa-06.md) |
 | 7 | 17/11/2026 | [Caio](https://youtu.be/xpPGuxcD86I); demais a publicar | Um vídeo por integrante | [Etapa 7](etapa-07.md) |
-| 8 | 24/11/2026 | — | — | — |
+| 8 | 24/11/2026 | Pendente | A confirmar na gravação | [Vídeo e roteiro da Etapa 8](../entrega-8/inspecao.md#video-e-roteiro) |
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
 <p class="caption">Tabela 2 — Vídeos de apresentação do projeto.</p>

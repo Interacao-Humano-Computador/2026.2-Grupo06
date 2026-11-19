@@ -7,6 +7,8 @@ Entrega em 22/11/2026; inspeção em 23/11; apresentação em 24/11.
 
 Artefatos previstos: verificação do próprio grupo e do Grupo +1, com evidência no GitHub Pages.
 
+[Acessar a Etapa 8](../entrega-8/index.md){ .md-button .md-button--primary }
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

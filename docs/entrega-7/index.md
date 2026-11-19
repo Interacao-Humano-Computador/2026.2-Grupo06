@@ -33,6 +33,7 @@ A Etapa 7 reúne o **relato dos resultados da avaliação do protótipo de alta 
 [Israel Soares — Agendamento de visita ao Senado](individual/israel/index.md){ .md-button .md-button--primary }
 [Luís Henrique — Vaga em plenária](individual/luis/index.md){ .md-button }
 [Apresentação da etapa](../apresentacoes/etapa-07.md){ .md-button }
+[Lista de verificação V2](../entrega-8/lista-etapa-7.md){ .md-button }
 
 </div>
 
@@ -53,7 +54,7 @@ A Tabela 2 relaciona o que precisa ser consultado nesta etapa.
 | Objetivos, método, participantes, tarefas e resultados | [Relato consolidado de Bruno](individual/bruno/relato-alta-fidelidade.md) | [Relato de Caio](individual/caio/relato-alta-fidelidade.md) | [Relato de Heitor](individual/heitor/relato-alta-fidelidade.md) | [Relato de Israel](individual/israel/relato-alta-fidelidade.md) | [Relato de Luís](individual/luis/relato-alta-fidelidade.md) |
 | Gravações e localizadores das evidências | [Vídeos e evidências de Bruno](individual/bruno/evidencias.md) | [Registros audiovisuais](individual/caio/evidencias.md) | [Vídeos e evidências de Heitor](individual/heitor/evidencias.md) | [Registros audiovisuais](individual/israel/evidencias.md) | [Registros audiovisuais](individual/luis/evidencias.md) |
 | Problemas, propostas e pendências de reteste | [Matriz de problemas e reprojeto](individual/bruno/relato-alta-fidelidade.md#5-problemas-e-decisoes-de-reprojeto) | [Decisões de reprojeto](individual/caio/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto) | [Matriz de problemas AF-PR](individual/heitor/relato-alta-fidelidade.md#6-matriz-de-problemas-e-decisoes-de-reprojeto) | [Triagem de Steve Krug](individual/israel/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto-triagem-de-steve-krug) | [Decisões de reprojeto](individual/luis/relato-alta-fidelidade.md#problemas-e-decisoes-de-reprojeto) |
-| Critérios de entrega | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) | [Lista de conferência](../verificacao/listas/etapa-7.md) |
+| Critérios para a reinspeção | [Lista V2](../entrega-8/lista-etapa-7.md) | [Lista V2](../entrega-8/lista-etapa-7.md) | [Lista V2](../entrega-8/lista-etapa-7.md) | [Lista V2](../entrega-8/lista-etapa-7.md) | [Lista V2](../entrega-8/lista-etapa-7.md) |
 | Vídeo de apresentação do artefato | [Apresentação de Bruno](../apresentacoes/etapa-07.md#bruno-ferreira-dornelas) | [Apresentação de Caio](../apresentacoes/etapa-07.md#caio-breno-de-souza-bezerra) | [Apresentação de Heitor](../apresentacoes/etapa-07.md#heitor-pinheiro-goncalves-das-chagas) | [Apresentação de Israel](../apresentacoes/etapa-07.md#israel-soares-de-paiva) | [Apresentação de Luís](../apresentacoes/etapa-07.md#luis-henrique-arruda-luna) |
 
 <p class="caption">Tabela 2 — Acessos da Etapa 7.</p>

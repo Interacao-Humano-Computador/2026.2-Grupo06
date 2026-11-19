@@ -1,6 +1,9 @@
 <span class="owner">Responsável: Caio Breno de Souza Bezerra · Autor do item: Caio Breno de Souza Bezerra</span>
 
-# Lista de verificação — Etapa 6
+# Lista de verificação — Etapa 6 · V1
+
+!!! warning "V1 desatualizada"
+    A [Lista V2 da Etapa 6](../../entrega-8/lista-etapa-6.md) é a versão oficial para a reinspeção da Etapa 8. Esta página preserva os critérios usados nas primeiras inspeções. Cada pergunta aponta para seu correspondente na V2 ou para o registro de como foi reorganizada. Consulte também a [conferência das respostas V1](../../entrega-8/conferencia-anterior.md).
 
 ## Tabela de contribuição
 
@@ -9,6 +12,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Elaboração e organização dos critérios da Etapa 6 | [Conteúdo](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Sinalização da V1 e registro dos vínculos de cada critério com a V2 oficial | [Lista V2](../../entrega-8/lista-etapa-6.md) · [Conferência das respostas V1](../../entrega-8/conferencia-anterior.md) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -30,6 +34,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D01 — O histórico de versão está padronizado?"
 
+    **Rastreabilidade na V2.** [D01](../../entrega-8/lista-etapa-6.md#d01).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir versão, data, descrição, autor e revisor em cada artefato.
@@ -43,6 +49,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d02"></span>
 
 ??? question "D02 — Os autores e revisores estão identificados, com revisão efetivamente registrada?"
+
+    **Rastreabilidade na V2.** [D02](../../entrega-8/lista-etapa-6.md#d02).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -58,6 +66,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D03 — Há referências bibliográficas em todos os artefatos?"
 
+    **Rastreabilidade na V2.** [D03](../../entrega-8/lista-etapa-6.md#d03).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Verificar correspondência entre citações, edição, página e referência.
@@ -71,6 +81,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d04"></span>
 
 ??? question "D04 — As tabelas e figuras têm número, legenda, fonte e chamada no texto?"
+
+    **Rastreabilidade na V2.** [D04](../../entrega-8/lista-etapa-6.md#d04).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -86,6 +98,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D05 — Os artefatos têm introdução que esclarece objetivo e escopo?"
 
+    **Rastreabilidade na V2.** [D05](../../entrega-8/lista-etapa-6.md#d05).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Verificar vínculo com a funcionalidade e com as etapas anteriores.
@@ -99,6 +113,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d06"></span>
 
 ??? question "D06 — O cronograma executado registra quem fez cada atividade e suas datas reais?"
+
+    **Rastreabilidade na V2.** [D06](../../entrega-8/lista-etapa-6.md#d06).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -114,6 +130,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D07 — Há atas das reuniões da etapa, com data, horários, pessoas e decisões?"
 
+    **Rastreabilidade na V2.** [D07](../../entrega-8/lista-etapa-6.md#d07).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir em Registros → Atas; lista de verificação não substitui ata.
@@ -127,6 +145,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d08"></span>
 
 ??? question "D08 — As gravações das reuniões e inspeções realizadas estão acessíveis e autorizadas?"
+
+    **Rastreabilidade na V2.** [D08](../../entrega-8/lista-etapa-6.md#d08).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -142,6 +162,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D09 — O vídeo da apresentação da Etapa 6 está acessível na categoria prevista pelo grupo?"
 
+    **Rastreabilidade na V2.** [D09](../../entrega-8/lista-etapa-6.md#d09).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir link, participantes e conteúdo dos quatro artefatos; não usar vídeo antigo como evidência.
@@ -156,6 +178,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D10 — A contribuição aparece no início de cada artefato e corresponde a quem atuou nele?"
 
+    **Rastreabilidade na V2.** [D10](../../entrega-8/lista-etapa-6.md#d10).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Não atribuir contribuição ou autoria a integrante apenas por pertencer ao grupo.
@@ -169,6 +193,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d11"></span>
 
 ??? question "D11 — O uso de IA está identificado na contribuição e nos agradecimentos?"
+
+    **Rastreabilidade na V2.** [D11](../../entrega-8/lista-etapa-6.md#d11).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -189,6 +215,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C01 — Os três artefatos da Etapa 6 estão disponíveis por integrante e funcionalidade?"
 
+    **Rastreabilidade na V2.** [E6-01](../../entrega-8/lista-etapa-6.md#e6-01).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Relato do papel; planejamento da avaliação de alta fidelidade; planejamento do relato.
@@ -202,6 +230,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c02"></span>
 
 ??? question "E6-C02 — O relato do papel explicita objetivos, método, quantidade e perfil das pessoas e tarefas executadas?"
+
+    **Rastreabilidade na V2.** [E6-02](../../entrega-8/lista-etapa-6.md#e6-02).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -217,6 +247,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C03 — As ações, dificuldades, erros e opiniões do participante têm evidência localizável?"
 
+    **Rastreabilidade na V2.** [E6-03](../../entrega-8/lista-etapa-6.md#e6-03).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir tarefa, tela, fala ou paráfrase, ajuda e minuto do vídeo ou código da nota.
@@ -230,6 +262,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c04"></span>
 
 ??? question "E6-C04 — Os problemas corrigidos no papel indicam local, fator afetado, justificativa, correção e recorrência?"
+
+    **Rastreabilidade na V2.** [E6-04](../../entrega-8/lista-etapa-6.md#e6-04).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -245,6 +279,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C05 — Os problemas pendentes indicam local, fator, descrição, justificativa, prioridade e sugestão?"
 
+    **Rastreabilidade na V2.** [E6-05](../../entrega-8/lista-etapa-6.md#e6-05).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** A prioridade deve corresponder à consequência e à frequência observadas.
@@ -258,6 +294,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c06"></span>
 
 ??? question "E6-C06 — As conclusões do papel respondem às perguntas e mostram o destino de cada decisão de reprojeto?"
+
+    **Rastreabilidade na V2.** [E6-06](../../entrega-8/lista-etapa-6.md#e6-06).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -273,6 +311,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C07 — O planejamento de alta fidelidade cobre as seis atividades do DECIDE?"
 
+    **Rastreabilidade na V2.** [E6-07](../../entrega-8/lista-etapa-6.md#e6-07).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Objetivos, perguntas, método, prática, ética e interpretação/apresentação.
@@ -286,6 +326,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c08"></span>
 
 ??? question "E6-C08 — A escolha do teste de usabilidade está explicada e ligada aos objetivos?"
+
+    **Rastreabilidade na V2.** [E6-07](../../entrega-8/lista-etapa-6.md#e6-07).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -301,6 +343,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C09 — O perfil, recrutamento, quantidade de participantes e sua justificativa estão definidos?"
 
+    **Rastreabilidade na V2.** [E6-08](../../entrega-8/lista-etapa-6.md#e6-08).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Registrar experiência e exposição anterior; não inferir representatividade pela quantidade.
@@ -314,6 +358,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c10"></span>
 
 ??? question "E6-C10 — Os enunciados, dados, estados iniciais e critérios de conclusão das tarefas estão prontos?"
+
+    **Rastreabilidade na V2.** [E6-09](../../entrega-8/lista-etapa-6.md#e6-09).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -329,6 +375,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C11 — A agenda informa data, horário, local, duração, equipe, equipamentos e orçamento?"
 
+    **Rastreabilidade na V2.** [E6-10](../../entrega-8/lista-etapa-6.md#e6-10).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir viabilidade, confirmação de pessoas e tempo de análise antes da Etapa 7.
@@ -342,6 +390,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c12"></span>
 
 ??? question "E6-C12 — O piloto tem definição, pessoa distinta, data anterior à coleta e registro separado?"
+
+    **Rastreabilidade na V2.** [E6-11](../../entrega-8/lista-etapa-6.md#e6-11).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -357,6 +407,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C13 — O consentimento cobre participação, gravação, disponibilização, privacidade e desistência?"
 
+    **Rastreabilidade na V2.** [E6-12](../../entrega-8/lista-etapa-6.md#e6-12).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Termo e contato privados; dados fictícios; explicar acesso ao vídeo por link.
@@ -370,6 +422,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c14"></span>
 
 ??? question "E6-C14 — Os instrumentos permitem registrar desempenho e opinião por tarefa?"
+
+    **Rastreabilidade na V2.** [E6-13](../../entrega-8/lista-etapa-6.md#e6-13).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -385,6 +439,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C15 — As medidas e os critérios de análise são definidos antes da coleta e ligados às metas?"
 
+    **Rastreabilidade na V2.** [E6-13](../../entrega-8/lista-etapa-6.md#e6-13).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Definir sucesso, ajuda, tempo, pausas, erros críticos, escala e indicadores não avaliados.
@@ -398,6 +454,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c16"></span>
 
 ??? question "E6-C16 — O planejamento do relato contempla objetivos, método, pessoas, tarefas, medições e problemas?"
+
+    **Rastreabilidade na V2.** [E6-14](../../entrega-8/lista-etapa-6.md#e6-14).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -413,6 +471,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C17 — Há regra para interpretar evidências, priorizar correções e controlar versões e retestes?"
 
+    **Rastreabilidade na V2.** [E6-15](../../entrega-8/lista-etapa-6.md#e6-15).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Separar ação, fala e inferência; registrar causa proposta e evidências divergentes.
@@ -426,6 +486,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 <span id="e6-c18"></span>
 
 ??? question "E6-C18 — Os limites da amostra, do material e do procedimento estão explícitos nas conclusões?"
+
+    **Rastreabilidade na V2.** [E6-15](../../entrega-8/lista-etapa-6.md#e6-15).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -441,6 +503,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C19 — O protótipo e os materiais avaliados estão identificados e acessíveis na versão do teste?"
 
+    **Rastreabilidade na V2.** [E6-16](../../entrega-8/lista-etapa-6.md#e6-16).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Abrir o fluxo completo, conferir dados fictícios e registrar versão ou commit usado.
@@ -455,6 +519,8 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ??? question "E6-C20 — Cada item de conteúdo tem pergunta, autor, referência e imagem legível da fonte?"
 
+    **Rastreabilidade na V2.** [Conferência da lista](../../entrega-8/lista-etapa-6.md#conferencia-da-lista).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir vínculo entre o critério e o trecho da fonte; não apresentar só uma tabela de respostas.
@@ -468,7 +534,7 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão dos critérios da V1 ficou a cargo de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -477,6 +543,7 @@ A Tabela 2 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração dos critérios de verificação da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 19/11/2026 | Identifica a V1 como desatualizada e liga os critérios à V2 oficial. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

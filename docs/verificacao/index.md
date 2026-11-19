@@ -25,6 +25,8 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
+As listas V2 oficiais, as reinspeções e a conferência das respostas V1 das Etapas 6 e 7 estão na [Etapa 8](../entrega-8/index.md).
+
 A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
 - **Verificação do Grupo 06:** inspeção dos próprios artefatos produzidos pelo grupo, realizada de forma cruzada entre os integrantes.
@@ -33,7 +35,7 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
-As listas das [Etapas 5](listas/etapa-5.md), [6](listas/etapa-6.md) e [7](listas/etapa-7.md) apresentam perguntas com autor, referência e imagem da fonte. As respostas da Etapa 6 estão nas tabelas de inspeção do [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e do [Grupo 05](grupo-05/etapa-6/lista-verificacao.md). A Etapa 7 reúne a [autoinspeção do Grupo 06](grupo-06/etapa-7/lista-verificacao.md) e a [inspeção do Grupo 07](grupo-07/etapa-7/lista-verificacao.md), com respostas em tabela e vídeos das reuniões.
+As listas V1 da [Etapa 6](listas/etapa-6.md) e da [Etapa 7](listas/etapa-7.md) documentam os critérios das primeiras inspeções. As respostas V1 da Etapa 6 estão nas fichas do [Grupo 06](grupo-06/etapa-6/lista-verificacao.md) e do [Grupo 05](grupo-05/etapa-6/lista-verificacao.md). As respostas V1 da Etapa 7 estão na [autoinspeção do Grupo 06](grupo-06/etapa-7/lista-verificacao.md) e na [inspeção do Grupo 07](grupo-07/etapa-7/lista-verificacao.md).
 
 ## Agradecimentos
 

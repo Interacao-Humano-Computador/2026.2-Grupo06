@@ -1,6 +1,9 @@
 <span class="owner">Responsável: Caio Breno de Souza Bezerra · Autor do item: Caio Breno de Souza Bezerra</span>
 
-# Lista de verificação — Etapa 7
+# Lista de verificação — Etapa 7 · V1
+
+!!! warning "V1 desatualizada"
+    A [Lista V2 da Etapa 7](../../entrega-8/lista-etapa-7.md) é a versão oficial para a reinspeção da Etapa 8. Esta página preserva os critérios usados nas primeiras inspeções. Cada pergunta aponta para seu correspondente na V2 ou para o registro de como foi reorganizada. Consulte também a [conferência das respostas V1](../../entrega-8/conferencia-anterior.md).
 
 ## Tabela de contribuição
 
@@ -9,6 +12,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Elaboração dos critérios da Etapa 7 | [Conteúdo](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Sinalização da V1 e registro dos vínculos de cada critério com a V2 oficial | [Lista V2](../../entrega-8/lista-etapa-7.md) · [Conferência das respostas V1](../../entrega-8/conferencia-anterior.md) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica e à organização da lista da Etapa 6, reutilizada como modelo | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Apoio à consulta bibliográfica, redação e organização | [Agradecimentos](#agradecimentos) |
 
@@ -29,6 +33,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D01 — O histórico de versão está padronizado?"
 
+    **Rastreabilidade na V2.** [D01](../../entrega-8/lista-etapa-7.md#d01).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir versão, data, descrição, autor e revisor em cada artefato da Etapa 7.
@@ -42,6 +48,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d02"></span>
 
 ??? question "D02 — Os autores e revisores estão identificados, com revisão efetivamente registrada?"
+
+    **Rastreabilidade na V2.** [D02](../../entrega-8/lista-etapa-7.md#d02).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -57,6 +65,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D03 — Há referências bibliográficas em todos os artefatos?"
 
+    **Rastreabilidade na V2.** [D03](../../entrega-8/lista-etapa-7.md#d03).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Verificar correspondência entre citações, edição, página e referência.
@@ -70,6 +80,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d04"></span>
 
 ??? question "D04 — As tabelas e figuras têm número, legenda, fonte e chamada no texto?"
+
+    **Rastreabilidade na V2.** [D04](../../entrega-8/lista-etapa-7.md#d04).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -85,6 +97,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D05 — Os artefatos têm introdução que esclarece objetivo e escopo?"
 
+    **Rastreabilidade na V2.** [D05](../../entrega-8/lista-etapa-7.md#d05).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Verificar vínculo com a funcionalidade, com o protótipo de papel e com o planejamento da Etapa 6.
@@ -98,6 +112,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d06"></span>
 
 ??? question "D06 — O cronograma executado registra quem fez cada atividade e suas datas reais?"
+
+    **Rastreabilidade na V2.** [D06](../../entrega-8/lista-etapa-7.md#d06).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -113,6 +129,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D07 — Há atas das reuniões da etapa, com data, horários, pessoas e decisões?"
 
+    **Rastreabilidade na V2.** [D07](../../entrega-8/lista-etapa-7.md#d07).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir em Registros → Atas; lista de verificação não substitui ata.
@@ -126,6 +144,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d08"></span>
 
 ??? question "D08 — As gravações das reuniões e inspeções realizadas estão acessíveis e autorizadas?"
+
+    **Rastreabilidade na V2.** [D08](../../entrega-8/lista-etapa-7.md#d08).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -141,6 +161,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D09 — O vídeo da apresentação da Etapa 7 está acessível na categoria prevista pelo grupo?"
 
+    **Rastreabilidade na V2.** [D09](../../entrega-8/lista-etapa-7.md#d09).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir link não listado, autor do artefato e conteúdo do relato. Não usar a gravação da sessão com participante como apresentação.
@@ -155,6 +177,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 
 ??? question "D10 — A contribuição aparece no início de cada artefato e corresponde a quem atuou nele?"
 
+    **Rastreabilidade na V2.** [D10](../../entrega-8/lista-etapa-7.md#d10).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Não atribuir contribuição ou autoria a integrante apenas por pertencer ao grupo.
@@ -168,6 +192,8 @@ O plano de ensino, p. 8–9 do PDF, é a fonte das perguntas D01–D11.
 <span id="d11"></span>
 
 ??? question "D11 — O uso de IA está identificado na contribuição e nos agradecimentos?"
+
+    **Rastreabilidade na V2.** [D11](../../entrega-8/lista-etapa-7.md#d11).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -187,6 +213,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C01 — O relato dos resultados da avaliação do protótipo de alta fidelidade está disponível por integrante?"
 
+    **Rastreabilidade na V2.** [E7-01](../../entrega-8/lista-etapa-7.md#e7-01).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Cada autor apresenta o próprio relato, com acesso ao protótipo avaliado e às gravações. Não substituir o relato pelo planejamento da Etapa 6.
@@ -200,6 +228,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c02"></span>
 
 ??? question "E7-C02 — O relato descreve os objetivos e o escopo da avaliação?"
+
+    **Rastreabilidade na V2.** [E7-02](../../entrega-8/lista-etapa-7.md#e7-02).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -215,6 +245,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C03 — Há uma descrição breve do método de teste de usabilidade efetivamente usado?"
 
+    **Rastreabilidade na V2.** [E7-03](../../entrega-8/lista-etapa-7.md#e7-03).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Modalidade, quem moderou, quem observou, como a pessoa controlou a interface e como a opinião foi recolhida. Distinguir observação de tarefa de opinião solta sobre telas.
@@ -228,6 +260,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c04"></span>
 
 ??? question "E7-C04 — O número e o perfil dos avaliadores e dos participantes estão descritos?"
+
+    **Rastreabilidade na V2.** [E7-04](../../entrega-8/lista-etapa-7.md#e7-04).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -243,6 +277,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C05 — As tarefas executadas e os resultados estão registrados por pessoa?"
 
+    **Rastreabilidade na V2.** [E7-05](../../entrega-8/lista-etapa-7.md#e7-05).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Enunciado ou objetivo, estado inicial, conclusão, ajuda e o que não foi executado. Não somar ângulos de gravação como se fossem pessoas diferentes.
@@ -256,6 +292,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c06"></span>
 
 ??? question "E7-C06 — Desempenho e opinião têm evidência localizável na gravação?"
+
+    **Rastreabilidade na V2.** [E7-06](../../entrega-8/lista-etapa-7.md#e7-06).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -271,6 +309,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C07 — As medições são resumidas com denominador, e a ausência de dado não vira zero?"
 
+    **Rastreabilidade na V2.** [E7-07](../../entrega-8/lista-etapa-7.md#e7-07).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Contagem por pessoa e tarefa. Nota não coletada, tempo não cronometrado e tarefa não executada ficam explícitos. Duração do arquivo não substitui tempo ativo.
@@ -284,6 +324,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c08"></span>
 
 ??? question "E7-C08 — Cada problema indica local, descrição, justificativa, fator de usabilidade e sugestão?"
+
+    **Rastreabilidade na V2.** [E7-08](../../entrega-8/lista-etapa-7.md#e7-08).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -299,6 +341,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C09 — Sugestão de correção está separada de correção retestada?"
 
+    **Rastreabilidade na V2.** [E7-09](../../entrega-8/lista-etapa-7.md#e7-09).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** A versão avaliada permanece identificável. Proposta sem nova execução fica não retestada. “Corrigido” não significa “validado”.
@@ -312,6 +356,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c10"></span>
 
 ??? question "E7-C10 — O resultado do piloto está fora dos resultados da sessão principal?"
+
+    **Rastreabilidade na V2.** [E7-10](../../entrega-8/lista-etapa-7.md#e7-10).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -327,6 +373,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C11 — O consentimento cobre participação, gravação e disponibilização do vídeo?"
 
+    **Rastreabilidade na V2.** [E7-11](../../entrega-8/lista-etapa-7.md#e7-11).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Autorização antes da gravação, explicação do link não listado e ausência de dados pessoais no relato. Termo e contato ficam fora do repositório.
@@ -340,6 +388,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c12"></span>
 
 ??? question "E7-C12 — O protótipo avaliado está identificado e acessível na versão do teste?"
+
+    **Rastreabilidade na V2.** [E7-12](../../entrega-8/lista-etapa-7.md#e7-12).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -355,6 +405,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C13 — As conclusões explicitam os limites da amostra, do material e do procedimento?"
 
+    **Rastreabilidade na V2.** [E7-13](../../entrega-8/lista-etapa-7.md#e7-13).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Não declarar meta populacional, superioridade sobre o serviço oficial nem validação do que não foi executado. Tarefa incompleta permanece incompleta.
@@ -368,6 +420,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 <span id="e7-c14"></span>
 
 ??? question "E7-C14 — As gravações da avaliação estão acessíveis, não listadas e distintas da apresentação?"
+
+    **Rastreabilidade na V2.** [E7-14](../../entrega-8/lista-etapa-7.md#e7-14).
 
     **Autor do item:** Caio Breno de Souza Bezerra.
 
@@ -383,6 +437,8 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ??? question "E7-C15 — Cada item de conteúdo tem autor, referência e imagem legível da fonte?"
 
+    **Rastreabilidade na V2.** [Conferência da lista](../../entrega-8/lista-etapa-7.md#conferencia-da-lista).
+
     **Autor do item:** Caio Breno de Souza Bezerra.
 
     **O que conferir:** Conferir vínculo entre o critério e o trecho da fonte. Não apresentar só uma tabela de respostas.
@@ -395,7 +451,7 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ## Agradecimentos
 
-Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão dos critérios da V1 ficou a cargo de [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
 ## Histórico de versão
 
@@ -405,6 +461,7 @@ A Tabela 2 registra a versão deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 11/11/2026 | Critérios iniciais de conferência do relato de Caio | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `2.0` | 15/11/2026 | Reorganiza a lista no modelo da Etapa 6, com perguntas, fontes e ficha de inspeção em branco | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.1` | 19/11/2026 | Identifica a V1 como desatualizada e liga os critérios à V2 oficial. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

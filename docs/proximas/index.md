@@ -12,7 +12,7 @@ As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa
 | [5, aberta](../entrega-5/index.md) | 25/10/2026 | Relatos das avaliações anteriores + planejamentos individuais da avaliação e do relato do protótipo de papel |
 | [6](../entrega-6/index.md) | 03/11/2026 | Relato do papel + planejamento da alta fidelidade |
 | [7, aberta](../entrega-7/index.md) | 15/11/2026 | Relato da alta fidelidade |
-| [8](etapa-08.md) | 22/11/2026 | Verificação dos artefatos |
+| [8, aberta](../entrega-8/index.md) | 22/11/2026 | Listas V2 e reinspeção dos artefatos |
 | [Final](entrega-final.md) | 30/11/2026 | Sínteses, tabelas e vídeo de 20 a 30 minutos |
 
 <p class="caption">Tabela 1 — Entregas seguintes ao planejamento.</p>

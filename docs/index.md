@@ -15,7 +15,7 @@ hide:
 <p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal do Senado Federal.</p>
 
 <p class="actions">
-<a class="btn btn-gold" href="entrega-7/">Abrir a Etapa 7</a>
+<a class="btn btn-gold" href="entrega-8/">Abrir a Etapa 8</a>
 <a class="btn btn-ghost" href="equipe/">Ver a equipe</a>
 </p>
 
@@ -30,11 +30,11 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Etapa 7">
-  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 7</p>
-  <div><b>15/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>16/11</b><span>Inspeção pelo Grupo +1</span></div>
-  <div><b>17/11</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da Etapa 8">
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 8</p>
+  <div><b>22/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
+  <div><b>23/11</b><span>Inspeção pelo Grupo +1</span></div>
+  <div><b>24/11</b><span>Apresentação em aula</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -74,11 +74,17 @@ hide:
     <strong>Papel e alta fidelidade</strong>
     <span>Relato do papel, planos de avaliação e acesso aos protótipos.</span>
   </a>
-  <a class="tile tile-featured" href="entrega-7/">
+  <a class="tile" href="entrega-7/">
     <span class="tile-icon ico" data-icon="file-document-multiple-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 7</span>
     <strong>Resultados da alta fidelidade</strong>
     <span>Relato da avaliação, vídeos, resultados e decisões de reprojeto.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-8/">
+    <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
+    <span class="tile-kicker">Etapa 8</span>
+    <strong>Verificação dos artefatos</strong>
+    <span>Listas V2, reinspeção das Etapas 6 e 7 e gráficos dos três grupos.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
@@ -108,13 +114,13 @@ hide:
   <a class="tile" href="proximas/">
     <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
     <strong>Próximas etapas</strong>
-    <span>Etapa 8 e entrega final.</span>
+    <span>Calendário e entrega final.</span>
   </a>
 </nav>
 
 ## Introdução
 
-O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 7](entrega-7/index.md) reúne os resultados da avaliação da alta fidelidade. A [Etapa 6](entrega-6/index.md) mantém o relato do papel e os planejamentos. Acesse também os [artefatos anteriores](entrega-5/index.md), as [listas de verificação](verificacao/index.md) e os [vídeos das apresentações](apresentacoes/index.md).
+O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 8](entrega-8/index.md) reúne as listas V2 e a verificação dos artefatos de papel e alta fidelidade. A [Etapa 7](entrega-7/index.md) reúne os resultados da avaliação da alta fidelidade. A [Etapa 6](entrega-6/index.md) mantém o relato do papel e os planejamentos. Consulte também o [histórico de verificação](verificacao/index.md) e as [apresentações](apresentacoes/index.md).
 
 ## Tabela de contribuição
 

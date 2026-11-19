@@ -22,7 +22,7 @@ A Tabela 1 registra a contribuição neste artefato.
 
 A Etapa 6 reúne **relato da avaliação do protótipo de papel**, **planejamento da avaliação de alta fidelidade** e **planejamento de seu relato**. Pelo plano de ensino [1]: entrega em **03/11**, inspeção em **04/11** e apresentação em **05/11/2026**.
 
-[Lista de verificação](../verificacao/listas/etapa-6.md){ .md-button }
+[Lista de verificação V2](../entrega-8/lista-etapa-6.md){ .md-button }
 [Apresentação](../apresentacoes/etapa-06.md){ .md-button }
 
 ## Trabalhos individuais

@@ -98,6 +98,7 @@ markdown_extensions:
 
 extra_css:
   - assets/css/extra.css
+  - assets/css/etapa-8.css
 
 extra_javascript:
   - assets/js/a11y.js
@@ -308,12 +309,35 @@ nav:
               - entrega-7/individual/luis/index.md
               - Alta fidelidade · Relato: entrega-7/individual/luis/relato-alta-fidelidade.md
               - Vídeos e evidências: entrega-7/individual/luis/evidencias.md
+  - Etapa 8 · Verificação dos artefatos:
+      - entrega-8/index.md
+      - Listas de verificação V2:
+          - Etapa 6: entrega-8/lista-etapa-6.md
+          - Etapa 7: entrega-8/lista-etapa-7.md
+      - Resultados e gráficos:
+          - Visão geral: entrega-8/inspecao.md
+          - Etapa 6: entrega-8/resultados/etapa-6.md
+          - Etapa 7: entrega-8/resultados/etapa-7.md
+      - Inspeções:
+          - Grupo 06 · Autoinspeção:
+              - entrega-8/grupo-06/index.md
+              - Etapa 6: entrega-8/grupo-06/etapa-6.md
+              - Etapa 7: entrega-8/grupo-06/etapa-7.md
+          - Grupo 07 · Grupo +1:
+              - entrega-8/grupo-07/index.md
+              - Etapa 6: entrega-8/grupo-07/etapa-6.md
+              - Etapa 7: entrega-8/grupo-07/etapa-7.md
+          - Grupo 05 · Grupo −1:
+              - entrega-8/grupo-05/index.md
+              - Etapa 6: entrega-8/grupo-05/etapa-6.md
+              - Etapa 7: entrega-8/grupo-05/etapa-7.md
+      - Conferência das respostas V1: entrega-8/conferencia-anterior.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
           - Etapa 5: verificacao/listas/etapa-5.md
-          - Etapa 6: verificacao/listas/etapa-6.md
-          - Etapa 7: verificacao/listas/etapa-7.md
+          - Etapa 6 · V1: verificacao/listas/etapa-6.md
+          - Etapa 7 · V1: verificacao/listas/etapa-7.md
       - Inspeções:
           - Autoverificação (Grupo 06):
               - Etapa 1: verificacao/grupo-06/etapa-1/lista-verificacao.md
