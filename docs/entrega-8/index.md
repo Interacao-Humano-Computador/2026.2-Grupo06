@@ -18,6 +18,8 @@ A reinspeção abrange a autoinspeção do Grupo 06 nas duas etapas. A inspeçã
 
 <div class="etapa8-acessos" markdown>
 
+- [**Lista V2 da Etapa 3**](lista-etapa-3.md)<br>
+  Princípios gerais de projeto, metas de usabilidade e guia de estilo.
 - [**Lista V2 da Etapa 6**](lista-etapa-6.md)<br>
   Relato do papel, planejamento da avaliação de alta fidelidade e planejamento do relato.
 - [**Lista V2 da Etapa 7**](lista-etapa-7.md)<br>
@@ -35,6 +37,7 @@ As listas usam os critérios de desenvolvimento do plano de ensino e adaptam os 
 
 | Etapa | Artefatos | Lista V1 | Lista V2 oficial |
 | --- | --- | --- | --- |
+| 3 | Princípios gerais, metas de usabilidade e guia de estilo | [V1 da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md) | [30 critérios](lista-etapa-3.md) |
 | 6 | Relato do papel e dois planos para a alta fidelidade | [V1 da Etapa 6](../verificacao/listas/etapa-6.md) | [27 critérios](lista-etapa-6.md) |
 | 7 | Relatos da alta fidelidade e seus registros | [V1 da Etapa 7](../verificacao/listas/etapa-7.md) | [26 critérios](lista-etapa-7.md) |
 

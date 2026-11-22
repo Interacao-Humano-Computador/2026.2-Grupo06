@@ -13,6 +13,10 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
+## Etapa 3
+
+[Consultar a inspeção da Etapa 3](etapa-3.md) · Princípios gerais de projeto, metas de usabilidade e guia de estilo.
+
 ## Etapa 6
 
 [Consultar a inspeção da Etapa 6](etapa-6.md) · Relato do protótipo de papel e planejamentos de alta fidelidade.
