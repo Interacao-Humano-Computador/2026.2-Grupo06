@@ -17,6 +17,10 @@
 
 [Consultar a inspeção da Etapa 3](etapa-3.md) · Princípios gerais de projeto, metas de usabilidade e guia de estilo.
 
+## Etapa 5
+
+[Consultar a inspeção da Etapa 5](etapa-5.md) · Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel.
+
 ## Etapa 6
 
 [Consultar a inspeção da Etapa 6](etapa-6.md) · Relato do protótipo de papel e planejamentos de alta fidelidade.
@@ -30,3 +34,4 @@
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Organização do acesso às fichas das Etapas 6 e 7. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 22/11/2026 | Inclui o acesso à ficha da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
