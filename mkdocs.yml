@@ -315,6 +315,7 @@ nav:
           - Etapa 1: entrega-8/lista-etapa-1.md
           - Etapa 2: entrega-8/lista-etapa-2.md
           - Etapa 3: entrega-8/lista-etapa-3.md
+          - Etapa 4: entrega-8/lista-etapa-4.md
           - Etapa 5: entrega-8/lista-etapa-5.md
           - Etapa 6: entrega-8/lista-etapa-6.md
           - Etapa 7: entrega-8/lista-etapa-7.md
@@ -322,6 +323,7 @@ nav:
           - Visão geral: entrega-8/inspecao.md
           - Etapa 1: entrega-8/resultados/etapa-1.md
           - Etapa 2: entrega-8/resultados/etapa-2.md
+          - Etapa 4: entrega-8/resultados/etapa-4.md
           - Etapa 6: entrega-8/resultados/etapa-6.md
           - Etapa 7: entrega-8/resultados/etapa-7.md
       - Inspeções:
@@ -330,6 +332,7 @@ nav:
               - Etapa 1: entrega-8/grupo-06/etapa-1.md
               - Etapa 2: entrega-8/grupo-06/etapa-2.md
               - Etapa 3: entrega-8/grupo-06/etapa-3.md
+              - Etapa 4: entrega-8/grupo-06/etapa-4.md
               - Etapa 5: entrega-8/grupo-06/etapa-5.md
               - Etapa 6: entrega-8/grupo-06/etapa-6.md
               - Etapa 7: entrega-8/grupo-06/etapa-7.md
@@ -341,11 +344,13 @@ nav:
           - Grupo 05 · Grupo −1:
               - entrega-8/grupo-05/index.md
               - Etapa 2: entrega-8/grupo-05/etapa-2.md
+              - Etapa 4: entrega-8/grupo-05/etapa-4.md
               - Etapa 6: entrega-8/grupo-05/etapa-6.md
       - Conferência das respostas V1: entrega-8/conferencia-anterior.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
+          - Etapa 4 · V1: verificacao/listas/etapa-4.md
           - Etapa 5: verificacao/listas/etapa-5.md
           - Etapa 6 · V1: verificacao/listas/etapa-6.md
           - Etapa 7 · V1: verificacao/listas/etapa-7.md
