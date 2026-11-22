@@ -72,13 +72,29 @@ Os achados abaixo voltam à pauta na próxima revisão. Use o mesmo ID ao public
 | Achado | Ajuste a registrar | Evidência para encerrar |
 | --- | --- | --- |
 | [D02](#etapa-5-d02) Revisão pendente nos planos de Luís | Registrar a revisão de Caio no histórico e remover o aviso “Revisão pendente”. | Nova linha de histórico com revisor e data. |
-| [D03](#etapa-5-d03) · [D10](#etapa-5-d10) · [D11](#etapa-5-d11) Relatos de Luís | Incluir tabela de contribuição, referências e agradecimentos com a declaração de IA. | As três seções presentes nos dois relatos. |
-| [D04](#etapa-5-d04) Tabelas sem legenda | Numerar as tabelas dos relatos de Luís e incluir legenda e fonte. | Legenda e fonte abaixo de cada tabela. |
+| [D03](#etapa-5-d03) · [D10](#etapa-5-d10) · [D11](#etapa-5-d11) Relatos de Luís | Incluir tabela de contribuição, referências e agradecimentos com a declaração de IA. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
+| [D04](#etapa-5-d04) Tabelas sem legenda | Numerar as tabelas dos relatos de Luís e incluir legenda e fonte. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
 | [D06](#etapa-5-d06) Cronograma executado | Registrar as atividades da Etapa 5 de Caio, Heitor, Israel e Luís. | Uma linha por integrante, com datas reais. |
 | [D07](#etapa-5-d07) Ata da Etapa 5 | Publicar a ata das reuniões da etapa. | Ata 04 no índice, com pauta, presentes e decisões. |
-| [E5-02](#etapa-5-e5-02) · [E5-05](#etapa-5-e5-05) Metadados e localizadores de Luís | Conferir data e duração nos vídeos e atribuir tempos às respostas. | Tempos do vídeo nas tabelas de perguntas. |
+| [E5-02](#etapa-5-e5-02) · [E5-05](#etapa-5-e5-05) Metadados e localizadores de Luís | Conferir data e duração nos vídeos e localizar cada resposta. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
 | [E5-09](#etapa-5-e5-09) Recortes do método | Incluir nos planos de Israel e Luís o recorte de Barbosa e Silva (2010, p. 358–360). | Figura com legenda e fonte. |
 | [E5-18](#etapa-5-e5-18) Recorrência na ficha de Israel | Acrescentar o campo de reteste/recorrência. | Coluna “Recorrência” na Tabela 5. |
+
+### Reinspeção dos relatos de Luís · 22/11/2026
+
+Os dois relatos de Luís foram corrigidos no commit [`8e50c63`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/8e50c63). A tabela registra o resultado da reinspeção dos mesmos critérios. As respostas acima continuam valendo para a versão `1c1da5c`; os planos de Luís (D02, E5-09, E5-13, E5-14, E5-20) não foram alterados.
+
+| Critério | Antes | Depois | Evidência na nova versão |
+| --- | :---: | :---: | --- |
+| [D03](#etapa-5-d03) Referências | Incompleto | Sim | Seção de referências nos dois relatos ([storyboard](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/8e50c63/docs/entrega-5/individual/luis/relato-storyboard.md), [tarefas](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/8e50c63/docs/entrega-5/individual/luis/relato-analise-tarefas.md)) |
+| [D04](#etapa-5-d04) Tabelas | Incompleto | Sim | Tabelas 1–4 numeradas, com legenda, fonte e chamada no texto |
+| [D10](#etapa-5-d10) Contribuição | Incompleto | Sim | Tabela 1 no início dos dois relatos |
+| [D11](#etapa-5-d11) Declaração de IA | Incompleto | Sim | Codex, Claude e a transcrição pelo Granola na contribuição e nos agradecimentos |
+| [E5-02](#etapa-5-e5-02) Metadados | Incompleto | Sim | Tabela 2: modalidade, consentimento, data de publicação (25/10/2026), duração (6 min 17 s e 8 min 14 s) e sequência das sessões; o horário de gravação é declarado como não registrado |
+| [E5-05](#etapa-5-e5-05) Origem verificável | Incompleto | Sim | Coluna “Localizador” com página e trecho literal da transcrição em cada resposta |
+| [E5-06](#etapa-5-e5-06) Prioridade e destino | Incompleto | Sim | Tabela 4: encaminhamentos com origem, prioridade justificada e tela PP-S0x do plano do papel |
+
+Com a correção, os critérios D03, D04, D10, D11, E5-02, E5-05 e E5-06 deixam de ter pendência nos relatos e passariam a **Sim** no agregado do Grupo 06. A contagem oficial acima não foi alterada, para preservar o registro da versão inspecionada.
 
 ## Artefatos consultados
 
@@ -99,6 +115,7 @@ O Claude (Anthropic) apoiou a localização das evidências, a contagem das linh
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 22/11/2026 | Registro das respostas e evidências da autoinspeção da Etapa 5 com a lista V2. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Registra a reinspeção dos relatos de Luís após a correção. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
