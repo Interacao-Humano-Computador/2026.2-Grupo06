@@ -25,7 +25,7 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-As listas V2 oficiais, as reinspeções e a conferência das respostas V1 das **Etapas 4, 6 e 7** estão na [Etapa 8](../entrega-8/index.md).
+As listas V2 oficiais (Etapas 1 a 7), as reinspeções e a conferência das respostas V1 estão na [Etapa 8](../entrega-8/index.md).
 
 A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
