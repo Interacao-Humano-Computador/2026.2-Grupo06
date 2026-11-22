@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 2 
 
+!!! info "Lista V2 oficial na Etapa 8"
+    Os critérios revisados para a Etapa 8 estão na [Lista V2 da Etapa 2](../../../entrega-8/lista-etapa-2.md). Esta página preserva o registro histórico da primeira autoverificação da Etapa 2.
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.
