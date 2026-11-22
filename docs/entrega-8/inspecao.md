@@ -17,7 +17,7 @@
 
 ## Respostas por grupo
 
-A síntese reúne **208 respostas em oito fichas**, cobrindo integralmente as quatro etapas com listas V2 vigentes: **48 respostas na Etapa 1** (Grupos 06 e 07), **54 na Etapa 2** (Grupos 06 e 05), **54 na Etapa 6** (Grupos 06 e 05) e **52 na Etapa 7** (Grupos 06 e 07). Etapas 3, 4 e 5 ainda não possuem listas nem fichas V2 publicadas nesta etapa. Veja as contagens e os gráficos por etapa: [Resultados da Etapa 1](resultados/etapa-1.md) · [Resultados da Etapa 2](resultados/etapa-2.md) · [Resultados da Etapa 6](resultados/etapa-6.md) · [Resultados da Etapa 7](resultados/etapa-7.md).
+A síntese reúne **208 respostas em oito fichas**, cobrindo integralmente as quatro etapas consolidadas nos gráficos: **48 respostas na Etapa 1** (Grupos 06 e 07), **54 na Etapa 2** (Grupos 06 e 05), **54 na Etapa 6** (Grupos 06 e 05) e **52 na Etapa 7** (Grupos 06 e 07). As Etapas 3 e 5 já possuem listas V2 e fichas próprias publicadas na Etapa 8 (ainda fora dos gráficos consolidados abaixo), enquanto a Etapa 4 ainda não possui lista nem fichas V2. Veja as contagens e os gráficos por etapa: [Resultados da Etapa 1](resultados/etapa-1.md) · [Resultados da Etapa 2](resultados/etapa-2.md) · [Resultados da Etapa 6](resultados/etapa-6.md) · [Resultados da Etapa 7](resultados/etapa-7.md).
 
 ### Contagens e percentuais
 

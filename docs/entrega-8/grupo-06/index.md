@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso à autoinspeção das Etapas 6 e 7 do Portal do Senado | [Etapa 6](#etapa-6) · [Etapa 7](#etapa-7) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão das fichas de autoinspeção V2 das Etapas 1 e 2 | [Etapa 1](#etapa-1) · [Etapa 2](#etapa-2) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão da ficha de autoinspeção V2 da Etapa 5 | [Etapa 5](#etapa-5) |
 | Codex (OpenAI) / Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -25,6 +26,14 @@
 
 [Ficha V1 da Etapa 2](../../verificacao/grupo-06/etapa-2/lista-verificacao.md) · Registro da primeira inspeção.
 
+## Etapa 3
+
+[Consultar a inspeção da Etapa 3](etapa-3.md) · Princípios gerais de projeto, metas de usabilidade e guia de estilo.
+
+## Etapa 5
+
+[Consultar a inspeção da Etapa 5](etapa-5.md) · Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel.
+
 ## Etapa 6
 
 [Consultar a inspeção da Etapa 6](etapa-6.md) · Relato do protótipo de papel e planejamentos de alta fidelidade.
@@ -39,3 +48,4 @@
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Organização do acesso às fichas das Etapas 6 e 7. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 21/11/2026 | Inclui acesso às fichas de autoinspeção V2 das Etapas 1 e 2. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 22/11/2026 | Inclui o acesso às fichas das Etapas 3 e 5 após integração com `main`. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
