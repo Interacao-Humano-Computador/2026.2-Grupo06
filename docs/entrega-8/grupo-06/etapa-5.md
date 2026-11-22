@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Inspeções do grupo](index.md) · [Autoverificação V1](../../verificacao/grupo-06/etapa-5/lista-verificacao.md)
+[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Inspeções do grupo](index.md) · [Autoverificação V1](../../verificacao/grupo-06/etapa-5/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-5)
 
 ## Recorte consultado
 
@@ -116,6 +116,7 @@ O Claude (Anthropic) apoiou a localização das evidências, a contagem das linh
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 22/11/2026 | Registro das respostas e evidências da autoinspeção da Etapa 5 com a lista V2. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 22/11/2026 | Registra a reinspeção dos relatos de Luís após a correção. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

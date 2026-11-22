@@ -25,7 +25,7 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-As listas V2 oficiais (Etapas 1 a 7), as reinspeções e a conferência das respostas V1 estão na [Etapa 8](../entrega-8/index.md).
+As listas V2 oficiais (Etapas 1 a 7), as reinspeções e a conferência das respostas V1 estão na [Etapa 8](../entrega-8/index.md). As gravações das sessões de inspeção, uma por etapa, estão na [síntese dos resultados V2](../entrega-8/inspecao.md#video-e-roteiro) e na [apresentação da Etapa 8](../apresentacoes/etapa-08.md).
 
 A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
@@ -62,6 +62,7 @@ O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 | `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 19/11/2026 | Inclusão da lista não preenchida da Etapa 4 no menu de listas de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 21/11/2026 | Vinculação da lista V1 e das fichas históricas da Etapa 4 à Lista V2 e às reinspeções da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 22/11/2026 | Inclui o acesso às gravações das inspeções da Etapa 8 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
