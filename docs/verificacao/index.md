@@ -25,7 +25,7 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-As listas V2 oficiais, as reinspeções e a conferência das respostas V1 das Etapas 6 e 7 estão na [Etapa 8](../entrega-8/index.md).
+As listas V2 oficiais, as reinspeções e a conferência das respostas V1 das **Etapas 4, 6 e 7** estão na [Etapa 8](../entrega-8/index.md).
 
 A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
@@ -33,7 +33,7 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
 
-A [lista da Etapa 4](listas/etapa-4.md) reúne os critérios oficiais da Apresentação 4 (com recortes destacados da lista docente) e os dez itens elaborados pelos integrantes do grupo; as respostas registradas nas reuniões encontram-se na [Autoverificação da Etapa 4](grupo-06/etapa-4/lista-verificacao.md) e na [Inspeção da Etapa 4 do Grupo 05](grupo-05/etapa-4/lista-verificacao.md).
+A [lista V1 da Etapa 4](listas/etapa-4.md) preserva os critérios da primeira inspeção, cujas respostas históricas encontram-se na [Autoverificação da Etapa 4](grupo-06/etapa-4/lista-verificacao.md) e na [Inspeção da Etapa 4 do Grupo 05](grupo-05/etapa-4/lista-verificacao.md). A [Lista V2 da Etapa 4](../entrega-8/lista-etapa-4.md) e as reinspeções do [Grupo 06](../entrega-8/grupo-06/etapa-4.md) e do [Grupo 05](../entrega-8/grupo-05/etapa-4.md) estão publicadas na Etapa 8.
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
 
@@ -61,6 +61,7 @@ O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 | `1.7` | 15/11/2026 | Inclui a lista da Etapa 7 e a ficha de inspeção ainda sem respostas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 19/11/2026 | Inclusão da lista não preenchida da Etapa 4 no menu de listas de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 21/11/2026 | Vinculação da lista V1 e das fichas históricas da Etapa 4 à Lista V2 e às reinspeções da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

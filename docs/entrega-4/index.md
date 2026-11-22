@@ -44,6 +44,8 @@ Os agendamentos e as confirmações de participantes estão descritos nos planej
 
 O [storyboard manual de Caio, versão 1.1](caio/storyboard.md), explicita as melhorias na navegação pelo portal, na revisão, no retorno de recebimento e no acompanhamento. A continuidade está nos [quatro artefatos de Caio na Etapa 5](../entrega-5/individual/caio/index.md).
 
+Na **Etapa 8**, esta entrega foi reinspecionada com a [Lista V2 oficial da Etapa 4](../entrega-8/lista-etapa-4.md) (40 critérios): consulte a [autoinspeção V2 do Grupo 06](../entrega-8/grupo-06/etapa-4.md), a [inspeção externa V2 do Grupo 05 (−1)](../entrega-8/grupo-05/etapa-4.md) e os [resultados e gráficos da Etapa 4](../entrega-8/resultados/etapa-4.md).
+
 ## Agradecimentos
 
 Heitor Pinheiro organizou o índice e desenvolveu o storyboard e a HTA de Letícia. Grok (xAI) desenhou os SVG da versão anterior de Camila, substituídos em 22/10 pelo storyboard manual fornecido por Caio. Codex (OpenAI) apoiou o esclarecimento do escopo e a integração da atualização. A responsabilidade pelo conteúdo permanece com os autores.
@@ -62,6 +64,7 @@ Heitor Pinheiro organizou o índice e desenvolveu o storyboard e a HTA de Letíc
 | 1.6 | 25/10/2026 | Preenche o índice individual de Luís, incorpora seu storyboard manual e referencia os relatos da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | 1.6 | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo (e-Cidadania) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 1.7 | 24/10/2026 | Integração das páginas dedicadas de Storyboard (versão manual) e Análise de Tarefas (HTA) de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 1.8 | 21/11/2026 | Vinculação do índice à Lista V2 e às reinspeções da Etapa 4 na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

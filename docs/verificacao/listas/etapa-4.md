@@ -1,6 +1,9 @@
 <span class="owner">Responsável: Bruno Ferreira Dornelas · Autor dos itens oficiais: André Barros de Sales</span>
 
-# Lista de verificação — Etapa 4
+# Lista de verificação — Etapa 4 · V1
+
+!!! warning "V1 desatualizada"
+    A [Lista V2 da Etapa 4](../../entrega-8/lista-etapa-4.md) é a versão oficial para a reinspeção da Etapa 8, organizada por conteúdo e separando os critérios oficiais imutáveis dos itens elaborados pelo grupo. Esta página preserva a redação original da primeira inspeção. Cada pergunta aponta para seu correspondente na V2 ou para a justificativa de sua reorganização. Consulte também a [conferência das respostas V1](../../entrega-8/conferencia-anterior.md).
 
 ## Tabela de contribuição
 
@@ -13,6 +16,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração dos itens 18 e 19 sobre exclusividade/exaustão na HTA e rastreabilidade Storyboard–HTA | [E4-C18](#e4-c18) · [E4-C19](#e4-c19) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração dos itens 20 e 21 sobre consolidação do relato e escala de severidade de Nielsen | [E4-C20](#e4-c20) · [E4-C21](#e4-c21) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração dos itens 22 e 23 sobre protocolo do teste-piloto e postura neutra do avaliador | [E4-C22](#e4-c22) · [E4-C23](#e4-c23) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Sinalização da V1 e registro da rastreabilidade de cada critério com a Lista V2 oficial | [Lista V2](../../entrega-8/lista-etapa-4.md) · [Conferência das respostas V1](../../entrega-8/conferencia-anterior.md) |
 | Google Gemini e Antigravity | Apoio à organização Markdown, recorte grifado das imagens da lista oficial e revisão de referências | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -34,6 +38,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D01 — O GitHub Pages possui o histórico de versão padronizado?"
 
+    **Rastreabilidade na V2.** [D01](../../entrega-8/lista-etapa-4.md#d01).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir presença de tabela padronizada com versão, data, descrição das alterações, autor(es) e revisor(es) em cada artefato da Etapa 4.
@@ -47,6 +53,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 <span id="d02"></span>
 
 ??? question "D02 — O GitHub Pages possui o(s) autor(es) e o(s) revisor(es) para cada artefato?"
+
+    **Rastreabilidade na V2.** [D02](../../entrega-8/lista-etapa-4.md#d02).
 
     **Autor do item:** André Barros de Sales.
 
@@ -62,6 +70,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D03 — O GitHub Pages possui referências bibliográficas e/ou bibliografia em todos os artefatos?"
 
+    **Rastreabilidade na V2.** [D03](../../entrega-8/lista-etapa-4.md#d03).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir se todos os artefatos de conteúdo apresentam seção final de Referências e/ou Bibliografia padronizada conforme a ABNT, coerente com as citações no texto.
@@ -75,6 +85,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 <span id="d04"></span>
 
 ??? question "D04 — As tabelas e imagens possuem legenda e fonte e são chamadas dentro do texto?"
+
+    **Rastreabilidade na V2.** [D04](../../entrega-8/lista-etapa-4.md#d04).
 
     **Autor do item:** André Barros de Sales.
 
@@ -90,6 +102,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D05 — O GitHub Pages possui um texto fazendo uma introdução dos artefatos?"
 
+    **Rastreabilidade na V2.** [D05](../../entrega-8/lista-etapa-4.md#d05).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Verificar texto introdutório no início de cada documento contextualizando objetivo, escopo, funcionalidade avaliada e relação com as etapas anteriores.
@@ -103,6 +117,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 <span id="d06"></span>
 
 ??? question "D06 — O GitHub Pages possui o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim?"
+
+    **Rastreabilidade na V2.** [D06](../../entrega-8/lista-etapa-4.md#d06).
 
     **Autor do item:** André Barros de Sales.
 
@@ -118,6 +134,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D07 — O GitHub Pages possui ata(s) da(s) reuniões (com data, horário de início e fim, participantes, objetivo, atividades definidas etc.)?"
 
+    **Rastreabilidade na V2.** [D07](../../entrega-8/lista-etapa-4.md#d07).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir na seção de Atas a presença da ata formal da etapa contendo data, horários de abertura e encerramento, participantes presentes, pauta/objetivo e deliberações.
@@ -131,6 +149,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 <span id="d08"></span>
 
 ??? question "D08 — O GitHub Pages possui a gravação da reunião do grupo?"
+
+    **Rastreabilidade na V2.** [D08](../../entrega-8/lista-etapa-4.md#d08).
 
     **Autor do item:** André Barros de Sales.
 
@@ -146,6 +166,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D09 — O GitHub Pages possui vídeo de apresentação na categoria “não listado” no YouTube?"
 
+    **Rastreabilidade na V2.** [D09](../../entrega-8/lista-etapa-4.md#d09).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir disponibilidade do vídeo da Apresentação 4 publicado como “não listado” no YouTube e devidamente vinculado na página de apresentações do grupo.
@@ -160,6 +182,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 
 ??? question "D10 — O GitHub Pages possui tabela de contribuição no início do artefato com o nome dos integrantes e hiperligação da atividade?"
 
+    **Rastreabilidade na V2.** [D10](../../entrega-8/lista-etapa-4.md#d10).
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir tabela no topo de cada artefato identificando quem efetivamente atuou naquela página, qual atividade realizou e o link direto para a seção correspondente.
@@ -173,6 +197,8 @@ O Plano de Ensino (SALES, 2026, p. 3 e p. 8–9 do PDF) [1] é a fonte das pergu
 <span id="d11"></span>
 
 ??? question "D11 — O GitHub Pages possui a seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato?"
+
+    **Rastreabilidade na V2.** [D11](../../entrega-8/lista-etapa-4.md#d11).
 
     **Autor do item:** André Barros de Sales.
 
@@ -192,6 +218,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C02 (Item 2) — O planejamento da avaliação segue o Framework DECIDE?"
 
+    **Rastreabilidade na V2.** [E4-11](../../entrega-8/lista-etapa-4.md#e4-11) · mantido integralmente no bloco *Planejamento da avaliação*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Verificar se os planejamentos da avaliação do Storyboard e da Análise de Tarefas estão estruturados pelas seis etapas do framework DECIDE: **(D)** determinar os objetivos gerais; **(E)** explorar as perguntas específicas a responder; **(C)** escolher os métodos de avaliação; **(I)** identificar e administrar as questões práticas; **(D)** decidir como lidar com as questões éticas; e **(E)** avaliar, interpretar e apresentar os dados.
@@ -205,6 +233,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c03"></span>
 
 ??? question "E4-C03 (Item 3) — Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual)?"
+
+    **Rastreabilidade na V2.** [E4-12](../../entrega-8/lista-etapa-4.md#e4-12) · mantido integralmente no bloco *Planejamento da avaliação*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -220,6 +250,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C04 (Item 4) — Apresenta os métodos de avaliação a serem utilizados, acompanhados de referência bibliográfica da fonte, foto do texto da referência explicando os métodos e identificação do autor do item?"
 
+    **Rastreabilidade na V2.** [E4-13](../../entrega-8/lista-etapa-4.md#e4-13) · mantido integralmente no bloco *Planejamento da avaliação*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Verificar na etapa **C (Escolher os métodos)** a descrição e justificativa dos métodos adotados para avaliar o Storyboard e a Análise de Tarefas, acompanhadas obrigatoriamente de **(1)** referência bibliográfica completa, **(2)** imagem legível da página da obra explicando o método e **(3)** nome explícito do autor daquele item de conteúdo no artefato.
@@ -233,6 +265,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c05"></span>
 
 ??? question "E4-C05 (Item 5) — Descreve as questões práticas da avaliação (recrutamento: onde e perfil; quantidade de usuários e justificativa dessa quantidade; modalidade presencial real ou remota; preparação e uso de equipamentos; prazos; orçamento; e mão de obra necessária)?"
+
+    **Rastreabilidade na V2.** [E4-14](../../entrega-8/lista-etapa-4.md#e4-14) · mantido integralmente no bloco *Planejamento da avaliação*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -248,6 +282,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C06 (Item 6) — Aborda as questões éticas (garantindo que os participantes sejam respeitados e não sejam prejudicados direta ou indiretamente, nem durante os experimentos nem após a divulgação dos resultados)?"
 
+    **Rastreabilidade na V2.** [E4-15](../../entrega-8/lista-etapa-4.md#e4-15) · mantido integralmente no bloco *Planejamento da avaliação*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Conferir na etapa **D (Decidir como lidar com as questões éticas)** e na minuta do TCLE a proteção integral ao participante antes, durante e após a avaliação (respeito, não maleficência, anonimato/desidentificação na divulgação, participação voluntária, liberdade de desistência e consentimento informado).
@@ -261,6 +297,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c07"></span>
 
 ??? question "E4-C07 (Item 7) — Define a estrutura do relatório do resultado da avaliação (objetivos da avaliação; breve descrição do método utilizado; número e perfil de avaliadores e participantes; tarefas/roteiros avaliados; lista de problemas encontrados etc.)?"
+
+    **Rastreabilidade na V2.** [E4-25](../../entrega-8/lista-etapa-4.md#e4-25) · mantido integralmente no bloco *Planejamento do relato*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -276,6 +314,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C08 (Item 8) — Apresenta um cronograma (data e horário) e local para realização da avaliação do Storyboard e da Análise de Tarefas?"
 
+    **Rastreabilidade na V2.** [E4-16](../../entrega-8/lista-etapa-4.md#e4-16) · mantido integralmente no bloco *Planejamento da avaliação*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Verificar nos planejamentos da avaliação a existência de agenda explícita com **datas**, **horários** (ou janelas definidas) e **local físico ou plataforma remota** para as sessões de avaliação tanto do Storyboard quanto da Análise de Tarefas.
@@ -289,6 +329,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c09"></span>
 
 ??? question "E4-C09 (Item 9) — Cada desenho do Storyboard está relacionado a uma especificação do artefato da Análise de Tarefas?"
+
+    **Rastreabilidade na V2.** [E4-02](../../entrega-8/lista-etapa-4.md#e4-02) · mantido integralmente no bloco *Storyboard*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -304,6 +346,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C10 (Item 10) — A quantidade de storyboards é igual à quantidade de integrantes do grupo?"
 
+    **Rastreabilidade na V2.** [E4-01](../../entrega-8/lista-etapa-4.md#e4-01) · mantido integralmente no bloco *Storyboard*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Contar os Storyboards completos publicados na entrega e comparar com o número total de integrantes ativos da equipe (ex.: 5 storyboards completos para 5 integrantes no Grupo 06; 7 storyboards para 7 integrantes no Grupo 05).
@@ -317,6 +361,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c11"></span>
 
 ??? question "E4-C11 (Item 11) — Apresenta a definição do teste-piloto e a data para sua realização antes da avaliação oficial, com referência bibliográfica, foto do texto da referência explicando o teste-piloto e autor do item?"
+
+    **Rastreabilidade na V2.** [E4-17](../../entrega-8/lista-etapa-4.md#e4-17) · mantido integralmente no bloco *Planejamento da avaliação*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -332,6 +378,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 
 ??? question "E4-C12 (Item 12) — Explicita que o resultado do teste-piloto não será apresentado junto ao resultado oficial da avaliação?"
 
+    **Rastreabilidade na V2.** [E4-18](../../entrega-8/lista-etapa-4.md#e4-18) · mantido integralmente no bloco *Planejamento da avaliação*.
+
     **Autor do item:** André Barros de Sales.
 
     **O que conferir:** Confirmar a presença de regra expressa determinando que os dados coletados durante o teste-piloto servem apenas para calibrar roteiro, tempo e ferramentas, sendo descartados/separados da consolidação dos resultados finais da avaliação.
@@ -345,6 +393,8 @@ Os critérios `E4-C02` a `E4-C13` reproduzem integralmente os itens **2 a 13** d
 <span id="e4-c13"></span>
 
 ??? question "E4-C13 (Item 13) — Especifica os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)?"
+
+    **Rastreabilidade na V2.** [E4-26](../../entrega-8/lista-etapa-4.md#e4-26) · mantido integralmente no bloco *Planejamento do relato*.
 
     **Autor do item:** André Barros de Sales.
 
@@ -363,6 +413,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 <span id="e4-c14"></span>
 
 ??? question "E4-C14 (Item 14) — O diagrama HTA utiliza a notação canônica de retângulos com linha espessa na base para operações terminais e explicita os operadores lógicos dos planos (`>`, `/`, `+`, `( )`)?"
+
+    **Rastreabilidade na V2.** Retirado da Etapa 4 V2 por pertencer à sintaxe gráfica da HTA na Etapa 2; na Etapa 4 a avaliação da decomposição com stakeholders é verificada em [E4-22](../../entrega-8/lista-etapa-4.md#e4-22). Ver [Conferência da lista](../../entrega-8/lista-etapa-4.md#conferencia-da-lista).
 
     **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
@@ -386,6 +438,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C15 (Item 15) — O artefato de Análise de Tarefas documenta medidas mensuráveis de sucesso (evidência objetiva de atingimento do objetivo) e explicita as consequências da falha em atingi-lo?"
 
+    **Rastreabilidade na V2.** Retirado da Etapa 4 V2 por pertencer à construção do artefato HTA na Etapa 2; ver [Conferência da lista](../../entrega-8/lista-etapa-4.md#conferencia-da-lista).
+
     **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 6, Seção 6.4.1, p. 195–196.
@@ -407,6 +461,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 <span id="e4-c16"></span>
 
 ??? question "E4-C16 (Item 16) — As operações da HTA especificam explicitamente as circunstâncias de ativação (input), as atividades motoras/cognitivas (ações) e a condição de término (feedback)?"
+
+    **Rastreabilidade na V2.** Retirado da Etapa 4 V2 por inspecionar a tabela de operações da HTA na Etapa 2; ver [Conferência da lista](../../entrega-8/lista-etapa-4.md#conferencia-da-lista).
 
     **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 
@@ -430,6 +486,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C17 (Item 17) — O TCLE assegura explicitamente a não maleficência, a garantia de desistência a qualquer momento sem ônus, o sigilo/anonimato e a autorização formal prévia para gravações?"
 
+    **Rastreabilidade na V2.** [E4-24](../../entrega-8/lista-etapa-4.md#e4-24) · refinado em enunciado autocontido com recortes específicos de TCLE, gravação e anonimato (p. 140–141).
+
     **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 5, p. 141–146; BRASIL. Conselho Nacional de Saúde. *Resolução nº 510, de 7 de abril de 2016*. Brasília: CNS, 2016.
@@ -451,6 +509,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 <span id="e4-c18"></span>
 
 ??? question "E4-C18 (Item 18) — A decomposição de objetivos em subobjetivos na HTA comprova ser mutuamente exclusiva (sem sobreposições entre nós irmãos) e exaustiva (cobrindo 100% do objetivo-pai)?"
+
+    **Rastreabilidade na V2.** Retirado como critério de diagrama da Etapa 2; reorientado na Etapa 4 para a validação da decomposição com partes interessadas em [E4-22](../../entrega-8/lista-etapa-4.md#e4-22).
 
     **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
 
@@ -474,6 +534,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C19 (Item 19) — Cada quadro do Storyboard possui rastreabilidade formal e identificada com as operações/subobjetivos modelados na Análise de Tarefas?"
 
+    **Rastreabilidade na V2.** Retirado por duplicidade direta com o item oficial imutável [E4-02](../../entrega-8/lista-etapa-4.md#e4-02) (`E4-C09`); substituído pelos critérios específicos de Storyboard [E4-03](../../entrega-8/lista-etapa-4.md#e4-03) a [E4-10](../../entrega-8/lista-etapa-4.md#e4-10).
+
     **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 6, p. 193–195; Cap. 9, p. 294, 301.
@@ -495,6 +557,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 <span id="e4-c20"></span>
 
 ??? question "E4-C20 (Item 20) — O planejamento do relato dos resultados estrutura os 7 componentes de consolidação de Barbosa e Silva e explicita os limites de generalização dos achados?"
+
+    **Rastreabilidade na V2.** [E4-29](../../entrega-8/lista-etapa-4.md#e4-29) · reformulado para retirar sobreposição com [E4-25](../../entrega-8/lista-etapa-4.md#e4-25) (`E4-C07`), focando nos limites de generalização e validades do estudo.
 
     **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
 
@@ -518,6 +582,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C21 (Item 21) — O planejamento do relato define uma métrica ou escala objetiva de severidade (ex.: escala de 0 a 4 de Nielsen) para classificar problemas e orientar o reprojeto?"
 
+    **Rastreabilidade na V2.** [E4-28](../../entrega-8/lista-etapa-4.md#e4-28) · reformulado com base em Barbosa e Silva (2010, p. 292, 312) para cobrir gravidade/priorização e planejamento de reprojeto.
+
     **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
 
     **Referência:** NIELSEN, Jakob. *Usability Engineering*. San Francisco: Morgan Kaufmann, 1994; BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. p. 312.
@@ -540,6 +606,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C22 (Item 22) — O artefato fixa a realização do teste-piloto com participante distinto da amostra oficial e registra formalmente o descarte de seus dados no relato final?"
 
+    **Rastreabilidade na V2.** Retirado por duplicidade direta com os itens oficiais imutáveis [E4-17](../../entrega-8/lista-etapa-4.md#e4-17) (`E4-C11`) e [E4-18](../../entrega-8/lista-etapa-4.md#e4-18) (`E4-C12`).
+
     **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 9, Seção 9.7, p. 307–308.
@@ -561,6 +629,8 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 <span id="e4-c23"></span>
 
 ??? question "E4-C23 (Item 23) — O planejamento estabelece diretrizes operacionais sobre a postura do avaliador durante as sessões (não indução de respostas, escuta ativa e anotação imediata de atritos)?"
+
+    **Rastreabilidade na V2.** [E4-23](../../entrega-8/lista-etapa-4.md#e4-23) · refinado em enunciado autocontido cobrindo material de apoio padronizado, estrutura da sessão e postura não indutora.
 
     **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
 
@@ -589,6 +659,7 @@ O Google Gemini e o Antigravity apoiaram a organização em blocos recolhidos, a
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Estruturação da lista de verificação não preenchida da Etapa 4 (D01–D11, itens oficiais 2–13 com recortes grifados da lista docente e itens 14–23 elaborados pelo grupo) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 21/11/2026 | Sinaliza a V1 como histórica e registra a rastreabilidade de todos os critérios com a Lista V2 oficial da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
