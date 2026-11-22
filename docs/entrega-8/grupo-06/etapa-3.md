@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 3](../lista-etapa-3.md) · [Inspeções do grupo](index.md) · [Lista V1 da Etapa 3](../../verificacao/grupo-06/etapa-3/lista-verificacao.md)
+[Lista V2 da Etapa 3](../lista-etapa-3.md) · [Inspeções do grupo](index.md) · [Lista V1 da Etapa 3](../../verificacao/grupo-06/etapa-3/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-3)
 
 ## Recorte consultado
 
@@ -108,6 +108,7 @@ Esta autoinspeção contou com o apoio de ferramentas de IA Generativa (Codex/Op
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Registro estruturado da autoinspeção da Etapa 3 adaptado ao modelo oficial da Etapa 8, com critérios V2 e evidências. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 3. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
