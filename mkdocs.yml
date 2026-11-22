@@ -312,22 +312,30 @@ nav:
   - Etapa 8 · Verificação dos artefatos:
       - entrega-8/index.md
       - Listas de verificação V2:
+          - Etapa 1: entrega-8/lista-etapa-1.md
+          - Etapa 2: entrega-8/lista-etapa-2.md
           - Etapa 6: entrega-8/lista-etapa-6.md
           - Etapa 7: entrega-8/lista-etapa-7.md
       - Resultados e gráficos:
           - Visão geral: entrega-8/inspecao.md
+          - Etapa 1: entrega-8/resultados/etapa-1.md
+          - Etapa 2: entrega-8/resultados/etapa-2.md
           - Etapa 6: entrega-8/resultados/etapa-6.md
           - Etapa 7: entrega-8/resultados/etapa-7.md
       - Inspeções:
           - Grupo 06 · Autoinspeção:
               - entrega-8/grupo-06/index.md
+              - Etapa 1: entrega-8/grupo-06/etapa-1.md
+              - Etapa 2: entrega-8/grupo-06/etapa-2.md
               - Etapa 6: entrega-8/grupo-06/etapa-6.md
               - Etapa 7: entrega-8/grupo-06/etapa-7.md
           - Grupo 07 · Grupo +1:
               - entrega-8/grupo-07/index.md
+              - Etapa 1: entrega-8/grupo-07/etapa-1.md
               - Etapa 7: entrega-8/grupo-07/etapa-7.md
           - Grupo 05 · Grupo −1:
               - entrega-8/grupo-05/index.md
+              - Etapa 2: entrega-8/grupo-05/etapa-2.md
               - Etapa 6: entrega-8/grupo-05/etapa-6.md
       - Conferência das respostas V1: entrega-8/conferencia-anterior.md
   - Verificação:
