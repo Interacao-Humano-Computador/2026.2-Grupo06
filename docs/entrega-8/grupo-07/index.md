@@ -13,6 +13,12 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
+## Etapa 5
+
+[Consultar a inspeção da Etapa 5](etapa-5.md) · Relatos do nível 1 e planejamentos do protótipo de papel.
+
+[Ficha V1 da Etapa 5](../../verificacao/grupo-07/etapa-5/lista-verificacao.md) · Registro da primeira inspeção, em 28/10/2026.
+
 ## Etapa 7
 
 [Consultar a inspeção da Etapa 7](etapa-7.md) · Relato dos resultados da avaliação de alta fidelidade.
@@ -24,3 +30,4 @@
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Organização do acesso às fichas V1 e V2 da Etapa 7 do Grupo 07. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.1` | 22/11/2026 | Inclui o acesso às fichas V1 e V2 da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
