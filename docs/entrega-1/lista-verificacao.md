@@ -2,6 +2,9 @@
 
 # Lista de verificação da Entrega 1
 
+!!! warning "V1 histórica"
+    A [Lista V2 da Etapa 1](../entrega-8/lista-etapa-1.md) é a versão oficial para a Etapa 8. Esta página preserva os critérios e respostas usados na primeira inspeção.
+
 ## Introdução
 
 Este artefato reúne a lista de verificação da Entrega 1, elaborada com base nos critérios definidos pelo professor André Barros no plano de ensino [1]. Use esta página no ensaio da apresentação e na autoavaliação para garantir que todos os requisitos estejam atendidos antes da entrega. Conforme a rubrica da disciplina, cada item registra a resposta (**Sim**, **Não** ou **Incompleto**), a **versão, data e hora da avaliação** e a respectiva **evidência** no repositório.
