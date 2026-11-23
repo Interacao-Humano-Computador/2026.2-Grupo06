@@ -101,14 +101,14 @@ Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 13/10/2026 | Conferência dos quatro planejamentos e proposta de correções, separadas das listas de inspeção sem respostas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.0` | 13/10/2026 | Reavalia os critérios somente como planejamento e registra as correções aplicadas e dependências futuras | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Atualiza a conferência com participante indicado, agenda provisória e preparações até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.2 | 13/10/2026 | Registra storyboard ilustrado disponível, correspondência dos sete quadros e preparações restantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.4 | 23/10/2026 | Atualiza recorte, rastreabilidade DECIDE e agenda de 23–24/10. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.5 | 24/10/2026 | Alinha preparação ao storyboard manual e à estrutura dos planejamentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Atualiza objetivos, distingue questões do avaliador e roteiro, indica P01 e centraliza a agenda ainda a confirmar | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Conferência inicial dos quatro planejamentos e correções | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Registro das correções aplicadas nos planejamentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 13/10/2026 | Inclusão de participante previsto e agenda provisória | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 13/10/2026 | Vínculo com o storyboard e pendências de preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 23/10/2026 | Atualização de recorte, rastreabilidade DECIDE e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 24/10/2026 | Alinhamento da preparação ao storyboard manual | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 24/10/2026 | Revisão de objetivos, roteiro, participante P01 e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

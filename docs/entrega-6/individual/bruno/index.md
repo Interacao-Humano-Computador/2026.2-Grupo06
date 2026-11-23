@@ -59,9 +59,9 @@ O Codex (OpenAI) apoiou a organização dos acessos ao protótipo e aos roteiros
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 03/11/2026 | Organização do índice individual da Etapa 6 de Bruno Ferreira Dornelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.1` | 10/11/2026 | Integração do protótipo HTML, Figma, painel e roteiros de alta fidelidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.2` | 11/11/2026 | Simplificação dos acessos de alta fidelidade em botões, com remoção da lista duplicada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 03/11/2026 | Organização do índice individual da Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 10/11/2026 | Integração do protótipo HTML, Figma e roteiros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 11/11/2026 | Simplificação dos acessos em botões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

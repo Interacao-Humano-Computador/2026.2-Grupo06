@@ -191,8 +191,8 @@ O Codex (OpenAI) apoiou a redação e a organização dos instrumentos. A respon
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 24/10/2026 | Planejamento do protótipo de papel para complementos de ideias legislativas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
-| 1.1 | 25/10/2026 | Detalha tarefas, estados de espera, apoios e critérios de acompanhamento a partir dos relatos das entrevistas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 24/10/2026 | Planejamento da avaliação do protótipo de papel | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 25/10/2026 | Detalhamento de tarefas, apoios e critérios pós-entrevistas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

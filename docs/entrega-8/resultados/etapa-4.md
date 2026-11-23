@@ -66,7 +66,7 @@ Cada segmento conta as respostas com pendência no bloco, somadas as duas fichas
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 21/11/2026 | Consolidação das 80 respostas da autoinspeção do Grupo 06 e da inspeção externa do Grupo 05 na Etapa 4, com gráficos e leitura comparativa. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 21/11/2026 | Consolidação das respostas e gráficos da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

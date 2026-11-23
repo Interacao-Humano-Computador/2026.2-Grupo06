@@ -126,14 +126,14 @@ O Codex (OpenAI), o Google Gemini, o Claude (Anthropic) e o Antigravity apoiaram
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 1.0 | 13/10/2026 | Prepara a lista da Etapa 4 com 11 itens de desenvolvimento e 12 de conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Inclusão dos 10 itens elaborados pelo grupo (itens 14 a 23) com fundamentação e imagens de referência | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.2 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.3 | 13/10/2026 | Inclusão do vídeo da inspeção da Etapa 4 do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.4 | 13/10/2026 | Preenchimento dos 23 itens com base na transcrição da autoverificação e registro dos localizadores | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.5 | 13/10/2026 | Simplificação das observações e identificação da avaliação como Versão 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.6 | 24/10/2026 | Corrige de oito para sete a quantidade de componentes do relato no item 20, conforme Barbosa e Silva (2010, p. 312), sem alterar respostas da inspeção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.7 | 19/11/2026 | Transfere os blocos de fundamentação dos itens 14 a 23 para a lista não preenchida da Etapa 4 e preserva as tabelas de inspeção | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Estruturação da lista de verificação da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Inclusão dos itens 14 a 23 elaborados pelo grupo | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 13/10/2026 | Inclusão do vídeo da inspeção do Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 13/10/2026 | Preenchimento dos 23 itens e localizadores da autoverificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 13/10/2026 | Simplificação das observações e identificação da V1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 24/10/2026 | Correção da contagem de componentes do relato no item 20 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 19/11/2026 | Vínculo dos itens 14 a 23 com a lista da Etapa 4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

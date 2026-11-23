@@ -117,7 +117,7 @@ A tabela abaixo indica os achados prioritários da Etapa 4 do Grupo 05 para acom
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 21/11/2026 | Registro das 40 respostas, constatações, recortes de evidência e inventário da inspeção externa da Etapa 4 no Grupo 05. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 21/11/2026 | Registro da inspeção externa da Etapa 4 no Grupo 05 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

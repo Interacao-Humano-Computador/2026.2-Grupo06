@@ -132,15 +132,15 @@ O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Estrutura e instrumentos para o futuro relato da avaliação remota do storyboard da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.0 | 13/10/2026 | Explicita método, atividades a registrar após a sessão, vínculo ao agendamento e situação das contribuições de todos os integrantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.2 | 13/10/2026 | Define participante previsto e agenda de análise, produção e revisão do relato até 24/10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.3 | 13/10/2026 | Vincula a versão inicial do storyboard para identificação do material avaliado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.4 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.5 | 23/10/2026 | Alinha relato aos objetivos O1/O2, seis perguntas, novo perfil e agenda de 23–24/10. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.6 | 24/10/2026 | Retoma a estrutura dos planejamentos do professor, adaptada ao complemento e a Letícia; retira identificação de versões do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Reorganiza o DECIDE para a proposta de complementos, separa questões de avaliação e roteiro, indica P01 e substitui a agenda anterior por coleta a agendar; simplifica instrumentos e preserva o histórico do recorte docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Estrutura e instrumentos iniciais do relato do storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Detalhamento do método, registros pós-sessão e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 13/10/2026 | Simplificação do texto e consolidação dos instrumentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 13/10/2026 | Definição de participante previsto e cronograma do relato | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 13/10/2026 | Vínculo com o storyboard avaliado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 23/10/2026 | Alinhamento aos novos objetivos, perguntas, perfil e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 24/10/2026 | Padronização da estrutura do relato para complementos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 24/10/2026 | Reorganização do modelo de relato e alinhamento ao DECIDE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

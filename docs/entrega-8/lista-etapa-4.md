@@ -812,7 +812,7 @@ O Google Gemini e o Antigravity apoiaram a extração dos recortes com destaque 
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `2.0` | 21/11/2026 | Elaboração da Lista de Verificação V2 da Etapa 4 organizada em quatro blocos de conteúdo, com 40 critérios, recortes grifados das fontes e rastreabilidade com a V1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 21/11/2026 | Elaboração da Lista V2 da Etapa 4 com 40 critérios por conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

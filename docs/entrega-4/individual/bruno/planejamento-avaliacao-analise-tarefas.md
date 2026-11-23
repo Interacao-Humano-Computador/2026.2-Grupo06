@@ -150,14 +150,14 @@ O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Planejamento DECIDE da avaliação da HTA/CTT da Oficina Legislativa, com conferência de notação e entrevista remota | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.0 | 13/10/2026 | Completa fundamentação visual de métodos e piloto, recrutamento, justificativa da quantidade, agendamento e delimitação do método; explicita todos os integrantes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Simplifica o texto e consolida instrumentos, preservando critérios e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.2 | 13/10/2026 | Indica Alisson dos Santos, professor de Física, e define agenda provisória até 24/10, equipe e preparação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.4 | 23/10/2026 | Alinha recorte a Letícia, objetivos e perguntas à Tabela 9.1; atualiza instrumentos e agenda para 23 e 24/10. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.5 | 24/10/2026 | Retoma a estrutura dos planejamentos do professor, adaptada ao complemento e a Letícia; retira identificação de versões do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Reorganiza o DECIDE para a proposta de complementos, separa questões de avaliação e roteiro, indica P01 e substitui a agenda anterior por coleta a agendar; simplifica instrumentos e preserva o histórico do recorte docente | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Planejamento DECIDE inicial da avaliação da HTA/CTT | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Fundamentação de método e piloto, recrutamento e logística | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 13/10/2026 | Simplificação do texto e consolidação dos instrumentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 13/10/2026 | Definição de participante, equipe e agenda provisória | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 23/10/2026 | Adaptação do recorte para Letícia, instrumentos e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 24/10/2026 | Padronização da estrutura do planejamento para complementos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 24/10/2026 | Reorganização do DECIDE, separação do roteiro e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

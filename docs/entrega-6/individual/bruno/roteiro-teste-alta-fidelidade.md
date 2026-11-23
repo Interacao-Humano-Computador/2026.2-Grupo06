@@ -192,10 +192,10 @@ O Codex (OpenAI) apoiou a implementação do protótipo, as verificações técn
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 10/11/2026 | Preparação do protótipo AF-1.0, instruções operacionais e roteiro das quatro tarefas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.1` | 10/11/2026 | Inclusão de controles visíveis para teste livre e acesso sem esses controles para avaliação mediada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.2` | 10/11/2026 | Inclusão do arquivo editável, protótipo Figma e diferenças operacionais em relação ao HTML | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.3` | 10/11/2026 | Organização do roteiro e dos acessos ao protótipo na Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 10/11/2026 | Protótipo AF-1.0, instruções e roteiro das tarefas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 10/11/2026 | Modos de acesso para teste livre e avaliação mediada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 10/11/2026 | Inclusão do arquivo editável e protótipo no Figma | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 10/11/2026 | Organização do roteiro e acessos na Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Histórico de versão do material de teste.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

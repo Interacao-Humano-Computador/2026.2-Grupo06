@@ -188,10 +188,10 @@ Este documento contou com apoio do Codex (OpenAI) e do Claude Sonnet 5.5 (Anthro
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 03/10/2026 | Abertura da página, sem o conteúdo dos itens 13 e 14 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.0` | 04/10/2026 | Item de conteúdo, metas com indicadores e faixas (item 13) e razão da seleção (item 14) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 05/10/2026 | Revê metas e justificativas conforme o livro e os quatro perfis; distingue eficácia, evidências, indicadores, faixas propostas e protocolo de avaliação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.2` | 06/10/2026 | Relaciona M0–M6 às evidências, tarefas, princípios e condições da plataforma, explicitando as divergências entre os artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 03/10/2026 | Abertura da estrutura da página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 04/10/2026 | Fundamentação, metas com indicadores e justificativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/10/2026 | Revisão das metas, faixas e protocolo de avaliação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 06/10/2026 | Vínculo das metas M0–M6 com evidências, tarefas e princípios | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

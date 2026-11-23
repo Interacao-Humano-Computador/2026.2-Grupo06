@@ -658,8 +658,8 @@ O Google Gemini e o Antigravity apoiaram a organização em blocos recolhidos, a
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 19/11/2026 | Estruturação da lista de verificação não preenchida da Etapa 4 (D01–D11, itens oficiais 2–13 com recortes grifados da lista docente e itens 14–23 elaborados pelo grupo) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 21/11/2026 | Sinaliza a V1 como histórica e registra a rastreabilidade de todos os critérios com a Lista V2 oficial da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado) |
+| `1.0` | 19/11/2026 | Estruturação da lista V1 da Etapa 4 com recortes grifados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 21/11/2026 | Indicação de versão histórica e rastreabilidade com a V2 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) (designado) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

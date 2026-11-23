@@ -115,7 +115,7 @@ A tabela abaixo indica os achados prioritários que merecem voltar à pauta na p
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 21/11/2026 | Registro das 40 respostas, constatações, recortes de evidência e inventário da autoinspeção da Etapa 4 no Grupo 06. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 21/11/2026 | Registro da autoinspeção da Etapa 4 no Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

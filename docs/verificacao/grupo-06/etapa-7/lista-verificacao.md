@@ -105,9 +105,9 @@ A Tabela 4 registra a versão deste artefato.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 15/11/2026 | Abertura da ficha, sem respostas de inspeção | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.2` | 15/11/2026 | Registro das respostas e dos encaminhamentos da reunião de inspeção a partir da transcrição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `0.3` | 16/11/2026 | Inclusão do vídeo não listado, ajuste do horário da inspeção e indicação de Luís Henrique como revisor | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 15/11/2026 | Abertura da ficha de inspeção | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 15/11/2026 | Registro das respostas e encaminhamentos da reunião | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 16/11/2026 | Inclusão do vídeo não listado e ajuste de horário | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
