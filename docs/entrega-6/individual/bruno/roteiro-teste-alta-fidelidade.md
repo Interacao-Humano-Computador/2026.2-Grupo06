@@ -186,7 +186,7 @@ A amostra individual permite observações exploratórias, não estimativas popu
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a implementação do protótipo, as verificações técnicas e a elaboração do roteiro com base no planejamento existente. Bruno Ferreira Dornelas mantém a responsabilidade acadêmica. A revisão humana prevista é de Luís Henrique Arruda Luna; este registro não comprova sua realização.
+O Codex (OpenAI) apoiou a implementação do protótipo, as verificações técnicas e a elaboração do roteiro com base no planejamento existente. Bruno Ferreira Dornelas mantém a responsabilidade acadêmica.
 
 ## Histórico de versão
 

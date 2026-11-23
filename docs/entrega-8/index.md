@@ -47,9 +47,9 @@ As listas usam os critérios de desenvolvimento do plano de ensino e fundamentam
 
 | Etapa | Artefatos | Lista V1 | Lista V2 oficial |
 | --- | --- | --- | --- |
-| 1 | Planejamento geral, sites avaliados, processo de design e ferramentas | [V1 da Etapa 1](../verificacao/grupo-06/etapa-1/lista-verificacao.md) | [24 critérios](lista-etapa-1.md) |
-| 2 | Perfil do usuário, ética, técnicas de coleta, personas, cenários e análise de tarefas | [V1 da Etapa 2](../verificacao/grupo-06/etapa-2/lista-verificacao.md) | [27 critérios](lista-etapa-2.md) |
-| 3 | Princípios gerais, metas de usabilidade e guia de estilo | [V1 da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md) | [30 critérios](lista-etapa-3.md) |
+| 1 | Planejamento geral, sites avaliados, processo de design e ferramentas | [V1 da Etapa 1](../verificacao/listas/etapa-1.md) | [24 critérios](lista-etapa-1.md) |
+| 2 | Perfil do usuário, ética, técnicas de coleta, personas, cenários e análise de tarefas | [V1 da Etapa 2](../verificacao/listas/etapa-2.md) | [27 critérios](lista-etapa-2.md) |
+| 3 | Princípios gerais, metas de usabilidade e guia de estilo | [V1 da Etapa 3](../verificacao/listas/etapa-3.md) | [30 critérios](lista-etapa-3.md) |
 | 4 | Storyboards, análise de tarefas e planejamentos da avaliação e dos relatos | [V1 da Etapa 4](../verificacao/listas/etapa-4.md) | [40 critérios](lista-etapa-4.md) |
 | 5 | Relatos do storyboard e da análise de tarefas e dois planos para o papel | [V1 da Etapa 5](../verificacao/listas/etapa-5.md) | [31 critérios](lista-etapa-5.md) |
 | 6 | Relato do papel e dois planos para a alta fidelidade | [V1 da Etapa 6](../verificacao/listas/etapa-6.md) | [27 critérios](lista-etapa-6.md) |
@@ -103,6 +103,7 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 | `1.4` | 21/11/2026 | Integra as quatro fichas V2 e os resultados consolidados das Etapas 1 e 2 (total de 208 respostas em oito fichas). | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 22/11/2026 | Integra com `main`, preservando as listas V2 e fichas das Etapas 3 e 5 ao lado das Etapas 1, 2, 6 e 7. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 22/11/2026 | Integra a Lista V2. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 23/11/2026 | Vincula as listas V1 não preenchidas das Etapas 1, 2 e 3. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

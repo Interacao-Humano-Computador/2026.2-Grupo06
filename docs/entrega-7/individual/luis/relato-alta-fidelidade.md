@@ -201,7 +201,7 @@ A Figura 1 apresenta a fonte da estrutura do relato.
 
 ## Agradecimentos
 
-Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela, a estruturação e a redação. Os localizadores foram identificados pelas mudanças de tela; as opiniões são paráfrases do registro do moderador. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela, a estruturação e a redação. Os localizadores foram identificados pelas mudanças de tela; as opiniões são paráfrases do registro do moderador. Luís Henrique Arruda Luna responde pelo conteúdo.
 
 ## Histórico de versão
 

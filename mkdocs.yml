@@ -350,6 +350,9 @@ nav:
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
+          - Etapa 1 · V1: verificacao/listas/etapa-1.md
+          - Etapa 2 · V1: verificacao/listas/etapa-2.md
+          - Etapa 3 · V1: verificacao/listas/etapa-3.md
           - Etapa 4 · V1: verificacao/listas/etapa-4.md
           - Etapa 5: verificacao/listas/etapa-5.md
           - Etapa 6 · V1: verificacao/listas/etapa-6.md

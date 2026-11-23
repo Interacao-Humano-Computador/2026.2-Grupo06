@@ -9,7 +9,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Organização do relato e das evidências individuais | [Conteúdo](#introducao) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Histórico de versão](#historico-de-versao) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -52,7 +52,7 @@ As sessões avaliam a interface de alta fidelidade navegável **AF-1.0** frente 
 
 ## Agradecimentos
 
-O trabalho baseia-se na fundamentação metodológica de Barbosa e Silva (2010) e Steve Krug (2010). Israel Soares de Paiva responde pelo conteúdo e execução da avaliação. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O trabalho baseia-se na fundamentação metodológica de Barbosa e Silva (2010) e Steve Krug (2010). Israel Soares de Paiva responde pelo conteúdo e execução da avaliação.
 
 ## Histórico de versão
 

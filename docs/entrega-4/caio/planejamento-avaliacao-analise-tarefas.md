@@ -222,9 +222,7 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312). O
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026.
-
-Grok (xAI) apoiou a redação e a organização deste planejamento. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pelo conteúdo.
+Grok (xAI) apoiou a redação e a organização deste planejamento, e Codex (OpenAI) apoiou a atualização de 22/10/2026. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pelo conteúdo.
 
 ## Histórico de versão
 

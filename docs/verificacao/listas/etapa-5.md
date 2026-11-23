@@ -470,7 +470,7 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a reorganização das perguntas. Caio responde pelos critérios; Bruno Ferreira Dornelas é o revisor desta atualização.
+Codex (OpenAI) apoiou a consulta das fontes e a reorganização das perguntas. Caio Breno de Souza Bezerra responde pelos critérios.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

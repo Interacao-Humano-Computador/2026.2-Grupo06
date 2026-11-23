@@ -451,7 +451,7 @@ O cronograma pede o relato dos resultados da avaliação do protótipo de alta f
 
 ## Agradecimentos
 
-Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão dos critérios da V1 ficou a cargo de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

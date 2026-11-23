@@ -12,14 +12,13 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Inclusão da lista da Etapa 5 | [Estrutura](#estrutura) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão da autoverificação da Etapa 5 e da inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Participação na inspeção da Etapa 5 do Grupo 07 | [Estrutura](#estrutura) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Estrutura](#estrutura) |
-| Codex (OpenAI) e Antigravity | Apoio à atualização do índice | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 e das listas V1 das Etapas 1, 2, 3 e 4 | [Estrutura](#estrutura) |
+| Codex (OpenAI), Google Gemini e Antigravity | Apoio à atualização do índice e dos vínculos V1–V2 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Introdução
-
 
 Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao longo da disciplina de Interação Humano-Computador. A verificação é realizada por meio de inspeção, técnica desenvolvida por Fagan (1976), utilizando checklists estruturadas com base nos critérios exigidos pelo plano de ensino e na literatura de referência da disciplina.
 
@@ -33,6 +32,12 @@ A seção está organizada em dois menus: **Listas de verificação**, com os cr
 - **Verificação do Grupo 05:** inspeção dos artefatos do Grupo 05, conforme designação da disciplina.
 - **Verificação do Grupo 07:** inspeção dos artefatos do Grupo 07, conforme designação da disciplina.
 
+A [lista V1 da Etapa 1](listas/etapa-1.md) reúne os critérios não preenchidos da primeira entrega, aplicados na [Autoverificação da Etapa 1](grupo-06/etapa-1/lista-verificacao.md) e na [Inspeção da Etapa 1 do Grupo 07](grupo-07/etapa-1/lista-verificacao.md), com revisão oficial na [Lista V2 da Etapa 1](../entrega-8/lista-etapa-1.md).
+
+A [lista V1 da Etapa 2](listas/etapa-2.md) consolida os critérios da segunda entrega, cujas respostas históricas constam na [Autoverificação da Etapa 2](grupo-06/etapa-2/lista-verificacao.md) e na [Inspeção da Etapa 2 do Grupo 05](grupo-05/etapa-2/lista-verificacao.md), atualizados na [Lista V2 da Etapa 2](../entrega-8/lista-etapa-2.md).
+
+A [lista V1 da Etapa 3](listas/etapa-3.md) documenta os critérios da fase de análise de requisitos aplicados na [Autoverificação da Etapa 3](grupo-06/etapa-3/lista-verificacao.md) e na [Inspeção da Etapa 3 do Grupo 07](grupo-07/etapa-3/lista-verificacao.md), com versão revisada na [Lista V2 da Etapa 3](../entrega-8/lista-etapa-3.md).
+
 A [lista V1 da Etapa 4](listas/etapa-4.md) preserva os critérios da primeira inspeção, cujas respostas históricas encontram-se na [Autoverificação da Etapa 4](grupo-06/etapa-4/lista-verificacao.md) e na [Inspeção da Etapa 4 do Grupo 05](grupo-05/etapa-4/lista-verificacao.md). A [Lista V2 da Etapa 4](../entrega-8/lista-etapa-4.md) e as reinspeções do [Grupo 06](../entrega-8/grupo-06/etapa-4.md) e do [Grupo 05](../entrega-8/grupo-05/etapa-4.md) estão publicadas na Etapa 8.
 
 A [lista da Etapa 5](listas/etapa-5.md) apresenta os critérios para os quatro artefatos dessa entrega, com fundamentação bibliográfica. As respostas da inspeção interna do próprio grupo estão consolidadas na [Autoverificação da Etapa 5](grupo-06/etapa-5/lista-verificacao.md), e a avaliação do grupo +1 encontra-se na [Inspeção da Etapa 5 do Grupo 07](grupo-07/etapa-5/lista-verificacao.md).
@@ -41,7 +46,7 @@ As listas V1 da [Etapa 6](listas/etapa-6.md) e da [Etapa 7](listas/etapa-7.md) d
 
 ## Agradecimentos
 
-Codex (OpenAI) e Antigravity apoiaram a atualização do índice com a lista e as inspeções da Etapa 5.
+Codex (OpenAI), Google Gemini e Antigravity apoiaram a atualização do índice com as listas e inspeções das Etapas 1 a 7.
 
 Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
 
@@ -62,6 +67,7 @@ O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 | `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 19/11/2026 | Inclusão da lista não preenchida da Etapa 4 no menu de listas de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 21/11/2026 | Vinculação da lista V1 e das fichas históricas da Etapa 4 à Lista V2 e às reinspeções da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 23/11/2026 | Inclusão das listas V1 não preenchidas das Etapas 1, 2 e 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 1
 
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão na [Lista V1 da Etapa 1](../../listas/etapa-1.md), e a reinspeção revisada encontra-se na [Etapa 8 · Grupo 07](../../../entrega-8/grupo-07/etapa-1.md) com base na [Lista V2 da Etapa 1](../../../entrega-8/lista-etapa-1.md).
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.

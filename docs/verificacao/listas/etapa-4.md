@@ -3,7 +3,7 @@
 # Lista de verificação — Etapa 4 · V1
 
 !!! warning "V1 desatualizada"
-    A [Lista V2 da Etapa 4](../../entrega-8/lista-etapa-4.md) é a versão oficial para a reinspeção da Etapa 8, organizada por conteúdo e separando os critérios oficiais imutáveis dos itens elaborados pelo grupo. Esta página preserva a redação original da primeira inspeção. Cada pergunta aponta para seu correspondente na V2 ou para a justificativa de sua reorganização. Consulte também a [conferência das respostas V1](../../entrega-8/conferencia-anterior.md).
+    A [Lista V2 da Etapa 4](../../entrega-8/lista-etapa-4.md) é a versão oficial para a reinspeção da Etapa 8, organizada por conteúdo. Esta página preserva a redação original da primeira inspeção. Cada pergunta aponta para seu correspondente na V2 ou para a justificativa de sua reorganização. Consulte também a [conferência das respostas V1](../../entrega-8/conferencia-anterior.md).
 
 ## Tabela de contribuição
 
@@ -534,7 +534,7 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C19 (Item 19) — Cada quadro do Storyboard possui rastreabilidade formal e identificada com as operações/subobjetivos modelados na Análise de Tarefas?"
 
-    **Rastreabilidade na V2.** Retirado por duplicidade direta com o item oficial imutável [E4-02](../../entrega-8/lista-etapa-4.md#e4-02) (`E4-C09`); substituído pelos critérios específicos de Storyboard [E4-03](../../entrega-8/lista-etapa-4.md#e4-03) a [E4-10](../../entrega-8/lista-etapa-4.md#e4-10).
+    **Rastreabilidade na V2.** Retirado por duplicidade direta com o item oficial [E4-02](../../entrega-8/lista-etapa-4.md#e4-02) (`E4-C09`); substituído pelos critérios específicos de Storyboard [E4-03](../../entrega-8/lista-etapa-4.md#e4-03) a [E4-10](../../entrega-8/lista-etapa-4.md#e4-10).
 
     **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
 
@@ -606,7 +606,7 @@ Em cumprimento à diretriz final da lista oficial (*"Cada integrante da equipe d
 
 ??? question "E4-C22 (Item 22) — O artefato fixa a realização do teste-piloto com participante distinto da amostra oficial e registra formalmente o descarte de seus dados no relato final?"
 
-    **Rastreabilidade na V2.** Retirado por duplicidade direta com os itens oficiais imutáveis [E4-17](../../entrega-8/lista-etapa-4.md#e4-17) (`E4-C11`) e [E4-18](../../entrega-8/lista-etapa-4.md#e4-18) (`E4-C12`).
+    **Rastreabilidade na V2.** Retirado por duplicidade direta com os itens oficiais [E4-17](../../entrega-8/lista-etapa-4.md#e4-17) (`E4-C11`) e [E4-18](../../entrega-8/lista-etapa-4.md#e4-18) (`E4-C12`).
 
     **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
 

@@ -72,7 +72,7 @@ Pelo plano de ensino [1], os marcos da Etapa 6 são: **entrega em 03/11 · inspe
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na estruturação Markdown, padronização de tabelas e conferência das diretrizes de entrega. Heitor Pinheiro Gonçalves das Chagas responde pelo conteúdo e concepção técnica dos artefatos. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na estruturação Markdown, padronização de tabelas e conferência das diretrizes de entrega. Heitor Pinheiro Gonçalves das Chagas responde pelo conteúdo e concepção técnica dos artefatos.
 
 ## Histórico de versão
 

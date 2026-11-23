@@ -105,7 +105,7 @@ As conclusões ficam limitadas ao que foi observado com 2 a 3 pessoas em papel. 
 
 ## Agradecimentos
 
-O Antigravity (IA generativa) apoiou a organização das tabelas e a redação. A responsabilidade pelo conteúdo é de Heitor Pinheiro Gonçalves das Chagas. A revisão técnica por pares é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity (IA generativa) apoiou a organização das tabelas e a redação. A responsabilidade pelo conteúdo é de Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

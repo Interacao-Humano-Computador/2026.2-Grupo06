@@ -9,7 +9,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Consolidação das sessões, análise de usabilidade, triagem de Krug e decisões de reprojeto | [Conteúdo](#introducao) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Histórico de versão](#historico-de-versao) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -173,7 +173,7 @@ A estrutura deste relato e a análise das sessões apoiam-se na literatura de In
 
 ## Agradecimentos
 
-O planejamento, condução e análise contaram com a revisão técnica de [Bruno Ferreira Dornelas](https://github.com/brunnf). Israel Soares de Paiva assume a responsabilidade integral pelo conteúdo deste relato.
+O relato apoia-se na fundamentação metodológica de Barbosa e Silva (2010) e Steve Krug (2010). Israel Soares de Paiva assume a responsabilidade integral pelo planejamento, pela condução da avaliação e pelo conteúdo deste relato.
 
 ## Histórico de versão
 

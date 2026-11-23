@@ -32,9 +32,7 @@ O recorte melhora uma funcionalidade existente: acesso pelo portal do Senado, re
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026.
-
-Grok (xAI) apoiou a organização desta página de índice. Caio Breno de Souza Bezerra permanece responsável pelo recorte.
+Grok (xAI) apoiou a organização desta página de índice, e Codex (OpenAI) apoiou a atualização de 22/10/2026. Caio Breno de Souza Bezerra permanece responsável pelo recorte.
 
 ## Histórico de versão
 

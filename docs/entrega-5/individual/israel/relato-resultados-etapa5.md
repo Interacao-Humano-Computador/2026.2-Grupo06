@@ -139,7 +139,7 @@ A Tabela 5 documenta a cadeia de rastreabilidade bidirecional que conecta os art
 
 ## Agradecimentos
 
-Este documento foi elaborado por Israel Soares de Paiva com a colaboração técnica da equipe do Grupo 06 e apoio de inteligência artificial na padronização textual e formatação Markdown. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Este documento foi elaborado por Israel Soares de Paiva com a colaboração técnica da equipe do Grupo 06 e apoio de inteligência artificial na padronização textual e formatação Markdown.
 
 ---
 

@@ -178,11 +178,7 @@ A página [Equipe](equipe.md) traz a formação e a divisão de papéis desta et
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Etapa 5, sob responsabilidade de Bruno Ferreira Dornelas.
-
-Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
-
-Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Etapa 5 e a integração dos acessos e da navegação das Etapas 6 e 7, sob responsabilidade de Bruno Ferreira Dornelas e Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 

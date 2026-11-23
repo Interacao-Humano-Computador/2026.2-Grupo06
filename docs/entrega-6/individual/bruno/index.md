@@ -51,9 +51,7 @@ A Tabela 2 reúne os três artefatos previstos no plano de ensino [1] para a Eta
 
 ## Agradecimentos
 
-O assistente Antigravity (Google DeepMind) apoiou a preparação e revisão da estrutura documental. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico. Revisor: [Luís Henrique Arruda Luna](https://github.com/Donnk61).
-
-O Codex (OpenAI) apoiou a organização dos acessos ao protótipo e aos roteiros de alta fidelidade na Etapa 6.
+O assistente Antigravity (Google DeepMind) apoiou a preparação e revisão da estrutura documental, e o Codex (OpenAI) apoiou a organização dos acessos ao protótipo e aos roteiros de alta fidelidade na Etapa 6. Bruno Ferreira Dornelas responde pelo conteúdo acadêmico.
 
 ## Histórico de versão
 

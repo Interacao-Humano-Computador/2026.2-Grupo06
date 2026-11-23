@@ -164,7 +164,7 @@ O estudo não mede recuperação de incidente, recordação após sete dias, com
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas com a gravação e os localizadores. Caio Breno de Souza Bezerra responde pelo conteúdo e pela sessão.
 
 ## Histórico de versão
 
