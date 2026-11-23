@@ -36,7 +36,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Abra a seção de histórico de versão em cada documento principal da Etapa 3 ([Plataforma](../entrega-3/plataforma.md), [Princípios Gerais](../entrega-3/principios-gerais.md), [Tópicos dos Princípios](../entrega-3/topicos-principios.md), [Metas de Usabilidade](../entrega-3/metas-usabilidade.md), [Guia de Estilo](../entrega-3/guia-de-estilo.md) e [Telas de Interface](../entrega-3/telas-interface.md)). Confira se as entradas permitem distinguir a versão corrente, a data, a descrição da alteração, os autores e os revisores.
 
-    **Rastreabilidade na V1.** [Item 1 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · mantido com campos explícitos e verificação individualizada.
+    **Rastreabilidade na V1.** [D01](../verificacao/listas/etapa-3.md#d01) · mantido com campos explícitos e verificação individualizada.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/historico.png){ loading=lazy }
 
@@ -52,7 +52,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Leia a entrada da versão corrente em cada documento da Etapa 3. O revisor deve ser um integrante distinto do autor para garantir a independência da revisão por pares. Campo vazio, autor repetido na revisão ou pendência sem atribuição indicam lacuna.
 
-    **Rastreabilidade na V1.** [Item 2 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · refinado para a versão examinada e independência de pares.
+    **Rastreabilidade na V1.** [D02](../verificacao/listas/etapa-3.md#d02) · refinado para a versão examinada e independência de pares.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/autoria.png){ loading=lazy }
 
@@ -68,7 +68,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Confira a seção de referências bibliográficas ao final de cada documento da Etapa 3. Devem estar formatadas conforme as normas ABNT e fundamentar conceitualmente os métodos, conceitos e modelos empregados (ex.: Barbosa e Silva, Mayhew, Nielsen).
 
-    **Rastreabilidade na V1.** [Item 3 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · delimita os documentos principais e padronização ABNT.
+    **Rastreabilidade na V1.** [D03](../verificacao/listas/etapa-3.md#d03) · delimita os documentos principais e padronização ABNT.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/bibliografia.png){ loading=lazy }
 
@@ -84,7 +84,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Percorra todas as tabelas e figuras presentes nos artefatos da Etapa 3. Procure número sequencial, legenda explicativa no topo ou base, indicação explícita da fonte e chamadas ativas no corpo do texto antes da inserção do elemento.
 
-    **Rastreabilidade na V1.** [Item 4 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · mantido com escopo em todos os elementos visuais.
+    **Rastreabilidade na V1.** [D04](../verificacao/listas/etapa-3.md#d04) · mantido com escopo em todos os elementos visuais.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/figuras.png){ loading=lazy }
 
@@ -100,7 +100,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se cada documento da Etapa 3 abre com uma seção de Introdução que delimita o objetivo do artefato, seu escopo no ciclo de vida de IHC e o papel daquele produto na engenharia de usabilidade.
 
-    **Rastreabilidade na V1.** [Item 5 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · mantido com foco em contextualização prévia.
+    **Rastreabilidade na V1.** [D05](../verificacao/listas/etapa-3.md#d05) · mantido com foco em contextualização prévia.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/introducao.png){ loading=lazy }
 
@@ -116,7 +116,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse a tabela de cronograma executado da Etapa 3 em [Cronograma](../entrega-1/cronograma.md). Verifique se todas as atividades de elaboração e revisão contam com data de início e término efetivas, horários e indicação do integrante responsável.
 
-    **Rastreabilidade na V1.** [Item 6 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · validação da completude temporal e responsabilidades.
+    **Rastreabilidade na V1.** [D06](../verificacao/listas/etapa-3.md#d06) · validação da completude temporal e responsabilidades.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/cronograma.png){ loading=lazy }
 
@@ -132,7 +132,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Consulte o índice de atas em [Atas de Reunião](../atas/index.md). Verifique se as reuniões ocorridas durante o período da Etapa 3 possuem ata formalizada com registro de data, horário de início e fim, participantes presentes, pauta discutida e decisões tomadas.
 
-    **Rastreabilidade na V1.** [Item 7 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · verificação da ata formal e deliberações.
+    **Rastreabilidade na V1.** [D07](../verificacao/listas/etapa-3.md#d07) · verificação da ata formal e deliberações.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/atas.png){ loading=lazy }
 
@@ -148,7 +148,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se a gravação da reunião de alinhamento ou inspeção da Etapa 3 está disponível com link público/incorporado, permitindo validar a presença dos membros e a discussão dos temas.
 
-    **Rastreabilidade na V1.** [Item 8 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · link acessível para a gravação da reunião.
+    **Rastreabilidade na V1.** [D08](../verificacao/listas/etapa-3.md#d08) · link acessível para a gravação da reunião.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/gravacao.png){ loading=lazy }
 
@@ -164,7 +164,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Apresentações da Etapa 3](../apresentacoes/etapa-03.md). Confira se o vídeo de apresentação da etapa está publicado no YouTube como "não listado" e se o player responsivo está incorporado diretamente na página.
 
-    **Rastreabilidade na V1.** [Item 9 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · vídeo não listado e incorporação na wiki.
+    **Rastreabilidade na V1.** [D09](../verificacao/listas/etapa-3.md#d09) · vídeo não listado e incorporação na wiki.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/apresentacao.png){ loading=lazy }
 
@@ -180,7 +180,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Confira a abertura de cada página da Etapa 3. Deve constar uma Tabela de Contribuição discriminando o nome do integrante, o papel ou atividade desempenhada e o link direto para a seção que documenta sua entrega.
 
-    **Rastreabilidade na V1.** [Item 10 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · detalhamento da contribuição por seção.
+    **Rastreabilidade na V1.** [D10](../verificacao/listas/etapa-3.md#d10) · detalhamento da contribuição por seção.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/contribuicao.png){ loading=lazy }
 
@@ -196,7 +196,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Procure a seção de Agradecimentos ao final de cada documento da Etapa 3. O texto deve declarar nominalmente as ferramentas de IA Generativa consultadas (ex.: ChatGPT, Claude, Codex) e detalhar seu escopo de uso (ex.: revisão gramatical, conferência de normas, sugestão de estrutura).
 
-    **Rastreabilidade na V1.** [Item 11 (Tabela 2)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · declaração explícita de IA e escopo de atuação.
+    **Rastreabilidade na V1.** [D11](../verificacao/listas/etapa-3.md#d11) · declaração explícita de IA e escopo de atuação.
 
     ![Sales (2026), p. 3 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/ia.png){ loading=lazy }
 
@@ -214,7 +214,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Abra o artefato [Características da Plataforma](../entrega-3/plataforma.md). Confira se há identificação clara do ambiente de execução (plataforma web responsiva), limitações técnicas e possibilidades operacionais, acompanhadas de citação de Barbosa e Silva (2010, pp. 109–110) e do recorte do livro.
 
-    **Rastreabilidade na V1.** [Item 10 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · identificação das características da plataforma e recorte bibliográfico.
+    **Rastreabilidade na V1.** [E3-C10](../verificacao/listas/etapa-3.md#e3-c10) · identificação das características da plataforma e recorte bibliográfico.
 
     ![Barbosa e Silva (2010), p. 109. Trecho grifado para o critério.](../assets/img/referencias/barbosa-plataforma-p109.png){ loading=lazy }
 
@@ -230,7 +230,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Princípios Gerais de Projeto](../entrega-3/principios-gerais.md). Verifique se o artefato declara formalmente os princípios de design adotados no projeto, cita a literatura de referência (Barbosa e Silva, 2010; Barbosa et al., 2021) e inclui o recorte ilustrativo da fonte.
 
-    **Rastreabilidade na V1.** [Item 11 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · declaração dos princípios com citação e foto da referência.
+    **Rastreabilidade na V1.** [E3-C11](../verificacao/listas/etapa-3.md#e3-c11) · declaração dos princípios com citação e foto da referência.
 
     ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
 
@@ -246,7 +246,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Tópicos dos Princípios](../entrega-3/topicos-principios.md). Confira se os oito tópicos canônicos estão contemplados: (1) correspondência com expectativas, (2) simplicidade nas tarefas, (3) controle e liberdade, (4) consistência e padronização, (5) antecipação de necessidades, (6) visibilidade e reconhecimento, (7) conteúdo relevante e (8) projeto para erros, com recortes da literatura de suporte.
 
-    **Rastreabilidade na V1.** [Item 12 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · cobertura completa dos 8 tópicos estruturantes.
+    **Rastreabilidade na V1.** [E3-C12](../verificacao/listas/etapa-3.md#e3-c12) · cobertura completa dos 8 tópicos estruturantes.
 
     ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-lista-p238.png){ loading=lazy }
 
@@ -262,7 +262,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Consulte [Metas de Usabilidade](../entrega-3/metas-usabilidade.md). Verifique se as metas que o projeto deve alcançar estão definidas (M0 a M6), fundamentadas na literatura clássica (Nielsen, 1993; Barbosa e Silva, 2010) e acompanhadas de recorte explicativo da fonte.
 
-    **Rastreabilidade na V1.** [Item 13 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · formalização das metas com referência bibliográfica e recorte.
+    **Rastreabilidade na V1.** [E3-C13](../verificacao/listas/etapa-3.md#e3-c13) · formalização das metas com referência bibliográfica e recorte.
 
     ![Barbosa e Silva (2010), p. 105. Trecho grifado para o critério.](../assets/img/referencias/barbosa-metas-definicao-p105.png){ loading=lazy }
 
@@ -278,7 +278,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se o artefato de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md) explica por que certas metas foram priorizadas em detrimento de outras, ancorando as justificativas nas dores diagnosticadas no [Perfil do Usuário](../entrega-2/perfil-usuario.md) e na [Análise de Tarefas](../entrega-2/analise-tarefas.md) da Etapa 2.
 
-    **Rastreabilidade na V1.** [Item 14 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · justificativa e priorização das metas com dados da Etapa 2.
+    **Rastreabilidade na V1.** [E3-C14](../verificacao/listas/etapa-3.md#e3-c14) · justificativa e priorização das metas com dados da Etapa 2.
 
     ![Barbosa e Silva (2010), p. 32. Trecho grifado para o critério.](../assets/img/referencias/barbosa-metas-priorizacao-p32.png){ loading=lazy }
 
@@ -294,7 +294,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Guia de Estilo](../entrega-3/guia-de-estilo.md). Verifique se a abertura do guia define seu papel normativo na equipe de desenvolvimento, citando explicitamente a literatura (Barbosa e Silva, 2010, p. 282) e trazendo o recorte do livro.
 
-    **Rastreabilidade na V1.** [Item 15 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · definição formal do guia com referência e foto da fonte.
+    **Rastreabilidade na V1.** [E3-C15](../verificacao/listas/etapa-3.md#e3-c15) · definição formal do guia com referência e foto da fonte.
 
     ![Barbosa e Silva (2010), p. 282. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-definicao-p282.png){ loading=lazy }
 
@@ -310,7 +310,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Confira se o [Guia de Estilo](../entrega-3/guia-de-estilo.md) organiza seu conteúdo nas seis seções previstas por Mayhew (1999) e Barbosa e Silva (2010, p. 283): 1. Introdução, 2. Resultados de análise, 3. Elementos de interface, 4. Elementos de interação, 5. Elementos de ação e 6. Vocabulário e padrões.
 
-    **Rastreabilidade na V1.** [Item 16 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · conferência da estrutura clássica completa dos 6 tópicos.
+    **Rastreabilidade na V1.** [E3-C16](../verificacao/listas/etapa-3.md#e3-c16) · conferência da estrutura clássica completa dos 6 tópicos.
 
     ![Barbosa e Silva (2010), p. 283. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png){ loading=lazy }
 
@@ -326,7 +326,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Correspondência com o Site](../entrega-3/guia-de-estilo.md#correspondencia-com-o-site-avaliado) e [Telas de Interface](../entrega-3/telas-interface.md). Confira se os padrões estéticos e de diálogo propostos respondem a gargalos reais do Portal do Senado Federal, com capturas do site original e propostas de reprojeto.
 
-    **Rastreabilidade na V1.** [Item 17 (Tabela 3)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · correspondência entre o guia, as telas e o portal real.
+    **Rastreabilidade na V1.** [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · correspondência entre o guia, as telas e o portal real.
 
     ![Barbosa e Silva (2010), p. 282. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-definicao-p282.png){ loading=lazy }
 
@@ -342,7 +342,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Na seção de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md#procedimento-de-avaliacao-e-faixas-de-aceitacao), confira se cada indicador possui definição da métrica (tempo, taxa de conclusão, contagem de erros), método de coleta e faixas numéricas de aceitação: inaceitável, aceitável e ideal (Barbosa e Silva, 2010, pp. 105–106).
 
-    **Rastreabilidade na V1.** [Item 18 (Tabela 4)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-18-bruno-ferreira-dornelas) · operacionalização das metas em três faixas de valores.
+    **Rastreabilidade na V1.** [E3-C18](../verificacao/listas/etapa-3.md#e3-c18) · operacionalização das metas em três faixas de valores.
 
     ![Barbosa e Silva (2010), p. 106. Trecho grifado para o critério.](../assets/img/referencias/barbosa-metas-definicao-p106.png){ loading=lazy }
 
@@ -358,7 +358,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se o artefato [Características da Plataforma](../entrega-3/plataforma.md) divide a análise em possibilidades e limitações, e se o documento de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md) conecta diretamente essas restrições tecnológicas à formulação de suas métricas, cumprindo a engenharia de Mayhew.
 
-    **Rastreabilidade na V1.** [Item 19 (Tabela 4)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-19-caio-breno-de-souza-bezerra) · possibilidades e limitações da plataforma como insumo das metas.
+    **Rastreabilidade na V1.** [E3-C19](../verificacao/listas/etapa-3.md#e3-c19) · possibilidades e limitações da plataforma como insumo das metas.
 
     ![Barbosa e Silva (2010), p. 110. Trecho grifado para o critério.](../assets/img/referencias/barbosa-plataforma-figura47-p110.png){ loading=lazy }
 
@@ -374,7 +374,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Abra o [Guia de Estilo](../entrega-3/guia-de-estilo.md) e [Telas de Interface](../entrega-3/telas-interface.md). Confira se as escolhas de cores, fontes, componentes e atalhos contêm o *design rationale* explícito, rastreando a decisão até as características das personas em [Perfil do Usuário](../entrega-2/perfil-usuario.md), fluxos em [Análise de Tarefas](../entrega-2/analise-tarefas.md) e requisitos em [Características da Plataforma](../entrega-3/plataforma.md) (Barbosa e Silva, 2010, p. 283).
 
-    **Rastreabilidade na V1.** [Item 20 (Tabela 4)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-20-heitor-pinheiro-goncalves-das-chagas) · design rationale e rastreabilidade no guia de estilo.
+    **Rastreabilidade na V1.** [E3-C20](../verificacao/listas/etapa-3.md#e3-c20) · design rationale e rastreabilidade no guia de estilo.
 
     ![Barbosa e Silva (2010), p. 283. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png){ loading=lazy }
 
@@ -390,7 +390,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** No artefato [Princípios Gerais](../entrega-3/principios-gerais.md), verifique se cada princípio adotado possui justificativa contextualizada no sistema do Senado, e se os princípios não selecionados têm o motivo da exclusão explicitado (Barbosa et al., 2021, p. 238).
 
-    **Rastreabilidade na V1.** [Item 21 (Tabela 4)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-21-israel-soares-de-paiva) · seleção e justificativa dos princípios adotados e descartados.
+    **Rastreabilidade na V1.** [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · seleção e justificativa dos princípios adotados e descartados.
 
     ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
 
@@ -406,7 +406,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Tópicos dos Princípios](../entrega-3/topicos-principios.md). Verifique se cada um dos oito tópicos apresenta a explicação detalhada de suas diretrizes (com página de referência) e pelo menos uma situação real de uso ou deficiência identificada na interface do Senado (Barbosa et al., 2021, pp. 237–238).
 
-    **Rastreabilidade na V1.** [Item 22 (Tabela 4)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-22-luis-henrique-luna-de-arruda) · explicação das diretrizes e manifestação empírica no portal.
+    **Rastreabilidade na V1.** [E3-C22](../verificacao/listas/etapa-3.md#e3-c22) · explicação das diretrizes e manifestação empírica no portal.
 
     ![Barbosa et al. (2021), pp. 237–238. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-lista-p238.png){ loading=lazy }
 
@@ -422,7 +422,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se as orientações de navegação, estilos de interação e telas típicas do [Guia de Estilo](../entrega-3/guia-de-estilo.md) dialogam com as tarefas mapeadas na [Análise de Tarefas](../entrega-2/analise-tarefas.md) (como agendamento de visita, consulta a proposições ou notícias).
 
-    **Rastreabilidade na V1.** Desdobramento do [Item 16 da V1](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · conexão com tarefas modeladas na Etapa 2.
+    **Rastreabilidade na V1.** Desdobramento do [E3-C16](../verificacao/listas/etapa-3.md#e3-c16) · conexão com tarefas modeladas na Etapa 2.
 
     ![Barbosa e Silva (2010), p. 193. Trecho grifado para o critério.](../assets/img/referencias/barbosa-hta.png){ loading=lazy }
 
@@ -438,7 +438,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Telas de Interface](../entrega-3/telas-interface.md). Verifique se as propostas de tela aplicam a grade de 12 colunas, paleta institucional, hierarquia tipográfica e disposição espacial descritas no [Guia de Estilo](../entrega-3/guia-de-estilo.md), assegurando consistência prévia às etapas de prototipação física e digital.
 
-    **Rastreabilidade na V1.** Desdobramento do [Item 17 da V1](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · consistência visual dos protótipos com o guia.
+    **Rastreabilidade na V1.** Desdobramento do [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · consistência visual dos protótipos com o guia.
 
     ![Barbosa e Silva (2010), p. 283. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png){ loading=lazy }
 
@@ -454,7 +454,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** No [Guia de Estilo](../entrega-3/guia-de-estilo.md) (seções 4 e 5), confira a especificação de estados de elementos interativos (ativo, inativo, foco, hover), mensagens claras de erro e avisos antes de ações irreversíveis (prevenção de erros).
 
-    **Rastreabilidade na V1.** Desdobramento do [Item 16 da V1 (Seções 4 e 5)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · feedback, tolerância e prevenção de falhas.
+    **Rastreabilidade na V1.** Desdobramento do [E3-C16 (Seções 4 e 5)](../verificacao/listas/etapa-3.md#e3-c16) · feedback, tolerância e prevenção de falhas.
 
     ![Barbosa et al. (2021), p. 247. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-erros-p247.png){ loading=lazy }
 
@@ -470,7 +470,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Na seção 6 do [Guia de Estilo](../entrega-3/guia-de-estilo.md), confira o glossário e a padronização de rótulos. Deve-se verificar a substituição de termos técnicos legislativos complexos por nomenclaturas intuitivas ou com explicações contextuais de suporte.
 
-    **Rastreabilidade na V1.** Desdobramento do [Item 16 da V1 (Seção 6)](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-conteudo-da-disciplina) · clareza terminológica e alinhamento conceitual.
+    **Rastreabilidade na V1.** Desdobramento do [E3-C16 (Seção 6)](../verificacao/listas/etapa-3.md#e3-c16) · clareza terminológica e alinhamento conceitual.
 
     ![Barbosa et al. (2021), p. 246. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-conteudo-p246.png){ loading=lazy }
 
@@ -486,7 +486,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Verifique se o [relato de inspeção da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md) associa as constatações aos minutos da gravação realizada em 06/10/2026 em [Vídeo de Verificação](../verificacao/grupo-06/etapa-3/lista-verificacao.md#video-de-verificacao), discriminando participantes, artefatos conferidos e decisões deliberadas.
 
-    **Rastreabilidade na V1.** Desdobramento dos [Itens 7 e 8 da V1](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · registro minucioso e vínculo vídeo-ata.
+    **Rastreabilidade na V1.** Desdobramento de [D07](../verificacao/listas/etapa-3.md#d07) e [D08](../verificacao/listas/etapa-3.md#d08) · registro minucioso e vínculo vídeo-ata.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/atas.png){ loading=lazy }
 
@@ -502,7 +502,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **O que conferir.** Acesse [Princípios Gerais de Projeto](../entrega-3/principios-gerais.md). Verifique se o artefato discute formalmente os compromissos de projeto (*trade-offs*) decorrentes da aplicação prática de diretrizes conflitantes (como o equilíbrio entre simplicidade da interface e poder/flexibilidade de recursos para usuários avançados).
 
-    **Rastreabilidade na V1.** Desdobramento do [Item 21 da V1](../verificacao/grupo-06/etapa-3/lista-verificacao.md#item-21-israel-soares-de-paiva) · trade-offs e compromissos de design reflexivo.
+    **Rastreabilidade na V1.** Desdobramento do [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · trade-offs e compromissos de design reflexivo.
 
     ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
 
@@ -519,6 +519,7 @@ A Lista de Verificação V2 da Etapa 3 preserva integralmente os 11 critérios g
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `2.0` | 19/11/2026 | Criação da lista de verificação expandida V2 da Etapa 3 no padrão da Etapa 8, com correspondência explícita à V1 e recortes bibliográficos. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 2.1 | 23/11/2026 | Atualiza os links de rastreabilidade para a Lista V1 da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
