@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração das listas V2, fichas de inspeção e resultados das Etapas 1 e 2 | [Lista V2 da Etapa 1](lista-etapa-1.md) · [Lista V2 da Etapa 2](lista-etapa-2.md) · [Resultados](inspecao.md#respostas-por-grupo) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Lista V2 da Etapa 3 e ficha de autoinspeção do Grupo 06 nessa etapa | [Lista V2 da Etapa 3](lista-etapa-3.md) · [Grupo 06](grupo-06/etapa-3.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Elaboração da Lista V2 da Etapa 4 (40 critérios por conteúdo e autoria), reinspeção dos Grupos 06 e 05 (−1), gráficos da Etapa 4 e conferência das fichas V1 da Etapa 4 | [Lista da Etapa 4](lista-etapa-4.md) · [Resultados da Etapa 4](resultados/etapa-4.md) · [Conferência V1](conferencia-anterior.md#grupo-06-etapa-4) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Elaboração da Lista V2 da Etapa 4, reinspeção dos Grupos 06 e 05 (−1), gráficos da Etapa 4 e conferência das fichas V1 da Etapa 4 | [Lista da Etapa 4](lista-etapa-4.md) · [Resultados da Etapa 4](resultados/etapa-4.md) · [Conferência V1](conferencia-anterior.md#grupo-06-etapa-4) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Lista V2 da Etapa 5 e fichas da autoinspeção do Grupo 06 e da reinspeção do Grupo 07 nessa etapa | [Lista V2 da Etapa 5](lista-etapa-5.md) · [Grupo 06](grupo-06/etapa-5.md) · [Grupo 07](grupo-07/etapa-5.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Documentação do escopo das Etapas 6 e 7, organização dos vínculos V1/V2 e adaptação do processo de Fagan | [Escopo e versões](#escopo-e-versoes) · [Listas](#listas-de-verificacao) · [Método de inspeção](#metodo-de-inspecao) |
 | Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) | Apoio à consulta das fontes, à edição dos textos e à organização das tabelas, imagens e gráficos | [Agradecimentos](#agradecimentos) |
@@ -102,7 +102,7 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 | `1.3` | 21/11/2026 | Integra as listas de verificação V2 das Etapas 1 e 2 e seus vínculos com as fichas V1. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 21/11/2026 | Integra as quatro fichas V2 e os resultados consolidados das Etapas 1 e 2 (total de 208 respostas em oito fichas). | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 22/11/2026 | Integra com `main`, preservando as listas V2 e fichas das Etapas 3 e 5 ao lado das Etapas 1, 2, 6 e 7. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.6` | 22/11/2026 | Integra a Lista V2, as reinspeções dos Grupos 06 e 05 (−1), os gráficos e a conferência V1 da Etapa 4, completando as Etapas 1 a 7. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 22/11/2026 | Integra a Lista V2. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
