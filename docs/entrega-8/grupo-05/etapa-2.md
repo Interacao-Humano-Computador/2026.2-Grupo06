@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 2](../lista-etapa-2.md) · [Resultados e gráficos](../resultados/etapa-2.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 2](../../verificacao/grupo-05/etapa-2/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-2)
+[Lista V2 da Etapa 2](../lista-etapa-2.md) · [Resultados e gráficos](../resultados/etapa-2.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 2](../../verificacao/grupo-05/etapa-2/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-grupo-05)
 
 ## Recorte consultado
 
@@ -87,6 +87,7 @@ A reinspeção abrange os **39 documentos da Etapa 2** em `docs/analise-de-requi
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Registro das 27 respostas e evidências da inspeção V2 da Etapa 2 no Grupo 05. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 2. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 05 (−1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

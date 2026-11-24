@@ -20,7 +20,7 @@ A entrega da Etapa 3 é em 06/10/2026, a inspeção em 07/10 e a apresentação 
 
 No ciclo de Mayhew, esses artefatos se encontram na análise de requisitos: o perfil do usuário, a análise de tarefas, as características da plataforma e os princípios gerais alimentam as metas de usabilidade, que o guia de estilo passa a registrar (BARBOSA; SILVA, 2010, p. 109–110). O perfil e as tarefas estão na Etapa 2. Os artefatos de plataforma, princípios, metas de usabilidade e guia de estilo estão publicados nas páginas indicadas na Tabela 2.
 
-Quem produz o artefato apresenta o próprio artefato no vídeo. A gravação da apresentação do grupo está disponível na [Apresentação da Etapa 3](../apresentacoes/etapa-03.md) e no [índice de apresentações](../apresentacoes/index.md).
+Quem produz o artefato apresenta o próprio artefato no vídeo. A gravação da apresentação do grupo está disponível na [Apresentação da Etapa 3](../apresentacoes/etapa-03.md) e no [índice de apresentações](../apresentacoes/index.md). Na Etapa 8, os artefatos desta entrega foram reinspecionados com a [Lista V2 da Etapa 3](../entrega-8/lista-etapa-3.md), consolidada nas fichas do [Grupo 06](../entrega-8/grupo-06/etapa-3.md) e do [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-3.md) e em [Resultados e gráficos da Etapa 3](../entrega-8/resultados/etapa-3.md).
 
 ## Itens da etapa
 
@@ -59,6 +59,7 @@ Este índice contou com o apoio de ferramentas de inteligência artificial na or
 | `0.4` | 06/10/2026 | Vincula o vídeo da Entrega 3 à página de apresentações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.5` | 06/10/2026 | Atualiza status de conclusão dos itens 11, 15, 16 e 17 e insere agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `0.6` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.7` | 23/11/2026 | Adiciona vínculos para a Lista V2, reinspeções e resultados da Etapa 3 na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

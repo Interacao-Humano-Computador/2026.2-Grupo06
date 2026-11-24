@@ -32,7 +32,7 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
 | 6 | 05/11/2026 | [Caio](https://youtu.be/vaXEtY_bNgE); demais a publicar | Um vídeo por integrante | [Etapa 6](etapa-06.md) |
 | 7 | 17/11/2026 | [Caio](https://youtu.be/xpPGuxcD86I); demais a publicar | Um vídeo por integrante | [Etapa 7](etapa-07.md) |
-| 8 | 24/11/2026 | Sete gravações das inspeções: [Etapa 1](https://youtu.be/W6Q3sFknr8w), [Etapa 2](https://youtu.be/EeMy9lV66Q8), [Etapa 3](https://youtu.be/FojGmm4kSGo), [Etapa 4](https://youtu.be/WXFuTJWdJW4), [Etapa 5](https://youtu.be/Xw5uybDebsc), [Etapa 6](https://youtu.be/MIcfm7qtJTg), [Etapa 7](https://youtu.be/g-zICSAWz3A) | Grupo 06 | [Etapa 8](etapa-08.md) |
+| 8 | 24/11/2026 | Nove gravações das inspeções — Grupo 06: [Etapa 1](https://youtu.be/W6Q3sFknr8w), [Etapa 2](https://youtu.be/EeMy9lV66Q8), [Etapa 3](https://youtu.be/FojGmm4kSGo), [Etapa 4](https://youtu.be/WXFuTJWdJW4), [Etapa 5](https://youtu.be/Xw5uybDebsc), [Etapa 6](https://youtu.be/MIcfm7qtJTg), [Etapa 7](https://youtu.be/g-zICSAWz3A) · Externas: [Grupo 05 (−1)](https://youtu.be/CuolulKrRGE) e [Grupo 07 (+1)](https://youtu.be/dd04ibyhJ_o) | Grupo 06 | [Etapa 8](etapa-08.md) |
 | Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
 
 <p class="caption">Tabela 2 — Vídeos de apresentação do projeto.</p>
@@ -69,6 +69,7 @@ Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidad
 | `1.5` | 11/11/2026 | Integra a página de apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.6` | 15/11/2026 | Inclui o vídeo individual de Caio na apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 22/11/2026 | Inclui a página da Etapa 8 com as sete gravações das inspeções | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.8` | 23/11/2026 | Adiciona os links das gravações das inspeções externas do Grupo 05 (−1) e do Grupo 07 (+1) na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

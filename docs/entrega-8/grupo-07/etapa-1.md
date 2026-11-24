@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Resultados e gráficos](../resultados/etapa-1.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 1](../../verificacao/grupo-07/etapa-1/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-1)
+[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Resultados e gráficos](../resultados/etapa-1.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 1](../../verificacao/grupo-07/etapa-1/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-grupo-07)
 
 ## Recorte consultado
 
@@ -86,6 +86,7 @@ Cada linha vincula o critério vigente da V2 à página publicada do Grupo 07 e 
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Registro das 24 respostas e evidências da inspeção V2 da Etapa 1 no Grupo 07. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 1. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 07 (+1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

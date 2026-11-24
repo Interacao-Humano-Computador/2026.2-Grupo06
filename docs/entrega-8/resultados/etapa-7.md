@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 7](../lista-etapa-7.md) · [Visão geral](../inspecao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-7)
+[Lista V2 da Etapa 7](../lista-etapa-7.md) · [Visão geral](../inspecao.md) · [Gravação · Grupo 06](../inspecao.md#video-etapa-7) · [Gravação · Grupo 07](../inspecao.md#video-grupo-07)
 
 As fichas dos Grupos 06 (autoinspeção) e 07 (+1) registram **52 respostas de inspeção**, com 26 critérios por grupo. Cada resposta classifica um critério sobre os relatos de alta fidelidade como **Sim**, **Incompleto** ou **Não** e indica a evidência e a versão consultada.
 

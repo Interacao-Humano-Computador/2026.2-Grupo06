@@ -37,7 +37,7 @@ A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (E
 - [**Inspeções e gráficos**](inspecao.md)<br>
   Respostas por grupo, resultados por etapa, gravações das inspeções e roteiro.
 - [**Apresentação da Etapa 8**](../apresentacoes/etapa-08.md)<br>
-  Sete vídeos das sessões de inspeção, um por etapa, que formam a apresentação.
+  Nove vídeos das sessões de inspeção (sete do Grupo 06 e dois dos Grupos 05 e 07).
 - [**Conferência das respostas V1**](conferencia-anterior.md)<br>
   Cotejo item a item das seis fichas históricas das Etapas 4, 6 e 7.
 

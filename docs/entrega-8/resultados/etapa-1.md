@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Visão geral](../inspecao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-1)
+[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Visão geral](../inspecao.md) · [Gravação · Grupo 06](../inspecao.md#video-etapa-1) · [Gravação · Grupo 07](../inspecao.md#video-grupo-07)
 
 As fichas dos Grupos 06 (autoinspeção, revisão `5dfe10f`) e 07 (+1, revisão `12913da`) registram **48 respostas de inspeção**, com 24 critérios efetivamente aplicados por grupo. A cobertura da lista V2 oficial da Etapa 1 é integral nos dois grupos (0 itens não aplicáveis e 0 pendentes de verificação). A unidade de contagem adotada nos quadros e gráficos é **uma resposta por critério, grupo e etapa**.
 

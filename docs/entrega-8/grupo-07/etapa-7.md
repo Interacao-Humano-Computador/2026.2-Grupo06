@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 7](../lista-etapa-7.md) · [Resultados e gráficos](../resultados/etapa-7.md) · [Inspeções do grupo](index.md) · [Gravação da inspeção](../inspecao.md#video-etapa-7)
+[Lista V2 da Etapa 7](../lista-etapa-7.md) · [Resultados e gráficos](../resultados/etapa-7.md) · [Inspeções do grupo](index.md) · [Gravação da inspeção](../inspecao.md#video-grupo-07)
 
 ## Recorte consultado
 
@@ -84,6 +84,7 @@ A tabela abaixo indica os achados que merecem voltar à pauta na próxima revis�
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Registro das respostas e evidências da inspeção da Etapa 7 no Grupo 07. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 7. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 07 (+1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 4](../lista-etapa-4.md) · [Visão geral](../inspecao.md) · [Conferência V1](../conferencia-anterior.md#grupo-06-etapa-4) · [Gravação da inspeção](../inspecao.md#video-etapa-4)
+[Lista V2 da Etapa 4](../lista-etapa-4.md) · [Visão geral](../inspecao.md) · [Conferência V1](../conferencia-anterior.md#grupo-06-etapa-4) · [Gravação · Grupo 06](../inspecao.md#video-etapa-4) · [Gravação · Grupo 05](../inspecao.md#video-grupo-05)
 
 As fichas dos Grupos 06 (autoinspeção) e 05 (−1) registram **80 respostas de inspeção**, com 40 critérios por grupo organizados em quatro blocos de conteúdo (Desenvolvimento do projeto, Storyboard, Planejamento da avaliação pelo DECIDE e Planejamento do relato dos resultados). Cada resposta inclui a classificação, a constatação e os vínculos exatos no commit consultado.
 

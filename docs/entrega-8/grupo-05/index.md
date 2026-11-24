@@ -7,12 +7,34 @@
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do acesso às fichas V1 e V2 da Etapa 2 do Grupo 05 (−1) | [Etapa 2](#etapa-2) · [Ficha V1](../../verificacao/grupo-05/etapa-2/lista-verificacao.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização do acesso às fichas V1 e V2 dos storyboards, das análises de tarefas e dos planejamentos da Etapa 4 do SEMOB-DF | [Etapa 4](#etapa-4) · [Ficha V1](../../verificacao/grupo-05/etapa-4/lista-verificacao.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização do acesso às fichas V1 e V2 da Etapa 4 do SEMOB-DF e vinculação do vídeo de inspeção das Etapas 2, 4 e 6 | [Gravação](#gravacao-da-inspecao) · [Etapa 4](#etapa-4) · [Ficha V1](../../verificacao/grupo-05/etapa-4/lista-verificacao.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso às fichas V1 e V2 dos relatos de papel e dos planejamentos da Etapa 6 do SEMOB-DF | [Etapa 6](#etapa-6) · [Ficha V1](../../verificacao/grupo-05/etapa-6/lista-verificacao.md) |
 | Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+## Gravação da inspeção
+
+A gravação da sessão de inspeção dos artefatos do Grupo 05 (−1, SEMOB-DF — Etapas 2, 4 e 6) foi realizada pelos integrantes do Grupo 06 e disponibilizada no YouTube na categoria **não listado**:
+
+- **Categoria no YouTube:** não listado
+- **Link:** [https://youtu.be/CuolulKrRGE](https://youtu.be/CuolulKrRGE)
+- **Data da gravação:** 23/11/2026 · **Duração:** 28 min 37 s
+
+??? note "Vídeo — Inspeção dos artefatos do Grupo 05"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
+      <iframe
+        loading="lazy"
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube-nocookie.com/embed/CuolulKrRGE"
+        title="Inspeção dos artefatos do Grupo 05 — Etapas 2, 4 e 6"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
 ## Etapa 2
 
@@ -39,3 +61,4 @@
 | `1.0` | 19/11/2026 | Organização do acesso às fichas V1 e V2 da Etapa 6 do Grupo 05. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.1` | 21/11/2026 | Inclui acesso às fichas V1 e V2 da Etapa 2 do Grupo 05. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 22/11/2026 | Inclusão do acesso às fichas V1 e V2 da Etapa 4 do Grupo 05 ao lado das Etapas 2 e 6. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 23/11/2026 | Inclui a gravação da sessão de inspeção dos artefatos do Grupo 05 (−1 · Etapas 2, 4 e 6) no YouTube. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |

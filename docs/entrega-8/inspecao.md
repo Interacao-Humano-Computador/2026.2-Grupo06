@@ -160,6 +160,22 @@ As sessões de inspeção do Grupo 06 foram gravadas por etapa e publicadas no Y
       <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/g-zICSAWz3A" title="Inspeção da Etapa 7 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
+<span id="video-grupo-05"></span>
+
+??? note "Vídeo — Inspeções do Grupo 05 (−1): Etapas 2, 4 e 6 (28 min 37 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/CuolulKrRGE" title="Inspeções da Etapa 8 — Grupo 05 (−1): Etapas 2, 4 e 6" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-grupo-07"></span>
+
+??? note "Vídeo — Inspeções do Grupo 07 (+1): Etapas 1, 3, 5 e 7"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/dd04ibyhJ_o" title="Inspeções da Etapa 8 — Grupo 07 (+1): Etapas 1, 3, 5 e 7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 ### Roteiro
 
 1. **Abertura.** Apresentar o escopo das fichas consolidadas, com autoinspeção do Grupo 06, inspeção do Grupo 05 (−1) nas etapas pares e do Grupo 07 (+1) nas etapas ímpares. Informar o papel de quem modera, percorre os artefatos e registra as constatações.
