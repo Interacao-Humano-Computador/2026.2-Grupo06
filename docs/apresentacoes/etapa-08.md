@@ -114,6 +114,19 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
       <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/g-zICSAWz3A" title="Inspeção da Etapa 7 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
+### Inspeção do Grupo 07 (+1) { #grupo-07 }
+
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/dd04ibyhJ_o](https://youtu.be/dd04ibyhJ_o)
+- Publicação: 23/11/2026
+- Fichas: [Grupo 07 · Índice](../entrega-8/grupo-07/index.md) · [Etapa 1](../entrega-8/grupo-07/etapa-1.md) · [Etapa 5](../entrega-8/grupo-07/etapa-5.md) · [Etapa 7](../entrega-8/grupo-07/etapa-7.md)
+
+??? note "Vídeo — Inspeção dos artefatos do Grupo 07"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/dd04ibyhJ_o" title="Inspeção dos artefatos do Grupo 07" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 ## Agradecimentos
 
 O Claude (Anthropic) apoiou a organização desta página e a ligação dos vídeos às fichas. A responsabilidade pelo conteúdo permanece com o Grupo 06.
@@ -123,6 +136,7 @@ O Claude (Anthropic) apoiou a organização desta página e a ligação dos víd
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 22/11/2026 | Inclui as sete gravações das sessões de inspeção da Etapa 8 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 23/11/2026 | Inclui a gravação da sessão de inspeção dos artefatos do Grupo 07 (+1) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
