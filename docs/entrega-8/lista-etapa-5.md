@@ -206,7 +206,9 @@ Os critérios D01–D11 vêm do plano de ensino (Sales, 2026, pp. 3 e 8–9 do P
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-d11) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-d11).
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Cobertura dos artefatos
 
 Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível 1 e ao planejamento do papel.
 
@@ -226,6 +228,8 @@ Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-01) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-01).
 
+## Critérios comuns aos relatos
+
 <div class="etapa8-item" id="e5-02"></div>
 
 ??? question "E5-02 · Cada relato identifica objetivo, escopo, método, material avaliado, participante, data, duração e registro?"
@@ -241,38 +245,6 @@ Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-02) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-02).
-
-<div class="etapa8-item" id="e5-03"></div>
-
-??? question "E5-03 · O relato do storyboard responde às perguntas planejadas e localiza os quadros discutidos?"
-
-    **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
-
-    **O que conferir.** Confira se cada pergunta tem resposta e se a resposta indica o quadro e um localizador verificável (tempo do vídeo ou trecho da transcrição).
-
-    **Rastreabilidade na V1.** [E5-C03](../verificacao/listas/etapa-5.md#e5-c03) · mantido.
-
-    ![Barbosa e Silva (2010), p. 312. Trecho grifado para o critério.](../assets/img/entrega-6/referencias/barbosa-p312.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-03) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-03).
-
-<div class="etapa8-item" id="e5-04"></div>
-
-??? question "E5-04 · O relato da análise de tarefas discute cobertura, ordem, entradas, término e exceções dos modelos?"
-
-    **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
-
-    **O que conferir.** Identifique o nó da HTA ou a tarefa da CTT discutidos e separe a fala da pessoa da conferência técnica da equipe.
-
-    **Rastreabilidade na V1.** [E5-C04](../verificacao/listas/etapa-5.md#e5-c04) · mantido.
-
-    ![Barbosa e Silva (2010), p. 191. Trecho grifado para o critério.](../assets/img/entrega-6/referencias/barbosa-p191.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 191. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-04) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-04).
 
 <div class="etapa8-item" id="e5-05"></div>
 
@@ -306,6 +278,42 @@ Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-06) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-06).
 
+## Relato da avaliação do storyboard
+
+<div class="etapa8-item" id="e5-03"></div>
+
+??? question "E5-03 · O relato do storyboard responde às perguntas planejadas e localiza os quadros discutidos?"
+
+    **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
+
+    **O que conferir.** Confira se cada pergunta tem resposta e se a resposta indica o quadro e um localizador verificável (tempo do vídeo ou trecho da transcrição).
+
+    **Rastreabilidade na V1.** [E5-C03](../verificacao/listas/etapa-5.md#e5-c03) · mantido.
+
+    ![Barbosa e Silva (2010), p. 312. Trecho grifado para o critério.](../assets/img/entrega-6/referencias/barbosa-p312.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-03) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-03).
+
+## Relato da avaliação da análise de tarefas
+
+<div class="etapa8-item" id="e5-04"></div>
+
+??? question "E5-04 · O relato da análise de tarefas discute cobertura, ordem, entradas, término e exceções dos modelos?"
+
+    **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
+
+    **O que conferir.** Identifique o nó da HTA ou a tarefa da CTT discutidos e separe a fala da pessoa da conferência técnica da equipe.
+
+    **Rastreabilidade na V1.** [E5-C04](../verificacao/listas/etapa-5.md#e5-c04) · mantido.
+
+    ![Barbosa e Silva (2010), p. 191. Trecho grifado para o critério.](../assets/img/entrega-6/referencias/barbosa-p191.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 191. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-04) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-04).
+
 <div class="etapa8-item" id="e5-07"></div>
 
 ??? question "E5-07 · As lacunas e revisões dos modelos são registradas sem apagar a versão avaliada?"
@@ -321,6 +329,8 @@ Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível
     <p class="source">Fonte: Barbosa e Silva (2010), p. 203. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-07) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-07).
+
+## Planejamento da avaliação do protótipo de papel
 
 <div class="etapa8-item" id="e5-08"></div>
 
@@ -481,6 +491,8 @@ Os critérios E5-01–E5-20 adaptam Barbosa e Silva (2010) aos relatos do nível
     <p class="source">Fonte: Barbosa e Silva (2010), p. 360. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-5.md#etapa-5-e5-17) · [Grupo 07](grupo-07/etapa-5.md#etapa-5-e5-17).
+
+## Planejamento do relato do protótipo de papel
 
 <div class="etapa8-item" id="e5-18"></div>
 

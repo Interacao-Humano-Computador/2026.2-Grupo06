@@ -205,7 +205,9 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d11) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d11).
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Características da plataforma
 
 <div class="etapa8-item" id="e3-01"></div>
 
@@ -223,6 +225,24 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-01) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-01).
 
+<div class="etapa8-item" id="e3-10"></div>
+
+??? question "E3-10 · As características da plataforma registram possibilidades e limitações e servem de insumo explícito para as metas?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Verifique se o artefato [Características da Plataforma](../entrega-3/plataforma.md) divide a análise em possibilidades e limitações, e se o documento de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md) conecta diretamente essas restrições tecnológicas à formulação de suas métricas, cumprindo a engenharia de Mayhew.
+
+    **Rastreabilidade na V1.** [E3-C19](../verificacao/listas/etapa-3.md#e3-c19) · possibilidades e limitações da plataforma como insumo das metas.
+
+    ![Barbosa e Silva (2010), p. 110. Trecho grifado para o critério.](../assets/img/referencias/barbosa-plataforma-figura47-p110.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 110. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-10) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-10).
+
+## Princípios gerais de projeto
+
 <div class="etapa8-item" id="e3-02"></div>
 
 ??? question "E3-02 · Os Princípios Gerais de Projeto selecionados estão declarados com fundamentação bibliográfica e recorte da fonte?"
@@ -239,6 +259,40 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-02) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-02).
 
+<div class="etapa8-item" id="e3-12"></div>
+
+??? question "E3-12 · Os Princípios Gerais justificam quais diretrizes foram selecionadas e explicam o motivo da não priorização das demais?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** No artefato [Princípios Gerais](../entrega-3/principios-gerais.md), verifique se cada princípio adotado possui justificativa contextualizada no sistema do Senado, e se os princípios não selecionados têm o motivo da exclusão explicitado (Barbosa et al., 2021, p. 238).
+
+    **Rastreabilidade na V1.** [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · seleção e justificativa dos princípios adotados e descartados.
+
+    ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-12) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-12).
+
+<div class="etapa8-item" id="e3-19"></div>
+
+??? question "E3-19 · Os Princípios Gerais analisam e documentam os trade-offs entre princípios potencialmente conflitantes?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Acesse [Princípios Gerais de Projeto](../entrega-3/principios-gerais.md). Verifique se o artefato discute formalmente os compromissos de projeto (*trade-offs*) decorrentes da aplicação prática de diretrizes conflitantes (como o equilíbrio entre simplicidade da interface e poder/flexibilidade de recursos para usuários avançados).
+
+    **Rastreabilidade na V1.** Desdobramento do [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · trade-offs e compromissos de design reflexivo.
+
+    ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-19) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-19).
+
+## Tópicos dos princípios
+
 <div class="etapa8-item" id="e3-03"></div>
 
 ??? question "E3-03 · Os tópicos dos princípios gerais abrangem os 8 eixos clássicos da literatura com referência teórica e recortes?"
@@ -254,6 +308,24 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
     <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-03) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-03).
+
+<div class="etapa8-item" id="e3-13"></div>
+
+??? question "E3-13 · Cada tópico dos princípios é detalhado por suas diretrizes e ilustrado com exemplos concretos do portal avaliado?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Acesse [Tópicos dos Princípios](../entrega-3/topicos-principios.md). Verifique se cada um dos oito tópicos apresenta a explicação detalhada de suas diretrizes (com página de referência) e pelo menos uma situação real de uso ou deficiência identificada na interface do Senado (Barbosa et al., 2021, pp. 237–238).
+
+    **Rastreabilidade na V1.** [E3-C22](../verificacao/listas/etapa-3.md#e3-c22) · explicação das diretrizes e manifestação empírica no portal.
+
+    ![Barbosa et al. (2021), pp. 237–238. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-lista-p238.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa et al. (2021), pp. 237–238. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-13) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-13).
+
+## Metas de usabilidade
 
 <div class="etapa8-item" id="e3-04"></div>
 
@@ -287,6 +359,24 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-05) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-05).
 
+<div class="etapa8-item" id="e3-09"></div>
+
+??? question "E3-09 · As metas de usabilidade explicitam indicadores, procedimentos de avaliação e faixas inaceitáveis, aceitáveis e ideais?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Na seção de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md#regras-de-medicao), confira se cada indicador possui definição da métrica (tempo, taxa de conclusão, contagem de erros), método de coleta e faixas numéricas de aceitação: inaceitável, aceitável e ideal (Barbosa e Silva, 2010, pp. 105–106).
+
+    **Rastreabilidade na V1.** [E3-C18](../verificacao/listas/etapa-3.md#e3-c18) · operacionalização das metas em três faixas de valores.
+
+    ![Barbosa e Silva (2010), p. 106. Trecho grifado para o critério.](../assets/img/referencias/barbosa-metas-definicao-p106.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 106. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-09) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-09).
+
+## Guia de estilo
+
 <div class="etapa8-item" id="e3-06"></div>
 
 ??? question "E3-06 · O Guia de Estilo define seu propósito e escopo conceitual respaldado em citação e recorte do livro?"
@@ -319,54 +409,6 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-07) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-07).
 
-<div class="etapa8-item" id="e3-08"></div>
-
-??? question "E3-08 · As diretrizes do Guia de Estilo e as telas de interface correspondem às deficiências reais diagnosticadas no portal avaliado?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Acesse [Correspondência com o Site](../entrega-3/guia-de-estilo.md#correspondencia-com-o-site-avaliado) e [Telas de Interface](../entrega-3/telas-interface.md). Confira se os padrões estéticos e de diálogo propostos respondem a gargalos reais do Portal do Senado Federal, com capturas do site original e propostas de reprojeto.
-
-    **Rastreabilidade na V1.** [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · correspondência entre o guia, as telas e o portal real.
-
-    ![Barbosa e Silva (2010), p. 282. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-definicao-p282.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 282. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-08) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-08).
-
-<div class="etapa8-item" id="e3-09"></div>
-
-??? question "E3-09 · As metas de usabilidade explicitam indicadores, procedimentos de avaliação e faixas inaceitáveis, aceitáveis e ideais?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Na seção de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md#regras-de-medicao), confira se cada indicador possui definição da métrica (tempo, taxa de conclusão, contagem de erros), método de coleta e faixas numéricas de aceitação: inaceitável, aceitável e ideal (Barbosa e Silva, 2010, pp. 105–106).
-
-    **Rastreabilidade na V1.** [E3-C18](../verificacao/listas/etapa-3.md#e3-c18) · operacionalização das metas em três faixas de valores.
-
-    ![Barbosa e Silva (2010), p. 106. Trecho grifado para o critério.](../assets/img/referencias/barbosa-metas-definicao-p106.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 106. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-09) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-09).
-
-<div class="etapa8-item" id="e3-10"></div>
-
-??? question "E3-10 · As características da plataforma registram possibilidades e limitações e servem de insumo explícito para as metas?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Verifique se o artefato [Características da Plataforma](../entrega-3/plataforma.md) divide a análise em possibilidades e limitações, e se o documento de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md) conecta diretamente essas restrições tecnológicas à formulação de suas métricas, cumprindo a engenharia de Mayhew.
-
-    **Rastreabilidade na V1.** [E3-C19](../verificacao/listas/etapa-3.md#e3-c19) · possibilidades e limitações da plataforma como insumo das metas.
-
-    ![Barbosa e Silva (2010), p. 110. Trecho grifado para o critério.](../assets/img/referencias/barbosa-plataforma-figura47-p110.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 110. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-10) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-10).
-
 <div class="etapa8-item" id="e3-11"></div>
 
 ??? question "E3-11 · O Guia de Estilo registra o design rationale das decisões vinculando elementos ao perfil, tarefas e plataforma?"
@@ -383,38 +425,6 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-11) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-11).
 
-<div class="etapa8-item" id="e3-12"></div>
-
-??? question "E3-12 · Os Princípios Gerais justificam quais diretrizes foram selecionadas e explicam o motivo da não priorização das demais?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** No artefato [Princípios Gerais](../entrega-3/principios-gerais.md), verifique se cada princípio adotado possui justificativa contextualizada no sistema do Senado, e se os princípios não selecionados têm o motivo da exclusão explicitado (Barbosa et al., 2021, p. 238).
-
-    **Rastreabilidade na V1.** [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · seleção e justificativa dos princípios adotados e descartados.
-
-    ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-12) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-12).
-
-<div class="etapa8-item" id="e3-13"></div>
-
-??? question "E3-13 · Cada tópico dos princípios é detalhado por suas diretrizes e ilustrado com exemplos concretos do portal avaliado?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Acesse [Tópicos dos Princípios](../entrega-3/topicos-principios.md). Verifique se cada um dos oito tópicos apresenta a explicação detalhada de suas diretrizes (com página de referência) e pelo menos uma situação real de uso ou deficiência identificada na interface do Senado (Barbosa et al., 2021, pp. 237–238).
-
-    **Rastreabilidade na V1.** [E3-C22](../verificacao/listas/etapa-3.md#e3-c22) · explicação das diretrizes e manifestação empírica no portal.
-
-    ![Barbosa et al. (2021), pp. 237–238. Trecho grifado para o critério.](../assets/img/referencias/luis-principios-lista-p238.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa et al. (2021), pp. 237–238. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-13) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-13).
-
 <div class="etapa8-item" id="e3-14"></div>
 
 ??? question "E3-14 · O Guia de Estilo vincula diretamente as regras de diálogo e navegação aos fluxos das tarefas modeladas na HTA e GOMS?"
@@ -430,22 +440,6 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 193. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-14) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-14).
-
-<div class="etapa8-item" id="e3-15"></div>
-
-??? question "E3-15 · Os wireframes e protótipos de baixa e média fidelidade seguem fielmente os padrões e a grade do Guia de Estilo?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Acesse [Telas de Interface](../entrega-3/telas-interface.md). Verifique se as propostas de tela aplicam a grade de 12 colunas, paleta institucional, hierarquia tipográfica e disposição espacial descritas no [Guia de Estilo](../entrega-3/guia-de-estilo.md), assegurando consistência prévia às etapas de prototipação física e digital.
-
-    **Rastreabilidade na V1.** Desdobramento do [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · consistência visual dos protótipos com o guia.
-
-    ![Barbosa e Silva (2010), p. 283. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 283. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-15) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-15).
 
 <div class="etapa8-item" id="e3-16"></div>
 
@@ -479,6 +473,42 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-17) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-17).
 
+## Telas de interface
+
+<div class="etapa8-item" id="e3-08"></div>
+
+??? question "E3-08 · As diretrizes do Guia de Estilo e as telas de interface correspondem às deficiências reais diagnosticadas no portal avaliado?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Acesse [Correspondência com o Site](../entrega-3/guia-de-estilo.md#correspondencia-com-o-site-avaliado) e [Telas de Interface](../entrega-3/telas-interface.md). Confira se os padrões estéticos e de diálogo propostos respondem a gargalos reais do Portal do Senado Federal, com capturas do site original e propostas de reprojeto.
+
+    **Rastreabilidade na V1.** [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · correspondência entre o guia, as telas e o portal real.
+
+    ![Barbosa e Silva (2010), p. 282. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-definicao-p282.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 282. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-08) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-08).
+
+<div class="etapa8-item" id="e3-15"></div>
+
+??? question "E3-15 · Os wireframes e protótipos de baixa e média fidelidade seguem fielmente os padrões e a grade do Guia de Estilo?"
+
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
+
+    **O que conferir.** Acesse [Telas de Interface](../entrega-3/telas-interface.md). Verifique se as propostas de tela aplicam a grade de 12 colunas, paleta institucional, hierarquia tipográfica e disposição espacial descritas no [Guia de Estilo](../entrega-3/guia-de-estilo.md), assegurando consistência prévia às etapas de prototipação física e digital.
+
+    **Rastreabilidade na V1.** Desdobramento do [E3-C17](../verificacao/listas/etapa-3.md#e3-c17) · consistência visual dos protótipos com o guia.
+
+    ![Barbosa e Silva (2010), p. 283. Trecho grifado para o critério.](../assets/img/referencias/barbosa-guia-estilo-estrutura-p283.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 283. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-15) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-15).
+
+## Registro da verificação da Etapa 3
+
 <div class="etapa8-item" id="e3-18"></div>
 
 ??? question "E3-18 · A sessão de verificação da etapa possui registro formal com participantes, minutogramas e temas inspecionados?"
@@ -494,22 +524,6 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-18) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-18).
-
-<div class="etapa8-item" id="e3-19"></div>
-
-??? question "E3-19 · Os Princípios Gerais analisam e documentam os trade-offs entre princípios potencialmente conflitantes?"
-
-    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
-
-    **O que conferir.** Acesse [Princípios Gerais de Projeto](../entrega-3/principios-gerais.md). Verifique se o artefato discute formalmente os compromissos de projeto (*trade-offs*) decorrentes da aplicação prática de diretrizes conflitantes (como o equilíbrio entre simplicidade da interface e poder/flexibilidade de recursos para usuários avançados).
-
-    **Rastreabilidade na V1.** Desdobramento do [E3-C21](../verificacao/listas/etapa-3.md#e3-c21) · trade-offs e compromissos de design reflexivo.
-
-    ![Barbosa et al. (2021), p. 238. Trecho grifado para o critério.](../assets/img/referencias/princípio-gerais-10.2.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-19) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-19).
 
 ## Conferência da lista
 

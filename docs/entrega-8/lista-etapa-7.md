@@ -205,7 +205,9 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-d11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-d11).
 
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Relato da avaliação de alta fidelidade
 
 <div class="etapa8-item" id="e7-01"></div>
 
@@ -387,22 +389,6 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-11) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-11).
 
-<div class="etapa8-item" id="e7-12"></div>
-
-??? question "E7-12 · É possível identificar e abrir o protótipo na versão usada no teste?"
-
-    **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
-
-    **O que conferir.** Abra o acesso informado e procure versão, revisão do Figma ou commit que permita reconhecer o material da sessão. Link atual sem identificação do recorte testado oferece evidência parcial.
-
-    **Rastreabilidade na V1.** [E7-C12](../verificacao/listas/etapa-7.md#e7-c12) · explicita o vínculo da versão à sessão.
-
-    ![Barbosa e Silva (2010), p. 342. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/af-material.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-12) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-12).
-
 <div class="etapa8-item" id="e7-13"></div>
 
 ??? question "E7-13 · As conclusões delimitam o alcance da amostra, dos materiais e do procedimento?"
@@ -418,26 +404,6 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-13) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-13).
-
-<div class="etapa8-item" id="e7-14"></div>
-
-??? question "E7-14 · As gravações das sessões estão identificadas e vinculadas ao relato?"
-
-    **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
-
-    **O que conferir.** Confira o acesso documentado por sessão e a indicação de privacidade ou de acesso restrito. Use o registro de avaliação; apresentação e reunião de verificação têm finalidade própria.
-
-    **Rastreabilidade na V1.** [E7-C14](../verificacao/listas/etapa-7.md#e7-c14) · regra documental, contempla acesso restrito.
-
-    ![Barbosa e Silva (2010), p. 141. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/etica.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 141. O grifo indica o trecho usado no critério.</p>
-
-    ![Barbosa e Silva (2010), p. 342. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/af-observacao.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
-
-    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-14) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-14).
 
 <div class="etapa8-item" id="e7-15"></div>
 
@@ -458,6 +424,46 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-15) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-15).
+
+## Protótipo de alta fidelidade
+
+<div class="etapa8-item" id="e7-12"></div>
+
+??? question "E7-12 · É possível identificar e abrir o protótipo na versão usada no teste?"
+
+    **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
+
+    **O que conferir.** Abra o acesso informado e procure versão, revisão do Figma ou commit que permita reconhecer o material da sessão. Link atual sem identificação do recorte testado oferece evidência parcial.
+
+    **Rastreabilidade na V1.** [E7-C12](../verificacao/listas/etapa-7.md#e7-c12) · explicita o vínculo da versão à sessão.
+
+    ![Barbosa e Silva (2010), p. 342. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/af-material.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-12) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-12).
+
+## Vídeos e evidências
+
+<div class="etapa8-item" id="e7-14"></div>
+
+??? question "E7-14 · As gravações das sessões estão identificadas e vinculadas ao relato?"
+
+    **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
+
+    **O que conferir.** Confira o acesso documentado por sessão e a indicação de privacidade ou de acesso restrito. Use o registro de avaliação; apresentação e reunião de verificação têm finalidade própria.
+
+    **Rastreabilidade na V1.** [E7-C14](../verificacao/listas/etapa-7.md#e7-c14) · regra documental, contempla acesso restrito.
+
+    ![Barbosa e Silva (2010), p. 141. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/etica.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 141. O grifo indica o trecho usado no critério.</p>
+
+    ![Barbosa e Silva (2010), p. 342. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/af-observacao.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 342. O grifo indica o trecho usado no critério.</p>
+
+    **Aplicação:** [Grupo 06](grupo-06/etapa-7.md#etapa-7-e7-14) · [Grupo 07](grupo-07/etapa-7.md#etapa-7-e7-14).
 
 ## Conferência da lista
 

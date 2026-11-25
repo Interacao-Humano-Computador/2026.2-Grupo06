@@ -185,7 +185,9 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Sales (2026), p. 3 do PDF. O grifo indica o trecho usado no critério.</p>
 
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Organização do site e equipe
 
 <div class="etapa8-item" id="e1-01"></div>
 
@@ -229,6 +231,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
 
+## Cronograma
+
 <div class="etapa8-item" id="e1-04"></div>
 
 ??? question "E1-04 · O cronograma planejado distribui as atividades de todas as etapas com autores nominais, datas de início e fim e períodos de revisão com revisores?"
@@ -257,6 +261,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
 
+## Sites avaliados
+
 <div class="etapa8-item" id="e1-06"></div>
 
 ??? question "E1-06 · O planejamento documenta os sites candidatos avaliados pela equipe e vincula os relatórios ou planejamentos individuais de avaliação?"
@@ -268,66 +274,6 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     **Rastreabilidade na V1.** [E1-P06](../verificacao/listas/etapa-1.md#e1-p06) · explicita o vínculo aos relatórios individuais.
 
     ![Sales (2026), p. 8 do PDF. Critérios do planejamento geral.](../assets/img/entrega-6/referencias/plano-p8.png){ loading=lazy }
-
-    <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
-
-<div class="etapa8-item" id="e1-07"></div>
-
-??? question "E1-07 · O artefato do site escolhido explicita a motivação e os critérios objetivos que fundamentaram a seleção do sistema para o projeto?"
-
-    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
-
-    **O que conferir.** Localize na página do site escolhido a justificativa da decisão do grupo, relacionando critérios como relevância pública, diversidade de funcionalidades, complexidade de fluxos, não ter sido trabalhado anteriormente e potencial de identificação de problemas de IHC.
-
-    **Rastreabilidade na V1.** [E1-P05](../verificacao/listas/etapa-1.md#e1-p05) · mantido com critérios verificáveis.
-
-    ![Sales (2026), p. 8 do PDF. Critérios do planejamento geral.](../assets/img/entrega-6/referencias/plano-p8.png){ loading=lazy }
-
-    <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
-
-<div class="etapa8-item" id="e1-08"></div>
-
-??? question "E1-08 · O documento de Processo de Design compara modelos de ciclo de vida de IHC e fundamenta as atividades básicas de análise, síntese e avaliação?"
-
-    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
-
-    **O que conferir.** Confira no artefato de Processo de Design a apresentação das três atividades básicas de design (análise da situação atual, síntese de uma intervenção e avaliação) e a comparação entre alternativas da literatura (ciclo simples, ciclo em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew).
-
-    **Rastreabilidade na V1.** [E1-C01](../verificacao/listas/etapa-1.md#e1-c01) · desmembrado para verificar a fundamentação e comparação dos modelos de ciclo de vida.
-
-    ![Barbosa e Silva (2010), cap. 4. Atividades básicas do processo de design.](../assets/img/referencias/processo1.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), cap. 4.</p>
-
-<div class="etapa8-item" id="e1-09"></div>
-
-??? question "E1-09 · A escolha do Processo de Design é justificada para o contexto do site selecionado, com autor do item, referência bibliográfica e recorte da fonte?"
-
-    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
-
-    **O que conferir.** Verifique se o artefato justifica por que o modelo escolhido (ex.: Engenharia de Usabilidade de Mayhew) se adapta ao projeto do grupo e às entregas da disciplina, apresentando o nome do autor do item, a citação bibliográfica e a imagem do trecho do livro.
-
-    **Rastreabilidade na V1.** [E1-C01](../verificacao/listas/etapa-1.md#e1-c01) · focaliza a justificativa contextualizada e a evidência bibliográfica exigida pelo plano de ensino.
-
-    ![Barbosa e Silva (2010), p. 109. Introdução da Engenharia de Usabilidade de Mayhew.](../assets/img/referencias/processo3.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 109.</p>
-
-    ![Barbosa e Silva (2010), p. 110. Ciclo de vida de Mayhew.](../assets/img/referencias/processo4.png){ loading=lazy }
-
-    <p class="source">Fonte: Barbosa e Silva (2010), p. 110.</p>
-
-<div class="etapa8-item" id="e1-10"></div>
-
-??? question "E1-10 · As ferramentas utilizadas no projeto e a disponibilidade da equipe (heatmap) estão documentadas com finalidade e organização clara?"
-
-    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
-
-    **O que conferir.** Abra os artefatos de Ferramentas e de Heatmap de disponibilidade. Confira se cada ferramenta adotada pelo grupo tem seu papel/finalidade descrito no projeto e se o quadro de horários consolida as faixas de disponibilidade dos integrantes para reuniões e pareamentos.
-
-    **Rastreabilidade na V1.** [E1-P08](../verificacao/listas/etapa-1.md#e1-p08) + [E1-C02](../verificacao/listas/etapa-1.md#e1-c02) · explicita a verificação de conteúdo de Ferramentas e Heatmap.
-
-    ![Sales (2026), p. 8 do PDF. Artefatos do planejamento geral.](../assets/img/entrega-6/referencias/plano-p8.png){ loading=lazy }
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
 
@@ -376,6 +322,72 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     ![Barbosa e Silva (2010), p. 293–294. Objetivos e métodos de avaliação de IHC.](../assets/img/referencias/barbosa-objetivos-p293.png){ loading=lazy }
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 293; Barbosa et al. (2021), Cap. 11, Seção 11.6, p. 272.</p>
+
+## Site escolhido
+
+<div class="etapa8-item" id="e1-07"></div>
+
+??? question "E1-07 · O artefato do site escolhido explicita a motivação e os critérios objetivos que fundamentaram a seleção do sistema para o projeto?"
+
+    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
+
+    **O que conferir.** Localize na página do site escolhido a justificativa da decisão do grupo, relacionando critérios como relevância pública, diversidade de funcionalidades, complexidade de fluxos, não ter sido trabalhado anteriormente e potencial de identificação de problemas de IHC.
+
+    **Rastreabilidade na V1.** [E1-P05](../verificacao/listas/etapa-1.md#e1-p05) · mantido com critérios verificáveis.
+
+    ![Sales (2026), p. 8 do PDF. Critérios do planejamento geral.](../assets/img/entrega-6/referencias/plano-p8.png){ loading=lazy }
+
+    <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
+
+## Processo de Design
+
+<div class="etapa8-item" id="e1-08"></div>
+
+??? question "E1-08 · O documento de Processo de Design compara modelos de ciclo de vida de IHC e fundamenta as atividades básicas de análise, síntese e avaliação?"
+
+    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
+
+    **O que conferir.** Confira no artefato de Processo de Design a apresentação das três atividades básicas de design (análise da situação atual, síntese de uma intervenção e avaliação) e a comparação entre alternativas da literatura (ciclo simples, ciclo em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew).
+
+    **Rastreabilidade na V1.** [E1-C01](../verificacao/listas/etapa-1.md#e1-c01) · desmembrado para verificar a fundamentação e comparação dos modelos de ciclo de vida.
+
+    ![Barbosa e Silva (2010), cap. 4. Atividades básicas do processo de design.](../assets/img/referencias/processo1.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), cap. 4.</p>
+
+<div class="etapa8-item" id="e1-09"></div>
+
+??? question "E1-09 · A escolha do Processo de Design é justificada para o contexto do site selecionado, com autor do item, referência bibliográfica e recorte da fonte?"
+
+    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
+
+    **O que conferir.** Verifique se o artefato justifica por que o modelo escolhido (ex.: Engenharia de Usabilidade de Mayhew) se adapta ao projeto do grupo e às entregas da disciplina, apresentando o nome do autor do item, a citação bibliográfica e a imagem do trecho do livro.
+
+    **Rastreabilidade na V1.** [E1-C01](../verificacao/listas/etapa-1.md#e1-c01) · focaliza a justificativa contextualizada e a evidência bibliográfica exigida pelo plano de ensino.
+
+    ![Barbosa e Silva (2010), p. 109. Introdução da Engenharia de Usabilidade de Mayhew.](../assets/img/referencias/processo3.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 109.</p>
+
+    ![Barbosa e Silva (2010), p. 110. Ciclo de vida de Mayhew.](../assets/img/referencias/processo4.png){ loading=lazy }
+
+    <p class="source">Fonte: Barbosa e Silva (2010), p. 110.</p>
+
+## Ferramentas e heatmap de disponibilidade
+
+<div class="etapa8-item" id="e1-10"></div>
+
+??? question "E1-10 · As ferramentas utilizadas no projeto e a disponibilidade da equipe (heatmap) estão documentadas com finalidade e organização clara?"
+
+    **Autor do item:** [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
+
+    **O que conferir.** Abra os artefatos de Ferramentas e de Heatmap de disponibilidade. Confira se cada ferramenta adotada pelo grupo tem seu papel/finalidade descrito no projeto e se o quadro de horários consolida as faixas de disponibilidade dos integrantes para reuniões e pareamentos.
+
+    **Rastreabilidade na V1.** [E1-P08](../verificacao/listas/etapa-1.md#e1-p08) + [E1-C02](../verificacao/listas/etapa-1.md#e1-c02) · explicita a verificação de conteúdo de Ferramentas e Heatmap.
+
+    ![Sales (2026), p. 8 do PDF. Artefatos do planejamento geral.](../assets/img/entrega-6/referencias/plano-p8.png){ loading=lazy }
+
+    <p class="source">Fonte: Sales (2026), p. 8 do PDF.</p>
 
 ## Conferência da lista
 
