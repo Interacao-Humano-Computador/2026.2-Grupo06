@@ -14,7 +14,11 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 3](../lista-etapa-3.md) · [Visão geral](../inspecao.md) · [Conferência V1](../conferencia-anterior.md#grupo-06-etapa-3) · [Gravação · Grupo 06](../inspecao.md#video-etapa-3) · [Gravação · Grupo 07](../inspecao.md#video-grupo-07)
+[Lista V2 da Etapa 3](../lista-etapa-3.md)<br>
+[Visão geral](../inspecao.md)<br>
+[Conferência V1](../conferencia-anterior.md#grupo-06-etapa-3)<br>
+[Gravação · Grupo 06](../inspecao.md#video-etapa-3)<br>
+[Gravação · Grupo 07](../inspecao.md#video-grupo-07)
 
 As fichas dos Grupos 06 (autoinspeção, revisão `5dfe10f`) e 07 (+1 · PCI Concursos, revisão `12913da`) registram **60 respostas de inspeção**, com 30 critérios efetivamente aplicados por grupo (0 itens não aplicáveis e 0 pendentes de verificação). Os critérios distribuem-se em cinco eixos de análise: Desenvolvimento do projeto (`D01`–`D11`), Guia de estilo e telas (`E3-06`–`E3-08`, `E3-11`, `E3-14`–`E3-17`), Plataforma e metas de usabilidade (`E3-01`, `E3-04`, `E3-05`, `E3-09`, `E3-10`), Princípios gerais de projeto (`E3-02`, `E3-03`, `E3-12`, `E3-13`, `E3-19`) e Sessão de verificação (`E3-18`).
 

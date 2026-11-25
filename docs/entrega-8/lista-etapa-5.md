@@ -14,7 +14,11 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-5.md) · [Autoinspeção do Grupo 06](grupo-06/etapa-5.md) · [Inspeção do Grupo 07](grupo-07/etapa-5.md) · [Lista V1 da Etapa 5](../verificacao/listas/etapa-5.md)
+[Etapa 8](index.md)<br>
+[Resultados e gráficos](resultados/etapa-5.md)<br>
+[Autoinspeção do Grupo 06](grupo-06/etapa-5.md)<br>
+[Inspeção do Grupo 07](grupo-07/etapa-5.md)<br>
+[Lista V1 da Etapa 5](../verificacao/listas/etapa-5.md)
 
 ## Como aplicar
 

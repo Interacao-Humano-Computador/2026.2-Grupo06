@@ -14,7 +14,8 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Resultados V2](inspecao.md)
+[Etapa 8](index.md)<br>
+[Resultados V2](inspecao.md)
 
 ## Protocolo do cotejo
 

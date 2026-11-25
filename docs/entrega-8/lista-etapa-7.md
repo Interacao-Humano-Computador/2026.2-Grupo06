@@ -14,7 +14,9 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-7.md) · [Lista V1 da Etapa 7](../verificacao/listas/etapa-7.md)
+[Etapa 8](index.md)<br>
+[Resultados e gráficos](resultados/etapa-7.md)<br>
+[Lista V1 da Etapa 7](../verificacao/listas/etapa-7.md)
 
 ## Como aplicar
 

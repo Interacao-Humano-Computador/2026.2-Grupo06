@@ -15,7 +15,11 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Visão geral](../inspecao.md) · [Conferência V1](../conferencia-anterior.md#grupo-06-etapa-5) · [Gravação · Grupo 06](../inspecao.md#video-etapa-5) · [Gravação · Grupo 07](../inspecao.md#video-grupo-07)
+[Lista V2 da Etapa 5](../lista-etapa-5.md)<br>
+[Visão geral](../inspecao.md)<br>
+[Conferência V1](../conferencia-anterior.md#grupo-06-etapa-5)<br>
+[Gravação · Grupo 06](../inspecao.md#video-etapa-5)<br>
+[Gravação · Grupo 07](../inspecao.md#video-grupo-07)
 
 As fichas dos Grupos 06 (autoinspeção, revisão `1c1da5c`) e 07 (+1 · PCI Concursos, revisão `12913da`) registram **62 respostas de inspeção**, com 31 critérios efetivamente aplicados por grupo (0 itens não aplicáveis e 0 pendentes de verificação). Os critérios distribuem-se em cinco blocos: Desenvolvimento do projeto (`D01`–`D11`), Planejamento da avaliação do papel (`E5-08`–`E5-16`), Relatos do nível 1 — storyboard e análise de tarefas (`E5-02`–`E5-07`), Planejamento do relato do papel (`E5-17`–`E5-20`) e Entrega dos artefatos (`E5-01`). Na ficha do Grupo 06, a contagem oficial preserva o estado verificado em `1c1da5c`, acompanhada de registro de reinspeção posterior (`8e50c63`).
 

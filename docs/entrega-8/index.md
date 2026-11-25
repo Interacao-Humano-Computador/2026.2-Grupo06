@@ -79,7 +79,15 @@ Para classificar uma linha, **Sim** exige cobertura em todo o recorte aplicável
 
 ## Escopo e versões
 
-A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 nas etapas pares (Etapas 2, 4 e 6) e o Grupo +1 nas etapas ímpares (Etapas 1, 3, 5 e 7): [Ficha V1 da Etapa 1 · Grupo 07](../verificacao/grupo-07/etapa-1/lista-verificacao.md) · [Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md) · [Ficha V1 da Etapa 3 · Grupo 07](../verificacao/grupo-07/etapa-3/lista-verificacao.md) · [Ficha V1 da Etapa 4 · Grupo 05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) · [Ficha V1 da Etapa 5 · Grupo 07](../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Ficha V1 da Etapa 6 · Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Ficha V1 da Etapa 7 · Grupo 07](../verificacao/grupo-07/etapa-7/lista-verificacao.md).
+A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 nas etapas pares (Etapas 2, 4 e 6) e o Grupo +1 nas etapas ímpares (Etapas 1, 3, 5 e 7):
+
+[Ficha V1 da Etapa 1 · Grupo 07](../verificacao/grupo-07/etapa-1/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 3 · Grupo 07](../verificacao/grupo-07/etapa-3/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 4 · Grupo 05](../verificacao/grupo-05/etapa-4/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 5 · Grupo 07](../verificacao/grupo-07/etapa-5/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 6 · Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md)<br>
+[Ficha V1 da Etapa 7 · Grupo 07](../verificacao/grupo-07/etapa-7/lista-verificacao.md)
 
 O inventário foi levantado pelos menus e links de cada site. As fichas ligam as páginas renderizadas ao código-fonte na revisão de referência e indicam a versão de cada artefato quando ela está publicada. Identificar a versão testada exige cruzar o endereço do protótipo com a revisão indicada no relato. Autorização e versão são avaliadas pelos registros disponíveis.
 

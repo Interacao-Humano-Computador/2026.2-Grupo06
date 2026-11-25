@@ -13,7 +13,10 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 4](../lista-etapa-4.md) · [Resultados e gráficos](../resultados/etapa-4.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 4](../../verificacao/grupo-05/etapa-4/lista-verificacao.md)
+[Lista V2 da Etapa 4](../lista-etapa-4.md)<br>
+[Resultados e gráficos](../resultados/etapa-4.md)<br>
+[Inspeções do grupo](index.md)<br>
+[Ficha V1 da Etapa 4](../../verificacao/grupo-05/etapa-4/lista-verificacao.md)
 
 ## Recorte e versões reinspecionadas
 

@@ -15,11 +15,27 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Lista da Etapa 1](lista-etapa-1.md) · [Lista da Etapa 2](lista-etapa-2.md) · [Lista da Etapa 3](lista-etapa-3.md) · [Lista da Etapa 4](lista-etapa-4.md) · [Lista da Etapa 5](lista-etapa-5.md) · [Lista da Etapa 6](lista-etapa-6.md) · [Lista da Etapa 7](lista-etapa-7.md) · [Conferência das respostas V1](conferencia-anterior.md)
+[Etapa 8](index.md)<br>
+[Lista da Etapa 1](lista-etapa-1.md)<br>
+[Lista da Etapa 2](lista-etapa-2.md)<br>
+[Lista da Etapa 3](lista-etapa-3.md)<br>
+[Lista da Etapa 4](lista-etapa-4.md)<br>
+[Lista da Etapa 5](lista-etapa-5.md)<br>
+[Lista da Etapa 6](lista-etapa-6.md)<br>
+[Lista da Etapa 7](lista-etapa-7.md)<br>
+[Conferência das respostas V1](conferencia-anterior.md)
 
 ## Respostas por grupo
 
-A síntese reúne **410 respostas em 14 fichas**, cobrindo integralmente **todas as sete etapas do projeto (Etapas 1 a 7)**: **48 respostas na Etapa 1** (Grupos 06 e 07), **54 na Etapa 2** (Grupos 06 e 05), **60 na Etapa 3** (Grupos 06 e 07), **80 na Etapa 4** (Grupos 06 e 05), **62 na Etapa 5** (Grupos 06 e 07), **54 na Etapa 6** (Grupos 06 e 05) e **52 na Etapa 7** (Grupos 06 e 07). Veja as contagens e os gráficos por etapa: [Resultados da Etapa 1](resultados/etapa-1.md) · [Resultados da Etapa 2](resultados/etapa-2.md) · [Resultados da Etapa 3](resultados/etapa-3.md) · [Resultados da Etapa 4](resultados/etapa-4.md) · [Resultados da Etapa 5](resultados/etapa-5.md) · [Resultados da Etapa 6](resultados/etapa-6.md) · [Resultados da Etapa 7](resultados/etapa-7.md).
+A síntese reúne **410 respostas em 14 fichas**, cobrindo integralmente **todas as sete etapas do projeto (Etapas 1 a 7)**: **48 respostas na Etapa 1** (Grupos 06 e 07), **54 na Etapa 2** (Grupos 06 e 05), **60 na Etapa 3** (Grupos 06 e 07), **80 na Etapa 4** (Grupos 06 e 05), **62 na Etapa 5** (Grupos 06 e 07), **54 na Etapa 6** (Grupos 06 e 05) e **52 na Etapa 7** (Grupos 06 e 07). Veja as contagens e os gráficos por etapa:
+
+[Resultados da Etapa 1](resultados/etapa-1.md)<br>
+[Resultados da Etapa 2](resultados/etapa-2.md)<br>
+[Resultados da Etapa 3](resultados/etapa-3.md)<br>
+[Resultados da Etapa 4](resultados/etapa-4.md)<br>
+[Resultados da Etapa 5](resultados/etapa-5.md)<br>
+[Resultados da Etapa 6](resultados/etapa-6.md)<br>
+[Resultados da Etapa 7](resultados/etapa-7.md)
 
 ### Contagens e percentuais
 
