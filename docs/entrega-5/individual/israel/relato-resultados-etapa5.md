@@ -44,8 +44,8 @@ A Tabela 2 sintetiza as sessões realizadas no ciclo da Etapa 5.
 
 | Sessão | Objeto avaliado | Participante / Perfil | Duração | Registro em vídeo |
 | :---: | --- | --- | :---: | :---: |
-| **Sessão 1** | Storyboard (7 cenas) | `SB-PART01` (Alinhada a Marta Oliveira) | 06 min 35 s | [Vídeo da sessão](relato-storyboard.md#gravacao-da-sessao) |
-| **Sessão 2** | Análise de Tarefas (HTA e CTT) | `AT-PART01` (Alinhada a Marta Oliveira) | 07 min 50 s | [Vídeo da sessão](relato-analise-tarefas.md#gravacao-da-sessao) |
+| **Sessão 1** | Storyboard (7 cenas) | `SB-PART01` (Alinhada a Marta Oliveira) | 06 min 35 s | [Vídeo da sessão](relato-storyboard.md#gravacao-audiovisual-da-sessao) |
+| **Sessão 2** | Análise de Tarefas (HTA e CTT) | `AT-PART01` (Alinhada a Marta Oliveira) | 07 min 50 s | [Vídeo da sessão](relato-analise-tarefas.md#gravacao-audiovisual-e-conferencia-tecnica) |
 
 <p class="caption">Tabela 2 — Síntese das sessões empíricas da Etapa 5.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>
@@ -150,6 +150,7 @@ A Tabela 6 documenta a evolução deste artefato consolidado.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 03/11/2026 | Criação do relato consolidado da Etapa 5: síntese dos achados do Storyboard e da Análise de Tarefas, convergência para o protótipo de papel e matriz de rastreabilidade completa | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 25/11/2026 | Ajuste das âncoras das gravações das sessões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>

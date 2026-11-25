@@ -47,6 +47,7 @@ theme:
 
 exclude_docs: |
   includes/**
+  entrega-8/proposta-complementacao-etapas-1-2.md
 
 plugins:
   - search:
@@ -325,6 +326,7 @@ nav:
           - Etapa 2: entrega-8/resultados/etapa-2.md
           - Etapa 3: entrega-8/resultados/etapa-3.md
           - Etapa 4: entrega-8/resultados/etapa-4.md
+          - Etapa 5: entrega-8/resultados/etapa-5.md
           - Etapa 6: entrega-8/resultados/etapa-6.md
           - Etapa 7: entrega-8/resultados/etapa-7.md
       - Inspeções:

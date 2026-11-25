@@ -12,8 +12,9 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Luis Henrique Arruda Luna](https://github.com/Donnk61) | Elaboração do cronograma executado | [Cronograma executado](cronograma.md#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização das atividades executadas na Etapa 4 — Oficina Legislativa | [Cronograma executado](cronograma.md#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Cronograma executado](#cronograma-executado) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das listas V1/V2, inspeções e consolidação das sete etapas na Etapa 8 | [Cronograma executado](#cronograma-executado) |
 | Codex (OpenAI) | Apoio à atualização da agenda de Bruno | [Replanejamento](#replanejamento-das-avaliacoes-de-bruno-23102026) |
-| Google Gemini | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
+| Google Gemini e Antigravity (Google DeepMind) | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -311,13 +312,17 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Elaboração do relato do protótipo de papel e dos planejamentos de alta fidelidade (Etapa 6) | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | [Relato do papel](../entrega-6/individual/bruno/relato-prototipo-papel.md), [planejamento da avaliação](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md); revisão de Luís Henrique |
 | Avaliação de alta fidelidade de complementos de ideias legislativas com três participantes — Etapa 7 | Bruno Ferreira Dornelas (moderação) e Caio Breno de Souza Bezerra (observação) | 11/11/2026 | 11/11/2026 | Sessões presenciais pela manhã, no contêiner da EJS, UnB Gama; [condições e evidências](../entrega-7/individual/bruno/evidencias.md). Não houve piloto |
 | Análise documental e consolidação do relato de alta fidelidade de complementos — Etapa 7 | Bruno Ferreira Dornelas | 13/11/2026 | 15/11/2026 | [Relato e histórico de versões](../entrega-7/individual/bruno/relato-alta-fidelidade.md#historico-de-versao), com resultados dos três participantes, localizadores e propostas de melhoria |
+| Padronização das listas de verificação V1 das Etapas 1 a 4 — Etapa 8 | Bruno Ferreira Dornelas | 19/11/2026 | 23/11/2026 | Listas V1 das [Etapas 1](../verificacao/listas/etapa-1.md), [2](../verificacao/listas/etapa-2.md), [3](../verificacao/listas/etapa-3.md) e [4](../verificacao/listas/etapa-4.md) com recortes grifados e rastreabilidade V2 |
+| Elaboração da Lista V2 e reinspeção dos Grupos 06 e 05 (−1) na Etapa 4 — Etapa 8 | Bruno Ferreira Dornelas | 20/11/2026 | 22/11/2026 | [Lista V2](../entrega-8/lista-etapa-4.md), fichas dos [Grupos 06](../entrega-8/grupo-06/etapa-4.md) e [05](../entrega-8/grupo-05/etapa-4.md) e [conferência V1](../entrega-8/conferencia-anterior.md#grupo-06-etapa-4); revisão de Caio Breno |
+| Inspeção externa da Etapa 3 do Grupo 07 (+1) e gravação das inspeções externas — Etapa 8 | Bruno Ferreira Dornelas e equipe do Grupo 06 | 22/11/2026 | 23/11/2026 | [Ficha do Grupo 07](../entrega-8/grupo-07/etapa-3.md), [conferência V1 da Etapa 3](../entrega-8/conferencia-anterior.md#grupo-06-etapa-3) e [vídeo do Grupo 05 (−1)](https://youtu.be/CuolulKrRGE) |
+| Consolidação dos resultados das Etapas 3, 4 e 5, síntese geral e conferência V1 das Etapas 1 a 5 — Etapa 8 | Bruno Ferreira Dornelas | 21/11/2026 | 25/11/2026 | Gráficos das [Etapas 3](../entrega-8/resultados/etapa-3.md), [4](../entrega-8/resultados/etapa-4.md) e [5](../entrega-8/resultados/etapa-5.md), [síntese geral](../entrega-8/inspecao.md) (410 respostas) e [conferência V1](../entrega-8/conferencia-anterior.md) (14 fichas); revisão de Caio Breno |
 
 <p class="caption">Tabela 11 — Cronograma executado.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da agenda específica de Bruno. A equipe agradece o apoio do Google Gemini na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
+O Codex (OpenAI) apoiou a atualização da agenda específica de Bruno. A equipe agradece o apoio do Google Gemini e do Antigravity (Google DeepMind) na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
 
 
 ## Replanejamento das avaliações de Bruno — 23/10/2026
@@ -352,9 +357,10 @@ A preparação e a avaliação futura do protótipo de papel seguem a [agenda pr
 | `2.2` | 03/10/2026 | Individualização nominal dos responsáveis no cronograma (atendimento à Issue #16 e OBS 1 do monitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `2.3` | 05/10/2026 | Divisão dos itens da Etapa 3, correções da Etapa 2 no planejado e atividades executadas até 05/10 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.4` | 13/10/2026 | Registra as atividades executadas por Bruno na Etapa 4, incluindo os quatro planejamentos e o storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.5 | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.5` | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.6` | 03/11/2026 | Registra no cronograma executado a preparação, o piloto, a validação do protótipo de papel e os artefatos da Etapa 6 de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `2.7` | 15/11/2026 | Registro das sessões e da consolidação do relato de complementos na Etapa 7, preservando o cronograma planejado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `2.7` | 15/11/2026 | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `2.8` | 25/11/2026 | Registro das atividades executadas na Etapa 8 e consolidação das sete etapas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -56,6 +56,8 @@ Cada linha vincula o critério vigente da V2 à página publicada do Grupo 07 e 
 
 </div>
 
+[Conferir as respostas da inspeção V1](../conferencia-anterior.md#grupo-07-etapa-1).
+
 ## Acompanhamento
 
 | Achado | Ajuste a registrar | Evidência para encerrar |
@@ -87,6 +89,7 @@ Cada linha vincula o critério vigente da V2 à página publicada do Grupo 07 e 
 | `1.0` | 21/11/2026 | Registro das 24 respostas e evidências da inspeção V2 da Etapa 1 no Grupo 07. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 1. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 07 (+1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.3` | 25/11/2026 | Vincula a conferência item a item da ficha V1 da Etapa 1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 
