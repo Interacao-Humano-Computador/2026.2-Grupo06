@@ -61,11 +61,9 @@ Esta entrevista investiga compreensão e adequação esperada. A aplicação do 
 
 ### Participante e recrutamento
 
-**P01** participou da entrevista de 24/10/2026. Sua caracterização será extraída dos registros: participação cívica ou coletiva, envio de sugestões, navegação e escrita digital e necessidades de acessibilidade, quando abordados. Não é necessário ter a mesma profissão ou idade de Letícia. Um caso exploratório permite identificar indícios e questões de revisão, sem representar todo o público; lacunas relevantes poderão exigir coleta adicional.
+**P01** foi recrutada por **convite voluntário direto em rede de contatos acadêmicos e comunitários** de adultos com interesse ou experiência prévia em participação pública digital, sem vínculo de subordinação e sem envolvimento na construção dos artefatos. O convite informa previamente objetivo, atividades, duração estimada e caráter voluntário. Sua caracterização na entrevista de 24/10/2026 considera participação cívica ou coletiva, envio de sugestões, navegação e escrita digital e necessidades de acessibilidade, quando abordados. Não é necessário ter a mesma profissão ou idade de Letícia. Um caso exploratório permite identificar indícios e questões de revisão, sem representar todo o público; lacunas relevantes poderão exigir coleta adicional (BARBOSA; SILVA, 2010, p. 305, 312).
 
-O ensaio individual de Bruno foi realizado em 23/10/2026 e não exigiu ajustes. As entrevistas ocorreram presencialmente em 24/10/2026; as condições efetivas e os resultados estão registrados nos relatos da Etapa 5.
-
-As duas entrevistas foram realizadas em 24/10/2026, no mesmo encontro. Conferir a ordem efetiva, as pausas e as explicações nas gravações. P01 é a mesma pessoa nos dois relatos; a segunda discussão não constitui observação independente.
+O planejamento prevê sessão piloto anterior à coleta oficial (`23/10/2026`) e entrevistas principais em `24/10/2026`. Na aplicação efetiva, Bruno realizou ensaio individual em 23/10/2026 (sem ajustes necessários) e conduziu presencialmente as duas entrevistas em 24/10/2026, no mesmo encontro; as condições efetivas e os resultados estão registrados no [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-storyboard.md). Conferir a ordem efetiva, as pausas e as explicações nas gravações: P01 é a mesma pessoa nos dois relatos, de modo que a segunda discussão não constitui observação independente.
 
 ### Equipe, ambiente e materiais
 
@@ -74,11 +72,11 @@ A Tabela 3 reúne os recursos necessários.
 | Item | Definição |
 | --- | --- |
 | Equipe | Bruno: convite, moderação, notas e análise; Caio: revisão dos materiais e do relato |
-| Ambiente | Google Meet; locais privados, áudio, conexão e dispositivo que permita ampliar os quadros; link enviado em privado |
+| Ambiente e local previstos | Remoto via Google Meet (link privado) ou encontro presencial em sala/ambiente reservado silencioso na FCTE/UnB ou local acordado com a participante, com dispositivo que permita ampliar os quadros |
 | Material | [Storyboard](storyboard.md) manual digitalizado, QD01–QD08, descrição equivalente e [correspondência com as tarefas](storyboard.md#uso-na-avaliacao) |
-| Instrumentos | TCLE específico, caracterização, roteiro abaixo e [formulário de evidências](planejamento-relato-storyboard.md#instrumentos-para-organizar-os-resultados) |
-| Registro | Notas com pausas para conferência; áudio opcional autorizado, sem gravação facial |
-| Custos e contingência | Sem despesas adicionais previstas; ampliar ou fornecer cópia se necessário; pausar e reagendar se acesso, áudio ou conexão impedirem a coleta |
+| Instrumentos | Minuta de TCLE específico desta etapa, caracterização, roteiro abaixo e [formulário de evidências](planejamento-relato-storyboard.md#instrumentos-para-organizar-os-resultados) |
+| Registro | Notas com pausas para conferência; gravação de áudio e/ou vídeo mediante autorização prévia expressa no TCLE |
+| Custos e contingência | Orçamento previsto de R$ 0,00 (recursos próprios e participação voluntária, sem despesas adicionais); ampliar ou fornecer cópia se necessário; pausar e reagendar se acesso, áudio ou conexão impedirem a coleta |
 
 <p class="caption">Tabela 3 — Recursos e responsabilidades.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
@@ -104,21 +102,56 @@ Usar “O que nessa cena levou você a entender assim?” para localizar evidên
 
 ### Teste-piloto
 
-Bruno realizou o **ensaio individual em 23/10/2026**. O procedimento previa conferir acesso, legibilidade, roteiro, duração estimada, registro e análise. Não houve ajustes decorrentes do ensaio; respostas fictícias permanecem separadas dos dados de P01. Essa adaptação não verifica compreensão por outra pessoa e não equivale ao piloto com participante descrito por Barbosa e Silva (2010, p. 307–308).
+**Autor do item:** Bruno Ferreira Dornelas.
+
+Segundo Barbosa e Silva (2010, p. 307–308 [1]; Figuras 4 e 5 do [Apêndice A](#apendice-a-trechos-sobre-metodo-e-piloto)), o **teste-piloto** é um ensaio prévio completo do planejamento — cobrindo recepção, consentimento, legibilidade dos quadros, clareza do roteiro, duração e instrumentos de registro, seguido de breve análise para corrigir falhas — realizado **antes da avaliação oficial** com uma pessoa de perfil próximo, distinta da amostra principal (`P01`) e não envolvida na construção do material. Os dados gerados no piloto destinam-se exclusivamente à calibragem metodológica e **não são incluídos nos resultados oficiais da avaliação**.
+
+Na execução de **23/10/2026**, Bruno realizou um **ensaio individual** dos instrumentos (sem segundo participante), que não exigiu ajustes nos materiais; as respostas simuladas permanecem separadas dos dados de P01, registrando-se como limitação metodológica não ter verificado previamente a compreensão com outra pessoa.
 
 <a id="registro-de-agendamento-previsto"></a>
 
-### Registro da execução
+### Cronograma e registro da execução
 
-Ensaio individual: **23/10/2026**. Entrevista gravada com P01: **24/10/2026**, no encontro das duas avaliações. A [agenda comum](conferencia-planejamentos.md#agenda-e-preparacao) registra as datas; o [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-storyboard.md) apresenta a duração da gravação, o procedimento efetivo e os resultados.
+A Tabela 5 consolida o cronograma planejado (datas, janelas horárias em UTC−3 e local/modalidade previstos) e o registro efetivo das sessões, articulado à [agenda comum](conferencia-planejamentos.md#agenda-e-preparacao) e ao [relato da Etapa 5](../../../entrega-5/individual/bruno/relato-storyboard.md).
+
+| Atividade / sessão | Data | Horário previsto (UTC−3) | Local / modalidade prevista | Registro efetivo na execução |
+| --- | :---: | :---: | --- | --- |
+| Teste-piloto / ensaio do storyboard e das tarefas | `23/10/2026` | `19h00–19h40` (40 min) | Remoto via Google Meet ou ambiente privado silencioso | Ensaio individual gravado em `23/10/2026`, sem ajustes e excluído dos resultados |
+| Avaliação oficial do storyboard (`P01`) | `24/10/2026` | `19h00–19h40` (35–40 min) | Remoto via Google Meet ou sala/ambiente reservado privado | Realizada presencialmente em `24/10/2026` em ambiente privado (gravação de `10min50s`; horários exatos de início/fim não anotados) |
+| Avaliação oficial da análise de tarefas (`P01`) | `24/10/2026` | `19h45–20h35` (45–50 min) | Mesmo ambiente da sessão do storyboard | Realizada em sequência no mesmo encontro de `24/10/2026` (gravação de `8min09s`) |
+
+<p class="caption">Tabela 5 — Cronograma planejado e registro de execução das sessões.</p>
+<p class="source">Fonte: planejamento operacional e registros da coleta de Bruno Ferreira Dornelas (2026).</p>
 
 ## D — Decidir como lidar com questões éticas
 
-O TCLE específico deve informar objetivo, atividades, duração, responsáveis, contato, registros, acesso, retenção e uso acadêmico (BARBOSA; SILVA, 2010, p. 138–142). A participação deve ser voluntária, com liberdade para não responder, pausar ou desistir sem prejuízo. Oferecer ampliação, descrição textual e pausas; evitar dados de terceiros e operações reais.
+O TCLE específico informa objetivo, atividades, duração estimada, responsáveis, canal de contato, registros previstos, guarda, retenção e finalidade acadêmica (BARBOSA; SILVA, 2010, p. 138–142 [1]), em consonância com as [diretrizes éticas do Grupo 06](../../../entrega-2/etica.md). A participação é estritamente voluntária, assegurando liberdade para recusar perguntas, pausar ou desistir em qualquer momento sem penalização ou prejuízo, preservação do anonimato em todas as mídias divulgadas e solicitação prévia e separada de permissão antes de qualquer gravação de voz, imagem ou tela. Oferecer ampliação, descrição textual e pausas; evitar dados de terceiros e operações reais no portal.
 
-O planejamento previa notas e áudio opcional, sem gravação facial. Na execução presencial, foram gravadas imagem e voz. O TCLE assinado em 25/10/2026 abrange as duas entrevistas de 24/10 e autoriza publicação no YouTube como não listado e incorporação no site público do grupo, com supressão das identificações nominais.
+??? note "Minuta do Termo de Consentimento Livre e Esclarecido (TCLE) — Avaliação do Storyboard (Etapa 4)"
 
-Os artefatos usam **P01**. Bruno mantém o termo, os contatos e os dados de análise em arquivo privado. As gravações são acessadas pelos links do YouTube; o termo prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026. Dúvidas e pedidos de retirada são encaminhados pelo contato do entrevistador informado no TCLE. A assinatura de 25/10 não comprova, por si só, consentimento anterior à coleta.
+    **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)**
+
+    **Projeto acadêmico:** Avaliação e Reprojeto de IHC do Portal e-Cidadania (Senado Federal) — Grupo 06  
+    **Instituição e disciplina:** Universidade de Brasília (FCTE/UnB) — Interação Humano-Computador (`2026.2`), Prof. Dr. André Barros de Sales  
+    **Avaliador responsável:** Bruno Ferreira Dornelas (contato informado diretamente à pessoa participante)
+
+    **1. Objetivo, duração e procedimentos:** Você está sendo convidado(a) a participar voluntariamente de uma avaliação formativa conceitual sobre o **Storyboard de sugestão e acompanhamento de complementos de ideias legislativas (`QD01–QD08`)**. A sessão consiste na leitura comentada de oito quadros ilustrados seguida de entrevista semiestruturada, com duração estimada de **35 a 40 minutos** (ou até **90 minutos** quando realizada em conjunto com a avaliação da Análise de Tarefas). Avalia-se exclusivamente a clareza do material, e não o seu desempenho pessoal. Os dados têm finalidade estritamente pedagógica e acadêmica.
+
+    **2. Voluntariedade e direito de recusa ou desistência sem ônus:** Sua participação é livre e não remunerada. Você pode deixar de responder a qualquer pergunta, solicitar pausas ou **retirar seu consentimento e encerrar a participação a qualquer momento, antes ou durante a sessão, sem qualquer penalidade, constrangimento ou prejuízo**.
+
+    **3. Confidencialidade, anonimato e guarda dos dados:** Sua identidade civil será mantida em sigilo. Nos relatórios, tabelas, transcrições, áudios, imagens e vídeos divulgados na documentação acadêmica da disciplina, todas as identificações nominais serão suprimidas e substituídas pelo código anônimo **`P01`**. Esta via assinada e os arquivos originais brutos ficarão sob guarda privada do avaliador responsável e serão excluídos até **dezembro de 2026** (em até 30 dias após o encerramento da disciplina).
+
+    **4. Permissão específica e prévia para gravação:** Nenhum registro de áudio, imagem ou tela será iniciado sem sua autorização prévia e expressa abaixo:  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **áudio (voz)** durante a entrevista.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **imagem/vídeo e/ou tela** durante a sessão.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a disponibilização acadêmica do registro desidentificado como vídeo **não listado** no YouTube vinculado ao repositório da disciplina.
+
+    **Declaração de consentimento:** Declaro que fui esclarecido(a) sobre os objetivos, procedimentos, duração e garantias éticas deste estudo, recebi cópia deste termo e concordo voluntariamente em participar.  
+    Local e data: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_/\_\_\_\_/2026.  
+    Assinatura da pessoa participante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+    Assinatura do avaliador responsável (Bruno Ferreira Dornelas): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+O planejamento inicial previa notas e áudio opcional, sem gravação facial; na execução presencial de 24/10/2026 foram gravadas imagem e voz mediante aceite, formalizado no TCLE assinado em 25/10/2026 cobrindo as duas entrevistas e autorizando publicação no YouTube como não listado e incorporação no site público com supressão das identificações nominais (`P01`). Termo, contatos e registros brutos permanecem em arquivo privado até a exclusão ao final da disciplina; a assinatura de 25/10 não comprova, por si só, formalização escrita anterior à coleta.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
@@ -132,6 +165,8 @@ O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização 
 
 ## Histórico de versão
 
+A Tabela 6 registra o histórico de versões deste planejamento.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Planejamento DECIDE inicial da avaliação do storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
@@ -143,6 +178,10 @@ O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização 
 | `1.6` | 23/10/2026 | Adaptação do recorte para Letícia, instrumentos e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 24/10/2026 | Padronização da estrutura do planejamento para complementos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 24/10/2026 | Reorganização do DECIDE, separação do roteiro e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 25/11/2026 | Explicitação do canal de recrutamento, janelas horárias e local do cronograma, definição do teste-piloto e minuta completa do TCLE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 6 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Referências
 
