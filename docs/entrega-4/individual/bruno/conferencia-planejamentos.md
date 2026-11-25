@@ -28,10 +28,10 @@ A Tabela 2 apresenta o mapa documental. A existência de uma seção não compro
 | Perguntas | Os relatos respondem SB-Q1–SB-Q6 e AT-Q1–AT-Q6 com base nas evidências; os roteiros de entrevista são instrumentos separados |
 | Storyboard | Desenho manual de oito quadros fotografado e incorporado; substitui a referência de IA |
 | Tarefas | Diagramas HTA e CTT, com descrições equivalentes; correspondência QD01–QD08; CT01–CT06 registradas no relato, com ambiguidade de ordem em CT05 |
-| Perfil | P01 relata experiência prévia de envio de sugestões; caracterização apresentada nos relatos |
-| Cronograma | Ensaio individual em 23/10/2026; entrevistas gravadas em 24/10/2026; storyboard: 10min50s; tarefas: 8min09s |
-| Ética | Registro e divulgação de vídeo e falas desidentificadas autorizados; TCLE mantido em privado |
-| Preparação | Ensaio individual de Bruno, sem ajustes; simulações separadas dos resultados e compreensão por outra pessoa não verificada |
+| Perfil e recrutamento | Convite voluntário em rede acadêmica/comunitária; P01 relata experiência prévia de envio de sugestões; custo previsto zero (`R$ 0,00`) |
+| Cronograma | Janelas previstas em `23/10` (`19h00–19h50`, piloto) e `24/10/2026` (`19h00–19h40` e `19h45–20h35`, Google Meet ou sala privada); entrevistas presenciais gravadas em `24/10` (`10min50s` e `8min09s`) |
+| Ética | Minutas específicas de TCLE incorporadas nos dois planos com desistência livre, anonimato (`P01`) e autorização prévia de áudio/vídeo; via assinada mantida em privado |
+| Preparação e piloto | Definição e protocolo de piloto com participante distinto documentados (p. 307–308); na prática ocorreu ensaio individual em `23/10`, sem ajustes e excluído dos resultados |
 | Relatos | Sete componentes; critérios de interpretação, matrizes de respostas do avaliador e registros de achados |
 
 <p class="caption">Tabela 2 — Cobertura e condições.</p>
@@ -47,17 +47,17 @@ O storyboard manual fotografado está disponível; HTA e CTT permanecem vinculad
 
 ## Agenda e preparação
 
-A Tabela 3 registra a execução das avaliações. As durações correspondem aos arquivos gravados; os horários de início e fim não foram registrados.
+A Tabela 3 consolida as datas, janelas horárias (UTC−3) e modalidade/local previstos nos dois planejamentos ao lado da execução efetiva das avaliações. As durações registradas nos vídeos correspondem aos arquivos gravados; os horários exatos de relógio de início e fim do encontro presencial não foram anotados na gravação.
 
-| Atividade | Data | Situação | Responsável |
-| --- | --- | --- | --- |
-| Ensaio individual do storyboard e das tarefas | 23/10/2026 | Realizado e gravado; não houve ajustes | Bruno |
-| Entrevista do storyboard | 24/10/2026 | Realizada e gravada; arquivo de 10min50s | Bruno e P01 |
-| Entrevista da análise de tarefas | 24/10/2026 | Realizada após o storyboard, no mesmo encontro; arquivo de 8min09s | Bruno e P01 |
-| Organização dos registros e autorizações | 25/10/2026 | Arquivos identificados, autorizações confirmadas e evidências desidentificadas nos relatos | Bruno |
-| Análise e redação dos dois relatos | 25/10/2026 | Resultados, respostas ao DECIDE e propostas de correção consolidados na Etapa 5 | Bruno |
+| Atividade | Data | Janela e local previstos | Situação efetiva | Responsável |
+| --- | :---: | --- | --- | --- |
+| Teste-piloto / ensaio do storyboard e das tarefas | 23/10/2026 | `19h00–19h50` · Google Meet ou ambiente privado | Ensaio individual realizado e gravado; sem ajustes e separado dos resultados | Bruno |
+| Entrevista do storyboard | 24/10/2026 | `19h00–19h40` · Google Meet ou sala/ambiente reservado privado | Realizada presencialmente e gravada; arquivo de 10min50s | Bruno e P01 |
+| Entrevista da análise de tarefas | 24/10/2026 | `19h45–20h35` · Mesmo ambiente reservado | Realizada presencialmente após o storyboard, no mesmo encontro; arquivo de 8min09s | Bruno e P01 |
+| Organização dos registros e autorizações | 25/10/2026 | Pasta privada fora do repositório | Arquivos identificados, TCLE assinado arquivado em privado e evidências desidentificadas (`P01`) | Bruno |
+| Análise, redação e revisão dos dois relatos | 25/10/2026 | Até a entrega da Etapa 5 (`25/10`) | Resultados, respostas ao DECIDE e propostas de correção consolidados na Etapa 5 | Bruno e Caio |
 
-<p class="caption">Tabela 3 — Execução e continuidade das avaliações.</p>
+<p class="caption">Tabela 3 — Agenda prevista e execução das avaliações.</p>
 <p class="source">Fonte: registros das avaliações (2026).</p>
 
 P01 participou das duas avaliações, que constituem um único caso exploratório. As condições de execução estão descritas nos relatos; a identificação textual permanece P01.
@@ -97,7 +97,7 @@ O Codex (OpenAI) apoiou a redação, a organização dos instrumentos e a confer
 
 ## Histórico de versão
 
-Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
+A Tabela 4 registra o histórico de versões desta conferência.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
@@ -109,6 +109,10 @@ Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 | `1.5` | 23/10/2026 | Atualização de recorte, rastreabilidade DECIDE e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 24/10/2026 | Alinhamento da preparação ao storyboard manual | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 24/10/2026 | Revisão de objetivos, roteiro, participante P01 e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 25/11/2026 | Consolidação das janelas horárias e locais previstos, recrutamento, protocolo do piloto e minutas de TCLE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 4 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do projeto (2026).</p>
 
 ## Referências
 

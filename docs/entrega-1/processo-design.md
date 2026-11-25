@@ -78,18 +78,26 @@ Deborah Mayhew (1999) propôs um ciclo de vida para a engenharia de usabilidade,
 
 ### Por que este processo
 
-O Portal do Senado Federal é um sistema que já está no ar e em uso real, não um produto sendo criado do zero. Isso muda o tipo de trabalho que o Grupo 06 precisa fazer: em vez de propor uma interface inédita, a tarefa é analisar como usuários reais tentam encontrar informações e serviços públicos (a tramitação de um projeto de lei, os dados de um senador, um canal de participação) na interface existente, e verificar onde ela falha em atender a esse objetivo. É exatamente esse cenário — avaliação de um sistema existente, com foco em requisitos de usabilidade bem definidos — que o modelo de Mayhew foi criado para atender, ao contrário do ciclo simples ou do ciclo em estrela, que pressupõem que o design ainda será construído do zero
+O Portal do Senado Federal é um sistema que já está no ar e em uso real, não um produto sendo criado do zero. Isso muda o tipo de trabalho que o Grupo 06 precisa fazer: em vez de propor uma interface inédita, a tarefa é analisar como usuários reais tentam encontrar informações e serviços públicos (a tramitação de um projeto de lei, os dados de um senador, um canal de participação) na interface existente, e verificar onde ela falha em atender a esse objetivo. É exatamente esse cenário — avaliação de um sistema existente, com foco em requisitos de usabilidade bem definidos — que o modelo de Mayhew foi criado para atender, ao contrário do ciclo simples ou do ciclo em estrela, que pressupõem que o design ainda será construído do zero.
 
 ### Como vamos percorrê-lo
 
-A Tabela 3 liga as fases do processo escolhido às entregas da disciplina.
+A Tabela 3 liga as fases do processo escolhido às entregas da disciplina ao longo do semestre.
 
 | Fase do processo | O que o grupo faz | Entrega |
 | --- | --- | :---: |
-| Inicial | Documento Inicial | 1 |
+| Planejamento inicial | Definição da equipe, ferramentas, cronograma, heatmap, inspeção comparativa de sites candidatos e seleção do Portal do Senado Federal e do ciclo de Mayhew | 1 |
+| Fase 1 — Análise de requisitos | Levantamento do perfil de usuário, aspectos éticos (TCLE), elenco de personas, cenários e análise de tarefas (HTA e GOMS/CTT) | 2 |
+| Fase 1 — Análise de requisitos | Características da plataforma, princípios gerais de projeto, metas de usabilidade (`M0`–`M6`) e Guia de Estilo com telas de referência | 3 |
+| Fase 2 — Design, avaliação e desenvolvimento (Nível 1: modelo conceitual) | Elaboração dos storyboards, revisão das análises de tarefas e planejamentos (DECIDE) das avaliações e dos relatos | 4 |
+| Fase 2 — Design, avaliação e desenvolvimento (Nível 1 → Nível 2) | Relatos da avaliação dos storyboards e das análises de tarefas; planejamentos da avaliação e do relato do protótipo de papel | 5 |
+| Fase 2 — Design, avaliação e desenvolvimento (Nível 2 → Nível 3) | Construção e relato da avaliação do protótipo de papel; planejamentos da avaliação e do relato do protótipo de alta fidelidade | 6 |
+| Fase 2 — Design, avaliação e desenvolvimento (Nível 3: projeto detalhado) | Implementação do protótipo interativo de alta fidelidade, sessões de teste com usuários e relato dos resultados | 7 |
+| Fase 2 — Inspeção e verificação documental | Revisão das listas de verificação (`V2`), reinspeção formal dos artefatos das Etapas 1 a 7 e consolidação dos resultados | 8 |
+| Síntese final (pré-instalação no escopo acadêmico) | Correção das pendências, consolidação das avaliações e apresentação final (a Fase 3 de *Instalação* em produção cabe ao Senado Federal e fica fora do escopo letivo) | Projeto Final |
 
 <p class="caption">Tabela 3 — Processo de design e entregas da disciplina.</p>
-<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026), com base em BARBOSA; SILVA (2010, p. 109–111) e SALES (2026).</p>
 
 ## Foto do trecho
 
@@ -130,6 +138,7 @@ A equipe agradece o apoio do Google Gemini na organização do texto, no ajuste 
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.2` | 03/10/2026 | Corrige figuras, numeração, fontes, chamada no texto, recado interno e ortografia; nomeia o Google Gemini | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.4` | 25/11/2026 | Mapeia as fases de Mayhew às entregas do semestre na Tabela 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

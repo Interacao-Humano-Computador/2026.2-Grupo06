@@ -28,15 +28,15 @@ O relato da prototipação em papel descreve objetivos, método, participantes, 
 
 ??? note "Figura 1 — Interpretação e consolidação"
 
-    ![Página 318 do capítulo enviado: interpretação conjunta e prioridade por gravidade e frequência.](../../../assets/img/entrega-5/referencias/metodos-enviado-p318.png)
+    ![Página 318 de Barbosa et al. (2021): interpretação conjunta e prioridade por gravidade e frequência.](../../../assets/img/entrega-5/referencias/metodos-enviado-p318.png)
     <p class="caption">Figura 1 — Interpretação e consolidação.</p>
-    <p class="source">Fonte: capítulo Métodos de avaliação de IHC enviado ao projeto [2], p. 318 (página 38 do PDF).</p>
+    <p class="source">Fonte: Barbosa et al. (2021), cap. 12, p. 318 [2].</p>
 
 ??? note "Figura 2 — Conteúdo do relato"
 
-    ![Página 319 do capítulo enviado: participantes, tarefas, problemas corrigidos e pendentes.](../../../assets/img/entrega-5/referencias/metodos-enviado-p319.png)
+    ![Página 319 de Barbosa et al. (2021): participantes, tarefas, problemas corrigidos e pendentes.](../../../assets/img/entrega-5/referencias/metodos-enviado-p319.png)
     <p class="caption">Figura 2 — Correções, pendências e continuidade.</p>
-    <p class="source">Fonte: capítulo Métodos de avaliação de IHC enviado ao projeto [2], p. 319 (página 39 do PDF).</p>
+    <p class="source">Fonte: Barbosa et al. (2021), cap. 12, p. 319 [2].</p>
 
 ## Estrutura prevista do relato
 
@@ -144,13 +144,12 @@ O Codex (OpenAI) apoiou a redação e a organização dos instrumentos. A respon
 | --- | --- | --- | --- | --- |
 | `1.0` | 24/10/2026 | Planejamento do relato da avaliação do protótipo de papel | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.1` | 25/10/2026 | Alinhamento de registros e critérios aos achados da Etapa 5 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 25/11/2026 | Completa referências ABNT dos capítulos utilizados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
-[1] **Planejamento da avaliação de IHC**. Capítulo 11 do material enviado, arquivo *Cap. Planejamento ihc-ux.pdf*. Objetivos e perguntas, p. 264–266; DECIDE, p. 279–280.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 11 (Planejamento da avaliação de IHC), objetivos e perguntas, p. 264–266; DECIDE, p. 279–280.
 
-[2] **Métodos de avaliação de IHC**. Capítulo 12 do material enviado, arquivo *Cap Metodos de avaliacao de IHC.pdf*. Seção 12.2.3, prototipação em papel, p. 315–319; interpretação, consolidação e relato, p. 318–319.
-
-As páginas citadas são as impressas nos capítulos enviados. Os recortes não incluem ficha bibliográfica para confirmar autoria, ano e edição; não se atribui esta paginação à edição de Barbosa e Silva (2010).
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 12 (Métodos de avaliação de IHC), seção 12.2.3, prototipação em papel, p. 315–319; interpretação, consolidação e relato, p. 318–319.
 
 [3] GRUPO 06. **Complementos de ideias legislativas**. [Storyboard](../../../entrega-4/individual/bruno/storyboard.md) e [análise de tarefas](../../../entrega-4/individual/bruno/analise-tarefas.md). 2026.

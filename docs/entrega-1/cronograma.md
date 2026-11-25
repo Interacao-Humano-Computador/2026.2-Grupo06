@@ -30,6 +30,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 06/09 | Inspeção: 07/09 | Apresentação: 08/09**
 
+A Tabela 2 apresenta as atividades planejadas para a Etapa 1.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Documentação da equipe | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Luis Henrique |
@@ -57,6 +59,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 27/09 | Inspeção: 28/09 | Apresentação: 29/09**
 
+A Tabela 3 apresenta as atividades planejadas para a Etapa 2.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 1 | 09/09 | 12/09 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 12/09 - 13/09 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -83,6 +87,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Etapa 3 - Análise de Requisitos
 
 **Entrega: 06/10 | Inspeção: 07/10 | Apresentação: 08/10**
+
+A Tabela 4 apresenta as atividades planejadas para a Etapa 3.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -116,6 +122,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 13/10 | Inspeção: 14/10 | Apresentação: 15/10**
 
+A Tabela 5 apresenta as atividades planejadas para a Etapa 4.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 3 | 09/10 | 10/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 10/10 - 11/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -142,6 +150,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 25/10 | Inspeção: 26/10 | Apresentação: 27/10**
 
+A Tabela 6 apresenta as atividades planejadas para a Etapa 5.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 4 | 16/10 | 18/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 18/10 - 19/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -165,6 +175,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Etapa 6 - Protótipo de Papel e Planejamento da Alta Fidelidade
 
 **Entrega: 03/11 | Inspeção: 04/11 | Apresentação: 05/11**
+
+A Tabela 7 apresenta as atividades planejadas para a Etapa 6.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -190,6 +202,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 15/11 | Inspeção: 16/11 | Apresentação: 17/11**
 
+A Tabela 8 apresenta as atividades planejadas para a Etapa 7.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções e ajustes do protótipo | 06/11 | 08/11 | Heitor Pinheiro | 08/11 - 09/11 | Bruno Ferreira |
@@ -213,6 +227,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 22/11 | Inspeção: 23/11 | Apresentação: 24/11**
 
+A Tabela 9 apresenta as atividades planejadas para a Etapa 8.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Planejamento da verificação | 18/11 | 19/11 | Israel Soares | 19/11 - 20/11 | Heitor Pinheiro |
@@ -235,6 +251,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Projeto Final
 
 **Entrega: 30/11 | Avaliações do projeto final: 01/12, 03/12 e 08/12**
+
+A Tabela 10 apresenta as atividades planejadas para o Projeto Final.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -286,14 +304,24 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Integração dos artefatos individuais ao GitHub Pages | Luís Henrique Luna de Arruda | 27/09/2026 | 27/09/2026 | Integração concluída; revisão de Bruno Ferreira |
 | Inspeção da Etapa 2 do Grupo 05 (Grupo −1) | Luís Henrique Luna de Arruda | 30/09/2026 | 01/10/2026 | Lista de verificação preenchida a partir da transcrição da reunião |
 | Individualização dos responsáveis no cronograma e ajuste das ferramentas (Issues #16 e #25) | Heitor Pinheiro | 03/10/2026 | 03/10/2026 | Concluída; revisão de Israel Soares |
-| Aplicação do feedback do monitor nas listas, atas e artefatos das Etapas 1 e 2 | Caio Breno | 03/10/2026 | 03/10/2026 | Concluída |
-| Abertura das páginas da Etapa 3 e características da plataforma (item 10) | Caio Breno | 03/10/2026 | 03/10/2026 | Concluída |
-| Modelo de TCLE | Israel Soares | 04/10/2026 | 05/10/2026 | Modelo publicado; correção da Etapa 2 em andamento |
-| Autoverificação da Etapa 2 com o vídeo da inspeção | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Lista preenchida com link e horários do vídeo |
+| Aplicação do feedback do monitor nas listas, atas e artefatos das Etapas 1 e 2 | Caio Breno | 03/10/2026 | 03/10/2026 | Concluída (incluindo publicação da [Ata 02](../atas/ata-02.md)) |
+| Abertura das páginas da Etapa 3 e características da plataforma (item 10) | Caio Breno | 03/10/2026 | 03/10/2026 | [Índice da Etapa 3](../entrega-3/index.md) e [Características da plataforma](../entrega-3/plataforma.md) concluídos; revisão de Luís Henrique e Bruno Ferreira |
+| Reunião de alinhamento da Etapa 3 e publicação da Ata 03 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique (ata por Bruno Ferreira) | 03/10/2026 | 03/10/2026 | Reunião via Google Meet das 20:00 às 20:40 registrada na [Ata 03](../atas/ata-03.md); revisão de Heitor Pinheiro |
+| Publicação do modelo de TCLE e revisão ética da Etapa 2 | Israel Soares | 04/10/2026 | 05/10/2026 | [Modelo de TCLE](../assets/docs/tcle/tcle-modelo.pdf) vinculado em [Aspectos éticos](../entrega-2/etica.md); revisão de Heitor Pinheiro |
+| Metas de usabilidade, indicadores, faixas e razão da seleção (itens 13 e 14) | Bruno Ferreira Dornelas | 04/10/2026 | 06/10/2026 | [Metas de usabilidade](../entrega-3/metas-usabilidade.md) (`M0`–`M6`) e rastreabilidade concluídas; revisão de Caio Breno |
+| Guia de estilo do projeto, estrutura e correspondência com o portal (itens 15, 16 e 17) | Heitor Pinheiro Gonçalves das Chagas | 05/10/2026 | 05/10/2026 | [Guia de estilo](../entrega-3/guia-de-estilo.md) concluído; revisão de Caio Breno e Bruno Ferreira |
+| Correção da Etapa 2: novo perfil Professor por análise documental e consolidação dos perfis | Bruno Ferreira Dornelas | 05/10/2026 | 05/10/2026 | [Análise documental do Professor](../entrega-2/individual/bruno/perfil-2/analise-documental.md) e integração em [Perfil do usuário](../entrega-2/perfil-usuario.md); revisão de Caio Breno |
+| Autoverificação da Etapa 2 com o vídeo da inspeção | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | [Lista da Etapa 2](../verificacao/grupo-06/etapa-2/lista-verificacao.md) preenchida com link e horários do vídeo |
 | Página da lista de verificação da Etapa 3 | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Itens extraídos do plano de ensino; revisão de Caio Breno |
 | Navegação e identidade visual do site (ícones, cartões da página inicial e menu por etapa) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Concluída; revisão de Caio Breno |
-| Tópicos dos princípios gerais do projeto (item 12) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Oito tópicos com citação e fotos do livro; revisão de Caio Breno |
+| Tópicos dos princípios gerais do projeto (item 12) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | [Oito tópicos](../entrega-3/topicos-principios.md) com citação e fotos do livro; revisão de Caio Breno |
 | Atualização do cronograma planejado e executado (item 6) | Luís Henrique Luna de Arruda | 05/10/2026 | 05/10/2026 | Divisão dos itens da Etapa 3 e correções da Etapa 2; revisão de Caio Breno |
+| Elaboração dos itens adicionais 18 a 22 da lista de verificação da Etapa 3 | Bruno Ferreira (item 18), Caio Breno (item 19), Heitor Pinheiro (item 20), Israel Soares (item 21) e Luís Henrique (item 22) | 05/10/2026 | 06/10/2026 | Cinco critérios autorais com recortes do livro integrados à [ficha da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md#itens-elaborados-pelo-grupo) |
+| Princípios gerais do projeto (item 11) | Israel Soares de Paiva | 06/10/2026 | 06/10/2026 | [Princípios gerais](../entrega-3/principios-gerais.md) concluídos; revisão de Heitor Pinheiro |
+| Gravação, edição e publicação do vídeo de apresentação da Etapa 3 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique (edição por Bruno Ferreira; página por Heitor Pinheiro) | 06/10/2026 | 06/10/2026 | Vídeo não listado publicado na [Apresentação da Etapa 3](../apresentacoes/etapa-03.md); revisão de Caio Breno |
+| Sessão gravada de autoverificação da Etapa 3 do Grupo 06 e consolidação das respostas | Bruno Ferreira, Caio Breno e Israel Soares (vídeo por Bruno Ferreira; consolidação por Heitor Pinheiro) | 06/10/2026 | 11/10/2026 | Gravação em 06/10 das 20:38 às 20:42 e respostas consolidadas em 11/10 na [ficha da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md); revisão de Caio Breno |
+| Inspeção externa da Etapa 3 do Grupo 07 (+1) e publicação da ficha | Bruno Ferreira, Heitor Pinheiro, Israel Soares e Luís Henrique | 09/10/2026 | 10/10/2026 | Reunião gravada em 09/10 às 21:28 e [ficha do Grupo 07](../verificacao/grupo-07/etapa-3/lista-verificacao.md) publicada em 10/10; revisão de Bruno Ferreira |
+| Detalhamento das seis telas de interface e wireframes do Guia de Estilo | Heitor Pinheiro Gonçalves das Chagas | 11/10/2026 | 11/10/2026 | [Telas de interface](../entrega-3/telas-interface.md) publicadas com capturas reais e mapas de elementos; revisão de Caio Breno |
 | Planejamento da avaliação do storyboard — Oficina Legislativa, perfil Professor | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Planejamento DECIDE](../entrega-4/individual/bruno/planejamento-avaliacao-storyboard.md) elaborado, com roteiro, piloto e agenda proposta |
 | Planejamento do relato da avaliação do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Estrutura do relato](../entrega-4/individual/bruno/planejamento-relato-storyboard.md) e critérios de registro definidos |
 | Planejamento da avaliação da análise de tarefas — Oficina Legislativa, perfil Professor | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Planejamento DECIDE](../entrega-4/individual/bruno/planejamento-avaliacao-analise-tarefas.md) elaborado, com avaliação dos modelos HTA/CTT |
@@ -303,9 +331,17 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Organização dos artefatos individuais e correção da navegação da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Arquivos agrupados na pasta de Bruno Ferreira e vinculados ao menu individual |
 | Elaboração e ajustes do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Storyboard v0.2](../entrega-4/individual/bruno/storyboard.md) com sete quadros, descrição textual, ampliações e correspondência com HTA/CTT |
 | Atualização do cronograma executado com as atividades individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Registro da produção dos artefatos; naquela data, piloto e entrevistas estavam previstos nos planejamentos |
+| Abertura do índice da Etapa 5 e consolidação da lista de verificação V1 da Etapa 5 | Bruno Ferreira Dornelas e Caio Breno de Souza Bezerra | 19/10/2026 | 22/10/2026 | [Índice da Etapa 5](../entrega-5/index.md) e [lista da Etapa 5](../verificacao/listas/etapa-5.md); revisão cruzada entre Bruno e Caio |
+| Teste-piloto (`PP-PROP01`), sessões presenciais com `PROP01`, relatos e planejamentos do protótipo de papel — Ideia legislativa | Caio Breno de Souza Bezerra (com Luís Henrique Arruda Luna no piloto) | 22/10/2026 | 25/10/2026 | Piloto em 22/10 e sessões em 24/10 (13h28–14h06) consolidados no [recorte de Caio](../entrega-5/individual/caio/index.md); revisão de Bruno Ferreira |
+| Sessões gravadas (`SB-PART01` / `AT-PART01`), relatos de storyboard e tarefas e planejamentos do protótipo de papel — Agendamento de visita | Israel Soares de Paiva | 23/10/2026 | 23/10/2026 | [Relatos e planos de Israel](../entrega-5/individual/israel/index.md) publicados em 23/10 (com [relato consolidado](../entrega-5/individual/israel/relato-resultados-etapa5.md) em 02/11); revisão de Bruno Ferreira |
 | Ensaio individual dos blocos de storyboard e análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 23/10/2026 | 23/10/2026 | [Gravação do ensaio](https://www.youtube.com/watch?v=qCNNY5LH0EQ); não houve ajustes decorrentes do ensaio |
 | Entrevistas do storyboard e da análise de tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas e P01 | 24/10/2026 | 24/10/2026 | Realizadas presencialmente no mesmo encontro: storyboard (10min50s), seguido da análise de tarefas (8min09s). Horários de início e fim não registrados |
-| Análise e redação dos relatos de storyboard e tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 25/10/2026 | 25/10/2026 | [Relato do storyboard](../entrega-5/individual/bruno/relato-storyboard.md) e [relato das tarefas](../entrega-5/individual/bruno/relato-analise-tarefas.md) preenchidos com evidências e encaminhamentos |
+| Elaboração dos planejamentos da avaliação e do relato do protótipo de papel — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 24/10/2026 | 25/10/2026 | [Planejamento da avaliação](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md) e [planejamento do relato](../entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md); revisão de Luís Henrique |
+| Análise e redação dos relatos de storyboard e tarefas — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 25/10/2026 | 25/10/2026 | [Relato do storyboard](../entrega-5/individual/bruno/relato-storyboard.md) e [relato das tarefas](../entrega-5/individual/bruno/relato-analise-tarefas.md) preenchidos com evidências e encaminhamentos; revisão de Caio Breno |
+| Modelagem preliminar HTA/CTT, entrevistas (`PART-ST01`), relatos e planejamentos do protótipo de papel — Plenárias | Luís Henrique Arruda Luna | 24/10/2026 | 25/10/2026 | [Materiais, vídeos e planos de Luís](../entrega-5/individual/luis/index.md); revisor designado Caio Breno |
+| Sessão síncrona (`PART-LET01`), relatos de storyboard e tarefas e planejamentos do protótipo de papel — Eventos interativos | Heitor Pinheiro Gonçalves das Chagas | 24/10/2026 | 25/10/2026 | Sessão em 25/10 às 18h50 (07min25s) e planos reunidos no [recorte de Heitor](../entrega-5/individual/heitor/index.md); revisão de Bruno Ferreira |
+| Gravação e publicação das apresentações individuais da Etapa 5 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique | 25/10/2026 | 25/10/2026 | Cinco vídeos individuais não listados na [página de apresentações da Etapa 5](../apresentacoes/etapa-05.md) |
+| Autoverificação da Etapa 5 do Grupo 06 e inspeção externa da Etapa 5 do Grupo 07 (+1) | Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique (revisão de Bruno Ferreira) | 25/10/2026 | 28/10/2026 | [Autoverificação em 25/10](../verificacao/grupo-06/etapa-5/lista-verificacao.md) (20h02) e [inspeção do Grupo 07 em 28/10](../verificacao/grupo-07/etapa-5/lista-verificacao.md) (22h10) |
 | Desenho manual, fotografia das 11 peças e teste-piloto do protótipo de papel (`v1.0`) — Complementos de ideias legislativas | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | Moldura fixa e 10 recortes móveis fotografados; [vídeo do piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) |
 | Sessão de validação do protótipo de papel com `PP-P01` no Google Meet | Bruno Ferreira Dornelas (operador), Luís Henrique, Caio Breno e Israel Soares (observadores) | 03/11/2026 | 03/11/2026 | [Gravação da validação (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) |
 | Elaboração do relato do protótipo de papel e dos planejamentos de alta fidelidade (Etapa 6) | Bruno Ferreira Dornelas | 03/11/2026 | 03/11/2026 | [Relato do papel](../entrega-6/individual/bruno/relato-prototipo-papel.md), [planejamento da avaliação](../entrega-6/individual/bruno/planejamento-avaliacao-alta-fidelidade.md) e [planejamento do relato de alta fidelidade](../entrega-6/individual/bruno/planejamento-relato-alta-fidelidade.md); revisão de Luís Henrique |
@@ -355,6 +391,9 @@ A equipe agradece o apoio do Codex (OpenAI), do Google Gemini e do Antigravity (
 | `2.7` | 15/11/2026 | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `2.8` | 25/11/2026 | Registro das atividades executadas na Etapa 8 e remoção da Tabela 12 duplicada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.9` | 25/11/2026 | Inclusão das atividades executadas pela equipe na Etapa 7 (protótipos, sessões, relatos, apresentações e inspeções) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.10` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 5 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.11` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.12` | 25/11/2026 | Inclui chamadas textuais para as Tabelas 2 a 10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

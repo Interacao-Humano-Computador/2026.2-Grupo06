@@ -42,6 +42,7 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/NQzcNg32G2k](https://youtu.be/NQzcNg32G2k)
 - Data da gravação: 05/09/2026
+- Participantes: Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra, Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva e Luís Henrique Arruda Luna
 
 ??? note "Vídeo — Apresentação da Etapa 1 do Grupo 06"
 
@@ -78,6 +79,7 @@ Este artefato reúne as informações e a gravação da apresentação da Etapa 
 | `1.3` | 05/09/2026 | Recoloca a coluna de gravação na contribuição da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 05/09/2026 | Adição do vídeo da apresentação (link e gravação) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 25/11/2026 | Inclui participantes na seção do vídeo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

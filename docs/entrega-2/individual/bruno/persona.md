@@ -85,7 +85,7 @@ A Tabela 2 organiza os oito elementos de Courage e Baxter (2005 apud BARBOSA; SI
 
 O entrevistador registrou que, em 27/09/2026, o participante aprovou a descrição e os objetivos apresentados, sem solicitar alterações. O link de vídeo anteriormente informado estava incompleto; por isso, não há gravação de validação acessível nesta página. O relato do entrevistador é preservado e não equivale à comprovação audiovisual.
 
-A revisão documental de 05/10/2026 não foi reapresentada ao participante. A aprovação relatada em setembro não deve ser atribuída automaticamente a esta versão. A relação pessoal próxima com o entrevistador é uma limitação da coleta, conforme discutido na página da sessão.
+A revisão documental de 05/10/2026 não foi reapresentada ao participante. A aprovação relatada em setembro não deve ser atribuída automaticamente a esta versão. A relação pessoal próxima com o entrevistador é uma limitação da coleta, conforme discutido na página da sessão. A Tabela 3 resume a situação dos registros de validação.
 
 | Data | Registro | Fonte | Limitação |
 | :---: | --- | --- | --- |
@@ -102,12 +102,18 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 
 ## Histórico de versão
 
+A Tabela 4 registra o histórico de versões deste artefato.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/09/2026 | Estrutura inicial e planejamento da persona | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 27/09/2026 | Consolidação da persona Lucas Mendes e validação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 03/10/2026 | Identificação da ferramenta de IA nos agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.3` | 05/10/2026 | Revisão com dados de P1 e distinção do relato de validação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 25/11/2026 | Inclusão da chamada explícita no texto para a Tabela 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 4 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 
 ## Referências

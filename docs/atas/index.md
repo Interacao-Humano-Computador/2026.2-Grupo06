@@ -26,7 +26,7 @@ A Tabela 2 lista as reuniões registradas até o momento.
 | Ata | Data | Início | Fim | Objetivo | Gravação | Página |
 | :---: | :---: | :---: | :---: | --- | --- | --- |
 | 01 | 04/09/2026 | 20:35 | 21:16 | Alinhar Entrega 1; objeto discutido: Transparência do DF | [Vídeo](ata-01.md#gravacao) | [Ata 01](ata-01.md) |
-| 02 | 09/09/2026 | — | — | Troca formal do objeto para o Portal do Senado Federal | Sem gravação própria | [Ata 02](ata-02.md) |
+| 02 | 09/09/2026 | 13:08 | 21:50 | Troca formal do objeto para o Portal do Senado Federal (deliberação assíncrona / PR #17) | Sem gravação (assíncrona) | [Ata 02](ata-02.md) |
 | 03 | 03/10/2026 | 20:00 | 20:40 | Apresentar e conferir plataforma, princípios, metas de usabilidade e guia de estilo da Etapa 3 | [Vídeos](ata-03.md#gravacao) | [Ata 03](ata-03.md) |
 
 <p class="caption">Tabela 2 — Índice das atas do Grupo 06.</p>
@@ -48,6 +48,7 @@ A Tabela 2 lista as reuniões registradas até o momento.
 | `1.1` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 03/10/2026 | Inclui a Ata 02, sobre a escolha do Senado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 03/10/2026 | Inclui a Ata 03, sobre os artefatos da Etapa 3, e atualiza a orientação de numeração | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.4` | 25/11/2026 | Atualiza horários verificados da Ata 02 no índice | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

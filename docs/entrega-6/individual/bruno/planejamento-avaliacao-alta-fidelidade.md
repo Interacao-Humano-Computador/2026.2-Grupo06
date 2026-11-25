@@ -17,7 +17,7 @@ A Tabela 1 registra as contribuições neste artefato.
 
 ## Introdução
 
-Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.9, de 15/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
+Este documento organiza a avaliação do protótipo de alta fidelidade de **sugestão e acompanhamento de complementos de ideias legislativas**, em continuidade às decisões sobre autoria, comparação de textos, espera e contadores do [relato do protótipo de papel](relato-prototipo-papel.md#problemas-corrigidos-e-pendentes). A versão 1.9, de 15/11/2026, atualiza diretamente o procedimento com base na aplicação realizada em 11/11, e a versão 2.0 explicita as regras planejadas de recrutamento, orçamento zero e teste-piloto formuladas em 09/11. O cronograma planejado permanece preservado; as diferenças entre previsão e execução constam no [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#diferencas-entre-planejamento-e-execucao).
 
 Os resultados são apresentados separadamente no relato da Etapa 7. Este documento define o método, as perguntas e os instrumentos correspondentes à rodada, sem transformar dados não coletados em medições.
 
@@ -25,7 +25,7 @@ Os resultados são apresentados separadamente no relato da Etapa 7. Este documen
 
 **Autor do item:** Bruno Ferreira Dornelas.
 
-O **DECIDE** estrutura o planejamento (BARBOSA; SILVA, 2010, p. 312–313 [1]). Os objetivos e perguntas vêm da seção 9.2 e Tabela 9.1 (p. 290–293). O teste formativo adota Krug: rodada pequena para encontrar e corrigir problemas [4], facilitador, observadores e roteiro [5–7]. Local, equipe, tarefas legislativas, indicadores e agenda são escolhas do projeto. Barbosa e Silva fundamentam a preparação e o piloto; nesta rodada não houve teste-piloto, condição registrada como limitação.
+O **DECIDE** estrutura o planejamento (BARBOSA; SILVA, 2010, p. 312–313 [1]). Os objetivos e perguntas vêm da seção 9.2 e Tabela 9.1 (p. 290–293). O teste formativo adota Krug: rodada pequena para encontrar e corrigir problemas [4], facilitador, observadores e roteiro [5–7]. Local, equipe, tarefas legislativas, indicadores e agenda são escolhas do projeto. Barbosa e Silva fundamentam a preparação e a previsão de teste-piloto anterior à coleta com registro de ajustes e separação dos dados (p. 307–308 [1]); na rodada de 11/11 o piloto acabou não sendo realizado, condição registrada como limitação.
 
 ## D — Determinar os objetivos
 
@@ -77,13 +77,16 @@ Confrontar as decisões do papel com os estados e comportamentos da alta fidelid
 
 A aplicação ocorreu presencialmente em **11/11/2026, por volta das 9h, no contêiner da EJS, UnB Gama**. O participante utilizou o notebook com o protótipo; Moderei as sessões e Caio observou. Todos utilizaram a mesma versão HTML no Microsoft Edge, sem alterações entre sessões. O horário da manhã atendia à disponibilidade dos participantes e da equipe; Caio assumiu a observação por ter disponibilidade. Horários individuais não foram registrados no relato. Esses dados efetivos não substituem as propostas preservadas no cronograma.
 
-### Perfil e quantidade de participantes
+<span id="perfil-e-quantidade-de-participantes"></span>
+
+### Perfil, recrutamento e quantidade de participantes
 
 - **Amostra:** Participante 1, Participante 2 e Participante 3, em sessões individuais, sem subgrupos.
+- **Recrutamento:** convite voluntário presencial e por contatos acadêmicos na FCTE/UnB Gama a adultos interessados em participação pública digital que não participaram da construção do protótipo, registrando familiaridade tecnológica, experiência no tema e eventual exposição anterior; a conveniência amostral permanece registrada como limitação.
 - **Perfil e familiaridade:** estudantes de engenharia, de 20 a 21 anos; muita familiaridade com tecnologia e alguma familiaridade com participação legislativa. Conheciam o site e o envio de uma ideia do Senado, mas não o protótipo. Na minha percepção, a novidade da funcionalidade proposta provocou estranhamento inicial.
-- **Piloto:** não realizado por esquecimento. A ausência limita a verificação prévia do procedimento, da captura e das perguntas.
+- **Piloto previsto (`PP-AF01`):** o plano prevê um ensaio anterior à coleta principal (`09/11/2026`, Tabela 4) com uma quarta pessoa distinta da amostra e não envolvida na construção do protótipo, destinado a validar enunciados, transições, captura e duração, registrando eventuais ajustes antes do congelamento da versão e descartando/separando seus dados dos resultados principais (BARBOSA; SILVA, 2010, p. 307–308 [1]). Na aplicação de `11/11`, o piloto não foi realizado por esquecimento, o que limita a verificação prévia do procedimento, da captura e das perguntas.
 - **Abrangência:** os três percorrem busca, envio, decisão e acompanhamento. O Participante 3 explora também discordância e reenvio.
-- **Preparação e recursos:** dados fictícios, protótipo navegável e gravações de tela e ambiente. A mesma versão HTML foi usada nas três sessões, sem alterações. Commit, data de congelamento e custos efetivos não foram registrados.
+- **Preparação, recursos e custos:** orçamento previsto de **R$ 0,00** (custo zero), com participação voluntária sem ressarcimento financeiro, equipamentos próprios da equipe (notebook, navegador Microsoft Edge e ferramentas gratuitas de gravação de tela e ambiente), dados fictícios e protótipo HTML navegável mantido sem alterações nas três sessões (congelado em `10/11/2026`, commit `a389cd0`, conforme o [relato da Etapa 7](../../../entrega-7/individual/bruno/relato-alta-fidelidade.md#material-avaliado)).
 
 ### Tarefas, dados de teste e critérios de conclusão
 
@@ -108,7 +111,7 @@ O [roteiro presencial](roteiro-teste-presencial.md) é referência da preparaç�
 3. **Entrevista final:** perguntas sobre dificuldades, clareza e avaliação geral do uso. A nota geral não equivale a uma nota para cada tarefa.
 4. **Encerramento:** esclarecimento de dúvidas e agradecimento.
 
-Os vídeos de tela têm 6min40s, 6min10s e 7min38s. Essas durações incluem instruções e entrevista e não comprovam o tempo ativo nem a duração integral de cada encontro. Não houve piloto nem confirmação dos intervalos entre sessões.
+A estimativa planejada é de até **50 minutos por sessão**, com **10 minutos de intervalo** para organização de notas e reinício do estado (Tabela 4). Os vídeos de tela gravados em `11/11` têm `6min40s`, `6min10s` e `7min38s`; essas durações incluem instruções e entrevista e não comprovam o tempo ativo nem a duração integral de cada encontro. Pelo protocolo planejado, o piloto (`PP-AF01`) antecede a rodada com participante distinto, registro dos ajustes aplicados na versão congelada e descarte dos dados do ensaio na amostra principal [1, p. 307–308]; na aplicação realizada, não houve piloto nem confirmação dos intervalos entre sessões.
 
 As respostas de terceiros e o avanço do tempo são simulados. Registrar a orientação técnica separadamente da compreensão da pessoa. No terceiro teste, a discordância foi seguida de revisão e reenvio; não foi confirmado o uso de um cenário independente de publicação. A explicação do moderador sobre o fim do complemento deve ser confrontada com a regra do protótipo.
 
@@ -181,6 +184,7 @@ Utilizei o Antigravity (Google DeepMind) e o Codex (OpenAI) como apoio à organi
 | `1.7` | 15/11/2026 | Ajuste descritivo dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.8` | 15/11/2026 | Reclassificação da execução das tarefas e limitações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.9` | 15/11/2026 | Ajuste na classificação da decisão sobre o ajuste | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `2.0` | 25/11/2026 | Explicitação do meio de recrutamento, do custo previsto zero e da regra planejada de registro de ajustes e separação dos dados do piloto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>
