@@ -80,7 +80,7 @@ A Tabela 3 reúne as alterações das duas linhas de trabalho, com numeração c
 | `1.7` | 15/11/2026 | Integração da estrutura individual de Heitor Pinheiro (audiência pública interativa) na página da etapa | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 15/11/2026 | Atualização do resumo de Heitor Pinheiro após análise dos três vídeos das sessões presenciais | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.9` | 15/11/2026 | Atualização do link de apresentação de Heitor Pinheiro com vídeo publicado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.9` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.10` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
