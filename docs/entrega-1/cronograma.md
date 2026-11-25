@@ -13,8 +13,7 @@ A Tabela 1 registra quem atuou neste artefato. Cada linha é uma atividade.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Atualização das atividades executadas na Etapa 4 — Oficina Legislativa | [Cronograma executado](cronograma.md#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Cronograma executado](#cronograma-executado) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro das listas V1/V2, inspeções e consolidação das sete etapas na Etapa 8 | [Cronograma executado](#cronograma-executado) |
-| Codex (OpenAI) | Apoio à atualização da agenda de Bruno | [Replanejamento](#replanejamento-das-avaliacoes-de-bruno-23102026) |
-| Google Gemini e Antigravity (Google DeepMind) | Organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
+| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à atualização do cronograma executado, organização do texto e formatação Markdown | [Agradecimentos](cronograma.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -322,24 +321,7 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da agenda específica de Bruno. A equipe agradece o apoio do Google Gemini e do Antigravity (Google DeepMind) na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
-
-
-## Replanejamento das avaliações de Bruno — 23/10/2026
-
-A Tabela 12 apresenta a agenda específica de Bruno e sua execução informada. O recorte atual é [Complementos de ideias legislativas, com Letícia](../entrega-4/individual/bruno/storyboard.md). Os registros da Oficina Legislativa descrevem o planejamento anterior; o ensaio e as entrevistas do recorte atual foram realizados em 23 e 24/10/2026, respectivamente.
-
-| Atividade | Data | Execução / continuidade |
-| --- | --- | --- |
-| Ensaio individual dos blocos de storyboard e tarefas | 23/10/2026 | Realizado e gravado por Bruno; não houve ajustes |
-| Entrevistas de storyboard e análise de tarefas, no mesmo encontro | 24/10/2026 | Realizadas presencialmente com P01: storyboard (10min50s), seguido de tarefas (8min09s); autorização das duas gravações formalizada em 25/10 |
-| Análise e redação dos relatos | 25/10/2026 | Resultados e respostas ao DECIDE consolidados nos dois relatos da Etapa 5; Bruno é o autor e Caio o revisor |
-| Preparação do papel (`v1.0`), teste-piloto e validação com `PP-P01` | 03/11/2026 | Fotografias das 11 peças, [piloto (03min38s)](https://www.youtube.com/watch?v=2hNhL3mdKMs) e [sessão no Meet (06min30s)](https://www.youtube.com/watch?v=NXZXAFz9dvE) consolidados no [relato da Etapa 6](../entrega-6/individual/bruno/relato-prototipo-papel.md), junto aos planejamentos da alta fidelidade |
-
-<p class="caption">Tabela 12 — Agenda e execução das avaliações de Bruno.</p>
-<p class="source">Fonte: planejamentos e registros de execução de Bruno Ferreira Dornelas (2026).</p>
-
-A preparação e a avaliação futura do protótipo de papel seguem a [agenda proposta](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md#cronograma-e-registro-de-agendamento-previsto), com execução prevista para a Etapa 6. Essas atividades ainda não compõem o cronograma executado.
+A equipe agradece o apoio do Codex (OpenAI), do Google Gemini e do Antigravity (Google DeepMind) na atualização dos registros executados, na organização do texto e na formatação Markdown desta página. O cronograma, as datas e a atribuição de responsáveis são dos integrantes.
 
 ## Histórico de versão
 
@@ -360,7 +342,7 @@ A preparação e a avaliação futura do protótipo de papel seguem a [agenda pr
 | `2.5` | 23/10/2026 | Registra replanejamento das avaliações de Bruno para 23 e 24/10, preservando agenda histórica | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.6` | 03/11/2026 | Registra no cronograma executado a preparação, o piloto, a validação do protótipo de papel e os artefatos da Etapa 6 de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `2.7` | 15/11/2026 | Registro das sessões e da consolidação do relato de complementos na Etapa 7 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `2.8` | 25/11/2026 | Registro das atividades executadas na Etapa 8 e consolidação das sete etapas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.8` | 25/11/2026 | Registro das atividades executadas na Etapa 8 e remoção da Tabela 12 duplicada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
