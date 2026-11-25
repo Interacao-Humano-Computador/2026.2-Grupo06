@@ -8,17 +8,32 @@
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão das fichas de autoinspeção V2 das Etapas 1 e 2 | [Etapa 1](#etapa-1) · [Etapa 2](#etapa-2) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Inclusão da ficha de autoinspeção V2 da Etapa 3 | [Etapa 3](#etapa-3) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro da ficha de autoinspeção da Etapa 4 e consolidação da navegação e referências | [Introdução](#introducao) · [Etapa 4](#etapa-4) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro da ficha da Etapa 4, inventário consolidado de artefatos e versões de 22/11/2026 nas sete etapas e navegação | [Introdução](#introducao) · [Etapa 4](#etapa-4) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão da ficha de autoinspeção V2 da Etapa 5 | [Etapa 5](#etapa-5) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso à autoinspeção das Etapas 6 e 7 do Portal do Senado | [Etapa 6](#etapa-6) · [Etapa 7](#etapa-7) |
-| Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
+| Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links e inventários de versão | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne as **sete fichas de autoinspeção V2** elaboradas pelo Grupo 06 (*Portal do Senado Federal*) na [Etapa 8](../index.md), cobrindo integralmente os artefatos das Etapas 1 a 7 segundo o método de inspeção formal adaptado de Fagan (1976) e as exigências do Plano de Ensino (Sales, 2026). Cada seção abaixo aponta para a ficha V2 correspondente e para o registro histórico da autoverificação V1; os gráficos consolidados e as sete gravações de autoinspeção encontram-se na [síntese dos resultados V2](../inspecao.md#video-e-roteiro).
+Esta página reúne as **sete fichas de autoinspeção V2** elaboradas e gravadas pelo Grupo 06 (*Portal do Senado Federal*) em **22/11/2026** na [Etapa 8](../index.md), cobrindo integralmente os artefatos das Etapas 1 a 7 segundo o método de inspeção formal adaptado de Fagan (1976) e as exigências do Plano de Ensino (Sales, 2026).
+
+A Tabela 2 sintetiza o escopo documental, a faixa de versões inspecionada em **22/11/2026** e o acesso direto a cada ficha (que incorpora o inventário detalhado de versões e o reprodutor recolhível da respectiva gravação); os gráficos consolidados encontram-se na [síntese dos resultados V2](../inspecao.md).
+
+| Etapa | Artefatos reinspecionados (22/11/2026) | Faixa de versões | Ficha V2 e inventário |
+| :---: | --- | :---: | --- |
+| 1 | 7 artefatos principais + Acessibilidade, Atas 01–02, Apresentação e Ficha V1 | `v1.0` a `v2.7` | [Ficha](etapa-1.md) · [Versões](etapa-1.md#artefatos-consultados) |
+| 2 | 6 artefatos coletivos + 30 páginas individuais + transversais | `v0.2` a `v2.7` | [Ficha](etapa-2.md) · [Versões](etapa-2.md#artefatos-consultados) |
+| 3 | 7 artefatos da etapa (Plataforma, Princípios, Metas, Guia, Telas) + transversais | `v0.6` a `v2.7` | [Ficha](etapa-3.md) · [Versões](etapa-3.md#artefatos-consultados) |
+| 4 | 5 storyboards + análises de tarefas + 16 planejamentos (DECIDE e relato) + transversais | `v0.2` a `v2.7` | [Ficha](etapa-4.md) · [Versões](etapa-4.md#artefatos-consultados) |
+| 5 | 10 relatos (storyboard e tarefas) + 10 planos do papel + complementares e transversais | `v0.2` a `v2.7` | [Ficha](etapa-5.md) · [Versões](etapa-5.md#artefatos-consultados) |
+| 6 | 5 relatos do protótipo de papel + 10 planos da alta fidelidade + transversais | `v0.1` a `v2.7` | [Ficha](etapa-6.md) · [Versões](etapa-6.md#artefatos-consultados) |
+| 7 | 5 relatos da alta fidelidade + 5 páginas de vídeos/evidências + protótipos e transversais | `v0.3` a `v2.7` | [Ficha](etapa-7.md) · [Versões](etapa-7.md#artefatos-consultados) |
+
+<p class="caption">Tabela 2 — Síntese dos artefatos e versões do Grupo 06 reinspecionados em 22/11/2026.</p>
+<p class="source">Fonte: fichas de autoinspeção V2 das Etapas 1 a 7 (2026).</p>
 
 ## Etapa 1
 
@@ -58,7 +73,7 @@ Esta página reúne as **sete fichas de autoinspeção V2** elaboradas pelo Grup
 
 ## Etapa 7
 
-[Consultar a inspeção da Etapa 7](etapa-7.md) · Relato dos resultados da avaliação de alta fidelidade.
+[Consultar a inspeção da Etapa 7](etapa-7.md) · Relato dos resultados da avaliação de alta fidelidade e evidências.
 
 [Ficha V1 da Etapa 7](../../verificacao/grupo-06/etapa-7/lista-verificacao.md) · Registro da primeira inspeção.
 
@@ -71,6 +86,7 @@ Esta página reúne as **sete fichas de autoinspeção V2** elaboradas pelo Grup
 | `1.2` | 22/11/2026 | Inclui o acesso às fichas das Etapas 3 e 5 após integração com `main`. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) e [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 22/11/2026 | Inclui acesso à ficha de autoinspeção V2 da Etapa 4. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 25/11/2026 | Inclui introdução, vínculos às fichas V1 das Etapas 6 e 7 e referências. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 25/11/2026 | Inclui síntese de artefatos e versões reinspecionados. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -187,7 +187,9 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Sales (2026), p. 3 do PDF. O grifo indica o trecho usado no critério.</p>
 
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Técnicas de coleta
 
 <div class="etapa8-item" id="e2-01"></div>
 
@@ -206,6 +208,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     ![Barbosa e Silva (2010), p. 145. Entrevista e entrevista semiestruturada.](../assets/img/referencias/luis-entrevista-p145.png){ loading=lazy }
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 145.</p>
+
+## Perfil do usuário
 
 <div class="etapa8-item" id="e2-02"></div>
 
@@ -238,6 +242,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     ![Barbosa e Silva (2010), p. 175. Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).](../assets/img/referencias/barbosa-grupos-atributos.png){ loading=lazy }
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 175.</p>
+
+## Aspectos éticos
 
 <div class="etapa8-item" id="e2-04"></div>
 
@@ -281,6 +287,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 141. O grifo indica o trecho usado no critério.</p>
 
+## Relatos das sessões de coleta
+
 <div class="etapa8-item" id="e2-07"></div>
 
 ??? question "E2-07 · Os relatos individuais das sessões de coleta documentam participante desidentificado, roteiro, respostas da entrevista e percurso observado?"
@@ -294,6 +302,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     ![Barbosa e Silva (2010), p. 166. Objetivos e princípios da investigação contextual e observação.](../assets/img/referencias/luis-investigacao-contextual-p166.png){ loading=lazy }
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 166.</p>
+
+## Elenco de personas
 
 <div class="etapa8-item" id="e2-08"></div>
 
@@ -323,6 +333,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 177.</p>
 
+## Cenários
+
 <div class="etapa8-item" id="e2-10"></div>
 
 ??? question "E2-10 · Os cenários estão fundamentados na literatura e contemplam os sete elementos de Rosson e Carroll (2002)?"
@@ -350,6 +362,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     ![Barbosa et al. (2021), p. 183. Estrutura básica do cenário: título, atores e situação inicial.](../assets/img/referencias/item13_etapa2.png){ loading=lazy }
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 183.</p>
+
+## Análise de tarefas
 
 <div class="etapa8-item" id="e2-12"></div>
 
