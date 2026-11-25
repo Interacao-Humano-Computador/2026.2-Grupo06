@@ -7,26 +7,33 @@
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do acesso às fichas V1 e V2 da Etapa 2 do Grupo 05 (−1) | [Etapa 2](#etapa-2) · [Ficha V1](../../verificacao/grupo-05/etapa-2/lista-verificacao.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização do acesso às fichas V1 e V2 da Etapa 4, vinculação do vídeo de inspeção e consolidação de introdução e referências | [Introdução](#introducao) · [Gravação](#gravacao-da-inspecao) · [Etapa 4](#etapa-4) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização do acesso às fichas V1 e V2 da Etapa 4, vinculação do vídeo de inspeção, síntese de versões de 23/11/2026 e referências | [Introdução](#introducao) · [Gravação](#gravacao-da-inspecao) · [Etapa 4](#etapa-4) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso às fichas V1 e V2 dos relatos de papel e dos planejamentos da Etapa 6 do SEMOB-DF | [Etapa 6](#etapa-6) · [Ficha V1](../../verificacao/grupo-05/etapa-6/lista-verificacao.md) |
-| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
+| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links e inventários de versão | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne as **três fichas de inspeção externa V2** aplicadas pelo Grupo 06 aos artefatos das etapas pares (**Etapas 2, 4 e 6**) do **Grupo 05 (−1 · SEMOB-DF)** na [Etapa 8](../index.md), obedecendo à regra de paridade do Plano de Ensino (Sales, 2026) e ao processo de inspeção formal adaptado de Fagan (1976). Os percentuais e gráficos comparativos estão consolidados na [síntese dos resultados V2](../inspecao.md).
+Esta página reúne as **três fichas de inspeção externa V2** aplicadas e gravadas pelo Grupo 06 em **23/11/2026** sobre os artefatos das etapas pares (**Etapas 2, 4 e 6**) do **Grupo 05 (−1 · SEMOB-DF)** na [Etapa 8](../index.md), obedecendo à regra de paridade do Plano de Ensino (Sales, 2026) e ao processo de inspeção formal adaptado de Fagan (1976). Os percentuais e gráficos comparativos estão consolidados na [síntese dos resultados V2](../inspecao.md).
+
+A Tabela 2 sintetiza o escopo documental, a faixa de versões inspecionada em **23/11/2026** e o acesso direto a cada ficha e ao seu inventário detalhado.
+
+| Etapa | Artefatos reinspecionados (23/11/2026) | Faixa de versões | Ficha V2 e inventário |
+| :---: | --- | :---: | --- |
+| 2 | 39 documentos em `analise-de-requisitos/` (ética, coletas, 3 perfis, 8 personas, 11 cenários e 8 tarefas) + transversais | `v1.0` a `v2.2` | [Ficha](etapa-2.md) · [Versões](etapa-2.md#artefatos-consultados) |
+| 4 | `storyboards.md` (`SB01–SB08`), 3 artefatos transversais do Nível 1, 7 planos de avaliação e 5 planos de relato + transversais | `v1.0` a `v2.4` | [Ficha](etapa-4.md) · [Versões](etapa-4.md#artefatos-consultados) |
+| 6 | 7 relatos do protótipo de papel + 7 planos de avaliação da AF + 7 planos de relato da AF + transversais | `v1.0` a `v1.4` | [Ficha](etapa-6.md) · [Versões](etapa-6.md#artefatos-consultados) |
+
+<p class="caption">Tabela 2 — Síntese dos artefatos e versões do Grupo 05 (−1) reinspecionados em 23/11/2026.</p>
+<p class="source">Fonte: fichas de inspeção externa V2 das Etapas 2, 4 e 6 (2026).</p>
 
 ## Gravação da inspeção
 
-A gravação da sessão de inspeção dos artefatos do Grupo 05 (−1, SEMOB-DF — Etapas 2, 4 e 6) foi realizada pelos integrantes do Grupo 06 e disponibilizada no YouTube na categoria **não listado**:
+A sessão de inspeção dos artefatos do Grupo 05 (−1, SEMOB-DF — Etapas 2, 4 e 6) foi gravada em **23/11/2026** (duração: **28 min 37 s**) e publicada no YouTube na categoria **não listado**.
 
-- **Categoria no YouTube:** não listado
-- **Link:** [https://youtu.be/CuolulKrRGE](https://youtu.be/CuolulKrRGE)
-- **Data da gravação:** 23/11/2026 · **Duração:** 28 min 37 s
-
-??? note "Vídeo — Inspeção dos artefatos do Grupo 05"
+??? note "Vídeo — Inspeção dos artefatos do Grupo 05: Etapas 2, 4 e 6 (28 min 37 s)"
 
     <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
       <iframe
@@ -39,6 +46,8 @@ A gravação da sessão de inspeção dos artefatos do Grupo 05 (−1, SEMOB-DF 
         allowfullscreen>
       </iframe>
     </div>
+
+    Link direto no YouTube (não listado): [https://youtu.be/CuolulKrRGE](https://youtu.be/CuolulKrRGE)
 
 ## Etapa 2
 
@@ -67,6 +76,7 @@ A gravação da sessão de inspeção dos artefatos do Grupo 05 (−1, SEMOB-DF 
 | `1.2` | 22/11/2026 | Inclui acesso às fichas V1 e V2 da Etapa 4 do Grupo 05. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 23/11/2026 | Inclui a gravação da sessão de inspeção do Grupo 05 no YouTube. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 25/11/2026 | Inclui introdução e referências bibliográficas. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 25/11/2026 | Inclui síntese de artefatos e versões reinspecionados. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

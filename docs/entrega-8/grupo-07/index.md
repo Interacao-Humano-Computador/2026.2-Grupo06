@@ -9,26 +9,34 @@
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso à ficha dos relatos de alta fidelidade do PCI Concursos | [Etapa 7](#etapa-7) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Vinculação do vídeo da sessão de inspeção dos artefatos do Grupo 07 (+1) | [Gravação](#gravacao-da-inspecao) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do acesso às fichas V1 e V2 da Etapa 1 do Grupo 07 (+1) | [Etapa 1](#etapa-1) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do acesso às fichas V1 e V2 da Etapa 3 do Grupo 07 (+1), introdução e referências | [Introdução](#introducao) · [Etapa 3](#etapa-3) · [Ficha V1](../../verificacao/grupo-07/etapa-3/lista-verificacao.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do acesso às fichas V1 e V2 da Etapa 3 do Grupo 07 (+1), síntese de versões de 23/11/2026, introdução e referências | [Introdução](#introducao) · [Etapa 3](#etapa-3) · [Ficha V1](../../verificacao/grupo-07/etapa-3/lista-verificacao.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do acesso às fichas V1 e V2 da Etapa 5 do Grupo 07 (+1) | [Etapa 5](#etapa-5) |
-| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
+| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links e inventários de versão | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Introdução
 
-Esta página reúne as **quatro fichas de inspeção externa V2** aplicadas pelo Grupo 06 aos artefatos das etapas ímpares (**Etapas 1, 3, 5 e 7**) do **Grupo 07 (+1 · PCI Concursos)** na [Etapa 8](../index.md), obedecendo à regra de paridade do Plano de Ensino (Sales, 2026) e ao processo de inspeção formal adaptado de Fagan (1976). Os percentuais e gráficos comparativos estão consolidados na [síntese dos resultados V2](../inspecao.md).
+Esta página reúne as **quatro fichas de inspeção externa V2** aplicadas e gravadas pelo Grupo 06 em **23/11/2026** sobre os artefatos das etapas ímpares (**Etapas 1, 3, 5 e 7**) do **Grupo 07 (+1 · PCI Concursos)** na [Etapa 8](../index.md), obedecendo à regra de paridade do Plano de Ensino (Sales, 2026) e ao processo de inspeção formal adaptado de Fagan (1976). Os percentuais e gráficos comparativos estão consolidados na [síntese dos resultados V2](../inspecao.md).
+
+A Tabela 2 sintetiza o escopo documental, a faixa de versões inspecionada em **23/11/2026** e o acesso direto a cada ficha e ao seu inventário detalhado.
+
+| Etapa | Artefatos reinspecionados (23/11/2026) | Faixa de versões | Ficha V2 e inventário |
+| :---: | --- | :---: | --- |
+| 1 | 8 artefatos de planejamento + Ata de Reunião, Apresentação 1, Verificação G08 e `mkdocs.yml` | `v1.1` a `v2.1` | [Ficha](etapa-1.md) · [Versões](etapa-1.md#artefatos-consultados) |
+| 3 | 4 artefatos principais (Plataforma, Princípios, Metas e Guia de Estilo) + Cronograma, Ata, Apresentação 3 e Verificações | `v1.0` a `v2.1` | [Ficha](etapa-3.md) · [Versões](etapa-3.md#artefatos-consultados) |
+| 5 | 4 relatos individuais do nível 1 + 2 planos coletivos do papel + Teste-piloto, Apresentações 5 e transversais | `v1.0` a `v2.1` | [Ficha](etapa-5.md) · [Versões](etapa-5.md#artefatos-consultados) |
+| 7 | 4 relatos individuais da alta fidelidade + 2 planos coletivos da AF + Apresentações 7 e transversais | `v1.0` a `v2.1` | [Ficha](etapa-7.md) · [Versões](etapa-7.md#artefatos-consultados) |
+
+<p class="caption">Tabela 2 — Síntese dos artefatos e versões do Grupo 07 (+1) reinspecionados em 23/11/2026.</p>
+<p class="source">Fonte: fichas de inspeção externa V2 das Etapas 1, 3, 5 e 7 (2026).</p>
 
 ## Gravação da inspeção
 
-A gravação da sessão de inspeção dos artefatos do Grupo 07 (+1, PCI Concursos — Etapas 1, 3, 5 e 7) foi realizada pelos integrantes do Grupo 06 e disponibilizada no YouTube na categoria **não listado**:
+A sessão de inspeção dos artefatos do Grupo 07 (+1, PCI Concursos — Etapas 1, 3, 5 e 7) foi gravada em **23/11/2026** e publicada no YouTube na categoria **não listado**.
 
-- **Categoria no YouTube:** não listado
-- **Link:** [https://youtu.be/dd04ibyhJ_o](https://youtu.be/dd04ibyhJ_o)
-- **Data da gravação:** 23/11/2026
-
-??? note "Vídeo — Inspeção dos artefatos do Grupo 07"
+??? note "Vídeo — Inspeção dos artefatos do Grupo 07: Etapas 1, 3, 5 e 7"
 
     <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1.5rem 0; height: 0; overflow: hidden; border-radius: 0.8rem; box-shadow: 0 8px 24px rgba(10, 35, 66, 0.12);">
       <iframe
@@ -41,6 +49,8 @@ A gravação da sessão de inspeção dos artefatos do Grupo 07 (+1, PCI Concurs
         allowfullscreen>
       </iframe>
     </div>
+
+    Link direto no YouTube (não listado): [https://youtu.be/dd04ibyhJ_o](https://youtu.be/dd04ibyhJ_o)
 
 ## Etapa 1
 
@@ -76,6 +86,7 @@ A gravação da sessão de inspeção dos artefatos do Grupo 07 (+1, PCI Concurs
 | `1.3` | 23/11/2026 | Inclui a gravação da sessão de inspeção do Grupo 07 no YouTube. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 23/11/2026 | Inclui acesso às fichas V1 e V2 da Etapa 3 do Grupo 07. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 25/11/2026 | Inclui introdução e referências bibliográficas. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 25/11/2026 | Inclui síntese de artefatos e versões reinspecionados. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
