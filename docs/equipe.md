@@ -24,6 +24,8 @@ Esta página apresenta os cinco integrantes do Grupo 06 e a divisão de papéis 
 
 ## Integrantes
 
+A Figura 1 apresenta os cinco integrantes do Grupo 06.
+
 <div class="team" markdown>
 
 <div class="member" markdown>
@@ -62,6 +64,8 @@ Esta página apresenta os cinco integrantes do Grupo 06 e a divisão de papéis 
 <p class="source">Fonte: fotos dos próprios integrantes (2026).</p>
 
 ## Papéis da Entrega 1
+
+A Tabela 2 sintetiza a divisão de responsabilidades na Entrega 1.
 
 | Integrante | Papel | Artefatos |
 | --- | --- | --- |
@@ -110,6 +114,7 @@ A Tabela 3 concentra a contribuição da Entrega 1. Cada linha é uma atividade,
 | `1.2` | 05/09/2026 | Inclui a contribuição da etapa e a estruturação do GitHub Pages | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato, com gravação | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 03/10/2026 | Inclui a introdução e troca Referências por Bibliografia, porque o plano não é citado no texto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 25/11/2026 | Inclui chamadas textuais para a Figura 1 e a Tabela 2 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Bibliografia
 

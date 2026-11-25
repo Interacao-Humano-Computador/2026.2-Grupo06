@@ -30,6 +30,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 06/09 | Inspeção: 07/09 | Apresentação: 08/09**
 
+A Tabela 2 apresenta as atividades planejadas para a Etapa 1.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Documentação da equipe | 03/09 | 05/09 | Caio Breno | 05/09 - 06/09 | Luis Henrique |
@@ -57,6 +59,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 27/09 | Inspeção: 28/09 | Apresentação: 29/09**
 
+A Tabela 3 apresenta as atividades planejadas para a Etapa 2.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 1 | 09/09 | 12/09 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 12/09 - 13/09 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -83,6 +87,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Etapa 3 - Análise de Requisitos
 
 **Entrega: 06/10 | Inspeção: 07/10 | Apresentação: 08/10**
+
+A Tabela 4 apresenta as atividades planejadas para a Etapa 3.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -116,6 +122,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 13/10 | Inspeção: 14/10 | Apresentação: 15/10**
 
+A Tabela 5 apresenta as atividades planejadas para a Etapa 4.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 3 | 09/10 | 10/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 10/10 - 11/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -142,6 +150,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 25/10 | Inspeção: 26/10 | Apresentação: 27/10**
 
+A Tabela 6 apresenta as atividades planejadas para a Etapa 5.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções da Etapa 4 | 16/10 | 18/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | 18/10 - 19/10 | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique |
@@ -165,6 +175,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Etapa 6 - Protótipo de Papel e Planejamento da Alta Fidelidade
 
 **Entrega: 03/11 | Inspeção: 04/11 | Apresentação: 05/11**
+
+A Tabela 7 apresenta as atividades planejadas para a Etapa 6.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -190,6 +202,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 15/11 | Inspeção: 16/11 | Apresentação: 17/11**
 
+A Tabela 8 apresenta as atividades planejadas para a Etapa 7.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Correções e ajustes do protótipo | 06/11 | 08/11 | Heitor Pinheiro | 08/11 - 09/11 | Bruno Ferreira |
@@ -213,6 +227,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 
 **Entrega: 22/11 | Inspeção: 23/11 | Apresentação: 24/11**
 
+A Tabela 9 apresenta as atividades planejadas para a Etapa 8.
+
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
 | Planejamento da verificação | 18/11 | 19/11 | Israel Soares | 19/11 - 20/11 | Heitor Pinheiro |
@@ -235,6 +251,8 @@ Este documento organiza as atividades do projeto em etapas (Tabelas 2 a 10), ind
 ## Projeto Final
 
 **Entrega: 30/11 | Avaliações do projeto final: 01/12, 03/12 e 08/12**
+
+A Tabela 10 apresenta as atividades planejadas para o Projeto Final.
 
 | Atividade | Início | Fim | Autor | Revisão | Revisor |
 | --- | --- | --- | --- | --- | --- |
@@ -375,6 +393,7 @@ A equipe agradece o apoio do Codex (OpenAI), do Google Gemini e do Antigravity (
 | `2.9` | 25/11/2026 | Inclusão das atividades executadas pela equipe na Etapa 7 (protótipos, sessões, relatos, apresentações e inspeções) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.10` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 5 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.11` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.12` | 25/11/2026 | Inclui chamadas textuais para as Tabelas 2 a 10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

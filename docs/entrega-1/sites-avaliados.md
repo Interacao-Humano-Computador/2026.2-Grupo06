@@ -51,7 +51,7 @@ A Tabela 2 concentra o acesso aos oito PDFs. Luis Henrique Arruda Luna não prod
 
 ## Método das inspeções individuais
 
-Cada integrante planejou a avaliação com o framework DECIDE e inspecionou a interface com avaliação heurística, nas dez heurísticas de Nielsen (NIELSEN, 1994; BARBOSA; SILVA, 2010, cap. 12). A gravidade dos problemas usou a escala de 0 a 4 (cosmético a catastrófico), segundo frequência, impacto e persistência.
+Na taxonomia da literatura de IHC, os métodos de avaliação dividem-se em três categorias: **(1) métodos de investigação**, **(2) métodos de observação de uso** e **(3) métodos de inspeção** (BARBOSA; SILVA, 2010, p. 293; BARBOSA et al., 2021, cap. 11, seção 11.6, p. 272). Nos quatro portais candidatos desta triagem inicial, a equipe planejou a avaliação com o framework DECIDE e adotou exclusivamente **métodos de inspeção** (sem participação direta de usuários nesta fase): **Avaliação Heurística** nas dez heurísticas de Nielsen (NIELSEN, 1994; BARBOSA; SILVA, 2010, cap. 12) para o Portal do Senado Federal, a Prefeitura de Unaí e o LexML Brasil, e **Inspeção de conformidade de acessibilidade (e-MAG/WCAG)** com apoio de ASES e WAVE para o Portal da Transparência do DF. Nas avaliações heurísticas, a gravidade dos problemas usou a escala de 0 a 4 (cosmético a catastrófico), segundo frequência, impacto e persistência.
 
 **Autor do item:** Caio Breno de Souza Bezerra
 
@@ -59,7 +59,7 @@ Barbosa e Silva (2010, p. 284) organizam a gravidade a partir de três fatores �
 
 ## Portal do Senado Federal
 
-Israel Soares planejou e executou a avaliação do [Portal do Senado Federal](https://www12.senado.leg.br/), com o framework DECIDE no planejamento e avaliação heurística na inspeção. O escopo foi a página inicial e os menus principais de navegação (Institucional, Senadores, Atividade Legislativa, Comunicação, Publicações, Transparência e Prestação de Contas e e-Cidadania), com foco na arquitetura de informação e na localização de serviços — acompanhar um projeto de lei, participar de uma consulta pública, chegar aos dados de um senador.
+Israel Soares planejou e executou a avaliação do [Portal do Senado Federal](https://www12.senado.leg.br/), com o framework DECIDE no planejamento e **Avaliação Heurística** (categoria: **método de inspeção**). O escopo foi a página inicial e os menus principais de navegação (Institucional, Senadores, Atividade Legislativa, Comunicação, Publicações, Transparência e Prestação de Contas e e-Cidadania), com foco na arquitetura de informação e na localização de serviços — acompanhar um projeto de lei, participar de uma consulta pública, chegar aos dados de um senador.
 
 Problemas registrados nas fichas de violação, com severidade na escala de Nielsen:
 
@@ -73,7 +73,7 @@ A **Figura 2** mostra a densidade de seções e atalhos da página inicial e a *
 
 ## Portal da Transparência do Distrito Federal
 
-Heitor Pinheiro inspecionou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/). O objetivo foi verificar a conformidade com o e-MAG e com o WCAG, com apoio dos validadores ASES e WAVE e inspeção manual no navegador.
+Heitor Pinheiro avaliou o [Portal da Transparência do Distrito Federal](https://www.transparencia.df.gov.br/) por **Inspeção de conformidade de acessibilidade e-MAG/WCAG** (categoria: **método de inspeção**, combinando checagem nos validadores ASES e WAVE e inspeção manual no navegador).
 
 Problemas principais:
 
@@ -89,7 +89,7 @@ A **Figura 4** mostra a página inicial no momento da inspeção, com o painel d
 
 ## Portal da Prefeitura Municipal de Unaí
 
-Bruno Ferreira inspecionou o [portal da Prefeitura de Unaí](https://www.prefeituraunai.mg.gov.br/pmu2/). O planejamento e o relatório usaram DECIDE e avaliação heurística, com quatro tarefas (homepage, busca, transparência e serviços).
+Bruno Ferreira avaliou o [portal da Prefeitura de Unaí](https://www.prefeituraunai.mg.gov.br/pmu2/) com planejamento DECIDE e **Avaliação Heurística** (categoria: **método de inspeção**), cobrindo quatro tarefas (homepage, busca, transparência e serviços).
 
 Problemas principais:
 
@@ -105,7 +105,7 @@ A **Figura 6** apresenta a homepage depois do fechamento do painel automático (
 
 ## LexML Brasil
 
-Caio Breno inspecionou o [LexML](https://www.lexml.gov.br/), rede de informação legislativa e jurídica. O planejamento DECIDE e o relatório heurístico cobriram busca simples, pesquisa avançada e abertura do texto vigente, em 29 de agosto de 2026.
+Caio Breno avaliou o [LexML](https://www.lexml.gov.br/), rede de informação legislativa e jurídica, com planejamento DECIDE e **Avaliação Heurística** (categoria: **método de inspeção**), cobrindo busca simples, pesquisa avançada e abertura do texto vigente, em 29 de agosto de 2026.
 
 Problemas principais:
 
@@ -132,6 +132,7 @@ A Tabela 3 confronta os quatro candidatos pelos critérios que o grupo considero
 | Natureza dos problemas | Arquitetura de informação, consistência e terminologia | Conformidade de acessibilidade | Interrupções de interface | Linguagem de busca |
 | Tipo de interação | Consulta, acompanhamento e participação | Consulta a painéis e tabelas | Consulta e serviços | Busca documental |
 | Margem para reprojeto nas 8 etapas | Alta | Média | Média | Média |
+| Método e categoria taxonômica | Avaliação Heurística (**inspeção**) | Conformidade e-MAG/WCAG (**inspeção**) | Avaliação Heurística (**inspeção**) | Avaliação Heurística (**inspeção**) |
 | Inspeção individual concluída | Planejamento e avaliação | Planejamento e relatório | Planejamento e relatório | Planejamento e relatório |
 
 <p class="caption">Tabela 3 — Comparação dos candidatos por critério.</p>
@@ -160,12 +161,13 @@ A equipe agradece o apoio do Claude (Anthropic) na organização do texto e na f
 | `1.1` | 05/09/2026 | Remove pontuação numérica e a tabela de contribuição da página | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `1.2` | 05/09/2026 | Recoloca a tabela de contribuição no início do artefato | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 | `2.0` | 09/09/2026 | Portal do Senado Federal como objeto do projeto; comparação por critério na Tabela 3; capturas movidas para o Apêndice A | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `2.1` | 25/11/2026 | Explicita enquadramento taxonômico dos métodos nos quatro portais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
 [1] ASESWEB. ASES — Avaliador e Simulador de Acessibilidade em Sítios. Disponível em: https://asesweb.governoeletronico.gov.br/. Acesso em: 5 set. 2026.
 
-[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. cap. 11–12.
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010. cap. 11–12, p. 284, 293.
 
 [3] BEZERRA, Caio Breno de Souza. Relatório de avaliação de IHC: LexML Brasil. Brasília: FCTE/UnB, 2026. Disponível em: [PDF padronizado](../assets/docs/sites/04_Caio_Bezerra_Relatorio_Avaliacao_LexML.pdf).
 
@@ -196,6 +198,8 @@ A equipe agradece o apoio do Claude (Anthropic) na organização do texto e na f
 [16] SALES, André Barros de. Plano de Ensino FIHC 022026 — Turma 01. Brasília: FCTE/UnB, 2026.
 
 [17] SENADO FEDERAL. Portal do Senado Federal. Disponível em: https://www12.senado.leg.br/. Acesso em: 9 set. 2026.
+
+[18] BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Autopublicação, 2021. Cap. 11, seção 11.6, p. 272.
 
 ## Apêndice A — Capturas das inspeções
 
