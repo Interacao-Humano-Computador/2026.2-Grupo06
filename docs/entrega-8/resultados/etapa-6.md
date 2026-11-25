@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 6](../lista-etapa-6.md) · [Visão geral](../inspecao.md) · [Gravação · Grupo 06](../inspecao.md#video-etapa-6) · [Gravação · Grupo 05](../inspecao.md#video-grupo-05)
+[Lista V2 da Etapa 6](../lista-etapa-6.md) · [Visão geral](../inspecao.md) · [Conferência V1](../conferencia-anterior.md#grupo-06-etapa-6) · [Gravação · Grupo 06](../inspecao.md#video-etapa-6) · [Gravação · Grupo 05](../inspecao.md#video-grupo-05)
 
 As fichas dos Grupos 06 (autoinspeção) e 05 (−1) registram **54 respostas de inspeção**, com 27 critérios por grupo. A lista cobre o relato do protótipo de papel e os planejamentos de alta fidelidade. Cada resposta inclui a classificação, a evidência e a versão consultada.
 
@@ -68,6 +68,7 @@ Cada segmento conta as respostas com pendência no bloco, somadas as duas fichas
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Consolidação da autoinspeção e da inspeção do Grupo 05 na Etapa 6. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 6. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 25/11/2026 | Vincula a conferência das fichas V1 da Etapa 6. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

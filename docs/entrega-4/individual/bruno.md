@@ -12,7 +12,7 @@ Itens a incluir: persona e funcionalidade escolhidas; storyboard relacionado à 
 
 | Versão | Data | Alteração | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Reserva de espaço; sem atribuição de autoria de conteúdo ao integrante | Caio Breno de Souza Bezerra, com apoio de Codex/OpenAI | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.0` | 13/10/2026 | Abertura da página individual | Caio Breno de Souza Bezerra, com apoio de Codex/OpenAI | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referência
 

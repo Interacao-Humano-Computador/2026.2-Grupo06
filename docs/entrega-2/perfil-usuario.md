@@ -323,25 +323,25 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | --- | --- | --- | --- |
-| `0.1` | 26/09/2026 | Estrutura, item de conteúdo, planejamento da elicitação e perfil com dados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `0.2` | 27/09/2026 | Inclui os dados da sessão do Israel na coluna P4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.3` | 27/09/2026 | Atualiza dados da sessão de P1 (Bruno), inclui status socioeconômico e consolida com P4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `0.4` | 27/09/2026 | Inclui os dados da sessão do Heitor na coluna P3 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `0.5` | 27/09/2026 | Consolida os dados preliminares de P5 informados pelo entrevistador | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.0` | 27/09/2026 | Atualiza perfil de usuario | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 27/09/2026 | Conclui status da sessão de P5 e consolida campos restantes na tabela de perfil | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.2` | 27/09/2026 | Adiciona seção de Perfis de Usuário Identificados, incorpora Estudante/Concurseira em Cidadão Comum e adiciona matriz comparativa dos perfis | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.3` | 27/09/2026 | Atualiza P5 e o perfil estudante/concurseira com as evidências da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.3` | 27/09/2026 | Consolida os perfis em 3 grupos macro (unifica demanda de serviços/administrativa e estudos no Cidadão Comum) e atualiza matriz comparativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.4` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
-| `1.5` | 05/10/2026 | Corrige síntese da amostra, confirma atributos complementares e fundamenta três agrupamentos com rastreabilidade; retira perfil documental | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.6` | 05/10/2026 | Integra o perfil Professor com fontes documentais e mantém separadas as evidências das cinco sessões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.7` | 05/10/2026 | Integra persona, cenário e HTA/CTT documentais de Rafael à matriz de rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.8` | 05/10/2026 | Adota Professor como nome do perfil e referência textual, mantendo a Oficina Legislativa como recorte investigado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.9` | 05/10/2026 | Delimita o escopo, padroniza os quatro perfis, recupera atributos das fontes e registra cobertura das evidências e conferência dos artefatos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `2.0` | 13/10/2026 | Integra o perfil documental Proponente de ideia legislativa, sem alterar a amostra de cinco sessões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `2.1` | 13/10/2026 | Atualiza o proponente com o formulário lido e o acompanhamento da ideia publicada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `2.2` | 24/10/2026 | Adiciona nota de rastreabilidade sobre a evolução do escopo da persona Letícia Oliveira na Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 26/09/2026 | Estrutura inicial, fundamentação e dados preliminares | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 27/09/2026 | Inclusão dos dados da sessão P4 (Israel) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 27/09/2026 | Atualização dos dados de P1 (Bruno) e consolidação com P4 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 27/09/2026 | Inclusão dos dados da sessão P3 (Heitor) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 27/09/2026 | Consolidação preliminar dos dados de P5 | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 27/09/2026 | Atualização geral do perfil de usuário | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 27/09/2026 | Fechamento dos dados de P5 na tabela de perfil | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 27/09/2026 | Inclusão dos perfis identificados e matriz comparativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.8` | 27/09/2026 | Atualização de P5 com evidências da transcrição | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.9` | 27/09/2026 | Consolidação em três grupos macro e revisão da matriz | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.10` | 03/10/2026 | Identificação da ferramenta de IA nos agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.11` | 05/10/2026 | Revisão da síntese da amostra e rastreabilidade dos grupos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.12` | 05/10/2026 | Integração documental do perfil Professor | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.13` | 05/10/2026 | Vínculo de Rafael Almeida à matriz de rastreabilidade | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.14` | 05/10/2026 | Padronização da nomenclatura do perfil Professor | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.15` | 05/10/2026 | Padronização dos quatro perfis e conferência das evidências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 13/10/2026 | Integração documental do perfil Proponente de ideia | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.1` | 13/10/2026 | Atualização do Proponente com formulário e acompanhamento | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.2` | 24/10/2026 | Nota sobre evolução da persona Letícia na Etapa 4 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 
 ## Referências

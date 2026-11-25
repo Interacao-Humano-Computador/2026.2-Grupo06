@@ -111,7 +111,7 @@ Caio redige; Bruno é o revisor do relato. Antes da entrega de 15/11: fechar tab
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento das fichas à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento das fichas à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

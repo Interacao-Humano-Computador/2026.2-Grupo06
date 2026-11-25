@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 1
 
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão na [Lista V1 da Etapa 1](../../listas/etapa-1.md), e a reinspeção revisada encontra-se na [Etapa 8 · Grupo 07](../../../entrega-8/grupo-07/etapa-1.md) com base na [Lista V2 da Etapa 1](../../../entrega-8/lista-etapa-1.md).
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.
@@ -97,7 +100,7 @@ A Tabela 4 apresenta os itens de conteúdo da disciplina verificados na Entrega 
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 07/09/2026 | Criação da estrutura da lista de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 07/09/2026 | Adição do vídeo de verificação da Etapa 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.2` | 05/10/2026 | Padroniza o vídeo em bloco expansível fechado, conforme os demais registros do projeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 05/10/2026 | Padronização do vídeo em bloco expansível | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

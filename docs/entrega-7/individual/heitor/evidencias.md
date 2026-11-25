@@ -91,7 +91,7 @@ Para consultar a análise consolidada desses registros, retorne ao [relato da av
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na conferência das minutagens dos vídeos, estruturação das tabelas de localizadores e formatação Markdown. Heitor Pinheiro Gonçalves das Chagas responde pela condução das sessões, organização das evidências e cumprimento das salvaguardas éticas. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na conferência das minutagens dos vídeos, estruturação das tabelas de localizadores e formatação Markdown. Heitor Pinheiro Gonçalves das Chagas responde pela condução das sessões, organização das evidências e cumprimento das salvaguardas éticas.
 
 ## Histórico de versão
 

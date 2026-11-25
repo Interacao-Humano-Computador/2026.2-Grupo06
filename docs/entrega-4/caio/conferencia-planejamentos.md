@@ -80,9 +80,7 @@ O storyboard de Caio está publicado. A sessão foi presencial, com Caio e PROP0
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026.
-
-Grok (xAI) apoiou a comparação com a lista da Apresentação 4.
+Codex (OpenAI) apoiou a atualização de 22/10/2026, e Grok (xAI) apoiou a comparação com a lista da Apresentação 4. Caio Breno de Souza Bezerra permanece responsável pelo conteúdo.
 
 ## Histórico de versão
 

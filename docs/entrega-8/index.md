@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Elaboração das listas V2, fichas de inspeção e resultados das Etapas 1 e 2 | [Lista V2 da Etapa 1](lista-etapa-1.md) · [Lista V2 da Etapa 2](lista-etapa-2.md) · [Resultados](inspecao.md#respostas-por-grupo) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Lista V2 da Etapa 3 e ficha de autoinspeção do Grupo 06 nessa etapa | [Lista V2 da Etapa 3](lista-etapa-3.md) · [Grupo 06](grupo-06/etapa-3.md) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Elaboração da Lista V2 da Etapa 4 (40 critérios por conteúdo e autoria), reinspeção dos Grupos 06 e 05 (−1), gráficos da Etapa 4 e conferência das fichas V1 da Etapa 4 | [Lista da Etapa 4](lista-etapa-4.md) · [Resultados da Etapa 4](resultados/etapa-4.md) · [Conferência V1](conferencia-anterior.md#grupo-06-etapa-4) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Listas V1 das Etapas 1 a 4, Lista V2 e reinspeções da Etapa 4 (Grupos 06 e 05), inspeção da Etapa 3 do Grupo 07 (+1), resultados das Etapas 3, 4 e 5 e conferência V1 das Etapas 1 a 5 | [Lista da Etapa 4](lista-etapa-4.md) · [Grupo 07 · Etapa 3](grupo-07/etapa-3.md) · [Resultados](inspecao.md#respostas-por-grupo) · [Conferência V1](conferencia-anterior.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Lista V2 da Etapa 5 e fichas da autoinspeção do Grupo 06 e da reinspeção do Grupo 07 nessa etapa | [Lista V2 da Etapa 5](lista-etapa-5.md) · [Grupo 06](grupo-06/etapa-5.md) · [Grupo 07](grupo-07/etapa-5.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Documentação do escopo das Etapas 6 e 7, organização dos vínculos V1/V2 e adaptação do processo de Fagan | [Escopo e versões](#escopo-e-versoes) · [Listas](#listas-de-verificacao) · [Método de inspeção](#metodo-de-inspecao) |
 | Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) | Apoio à consulta das fontes, à edição dos textos e à organização das tabelas, imagens e gráficos | [Agradecimentos](#agradecimentos) |
@@ -16,7 +16,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (Etapas 1 a 7)**. Seguindo a regra de paridade da disciplina, a inspeção externa cobre os artefatos do **Grupo 07 (+1) nas Etapas 1, 5 e 7** e os do **Grupo 05 (−1) nas Etapas 2, 4 e 6**. As dez fichas consolidadas nos gráficos de [síntese](inspecao.md) registram **288 respostas** nas Etapas 1, 2, 4, 6 e 7, com critério, constatação, página e versão consultadas; somam-se **30 respostas** na [autoinspeção da Etapa 3](grupo-06/etapa-3.md) e **62 respostas** nas duas fichas da Etapa 5 ([Grupo 06](grupo-06/etapa-5.md) · [Grupo 07](grupo-07/etapa-5.md)), totalizando **380 respostas verificadas em 13 fichas V2**.
+A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (Etapas 1 a 7)**. Seguindo a regra de paridade da disciplina, a inspeção externa cobre os artefatos do **Grupo 07 (+1) nas Etapas 1, 3, 5 e 7** e os do **Grupo 05 (−1) nas Etapas 2, 4 e 6**. As **14 fichas V2** — integralmente consolidadas nos gráficos de [síntese](inspecao.md) — registram **410 respostas verificadas** (**236 Sim**, **157 Incompleto** e **17 Não**), distribuídas entre as Etapas 1 (48), 2 (54), 3 (60), 4 (80), 5 (62), 6 (54) e 7 (52), com critério, constatação, página e versão consultadas.
 
 <div class="etapa8-acessos" markdown>
 
@@ -39,7 +39,7 @@ A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (E
 - [**Apresentação da Etapa 8**](../apresentacoes/etapa-08.md)<br>
   Nove vídeos das sessões de inspeção (sete do Grupo 06 e dois dos Grupos 05 e 07).
 - [**Conferência das respostas V1**](conferencia-anterior.md)<br>
-  Cotejo item a item das seis fichas históricas das Etapas 4, 6 e 7.
+  Cotejo item a item das 14 fichas históricas das Etapas 1 a 7 (369 respostas).
 
 </div>
 
@@ -49,9 +49,9 @@ As listas usam os critérios de desenvolvimento do plano de ensino e fundamentam
 
 | Etapa | Artefatos | Lista V1 | Lista V2 oficial |
 | --- | --- | --- | --- |
-| 1 | Planejamento geral, sites avaliados, processo de design e ferramentas | [V1 da Etapa 1](../verificacao/grupo-06/etapa-1/lista-verificacao.md) | [24 critérios](lista-etapa-1.md) |
-| 2 | Perfil do usuário, ética, técnicas de coleta, personas, cenários e análise de tarefas | [V1 da Etapa 2](../verificacao/grupo-06/etapa-2/lista-verificacao.md) | [27 critérios](lista-etapa-2.md) |
-| 3 | Princípios gerais, metas de usabilidade e guia de estilo | [V1 da Etapa 3](../verificacao/grupo-06/etapa-3/lista-verificacao.md) | [30 critérios](lista-etapa-3.md) |
+| 1 | Planejamento geral, sites avaliados, processo de design e ferramentas | [V1 da Etapa 1](../verificacao/listas/etapa-1.md) | [24 critérios](lista-etapa-1.md) |
+| 2 | Perfil do usuário, ética, técnicas de coleta, personas, cenários e análise de tarefas | [V1 da Etapa 2](../verificacao/listas/etapa-2.md) | [27 critérios](lista-etapa-2.md) |
+| 3 | Princípios gerais, metas de usabilidade e guia de estilo | [V1 da Etapa 3](../verificacao/listas/etapa-3.md) | [30 critérios](lista-etapa-3.md) |
 | 4 | Storyboards, análise de tarefas e planejamentos da avaliação e dos relatos | [V1 da Etapa 4](../verificacao/listas/etapa-4.md) | [40 critérios](lista-etapa-4.md) |
 | 5 | Relatos do storyboard e da análise de tarefas e dois planos para o papel | [V1 da Etapa 5](../verificacao/listas/etapa-5.md) | [31 critérios](lista-etapa-5.md) |
 | 6 | Relato do papel e dois planos para a alta fidelidade | [V1 da Etapa 6](../verificacao/listas/etapa-6.md) | [27 critérios](lista-etapa-6.md) |
@@ -79,19 +79,19 @@ Para classificar uma linha, **Sim** exige cobertura em todo o recorte aplicável
 
 ## Escopo e versões
 
-A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 nas etapas pares (Etapas 2, 4 e 6) e o Grupo +1 nas etapas ímpares (Etapas 1, 5 e 7): [Ficha V1 da Etapa 1 · Grupo 07](../verificacao/grupo-07/etapa-1/lista-verificacao.md) · [Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md) · [Ficha V1 da Etapa 4 · Grupo 05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) · [Ficha V1 da Etapa 5 · Grupo 07](../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Ficha V1 da Etapa 6 · Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Ficha V1 da Etapa 7 · Grupo 07](../verificacao/grupo-07/etapa-7/lista-verificacao.md).
+A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 nas etapas pares (Etapas 2, 4 e 6) e o Grupo +1 nas etapas ímpares (Etapas 1, 3, 5 e 7): [Ficha V1 da Etapa 1 · Grupo 07](../verificacao/grupo-07/etapa-1/lista-verificacao.md) · [Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md) · [Ficha V1 da Etapa 3 · Grupo 07](../verificacao/grupo-07/etapa-3/lista-verificacao.md) · [Ficha V1 da Etapa 4 · Grupo 05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) · [Ficha V1 da Etapa 5 · Grupo 07](../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Ficha V1 da Etapa 6 · Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Ficha V1 da Etapa 7 · Grupo 07](../verificacao/grupo-07/etapa-7/lista-verificacao.md).
 
 O inventário foi levantado pelos menus e links de cada site. As fichas ligam as páginas renderizadas ao código-fonte na revisão de referência e indicam a versão de cada artefato quando ela está publicada. Identificar a versão testada exige cruzar o endereço do protótipo com a revisão indicada no relato. Autorização e versão são avaliadas pelos registros disponíveis.
 
 | Grupo inspecionado | Projeto | Revisão de referência | Ficha |
 | --- | --- | --- | --- |
 | Grupo 06 (autoinspeção) | [Portal do Senado Federal](https://interacao-humano-computador.github.io/2026.2-Grupo06/) | [`5dfe10f`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/5dfe10f7661a6b839c87ced4f37f15a33e3a7d46) · Etapa 5: [`1c1da5c`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/1c1da5c3dd5b465764cbeef07304a6c3ccc56b57) | [Etapa 1](grupo-06/etapa-1.md) · [Etapa 2](grupo-06/etapa-2.md) · [Etapa 3](grupo-06/etapa-3.md) · [Etapa 4](grupo-06/etapa-4.md) · [Etapa 5](grupo-06/etapa-5.md) · [Etapa 6](grupo-06/etapa-6.md) · [Etapa 7](grupo-06/etapa-7.md) |
-| Grupo 07 (+1) | [PCI Concursos](https://interacao-humano-computador.github.io/2026.2-Grupo07/) | [`12913da`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo07/tree/12913da5f0d83900ce91e500e26524987f0a9497) | [Etapa 1](grupo-07/etapa-1.md) · [Etapa 5](grupo-07/etapa-5.md) · [Etapa 7](grupo-07/etapa-7.md) |
+| Grupo 07 (+1) | [PCI Concursos](https://interacao-humano-computador.github.io/2026.2-Grupo07/) | [`12913da`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo07/tree/12913da5f0d83900ce91e500e26524987f0a9497) | [Etapa 1](grupo-07/etapa-1.md) · [Etapa 3](grupo-07/etapa-3.md) · [Etapa 5](grupo-07/etapa-5.md) · [Etapa 7](grupo-07/etapa-7.md) |
 | Grupo 05 (−1) | [SEMOB-DF](https://interacao-humano-computador.github.io/2026.2-Grupo05/) | [`48109ed`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/48109ede138038cc9e9e9d8a6723b0ad8696c734) (Etapas 2 e 4) · [`cad2b42`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/cad2b42de633a5f997fb6a87942bd1cd4da33aa2) (Etapa 6) | [Etapa 2](grupo-05/etapa-2.md) · [Etapa 4](grupo-05/etapa-4.md) · [Etapa 6](grupo-05/etapa-6.md) |
 
 ## Agradecimentos
 
-Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) apoiaram a consulta às fontes, a redação dos critérios, a localização de trechos e a preparação de recortes, tabelas e gráficos. Heitor Pinheiro Gonçalves das Chagas responde pelas listas V2, fichas e resultados das Etapas 1 e 2; Israel Soares de Paiva responde pela lista V2 e pela autoinspeção da Etapa 3; Bruno Ferreira Dornelas responde pela lista V2, pelas reinspeções, pelos gráficos e pela conferência V1 da Etapa 4; Luís Henrique Arruda Luna responde pela lista V2 e pelas reinspeções da Etapa 5; Caio Breno de Souza Bezerra responde pelas listas V2, fichas e resultados das Etapas 6 e 7.
+Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind) apoiaram a consulta às fontes, a redação dos critérios, a localização de trechos e a preparação de recortes, tabelas e gráficos. Heitor Pinheiro Gonçalves das Chagas responde pelas listas V2, fichas e resultados das Etapas 1 e 2; Israel Soares de Paiva responde pela lista V2 e pela autoinspeção da Etapa 3; Bruno Ferreira Dornelas responde pelas listas V1 das Etapas 1 a 4, pela lista V2 e pelas reinspeções da Etapa 4, pela inspeção externa da Etapa 3, pelos resultados das Etapas 3, 4 e 5 e pela conferência V1 das Etapas 1 a 5; Luís Henrique Arruda Luna responde pela lista V2 e pelas reinspeções da Etapa 5; Caio Breno de Souza Bezerra responde pelas listas V2, fichas, resultados e conferência V1 das Etapas 6 e 7.
 
 
 ## Histórico de versão
@@ -104,8 +104,10 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 | `1.3` | 21/11/2026 | Integra as listas de verificação V2 das Etapas 1 e 2 e seus vínculos com as fichas V1. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 21/11/2026 | Integra as quatro fichas V2 e os resultados consolidados das Etapas 1 e 2 (total de 208 respostas em oito fichas). | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 22/11/2026 | Integra com `main`, preservando as listas V2 e fichas das Etapas 3 e 5 ao lado das Etapas 1, 2, 6 e 7. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.6` | 22/11/2026 | Integra a Lista V2, as reinspeções dos Grupos 06 e 05 (−1), os gráficos e a conferência V1 da Etapa 4, completando as Etapas 1 a 7. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 22/11/2026 | Integra a Lista V2 e os artefatos da Etapa 4. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 22/11/2026 | Inclui o acesso às gravações das inspeções e à apresentação da Etapa 8. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.8` | 23/11/2026 | Vincula as listas V1 não preenchidas das Etapas 1, 2 e 3. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.9` | 25/11/2026 | Sincroniza as 14 fichas V2 (410 respostas nas Etapas 1 a 7) e as 14 fichas históricas da conferência V1 (369 respostas). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

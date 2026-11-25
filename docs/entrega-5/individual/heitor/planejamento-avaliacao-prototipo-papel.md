@@ -209,7 +209,7 @@ Para cada tarefa serão registrados: conclusão (sem ajuda, com ajuda, não conc
 
 ## Agradecimentos
 
-O Antigravity (IA generativa) apoiou a organização das tabelas e a redação deste planejamento. As decisões sobre objetivos, telas, tarefas e agenda, e a responsabilidade pelo conteúdo, são de Heitor Pinheiro Gonçalves das Chagas. A revisão técnica por pares é de responsabilidade de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity (IA generativa) apoiou a organização das tabelas e a redação deste planejamento. As decisões sobre objetivos, telas, tarefas e agenda, e a responsabilidade pelo conteúdo, são de Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

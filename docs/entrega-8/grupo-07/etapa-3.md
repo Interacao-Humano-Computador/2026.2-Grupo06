@@ -106,7 +106,7 @@ A tabela abaixo indica os achados prioritários que merecem voltar à pauta numa
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 23/11/2026 | Registro completo das 30 respostas e evidências da reinspeção V2 da Etapa 3 no Grupo 07 (+1 · PCI Concursos), com recortes comprobatórios e plano de acompanhamento. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.0` | 23/11/2026 | Registro das 30 respostas e evidências da reinspeção V2 da Etapa 3 no Grupo 07. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 

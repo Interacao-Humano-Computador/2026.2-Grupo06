@@ -42,11 +42,7 @@ A [apresentação da Etapa 6](etapa-06.md) e a [apresentação da Etapa 7](etapa
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a padronização e a correção dos participantes conforme as informações fornecidas por Bruno Ferreira Dornelas. Grok (xAI) apoiou a inclusão da Etapa 5 neste índice, conforme as informações de Caio Breno de Souza Bezerra. A responsabilidade pelo conteúdo permanece com o autor.
-
-Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
-
-Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+O Codex (OpenAI) e o Grok (xAI) apoiaram a padronização dos participantes e a atualização dos acessos e da navegação das Etapas 5, 6 e 7 neste índice. Bruno Ferreira Dornelas e Caio Breno de Souza Bezerra respondem pelas respectivas atualizações.
 
 ## Histórico de versão
 

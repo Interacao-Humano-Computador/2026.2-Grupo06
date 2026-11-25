@@ -238,8 +238,8 @@ O Codex (OpenAI) apoiou a integração dos links do protótipo e do painel do mo
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 09/11/2026 | Roteiro presencial, cartões e ficha do observador alinhados ao DECIDE revisado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
-| `1.1` | 10/11/2026 | Inclusão dos acessos ao protótipo HTML, Figma e painel do moderador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 09/11/2026 | Roteiro presencial, cartões e ficha do observador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 10/11/2026 | Inclusão dos acessos ao HTML, Figma e painel do moderador | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

@@ -9,12 +9,16 @@
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Organização do acesso à ficha dos relatos de alta fidelidade do PCI Concursos | [Etapa 7](#etapa-7) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Vinculação do vídeo da sessão de inspeção dos artefatos do Grupo 07 (+1) | [Gravação](#gravacao-da-inspecao) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Inclusão do acesso às fichas V1 e V2 da Etapa 1 do Grupo 07 (+1) | [Etapa 1](#etapa-1) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do acesso às fichas V1 e V2 da Etapa 3 do Grupo 07 (+1) | [Etapa 3](#etapa-3) · [Ficha V1](../../verificacao/grupo-07/etapa-3/lista-verificacao.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Inclusão do acesso às fichas V1 e V2 da Etapa 3 do Grupo 07 (+1), introdução e referências | [Introdução](#introducao) · [Etapa 3](#etapa-3) · [Ficha V1](../../verificacao/grupo-07/etapa-3/lista-verificacao.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inclusão do acesso às fichas V1 e V2 da Etapa 5 do Grupo 07 (+1) | [Etapa 5](#etapa-5) |
-| Codex (OpenAI) / Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
+| Codex (OpenAI), Google Gemini e Antigravity (Google DeepMind) | Apoio à edição dos textos e à organização dos links | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+## Introdução
+
+Esta página reúne as **quatro fichas de inspeção externa V2** aplicadas pelo Grupo 06 aos artefatos das etapas ímpares (**Etapas 1, 3, 5 e 7**) do **Grupo 07 (+1 · PCI Concursos)** na [Etapa 8](../index.md), obedecendo à regra de paridade do Plano de Ensino (Sales, 2026) e ao processo de inspeção formal adaptado de Fagan (1976). Os percentuais e gráficos comparativos estão consolidados na [síntese dos resultados V2](../inspecao.md).
 
 ## Gravação da inspeção
 
@@ -70,4 +74,11 @@ A gravação da sessão de inspeção dos artefatos do Grupo 07 (+1, PCI Concurs
 | `1.1` | 21/11/2026 | Inclui acesso às fichas V1 e V2 da Etapa 1 do Grupo 07. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 22/11/2026 | Inclui o acesso às fichas V1 e V2 da Etapa 5 após integração com `main`. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 23/11/2026 | Inclui a gravação da sessão de inspeção do Grupo 07 no YouTube. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.4` | 23/11/2026 | Inclui o acesso às fichas V1 e V2 da Etapa 3 do Grupo 07 (+1) e explicita as Etapas 1, 3, 5 e 7 na gravação. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 23/11/2026 | Inclui acesso às fichas V1 e V2 da Etapa 3 do Grupo 07. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 25/11/2026 | Inclui introdução e referências bibliográficas. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+## Referências
+
+1. SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. v1. Brasília: FCTE/UnB, 2026.
+
+2. FAGAN, Michael E. *Design and code inspections to reduce errors in program development*. IBM Systems Journal, v. 15, n. 3, p. 182–211, 1976. [DOI 10.1147/sj.153.0182](https://doi.org/10.1147/sj.153.0182).

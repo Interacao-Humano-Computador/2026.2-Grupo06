@@ -127,7 +127,7 @@ Manter critérios fixos antes da sessão principal. Interpretar cada problema co
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento do procedimento à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou o alinhamento do procedimento à sessão de 11/11 e à versão AF-1.2. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

@@ -211,9 +211,7 @@ A Tabela 9 será preenchida após a sessão. Campos em branco não indicam ativi
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a atualização de 22/10/2026.
-
-Grok (xAI) apoiou a redação e a organização dos instrumentos de relato. Caio Breno de Souza Bezerra permanece responsável pela revisão e pelo conteúdo do artefato.
+Grok (xAI) apoiou a redação e a organização dos instrumentos de relato, e Codex (OpenAI) apoiou a atualização de 22/10/2026. Caio Breno de Souza Bezerra permanece responsável pela revisão e pelo conteúdo do artefato.
 
 ## Histórico de versão
 

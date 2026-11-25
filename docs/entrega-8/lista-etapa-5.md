@@ -14,7 +14,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Autoinspeção do Grupo 06](grupo-06/etapa-5.md) · [Inspeção do Grupo 07](grupo-07/etapa-5.md) · [Lista V1 da Etapa 5](../verificacao/listas/etapa-5.md)
+[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-5.md) · [Autoinspeção do Grupo 06](grupo-06/etapa-5.md) · [Inspeção do Grupo 07](grupo-07/etapa-5.md) · [Lista V1 da Etapa 5](../verificacao/listas/etapa-5.md)
 
 ## Como aplicar
 
@@ -580,6 +580,7 @@ O Claude (Anthropic) apoiou a consulta aos artefatos, a redação dos critérios
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `2.0` | 22/11/2026 | Lista V2 da Etapa 5 no padrão da Etapa 8, com evidência esperada, correspondência com a V1 e recortes das fontes. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 25/11/2026 | Vincula a página de resultados e gráficos da Etapa 5. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

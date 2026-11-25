@@ -18,7 +18,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Visão geral das inspeções](inspecao.md) · [Ficha V1 da Etapa 2 · Grupo 06](../verificacao/grupo-06/etapa-2/lista-verificacao.md) · [Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md)
+[Etapa 8](index.md) · [Visão geral das inspeções](inspecao.md) · [Lista V1 da Etapa 2](../verificacao/listas/etapa-2.md) · [Ficha V1 da Etapa 2 · Grupo 06](../verificacao/grupo-06/etapa-2/lista-verificacao.md) · [Ficha V1 da Etapa 2 · Grupo 05](../verificacao/grupo-05/etapa-2/lista-verificacao.md)
 
 ## Como aplicar
 
@@ -40,7 +40,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra o histórico em cada documento principal da Etapa 2 (aspectos éticos, técnicas de coleta, perfil do usuário, elenco de personas, cenários, análise de tarefas e páginas individuais). Confira se as entradas permitem distinguir a versão corrente e o que mudou.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #1](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · mantido com campos explícitos.
+    **Rastreabilidade na V1.** [D01](../verificacao/listas/etapa-2.md#d01) · mantido com campos explícitos.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/historico.png){ loading=lazy }
 
@@ -54,7 +54,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Leia a entrada da versão corrente. O revisor deve ser distinto do autor e a entrada deve registrar revisão ou atribuí-la àquela versão. Campo vazio, autor repetido ou revisão a definir indicam lacuna.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #2](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · refinado para a versão examinada.
+    **Rastreabilidade na V1.** [D02](../verificacao/listas/etapa-2.md#d02) · refinado para a versão examinada.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/autoria.png){ loading=lazy }
 
@@ -68,7 +68,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira referências que fundamentam ética, técnicas de coleta, perfil de usuário, personas, cenários e modelagem de tarefas (HTA e CTT) nos documentos do inventário da Etapa 2.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #3](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · delimita os documentos principais.
+    **Rastreabilidade na V1.** [D03](../verificacao/listas/etapa-2.md#d03) · delimita os documentos principais.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/bibliografia.png){ loading=lazy }
 
@@ -82,7 +82,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira as figuras e tabelas de conteúdo (quadros de perfil, diagramas HTA e CTT, tabelas de operações e recortes bibliográficos). Procure numeração e legenda, origem e uma chamada que aponte para o elemento. Registre quais elementos têm lacunas.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #4](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · mantido com escopo de conteúdo.
+    **Rastreabilidade na V1.** [D04](../verificacao/listas/etapa-2.md#d04) · mantido com escopo de conteúdo.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/figuras.png){ loading=lazy }
 
@@ -96,7 +96,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Localize o trecho de abertura que informa a finalidade do artefato e o recorte investigado na Etapa 2. Um título de seção diferente de ‘Introdução’ é aceito.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #5](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · aceita aberturas equivalentes.
+    **Rastreabilidade na V1.** [D05](../verificacao/listas/etapa-2.md#d05) · aceita aberturas equivalentes.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/introducao.png){ loading=lazy }
 
@@ -110,7 +110,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra as entradas de execução da Etapa 2 e procure datas reais de início e fim, ação e pessoas para entrevistas, consolidação de perfil, personas, cenários e análises de tarefas.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #6](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · explicita o que conta como execução.
+    **Rastreabilidade na V1.** [D06](../verificacao/listas/etapa-2.md#d06) · explicita o que conta como execução.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/cronograma.png){ loading=lazy }
 
@@ -124,7 +124,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Procure as atas da Etapa 2 e compare os campos publicados. Duração do vídeo sem indicação do encerramento da reunião ou ausência de horários deixa o registro incompleto.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #7](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · explicita os campos da ata.
+    **Rastreabilidade na V1.** [D07](../verificacao/listas/etapa-2.md#d07) · explicita os campos da ata.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/atas.png){ loading=lazy }
 
@@ -138,7 +138,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira a associação entre reunião de verificação da Etapa 2, página de registro e endereço da gravação. Consentimento e gravações de entrevistas com usuários são verificados nos critérios de conteúdo ético (`E2-05` e `E2-06`).
 
-    **Rastreabilidade na V1.** [Desenvolvimento #8](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · delimita gravação de reunião e verificação da etapa.
+    **Rastreabilidade na V1.** [D08](../verificacao/listas/etapa-2.md#d08) · delimita gravação de reunião e verificação da etapa.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/gravacao.png){ loading=lazy }
 
@@ -152,7 +152,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira o vídeo da apresentação da Etapa 2, os integrantes participantes e a categoria não listada declarada na página.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #9](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · explicita a categoria do plano de ensino.
+    **Rastreabilidade na V1.** [D09](../verificacao/listas/etapa-2.md#d09) · explicita a categoria do plano de ensino.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/apresentacao.png){ loading=lazy }
 
@@ -166,7 +166,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Aceite tabela de contribuição própria ou incorporada ao início do documento. Confira pessoa, atividade atribuída e hiperligação para a atividade ou seção correspondente.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #10](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · aceita tabela equivalente com os mesmos campos.
+    **Rastreabilidade na V1.** [D10](../verificacao/listas/etapa-2.md#d10) · aceita tabela equivalente com os mesmos campos.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/contribuicao.png){ loading=lazy }
 
@@ -180,7 +180,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Use a seção de agradecimentos ou declaração, ou um registro de uso identificável no próprio artefato. Quando houver indicação de uso, confira o nome da ferramenta e as atividades apoiadas. Se a evidência for só genérica, marque Incompleto.
 
-    **Rastreabilidade na V1.** [Desenvolvimento #11](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-desenvolvimento-do-projeto) · prioriza a declaração explícita, aceita local equivalente.
+    **Rastreabilidade na V1.** [D11](../verificacao/listas/etapa-2.md#d11) · prioriza a declaração explícita, aceita local equivalente.
 
     ![Sales (2026), p. 3 do PDF. Trecho grifado para o critério.](../assets/img/entrega-8/fontes/ia.png){ loading=lazy }
 
@@ -197,7 +197,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confirme se a definição do perfil de usuário e dos requisitos emprega ao menos duas técnicas distintas (ex.: entrevistas semiestruturadas, observação de tarefa/investigação contextual, questionários, brainstorming, análise documental), apresentando autor do item, referência bibliográfica e imagem do trecho da fonte.
 
-    **Rastreabilidade na V1.** [Conteúdo #1](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) + [Conteúdo #8](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · consolidados na triangulação de técnicas de coleta.
+    **Rastreabilidade na V1.** [E2-C01](../verificacao/listas/etapa-2.md#e2-c01) + [E2-C08](../verificacao/listas/etapa-2.md#e2-c08) · consolidados na triangulação de técnicas de coleta.
 
     ![Barbosa e Silva (2010), p. 143. Técnicas de coleta de dados dos usuários.](../assets/img/referencias/luis-tecnicas-p143.png){ loading=lazy }
 
@@ -215,7 +215,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira no artefato de Perfil do Usuário a cobertura dos atributos de Hackos e Redish (1998 apud Barbosa e Silva, 2010, p. 134–135): dados demográficos (idade, sexo, status socioeconômico), experiência no cargo, informações sobre a empresa/organização, educação, experiência com computadores e com o produto, tecnologia disponível, treinamento, atitudes e valores, conhecimento do domínio, objetivos, tarefas, gravidade dos erros e idiomas/jargões, acompanhados de referência e foto do livro.
 
-    **Rastreabilidade na V1.** [Conteúdo #2](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · mantido com lista explícita de atributos verificáveis.
+    **Rastreabilidade na V1.** [E2-C02](../verificacao/listas/etapa-2.md#e2-c02) · mantido com lista explícita de atributos verificáveis.
 
     ![Barbosa e Silva (2010), p. 134. Tipos de dados para o perfil do usuário segundo Hackos e Redish (1998).](../assets/img/referencias/barbosa-perfil-usuario1.png){ loading=lazy }
 
@@ -233,7 +233,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Verifique se o artefato classifica e agrupa os usuários segundo as quatro dimensões exemplificadas por Courage e Baxter (2005 apud Barbosa e Silva, 2010, p. 175): (1) idade; (2) experiência (leigo/novato, especialista); (3) atitudes (tecnófilos, tecnófobos); e (4) tarefas primárias, com referência e imagem do trecho utilizado.
 
-    **Rastreabilidade na V1.** [Conteúdo #3](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · mantido.
+    **Rastreabilidade na V1.** [E2-C03](../verificacao/listas/etapa-2.md#e2-c03) · mantido.
 
     ![Barbosa e Silva (2010), p. 175. Grupos de atributos do perfil do usuário segundo Courage e Baxter (2005).](../assets/img/referencias/barbosa-grupos-atributos.png){ loading=lazy }
 
@@ -247,7 +247,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira a documentação sobre cuidados éticos em pesquisas com seres humanos e a definição explícita dos quatro princípios éticos fundamentais — (1) autonomia, (2) beneficência, (3) não maleficência e (4) justiça e equidade —, com autor do item, referência bibliográfica e imagem do trecho da fonte.
 
-    **Rastreabilidade na V1.** [Conteúdo #4](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) + [Conteúdo #5](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · consolidados na fundamentação ética da etapa.
+    **Rastreabilidade na V1.** [E2-C04](../verificacao/listas/etapa-2.md#e2-c04) + [E2-C05](../verificacao/listas/etapa-2.md#e2-c05) · consolidados na fundamentação ética da etapa.
 
     ![Barbosa e Silva (2010), p. 138. Aspectos éticos e princípios em pesquisas com usuários.](../assets/img/entrega-6/referencias/barbosa-p138.png){ loading=lazy }
 
@@ -261,7 +261,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Verifique no documento de ética e nos registros individuais das entrevistas se a permissão de captação audiovisual foi solicitada antes do início da gravação, especificando o escopo autorizado (áudio, tela e/ou imagem) e preservando fora do site público qualquer mídia não autorizada para divulgação.
 
-    **Rastreabilidade na V1.** [Conteúdo #6](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · explicita a verificação do escopo autorizado por sessão.
+    **Rastreabilidade na V1.** [E2-C06](../verificacao/listas/etapa-2.md#e2-c06) · explicita a verificação do escopo autorizado por sessão.
 
     ![Barbosa e Silva (2010), p. 141. Trecho grifado sobre autorização de gravação e divulgação.](../assets/img/entrega-8/fontes/etica-divulgacao.png){ loading=lazy }
 
@@ -275,7 +275,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confirme a disponibilidade do modelo de Termo de Consentimento Livre e Esclarecido (TCLE) contendo objetivos, procedimentos, riscos/desconfortos, garantia de confidencialidade e anonimato e direito de recusa ou desistência a qualquer momento sem penalidades, além do quadro ou registro que comprove a aplicação aos participantes (mantendo dados civis sensíveis protegidos).
 
-    **Rastreabilidade na V1.** [Conteúdo #7](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) + [Item do grupo #17](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-17-israel-soares-de-paiva) · consolidados, dispensando a exposição pública de assinaturas civis quando houver registro formal de aplicação.
+    **Rastreabilidade na V1.** [E2-C07](../verificacao/listas/etapa-2.md#e2-c07) + [E2-C17](../verificacao/listas/etapa-2.md#e2-c17) · consolidados, dispensando a exposição pública de assinaturas civis quando houver registro formal de aplicação.
 
     ![Barbosa e Silva (2010), p. 141. Trecho grifado sobre o Termo de Consentimento Livre e Esclarecido.](../assets/img/entrega-8/fontes/etica.png){ loading=lazy }
 
@@ -289,7 +289,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Para cada integrante do grupo, localize a página da sessão de coleta (ou análise documental complementar) e confirme se apresenta os atributos extraídos para o perfil, as respostas ou transcrição da entrevista e os passos observados na realização da tarefa, distinguindo relato de observação direta.
 
-    **Rastreabilidade na V1.** [Conteúdo #1](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) + [Conteúdo #8](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · torna verificável a execução individual da coleta que alimenta os artefatos do grupo.
+    **Rastreabilidade na V1.** [E2-C01](../verificacao/listas/etapa-2.md#e2-c01) + [E2-C08](../verificacao/listas/etapa-2.md#e2-c08) · torna verificável a execução individual da coleta que alimenta os artefatos do grupo.
 
     ![Barbosa e Silva (2010), p. 166. Objetivos e princípios da investigação contextual e observação.](../assets/img/referencias/luis-investigacao-contextual-p166.png){ loading=lazy }
 
@@ -303,7 +303,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Verifique no artefato de Elenco de Personas a definição conceitual com referência e imagem do livro, a quantidade adequada ao projeto (3 a 12 personas, com ao menos uma primária) e a justificativa do status de cada persona (primária ou secundária) em função dos objetivos de design.
 
-    **Rastreabilidade na V1.** [Item do grupo #14](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-14-caio-breno-de-souza-bezerra) · separa a organização e priorização do elenco da estrutura interna de cada persona.
+    **Rastreabilidade na V1.** [E2-C14](../verificacao/listas/etapa-2.md#e2-c14) · separa a organização e priorização do elenco da estrutura interna de cada persona.
 
     ![Barbosa e Silva (2010), p. 177. Definição e elementos de personas.](../assets/img/referencias/personas-barbosa-silva-p177.png){ loading=lazy }
 
@@ -317,7 +317,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra as páginas individuais de personas e confirme a presença dos oito elementos de Courage e Baxter (2005 apud Barbosa e Silva, 2010, p. 177): (1) identidade, (2) status, (3) objetivos, (4) habilidades, (5) tarefas, (6) relacionamentos, (7) requisitos e (8) expectativas, verificando se apenas o nome e detalhes pessoais foram inventados sobre a base empírica ou documental.
 
-    **Rastreabilidade na V1.** [Item do grupo #14](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-14-caio-breno-de-souza-bezerra) · mantido.
+    **Rastreabilidade na V1.** [E2-C14](../verificacao/listas/etapa-2.md#e2-c14) · mantido.
 
     ![Barbosa e Silva (2010), p. 177. Os oito elementos característicos de uma persona segundo Courage e Baxter (2005).](../assets/img/referencias/personas-barbosa-silva-p177.png){ loading=lazy }
 
@@ -331,7 +331,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Confira no artefato de Cenários a fundamentação com autor do item, referência e recorte da fonte, além da cobertura explícita dos sete elementos de Rosson e Carroll (2002 apud Barbosa e Silva, 2010, p. 183–184) nas narrativas: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação.
 
-    **Rastreabilidade na V1.** [Conteúdo #9](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · explicita os sete elementos de Rosson e Carroll na verificação.
+    **Rastreabilidade na V1.** [E2-C09](../verificacao/listas/etapa-2.md#e2-c09) · explicita os sete elementos de Rosson e Carroll na verificação.
 
     ![Barbosa e Silva (2010), p. 183–184. Definição e elementos característicos de um cenário.](../assets/img/referencias/cenarios-barbosa-silva-p183-184.png){ loading=lazy }
 
@@ -345,7 +345,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra os cenários individuais e o quadro síntese do grupo. Confirme se cada cenário apresenta: (1) título conciso que descreve a situação ou barreira enfrentada; (2) os atores que participam (vinculados à persona correspondente); e (3) uma breve descrição da situação inicial em que os atores se encontram.
 
-    **Rastreabilidade na V1.** [Item do grupo #13](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-13-bruno-ferreira-dornelas) · mantido.
+    **Rastreabilidade na V1.** [E2-C13](../verificacao/listas/etapa-2.md#e2-c13) · mantido.
 
     ![Barbosa et al. (2021), p. 183. Estrutura básica do cenário: título, atores e situação inicial.](../assets/img/referencias/item13_etapa2.png){ loading=lazy }
 
@@ -359,7 +359,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Verifique na página de Análise de Tarefas a explicação conceitual do método e das técnicas adotadas, acompanhada de autor do item, referência bibliográfica, foto do texto da fonte e índice estruturado vinculando cada integrante à persona e à tarefa modelada.
 
-    **Rastreabilidade na V1.** [Conteúdo #10](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · mantido.
+    **Rastreabilidade na V1.** [E2-C10](../verificacao/listas/etapa-2.md#e2-c10) · mantido.
 
     ![Barbosa e Silva (2010), p. 191. Definição e objetivos da Análise de Tarefas.](../assets/img/referencias/barbosa-analise.png){ loading=lazy }
 
@@ -373,7 +373,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra as páginas individuais de análise de tarefas de todos os integrantes. Confirme se cada um modelou sua tarefa tanto em HTA (contendo representação gráfica/diagrama, legenda notacional e tabela detalhada) quanto em uma segunda técnica da literatura (como CTT ou GOMS/KLM).
 
-    **Rastreabilidade na V1.** [Conteúdo #11](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) + [Conteúdo #12](../verificacao/grupo-06/etapa-2/lista-verificacao.md#itens-de-conteudo-da-disciplina) · consolidados na exigência de dupla representação e especificação da tarefa por integrante.
+    **Rastreabilidade na V1.** [E2-C11](../verificacao/listas/etapa-2.md#e2-c11) + [E2-C12](../verificacao/listas/etapa-2.md#e2-c12) · consolidados na exigência de dupla representação e especificação da tarefa por integrante.
 
     ![Barbosa e Silva (2010), p. 191. Técnicas de análise e especificação de tarefas.](../assets/img/entrega-6/referencias/barbosa-p191.png){ loading=lazy }
 
@@ -387,7 +387,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Nas tabelas e descrições da HTA de cada integrante, verifique se estão registrados os objetivos e operações relacionando: (1) o que as pessoas fazem (*ações*); (2) por que o fazem / circunstâncias de ativação (*input* e objetivo); e (3) as condições de término (*feedback*) e as consequências ou problemas caso não o façam corretamente.
 
-    **Rastreabilidade na V1.** [Item do grupo #15](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-15-caio-breno-de-souza-bezerra) · mantido com verificação da tabela de operações da HTA.
+    **Rastreabilidade na V1.** [E2-C15](../verificacao/listas/etapa-2.md#e2-c15) · mantido com verificação da tabela de operações da HTA.
 
     ![Barbosa e Silva (2010), p. 192. A HTA relaciona o que as pessoas fazem, por que o fazem e as consequências de erro.](../assets/img/referencias/barbosa-hta.png){ loading=lazy }
 
@@ -401,7 +401,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Verifique nos diagramas e tabelas HTA de cada integrante se todo objetivo decomposto em subobjetivos possui um **plano** associado que especifica a ordem e as condições sob as quais os subobjetivos são executados (como sequência fixa `>`, seleção/decisão `/` ou paralelismo `+`).
 
-    **Rastreabilidade na V1.** [Item do grupo #16](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-16-heitor-pinheiro-goncalves-das-chagas) · mantido.
+    **Rastreabilidade na V1.** [E2-C16](../verificacao/listas/etapa-2.md#e2-c16) · mantido.
 
     ![Barbosa e Silva (2010), p. 193. Elementos de um diagrama HTA, subobjetivos e planos.](../assets/img/referencias/barbosa-notacao-p193.png){ loading=lazy }
 
@@ -415,7 +415,7 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **O que conferir.** Abra os diagramas CTT de cada integrante e confira se cada nó está classificado de acordo com sua natureza — (1) tarefa do usuário, (2) tarefa do sistema, (3) tarefa interativa ou (4) tarefa abstrata — e se as relações entre tarefas irmãs utilizam operadores temporais da notação CTT (como habilitação `>>` ou `[]>>`, escolha `[]`, interdependência `|[]|`, desativação `[>` ou suspensão `|>`).
 
-    **Rastreabilidade na V1.** [Item do grupo #18](../verificacao/grupo-06/etapa-2/lista-verificacao.md#item-18-luis-henrique-luna-de-arruda) · amplia a conferência visual da notação CTT com o recorte de Barbosa e Silva (2010, p. 203–204).
+    **Rastreabilidade na V1.** [E2-C18](../verificacao/listas/etapa-2.md#e2-c18) · amplia a conferência visual da notação CTT com o recorte de Barbosa e Silva (2010, p. 203–204).
 
     ![Barbosa e Silva (2010), p. 203. Categorias de tarefas e representação ConcurTaskTrees (CTT).](../assets/img/referencias/barbosa-notacao-p203.png){ loading=lazy }
 
@@ -438,6 +438,7 @@ O Antigravity e o Google Gemini apoiaram a consolidação dos critérios oficiai
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `2.0` | 21/11/2026 | Elaboração da Lista de Verificação V2 da Etapa 2 com 11 critérios de desenvolvimento e 16 de conteúdo, rastreabilidade para a V1 e recortes das fontes. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| 2.1 | 23/11/2026 | Atualiza os links de rastreabilidade para a Lista V1 da Etapa 2 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -59,6 +59,8 @@ A reinspeção abrange os **39 documentos da Etapa 2** em `docs/analise-de-requi
 
 </div>
 
+[Conferir as respostas da inspeção V1](../conferencia-anterior.md#grupo-05-etapa-2).
+
 ## Acompanhamento
 
 | Achado | Ajuste a registrar | Evidência para encerrar |
@@ -88,6 +90,7 @@ A reinspeção abrange os **39 documentos da Etapa 2** em `docs/analise-de-requi
 | `1.0` | 21/11/2026 | Registro das 27 respostas e evidências da inspeção V2 da Etapa 2 no Grupo 05. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 2. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 05 (−1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.3` | 25/11/2026 | Vincula a conferência item a item da ficha V1 da Etapa 2. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

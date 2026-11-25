@@ -2,8 +2,8 @@
 
 # Lista de verificação — Etapa 1
 
-!!! info "Lista V2 oficial na Etapa 8"
-    Os critérios revisados para a Etapa 8 estão na [Lista V2 da Etapa 1](../../../entrega-8/lista-etapa-1.md). Esta página preserva o registro histórico da primeira autoverificação da Etapa 1.
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão consolidados na [Lista V1 da Etapa 1](../../listas/etapa-1.md), e os critérios revisados para a Etapa 8 estão na [Lista V2 da Etapa 1](../../../entrega-8/lista-etapa-1.md). Esta página preserva o registro histórico da primeira autoverificação da Etapa 1.
 
 ## Tabela de contribuição
 

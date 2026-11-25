@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 5](../../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-grupo-07)
+[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Resultados e gráficos](../resultados/etapa-5.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 5](../../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-grupo-07)
 
 ## Recorte consultado
 
@@ -63,7 +63,7 @@ Cada linha leva ao critério da V2, à página do grupo e às linhas do document
 
 </div>
 
-[Conferir as respostas da inspeção V1](../../verificacao/grupo-07/etapa-5/lista-verificacao.md). Em relação à V1 (18 Sim, 8 Incompleto, 5 Não), D06 passou a Sim e D09 a Incompleto com as atualizações do grupo; E5-01, E5-02, E5-05, E5-16 e E5-19 ficaram Incompleto porque a V2 exige cobertura de todos os integrantes e o uso do vídeo.
+[Conferir as respostas da inspeção V1](../conferencia-anterior.md#grupo-07-etapa-5). Em relação à V1 (18 Sim, 8 Incompleto, 5 Não), D05 e D06 passaram a Sim e D09 a Incompleto com as atualizações do grupo; D04, E5-01, E5-02, E5-05, E5-16 e E5-19 ficaram Incompleto porque a V2 exige cobertura de todos os integrantes e o uso do vídeo.
 
 ## Acompanhamento
 
@@ -100,6 +100,7 @@ O Claude (Anthropic) apoiou a localização das evidências, a contagem das linh
 | `1.0` | 22/11/2026 | Reinspeção da Etapa 5 do Grupo 07 com a lista V2, a partir do commit `12913da`. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 07 (+1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.3` | 25/11/2026 | Vincula os resultados da Etapa 5 e a conferência item a item da ficha V1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

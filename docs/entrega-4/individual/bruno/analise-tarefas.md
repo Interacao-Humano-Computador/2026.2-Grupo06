@@ -133,8 +133,8 @@ O Codex (OpenAI) apoiou a redação, a organização dos instrumentos e a confer
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 23/10/2026 | Modela o caminho prospectivo do complemento com Letícia, HTA e expressões CTT. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.2 | 24/10/2026 | Retira versão do corpo e alinha a conferência técnica aos planejamentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 23/10/2026 | Modelagem da tarefa de complemento em HTA e CTT | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 24/10/2026 | Alinhamento da conferência técnica aos planejamentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

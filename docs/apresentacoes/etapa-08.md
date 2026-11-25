@@ -30,7 +30,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/W6Q3sFknr8w](https://youtu.be/W6Q3sFknr8w)
 - Publicação: 22/11/2026 · Duração: 8 min 47 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-1.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-1.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-1.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-1.md) · [Resultados](../entrega-8/resultados/etapa-1.md)
 
 ??? note "Vídeo — Inspeção da Etapa 1, Grupo 06"
 
@@ -43,7 +43,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/EeMy9lV66Q8](https://youtu.be/EeMy9lV66Q8)
 - Publicação: 22/11/2026 · Duração: 10 min 56 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-2.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-2.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-2.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-2.md) · [Resultados](../entrega-8/resultados/etapa-2.md)
 
 ??? note "Vídeo — Inspeção da Etapa 2, Grupo 06"
 
@@ -69,7 +69,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/WXFuTJWdJW4](https://youtu.be/WXFuTJWdJW4)
 - Publicação: 22/11/2026 · Duração: 17 min 07 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-4.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-4.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-4.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-4.md) · [Resultados](../entrega-8/resultados/etapa-4.md)
 
 ??? note "Vídeo — Inspeção da Etapa 4, Grupo 06"
 
@@ -82,7 +82,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/Xw5uybDebsc](https://youtu.be/Xw5uybDebsc)
 - Publicação: 22/11/2026 · Duração: 17 min 49 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-5.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-5.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-5.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-5.md) · [Resultados](../entrega-8/resultados/etapa-5.md)
 
 ??? note "Vídeo — Inspeção da Etapa 5, Grupo 06"
 
@@ -95,7 +95,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/MIcfm7qtJTg](https://youtu.be/MIcfm7qtJTg)
 - Publicação: 22/11/2026 · Duração: 8 min 33 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-6.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-6.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-6.md) · [Grupo 05 (−1)](../entrega-8/grupo-05/etapa-6.md) · [Resultados](../entrega-8/resultados/etapa-6.md)
 
 ??? note "Vídeo — Inspeção da Etapa 6, Grupo 06"
 
@@ -108,7 +108,7 @@ As listas, as fichas e os gráficos estão na [Etapa 8](../entrega-8/index.md). 
 - Categoria no YouTube: **não listado**
 - Link: [https://youtu.be/g-zICSAWz3A](https://youtu.be/g-zICSAWz3A)
 - Publicação: 22/11/2026 · Duração: 10 min 24 s
-- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-7.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-7.md)
+- Fichas: [Grupo 06](../entrega-8/grupo-06/etapa-7.md) · [Grupo 07 (+1)](../entrega-8/grupo-07/etapa-7.md) · [Resultados](../entrega-8/resultados/etapa-7.md)
 
 ??? note "Vídeo — Inspeção da Etapa 7, Grupo 06"
 
@@ -152,7 +152,8 @@ O Claude (Anthropic) e o Antigravity (Google DeepMind) apoiaram a organização 
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 22/11/2026 | Inclui as sete gravações das sessões de inspeção da Etapa 8 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 23/11/2026 | Inclui a gravação da sessão de inspeção dos artefatos do Grupo 07 (+1) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.2` | 23/11/2026 | Inclui a gravação das inspeções do Grupo 05 (−1 · Etapas 2, 4 e 6) e vincula a ficha da Etapa 3 do Grupo 07 (+1) | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 23/11/2026 | Inclui a gravação do Grupo 05 (−1) e vincula a Etapa 3 do Grupo 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 25/11/2026 | Vincula as páginas de resultados das Etapas 1 a 7 aos vídeos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

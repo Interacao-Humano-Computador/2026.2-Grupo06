@@ -108,7 +108,7 @@ A Tabela 4 registra a versão deste artefato.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 16/11/2026 | Registro da inspeção da Etapa 7 do Grupo 07, com respostas, observações, localizadores e vídeo da reunião | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 16/11/2026 | Registro da inspeção da Etapa 7 do Grupo 07 e vídeo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

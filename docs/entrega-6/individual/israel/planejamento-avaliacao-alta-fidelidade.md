@@ -127,7 +127,7 @@ Manter critérios fixos antes da sessão principal. Interpretar cada problema co
 
 ## Agradecimentos
 
-Claude (Anthropic) apoiou a estruturação e a formatação deste material. Israel Soares de Paiva responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Claude (Anthropic) apoiou a estruturação e a formatação deste material. Israel Soares de Paiva responde pelo conteúdo.
 
 ## Histórico de versão
 

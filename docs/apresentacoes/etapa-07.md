@@ -176,11 +176,7 @@ A Tabela 2 organiza os blocos da apresentação de cerca de 5 minutos com base n
 
 ## Agradecimentos
 
-Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
-
-Na minha apresentação, utilizei o Codex (OpenAI) como apoio à organização da exposição dos resultados. Assumo a responsabilidade pelo conteúdo do meu recorte.
-
-Antigravity e Google Gemini apoiaram na estruturação da sequência e do roteiro de apresentação de Heitor Pinheiro Gonçalves das Chagas, que responde pelo conteúdo do próprio recorte.
+Codex (OpenAI), Grok (xAI), Antigravity e Google Gemini apoiaram a consulta das fontes, a preparação deste material e a organização das sequências e exposições individuais. Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra, Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva e Luís Henrique Arruda Luna respondem pelos respectivos recortes e conteúdos.
 
 ## Histórico de versão
 

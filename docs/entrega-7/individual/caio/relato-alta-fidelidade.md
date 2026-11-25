@@ -146,7 +146,7 @@ A Figura 1 apresenta a fonte da estrutura do relato e da análise conjunta de de
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a organização deste material. A transcrição automática local com Faster-Whisper serviu de apoio à localização das falas; os resultados são apresentados como paráfrases associadas ao vídeo. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a organização deste material. A transcrição automática local com Faster-Whisper serviu de apoio à localização das falas; os resultados são apresentados como paráfrases associadas ao vídeo. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

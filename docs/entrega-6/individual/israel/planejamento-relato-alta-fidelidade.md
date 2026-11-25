@@ -142,7 +142,7 @@ A Tabela 7 detalha a rastreabilidade completa deste planejamento de relato com o
 
 ## Agradecimentos
 
-Este documento foi estruturado por Israel Soares de Paiva com a colaboração do Grupo 06 e apoio de IA na redação e formatação Markdown. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Este documento foi estruturado por Israel Soares de Paiva com a colaboração do Grupo 06 e apoio de IA na redação e formatação Markdown.
 
 ---
 

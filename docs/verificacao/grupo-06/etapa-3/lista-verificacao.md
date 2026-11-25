@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 3
 
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão consolidados na [Lista V1 da Etapa 3](../../listas/etapa-3.md), e os critérios revisados para a Etapa 8 estão na [Lista V2 da Etapa 3](../../../entrega-8/lista-etapa-3.md). Esta página preserva o registro histórico da primeira autoverificação da Etapa 3.
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.

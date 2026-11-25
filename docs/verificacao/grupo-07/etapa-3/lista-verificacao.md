@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 3 (Grupo 07)
 
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão na [Lista V1 da Etapa 3](../../listas/etapa-3.md), e os critérios revisados da etapa encontram-se na [Lista V2 da Etapa 3](../../../entrega-8/lista-etapa-3.md).
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.

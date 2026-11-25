@@ -58,9 +58,7 @@ Marcos do plano: **entrega 03/11 · inspeção 04/11 · apresentação 05/11**. 
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Grok (xAI) apoiou a conferência das falas da avaliação do papel. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
-
-Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+Codex (OpenAI) apoiou a consulta das fontes, a preparação deste material e a integração dos acessos à Etapa 7, e Grok (xAI) apoiou a conferência das falas da avaliação do papel. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

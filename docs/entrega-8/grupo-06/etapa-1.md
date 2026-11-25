@@ -56,6 +56,8 @@ Cada linha vincula o critério vigente da V2 à página publicada e às linhas d
 
 </div>
 
+[Conferir as respostas da autoverificação V1](../conferencia-anterior.md#grupo-06-etapa-1).
+
 ## Acompanhamento
 
 | Achado | Ajuste a registrar | Evidência para encerrar |
@@ -84,6 +86,7 @@ Cada linha vincula o critério vigente da V2 à página publicada e às linhas d
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Registro das 24 respostas e evidências da autoinspeção V2 da Etapa 1 no Grupo 06. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 1. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 25/11/2026 | Vincula a conferência item a item da ficha V1 da Etapa 1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

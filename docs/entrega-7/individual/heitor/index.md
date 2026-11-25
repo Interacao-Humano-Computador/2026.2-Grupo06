@@ -57,7 +57,7 @@ A Tabela 2 organiza os materiais para leitura e conferência deste recorte indiv
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na conferência das minutagens dos vídeos, na estruturação Markdown, na padronização das tabelas e na verificação da aderência aos critérios da Etapa 7. Heitor Pinheiro Gonçalves das Chagas responde integralmente pelo conteúdo e pela condução acadêmica do recorte. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na conferência das minutagens dos vídeos, na estruturação Markdown, na padronização das tabelas e na verificação da aderência aos critérios da Etapa 7. Heitor Pinheiro Gonçalves das Chagas responde integralmente pelo conteúdo e pela condução acadêmica do recorte.
 
 ## Histórico de versão
 
