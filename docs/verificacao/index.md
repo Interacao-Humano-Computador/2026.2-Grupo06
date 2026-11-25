@@ -24,7 +24,7 @@ Esta seção reúne os artefatos de verificação produzidos pelo Grupo 06 ao lo
 
 ## Estrutura
 
-As listas V2 oficiais (Etapas 1 a 7), as reinspeções e a conferência das respostas V1 estão na [Etapa 8](../entrega-8/index.md).
+As listas V2 oficiais (Etapas 1 a 7), as reinspeções e a conferência das respostas V1 estão na [Etapa 8](../entrega-8/index.md). As nove gravações das sessões de inspeção (Grupo 06 por etapa e Grupos 05 e 07 por paridade) estão na [síntese dos resultados V2](../entrega-8/inspecao.md#video-e-roteiro) e na [apresentação da Etapa 8](../apresentacoes/etapa-08.md).
 
 A seção está organizada em dois menus: **Listas de verificação**, com os critérios elaborados para cada entrega, e **Inspeções**, que reúne os três grupos abaixo:
 
@@ -36,7 +36,7 @@ A [lista V1 da Etapa 1](listas/etapa-1.md) reúne os critérios não preenchidos
 
 A [lista V1 da Etapa 2](listas/etapa-2.md) consolida os critérios da segunda entrega, cujas respostas históricas constam na [Autoverificação da Etapa 2](grupo-06/etapa-2/lista-verificacao.md) e na [Inspeção da Etapa 2 do Grupo 05](grupo-05/etapa-2/lista-verificacao.md), atualizados na [Lista V2 da Etapa 2](../entrega-8/lista-etapa-2.md).
 
-A [lista V1 da Etapa 3](listas/etapa-3.md) documenta os critérios da fase de análise de requisitos aplicados na [Autoverificação da Etapa 3](grupo-06/etapa-3/lista-verificacao.md) e na [Inspeção da Etapa 3 do Grupo 07](grupo-07/etapa-3/lista-verificacao.md), com versão revisada na [Lista V2 da Etapa 3](../entrega-8/lista-etapa-3.md).
+A [lista V1 da Etapa 3](listas/etapa-3.md) documenta os critérios da fase de análise de requisitos aplicados na [Autoverificação da Etapa 3](grupo-06/etapa-3/lista-verificacao.md) e na [Inspeção da Etapa 3 do Grupo 07](grupo-07/etapa-3/lista-verificacao.md); a [Lista V2 da Etapa 3](../entrega-8/lista-etapa-3.md), as reinspeções do [Grupo 06](../entrega-8/grupo-06/etapa-3.md) e do [Grupo 07](../entrega-8/grupo-07/etapa-3.md) e os [resultados da Etapa 3](../entrega-8/resultados/etapa-3.md) estão publicados na Etapa 8.
 
 A [lista V1 da Etapa 4](listas/etapa-4.md) preserva os critérios da primeira inspeção, cujas respostas históricas encontram-se na [Autoverificação da Etapa 4](grupo-06/etapa-4/lista-verificacao.md) e na [Inspeção da Etapa 4 do Grupo 05](grupo-05/etapa-4/lista-verificacao.md). A [Lista V2 da Etapa 4](../entrega-8/lista-etapa-4.md) e as reinspeções do [Grupo 06](../entrega-8/grupo-06/etapa-4.md) e do [Grupo 05](../entrega-8/grupo-05/etapa-4.md) estão publicadas na Etapa 8.
 
@@ -67,7 +67,9 @@ O Codex (OpenAI) apoiou a atualização dos acessos às inspeções da Etapa 7.
 | `1.8` | 16/11/2026 | Atualização dos acessos às inspeções da Etapa 7 dos Grupos 06 e 07 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 19/11/2026 | Inclusão da lista não preenchida da Etapa 4 no menu de listas de verificação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 21/11/2026 | Vinculação da lista V1 e das fichas históricas da Etapa 4 à Lista V2 e às reinspeções da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `2.1` | 23/11/2026 | Inclusão das listas V1 não preenchidas das Etapas 1, 2 e 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 22/11/2026 | Inclui o acesso às gravações das inspeções da Etapa 8 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.2` | 23/11/2026 | Vincula a Etapa 3 às reinspeções e resultados da Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.3` | 23/11/2026 | Inclusão das listas V1 não preenchidas das Etapas 1, 2 e 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

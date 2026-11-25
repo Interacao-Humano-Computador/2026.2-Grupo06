@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Resultados e gráficos](../resultados/etapa-1.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 1](../../verificacao/grupo-06/etapa-1/lista-verificacao.md)
+[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Resultados e gráficos](../resultados/etapa-1.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 1](../../verificacao/grupo-06/etapa-1/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-1)
 
 ## Recorte consultado
 
@@ -83,6 +83,7 @@ Cada linha vincula o critério vigente da V2 à página publicada e às linhas d
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Registro das 24 respostas e evidências da autoinspeção V2 da Etapa 1 no Grupo 06. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 1. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

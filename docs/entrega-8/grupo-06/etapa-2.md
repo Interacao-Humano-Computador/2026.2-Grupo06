@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 2](../lista-etapa-2.md) · [Resultados e gráficos](../resultados/etapa-2.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 2](../../verificacao/grupo-06/etapa-2/lista-verificacao.md)
+[Lista V2 da Etapa 2](../lista-etapa-2.md) · [Resultados e gráficos](../resultados/etapa-2.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 2](../../verificacao/grupo-06/etapa-2/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-etapa-2)
 
 ## Recorte consultado
 
@@ -86,6 +86,7 @@ A reinspeção abrange os **6 artefatos coletivos** da Etapa 2 e os **30 artefat
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Registro das 27 respostas e evidências da autoinspeção V2 da Etapa 2 no Grupo 06. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 2. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -89,8 +89,94 @@ O gráfico conta respostas **Incompleto** e **Não** por bloco (122 pendências 
 
 ## Vídeo e roteiro
 
-!!! info "Gravação da reinspeção"
-    Espaço reservado ao vídeo da Etapa 8. A gravação está pendente de inclusão.
+As sessões de inspeção do Grupo 06 foram gravadas por etapa e publicadas no YouTube na categoria **não listado** em 22/11/2026. Os mesmos vídeos registram a inspeção e servem de apresentação da Etapa 8, reunida também em [Apresentações · Etapa 8](../apresentacoes/etapa-08.md). A Tabela 2 liga cada gravação às fichas que ela sustenta.
+
+| Etapa | Vídeo | Duração | Fichas relacionadas |
+| :---: | --- | ---: | --- |
+| [1](#video-etapa-1) | [youtu.be/W6Q3sFknr8w](https://youtu.be/W6Q3sFknr8w) | 8 min 47 s | [Grupo 06](grupo-06/etapa-1.md) · [Grupo 07 (+1)](grupo-07/etapa-1.md) · [Resultados](resultados/etapa-1.md) |
+| [2](#video-etapa-2) | [youtu.be/EeMy9lV66Q8](https://youtu.be/EeMy9lV66Q8) | 10 min 56 s | [Grupo 06](grupo-06/etapa-2.md) · [Grupo 05 (−1)](grupo-05/etapa-2.md) · [Resultados](resultados/etapa-2.md) |
+| [3](#video-etapa-3) | [youtu.be/FojGmm4kSGo](https://youtu.be/FojGmm4kSGo) | 21 min 25 s | [Grupo 06](grupo-06/etapa-3.md) |
+| [4](#video-etapa-4) | [youtu.be/WXFuTJWdJW4](https://youtu.be/WXFuTJWdJW4) | 17 min 07 s | [Grupo 06](grupo-06/etapa-4.md) · [Grupo 05 (−1)](grupo-05/etapa-4.md) · [Resultados](resultados/etapa-4.md) |
+| [5](#video-etapa-5) | [youtu.be/Xw5uybDebsc](https://youtu.be/Xw5uybDebsc) | 17 min 49 s | [Grupo 06](grupo-06/etapa-5.md) · [Grupo 07 (+1)](grupo-07/etapa-5.md) |
+| [6](#video-etapa-6) | [youtu.be/MIcfm7qtJTg](https://youtu.be/MIcfm7qtJTg) | 8 min 33 s | [Grupo 06](grupo-06/etapa-6.md) · [Grupo 05 (−1)](grupo-05/etapa-6.md) · [Resultados](resultados/etapa-6.md) |
+| [7](#video-etapa-7) | [youtu.be/g-zICSAWz3A](https://youtu.be/g-zICSAWz3A) | 10 min 24 s | [Grupo 06](grupo-06/etapa-7.md) · [Grupo 07 (+1)](grupo-07/etapa-7.md) · [Resultados](resultados/etapa-7.md) |
+
+<p class="caption">Tabela 2 — Gravações das sessões de inspeção da Etapa 8.</p>
+<p class="source">Fonte: canal do grupo no YouTube, vídeos não listados publicados em 22/11/2026.</p>
+
+<span id="video-etapa-1"></span>
+
+??? note "Vídeo — Inspeção da Etapa 1, Grupo 06 (8 min 47 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/W6Q3sFknr8w" title="Inspeção da Etapa 1 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-2"></span>
+
+??? note "Vídeo — Inspeção da Etapa 2, Grupo 06 (10 min 56 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/EeMy9lV66Q8" title="Inspeção da Etapa 2 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-3"></span>
+
+??? note "Vídeo — Inspeção da Etapa 3, Grupo 06 (21 min 25 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/FojGmm4kSGo" title="Inspeção da Etapa 3 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-4"></span>
+
+??? note "Vídeo — Inspeção da Etapa 4, Grupo 06 (17 min 07 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/WXFuTJWdJW4" title="Inspeção da Etapa 4 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-5"></span>
+
+??? note "Vídeo — Inspeção da Etapa 5, Grupo 06 (17 min 49 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/Xw5uybDebsc" title="Inspeção da Etapa 5 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-6"></span>
+
+??? note "Vídeo — Inspeção da Etapa 6, Grupo 06 (8 min 33 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/MIcfm7qtJTg" title="Inspeção da Etapa 6 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-etapa-7"></span>
+
+??? note "Vídeo — Inspeção da Etapa 7, Grupo 06 (10 min 24 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/g-zICSAWz3A" title="Inspeção da Etapa 7 — Grupo 06" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-grupo-05"></span>
+
+??? note "Vídeo — Inspeções do Grupo 05 (−1): Etapas 2, 4 e 6 (28 min 37 s)"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/CuolulKrRGE" title="Inspeções da Etapa 8 — Grupo 05 (−1): Etapas 2, 4 e 6" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<span id="video-grupo-07"></span>
+
+??? note "Vídeo — Inspeções do Grupo 07 (+1): Etapas 1, 3, 5 e 7"
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; margin: 1rem 0; height: 0; overflow: hidden;">
+      <iframe loading="lazy" style="position:absolute; inset:0; width:100%; height:100%; border:0;" src="https://www.youtube-nocookie.com/embed/dd04ibyhJ_o" title="Inspeções da Etapa 8 — Grupo 07 (+1): Etapas 1, 3, 5 e 7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+### Roteiro
 
 1. **Abertura.** Apresentar o escopo das fichas consolidadas, com autoinspeção do Grupo 06, inspeção do Grupo 05 (−1) nas etapas pares e do Grupo 07 (+1) nas etapas ímpares. Informar o papel de quem modera, percorre os artefatos e registra as constatações.
 2. **Preparação.** Abrir [E4-09](lista-etapa-4.md#e4-09) e [E6-11](lista-etapa-6.md#e6-11), mostrar os grifos da literatura sobre storyboards de baixa fidelidade e sobre teste-piloto e explicar quais campos sustentam Sim ou Incompleto.
@@ -107,6 +193,7 @@ O gráfico conta respostas **Incompleto** e **Não** por bloco (122 pendências 
 | `1.1` | 19/11/2026 | Organiza os resultados da Etapa 6 e da Etapa 7 em páginas próprias. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 21/11/2026 | Integra os resultados das inspeções V2 das Etapas 1 e 2 (total de 208 respostas em oito fichas) e explicita unidade de contagem, denominador e comparabilidade. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 22/11/2026 | Integra as 80 respostas e os blocos temáticos da Etapa 4 (Grupos 06 e 05) na síntese geral e no gráfico de frequências (total de 288 respostas em dez fichas). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 22/11/2026 | Inclui as sete gravações das sessões de inspeção (Etapas 1 a 7), que também compõem a apresentação da Etapa 8. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

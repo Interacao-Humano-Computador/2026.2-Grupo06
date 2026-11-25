@@ -9,16 +9,17 @@
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Revisão dos 11 critérios de desenvolvimento com base no plano de ensino e indicação da evidência esperada | [Desenvolvimento do projeto](#desenvolvimento-do-projeto) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Formulação dos 19 critérios sobre princípios gerais, metas de usabilidade e guia de estilo, com recortes grifados das fontes | [Conteúdo da disciplina](#conteudo-da-disciplina) |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Definição das regras de julgamento e registro das correspondências entre V1 e V2 | [Como aplicar](#como-aplicar) · [Conferência da lista](#conferencia-da-lista) |
-| Codex (OpenAI) | Apoio à consulta do livro e do plano de ensino, à edição do texto e à preparação dos recortes | [Agradecimentos](index.md#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Aplicação da lista na reinspeção do Grupo 07 (+1) e vinculação dos resultados e gráficos da Etapa 3 | [Resultados e gráficos](resultados/etapa-3.md) · [Grupo 07](grupo-07/etapa-3.md) |
+| Codex (OpenAI) e Antigravity (Google DeepMind) | Apoio à consulta do livro e do plano de ensino, à edição do texto, à preparação dos recortes e aos vínculos de aplicação | [Agradecimentos](index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Autoinspeção do Grupo 06](grupo-06/etapa-3.md) · [Lista V1 da Etapa 3](../verificacao/listas/etapa-3.md) · [Ficha V1 da Etapa 3 · Grupo 06](../verificacao/grupo-06/etapa-3/lista-verificacao.md)
+[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-3.md) · [Autoinspeção do Grupo 06](grupo-06/etapa-3.md) · [Inspeção do Grupo 07 (+1)](grupo-07/etapa-3.md) · [Lista V1 da Etapa 3](../verificacao/listas/etapa-3.md) · [Ficha V1 · Grupo 06](../verificacao/grupo-06/etapa-3/lista-verificacao.md) · [Ficha V1 · Grupo 07](../verificacao/grupo-07/etapa-3/lista-verificacao.md)
 
 ## Como aplicar
 
-Use a mesma redação na autoinspeção do Grupo 06 e nas verificações de conformidade dos artefatos da Etapa 3 (Princípios Gerais, Metas de Usabilidade e Guia de Estilo). A resposta resume a cobertura dos artefatos daquela etapa. Cada item traz a evidência esperada, o vínculo rastreável com a lista antiga (V1) e um recorte da literatura com o trecho relevante da fonte.
+Use a mesma redação na autoinspeção do Grupo 06 e na inspeção externa do Grupo 07 (+1 · PCI Concursos) sobre os artefatos da Etapa 3 (Características da Plataforma, Princípios Gerais, Metas de Usabilidade e Guia de Estilo). A resposta resume a cobertura dos artefatos daquela etapa. Cada item traz a evidência esperada, o vínculo rastreável com a lista antiga (V1) e um recorte da literatura com o trecho relevante da fonte.
 
 - **Sim** quando a evidência atende plenamente à pergunta em todo o recorte aplicável dos documentos da Etapa 3.
 - **Incompleto** quando existe evidência parcial, contraditória ou sem cobertura em todos os artefatos correspondentes.
@@ -42,7 +43,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d01).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d01) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d01).
 
 <div class="etapa8-item" id="d02"></div>
 
@@ -58,7 +59,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d02).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d02) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d02).
 
 <div class="etapa8-item" id="d03"></div>
 
@@ -74,7 +75,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d03).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d03) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d03).
 
 <div class="etapa8-item" id="d04"></div>
 
@@ -90,7 +91,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d04).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d04) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d04).
 
 <div class="etapa8-item" id="d05"></div>
 
@@ -106,7 +107,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d05).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d05) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d05).
 
 <div class="etapa8-item" id="d06"></div>
 
@@ -122,7 +123,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d06).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d06) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d06).
 
 <div class="etapa8-item" id="d07"></div>
 
@@ -138,7 +139,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d07).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d07) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d07).
 
 <div class="etapa8-item" id="d08"></div>
 
@@ -154,7 +155,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d08).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d08) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d08).
 
 <div class="etapa8-item" id="d09"></div>
 
@@ -170,7 +171,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d09).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d09) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d09).
 
 <div class="etapa8-item" id="d10"></div>
 
@@ -186,7 +187,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d10).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d10) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d10).
 
 <div class="etapa8-item" id="d11"></div>
 
@@ -202,7 +203,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 3 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d11).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-d11) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-d11).
 
 ## Conteúdo da disciplina
 
@@ -220,7 +221,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 109. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-01).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-01) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-01).
 
 <div class="etapa8-item" id="e3-02"></div>
 
@@ -236,7 +237,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-02).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-02) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-02).
 
 <div class="etapa8-item" id="e3-03"></div>
 
@@ -252,7 +253,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-03).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-03) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-03).
 
 <div class="etapa8-item" id="e3-04"></div>
 
@@ -268,7 +269,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 105. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-04).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-04) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-04).
 
 <div class="etapa8-item" id="e3-05"></div>
 
@@ -284,7 +285,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 32. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-05).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-05) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-05).
 
 <div class="etapa8-item" id="e3-06"></div>
 
@@ -300,7 +301,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 282. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-06).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-06) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-06).
 
 <div class="etapa8-item" id="e3-07"></div>
 
@@ -316,7 +317,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 283. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-07).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-07) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-07).
 
 <div class="etapa8-item" id="e3-08"></div>
 
@@ -332,7 +333,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 282. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-08).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-08) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-08).
 
 <div class="etapa8-item" id="e3-09"></div>
 
@@ -340,7 +341,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
 
-    **O que conferir.** Na seção de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md#procedimento-de-avaliacao-e-faixas-de-aceitacao), confira se cada indicador possui definição da métrica (tempo, taxa de conclusão, contagem de erros), método de coleta e faixas numéricas de aceitação: inaceitável, aceitável e ideal (Barbosa e Silva, 2010, pp. 105–106).
+    **O que conferir.** Na seção de [Metas de Usabilidade](../entrega-3/metas-usabilidade.md#regras-de-medicao), confira se cada indicador possui definição da métrica (tempo, taxa de conclusão, contagem de erros), método de coleta e faixas numéricas de aceitação: inaceitável, aceitável e ideal (Barbosa e Silva, 2010, pp. 105–106).
 
     **Rastreabilidade na V1.** [E3-C18](../verificacao/listas/etapa-3.md#e3-c18) · operacionalização das metas em três faixas de valores.
 
@@ -348,7 +349,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 106. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-09).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-09) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-09).
 
 <div class="etapa8-item" id="e3-10"></div>
 
@@ -364,7 +365,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 110. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-10).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-10) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-10).
 
 <div class="etapa8-item" id="e3-11"></div>
 
@@ -380,7 +381,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 283. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-11).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-11) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-11).
 
 <div class="etapa8-item" id="e3-12"></div>
 
@@ -396,7 +397,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-12).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-12) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-12).
 
 <div class="etapa8-item" id="e3-13"></div>
 
@@ -412,7 +413,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), pp. 237–238. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-13).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-13) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-13).
 
 <div class="etapa8-item" id="e3-14"></div>
 
@@ -428,7 +429,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 193. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-14).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-14) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-14).
 
 <div class="etapa8-item" id="e3-15"></div>
 
@@ -444,7 +445,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 283. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-15).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-15) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-15).
 
 <div class="etapa8-item" id="e3-16"></div>
 
@@ -460,7 +461,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 247. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-16).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-16) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-16).
 
 <div class="etapa8-item" id="e3-17"></div>
 
@@ -476,7 +477,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 246. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-17).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-17) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-17).
 
 <div class="etapa8-item" id="e3-18"></div>
 
@@ -492,7 +493,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Sales (2026), p. 8 do PDF. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-18).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-18) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-18).
 
 <div class="etapa8-item" id="e3-19"></div>
 
@@ -508,7 +509,7 @@ Na ficha de avaliação, registre grupo, etapa, ID do critério, versão, data, 
 
     <p class="source">Fonte: Barbosa et al. (2021), p. 238. O grifo indica o trecho usado no critério.</p>
 
-    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-19).
+    **Aplicação:** [Grupo 06](grupo-06/etapa-3.md#etapa-3-e3-19) · [Grupo 07](grupo-07/etapa-3.md#etapa-3-e3-19).
 
 ## Conferência da lista
 
@@ -519,7 +520,8 @@ A Lista de Verificação V2 da Etapa 3 preserva integralmente os 11 critérios g
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `2.0` | 19/11/2026 | Criação da lista de verificação expandida V2 da Etapa 3 no padrão da Etapa 8, com correspondência explícita à V1 e recortes bibliográficos. | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.1 | 23/11/2026 | Atualiza os links de rastreabilidade para a Lista V1 da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 23/11/2026 | Vincula a ficha do Grupo 07 (+1) e os resultados da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `2.2` | 23/11/2026 | Atualiza os links de rastreabilidade para a Lista V1 da Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

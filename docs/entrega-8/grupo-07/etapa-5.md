@@ -13,7 +13,7 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 5](../../verificacao/grupo-07/etapa-5/lista-verificacao.md)
+[Lista V2 da Etapa 5](../lista-etapa-5.md) · [Inspeções do grupo](index.md) · [Ficha V1 da Etapa 5](../../verificacao/grupo-07/etapa-5/lista-verificacao.md) · [Gravação da inspeção](../inspecao.md#video-grupo-07)
 
 ## Recorte consultado
 
@@ -98,6 +98,8 @@ O Claude (Anthropic) apoiou a localização das evidências, a contagem das linh
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 22/11/2026 | Reinspeção da Etapa 5 do Grupo 07 com a lista V2, a partir do commit `12913da`. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 23/11/2026 | Aponta para a gravação dedicada das inspeções externas do Grupo 07 (+1). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 

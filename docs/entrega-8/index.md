@@ -35,7 +35,9 @@ A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (E
 - [**Lista V2 da Etapa 7**](lista-etapa-7.md)<br>
   Relato do teste de alta fidelidade, evidências e reprojeto.
 - [**Inspeções e gráficos**](inspecao.md)<br>
-  Respostas por grupo, resultados por etapa e roteiro da gravação.
+  Respostas por grupo, resultados por etapa, gravações das inspeções e roteiro.
+- [**Apresentação da Etapa 8**](../apresentacoes/etapa-08.md)<br>
+  Nove vídeos das sessões de inspeção (sete do Grupo 06 e dois dos Grupos 05 e 07).
 - [**Conferência das respostas V1**](conferencia-anterior.md)<br>
   Cotejo item a item das seis fichas históricas das Etapas 4, 6 e 7.
 
@@ -102,8 +104,9 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 | `1.3` | 21/11/2026 | Integra as listas de verificação V2 das Etapas 1 e 2 e seus vínculos com as fichas V1. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.4` | 21/11/2026 | Integra as quatro fichas V2 e os resultados consolidados das Etapas 1 e 2 (total de 208 respostas em oito fichas). | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 22/11/2026 | Integra com `main`, preservando as listas V2 e fichas das Etapas 3 e 5 ao lado das Etapas 1, 2, 6 e 7. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.6` | 22/11/2026 | Integra a Lista V2. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.7` | 23/11/2026 | Vincula as listas V1 não preenchidas das Etapas 1, 2 e 3. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 22/11/2026 | Integra a Lista V2 e os artefatos da Etapa 4. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 22/11/2026 | Inclui o acesso às gravações das inspeções e à apresentação da Etapa 8. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.8` | 23/11/2026 | Vincula as listas V1 não preenchidas das Etapas 1, 2 e 3. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
