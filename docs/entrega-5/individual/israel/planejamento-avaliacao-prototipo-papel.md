@@ -11,6 +11,8 @@ A Tabela 1 registra as contribuições neste planejamento individual.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Elaboração do planejamento da avaliação pelo framework DECIDE, especificação das tarefas e rastreabilidade | [Conteúdo](#contextualizacao) |
 | Google Gemini | Apoio na estruturação do protocolo, redação e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e alinhamento com a Etapa 5 | [Introdução](#introducao) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Correções da inspeção V2 da Etapa 5: recortes do método, dados fictícios e critérios de conclusão | [Ficha da pessoa e critérios](#ficha-e-criterios) · [Apêndice A](#apendice-a) |
+| Claude (Anthropic) | Apoio à redação das correções da versão 1.2 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no planejamento da avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -38,6 +40,8 @@ Todas as interações ocorrerão em ambiente controlado com dados fictícios. Ne
 **Autor do item:** Israel Soares de Paiva.
 
 A prototipação em papel é um método clássico e eficaz de avaliação formativa de IHC, permitindo inspecionar e refinar o design de interface a baixo custo e em ciclos ágeis (BARBOSA; SILVA, 2010, p. 358–362; NIELSEN, 2003; SNYDER, 2003). O participante manipula representações físicas de telas, menus e cartões móveis desenhados à mão ou impressos, enquanto um dos avaliadores atua como o "computador", trocando as folhas e exibindo mensagens em resposta aos toques e escolhas do usuário.
+
+As Figuras 1 e 2, no [Apêndice A](#apendice-a), trazem os trechos de Barbosa e Silva (2010, p. 358 e 360) que descrevem o método e a divisão entre quem simula o sistema e quem observa o uso.
 
 A organização deste planejamento adota a estrutura metodológica do framework **DECIDE** (BARBOSA; SILVA, 2010, p. 312–313):
 * **D**eterminar os objetivos da avaliação;
@@ -129,9 +133,42 @@ As tarefas a seguir serão apresentadas sequencialmente ao participante, sem ind
 
 * **PP-T1 (Localização do serviço e regras):** *"Você combinou com seus colegas e familiares de fazer uma visita guiada ao Senado Federal. Entre no Portal do Senado, encontre onde se agenda a visita e verifique se há regras específicas de trajes e documentos para o dia."*
 * **PP-T2 (Escolha de modalidade, data e horário):** *"Agora que você viu as regras, inicie o agendamento para 3 pessoas da sua família, consultando o calendário e escolhendo um dia e horário matutino que possua vagas abertas."*
-* **PP-T3 (Preenchimento de dados e acessibilidade):** *"Preencha os dados do responsável pelo grupo (utilize os dados fictícios fornecidos na ficha) e indique que um dos acompanhantes necessita de cadeira de rodas / suporte de mobilidade."*
+* **PP-T3 (Preenchimento de dados e acessibilidade):** *"Preencha os dados do responsável pelo grupo (utilize os dados fictícios fornecidos na ficha da Tabela 5) e indique que um dos acompanhantes necessita de cadeira de rodas / suporte de mobilidade."*
 * **PP-T4 (Revisão e correção de equívoco):** *"Na tela de revisão, confira os dados. Imagine que você percebeu que digitou o telefone com um dígito errado. Corrija o dado e finalize o agendamento."*
 * **PP-T5 (Confirmação e comprovante):** *"Verifique o resultado final do agendamento, anote o código localizador e descubra como você levará o comprovante para a entrada no dia da visita."*
+
+### Ficha da pessoa participante e critérios de conclusão { #ficha-e-criterios }
+
+A Tabela 5 lista os dados fictícios impressos na ficha entregue à pessoa em PP-T3 e PP-T4. Nenhum deles pertence a uma pessoa real.
+
+| Campo | Valor fictício na ficha | Uso |
+| --- | --- | --- |
+| Responsável | Marta Oliveira | PP-T3 |
+| CPF | 000.000.000-00 | PP-T3 |
+| E-mail | marta.oliveira@example.com | PP-T3, PP-T5 |
+| Telefone digitado com erro (cartão M06) | (61) 90000-0001 | PP-T4 |
+| Telefone correto (cartão M07) | (61) 90000-0000 | PP-T4 |
+| Acompanhantes | João Oliveira e Ana Oliveira; Ana usa cadeira de rodas | PP-T2, PP-T3 |
+| Modalidade e quantidade | Individual/Família, 3 pessoas | PP-T2 |
+| Data-alvo | Um dia em verde no calendário de PP-S04, com horários às 9h e às 10h (11h esgotado) | PP-T2 |
+
+<p class="caption">Tabela 5 — Dados fictícios da ficha entregue à pessoa participante.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+A Tabela 6 separa o que fica com a equipe: o estado inicial de cada tarefa e o critério usado para considerá-la concluída.
+
+| Tarefa | Estado inicial (equipe) | Critério de conclusão (equipe) |
+| --- | --- | --- |
+| PP-T1 | PP-S01, página inicial reprojetada | Localiza a entrada do agendamento (card ou busca) e comenta vestimenta e documentos em PP-S02 antes de iniciar |
+| PP-T2 | PP-S03, após “Iniciar Agendamento” | Informa 3 pessoas, interpreta a legenda de PP-S04 e escolhe um dia em verde e um horário matutino com vaga |
+| PP-T3 | PP-S05 em branco | Preenche os dados da ficha e marca o apoio de mobilidade; se avançar sem nome, reage ao cartão PP-X02 e corrige |
+| PP-T4 | PP-S06 com o cartão M06 (telefone errado) | Identifica o erro, usa “Editar”, volta à revisão com os demais dados preservados (M07) e confirma |
+| PP-T5 | PP-S07 após o cartão M08 | Reconhece o código localizador e explica como levará o comprovante (PDF ou e-mail) |
+
+<p class="caption">Tabela 6 — Estado inicial e critério de conclusão de cada tarefa.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+Cada execução é classificada como concluída sem ajuda, concluída com ajuda ou não concluída, com justificativa. Se a pessoa pedir para recomeçar, o operador volta ao estado inicial da tarefa e o observador anota o reinício.
 
 ### Teste-piloto e separação dos dados
 
@@ -146,7 +183,7 @@ O teste-piloto será realizado antes da sessão oficial com um participante de p
 
 ### Cronograma e orçamento
 
-A Tabela 5 detalha o cronograma proposto para a execução na Etapa 6.
+A Tabela 7 detalha o cronograma proposto para a execução na Etapa 6.
 
 | Atividade | Data prevista | Horário |
 | --- | --- | --- |
@@ -158,7 +195,7 @@ A Tabela 5 detalha o cronograma proposto para a execução na Etapa 6.
 | Redação final do relato dos resultados (Etapa 6) | 01/11/2026 | 10h00 – 16h00 |
 | Entrega da Etapa 6 no repositório | 03/11/2026 | Até 23h59 |
 
-<p class="caption">Tabela 5 — Cronograma previsto para a execução da avaliação.</p>
+<p class="caption">Tabela 7 — Cronograma previsto para a execução da avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 **Orçamento:** recursos materiais próprios dos integrantes (papel sulfite, canetas hidrográficas, tesoura, suporte de câmera e computador). Custo financeiro adicional estimado: R$ 0,00.
@@ -183,7 +220,7 @@ Os resultados consolidados alimentarão o [Relato dos resultados do protótipo d
 
 ## Rastreabilidade: das evidências empíricas às telas e tarefas do papel
 
-A Tabela 6 sintetiza a matriz de rastreabilidade bidirecional que conecta as etapas 2, 3, 4 e os relatos empíricos da Etapa 5 às especificações físicas e operacionais do protótipo de papel.
+A Tabela 8 sintetiza a matriz de rastreabilidade bidirecional que conecta as etapas 2, 3, 4 e os relatos empíricos da Etapa 5 às especificações físicas e operacionais do protótipo de papel.
 
 | Origem / Evidência nos Relatos da Etapa 5 | Diretriz / Hipótese Validada | Tela / Cartão no Papel | Tarefa Associada | Pergunta Investigada |
 | --- | --- | :---: | :---: | :---: |
@@ -195,7 +232,7 @@ A Tabela 6 sintetiza a matriz de rastreabilidade bidirecional que conecta as eta
 | **Storyboard Cena 5 / HTA 5.1–5.3:**<br>Edição rápida de telefone sem perda de estado (`01:48` no storyboard; `02:20` na HTA) | **RP04 / AT-P04:** Tela de resumo modular com botão "Editar" por bloco de informação | PP-S06 | PP-T4 | PP-Q5 |
 | **Storyboard Cena 6 / HTA 6.1–6.3:**<br>Insegurança com confirmação simples em tela (`04:18` no storyboard; `06:25` na HTA) | **RP05 / AT-P05:** Código localizador, botão "Baixar PDF" e confirmação por e-mail | PP-S07 | PP-T5 | PP-Q6 |
 
-<p class="caption">Tabela 6 — Rastreabilidade entre artefatos anteriores, achados empíricos e protótipo de papel.</p>
+<p class="caption">Tabela 8 — Rastreabilidade entre artefatos anteriores, achados empíricos e protótipo de papel.</p>
 <p class="source">Fonte: elaboração do autor (2026), articulando as evidências coletadas em 23/10/2026 ao protótipo de papel.</p>
 
 A cadeia metodológica articula-se com os seguintes artefatos de referência:
@@ -206,9 +243,23 @@ A cadeia metodológica articula-se com os seguintes artefatos de referência:
 * [Relato Consolidado da Etapa 5](relato-resultados-etapa5.md), [Relato do Storyboard](relato-storyboard.md) e [Relato da Análise de Tarefas](relato-analise-tarefas.md) (Etapa 5);
 * [Planejamento do Relato do Papel](planejamento-relato-prototipo-papel.md) (Etapa 5/6).
 
+## Apêndice A — Fundamentação { #apendice-a }
+
+??? note "Figura 1 — Prototipação em papel"
+
+    ![Página 358: definição do método de prototipação em papel, papel do avaliador como computador e preparação das telas e peças móveis.](../../../assets/img/entrega-5/referencias/barbosa-papel-p358.png){ loading=lazy }
+    <p class="caption">Figura 1 — Definição e preparação da prototipação em papel.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 358).</p>
+
+??? note "Figura 2 — Operação do sistema e observação"
+
+    ![Página 360: um avaliador simula a interface e outro observa o uso.](../../../assets/img/entrega-5/referencias/barbosa-papel-p360.png){ loading=lazy }
+    <p class="caption">Figura 2 — Papéis e coleta de dados na avaliação em papel.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 360).</p>
+
 ## Agradecimentos
 
-Esta página contou com o apoio do Google Gemini na formatação Markdown, estruturação do protocolo DECIDE e organização das tabelas. A definição dos fluxos e a responsabilidade pelo planejamento são do autor.
+Esta página contou com o apoio do Google Gemini na formatação Markdown, estruturação do protocolo DECIDE e organização das tabelas. O Claude (Anthropic) apoiou a redação das correções da versão 1.2. A definição dos fluxos e a responsabilidade pelo planejamento são do autor.
 
 ## Histórico de versão
 
@@ -216,6 +267,7 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown, estru
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 23/10/2026 | Elaboração inicial do planejamento da avaliação do protótipo de papel para o Agendamento de Visita | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 02/11/2026 | Inclusão de matriz completa de rastreabilidade empírica ligando relatos da Etapa 5 às folhas e tarefas | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/11/2026 | Corrige os achados da inspeção V2 da Etapa 5 (E5-09, E5-11): recortes das p. 358 e 360, dados fictícios da ficha, estados iniciais e critérios de conclusão | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
