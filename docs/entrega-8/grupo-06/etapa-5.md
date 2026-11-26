@@ -8,6 +8,7 @@
 | --- | --- | --- |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Registro das 31 respostas da autoinspeção dos relatos e planejamentos da Etapa 5 | [Critérios e respostas](#etapa-5) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Inventário das versões consultadas e plano de acompanhamento | [Artefatos consultados](#artefatos-consultados) · [Acompanhamento](#acompanhamento) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Reinspeção das correções de 26/11/2026 | [Reinspeção](#reinspecao-das-correcoes-26112026) |
 | Claude (Anthropic) | Apoio à localização das evidências e à edição da ficha | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -112,14 +113,18 @@ Os achados abaixo voltam à pauta na próxima revisão. Use o mesmo ID ao public
 
 | Achado | Ajuste a registrar | Evidência para encerrar |
 | --- | --- | --- |
-| [D02](#etapa-5-d02) Revisão pendente nos planos de Luís | Registrar a revisão de Caio no histórico e remover o aviso “Revisão pendente”. | Nova linha de histórico com revisor e data. |
+| [D02](#etapa-5-d02) Revisão pendente nos planos de Luís | Registrar a revisão de Caio no histórico e remover o aviso “Revisão pendente”. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
 | [D03](#etapa-5-d03) · [D10](#etapa-5-d10) · [D11](#etapa-5-d11) Relatos de Luís | Incluir tabela de contribuição, referências e agradecimentos com a declaração de IA. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
 | [D04](#etapa-5-d04) Tabelas sem legenda | Numerar as tabelas dos relatos de Luís e incluir legenda e fonte. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
-| [D06](#etapa-5-d06) Cronograma executado | Registrar as atividades da Etapa 5 de Caio, Heitor, Israel e Luís. | Uma linha por integrante, com datas reais. |
-| [D07](#etapa-5-d07) Ata da Etapa 5 | Publicar a ata das reuniões da etapa. | Ata 04 no índice, com pauta, presentes e decisões. |
+| [D06](#etapa-5-d06) Cronograma executado | Registrar as atividades da Etapa 5 de Caio, Heitor, Israel e Luís. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [D07](#etapa-5-d07) Ata da Etapa 5 | Publicar a ata das reuniões da etapa. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
 | [E5-02](#etapa-5-e5-02) · [E5-05](#etapa-5-e5-05) Metadados e localizadores de Luís | Conferir data e duração nos vídeos e localizar cada resposta. | Encerrado em 22/11/2026 ([reinspeção](#reinspecao-dos-relatos-de-luis-22112026)). |
-| [E5-09](#etapa-5-e5-09) Recortes do método | Incluir nos planos de Israel e Luís o recorte de Barbosa e Silva (2010, p. 358–360). | Figura com legenda e fonte. |
-| [E5-18](#etapa-5-e5-18) Recorrência na ficha de Israel | Acrescentar o campo de reteste/recorrência. | Coluna “Recorrência” na Tabela 5. |
+| [E5-09](#etapa-5-e5-09) Recortes do método | Incluir nos planos de Israel e Luís o recorte de Barbosa e Silva (2010, p. 358–360). | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [E5-18](#etapa-5-e5-18) Recorrência na ficha de Israel | Acrescentar o campo de reteste/recorrência. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [E5-11](#etapa-5-e5-11) Tarefas de Israel e Luís | Definir dados fictícios, estados iniciais e critérios de conclusão. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [E5-13](#etapa-5-e5-13) Participantes no plano de Luís | Definir quantidade justificada, modalidade, recursos e custo. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [E5-14](#etapa-5-e5-14) Agenda no plano de Luís | Informar data, horário, duração, local, responsáveis, condição de confirmação e piloto. | Corrigido em 26/11/2026; continua **Incompleto** porque o piloto não foi realizado ([reinspeção](#reinspecao-das-correcoes-26112026)). |
+| [E5-20](#etapa-5-e5-20) Rastreabilidade no plano de Luís | Ligar os encaminhamentos dos relatos às telas, tarefas e perguntas do papel. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-26112026)). |
 
 ### Reinspeção dos relatos de Luís · 22/11/2026
 
@@ -137,6 +142,25 @@ Os dois relatos de Luís foram corrigidos no commit [`8e50c63`](https://github.c
 
 Com a correção, os critérios D03, D04, D10, D11, E5-02, E5-05 e E5-06 deixam de ter pendência nos relatos e passariam a **Sim** no agregado do Grupo 06. A contagem oficial acima não foi alterada, para preservar o registro da versão inspecionada.
 
+
+### Reinspeção das correções · 26/11/2026 { #reinspecao-das-correcoes-26112026 }
+
+Os demais achados foram corrigidos em três entregas: o cronograma executado de Bruno Ferreira Dornelas, no commit [`9dce4b0`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/9dce4b0); os planos de Israel e Luís e a Ata 04, no [PR #78](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/pull/78) (commit [`8ef053e`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/8ef053e)); e o registro da revisão dos planos de Luís, no [PR #79](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/pull/79) (commit [`9ac629c`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/9ac629c)). A tabela registra o resultado da reinspeção dos mesmos critérios.
+
+| Critério | Antes | Depois | Evidência na nova versão |
+| --- | :---: | :---: | --- |
+| [D02](#etapa-5-d02) Revisão registrada | Incompleto | Sim | Versão 0.5 do [plano do papel](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/9ac629c/docs/entrega-5/individual/luis/planejamento-avaliacao-prototipo-papel.md) e versão 0.4 do [plano do relato](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/9ac629c/docs/entrega-5/individual/luis/planejamento-relato-prototipo-papel.md), revisadas por Caio Breno de Souza Bezerra e Bruno Ferreira Dornelas; o aviso “Revisão pendente” foi removido |
+| [D06](#etapa-5-d06) Cronograma executado | Incompleto | Sim | Linhas da Etapa 5 de Caio, Israel, Luís e Heitor e da autoverificação, com datas reais ([cronograma](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/9dce4b0/docs/entrega-1/cronograma.md#cronograma-executado), versão 2.10) |
+| [D07](#etapa-5-d07) Ata da Etapa 5 | Não | Sim | [Ata 04](../../atas/ata-04.md): reunião de 25/10/2026, das 20h02 às 20h18, com presentes, pauta, decisões e gravação; os alinhamentos presenciais não têm registro, e a ata diz isso |
+| [E5-09](#etapa-5-e5-09) Recorte do método | Incompleto | Sim | Apêndice A com as Figuras das p. 358 e 360 nos planos do papel de [Israel](../../entrega-5/individual/israel/planejamento-avaliacao-prototipo-papel.md#apendice-a) e [Luís](../../entrega-5/individual/luis/planejamento-avaliacao-prototipo-papel.md#apendice-a) |
+| [E5-11](#etapa-5-e5-11) Tarefas e critérios | Incompleto | Sim | Israel: Tabelas 5 e 6, com dados fictícios da ficha, estado inicial e critério de conclusão. Luís: Tabela 5, separando o que é entregue à pessoa do que fica com a equipe, e regra de reinício |
+| [E5-13](#etapa-5-e5-13) Participantes e custo | Incompleto | Sim | Plano de Luís: perfil, recrutamento, uma pessoa na sessão e uma no piloto (com justificativa), modalidade, recursos e custo de R$ 0,00 |
+| [E5-14](#etapa-5-e5-14) Agenda | Incompleto | Incompleto | Plano de Luís, Tabela 6: data, horário, duração, local, responsáveis e condição de confirmação. A agenda foi registrada depois da sessão e o piloto não foi realizado |
+| [E5-18](#etapa-5-e5-18) Recorrência | Incompleto | Sim | Plano do relato de Israel: coluna “Recorrência” na Tabela 5 e definição dos estados corrigido, pendente e não retestado |
+| [E5-20](#etapa-5-e5-20) Rastreabilidade | Incompleto | Sim | Plano de Luís, Tabela 7: encaminhamentos SB-E e AT-E → decisão → tela → tarefa → pergunta |
+
+Com as duas reinspeções, só o E5-14 continua com pendência. A contagem oficial acima não foi alterada, para preservar o registro da versão inspecionada.
+
 ## Agradecimentos
 
 O Claude (Anthropic) apoiou a localização das evidências, a contagem das linhas e a edição da ficha. Os julgamentos são de responsabilidade de Luís Henrique Arruda Luna.
@@ -150,6 +174,7 @@ O Claude (Anthropic) apoiou a localização das evidências, a contagem das linh
 | `1.2` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 5. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 25/11/2026 | Vincula os resultados da Etapa 5 e a conferência item a item da ficha V1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.4` | 25/11/2026 | Explicita artefatos, versões e vídeo recolhível. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.5` | 26/11/2026 | Registra a reinspeção das correções de D02, D06, D07, E5-09, E5-11, E5-13, E5-14, E5-18 e E5-20. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 
