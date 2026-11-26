@@ -182,6 +182,7 @@ A Tabela 7 liga os encaminhamentos dos relatos do [storyboard](relato-storyboard
 | 0.2 | 24/10/2026 | Especifica telas, cartões e transições do protótipo de papel | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.3 | 03/11/2026 | Aponta para o relato da sessão realizada, preservando o plano | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | 0.4 | 26/11/2026 | Corrige os achados da inspeção V2 da Etapa 5 (E5-09, E5-11, E5-13, E5-14, E5-20): recortes do método, tarefas com dados e critérios, participantes, custo, agenda e matriz de rastreabilidade | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| 0.5 | 26/11/2026 | Registra a revisão de Caio Breno de Souza Bezerra e Bruno Ferreira Dornelas e remove o aviso de revisão pendente (achado D02 da inspeção V2) | Luís Henrique Arruda Luna | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) e [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
@@ -211,4 +212,4 @@ O Codex (OpenAI) apoiou a organização e a redação inicial do plano. O Claude
 
 ## Revisão
 
-Revisor: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev). Revisão pendente.
+Revisores: [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) e [Bruno Ferreira Dornelas](https://github.com/brunnf). Revisão registrada em 26/11/2026, na versão 0.5.
