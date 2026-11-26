@@ -33,7 +33,7 @@ Esta entrega reúne os resultados da avaliação de alta fidelidade de **complem
 
 O [relato consolidado](relato-alta-fidelidade.md) apresenta objetivos e escopo, condições efetivas das sessões sobre o protótipo HTML congelado em `10/11/2026` (`commit a389cd0`, executado no Microsoft Edge), ausência de piloto, diferenças em relação ao plano original, desempenho por participante e tarefa (`x/N` com `N = 3`), respostas às sete perguntas de avaliação, continuidade com o protótipo de papel e matriz de problemas (`AF-B01` a `AF-B04`). A página de [vídeos e evidências](evidencias.md) reúne os players recolhíveis dos seis vídeos não listados e os localizadores de cada sessão.
 
-Participaram três estudantes de engenharia (20 a 21 anos), com moderação de Bruno Ferreira e observação presencial de Caio Breno, mediante autorização para participação, gravação e divulgação dos vídeos. Os três concluíram **sem ajuda** o envio do complemento (`3/3`) e a decisão sobre o ajuste (`3/3`), e percorreram **com mediação de cenário/simulação** a busca da ideia (`3/3`) e o acompanhamento (`3/3`), atribuindo notas globais de **4/5**, **5/5** e **4,5/5**. As quatro melhorias propostas — lideradas pelo esclarecimento do caráter consultivo do encaminhamento à CDH (`AF-B01`, prioridade alta) — permanecem documentadas como propostas para próxima iteração, sem implementação ou reteste nesta etapa.
+Participaram três estudantes de engenharia (20 a 21 anos), com moderação de Bruno Ferreira e observação presencial de Caio Breno, mediante autorização para participação, gravação e divulgação dos vídeos ([TCLE Participante 1](../../../assets/docs/tcle/tcle-bruno-etapa7-P1-assinado.pdf) · [TCLE Participante 3](../../../assets/docs/tcle/tcle-bruno-etapa7-P3-assinado.pdf)). Os três concluíram **sem ajuda** o envio do complemento (`3/3`) e a decisão sobre o ajuste (`3/3`), e percorreram **com mediação de cenário/simulação** a busca da ideia (`3/3`) e o acompanhamento (`3/3`), atribuindo notas globais de **4/5**, **5/5** e **4,5/5**. As quatro melhorias propostas — lideradas pelo esclarecimento do caráter consultivo do encaminhamento à CDH (`AF-B01`, prioridade alta) — permanecem documentadas como propostas para próxima iteração, sem implementação ou reteste nesta etapa.
 
 ## Apresentação
 
@@ -68,6 +68,7 @@ A Tabela 2 registra o histórico de versões desta página.
 | `1.13` | 15/11/2026 | Inclusão do vídeo de apresentação individual | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.14` | 15/11/2026 | Acesso direto ao protótipo e chamada do histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.15` | 25/11/2026 | Revisão editorial da síntese, referência ao commit congelado e duração da apresentação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.16` | 26/11/2026 | Vincula os TCLEs assinados dos Participantes 1 e 3 na síntese da entrega | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

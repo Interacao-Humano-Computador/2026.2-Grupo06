@@ -21,7 +21,7 @@ Esta página reúne os seis registros audiovisuais das **três sessões presenci
 [Voltar ao relato consolidado](relato-alta-fidelidade.md){ .md-button .md-button--primary }
 [Abrir protótipo avaliado (`commit a389cd0`)](../../../prototipos/bruno/alta-fidelidade/index.html){ .md-button }
 
-**Condições da coleta:** realizada em **11/11/2026, por volta das 9h**, no contêiner da EJS (UnB Gama), com moderação de Bruno Ferreira Dornelas e observação de Caio Breno de Souza Bezerra, sem teste-piloto prévio. Participaram três estudantes de engenharia (20 a 21 anos), utilizando a mesma versão HTML congelada em 10/11/2026 no Microsoft Edge. Todos os vídeos estão publicados no YouTube na categoria **não listado**, com autorização expressa dos três participantes para participação, gravação e divulgação acadêmica (termos sob guarda privada).
+**Condições da coleta:** realizada em **11/11/2026, por volta das 9h**, no contêiner da EJS (UnB Gama), com moderação de Bruno Ferreira Dornelas e observação de Caio Breno de Souza Bezerra, sem teste-piloto prévio. Participaram três estudantes de engenharia (20 a 21 anos), utilizando a mesma versão HTML congelada em 10/11/2026 no Microsoft Edge. Todos os vídeos estão publicados no YouTube na categoria **não listado**, com autorização expressa dos três participantes para participação, gravação e divulgação acadêmica ([TCLE Participante 1](../../../assets/docs/tcle/tcle-bruno-etapa7-P1-assinado.pdf) e [TCLE Participante 3](../../../assets/docs/tcle/tcle-bruno-etapa7-P3-assinado.pdf); demais registros sob guarda privada).
 
 ## Inventário e como consultar
 
@@ -29,12 +29,12 @@ A Tabela 2 identifica os seis vídeos da amostra principal. Como as capturas de 
 
 | Participante | Perspectiva | Acesso (YouTube — não listado) | Duração | Consentimento e divulgação |
 | --- | --- | --- | :---: | --- |
-| Participante 1 | Tela | [Assistir à gravação de tela](https://youtu.be/8syZ8h5umsc) | 6min40s | Participação, gravação e divulgação autorizadas |
-| Participante 1 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/bUN1iqRsDHU) | 6min39s | Participação, gravação e divulgação autorizadas |
+| Participante 1 | Tela | [Assistir à gravação de tela](https://youtu.be/8syZ8h5umsc) | 6min40s | Autorizado ([TCLE assinado](../../../assets/docs/tcle/tcle-bruno-etapa7-P1-assinado.pdf)) |
+| Participante 1 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/bUN1iqRsDHU) | 6min39s | Autorizado ([TCLE assinado](../../../assets/docs/tcle/tcle-bruno-etapa7-P1-assinado.pdf)) |
 | Participante 2 | Tela | [Assistir à gravação de tela](https://youtu.be/MOw51y1hty0) | 6min10s | Participação, gravação e divulgação autorizadas |
 | Participante 2 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/pkKRI0aiClY) | 6min11s | Participação, gravação e divulgação autorizadas |
-| Participante 3 | Tela | [Assistir à gravação de tela](https://youtu.be/bbDlreTH3uw) | 7min38s | Participação, gravação e divulgação autorizadas |
-| Participante 3 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/Sd4FNAAoh3Q) | 7min33s | Participação, gravação e divulgação autorizadas |
+| Participante 3 | Tela | [Assistir à gravação de tela](https://youtu.be/bbDlreTH3uw) | 7min38s | Autorizado ([TCLE assinado](../../../assets/docs/tcle/tcle-bruno-etapa7-P3-assinado.pdf)) |
+| Participante 3 | Ambiente | [Assistir à gravação do ambiente](https://youtu.be/Sd4FNAAoh3Q) | 7min33s | Autorizado ([TCLE assinado](../../../assets/docs/tcle/tcle-bruno-etapa7-P3-assinado.pdf)) |
 
 <p class="caption">Tabela 2 — Inventário dos seis vídeos das sessões presenciais.</p>
 <p class="source">Fonte: gravações da coleta presencial realizada em 11/11/2026.</p>
@@ -196,6 +196,7 @@ A Tabela 6 registra o histórico de versões desta página de evidências.
 | `1.10` | 15/11/2026 | Ajuste descritivo dos dados da coleta | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.11` | 15/11/2026 | Ajuste nas chamadas de tabelas, vídeos não listados e protótipo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.12` | 25/11/2026 | Unificação das tabelas por participante, players recolhíveis e alinhamento das referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.13` | 26/11/2026 | Vincula na Tabela 2 os PDFs dos TCLEs assinados dos Participantes 1 e 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

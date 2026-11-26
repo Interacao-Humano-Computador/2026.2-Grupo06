@@ -57,7 +57,7 @@ Foram conduzidas três sessões individuais presenciais em **11/11/2026, por vol
 | Ambiente e navegador | Notebook (com mouse externo na sessão 2) executando o protótipo em HTML no Microsoft Edge |
 | Versão avaliada e congelamento | Código HTML congelado em **10/11/2026** no [commit `a389cd0`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/a389cd0b5afb5006efdb691cbe9d58e7df151052/docs/prototipos/bruno/alta-fidelidade), idêntico ao [protótipo navegável publicado](../../../prototipos/bruno/alta-fidelidade/index.html), sem alterações entre sessões ou após a coleta |
 | Duração das gravações | Participante 1: tela 6min40s / ambiente 6min39s · Participante 2: tela 6min10s / ambiente 6min11s · Participante 3: tela 7min38s / ambiente 7min33s |
-| Consentimento ético | Os três participantes autorizaram expressamente a participação, a gravação de tela e ambiente e a divulgação pública dos vídeos como não listados; termos sob guarda privada |
+| Consentimento ético | Os três participantes autorizaram expressamente a participação, a gravação de tela e ambiente e a divulgação pública dos vídeos como não listados ([TCLE Participante 1](../../../assets/docs/tcle/tcle-bruno-etapa7-P1-assinado.pdf) · [TCLE Participante 3](../../../assets/docs/tcle/tcle-bruno-etapa7-P3-assinado.pdf); demais registros sob guarda privada) |
 | Teste-piloto | Não realizado, por esquecimento; nenhum dado de ensaio compõe a amostra |
 
 <p class="caption">Tabela 2 — Pessoas, material avaliado e condições efetivas das sessões.</p>
@@ -225,6 +225,7 @@ A Tabela 9 registra o histórico de versões deste relato.
 | `1.14` | 15/11/2026 | Ajuste nas chamadas de tabelas, contagens e link do protótipo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.15` | 15/11/2026 | Identificação da versão testada e vínculo com o repositório | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.16` | 25/11/2026 | Consolidação de tabelas redundantes, data de congelamento do commit e revisão editorial | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.17` | 26/11/2026 | Vincula na Tabela 2 os PDFs dos TCLEs assinados dos Participantes 1 e 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 9 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
