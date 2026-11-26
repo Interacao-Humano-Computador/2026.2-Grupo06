@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Visite o Senado · Protótipo acadêmico</title>
+<meta name="description" content="Protótipo de alta fidelidade (IHC, UnB). Agendamento de visita. Dados fictícios, sem vínculo oficial.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="pular" href="#app">Ir para o conteúdo</a>
+
+<!-- Banner, cabeçalho, busca e menu: montados pelo app.js a partir do model.js -->
+<div id="topo"></div>
+
+<!-- Telas: início, programa, passos 1 a 5. Trocadas pelo app.js -->
+<main id="app" tabindex="-1"></main>
+
+<!-- Rodapé -->
+<footer id="rodape" class="rodape"></footer>
+
+<!-- Janelas (comprovante, alterar/cancelar) -->
+<div id="janela"></div>
+
+<!-- Aviso temporário (leitores de tela também anunciam) -->
+<div id="aviso" class="aviso" role="status" aria-live="polite"></div>
+
+<!-- A ordem importa: o model.js precisa carregar antes do app.js -->
+<script src="model.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

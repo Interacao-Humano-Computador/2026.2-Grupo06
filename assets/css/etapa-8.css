@@ -1,0 +1,168 @@
+.md-typeset .etapa8-acessos > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: .7rem;
+  padding: 0;
+  margin: 1rem 0 1.5rem;
+  list-style: none;
+}
+
+.md-typeset .etapa8-acessos > ul > li {
+  padding: .8rem .9rem;
+  margin: 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .45rem;
+  background: var(--md-default-bg-color);
+}
+
+.etapa8-acessos a:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: .18rem;
+}
+
+.v2-sim {
+  --v2-fill: #17684b;
+  --v2-ink: #fff;
+}
+
+.v2-incompleto {
+  --v2-fill: #ffda84;
+  --v2-ink: #4b3203;
+}
+
+.v2-nao {
+  --v2-fill: #a1313c;
+  --v2-ink: #fff;
+}
+
+.v2-status {
+  display: inline-block;
+  padding: .14rem .36rem;
+  border-radius: .25rem;
+  background: var(--v2-fill);
+  color: var(--v2-ink);
+  font-size: .76rem;
+  font-weight: 650;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+.v2-legenda {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+}
+
+.v2-grafico {
+  display: grid;
+  gap: .5rem;
+  margin: 0 0 1rem;
+  padding: .8rem .9rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .45rem;
+}
+
+.v2-barra-linha {
+  display: grid;
+  grid-template-columns: minmax(8.5rem, 1fr) minmax(0, 3fr);
+  gap: .65rem;
+  align-items: center;
+  font-size: .85rem;
+}
+
+.v2-barra-linha > a {
+  width: fit-content;
+  font-weight: 600;
+}
+
+.v2-escala {
+  overflow: hidden;
+  border-radius: .3rem;
+  background: var(--md-default-fg-color--lightest);
+}
+
+.v2-partes {
+  display: flex;
+  min-height: 1.7rem;
+}
+
+.v2-parte {
+  display: grid;
+  flex: 0 0 calc(100% * var(--qtd) / var(--total));
+  place-items: center;
+  background: var(--v2-fill);
+  color: var(--v2-ink);
+  font-size: .75rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+
+.md-typeset .etapa8-item:target + details.question {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+
+.md-typeset tr:has(> td > span:target) {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: -2px;
+}
+
+.md-typeset .etapa8-resultados table,
+.md-typeset .etapa8-historico table {
+  min-width: 33rem;
+  line-height: 1.5;
+}
+
+.etapa8-resultados th:first-child {
+  width: 5rem;
+}
+
+.etapa8-resultados th:nth-child(2) {
+  width: 6rem;
+}
+
+.etapa8-resultados th:nth-child(4) {
+  width: 32%;
+}
+
+.md-typeset .ihc-table--comparison table {
+  min-width: 34rem;
+}
+
+.ihc-table--comparison th:first-child {
+  width: 23%;
+}
+
+.ihc-table--comparison th:nth-child(2),
+.ihc-table--comparison th:nth-child(3) {
+  width: 6rem;
+}
+
+.etapa8-historico th:first-child {
+  width: 6rem;
+}
+
+.etapa8-historico th:nth-child(2),
+.etapa8-historico th:nth-child(3) {
+  width: 7rem;
+}
+
+.etapa8-evidencia img {
+  display: block;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .3rem;
+}
+
+@media (max-width: 32rem) {
+  .v2-barra-linha {
+    grid-template-columns: 1fr;
+    gap: .22rem;
+  }
+}
+
+@media (forced-colors: active) {
+  .v2-parte,
+  .v2-status {
+    border: 1px solid CanvasText;
+  }
+}

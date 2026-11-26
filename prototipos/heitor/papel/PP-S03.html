@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>PP-S03 — Painel de Participação (Protótipo de Papel)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="nav-bar no-print">
+    <div>
+      <strong>PP-S03 — Painel de Participação</strong> |
+      <a href="PP-S02.html">&laquo; Anterior (PP-S02)</a>
+      <a href="index.html">Índice</a>
+      <a href="PP-S04.html">Próxima (PP-S04) &raquo;</a>
+    </div>
+    <div>Gabarito com medidas em cm para desenhar à régua na folha A4 Paisagem (29,7 × 21,0 cm)</div>
+  </nav>
+
+  <section class="sheet">
+    <!-- BARRA DE MEDIDA EXTERNA DA MOLDURA -->
+    <div class="frame-ruler-bar">
+      <span>&larr; MOLDURA EXTERNA: 26,5 × 15,0 cm | Coluna Esquerda: 12,0 cm larg. (idêntica à PP-S02) | Coluna Direita: 13,0 cm larg. &rarr;</span>
+      <span>FOLHA: PP-S03</span>
+    </div>
+
+    <!-- MOLDURA DA TELA (26,5 x 15,0 cm) -->
+    <div class="wireframe-canvas">
+      <div class="top-a11y">
+        <span><span class="num">①</span> Acessibilidade · VLibras · Contraste · A+ A− <span class="ruler-dim">↕ 0,8 cm</span></span>
+        <span>e-Cidadania</span>
+      </div>
+
+      <header class="main-header">
+        <div class="brand-box"><span class="num">②</span> SENADO <span class="ruler-dim">3,0 × 1,0 cm</span></div>
+        <div class="header-search">
+          <span>Buscar no portal... <span class="ruler-dim">11,0 × 1,0 cm</span></span>
+          <strong>[Buscar]</strong>
+        </div>
+        <span><span class="num">③</span> Início &rsaquo; Eventos Interativos &rsaquo; <strong>Audiência CRA — Participar</strong> <span class="ruler-dim">↕ Total cabeçalho: 2,5 cm</span></span>
+      </header>
+
+      <main class="content-area">
+        <div style="border-bottom: 2px solid #000; padding-bottom: 4px; font-weight: bold; font-size: 14px;">
+          <span class="badge badge-live">● AO VIVO</span>
+          Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+          <span class="ruler-dim">↕ Faixa de título: 1,0 cm alt.</span>
+        </div>
+
+        <!-- 2 Colunas idênticas à PP-S02 -->
+        <div class="grid-2col">
+          <!-- Coluna Esquerda (mesma posição) -->
+          <div style="display: flex; flex-direction: column; justify-content: space-between; gap: 8px;">
+            <div class="video-box">
+              <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+                <line x1="0" y1="0" x2="100" y2="100" stroke="#000" stroke-width="1.5" />
+                <line x1="100" y1="0" x2="0" y2="100" stroke="#000" stroke-width="1.5" />
+              </svg>
+              <div class="video-caption">
+                <span class="num">④</span> ● AO VIVO — VÍDEO DA AUDIÊNCIA <span class="ruler-dim">12,0 × 4,8 cm</span>
+              </div>
+            </div>
+
+            <div class="card" style="flex: 1; justify-content: center;">
+              <div style="font-weight: bold; border-bottom: 1px solid #000; padding-bottom: 2px;">
+                Mesa da CRA (Referência): <span class="ruler-dim">12,0 × 4,5 cm</span>
+              </div>
+              <p style="font-size: 12px;">
+                • Sen. Carlos Silva — Relator (Senador responsável pelo parecer)<br>
+                • Sen. Marcos Souza — Presidente da CRA<br>
+                • Dra. Helena Costa — Convidada (MDA)
+              </p>
+            </div>
+          </div>
+
+          <!-- Coluna Direita: Painel de Participação -->
+          <div class="card card-highlight" style="justify-content: space-between; padding: 10px;">
+            <div>
+              <div style="font-weight: bold; font-size: 14px; border-bottom: 2px solid #000; padding-bottom: 4px; margin-bottom: 8px;">
+                PAINEL DE PARTICIPAÇÃO <span class="ruler-dim">Quadro direito: 13,0 × 10,0 cm</span>
+              </div>
+
+              <!-- Escolha obrigatória ANTES do campo de texto -->
+              <div class="field-group">
+                <label class="field-label"><span class="num">⑤</span> Tipo de manifestação * (obrigatório antes de digitar)</label>
+                <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 4px;">
+                  <div class="input-box">
+                    <strong>( &nbsp; ) Comentário geral</strong>
+                    <span class="ruler-dim">11,0 × 1,1 cm</span>
+                  </div>
+                  <div class="input-box">
+                    <strong>( &nbsp; ) Pergunta a Orador</strong>
+                    <span class="ruler-dim">11,0 × 1,1 cm</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Campo de texto bloqueado/cinza -->
+              <div class="field-group" style="margin-top: 10px;">
+                <label class="field-label"><span class="num">⑥</span> Texto da manifestação <span class="ruler-dim">Caixa bloqueada: 11,0 × 2,5 cm</span></label>
+                <div class="textarea-disabled">
+                  Escolha o tipo para começar
+                </div>
+              </div>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+              <span class="btn-secondary">Voltar (2,8×1,0 cm)</span>
+              <span style="border: 2px dashed #000; padding: 5px 14px; color: #333;">
+                <span class="num">⑦</span> Revisar (bloqueado — 4,0×1,0 cm)
+              </span>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <footer class="sheet-footer">
+      <div class="sheet-footer-top">
+        <span>ID: PP-S03 — Painel de participação</span>
+        <span>Hipótese / HTA: RP02; HTA 2.1–2.2 (Ponto Crítico ⚠) · Achados SB-P02, AT-R02 · Tarefa T2</span>
+      </div>
+      <div class="draw-notes">
+        <strong>Gabarito de régua:</strong> Decalque o cabeçalho (<code>2,5 cm</code>) e a coluna esquerda (<code>12,0 cm</code>) da PP-S02. Na direita (<code>13,0 × 10,0 cm</code>): desenhe 2 caixas de opção de <code>11,0 × 1,1 cm</code> em cima e 1 caixa tracejada/hachurada de <code>11,0 × 2,5 cm</code> embaixo.
+      </div>
+    </footer>
+  </section>
+</body>
+</html>

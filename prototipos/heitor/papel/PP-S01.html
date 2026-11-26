@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>PP-S01 — Eventos Interativos (Protótipo de Papel)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="nav-bar no-print">
+    <div>
+      <strong>PP-S01 — Eventos Interativos</strong> |
+      <a href="index.html">Índice</a>
+      <a href="PP-S02.html">Próxima (PP-S02) &raquo;</a>
+    </div>
+    <div>Gabarito com medidas em cm para desenhar à régua na folha A4 Paisagem (29,7 × 21,0 cm)</div>
+  </nav>
+
+  <section class="sheet">
+    <!-- BARRA DE MEDIDA EXTERNA DA MOLDURA -->
+    <div class="frame-ruler-bar">
+      <span>&larr; MOLDURA EXTERNA DA TELA: 26,5 cm (largura) × 15,0 cm (altura) — Margem de 1,5 cm da borda da folha A4 &rarr;</span>
+      <span>FOLHA: PP-S01</span>
+    </div>
+
+    <!-- MOLDURA DA TELA (26,5 x 15,0 cm) -->
+    <div class="wireframe-canvas">
+      <!-- Cabeçalho padrão (2,5 cm no total) -->
+      <div class="top-a11y">
+        <span><span class="num">①</span> Acessibilidade · VLibras · Contraste · A+ A− <span class="ruler-dim">↕ Faixa 1: 0,8 cm alt.</span></span>
+        <span>e-Cidadania</span>
+      </div>
+
+      <header class="main-header">
+        <div class="brand-box"><span class="num">②</span> SENADO <span class="ruler-dim">3,0 × 1,0 cm</span></div>
+        <div class="header-search">
+          <span>Buscar no portal... <span class="ruler-dim">11,0 × 1,0 cm</span></span>
+          <strong>[Buscar]</strong>
+        </div>
+        <span><span class="num">③</span> Início &rsaquo; Participe &rsaquo; <strong>Eventos Interativos</strong> <span class="ruler-dim">↕ Faixa 2: 1,7 cm alt. (Total cabeçalho: 2,5 cm)</span></span>
+      </header>
+
+      <main class="content-area">
+        <!-- Linha de Busca e Filtros (RP01 / SB-P01) -->
+        <div style="display: grid; grid-template-columns: 1fr 65mm 95mm; gap: 8px; align-items: end; border-bottom: 2px solid #000; padding-bottom: 8px;">
+          <div class="field-group">
+            <label class="field-label"><span class="num">④</span> Buscar audiência ou projeto <span class="ruler-dim">↔ 8,5 × 1,1 cm</span></label>
+            <div class="input-box">
+              <span>PL 1215/2025...</span>
+              <strong>[Buscar]</strong>
+            </div>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label"><span class="num">⑤</span> Situação <span class="ruler-dim">↔ 6,5 × 1,1 cm</span></label>
+            <div class="select-box">
+              <strong>Em andamento</strong>
+              <span>▾</span>
+            </div>
+          </div>
+
+          <div class="field-group">
+            <label class="field-label"><span class="num">⑥</span> Comissão <span class="ruler-dim">↔ 9,5 × 1,1 cm</span></label>
+            <div class="select-box">
+              <strong>CRA — Agricultura e Reforma Agrária</strong>
+              <span>▾</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3 Cartões: 1 AO VIVO + 2 Distratores -->
+        <div style="display: flex; flex-direction: column; justify-content: space-between; flex: 1; gap: 8px;">
+          <!-- Cartão 1: AO VIVO (Principal) -->
+          <div class="card card-highlight" style="flex-direction: row; justify-content: space-between; align-items: center; padding: 10px;">
+            <div style="display: flex; flex-direction: column; gap: 4px;">
+              <div>
+                <span class="num">⑦</span>
+                <span class="badge badge-live">● AO VIVO (2,5×0,7 cm)</span>
+                <span style="margin-left: 6px; font-weight: bold;">CRA — Agricultura e Reforma Agrária</span>
+                <span class="ruler-dim">↔ Cartão Principal: 25,0 × 3,2 cm (borda 3px)</span>
+              </div>
+              <div style="font-size: 15px; font-weight: bold;">
+                Audiência Pública CRA — PL 1215/2025 (crédito emergencial e agricultura familiar)
+              </div>
+            </div>
+            <div>
+              <span class="num">⑧</span>
+              <span class="btn-primary">Entrar na sala (4,2×1,2 cm)</span>
+            </div>
+          </div>
+
+          <!-- Cartão 2: Distrator (Agendada) -->
+          <div class="card card-distractor" style="flex-direction: row; justify-content: space-between; align-items: center;">
+            <div>
+              <span class="num">⑨</span>
+              <span class="badge">Amanhã · 10h</span>
+              <strong>Audiência Pública CE — PL 3410/2025 (Internet em escolas rurais)</strong>
+              <span class="ruler-dim">↔ Distrator 1: 25,0 × 1,8 cm (tracejado)</span>
+            </div>
+            <span class="btn-secondary">Ver pauta (3,0×1,0 cm)</span>
+          </div>
+
+          <!-- Cartão 3: Distrator (Encerrada) -->
+          <div class="card card-distractor" style="flex-direction: row; justify-content: space-between; align-items: center;">
+            <div>
+              <span class="badge">Encerrada</span>
+              <strong>Audiência Pública CAS — Atendimento prioritário no SUS</strong>
+              <span class="ruler-dim">↔ Distrator 2: 25,0 × 1,8 cm (tracejado)</span>
+            </div>
+            <span class="btn-secondary">Ver vídeo (3,0×1,0 cm)</span>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <!-- RODAPÉ DE APOIO AO DESENHO -->
+    <footer class="sheet-footer">
+      <div class="sheet-footer-top">
+        <span>ID: PP-S01 — Eventos Interativos</span>
+        <span>Hipótese / HTA: RP01; HTA 1.1–1.2 · Achados SB-P01, AT-R01 · Tarefa T1 (Início)</span>
+      </div>
+      <div class="draw-notes">
+        <strong>Gabarito de régua (de cima para baixo):</strong> Moldura externa <code>26,5 × 15,0 cm</code> | Cabeçalho <code>2,5 cm</code> do topo | Faixa de filtros <code>2,2 cm</code> de altura (3 caixas de <code>8,5 cm</code>, <code>6,5 cm</code> e <code>9,5 cm</code>) | Cartão AO VIVO <code>25,0 × 3,2 cm</code> | 2 cartões distratores <code>25,0 × 1,8 cm</code> cada.
+      </div>
+    </footer>
+  </section>
+</body>
+</html>
