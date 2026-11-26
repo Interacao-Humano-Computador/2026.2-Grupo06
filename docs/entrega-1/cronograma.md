@@ -330,6 +330,7 @@ A Tabela 11 registra as atividades efetivamente realizadas, com suas datas e res
 | Preparação das listas de inspeção da Etapa 4 dos Grupos 06 e 05 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Listas dos [Grupos 06](../verificacao/grupo-06/etapa-4/lista-verificacao.md) e [05](../verificacao/grupo-05/etapa-4/lista-verificacao.md) criadas com respostas em branco; preparação dos instrumentos |
 | Organização dos artefatos individuais e correção da navegação da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Arquivos agrupados na pasta de Bruno Ferreira e vinculados ao menu individual |
 | Elaboração e ajustes do storyboard — Oficina Legislativa | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | [Storyboard v0.2](../entrega-4/individual/bruno/storyboard.md) com sete quadros, descrição textual, ampliações e correspondência com HTA/CTT |
+| Storyboard manual de plenárias e página de materiais do recorte (Etapa 4) | Luís Henrique Arruda Luna | 25/10/2026 | 25/10/2026 | [Storyboard e materiais](../entrega-4/individual/luis.md); publicados com a versão 0.2. A data do desenho à mão não foi registrada |
 | Atualização do cronograma executado com as atividades individuais da Etapa 4 | Bruno Ferreira Dornelas | 13/10/2026 | 13/10/2026 | Registro da produção dos artefatos; naquela data, piloto e entrevistas estavam previstos nos planejamentos |
 | Abertura do índice da Etapa 5 e consolidação da lista de verificação V1 da Etapa 5 | Bruno Ferreira Dornelas e Caio Breno de Souza Bezerra | 19/10/2026 | 22/10/2026 | [Índice da Etapa 5](../entrega-5/index.md) e [lista da Etapa 5](../verificacao/listas/etapa-5.md); revisão cruzada entre Bruno e Caio |
 | Teste-piloto (`PP-PROP01`), sessões presenciais com `PROP01`, relatos e planejamentos do protótipo de papel — Ideia legislativa | Caio Breno de Souza Bezerra (com Luís Henrique Arruda Luna no piloto) | 22/10/2026 | 25/10/2026 | Piloto em 22/10 e sessões em 24/10 (13h28–14h06) consolidados no [recorte de Caio](../entrega-5/individual/caio/index.md); revisão de Bruno Ferreira |
@@ -394,6 +395,7 @@ A equipe agradece o apoio do Codex (OpenAI), do Google Gemini e do Antigravity (
 | `2.10` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 5 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.11` | 25/11/2026 | Inclui atividades executadas pela equipe na Etapa 3 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.12` | 25/11/2026 | Inclui chamadas textuais para as Tabelas 2 a 10 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.13` | 26/11/2026 | Registra as atividades da Etapa 4 de Luís no cronograma executado (achado D06 da inspeção V2) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
