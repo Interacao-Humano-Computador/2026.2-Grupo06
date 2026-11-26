@@ -204,6 +204,30 @@ Os cuidados seguem Barbosa e Silva (2010, seção 5.4, p. 138–142) e os [aspec
 
 O registro padrão será por notas; áudio será opcional. Caio manterá dados brutos em pasta privada. Identidade, contato e TCLE ficarão separados das evidências. Como política proposta, registros brutos e chave de identificação serão excluídos até 30 dias após o encerramento da disciplina.
 
+??? note "Minuta do Termo de Consentimento Livre e Esclarecido (TCLE) — Avaliação da Análise de Tarefas (Etapa 4)"
+
+    **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)**
+
+    **Projeto acadêmico:** Avaliação e Reprojeto de IHC do Portal e-Cidadania (Senado Federal) — Envio e Acompanhamento de Ideia Legislativa (Grupo 06)  
+    **Instituição e disciplina:** Universidade de Brasília (FCTE/UnB) — Interação Humano-Computador (`2026.2`), Prof. Dr. André Barros de Sales  
+    **Avaliador responsável:** Caio Breno de Souza Bezerra (canal de contato direto informado na via entregue à pessoa participante)
+
+    **1. Objetivo, duração e procedimentos:** Você está sendo convidado(a) a participar voluntariamente da avaliação formativa dos modelos de **Análise de Tarefas (`HTA` e `CTT`) de envio e acompanhamento de ideia legislativa**. A sessão consiste na discussão guiada em linguagem acessível das etapas, condições e retornos da tarefa, com duração estimada de **45 a 50 minutos**. Não é exigido conhecimento prévio de notações técnicas, avaliando-se apenas os modelos da equipe sem realizar envios reais no portal. Os dados têm finalidade exclusivamente acadêmica.
+
+    **2. Autonomia e liberdade de recusa ou desistência sem ônus:** Sua participação é voluntária e gratuita. Você pode recusar qualquer pergunta, pedir pausas ou **interromper a sessão e retirar seu consentimento a qualquer momento, sem qualquer penalidade, constrangimento ou prejuízo**.
+
+    **3. Confidencialidade, anonimato em todas as mídias e guarda dos dados:** Sua identidade civil será mantida em sigilo em todos os relatórios, tabelas, transcrições, áudios, imagens ou vídeos publicados na documentação da disciplina, sendo substituída pelo código anônimo **`PROP01`** (ou **`PP-PROP01`** no piloto descartado). A via assinada e os registros brutos permanecerão em pasta privada restrita ao avaliador e ao revisor designado e serão excluídos até **30 dias após o encerramento da disciplina** (dezembro de 2026).
+
+    **4. Permissão prévia e específica para gravação:** Nenhuma captura será iniciada sem sua autorização prévia e independente abaixo:  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **áudio (voz)** durante a entrevista.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **imagem/vídeo e/ou tela** durante a sessão.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a publicação acadêmica do registro desidentificado como vídeo **não listado** no YouTube vinculado ao repositório da disciplina.
+
+    **Declaração de consentimento:** Declaro que fui esclarecido(a) sobre os objetivos, duração, procedimentos e garantias éticas deste estudo, recebi cópia deste termo e concordo voluntariamente em participar.  
+    Local e data: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_/\_\_\_\_/2026.  
+    Assinatura da pessoa participante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+    Assinatura do avaliador responsável (Caio Breno de Souza Bezerra): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## E — Avaliar, interpretar e apresentar os dados
 
 ### Análise e registro
@@ -222,16 +246,17 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312). O
 
 ## Agradecimentos
 
-Grok (xAI) apoiou a redação e a organização deste planejamento, e Codex (OpenAI) apoiou a atualização de 22/10/2026. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pelo conteúdo.
+Grok (xAI) apoiou a redação e a organização deste planejamento, Codex (OpenAI) apoiou a atualização de 22/10/2026 e Antigravity (Google DeepMind) apoiou a explicitação da minuta específica de TCLE da Etapa 4. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pelo conteúdo.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação da HTA/CTT da autoria de ideia, com conferência CT01–CT06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 13/10/2026 | Planejamento DECIDE da avaliação da HTA/CTT da autoria de ideia, com conferência CT01–CT06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.4` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 14h00–14h06. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.5` | 26/11/2026 | Incorpora minuta específica do TCLE parametrizada para a avaliação da Análise de Tarefas da Etapa 4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 

@@ -51,9 +51,35 @@ Durante a sessão de leitura guiada, o avaliador preencherá uma matriz de anota
 
 As anotações separarão expressamente falas espontâneas do participante de respostas formuladas após intervenção explicativa do avaliador. Os dados do teste piloto serão descartados do cômputo final dos resultados.
 
+### Ficha de evidências localizadas e matriz de questões do DECIDE
+
+Para assegurar rastreabilidade intraparticipante e separar o dado observado da interpretação analítica (BARBOSA; SILVA, 2010, p. 310, 312), cada apontamento colhido nas sessões será registrado na ficha da Tabela 2 com código anônimo (`P1–P3`), quadro (`QD01–QD05`), pergunta do roteiro, **localizador temporal exato no áudio/vídeo (`mm:ss`) ou identificador da nota de sessão** e condição da manifestação.
+
+| ID Evidência | Participante | Quadro (`QD01–QD05`) | Questão / Roteiro | Localizador (`mm:ss` / nota) | Condição (`Espontânea` / `Após esclarecimento`) | Evidência observada (fala / reação) | Interpretação separada do avaliador |
+| :---: | :---: | :---: | :---: | :---: | :---: | --- | --- |
+| `SB-EV01` | `[P1..P3]` | `[QD01..QD05]` | `[SB-Q1..Q5 / P01, P06–P09]` | `[00:00–00:00]` | `[ ]` | `[ ]` | `[ ]` |
+
+<p class="caption">Tabela 2 — Ficha individual de evidências do Storyboard com localizador temporal.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 310).</p>
+
+Na consolidação, as fichas `SB-EV` respondem diretamente às questões específicas do DECIDE (`SB-Q1` a `SB-Q5`, definidas no [Planejamento da avaliação](planejamento-avaliacao-storyboard.md#e-explorar-as-perguntas)) por meio da matriz da Tabela 3.
+
+**Regra explícita para questões inconclusivas (BARBOSA; SILVA, 2010, p. 312):** cada questão será classificada como **Validada**, **Parcial / Divergente** ou **Inconclusiva / Dados insuficientes**. Caso os registros coletados não bastem para responder com segurança a alguma questão norteadora (por ausência de evidência empírica, interrupção ou ambiguidade), o relato registrará expressamente o status **Inconclusiva**, justificará a limitação observada e indicará como a hipótese será reexaminada no protótipo de papel na Etapa 5, vedando-se inferências sem lastro.
+
+| Questão DECIDE | Síntese analítica por participante e consolidada | Evidências e localizadores (`SB-EV` · `mm:ss`) | Status (`Validada` / `Parcial` / `Inconclusiva`) | Justificativa de inconclusão ou encaminhamento |
+| :---: | --- | --- | :---: | --- |
+| `SB-Q1` (`SB-O1`) | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `SB-Q2` (`SB-O1`) | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `SB-Q3` (`SB-O2`) | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `SB-Q4` (`SB-O3`) | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `SB-Q5` (`SB-O3`) | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+
+<p class="caption">Tabela 3 — Matriz de fechamento das questões específicas do DECIDE para o Storyboard.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 310, 312).</p>
+
 ## Estrutura prevista do relato do Storyboard
 
-A Tabela 2 define a estrutura dos 8 tópicos que comporão o relatório oficial na Etapa 5, cumprindo integralmente os critérios da disciplina.
+A Tabela 4 define a estrutura dos 8 tópicos que comporão o relatório oficial na Etapa 5, cumprindo integralmente os critérios da disciplina.
 
 | Nº | Componente do relato | Conteúdo a ser preenchido na Etapa 5 | Fonte dos dados |
 | :---: | :--- | --- | --- |
@@ -66,31 +92,38 @@ A Tabela 2 define a estrutura dos 8 tópicos que comporão o relatório oficial 
 | **7** | **Lista de problemas classificados por severidade** | Relação de barreiras e incoerências apontadas, categorizadas na escala de gravidade de Nielsen (1994) de 0 a 4 (0 = sem problema; 1 = cosmético; 2 = simples; 3 = grave; 4 = catastrófico). | Matriz de severidade acordada na equipe |
 | **8** | **Planejamento do reprojeto** | Recomendações ergonômicas colhidas nas perguntas P08 e P09 sobre a estruturação de campos de perguntas a oradores para guiar o protótipo de papel na Etapa 5. | Recomendações de design participativo |
 
-<p class="caption">Tabela 2 — Estrutura de consolidação do relato do Storyboard.</p>
+<p class="caption">Tabela 4 — Estrutura de consolidação do relato do Storyboard.</p>
 <p class="source">Fonte: elaboração do autor com base em Barbosa e Silva (2010, p. 311–312) e SALES (2026).</p>
 
 ## Qualidade, limitações e validades da avaliação
 
-O relato conterá análise técnica das validades de pesquisa (BARBOSA; SILVA, 2010, p. 313):
-- **Confiabilidade:** reprodutibilidade da compreensão da narrativa em amostras similares;
-- **Validade interna:** garantia de que o avaliador manteve postura neutra ao apresentar a interface proposta no Quadro 4, sem induzir juízo prévio sobre a solução de design;
-- **Validade externa:** reflexão sobre em que medida a experiência de militantes no DF reflete a diversidade do público usuário do e-Cidadania em transmissões legislativas;
-- **Validade ecológica:** verificação de como a leitura de pranchas ilustradas no Laboratório de Informática da FCTE/UnB se aproximou das condições reais de acompanhamento de transmissões.
+O relato conterá análise técnica das validades de pesquisa (BARBOSA; SILVA, 2010, p. 312–313):
+- **Confiabilidade:** reprodutibilidade da compreensão da narrativa em amostras similares, amparada nos localizadores temporais (`mm:ss`) das gravações;
+- **Validade interna:** garantia de que o avaliador manteve postura neutra ao apresentar a interface proposta no Quadro 4, separando manifestações espontâneas daquelas obtidas após esclarecimento;
+- **Validade externa:** reflexão sobre em que medida a experiência de militantes no DF reflete a diversidade do público usuário do e-Cidadania em transmissões legislativas, tratando os resultados como indícios qualitativos sem generalização estatística;
+- **Validade ecológica:** verificação de como a leitura de pranchas ilustradas em ambiente controlado se aproximou das condições reais de acompanhamento de transmissões ao vivo;
+- **Limites de representações estáticas:** ressalva explícita de que a aprovação conceitual dos quadros do Storyboard não comprova ausência de problemas de interação, os quais dependem de ensaio com protótipos navegáveis/manipuláveis nas etapas seguintes.
 
 ## Agradecimentos
 
-Em atenção às recomendações de integridade acadêmica da Sociedade Brasileira de Computação (SBC) e aos critérios do Plano de Ensino da FCTE/UnB, registra-se a declaração formal do uso de ferramentas de Inteligência Artificial Generativa (Google Gemini e Claude, da Anthropic):
-- **Onde as ferramentas foram empregadas:** na formatação dos componentes de relato e organização estruturada das tabelas Markdown;
+Em atenção às recomendações de integridade acadêmica da Sociedade Brasileira de Computação (SBC) e aos critérios do Plano de Ensino da FCTE/UnB, registra-se a declaração formal do uso de ferramentas de Inteligência Artificial Generativa (Google Gemini, Claude da Anthropic e Antigravity da Google DeepMind):
+- **Onde as ferramentas foram empregadas:** na formatação dos componentes de relato, ficha de evidências e organização estruturada das tabelas Markdown;
 - **Facilidades:** alta agilidade na diagramação tabular compatível com o tema MkDocs Material;
 - **Dificuldades e controle de qualidade:** propensão dos modelos a produzir dados empíricos fictícios, exigindo curadoria rigorosa para assegurar que esta página permaneça estritamente como planejamento prospectivo.
 
 ## Histórico de versão
 
+A Tabela 5 registra o histórico de versões deste planejamento do relato.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato do Storyboard | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.0 | 13/10/2026 | Conclusão do planejamento do relato estruturado nos componentes de Barbosa e Silva (2010), matriz por cena e severidades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a narrativa de Eventos Interativos da CRA e acolhimento da interface proposta de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.1` | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato do Storyboard | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Conclusão do planejamento do relato estruturado nos componentes de Barbosa e Silva (2010), matriz por cena e severidades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 24/10/2026 | Refatoração do escopo do relato para a narrativa de Eventos Interativos da CRA e acolhimento da interface proposta de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 26/11/2026 | Inclusão da ficha `SB-EV` com localizador temporal (`mm:ss`), matriz `SB-Q1..Q5` com regra para questões inconclusivas e limites de representações estáticas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+
+<p class="caption">Tabela 5 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 
 ## Referências

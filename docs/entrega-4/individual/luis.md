@@ -99,9 +99,30 @@ A Tabela 4 resume o planejamento pelas atividades do DECIDE (BARBOSA; SILVA, 201
 
 **Tipo e escopo.** A avaliação é **formativa**: discute uma proposta ainda em construção para corrigi-la antes do protótipo, sem medir desempenho (BARBOSA; SILVA, 2010, p. 294). **Inclui** o caminho de sucesso (HTA 1 a 5) e a perda da última vaga durante o envio (HTA 5 → 6). **Exclui** lista de espera, cancelamento, autenticação, envio de e-mail e o caso de plenária sem vagas antes do formulário, que não tem quadro. O perfil é o de uma pessoa adulta que usa serviços públicos digitais; a adequação de Marina a esse objetivo é uma hipótese.
 
+**Fundamentação do método, piloto, agenda e TCLE.** O método enquadra-se no grupo de **investigação** apoiada em artefatos estáticos (BARBOSA; SILVA, 2010, p. 146, 196, 301–303; Figura 2), complementada pela [inspeção documental](../../entrega-5/individual/luis/inspecao-modelos.md) pela equipe, com custo previsto de `R$ 0,00`. O **teste-piloto** — ensaio prévio do procedimento realizado antes da coleta oficial para calibrar roteiro e materiais (BARBOSA; SILVA, 2010, p. 307; Figura 3) — foi gravado em conjunto com Caio em **22/10/2026 (`18h30–20h10`, presencial)**, **sendo seus dados integralmente descartados e mantidos fora dos resultados oficiais**. As entrevistas oficiais com `PART-ST01` ocorreram presencialmente antes da entrega de `25/10/2026` (durações gravadas de `6 min 17 s` no storyboard e `8 min 14 s` na HTA/CTT; horário exato de relógio não anotado), precedidas do TCLE abaixo.
+
+??? note "Figuras 2 e 3 — Fundamentação bibliográfica do método e do teste-piloto (Barbosa e Silva, 2010, p. 301 e 307)"
+
+    ![Classificação dos métodos de avaliação de IHC em investigação, observação e inspeção.](../../assets/img/referencias/barbosa-investigacao-p301.png)
+    <p class="caption">Figura 2 — Métodos de investigação apoiados em cenários e imagens.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 301).</p>
+
+    ![Definição e finalidade do teste-piloto e exclusão dos seus dados.](../../assets/img/referencias/barbosa-piloto-p307.png)
+    <p class="caption">Figura 3 — Definição e descarte dos dados do teste-piloto.</p>
+    <p class="source">Fonte: Barbosa e Silva (2010, p. 307).</p>
+
+??? note "Minuta do Termo de Consentimento Livre e Esclarecido (TCLE) — Recorte de Plenárias (Etapa 4)"
+
+    **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)** — Universidade de Brasília (FCTE/UnB) · IHC `2026.2` · Avaliador: Luís Henrique Arruda Luna.  
+    **1. Objetivo, duração e procedimentos:** Avaliação formativa conceitual do Storyboard (`8` quadros) e dos modelos `HTA`/`CTT` de solicitação de vaga em plenárias do Senado Federal (~15 a 25 min), avaliando exclusivamente os artefatos para fins acadêmicos.  
+    **2. Liberdade de recusa ou desistência sem ônus:** Participação voluntária e gratuita, podendo recusar perguntas, pausar ou retirar o consentimento a qualquer momento sem penalização.  
+    **3. Anonimato em todas as mídias:** Identidade civil preservada em textos, transcrições, áudios e vídeos mediante o código **`PART-ST01`**, com guarda privada dos originais até exclusão ao final da disciplina (dezembro de 2026).  
+    **4. Permissão prévia para gravação:** `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` gravação de voz/imagem e publicação acadêmica desidentificada como vídeo **não listado** no YouTube.  
+    Local/data e assinaturas da pessoa participante e do avaliador responsável.
+
 ### Relato
 
-O relato de cada entrevista deve trazer: registros da sessão (moderador, material, procedimento, participante, modalidade, consentimento, data e duração); respostas por pergunta, com evidência, localizador e leitura do moderador separados; encaminhamentos com origem, prioridade e destino no protótipo de papel; e as limitações abaixo. Os relatos publicados estão na Etapa 5: [storyboard](../../entrega-5/individual/luis/relato-storyboard.md) e [análise de tarefas](../../entrega-5/individual/luis/relato-analise-tarefas.md).
+O relato de cada entrevista deve trazer: registros da sessão (moderador, material, procedimento, participante, modalidade, consentimento, data e duração); respostas por pergunta, com evidência, localizador (página/trecho da transcrição ou minutagem) e leitura do moderador separados (registrando e justificando expressamente caso alguma questão permaneça **inconclusiva / sem dados suficientes**, conforme Barbosa e Silva, 2010, p. 312); encaminhamentos com origem, prioridade e destino no protótipo de papel; e as limitações abaixo. Os relatos publicados estão na Etapa 5: [storyboard](../../entrega-5/individual/luis/relato-storyboard.md) e [análise de tarefas](../../entrega-5/individual/luis/relato-analise-tarefas.md).
 
 **Limitações que o relato deve discutir** (BARBOSA; SILVA, 2010, p. 312–313):
 
@@ -138,16 +159,22 @@ As gravações e transcrições abaixo são os registros das entrevistas.
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a reserva inicial desta página (versão 0.1). O Claude (Anthropic) apoiou a redação das correções da versão 0.4: tabela de contribuição, roteiro dos quadros, correspondência com a HTA/CTT e registro do planejamento. Luís Henrique Arruda Luna responde pelo conteúdo.
+O Codex (OpenAI) apoiou a reserva inicial desta página (versão 0.1). O Claude (Anthropic) apoiou a redação das correções da versão 0.4 e o Antigravity (Google DeepMind) apoiou a complementação documental da versão 0.5. Luís Henrique Arruda Luna responde pelo conteúdo.
 
 ## Histórico de versão
 
+A Tabela 6 registra o histórico de versões desta página.
+
 | Versão | Data | Alteração | Autor(es) | Revisor(es) |
-| --- | --- | --- | --- | --- |
-| 0.1 | 13/10/2026 | Reserva de espaço individual | Caio Breno de Souza Bezerra, com apoio de Codex/OpenAI | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 0.2 | 25/10/2026 | Preenche o índice com materiais existentes e liga os registros das entrevistas da Etapa 5 | Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 0.3 | 26/11/2026 | Gira o arquivo do storyboard para a horizontal, para que a imagem original também abra deitada, e remove a rotação feita por CSS | Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 0.4 | 26/11/2026 | Corrige os achados da inspeção V2 da Etapa 4 (D04, D10, D11, E4-02, E4-04, E4-05, E4-06, E4-19, E4-29): contribuição, finalidade e hipóteses, roteiro dos quadros com HTA/CTT, planejamento retroativo da avaliação e do relato, legendas e agradecimentos | Luís Henrique Arruda Luna | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| :---: | :---: | --- | --- | --- |
+| `0.1` | 13/10/2026 | Reserva de espaço individual | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 25/10/2026 | Preenche o índice com materiais existentes e liga os registros das entrevistas da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.3` | 26/11/2026 | Gira o arquivo do storyboard para a horizontal, para que a imagem original também abra deitada, e remove a rotação feita por CSS | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.4` | 26/11/2026 | Corrige os achados da inspeção V2 da Etapa 4 (D04, D10, D11, E4-02, E4-04, E4-05, E4-06, E4-19, E4-29): contribuição, finalidade e hipóteses, roteiro dos quadros com HTA/CTT, planejamento retroativo da avaliação e do relato, legendas e agradecimentos | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 26/11/2026 | Detalha no registro retroativo os recortes bibliográficos do método e do piloto, a exclusão dos dados do piloto, a minuta de TCLE e a regra para questões inconclusivas | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+
+<p class="caption">Tabela 6 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do autor (2026).</p>
 
 ## Referências
 
