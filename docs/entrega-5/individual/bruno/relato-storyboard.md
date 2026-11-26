@@ -36,7 +36,7 @@ Bruno apresenta a funcionalidade como proposta nova, explica o storyboard e orie
 
 A filmagem prioriza as pessoas; a identificação do material se apoia no desenho fornecido por Bruno e na leitura relatada. Uma cópia da fotografia e da descrição dos quadros foi preservada em 25/10. O **ensaio individual de 23/10** tem [gravação própria](https://www.youtube.com/watch?v=qCNNY5LH0EQ); não houve ajustes decorrentes do ensaio. Os dados do ensaio e respostas simuladas não integram os resultados.
 
-O TCLE assinado em 25/10/2026 abrange as duas entrevistas de 24/10 e autoriza a publicação de vídeo e falas desidentificadas. A autorização prevê suprimir identificações nominais nas gravações; imagem e voz podem permanecer. O texto usa P01. O termo e os dados de análise ficam em arquivo privado. As gravações são acessadas pelos links do YouTube. O TCLE prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026.
+O [TCLE assinado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) abrange as duas entrevistas de 24/10 e autoriza a publicação de vídeo e falas desidentificadas. A autorização prevê suprimir identificações nominais nas gravações; imagem e voz podem permanecer. O texto usa P01. Os registros originais brutos e dados de análise ficam em arquivo privado. As gravações são acessadas pelos links do YouTube. O TCLE prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026.
 
 ## Sumário dos dados e evidências
 
@@ -123,7 +123,7 @@ P01 não indicou quadros a alterar. A Tabela 4 reúne **pontos de investigação
 
 ## Agradecimentos
 
-O Whisper small, executado localmente com faster-whisper, gerou a transcrição automática. O Codex (OpenAI) apoiou a organização das evidências, a interpretação, a redação e a conferência de coerência documental. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
+O Whisper small, executado localmente com faster-whisper, gerou a transcrição automática. O Codex (OpenAI) apoiou a organização das evidências, a interpretação, a redação e a conferência de coerência documental, e o Antigravity (Google DeepMind) apoiou a vinculação do TCLE assinado. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -133,6 +133,7 @@ O Whisper small, executado localmente com faster-whisper, gerou a transcrição 
 | `1.1` | 25/10/2026 | Consolidação das evidências da entrevista, DECIDE e revisões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 25/10/2026 | Revisão da redação nas respostas ao DECIDE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 25/11/2026 | Inclui Whisper na tabela de contribuição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 26/11/2026 | Vincula o PDF do TCLE assinado em 25/10/2026 ao relato | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

@@ -34,6 +34,7 @@ A Tabela 2 relaciona os documentos que compõem este recorte individual.
 | Planejamento da avaliação da análise de tarefas | [DECIDE completo, questões `AT-Q1`–`AT-Q6`, conferência técnica `CT01`–`CT06`, piloto, agenda e minuta de TCLE](bruno/planejamento-avaliacao-analise-tarefas.md) |
 | Planejamento do relato da análise de tarefas | [Estrutura do relato, fichas `AT-EV`, matriz de consolidação, prioridades e limites metodológicos](bruno/planejamento-relato-analise-tarefas.md) |
 | Conferência dos planejamentos | [Mapa documental, agenda prevista vs. executada e vídeo do ensaio de preparação (`23/10/2026`)](bruno/conferencia-planejamentos.md) |
+| Termo de Consentimento (TCLE assinado) | [TCLE assinado eletronicamente em `25/10/2026` abrangendo as entrevistas de Storyboard e Análise de Tarefas](../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) |
 
 <p class="caption">Tabela 2 — Artefatos individuais de Bruno Ferreira Dornelas na Etapa 4.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -50,6 +51,7 @@ A Tabela 3 registra o histórico de versões desta página.
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 13/10/2026 | Abertura da página individual | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 | `1.1` | 25/11/2026 | Consolidação do índice com tabela de contribuição, vínculos aos sete artefatos do recorte e agradecimentos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 26/11/2026 | Vincula na Tabela 2 o TCLE assinado das entrevistas de avaliação do storyboard e da análise de tarefas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

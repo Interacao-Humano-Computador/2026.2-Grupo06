@@ -30,7 +30,7 @@ A Tabela 2 apresenta o mapa documental. A existência de uma seção não compro
 | Tarefas | Diagramas HTA e CTT, com descrições equivalentes; correspondência QD01–QD08; CT01–CT06 registradas no relato, com ambiguidade de ordem em CT05 |
 | Perfil e recrutamento | Convite voluntário em rede acadêmica/comunitária; P01 relata experiência prévia de envio de sugestões; custo previsto zero (`R$ 0,00`) |
 | Cronograma | Janelas previstas em `23/10` (`19h00–19h50`, piloto) e `24/10/2026` (`19h00–19h40` e `19h45–20h35`, Google Meet ou sala privada); entrevistas presenciais gravadas em `24/10` (`10min50s` e `8min09s`) |
-| Ética | Minutas específicas de TCLE incorporadas nos dois planos com desistência livre, anonimato (`P01`) e autorização prévia de áudio/vídeo; via assinada mantida em privado |
+| Ética | Minutas específicas de TCLE incorporadas nos dois planos com desistência livre, anonimato (`P01`) e autorização prévia de áudio/vídeo; [TCLE assinado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) vinculado ao recorte |
 | Preparação e piloto | Definição e protocolo de piloto com participante distinto documentados (p. 307–308); na prática ocorreu ensaio individual em `23/10`, sem ajustes e excluído dos resultados |
 | Relatos | Sete componentes; critérios de interpretação, matrizes de respostas do avaliador e registros de achados |
 
@@ -54,7 +54,7 @@ A Tabela 3 consolida as datas, janelas horárias (UTC−3) e modalidade/local pr
 | Teste-piloto / ensaio do storyboard e das tarefas | 23/10/2026 | `19h00–19h50` · Google Meet ou ambiente privado | Ensaio individual realizado e gravado; sem ajustes e separado dos resultados | Bruno |
 | Entrevista do storyboard | 24/10/2026 | `19h00–19h40` · Google Meet ou sala/ambiente reservado privado | Realizada presencialmente e gravada; arquivo de 10min50s | Bruno e P01 |
 | Entrevista da análise de tarefas | 24/10/2026 | `19h45–20h35` · Mesmo ambiente reservado | Realizada presencialmente após o storyboard, no mesmo encontro; arquivo de 8min09s | Bruno e P01 |
-| Organização dos registros e autorizações | 25/10/2026 | Pasta privada fora do repositório | Arquivos identificados, TCLE assinado arquivado em privado e evidências desidentificadas (`P01`) | Bruno |
+| Organização dos registros e autorizações | 25/10/2026 | Repositório e pasta privada | Arquivos identificados, [TCLE assinado](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) formalizado e evidências desidentificadas (`P01`) | Bruno |
 | Análise, redação e revisão dos dois relatos | 25/10/2026 | Até a entrega da Etapa 5 (`25/10`) | Resultados, respostas ao DECIDE e propostas de correção consolidados na Etapa 5 | Bruno e Caio |
 
 <p class="caption">Tabela 3 — Agenda prevista e execução das avaliações.</p>
@@ -90,10 +90,11 @@ O [vídeo do ensaio individual](https://www.youtube.com/watch?v=qCNNY5LH0EQ) foi
 - [Storyboard](storyboard.md) e [análise de tarefas](analise-tarefas.md).
 - [Avaliação do storyboard](planejamento-avaliacao-storyboard.md) e [relato planejado](planejamento-relato-storyboard.md).
 - [Avaliação das tarefas](planejamento-avaliacao-analise-tarefas.md) e [relato planejado](planejamento-relato-analise-tarefas.md).
+- [TCLE assinado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf).
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a redação, a organização dos instrumentos e a conferência das referências. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) e o Antigravity (Google DeepMind) apoiaram a redação, a organização dos instrumentos, a vinculação documental e a conferência das referências. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -110,6 +111,7 @@ A Tabela 4 registra o histórico de versões desta conferência.
 | `1.6` | 24/10/2026 | Alinhamento da preparação ao storyboard manual | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 24/10/2026 | Revisão de objetivos, roteiro, participante P01 e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.1` | 25/11/2026 | Consolidação das janelas horárias e locais previstos, recrutamento, protocolo do piloto e minutas de TCLE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.2` | 26/11/2026 | Vincula o PDF do TCLE assinado em 25/10/2026 aos documentos do recorte | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

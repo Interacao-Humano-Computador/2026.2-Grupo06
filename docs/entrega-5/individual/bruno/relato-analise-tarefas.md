@@ -34,7 +34,7 @@ Participaram **Bruno**, como moderador, e **P01**, entrevistada também no story
 
 Bruno anuncia HTA e CTT, explica a notação e percorre as etapas antes das respostas. Aos 00:38, esclarece que está mostrando a tela, mas filmando somente as pessoas. Assim, o conteúdo discutido é identificável pela fala, porém o arquivo e a versão efetivamente exibidos **não são verificáveis na imagem**. A conferência documental abaixo usa a análise de tarefas disponível no repositório, com histórico até 24/10, e cópia preservada em 25/10.
 
-O moderador menciona assinatura do termo na abertura (00:18–00:26); o documento disponível foi formalizado em 25/10/2026 e abrange as duas entrevistas de 24/10. Ele autoriza vídeo e falas desidentificadas, com supressão de identificações nominais nas gravações; imagem e voz podem permanecer. O texto usa P01. O termo e os dados de análise ficam em arquivo privado. As gravações são acessadas pelos links do YouTube. O TCLE prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026.
+O moderador menciona assinatura do termo na abertura (00:18–00:26); o [TCLE disponível foi formalizado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) e abrange as duas entrevistas de 24/10. Ele autoriza vídeo e falas desidentificadas, com supressão de identificações nominais nas gravações; imagem e voz podem permanecer. O texto usa P01. Os registros originais brutos e dados de análise ficam em arquivo privado. As gravações são acessadas pelos links do YouTube. O TCLE prevê exclusão dos originais ao fim da disciplina, em dezembro de 2026.
 
 O [ensaio individual de 23/10](https://www.youtube.com/watch?v=qCNNY5LH0EQ) é registro de preparação; não houve ajustes decorrentes do ensaio. As perguntas desta gravação concentraram-se na clareza da HTA, no término da tarefa e na divisão da CTT. Não houve investigação contextual nem discussão das exceções previstas. Não foi realizada tarefa no portal. Respostas simuladas não integram os resultados.
 
@@ -136,7 +136,7 @@ O estudo envolve uma pessoa, exposta antes ao storyboard e às explicações do 
 
 ## Agradecimentos
 
-O Whisper small, executado localmente com faster-whisper, gerou a transcrição automática. O Codex (OpenAI) apoiou a seleção e organização das evidências, a conferência documental, a interpretação e a redação. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
+O Whisper small, executado localmente com faster-whisper, gerou a transcrição automática. O Codex (OpenAI) apoiou a seleção e organização das evidências, a conferência documental, a interpretação e a redação, e o Antigravity (Google DeepMind) apoiou a vinculação do TCLE assinado. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -146,6 +146,7 @@ O Whisper small, executado localmente com faster-whisper, gerou a transcrição 
 | `1.1` | 25/10/2026 | Consolidação das evidências, DECIDE e propostas de reprojeto | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 25/10/2026 | Revisão da redação nas respostas ao DECIDE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.3` | 25/11/2026 | Inclui Whisper na tabela de contribuição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 26/11/2026 | Vincula o PDF do TCLE assinado em 25/10/2026 ao relato | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

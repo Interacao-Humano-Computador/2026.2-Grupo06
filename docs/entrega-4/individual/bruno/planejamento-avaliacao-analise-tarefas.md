@@ -171,7 +171,7 @@ O [protocolo ético comum](planejamento-avaliacao-storyboard.md#d-decidir-como-l
     Assinatura da pessoa participante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
     Assinatura do avaliador responsável (Bruno Ferreira Dornelas): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Na execução de 24/10/2026, o TCLE formalizado em 25/10/2026 abrangeu as duas entrevistas, permanece em arquivo privado e autorizou gravação e disponibilização no YouTube como não listado com supressão das identificações nominais (`P01`) e exclusão dos originais em dezembro de 2026.
+Na execução de 24/10/2026, o [TCLE formalizado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) abrangeu as duas entrevistas e autorizou gravação e disponibilização no YouTube como não listado com uso de `P01` nos textos e exclusão dos registros brutos originais em dezembro de 2026.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
@@ -181,7 +181,7 @@ Preservar materiais e intervenções para permitir revisão das conclusões. Con
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) e o Antigravity (Google DeepMind) apoiaram a revisão metodológica, a redação, a vinculação documental e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -198,6 +198,7 @@ A Tabela 7 registra o histórico de versões deste planejamento.
 | `1.6` | 24/10/2026 | Padronização da estrutura do planejamento para complementos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 24/10/2026 | Reorganização do DECIDE, separação do roteiro e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.1` | 25/11/2026 | Explicitação do recrutamento, janelas horárias e local previstos, definição do teste-piloto e minuta completa do TCLE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.2` | 26/11/2026 | Vincula o PDF do TCLE assinado em 25/10/2026 às entrevistas de avaliação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 7 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

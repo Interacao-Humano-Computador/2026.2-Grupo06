@@ -151,7 +151,7 @@ O TCLE específico informa objetivo, atividades, duração estimada, responsáve
     Assinatura da pessoa participante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
     Assinatura do avaliador responsável (Bruno Ferreira Dornelas): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-O planejamento inicial previa notas e áudio opcional, sem gravação facial; na execução presencial de 24/10/2026 foram gravadas imagem e voz mediante aceite, formalizado no TCLE assinado em 25/10/2026 cobrindo as duas entrevistas e autorizando publicação no YouTube como não listado e incorporação no site público com supressão das identificações nominais (`P01`). Termo, contatos e registros brutos permanecem em arquivo privado até a exclusão ao final da disciplina; a assinatura de 25/10 não comprova, por si só, formalização escrita anterior à coleta.
+O planejamento inicial previa notas e áudio opcional, sem gravação facial; na execução presencial de 24/10/2026 foram gravadas imagem e voz mediante aceite, formalizado no [TCLE assinado em 25/10/2026](../../../assets/docs/tcle/tcle-bruno-etapa4-assinado.pdf) cobrindo as duas entrevistas e autorizando publicação no YouTube como não listado e incorporação no site público com uso de `P01` nos textos. Os registros brutos permanecem em arquivo privado até a exclusão ao final da disciplina; a assinatura de 25/10 não comprova, por si só, formalização escrita anterior à coleta.
 
 ## E — Avaliar, interpretar e apresentar os dados
 
@@ -161,7 +161,7 @@ O relato seguirá sete componentes (BARBOSA; SILVA, 2010, p. 311–312). A anál
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a revisão metodológica, a redação e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
+O Codex (OpenAI) e o Antigravity (Google DeepMind) apoiaram a revisão metodológica, a redação, a vinculação documental e a organização dos instrumentos. A responsabilidade acadêmica é de Bruno Ferreira Dornelas.
 
 ## Histórico de versão
 
@@ -179,6 +179,7 @@ A Tabela 6 registra o histórico de versões deste planejamento.
 | `1.7` | 24/10/2026 | Padronização da estrutura do planejamento para complementos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.0` | 24/10/2026 | Reorganização do DECIDE, separação do roteiro e agenda | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `2.1` | 25/11/2026 | Explicitação do canal de recrutamento, janelas horárias e local do cronograma, definição do teste-piloto e minuta completa do TCLE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.2` | 26/11/2026 | Vincula o PDF do TCLE assinado em 25/10/2026 às entrevistas de avaliação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
