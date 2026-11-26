@@ -96,7 +96,7 @@ A Tabela 3 documenta o histórico de versões deste artefato.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 03/10/2026 | Registro da reunião da Etapa 3 no modelo da Ata 01, com decisões, transcrição e gravações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
+| `1.0` | 03/10/2026 | Registro da reunião da Etapa 3 com decisões e gravações | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 <p class="caption">Tabela 3 — Histórico de versão da Ata 03.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>

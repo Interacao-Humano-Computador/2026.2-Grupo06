@@ -268,7 +268,7 @@ Em respeito à privacidade dos voluntários e às normas éticas da Resolução 
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na formatação estrutural do relatório, na consistência de nomenclatura das tabelas e na consolidação das regras metodológicas. A condução dos testes, o registro dos dados empíricos e a redação crítica são de inteira responsabilidade de Heitor Pinheiro Gonçalves das Chagas. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na formatação estrutural do relatório, na consistência de nomenclatura das tabelas e na consolidação das regras metodológicas. A condução dos testes, o registro dos dados empíricos e a redação crítica são de inteira responsabilidade de Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

@@ -1,4 +1,4 @@
-<span class="owner">Responsável: Bruno Ferreira Dornelas · Autores dos itens: André Barros de Sales (oficiais) e Bruno Ferreira Dornelas (grupo) · Grupo 06</span>
+<span class="owner">Responsável: Bruno Ferreira Dornelas · Grupo 06</span>
 
 # Lista de verificação da Etapa 4 · V2
 
@@ -6,19 +6,25 @@
 
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização da lista V2 por conteúdo, separação entre itens oficiais imutáveis e itens do grupo, operacionalização das regras de verificação e rastreabilidade com a V1 | [Como aplicar](#como-aplicar) · [Desenvolvimento do projeto](#desenvolvimento-do-projeto) · [Conferência da lista](#conferencia-da-lista) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Elaboração dos 8 critérios autocontidos de Storyboard com recortes grifados de Vianna et al. (2012) e Preece, Rogers e Sharp (2005) | [Storyboard](#storyboard) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Elaboração dos 6 critérios autocontidos de Planejamento da avaliação e dos 3 critérios de Planejamento do relato com recortes grifados de Barbosa e Silva (2010) | [Planejamento da avaliação](#planejamento-da-avaliacao-storyboard-e-analise-de-tarefas) · [Planejamento do relato](#planejamento-do-relato-dos-resultados) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Organização da lista V2 em blocos de conteúdo, definição das regras de verificação e registro da rastreabilidade entre V1 e V2 | [Como aplicar](#como-aplicar) · [Desenvolvimento do projeto](#desenvolvimento-do-projeto) · [Conferência da lista](#conferencia-da-lista) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Formulação dos critérios sobre Storyboard com recortes grifados de Vianna et al. (2012) e Preece, Rogers e Sharp (2005) | [Storyboard](#storyboard) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Formulação e revisão dos critérios sobre Planejamento da avaliação (DECIDE) e Planejamento do relato com recortes grifados de Barbosa e Silva (2010) | [E4-19](#e4-19) · [E4-20](#e4-20) · [E4-21](#e4-21) · [E4-22](#e4-22) · [E4-27](#e4-27) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Autoria original na V1 do critério sobre salvaguardas, desistência livre e autorização de gravação no TCLE | [E4-24](#e4-24) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Autoria original na V1 do critério sobre decomposição de subobjetivos na HTA | [E4-22](#e4-22) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Autoria original na V1 dos critérios sobre classificação de severidade/gravidade e limites de generalização do relato | [E4-28](#e4-28) · [E4-29](#e4-29) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Autoria original na V1 do critério sobre diretrizes operacionais e postura neutra do avaliador na sessão | [E4-23](#e4-23) |
 | Google Gemini e Antigravity | Apoio à extração dos recortes grifados, conferência de paginação bibliográfica e estruturação Markdown | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-4.md) · [Lista V1 da Etapa 4](../verificacao/listas/etapa-4.md)
+[Etapa 8](index.md)<br>
+[Resultados e gráficos](resultados/etapa-4.md)<br>
+[Lista V1 da Etapa 4](../verificacao/listas/etapa-4.md)
 
 ## Como aplicar
 
-Esta Lista V2 oficial orienta de forma idêntica a **autoinspeção do Grupo 06** e a **inspeção externa do Grupo 05 (−1)** na Etapa 4 (*etapa par*). Para conciliar a organização temática por artefato com a preservação integral das exigências docentes, os **40 critérios** estão divididos em **quatro blocos de conteúdo** (`Desenvolvimento do projeto`, `Storyboard`, `Planejamento da avaliação — Storyboard e Análise de Tarefas` e `Planejamento do relato dos resultados`), separando explicitamente em cada seção os **critérios oficiais imutáveis do Plano de Ensino** (autoria de André Barros de Sales) dos **critérios elaborados pelo grupo** (autoria de Bruno Ferreira Dornelas, redigidos de forma 100% autocontida).
+Use a mesma redação na **autoinspeção do Grupo 06** e na **inspeção externa do Grupo 05 (−1)** na Etapa 4 (*etapa par*). Os **40 critérios** estão organizados em **quatro blocos de conteúdo**: *Desenvolvimento do projeto*, *Storyboard*, *Planejamento da avaliação — Storyboard e Análise de Tarefas* e *Planejamento do relato dos resultados*. Cada item apresenta o autor, a evidência esperada, o vínculo com a V1 e um recorte da fonte de referência com o trecho relevante grifado.
 
 - **Sim** quando a evidência cumpre integralmente a pergunta em todos os artefatos e integrantes aplicáveis do recorte.
 - **Incompleto** quando há evidência parcial, inconsistência entre documentos relacionados ou pendência em ao menos um integrante/fluxo enquanto os demais atendem.
@@ -28,8 +34,6 @@ Na ficha de inspeção, registre a resposta agregada do grupo, a constatação s
 
 ## Desenvolvimento do projeto
 
-Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino (SALES, 2026, p. 3, 8–9 do PDF).
-
 <div class="etapa8-item" id="d01"></div>
 
 ??? question "D01 · O GitHub Pages possui o histórico de versão padronizado?"
@@ -38,7 +42,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Abra o histórico de versão em cada artefato principal da Etapa 4 (storyboards e planejamentos). Confira se há tabela padronizada identificando número da versão, data, descrição objetiva da alteração, autor(es) e revisor(es).
 
-    **Rastreabilidade na V1.** [D01](../verificacao/listas/etapa-4.md#d01) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D01](../verificacao/listas/etapa-4.md#d01) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre histórico de versão padronizado.](../assets/img/entrega-8/fontes/historico.png){ loading=lazy }
 
@@ -54,7 +58,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Verifique na versão vigente de cada artefato a identificação nominal de autor(es) e revisor(es) distintos. Campos em branco, travessões, autor repetido como próprio revisor ou marcação “a definir” configuram lacuna (`Incompleto` quando restrito a parte dos documentos; `Não` quando ausente em todo o recorte).
 
-    **Rastreabilidade na V1.** [D02](../verificacao/listas/etapa-4.md#d02) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D02](../verificacao/listas/etapa-4.md#d02) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre identificação de autores e revisores.](../assets/img/entrega-8/fontes/autoria.png){ loading=lazy }
 
@@ -70,7 +74,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Confira nos documentos de conteúdo da Etapa 4 a presença de seção final de Referências e/ou Bibliografia em formato padronizado (ABNT), coerente com as obras citadas no corpo do texto.
 
-    **Rastreabilidade na V1.** [D03](../verificacao/listas/etapa-4.md#d03) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D03](../verificacao/listas/etapa-4.md#d03) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre referências bibliográficas nos artefatos.](../assets/img/entrega-8/fontes/bibliografia.png){ loading=lazy }
 
@@ -86,7 +90,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Inspecione quadros de Storyboard, diagramas de tarefas, recortes bibliográficos e tabelas de planejamento/relato. Confirme numeração e título/legenda, indicação de fonte e chamada explícita no texto antes ou junto ao elemento.
 
-    **Rastreabilidade na V1.** [D04](../verificacao/listas/etapa-4.md#d04) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D04](../verificacao/listas/etapa-4.md#d04) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre legenda, fonte e chamada de tabelas e figuras.](../assets/img/entrega-8/fontes/figuras.png){ loading=lazy }
 
@@ -102,7 +106,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Localize a seção de abertura de cada documento e verifique se contextualiza finalidade, escopo, funcionalidade/persona abordada e vínculo com as etapas anteriores antes de iniciar as tabelas ou quadros técnicos.
 
-    **Rastreabilidade na V1.** [D05](../verificacao/listas/etapa-4.md#d05) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D05](../verificacao/listas/etapa-4.md#d05) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre introdução contextualizando os artefatos.](../assets/img/entrega-8/fontes/introducao.png){ loading=lazy }
 
@@ -118,7 +122,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Confira na página de cronograma do projeto a tabela de **execução real** da Etapa 4 com atividade, responsável nominal e datas efetivas de início e fim para todos os integrantes. Cronograma apenas planejado não substitui o quadro executado.
 
-    **Rastreabilidade na V1.** [D06](../verificacao/listas/etapa-4.md#d06) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D06](../verificacao/listas/etapa-4.md#d06) · mantido.
 
     ![Sales (2026), p. 8 do PDF. Trecho grifado sobre cronograma executado com responsáveis e datas.](../assets/img/entrega-8/fontes/cronograma.png){ loading=lazy }
 
@@ -134,7 +138,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Procure na seção de Atas o registro formal da(s) reunião(ões) referente(s) à Etapa 4 contendo data, horário de abertura e de encerramento, participantes presentes, pauta/objetivo e deliberações. Ficha de inspeção sem ata formal ou ata sem horário de término configura pendência.
 
-    **Rastreabilidade na V1.** [D07](../verificacao/listas/etapa-4.md#d07) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D07](../verificacao/listas/etapa-4.md#d07) · mantido.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado sobre atas de reunião.](../assets/img/entrega-8/fontes/atas.png){ loading=lazy }
 
@@ -150,7 +154,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Verifique se o site disponibiliza link funcional associado à gravação da reunião do grupo / verificação referente à Etapa 4.
 
-    **Rastreabilidade na V1.** [D08](../verificacao/listas/etapa-4.md#d08) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D08](../verificacao/listas/etapa-4.md#d08) · mantido.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado sobre gravação da reunião do grupo.](../assets/img/entrega-8/fontes/gravacao.png){ loading=lazy }
 
@@ -166,7 +170,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Confira na página de apresentações da Etapa 4 o link/incorporação do vídeo no YouTube e a indicação de publicação como **não listado**, cobrindo o grupo ou os integrantes conforme a organização adotada.
 
-    **Rastreabilidade na V1.** [D09](../verificacao/listas/etapa-4.md#d09) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D09](../verificacao/listas/etapa-4.md#d09) · mantido.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado sobre vídeo de apresentação não listado no YouTube.](../assets/img/entrega-8/fontes/apresentacao.png){ loading=lazy }
 
@@ -182,7 +186,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Confira no início de cada artefato da Etapa 4 a presença de tabela identificando nominalmente quem atuou naquele documento, a contribuição específica realizada e a hiperligação para a seção ou atividade correspondente.
 
-    **Rastreabilidade na V1.** [D10](../verificacao/listas/etapa-4.md#d10) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D10](../verificacao/listas/etapa-4.md#d10) · mantido.
 
     ![Sales (2026), p. 9 do PDF. Trecho grifado sobre tabela de contribuição no início do artefato.](../assets/img/entrega-8/fontes/contribuicao.png){ loading=lazy }
 
@@ -198,7 +202,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
     **O que conferir.** Verifique na seção de agradecimentos (ou declaração equivalente no documento) a identificação nominal das ferramentas de IA generativa empregadas (ex.: ChatGPT/Codex, Gemini, Claude, Grok), a finalidade do apoio e a responsabilidade humana pelo conteúdo. Menção genérica apenas a “IA” sem nomear a ferramenta configura `Incompleto`.
 
-    **Rastreabilidade na V1.** [D11](../verificacao/listas/etapa-4.md#d11) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [D11](../verificacao/listas/etapa-4.md#d11) · mantido.
 
     ![Sales (2026), p. 3 do PDF. Trecho grifado sobre declaração de uso de IA generativa.](../assets/img/entrega-8/fontes/ia.png){ loading=lazy }
 
@@ -208,9 +212,7 @@ Os 11 critérios gerais (`D01`–`D11`) provêm integralmente do Plano de Ensino
 
 ## Storyboard
 
-Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tarefas e à qualidade narrativa e visual dos **Storyboards** entregues na Etapa 4 (`2` oficiais imutáveis do Plano de Ensino e `8` elaborados pelo grupo).
-
-### Critérios oficiais do Plano de Ensino
+Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com a análise de tarefas e à qualidade narrativa e visual dos **Storyboards** entregues na Etapa 4.
 
 <div class="etapa8-item" id="e4-01"></div>
 
@@ -218,15 +220,15 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 10.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 10.
 
     **O que conferir.** Conte os storyboards completos e acessíveis publicados para a Etapa 4 e compare com o número total de integrantes ativos da equipe (`5` integrantes no Grupo 06; `7` integrantes no Grupo 05). Caso falte o storyboard de algum integrante ou o material esteja incompleto/inacessível na entrega da etapa, registre `Incompleto`.
 
-    **Rastreabilidade na V1.** [E4-C10 · Item 10 oficial](../verificacao/listas/etapa-4.md#e4-c10) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C10](../verificacao/listas/etapa-4.md#e4-c10) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 10 sobre quantidade de storyboards igual à de integrantes.](../assets/img/entrega-4/referencias/plano-etapa4-item10.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 10 sobre quantidade de storyboards igual à de integrantes.](../assets/img/entrega-4/referencias/plano-etapa4-item10.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 10). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 10). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-01) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-01).
 
@@ -236,19 +238,17 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 9.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 9.
 
     **O que conferir.** Verifique se cada storyboard publicado possui vínculo explícito e rastreável (por tabela de correspondência, identificadores de quadros ou mapeamento direto) com uma tarefa e seus respectivos subobjetivos/operações especificados na Análise de Tarefas (HTA e/ou CTT, hospedada na Etapa 4 ou referenciada da Etapa 2).
 
-    **Rastreabilidade na V1.** [E4-C09 · Item 9 oficial](../verificacao/listas/etapa-4.md#e4-c09) · mantido integralmente (item oficial imutável; absorve o antigo item duplicado `E4-C19`).
+    **Rastreabilidade na V1.** [E4-C09](../verificacao/listas/etapa-4.md#e4-c09) + [E4-C19](../verificacao/listas/etapa-4.md#e4-c19) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 9 sobre relação de cada desenho do Storyboard com a Análise de Tarefas.](../assets/img/entrega-4/referencias/plano-etapa4-item09.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 9 sobre relação de cada desenho do Storyboard com a Análise de Tarefas.](../assets/img/entrega-4/referencias/plano-etapa4-item09.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 9). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 9). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-02) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-02).
-
-### Critérios elaborados pelo grupo
 
 <div class="etapa8-item" id="e4-03"></div>
 
@@ -260,7 +260,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Abra as imagens dos storyboards de todos os integrantes e confirme que não se reduzem a texto puro ou fluxograma abstrato, apresentando quadros visuais estáticos legíveis (desenhos manuais digitalizados, quadrinhos ilustrados, colagens ou fotografias) capazes de representar visualmente o conteúdo que se deseja comunicar.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Itens 1 e 5).
+    **Rastreabilidade na V1.** Novo · fundamentado em Vianna et al. (2012, p. 135) sobre representação em quadros estáticos e técnica gráfica.
 
     ![Vianna et al. (2012), p. 135. Trecho grifado em O que é? definindo storyboard como representação visual em quadros estáticos.](../assets/img/entrega-8/fontes/e4-sb-definicao.png){ loading=lazy }
 
@@ -282,7 +282,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Verifique na contextualização ou fundamentação de cada storyboard se está declarada sua função de comunicar a ideia de design às partes interessadas/usuários e inspecionar pontos em aberto do fluxo antes de construir telas definitivas. Marque `Incompleto` quando algum integrante publicar apenas a imagem sem explicitar o propósito comunicativo/exploratório da narrativa.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Itens 2 e 10).
+    **Rastreabilidade na V1.** Novo · fundamentado em Vianna et al. (2012, p. 135–136) sobre finalidade comunicativa e detecção de aspectos em aberto.
 
     ![Vianna et al. (2012), p. 135. Trecho grifado em Quando usar? sobre comunicar ideias e visualizar o encadeamento da solução.](../assets/img/entrega-8/fontes/e4-sb-finalidade.png){ loading=lazy }
 
@@ -304,7 +304,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Confirme se cada storyboard delimita claramente a funcionalidade/proposta sob teste e apresenta roteiro textual estruturado (descrição escrita da narrativa ou tabela de roteiro por quadro) coerente com as cenas ilustradas.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Item 3).
+    **Rastreabilidade na V1.** Novo · fundamentado em Vianna et al. (2012, p. 135) sobre delimitação da ideia e roteiro escrito.
 
     ![Vianna et al. (2012), p. 135. Trecho grifado sobre ter ideia bem definida do que comunicar e testar e elaborar roteiro por escrito.](../assets/img/entrega-8/fontes/e4-sb-roteiro.png){ loading=lazy }
 
@@ -322,7 +322,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Verifique nos quadros e em sua especificação textual se ficam identificáveis o ambiente/situação onde ocorre a cena, quem é o ator/persona protagonista (e agentes externos, se houver) e o foco/enquadramento de cada momento (contexto amplo, ação do usuário ou detalhe da resposta do sistema).
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Item 4).
+    **Rastreabilidade na V1.** Novo · fundamentado em Vianna et al. (2012, p. 135) sobre divisão em seções com cenário, atores e enquadramento.
 
     ![Vianna et al. (2012), p. 135. Trecho grifado sobre separar a história em seções considerando cenários, atores e enquadramento.](../assets/img/entrega-8/fontes/e4-sb-secoes.png){ loading=lazy }
 
@@ -340,7 +340,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Inspecione a progressão entre o primeiro e o último quadro de cada storyboard: confirme se há início motivador, etapas intermediárias de interação com a solução proposta e estado final/desfecho observável da tarefa, evitando quadros isolados que não mostrem a evolução da atividade.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Item 6).
+    **Rastreabilidade na V1.** Novo · fundamentado em Preece, Rogers e Sharp (2005, p. 263) sobre progressão encadeada da tarefa.
 
     ![Preece, Rogers e Sharp (2005), p. 263. Trecho grifado definindo o storyboard como série de desenhos que mostra como um usuário progride em uma tarefa.](../assets/img/entrega-8/fontes/e4-sb-progressao.png){ loading=lazy }
 
@@ -358,7 +358,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Confira se cada storyboard referencia ou concretiza um cenário/persona do projeto, acrescentando elementos visuais e situacionais (motivo de acesso, falas, retornos percebidos e pontos de decisão) suficientes para que um participante ou stakeholder compreenda e discuta a experiência durante a avaliação.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Item 7).
+    **Rastreabilidade na V1.** Novo · fundamentado em Preece, Rogers e Sharp (2005, p. 263) sobre articulação com cenários e simulação pelos interessados.
 
     ![Preece, Rogers e Sharp (2005), p. 263. Trechos grifados sobre uso do storyboard em conjunto com cenários e simulação da interação pelos stakeholders.](../assets/img/entrega-8/fontes/e4-sb-cenario.png){ loading=lazy }
 
@@ -376,7 +376,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Verifique se os storyboards mantêm foco conceitual e baixa fidelidade exploratória (esboços manuais ou quadrinhos esquemáticos simples, fáceis de revisar após feedback), evitando confundir storyboard com protótipo navegável de alta fidelidade ou artefato definitivo de interface.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Itens 8 e 9).
+    **Rastreabilidade na V1.** Novo · fundamentado em Preece, Rogers e Sharp (2005, p. 263–264) sobre baixa fidelidade exploratória.
 
     ![Preece, Rogers e Sharp (2005), p. 263. Trecho grifado sobre protótipos de baixa fidelidade simples, rápidos de modificar e voltados apenas à exploração.](../assets/img/entrega-8/fontes/e4-sb-baixa-fidelidade.png){ loading=lazy }
 
@@ -398,7 +398,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
     **O que conferir.** Confira em todos os storyboards se os quadros trazem numeração ou ordenação inequívoca (`Quadro 1..N` ou `QD01..QDn`) e legendas/balões curtos legíveis que permitam acompanhar a narrativa do primeiro ao último passo sem ambiguidade de ordem de leitura.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`LVGrupo6BrunoFerreiraStoryBord01.pdf`, Item 12).
+    **Rastreabilidade na V1.** Novo · fundamentado em Vianna et al. (2012, p. 137) sobre ordenação sequencial e legendas curtas por quadro.
 
     ![Vianna et al. (2012), p. 137. Exemplo grifado de storyboard em cinco quadros numerados acompanhados de legendas curtas descritivas.](../assets/img/entrega-8/fontes/e4-sb-legendas.png){ loading=lazy }
 
@@ -408,9 +408,7 @@ Este bloco reúne **10 critérios** dedicados à cobertura, ao vínculo com tare
 
 ## Planejamento da avaliação — Storyboard e Análise de Tarefas
 
-Este bloco reúne **14 critérios** sobre o planejamento metodológico e operacional da avaliação formativa do **Storyboard** e da **Análise de Tarefas** pelo framework **DECIDE** (`8` oficiais imutáveis do Plano de Ensino e `6` elaborados pelo grupo). Planos comuns a todo o grupo são aceitos quando cobrem de forma rastreável as funcionalidades e tarefas dos integrantes.
-
-### Critérios oficiais do Plano de Ensino
+Este bloco reúne **14 critérios** sobre o planejamento metodológico e operacional da avaliação formativa do **Storyboard** e da **Análise de Tarefas** pelo framework **DECIDE**. Planos comuns a todo o grupo são aceitos quando cobrem de forma rastreável as funcionalidades e tarefas dos integrantes.
 
 <div class="etapa8-item" id="e4-11"></div>
 
@@ -418,15 +416,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 2.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 2.
 
     **O que conferir.** Verifique se os planejamentos da avaliação do Storyboard e da Análise de Tarefas articulam explicitamente as seis atividades do DECIDE: **(D)** determinar objetivos gerais, **(E)** explorar perguntas específicas, **(C)** escolher métodos de avaliação, **(I)** identificar e administrar questões práticas, **(D)** decidir como lidar com questões éticas e **(E)** avaliar, interpretar e apresentar os dados.
 
-    **Rastreabilidade na V1.** [E4-C02 · Item 2 oficial](../verificacao/listas/etapa-4.md#e4-c02) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C02](../verificacao/listas/etapa-4.md#e4-c02) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 2 sobre adoção do Framework DECIDE.](../assets/img/entrega-4/referencias/plano-etapa4-item02.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 2 sobre adoção do Framework DECIDE.](../assets/img/entrega-4/referencias/plano-etapa4-item02.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 2). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 2). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-11) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-11).
 
@@ -436,15 +434,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 3.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 3.
 
     **O que conferir.** Confira na atividade **D (Determinar os objetivos)** de cada planejamento a indicação clara de qual(is) objetivo(s) de avaliação de IHC orienta(m) o estudo na fase conceitual e como seus resultados guiarão as decisões de projeto da equipe.
 
-    **Rastreabilidade na V1.** [E4-C03 · Item 3 oficial](../verificacao/listas/etapa-4.md#e4-c03) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C03](../verificacao/listas/etapa-4.md#e4-c03) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 3 sobre descrição dos objetivos da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item03.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 3 sobre descrição dos objetivos da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item03.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 3). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 3). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-12) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-12).
 
@@ -454,15 +452,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 4.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 4.
 
     **O que conferir.** Confira na seção de escolha dos métodos (**C** do DECIDE ou apêndice vinculado ao planejamento) a presença simultânea de: **(1)** explicação do método adotado para o Storyboard e para a Análise de Tarefas, **(2)** referência bibliográfica da obra, **(3)** imagem/recorte legível da página da fonte explicando o método e **(4)** identificação nominal do autor daquele item no artefato. A ausência de recorte da fonte ou de autoria explícita em parte dos planos caracteriza `Incompleto`.
 
-    **Rastreabilidade na V1.** [E4-C04 · Item 4 oficial](../verificacao/listas/etapa-4.md#e4-c04) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C04](../verificacao/listas/etapa-4.md#e4-c04) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 4 sobre métodos de avaliação com referência, foto do texto e autor.](../assets/img/entrega-4/referencias/plano-etapa4-item04.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 4 sobre métodos de avaliação com referência, foto do texto e autor.](../assets/img/entrega-4/referencias/plano-etapa4-item04.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 4). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 4). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-13) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-13).
 
@@ -472,15 +470,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 5.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 5.
 
     **O que conferir.** Verifique na etapa **I (Questões práticas)** de todos os planejamentos a cobertura dos sete elementos operacionais: **(1)** canal/local de recrutamento e perfil desejado, **(2)** número previsto de participantes acompanhado de justificativa metodológica ou operacional, **(3)** modalidade presencial ou remota, **(4)** preparação e equipamentos, **(5)** prazos, **(6)** orçamento (inclusive custo zero declarado) e **(7)** papéis/mão de obra da equipe.
 
-    **Rastreabilidade na V1.** [E4-C05 · Item 5 oficial](../verificacao/listas/etapa-4.md#e4-c05) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C05](../verificacao/listas/etapa-4.md#e4-c05) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 5 sobre as questões práticas da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item05.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 5 sobre as questões práticas da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item05.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 5). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 5). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-14) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-14).
 
@@ -490,15 +488,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 6.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 6.
 
     **O que conferir.** Confira na etapa **D (Questões éticas)** a garantia explícita de respeito, conforto, não maleficência e proteção à privacidade/autoestima dos participantes tanto durante as sessões quanto na publicação posterior dos resultados no site público da disciplina.
 
-    **Rastreabilidade na V1.** [E4-C06 · Item 6 oficial](../verificacao/listas/etapa-4.md#e4-c06) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C06](../verificacao/listas/etapa-4.md#e4-c06) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 6 sobre questões éticas da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item06.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 6 sobre questões éticas da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item06.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 6). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 6). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-15) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-15).
 
@@ -508,15 +506,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 8.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 8.
 
     **O que conferir.** Confirme nos planejamentos individuais ou na agenda logística comum da Etapa 4 a indicação explícita de **datas**, **horários** (ou janelas horárias definidas) e **local físico ou plataforma remota** previstos para as sessões de avaliação tanto do Storyboard quanto da Análise de Tarefas. Planos que deixem datas ou horários totalmente em aberto configuram `Incompleto`.
 
-    **Rastreabilidade na V1.** [E4-C08 · Item 8 oficial](../verificacao/listas/etapa-4.md#e4-c08) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C08](../verificacao/listas/etapa-4.md#e4-c08) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 8 sobre cronograma com data, horário e local da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item08.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 8 sobre cronograma com data, horário e local da avaliação.](../assets/img/entrega-4/referencias/plano-etapa4-item08.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 8). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 8). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-16) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-16).
 
@@ -526,15 +524,15 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 11.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 11.
 
     **O que conferir.** Verifique nos planejamentos (ou no protocolo comum de teste-piloto da etapa) a presença simultânea dos cinco requisitos: **(1)** definição e finalidade do teste-piloto, **(2)** data agendada estritamente **anterior** ao início das sessões oficiais, **(3)** referência bibliográfica, **(4)** imagem/recorte legível do trecho do livro sobre teste-piloto e **(5)** identificação nominal do autor do item.
 
-    **Rastreabilidade na V1.** [E4-C11 · Item 11 oficial](../verificacao/listas/etapa-4.md#e4-c11) · mantido integralmente (item oficial imutável; absorve a exigência cronológica de `E4-C22`).
+    **Rastreabilidade na V1.** [E4-C11](../verificacao/listas/etapa-4.md#e4-c11) + [E4-C22](../verificacao/listas/etapa-4.md#e4-c22) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 11 sobre definição, data prévia, referência, foto e autor do teste-piloto.](../assets/img/entrega-4/referencias/plano-etapa4-item11.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 11 sobre definição, data prévia, referência, foto e autor do teste-piloto.](../assets/img/entrega-4/referencias/plano-etapa4-item11.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 11). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 11). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-17) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-17).
 
@@ -544,19 +542,17 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 12.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 12.
 
     **O que conferir.** Confirme a existência de regra expressa determinando que a sessão piloto utiliza participante/ensaio separado da amostra oficial e que seus dados destinam-se apenas a calibrar roteiro, tempo e ferramentas, sendo descartados/excluídos da consolidação dos resultados definitivos.
 
-    **Rastreabilidade na V1.** [E4-C12 · Item 12 oficial](../verificacao/listas/etapa-4.md#e4-c12) · mantido integralmente (item oficial imutável; absorve o descarte de dados de `E4-C22`).
+    **Rastreabilidade na V1.** [E4-C12](../verificacao/listas/etapa-4.md#e4-c12) + [E4-C22](../verificacao/listas/etapa-4.md#e4-c22) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 12 sobre exclusão dos resultados do teste-piloto do resultado oficial.](../assets/img/entrega-4/referencias/plano-etapa4-item12.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 12 sobre exclusão dos resultados do teste-piloto do resultado oficial.](../assets/img/entrega-4/referencias/plano-etapa4-item12.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 12). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 12). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-18) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-18).
-
-### Critérios elaborados pelo grupo
 
 <div class="etapa8-item" id="e4-19"></div>
 
@@ -568,7 +564,7 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **O que conferir.** Confira se os planejamentos situam o momento do ciclo de design como **avaliação formativa/construtiva** e delimitam objetivamente quais fluxos, caminhos principais/alternativos, tarefas e perfis de usuário entram na avaliação (e o que fica fora do recorte), justificando a seleção perante os objetivos definidos.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`ListaDECIDE.pdf`, Item 10; `ListaMetodosdeAvaliacao.pdf`, Item 11; `PrototipoPapel.pdf`, Itens 6 e 8).
+    **Rastreabilidade na V1.** Novo · fundamentado em Barbosa e Silva (2010, p. 294, 304) sobre avaliação formativa e delimitação do escopo.
 
     ![Barbosa e Silva (2010), p. 294. Trechos grifados definindo avaliação formativa durante a elaboração da solução e citando storyboards e modelos como insumos.](../assets/img/entrega-8/fontes/e4-avaliacao-formativa.png){ loading=lazy }
 
@@ -590,7 +586,7 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **O que conferir.** Examine a seção **E — Explorar perguntas** dos planejamentos de Storyboard e de Análise de Tarefas. Confirme se há questões específicas rastreáveis aos objetivos declarados e adequadas a artefatos conceituais (compreensão da narrativa, adequação da proposta, completude/ordem das tarefas), sem confundir perguntas analíticas do pesquisador com estímulos diretos do roteiro de entrevista, nem cobrar métricas de interface implementada (como contagem de cliques ou tempo de tela).
 
-    **Rastreabilidade na V1.** Novo · cobre a letra `E` do DECIDE ausente na lista oficial, adaptado de `ListaDECIDE.pdf` (Itens 2–5) e `PrototipoPapel.pdf` (Item 5).
+    **Rastreabilidade na V1.** Novo · detalha a atividade E (Explorar perguntas) do DECIDE com base em Barbosa e Silva (2010, p. 292–293, 313).
 
     ![Barbosa e Silva (2010), p. 292. Trecho grifado sobre a necessidade de detalhar objetivos em perguntas específicas considerando usuários-alvo, atividades e artefatos.](../assets/img/entrega-8/fontes/e4-perguntas-especificas.png){ loading=lazy }
 
@@ -612,7 +608,7 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
     **O que conferir.** Verifique na etapa **C (Escolher os métodos)** se o método selecionado é compatível com representações estáticas (Storyboard e diagramas/tabelas HTA/CTT, onde ainda não há sistema interativo para observação de uso real) e se o texto justifica por que a técnica escolhida (ex.: entrevista semiestruturada apoiada nos artefatos e/ou conferência analítica) responde às perguntas dentro das restrições práticas da equipe.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral de listas por conteúdo (`ListaDECIDE.pdf`, Item 6; `ListaMetodosdeAvaliacao.pdf`, Itens 1, 8 e 9).
+    **Rastreabilidade na V1.** Novo · fundamentado em Barbosa e Silva (2010, p. 301, 303) sobre classificação e justificativa do método de avaliação.
 
     ![Barbosa e Silva (2010), p. 301. Trechos grifados classificando os métodos em investigação, observação de uso e inspeção, e destacando o apoio de imagens e cenários na investigação.](../assets/img/entrega-8/fontes/e4-metodos-investigacao-inspecao.png){ loading=lazy }
 
@@ -628,13 +624,13 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
 ??? question "E4-22 · O planejamento da avaliação da Análise de Tarefas identifica o modelo avaliado (HTA e/ou CTT, na Etapa 4 ou referenciado da Etapa 2) e prevê verificar sua validade e completude junto às partes interessadas (stakeholders), conduzindo a discussão em linguagem acessível sem exigir domínio prévio de jargões técnicos da notação?"
 
-    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf) e [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 5, Seção 5.5.1, p. 148; Cap. 6, Seção 6.4.1, p. 196.
 
     **O que conferir.** Abra os planejamentos da avaliação da Análise de Tarefas (ou o roteiro correspondente quando unificado) e confirme: **(1)** referência explícita ao modelo de tarefas avaliado; **(2)** previsão de checar junto ao participante/stakeholder se objetivos, etapas, ordem e exceções correspondem à atividade esperada; e **(3)** cuidado explícito de apresentar/perguntar sobre o fluxo sem jargão técnico opaco (ex.: sem exigir que o entrevistado conheça previamente símbolos de operadores CTT ou regras formais da HTA).
 
-    **Rastreabilidade na V1.** Reorienta para o escopo da Etapa 4 os antigos critérios de HTA (`E4-C14` e `E4-C18`), combinando `VerificacaoHTA.pdf` (Item 9) e `ListaPerfilUsuario.pdf` (Item 29).
+    **Rastreabilidade na V1.** [E4-C14](../verificacao/listas/etapa-4.md#e4-c14) + [E4-C18](../verificacao/listas/etapa-4.md#e4-c18) · reorientados para a validação da decomposição de tarefas junto às partes interessadas na Etapa 4.
 
     ![Barbosa e Silva (2010), p. 196. Trecho grifado no passo 5 da HTA sobre verificar a validade da decomposição junto às partes interessadas.](../assets/img/entrega-8/fontes/e4-validade-hta.png){ loading=lazy }
 
@@ -650,13 +646,13 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
 ??? question "E4-23 · O planejamento prepara previamente o material de apoio padronizado (termo, artefatos/instruções, roteiro e ficha de observação), organiza as etapas da sessão (apresentação, aquecimento, exploração principal e conclusão) e fixa diretrizes de postura neutra para não induzir respostas do participante?"
 
-    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+    **Autor do item:** [Luís Henrique Arruda Luna](https://github.com/Donnk61).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 5, Seção 5.5.1, p. 146–147; Cap. 9, Seção 9.7.2, p. 306.
 
     **O que conferir.** Verifique se os planejamentos incluem ou vinculam o roteiro efetivo da sessão com **(1)** materiais padronizados para todos os participantes, **(2)** etapas estruturadas de condução (acolhimento/apresentação, contextualização/aquecimento, leitura e exploração aberta dos quadros/tarefas e encerramento) e **(3)** regras explícitas evitando perguntas indutoras (como pressupor aprovação da proposta ou antecipar a resposta esperada antes da leitura livre).
 
-    **Rastreabilidade na V1.** [E4-C23](../verificacao/listas/etapa-4.md#e4-c23) · refinado em enunciado autocontido, integrando `PrototipoPapel.pdf` (Item 14) e `ListaPerfilUsuario.pdf` (Itens 28 e 29).
+    **Rastreabilidade na V1.** [E4-C23](../verificacao/listas/etapa-4.md#e4-c23) · detalha material de apoio padronizado, etapas da sessão e postura neutra.
 
     ![Barbosa e Silva (2010), p. 306. Trechos grifados sobre preparação prévia do material de apoio e padronização das orientações aos participantes.](../assets/img/entrega-8/fontes/e4-material-apoio.png){ loading=lazy }
 
@@ -676,13 +672,13 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
 ??? question "E4-24 · O planejamento disponibiliza minuta ou modelo de Termo de Consentimento Livre e Esclarecido (TCLE) assegurando (1) esclarecimento sobre objetivo, duração, procedimentos e uso dos dados, (2) liberdade de recusa ou desistência sem penalização, (3) anonimato em todas as mídias publicadas e (4) permissão específica prévia para gravação de voz, imagem ou tela?"
 
-    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+    **Autor do item:** [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 5, Seção 5.4, p. 140–141.
 
     **O que conferir.** Além dos princípios gerais verificados em `E4-15`, localize o modelo/minuta do TCLE (sem expor dados pessoais de termos assinados) e confira se contempla explicitamente os quatro pontos: informações do estudo e contato responsável, direito de interromper ou retirar consentimento a qualquer momento sem ônus, preservação do anonimato em textos/áudios/vídeos divulgados e autorização prévia para gravação.
 
-    **Rastreabilidade na V1.** [E4-C17](../verificacao/listas/etapa-4.md#e4-c17) · refinado com recortes exatos sobre TCLE, gravação e anonimato (`ListaPerfilUsuario.pdf`, Itens 23–25).
+    **Rastreabilidade na V1.** [E4-C17](../verificacao/listas/etapa-4.md#e4-c17) · refinado com recortes específicos sobre TCLE, gravação e anonimato.
 
     ![Barbosa e Silva (2010), p. 140. Trecho grifado sobre garantia de anonimato em todas as mídias impressas ou digitais (textos, imagens, áudios ou vídeos).](../assets/img/entrega-8/fontes/etica-divulgacao.png){ loading=lazy }
 
@@ -700,9 +696,7 @@ Este bloco reúne **14 critérios** sobre o planejamento metodológico e operaci
 
 ## Planejamento do relato dos resultados
 
-Este bloco reúne **5 critérios** específicos para os artefatos de **Planejamento do Relato dos Resultados** da avaliação do Storyboard e da Análise de Tarefas (`2` oficiais imutáveis do Plano de Ensino e `3` elaborados pelo grupo).
-
-### Critérios oficiais do Plano de Ensino
+Este bloco reúne **5 critérios** voltados aos artefatos de **Planejamento do Relato dos Resultados** da avaliação do Storyboard e da Análise de Tarefas.
 
 <div class="etapa8-item" id="e4-25"></div>
 
@@ -710,15 +704,15 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 7.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 7.
 
     **O que conferir.** Examine os documentos de planejamento do relato (do Storyboard e da Análise de Tarefas, individuais ou compartilhados com cobertura explícita) para confirmar se preveem todas as seções estruturais que receberão os dados coletados na etapa seguinte: objetivos e escopo, método efetivamente empregado na Etapa 4 (sem exigir dados empíricos antes da coleta e adaptando a menção literal a “prototipação em papel” da tabela impressa ao método planejado para Storyboard/Tarefas), número e perfil de participantes e avaliadores, quadros/tarefas percorridos e lista de problemas encontrados.
 
-    **Rastreabilidade na V1.** [E4-C07 · Item 7 oficial](../verificacao/listas/etapa-4.md#e4-c07) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C07](../verificacao/listas/etapa-4.md#e4-c07) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 7 sobre definição da estrutura do relatório de resultados.](../assets/img/entrega-4/referencias/plano-etapa4-item07.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 7 sobre definição da estrutura do relatório de resultados.](../assets/img/entrega-4/referencias/plano-etapa4-item07.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 7). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 7). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-25) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-25).
 
@@ -728,19 +722,17 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
     **Autor do item:** André Barros de Sales.
 
-    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista oficial da Apresentação 4, Item 13.
+    **Referência:** SALES, André Barros de. *Plano de Ensino FIHC 022026 — Turma 01*. Brasília: FCTE/UnB, 2026. Lista da Apresentação 4, Item 13.
 
     **O que conferir.** Confira nos instrumentos de registro e nos planejamentos do relato se estão descritos os campos que o avaliador preencherá durante e logo após cada sessão, incluindo o modelo de listagem dos problemas observados e a indicação de priorização das correções pendentes.
 
-    **Rastreabilidade na V1.** [E4-C13 · Item 13 oficial](../verificacao/listas/etapa-4.md#e4-c13) · mantido integralmente (item oficial imutável).
+    **Rastreabilidade na V1.** [E4-C13](../verificacao/listas/etapa-4.md#e4-c13) · mantido.
 
-    ![Lista oficial da Apresentação 4 com destaque amarelo no item 13 sobre anotações do avaliador e priorização de problemas.](../assets/img/entrega-4/referencias/plano-etapa4-item13.png){ loading=lazy }
+    ![Lista da Apresentação 4 com destaque amarelo no item 13 sobre anotações do avaliador e priorização de problemas.](../assets/img/entrega-4/referencias/plano-etapa4-item13.png){ loading=lazy }
 
-    <p class="source">Fonte: Sales (2026), Lista oficial da Apresentação 4 (Item 13). O grifo indica o trecho usado no critério.</p>
+    <p class="source">Fonte: Sales (2026), Apresentação 4 (Item 13). O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-4.md#etapa-4-e4-26) · [Grupo 06](grupo-06/etapa-4.md#etapa-4-e4-26).
-
-### Critérios elaborados pelo grupo
 
 <div class="etapa8-item" id="e4-27"></div>
 
@@ -752,7 +744,7 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
     **O que conferir.** Verifique se os planejamentos do relato estruturam como os dados brutos de cada participante serão interpretados (análise intraparticipante e consolidação) e cruzados com as questões específicas formuladas no plano da avaliação, prevendo localizadores verificáveis e registro transparente caso os dados não bastem para responder alguma questão. Inconsistências de amostra ou de questões entre o plano da avaliação e o plano do relato configuram `Incompleto`.
 
-    **Rastreabilidade na V1.** Novo · extraído do acervo autoral (`ListaPerfilUsuario.pdf`, Item 30) e das diretrizes de interpretação e consolidação de Barbosa e Silva (2010, p. 310, 312).
+    **Rastreabilidade na V1.** Novo · fundamentado em Barbosa e Silva (2010, p. 310, 312) sobre interpretação intraparticipante e consolidação das questões do DECIDE.
 
     ![Barbosa e Silva (2010), p. 310. Trecho grifado sobre interpretação orientada pelo planejamento e análise individual buscando respostas às questões específicas.](../assets/img/entrega-8/fontes/interpretacao-individual.png){ loading=lazy }
 
@@ -768,13 +760,13 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
 ??? question "E4-28 · O planejamento do relato estabelece critérios objetivos de gravidade/priorização dos problemas (com base no grau de impacto nocivo, na frequência esperada e nos fatores de qualidade de uso afetados, por escala qualitativa fundamentada ou de severidade) e prevê seção de planejamento de reprojeto direcionando melhorias para a Etapa 5?"
 
-    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 9, Seção 9.2, p. 292; Seção 9.7.5, p. 312.
 
     **O que conferir.** Procure no planejamento do relato: **(1)** regras explícitas para classificar a gravidade/urgência de cada problema encontrado (aceitando tanto categorias qualitativas de impacto/compreensão quanto escalas numéricas de severidade, desde que os níveis estejam definidos) e **(2)** seção ou tabela de encaminhamento ao **reprojeto** indicando como os achados alimentarão os ajustes dos modelos e a construção do Protótipo de Papel na Etapa 5.
 
-    **Rastreabilidade na V1.** [E4-C21](../verificacao/listas/etapa-4.md#e4-c21) · reformulado com base em Barbosa e Silva (2010, p. 292, 312) para remover dependência exclusiva da Avaliação Heurística de Nielsen e incluir o componente 7 de reprojeto (`ListaDECIDE.pdf`, Item 9).
+    **Rastreabilidade na V1.** [E4-C21](../verificacao/listas/etapa-4.md#e4-c21) · reformulado com base em Barbosa e Silva (2010, p. 292, 312) para contemplar gravidade, frequência, qualidade de uso e planejamento de reprojeto.
 
     ![Barbosa e Silva (2010), p. 292. Trecho grifado sobre classificação dos problemas segundo gravidade (impacto nocivo), frequência e critérios de qualidade de uso prejudicados.](../assets/img/entrega-8/fontes/e4-gravidade-problemas.png){ loading=lazy }
 
@@ -790,13 +782,13 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
 ??? question "E4-29 · O planejamento do relato prevê documentar explicitamente os limites metodológicos e de generalização do estudo — considerando confiabilidade e validades interna, externa e ecológica (amostra exploratória reduzida, leitura de representações estáticas em vez de uso real e efeito de intervenções) — tratando os achados como indícios dentro do escopo avaliado?"
 
-    **Autor do item:** [Bruno Ferreira Dornelas](https://github.com/brunnf).
+    **Autor do item:** [Israel Soares de Paiva](https://github.com/IsraelSoares-25).
 
     **Referência:** BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação humano-computador*. Rio de Janeiro: Elsevier, 2010. Cap. 9, Seção 9.7.5, p. 312; Seção 9.8, p. 313.
 
     **O que conferir.** Confira se o planejamento do relato reserva seção ou diretriz analítica para explicitar as limitações da amostra, do artefato estático (Storyboard/HTA/CTT) e do ambiente de coleta, evitando afirmar que a ausência de críticas comprova qualidade definitiva ou que opiniões isoladas generalizam-se automaticamente para toda a população de usuários.
 
-    **Rastreabilidade na V1.** [E4-C20](../verificacao/listas/etapa-4.md#e4-c20) · reformulado para retirar a repetição da estrutura do relatório já coberta por `E4-25` (`E4-C07`) e focar em generalização e validades do DECIDE.
+    **Rastreabilidade na V1.** [E4-C20](../verificacao/listas/etapa-4.md#e4-c20) · focaliza os limites metodológicos, a generalização e as validades do DECIDE.
 
     ![Barbosa e Silva (2010), p. 312. Trecho grifado explicando que resultados de avaliação indicam tendências dentro do escopo planejado, e não certeza absoluta.](../assets/img/entrega-8/fontes/relato-interpretacao.png){ loading=lazy }
 
@@ -810,24 +802,19 @@ Este bloco reúne **5 critérios** específicos para os artefatos de **Planejame
 
 ## Conferência da lista
 
-Todos os **23 itens de autoria do professor André Barros de Sales** (`D01`–`D11` em *Desenvolvimento do projeto* e os 12 itens da Apresentação 4 distribuídos em `E4-01`–`E4-02`, `E4-11`–`E4-18` e `E4-25`–`E4-26`) foram mantidos integralmente em seções próprias (`Critérios oficiais do Plano de Ensino`).
+O requisito geral de [Conteúdo da disciplina](../verificacao/listas/etapa-4.md#conteudo-da-disciplina) da V1 (*elaboração de itens de conteúdo da disciplina com referência bibliográfica, foto do texto da fonte e nome do autor*) passa a compor o controle de qualidade desta lista V2: cada critério identifica seu autor, a evidência esperada, a referência bibliográfica e o recorte grifado da fonte.
 
-Na revisão dos antigos itens elaborados pelo grupo na [Lista V1 da Etapa 4](../verificacao/listas/etapa-4.md#itens-elaborados-pelo-grupo), seis perguntas foram retiradas desta lista para eliminar sobreposições entre etapas e duplicidades internas:
-
-- **`E4-C14`, `E4-C15`, `E4-C16` e `E4-C18` (sintaxe gráfica e tabela de operações da HTA):** deslocados para o escopo da **Etapa 2**, onde ocorre a modelagem formal de tarefas; na Etapa 4 permanece a validação da decomposição com stakeholders em [E4-22](#e4-22).
-- **`E4-C19` (rastreabilidade quadro a quadro com HTA) e `E4-C22` (teste-piloto prévio e descarte de dados):** retirados por duplicidade direta com os itens oficiais imutáveis [E4-02](#e4-02) (`E4-C09`), [E4-17](#e4-17) (`E4-C11`) e [E4-18](#e4-18) (`E4-C12`).
-
-Em seu lugar, os **17 critérios elaborados pelo grupo** (`E4-03`–`E4-10`, `E4-19`–`E4-24` e `E4-27`–`E4-29`, todos com autoria explícita de Bruno Ferreira Dornelas, referência ABNT fiel à edição do recorte e trecho destacado em amarelo) completam a cobertura específica de **Storyboard**, **Planejamento da avaliação conceitual (DECIDE)** e **Planejamento do relato dos resultados**.
+Na revisão da [Lista V1 da Etapa 4](../verificacao/listas/etapa-4.md#itens-elaborados-pelo-grupo), as perguntas voltadas à construção e à sintaxe gráfica da HTA (`E4-C15` e `E4-C16`, além dos aspectos formais de `E4-C14` e `E4-C18`) permaneceram no escopo da **Etapa 2**, mantendo-se na Etapa 4 a validação da decomposição com stakeholders em [E4-22](#e4-22); já `E4-C19` e `E4-C22` foram unificadas com [E4-02](#e4-02), [E4-17](#e4-17) e [E4-18](#e4-18) para eliminar sobreposições internas.
 
 ## Agradecimentos
 
-O Google Gemini e o Antigravity apoiaram a extração programática dos recortes com destaque amarelo nos exemplares de referência, a conferência da paginação impressa e a estruturação Markdown desta Lista V2. Os itens `D01`–`D11`, `E4-01`–`E4-02`, `E4-11`–`E4-18` e `E4-25`–`E4-26` pertencem ao professor André Barros de Sales; a seleção temática, a redação autocontida dos 17 itens do grupo e a revisão metodológica são de responsabilidade de Bruno Ferreira Dornelas.
+O Google Gemini e o Antigravity apoiaram a extração dos recortes com destaque amarelo nos exemplares de referência, a conferência da paginação impressa e a estruturação Markdown desta Lista V2. Bruno Ferreira Dornelas responde pela consolidação desta lista V2 em blocos de conteúdo, preservando a autoria original dos critérios provenientes da V1.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
-| `2.0` | 21/11/2026 | Estruturação da Lista V2 oficial da Etapa 4 separada por conteúdo e por autoria (23 itens oficiais imutáveis + 17 itens autocontidos do grupo com recortes grifados) e rastreabilidade com a V1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 21/11/2026 | Elaboração da Lista V2 da Etapa 4 com 40 critérios por conteúdo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

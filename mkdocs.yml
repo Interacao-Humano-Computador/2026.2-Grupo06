@@ -47,6 +47,7 @@ theme:
 
 exclude_docs: |
   includes/**
+  entrega-8/proposta-complementacao-etapas-1-2.md
 
 plugins:
   - search:
@@ -323,7 +324,9 @@ nav:
           - Visão geral: entrega-8/inspecao.md
           - Etapa 1: entrega-8/resultados/etapa-1.md
           - Etapa 2: entrega-8/resultados/etapa-2.md
+          - Etapa 3: entrega-8/resultados/etapa-3.md
           - Etapa 4: entrega-8/resultados/etapa-4.md
+          - Etapa 5: entrega-8/resultados/etapa-5.md
           - Etapa 6: entrega-8/resultados/etapa-6.md
           - Etapa 7: entrega-8/resultados/etapa-7.md
       - Inspeções:
@@ -339,6 +342,7 @@ nav:
           - Grupo 07 · Grupo +1:
               - entrega-8/grupo-07/index.md
               - Etapa 1: entrega-8/grupo-07/etapa-1.md
+              - Etapa 3: entrega-8/grupo-07/etapa-3.md
               - Etapa 5: entrega-8/grupo-07/etapa-5.md
               - Etapa 7: entrega-8/grupo-07/etapa-7.md
           - Grupo 05 · Grupo −1:
@@ -350,6 +354,9 @@ nav:
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
+          - Etapa 1 · V1: verificacao/listas/etapa-1.md
+          - Etapa 2 · V1: verificacao/listas/etapa-2.md
+          - Etapa 3 · V1: verificacao/listas/etapa-3.md
           - Etapa 4 · V1: verificacao/listas/etapa-4.md
           - Etapa 5: verificacao/listas/etapa-5.md
           - Etapa 6 · V1: verificacao/listas/etapa-6.md
@@ -388,6 +395,7 @@ nav:
           - Etapa 5: apresentacoes/etapa-05.md
           - Etapa 6: apresentacoes/etapa-06.md
           - Etapa 7: apresentacoes/etapa-07.md
+          - Etapa 8: apresentacoes/etapa-08.md
   - Padrões:
       - guia/index.md
       - Template de artefato: guia/template-artefato.md

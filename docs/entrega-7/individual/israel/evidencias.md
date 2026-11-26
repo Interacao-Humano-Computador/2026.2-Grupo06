@@ -9,7 +9,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Organização dos registros audiovisuais, incorporação dos vídeos e mapeamento de localizadores | [Conteúdo](#introducao) |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Agradecimentos](#agradecimentos) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Histórico de versão](#historico-de-versao) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -87,7 +87,7 @@ Para consultar o vídeo institucional de apresentação da Etapa 7 com o resumo 
 
 ## Agradecimentos
 
-O registro das evidências cumpre as diretrizes éticas estabelecidas na Etapa 2 e as recomendações de documentação audiovisual de Krug (2010) e Barbosa e Silva (2010). Israel Soares de Paiva responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O registro das evidências cumpre as diretrizes éticas estabelecidas na Etapa 2 e as recomendações de documentação audiovisual de Krug (2010) e Barbosa e Silva (2010). Israel Soares de Paiva responde pelo conteúdo.
 
 ## Histórico de versão
 

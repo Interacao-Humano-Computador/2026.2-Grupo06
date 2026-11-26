@@ -165,7 +165,7 @@ O relato da Etapa 7 explicitará claramente os seguintes limites metodológicos:
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na estruturação das tabelas de métricas, na formatação Markdown e no alinhamento às diretrizes do livro-texto. A formulação dos instrumentos de medição e a responsabilidade pelo conteúdo são de Heitor Pinheiro Gonçalves das Chagas. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na estruturação das tabelas de métricas, na formatação Markdown e no alinhamento às diretrizes do livro-texto. A formulação dos instrumentos de medição e a responsabilidade pelo conteúdo são de Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

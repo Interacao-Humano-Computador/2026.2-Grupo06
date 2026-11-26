@@ -8,7 +8,7 @@ A Tabela 1 concentra a contribuição da Entrega 5. Cada linha é uma atividade,
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamento da avaliação e do relato do protótipo de papel (Oficina Legislativa na Escola — Rafael Almeida) | [Avaliação](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md) e [relato](../entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md) |
+| [Bruno Ferreira Dornelas](https://github.com/brunnf) | Relatos do storyboard e da análise de tarefas, planejamentos do protótipo de papel e apresentação individual (complementos de ideias legislativas — Letícia Oliveira) | [Storyboard](../entrega-5/individual/bruno/relato-storyboard.md), [tarefas](../entrega-5/individual/bruno/relato-analise-tarefas.md), [avaliação do papel](../entrega-5/individual/bruno/planejamento-avaliacao-prototipo-papel.md), [relato do papel](../entrega-5/individual/bruno/planejamento-relato-prototipo-papel.md) e [vídeo de Bruno](#bruno-ferreira-dornelas) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Relatos do storyboard e da análise de tarefas e planejamentos do protótipo de papel (envio de ideia legislativa — Camila Nogueira) | [Recorte individual](../entrega-5/individual/caio/index.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Página da apresentação e vídeo individual | [Vídeo de Caio](#caio-breno-de-souza-bezerra) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Apresentação individual da Etapa 5 (Participação em Evento Interativo — Letícia Oliveira) | [Vídeo de Heitor](#heitor-pinheiro-goncalves-das-chagas) |
@@ -178,6 +178,7 @@ Grok (xAI) apoiou a estruturação desta página conforme as informações forne
 | `0.2` | 25/10/2026 | Inclui a gravação individual de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 25/10/2026 | Inclui a gravação individual de apresentação de Heitor Pinheiro Gonçalves das Chagas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.5` | 25/10/2026 | Inclui a gravação individual da apresentação de Luís Henrique | Luís Henrique Luna de Arruda | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.6` | 25/11/2026 | Atualiza recorte e vínculos de Bruno na Tabela 1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

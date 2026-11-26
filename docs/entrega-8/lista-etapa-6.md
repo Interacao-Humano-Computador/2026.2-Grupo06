@@ -14,7 +14,9 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Etapa 8](index.md) · [Resultados e gráficos](resultados/etapa-6.md) · [Lista V1 da Etapa 6](../verificacao/listas/etapa-6.md)
+[Etapa 8](index.md)<br>
+[Resultados e gráficos](resultados/etapa-6.md)<br>
+[Lista V1 da Etapa 6](../verificacao/listas/etapa-6.md)
 
 ## Como aplicar
 
@@ -205,7 +207,9 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     **Aplicação:** [Grupo 05](grupo-05/etapa-6.md#etapa-6-d11) · [Grupo 06](grupo-06/etapa-6.md#etapa-6-d11).
 
 
-## Conteúdo da disciplina
+<div id="conteudo-da-disciplina"></div>
+
+## Cobertura dos artefatos
 
 <div class="etapa8-item" id="e6-01"></div>
 
@@ -222,6 +226,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Sales (2026), p. 5 do PDF. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-6.md#etapa-6-e6-01) · [Grupo 06](grupo-06/etapa-6.md#etapa-6-e6-01).
+
+## Relato da avaliação do protótipo de papel
 
 <div class="etapa8-item" id="e6-02"></div>
 
@@ -302,6 +308,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-6.md#etapa-6-e6-06) · [Grupo 06](grupo-06/etapa-6.md#etapa-6-e6-06).
+
+## Planejamento da avaliação de alta fidelidade
 
 <div class="etapa8-item" id="e6-07"></div>
 
@@ -423,6 +431,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-6.md#etapa-6-e6-13) · [Grupo 06](grupo-06/etapa-6.md#etapa-6-e6-13).
 
+## Planejamento do relato de alta fidelidade
+
 <div class="etapa8-item" id="e6-14"></div>
 
 ??? question "E6-14 · O plano do relato prevê objetivos, método, pessoas, tarefas, medições e problemas?"
@@ -454,6 +464,8 @@ Na ficha, registre grupo, etapa, ID, versão, data, fonte e trecho que sustenta 
     <p class="source">Fonte: Barbosa e Silva (2010), p. 312. O grifo indica o trecho usado no critério.</p>
 
     **Aplicação:** [Grupo 05](grupo-05/etapa-6.md#etapa-6-e6-15) · [Grupo 06](grupo-06/etapa-6.md#etapa-6-e6-15).
+
+## Protótipos de papel e de alta fidelidade
 
 <div class="etapa8-item" id="e6-16"></div>
 

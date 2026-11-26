@@ -62,11 +62,7 @@ A Tabela 2 relaciona o que precisa ser consultado nesta etapa.
 
 ## Agradecimentos
 
-Codex (OpenAI) e Claude (Anthropic) apoiaram a consulta bibliográfica, a estruturação e a organização documental. Caio Breno de Souza Bezerra, Israel Soares de Paiva e Luís Henrique Arruda Luna respondem pelos respectivos conteúdos. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
-
-O Codex (OpenAI) apoiou a integração da estrutura individual de Bruno Ferreira Dornelas, responsável pelo recorte de complementos de ideias legislativas. A revisão desse recorte está designada a Luís Henrique Arruda Luna.
-
-Antigravity e Google Gemini apoiaram a integração da estrutura individual de Heitor Pinheiro Gonçalves das Chagas, responsável pelo recorte de participação em audiência pública interativa, com revisão de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI), Claude (Anthropic), Antigravity e Google Gemini apoiaram a consulta bibliográfica, a estruturação, a organização documental e a integração dos recortes individuais nesta página. Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra, Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva e Luís Henrique Arruda Luna respondem pelos respectivos recortes e conteúdos.
 
 ## Histórico de versão
 
@@ -84,7 +80,7 @@ A Tabela 3 reúne as alterações das duas linhas de trabalho, com numeração c
 | `1.7` | 15/11/2026 | Integração da estrutura individual de Heitor Pinheiro (audiência pública interativa) na página da etapa | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 15/11/2026 | Atualização do resumo de Heitor Pinheiro após análise dos três vídeos das sessões presenciais | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.9` | 15/11/2026 | Atualização do link de apresentação de Heitor Pinheiro com vídeo publicado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| `1.9` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.10` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

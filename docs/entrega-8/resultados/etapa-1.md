@@ -14,7 +14,11 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-[Lista V2 da Etapa 1](../lista-etapa-1.md) · [Visão geral](../inspecao.md) · [Vídeo e roteiro](../inspecao.md#video-e-roteiro)
+[Lista V2 da Etapa 1](../lista-etapa-1.md)<br>
+[Visão geral](../inspecao.md)<br>
+[Conferência V1](../conferencia-anterior.md#grupo-06-etapa-1)<br>
+[Gravação · Grupo 06](../inspecao.md#video-etapa-1)<br>
+[Gravação · Grupo 07](../inspecao.md#video-grupo-07)
 
 As fichas dos Grupos 06 (autoinspeção, revisão `5dfe10f`) e 07 (+1, revisão `12913da`) registram **48 respostas de inspeção**, com 24 critérios efetivamente aplicados por grupo. A cobertura da lista V2 oficial da Etapa 1 é integral nos dois grupos (0 itens não aplicáveis e 0 pendentes de verificação). A unidade de contagem adotada nos quadros e gráficos é **uma resposta por critério, grupo e etapa**.
 
@@ -68,6 +72,8 @@ Cada segmento conta as respostas com pendência no bloco, somadas as duas fichas
 | Versão | Data | Descrição | Autor(es) | Revisor designado |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 21/11/2026 | Consolidação da autoinspeção do Grupo 06 e da inspeção do Grupo 07 na Etapa 1. | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 1. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 25/11/2026 | Vincula a conferência das fichas V1 da Etapa 1. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) |
 
 ## Referências
 

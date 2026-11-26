@@ -3,7 +3,7 @@
 # Lista de verificação da Entrega 1
 
 !!! warning "V1 histórica"
-    A [Lista V2 da Etapa 1](../entrega-8/lista-etapa-1.md) é a versão oficial para a Etapa 8. Esta página preserva os critérios e respostas usados na primeira inspeção.
+    Os critérios não preenchidos desta primeira versão estão na [Lista V1 da Etapa 1](../verificacao/listas/etapa-1.md), e a [Lista V2 da Etapa 1](../entrega-8/lista-etapa-1.md) é a versão oficial para a Etapa 8. Esta página preserva os critérios e respostas usados na primeira inspeção.
 
 ## Introdução
 

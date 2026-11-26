@@ -6,7 +6,7 @@
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Revisão comparativa entre as listas V2 das Etapas 1 e 2 e as oito listas consolidadas de referência, definição de recomendações e conferência metodológica | [Documento completo](#escopo-e-fontes-comparadas) |
+| [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Revisão comparativa entre as listas V2 das Etapas 1 e 2 e as oito listas consolidadas de referência, definição de recomendações e conferência metodológica | [Documento completo](#1-escopo-e-fontes-comparadas) |
 | Antigravity e Google Gemini | Apoio à comparação semântica dos 136 critérios consolidados, construção da matriz de rastreabilidade e redação estruturada da proposta | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>

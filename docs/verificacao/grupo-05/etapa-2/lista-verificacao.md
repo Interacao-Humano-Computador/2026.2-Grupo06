@@ -2,6 +2,9 @@
 
 # Lista de verificação — Etapa 2 (Grupo 05)
 
+!!! info "Lista V1 e Lista V2 oficial"
+    Os enunciados e recortes desta primeira versão estão na [Lista V1 da Etapa 2](../../listas/etapa-2.md), e a reinspeção revisada encontra-se na [Etapa 8 · Grupo 05](../../../entrega-8/grupo-05/etapa-2.md) com base na [Lista V2 da Etapa 2](../../../entrega-8/lista-etapa-2.md).
+
 ## Tabela de contribuição
 
 A Tabela 1 registra quem atuou neste artefato.

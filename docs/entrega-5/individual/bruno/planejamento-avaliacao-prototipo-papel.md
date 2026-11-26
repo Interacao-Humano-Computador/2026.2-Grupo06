@@ -32,9 +32,9 @@ O DECIDE articula objetivos, perguntas, método, prática, ética e análise ([1
 
 ??? note "Figura 1 — Operação e observação do protótipo"
 
-    ![Página 318 do capítulo enviado: operação, observação e interpretação do teste em papel.](../../../assets/img/entrega-5/referencias/metodos-enviado-p318.png)
+    ![Página 318 de Barbosa et al. (2021): operação, observação e interpretação do teste em papel.](../../../assets/img/entrega-5/referencias/metodos-enviado-p318.png)
     <p class="caption">Figura 1 — Coleta com protótipo de papel.</p>
-    <p class="source">Fonte: capítulo Métodos de avaliação de IHC enviado ao projeto [2], p. 318 (página 38 do PDF).</p>
+    <p class="source">Fonte: Barbosa et al. (2021), cap. 12, p. 318 [2].</p>
 
 ## D — Determinar os objetivos
 
@@ -73,9 +73,9 @@ Não antecipar caminhos ou explicar controles durante a execução. Diante de bl
 
 ### Participantes e materiais
 
-Prever uma pessoa adulta com experiência ou interesse em participação coletiva e acesso digital, a recrutar. Verificar experiência, vínculo com o avaliador, dispositivo e acessibilidade. A eventual participação de P01 exige novo aceite para esta atividade; registrar exposição anterior ao storyboard e às tarefas. Um caso exploratório não representa todo o público.
+Prever **1 participante** adulto na sessão principal (precedido de **1 pessoa distinta no teste-piloto**), com experiência ou interesse em participação coletiva e acesso digital, a recrutar. A quantidade unitária justifica-se pelo caráter formativo e exploratório da prototipação em papel dentro da janela de uma semana da Etapa 6, voltada a inspecionar compreensibilidade de estados e transições antes da alta fidelidade, sem pretensão de representatividade estatística do público. Verificar experiência, vínculo com o avaliador, dispositivo e acessibilidade. A eventual participação de P01 exige novo aceite para esta atividade; registrar exposição anterior ao storyboard e às tarefas.
 
-Preparar folhas, cartões, câmera, suporte, áudio, enunciados, ficha de registro e TCLE. Usar recursos disponíveis; registrar eventuais custos. A Tabela 3 descreve o conjunto **a construir**, com ID e versão.
+Preparar folhas A4, cartões móveis, câmera, suporte, áudio, enunciados, ficha de registro e TCLE. **Custo estimado: R$ 0,00 (custo zero)**, utilizando material de papelaria, computador, celular e sala no Google Meet já disponíveis, sem pagamento de incentivo financeiro. A Tabela 3 descreve o conjunto **a construir**, com ID e versão.
 
 | Material | Conteúdo | Vínculo |
 | --- | --- | --- |
@@ -191,15 +191,14 @@ O Codex (OpenAI) apoiou a redação e a organização dos instrumentos. A respon
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 24/10/2026 | Planejamento do protótipo de papel para complementos de ideias legislativas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
-| 1.1 | 25/10/2026 | Detalha tarefas, estados de espera, apoios e critérios de acompanhamento a partir dos relatos das entrevistas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 24/10/2026 | Planejamento da avaliação do protótipo de papel | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.1` | 25/10/2026 | Detalhamento de tarefas, apoios e critérios pós-entrevistas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.2` | 25/11/2026 | Completa referências ABNT, amostra e orçamento | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luis Henrique Arruda Luna](https://github.com/Donnk61) |
 
 ## Referências
 
-[1] **Planejamento da avaliação de IHC**. Capítulo 11 do material enviado, arquivo *Cap. Planejamento ihc-ux.pdf*. Seção 11.2 e Tabela 11.1, p. 264–266; preparação e piloto, p. 275–276; DECIDE, p. 279–280.
+[1] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 11 (Planejamento da avaliação de IHC), seção 11.2 e Tabela 11.1, p. 264–266; preparação e piloto, p. 275–276; DECIDE, p. 279–280.
 
-[2] **Métodos de avaliação de IHC**. Capítulo 12 do material enviado, arquivo *Cap Metodos de avaliacao de IHC.pdf*. Seção 12.2.3, prototipação em papel, p. 315–319.
-
-As páginas citadas são as impressas nos capítulos enviados. Os recortes não incluem ficha bibliográfica para confirmar autoria, ano e edição; não se atribui esta paginação à edição de Barbosa e Silva (2010).
+[2] BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Autopublicação, 2021. Cap. 12 (Métodos de avaliação de IHC), seção 12.2.3, prototipação em papel, p. 315–319.
 
 [3] GRUPO 06. **Complementos de ideias legislativas**. [Storyboard](../../../entrega-4/individual/bruno/storyboard.md) e [análise de tarefas](../../../entrega-4/individual/bruno/analise-tarefas.md). 2026.

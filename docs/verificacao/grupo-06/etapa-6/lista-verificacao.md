@@ -84,7 +84,7 @@ Gravação da inspeção: [https://youtu.be/4NBUrR3I9ZE](https://youtu.be/4NBUrR
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

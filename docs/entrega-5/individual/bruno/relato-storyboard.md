@@ -9,6 +9,7 @@ A Tabela 1 identifica as contribuições neste relato.
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Definição do recorte, desenho manual, condução e gravação da entrevista | [Método e execução](#metodo-e-execucao) |
+| Whisper small (faster-whisper) | Transcrição automática local da gravação | [Sumário dos dados](#sumario-dos-dados-e-evidencias) · [Agradecimentos](#agradecimentos) |
 | Codex (OpenAI) | Organização das evidências, interpretação e redação do relato | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições.</p>
@@ -128,9 +129,10 @@ O Whisper small, executado localmente com faster-whisper, gerou a transcrição 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 0.1 | 25/10/2026 | Estrutura para preenchimento após a entrevista, sem resultados | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.2 | 25/10/2026 | Consolida evidências da entrevista, respostas ao DECIDE e propostas de revisão | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.3 | 25/10/2026 | Remove rótulos de classificação das respostas ao DECIDE e ajusta a redação | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 25/10/2026 | Estrutura inicial do relato do storyboard | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 25/10/2026 | Consolidação das evidências da entrevista, DECIDE e revisões | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 25/10/2026 | Revisão da redação nas respostas ao DECIDE | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 25/11/2026 | Inclui Whisper na tabela de contribuição | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

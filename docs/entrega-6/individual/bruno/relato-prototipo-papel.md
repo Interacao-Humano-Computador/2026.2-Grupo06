@@ -252,7 +252,7 @@ A biblioteca `youtube-transcript-api` foi utilizada para extrair a transcrição
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `1.0` | 03/11/2026 | Relato completo da avaliação do protótipo de papel com vídeos do piloto e da sessão principal, fotografias das 11 peças e matriz de problemas corrigidos e pendentes | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 03/11/2026 | Relato do protótipo de papel com vídeos, peças e problemas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 10 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do projeto (2026).</p>

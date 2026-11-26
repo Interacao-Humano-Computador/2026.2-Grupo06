@@ -43,7 +43,7 @@ A Tabela 2 explicita objetivo, resultado e fonte da análise (BARBOSA; SILVA, 20
 
 A HTA organiza objetivos, subobjetivos, operações e planos. A referência é Barbosa e Silva (2010, p. 192–195). A árvore abaixo está orientada de cima para baixo. Os números indicam a hierarquia, e os planos indicam a sequência; as setas da árvore expressam decomposição, não fluxo temporal.
 
-A notação segue a **Figura 6.1 (p. 193)** e o exemplo da **Figura 6.2 (p. 194)** de Barbosa e Silva: objetivos em retângulos, operações em retângulos com uma linha inferior e planos sequenciais indicados por `>`. Os números do plano referem-se aos filhos imediatos do objetivo: em 4, `1 > 2 > 3 > 4` corresponde a 4.1, 4.2, 4.3 e 4.4. A tabela de operações segue a **Tabela 6.3 (p. 194–195)**. O diagrama foi desenhado em SVG para conservar esses símbolos.
+A notação segue a **Figura 6.1 (p. 193)** e o exemplo da **Figura 6.2 (p. 194)** de Barbosa e Silva: objetivos em retângulos, operações em retângulos com uma linha inferior e planos sequenciais indicados por `>`. Os números do plano referem-se aos filhos imediatos do objetivo: em 4, `1 > 2 > 3 > 4` corresponde a 4.1, 4.2, 4.3 e 4.4. A tabela de operações segue a **Tabela 6.3 (p. 194–195)**. O diagrama foi desenhado em SVG para conservar esses símbolos, e a Tabela 3 sintetiza a legenda da representação utilizada.
 
 | Notação | Significado |
 | --- | --- |
@@ -57,7 +57,7 @@ A notação segue a **Figura 6.1 (p. 193)** e o exemplo da **Figura 6.2 (p. 194)
 <p class="caption">Tabela 3 — Legenda da representação da HTA.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, Figura 6.1, p. 193; Figura 6.2, p. 194).</p>
 
-A origem dos passos e as dificuldades estão na Tabela 4. A tentativa registrada termina sem sucesso; executar as operações não significa alcançar o objetivo 0.
+A Figura 1 ilustra a decomposição hierárquica da tentativa registrada, enquanto a origem dos passos e as dificuldades estão detalhadas na Tabela 4. A tentativa registrada termina sem sucesso; executar as operações não significa alcançar o objetivo 0.
 
 [![HTA de Lucas: objetivos em retângulos, operações sublinhadas e planos sequenciais.](../../../assets/img/analise-tarefas/bruno/lucas-hta.svg)](../../../assets/img/analise-tarefas/bruno/lucas-hta.svg)
 
@@ -89,7 +89,7 @@ A origem dos passos e as dificuldades estão na Tabela 4. A tentativa registrada
 
 A CTT distingue tarefas abstratas, do usuário, interativas e do sistema, relacionando-as temporalmente (BARBOSA; SILVA, 2010, p. 203–205). A modelagem cobre a mesma tentativa da HTA. Respostas de carregamento do sistema são explicitadas para representar a interação; não constituem medições adicionais.
 
-A **Figura 6.4 (p. 203)** fundamenta os quatro tipos de tarefa e seus símbolos: pessoa, computador, pessoa conectada ao computador e nuvem. A **Figura 6.5 (p. 204)** define as relações temporais; a **Figura 6.6 (p. 205)** exemplifica sua disposição entre tarefas irmãs. Os símbolos foram redesenhados em SVG conforme essas figuras, com os operadores nas ligações horizontais. As ligações do pai aos filhos representam decomposição hierárquica.
+A **Figura 6.4 (p. 203)** fundamenta os quatro tipos de tarefa e seus símbolos: pessoa, computador, pessoa conectada ao computador e nuvem. A **Figura 6.5 (p. 204)** define as relações temporais; a **Figura 6.6 (p. 205)** exemplifica sua disposição entre tarefas irmãs. Os símbolos foram redesenhados em SVG conforme essas figuras, com os operadores nas ligações horizontais. As ligações do pai aos filhos representam decomposição hierárquica. A Tabela 5 resume os tipos de tarefa e símbolos adotados, e a Tabela 6 define os operadores temporais utilizados nesta modelagem.
 
 | Tipo / símbolo do livro | Significado |
 | --- | --- |
@@ -108,6 +108,8 @@ A **Figura 6.4 (p. 203)** fundamenta os quatro tipos de tarefa e seus símbolos:
 
 <p class="caption">Tabela 6 — Operadores utilizados nesta CTT.</p>
 <p class="source">Fonte: BARBOSA; SILVA (2010, p. 203–204).</p>
+
+A Figura 2 apresenta a expressão textual da CTT correspondente à tentativa observada, e a Tabela 7 relaciona cada tarefa ao seu tipo e à operação equivalente na HTA.
 
 ```text
 Verificar = ChegarAoSenado >> BuscarProposicao >> SelecionarResultado >> InterpretarSituacao
@@ -134,7 +136,7 @@ InterpretarSituacao = AbrirResumo []>> ExibirResumo >> LerResumo >> ExaminarSitu
 <p class="caption">Tabela 7 — Tipos das tarefas e correspondência com a HTA.</p>
 <p class="source">Fonte: elaboração do Grupo 06 a partir da sessão.</p>
 
-A Figura 3 apresenta a CTT em uma visão geral e quatro detalhamentos. C, B, S e I identificam as mesmas tarefas abstratas nas diferentes imagens; a divisão permite ler os rótulos sem alterar a árvore. Os identificadores C1–I9 correspondem à expressão textual da Figura 2. As relações temporais estão entre tarefas irmãs, como no livro. A sequência descreve a tentativa registrada, sem excluir outros percursos possíveis no portal. Clique nas imagens para ampliar.
+A Figura 3 (desdobrada nas Figuras 3a, 3b, 3c, 3d e 3e) apresenta a CTT em uma visão geral (Figura 3a) e quatro detalhamentos por bloco (Figuras 3b a 3e). C, B, S e I identificam as mesmas tarefas abstratas nas diferentes imagens; a divisão permite ler os rótulos sem alterar a árvore. Os identificadores C1–I9 correspondem à expressão textual da Figura 2. As relações temporais estão entre tarefas irmãs, como no livro. A sequência descreve a tentativa registrada, sem excluir outros percursos possíveis no portal. Clique nas imagens para ampliar.
 
 [![CTT: a — Hierarquia geral, com símbolos de Barbosa e Silva.](../../../assets/img/analise-tarefas/bruno/lucas-ctt-geral.svg)](../../../assets/img/analise-tarefas/bruno/lucas-ctt-geral.svg)
 
@@ -165,13 +167,19 @@ Esta página contou com o apoio do ChatGPT (OpenAI GPT-4o) na estruturação, na
 
 ## Histórico de versão
 
+A Tabela 8 registra o histórico de versões deste artefato.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| `0.1` | 21/09/2026 | Tarefa analisada e legendas da HTA e da CTT | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.0` | 26/09/2026 | HTA e CTT a partir do perfil da persona | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.1` | 03/10/2026 | Nomeia a ferramenta de IA nos agradecimentos e na tabela de contribuição | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
-| `1.2` | 05/10/2026 | Alinha HTA e CTT à sequência registrada de P1, explicita origem das operações e convenções gráficas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| `1.3` | 05/10/2026 | Substitui diagramas adaptados por SVGs com símbolos de HTA e CTT apresentados no livro e atualiza legendas e referências | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 21/09/2026 | Definição da tarefa e legendas de HTA e CTT | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 26/09/2026 | Modelagem HTA e CTT a partir da persona | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 03/10/2026 | Identificação da ferramenta de IA nos agradecimentos | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Luna de Arruda](https://github.com/Donnk61) |
+| `1.3` | 05/10/2026 | Alinhamento de HTA e CTT ao percurso observado de P1 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 05/10/2026 | Diagramas SVG na notação do livro e revisão de legendas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 25/11/2026 | Inclusão das chamadas explícitas no texto para as Tabelas 3, 5, 6 e 7 e para as Figuras 1 e 3a–3e | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 8 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 
 ## Referências

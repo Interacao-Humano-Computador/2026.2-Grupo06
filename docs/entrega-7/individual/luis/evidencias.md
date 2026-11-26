@@ -96,7 +96,7 @@ A [apresentação da Etapa 7](../../../apresentacoes/etapa-07.md#luis-henrique-a
 
 ## Agradecimentos
 
-Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela e a organização deste material. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela e a organização deste material. Luís Henrique Arruda Luna responde pelo conteúdo.
 
 ## Histórico de versão
 

@@ -35,11 +35,7 @@ A Tabela 2 registra a manutenção dos acessos às etapas; as alterações anter
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5. A responsabilidade por esta atualização é de Bruno Ferreira Dornelas.
-
-Codex (OpenAI) apoiou a atualização dos acessos e da navegação da Etapa 6, sob responsabilidade de Caio Breno de Souza Bezerra.
-
-Codex (OpenAI) apoiou a integração dos acessos à Etapa 7, sob responsabilidade de Caio Breno de Souza Bezerra.
+O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5 e a integração dos acessos e da navegação das Etapas 6 e 7, sob responsabilidade de Bruno Ferreira Dornelas e Caio Breno de Souza Bezerra.
 
 ## Histórico de versão
 

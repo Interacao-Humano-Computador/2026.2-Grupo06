@@ -289,7 +289,7 @@ A leitura dos achados deste relato deve respeitar os seguintes limites metodoló
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na transcrição conferida dos três vídeos, na estruturação das tabelas e na conferência da rastreabilidade com a Etapa 6. A condução das sessões, a análise crítica dos dados e a responsabilidade pelo conteúdo pertencem integralmente a Heitor Pinheiro Gonçalves das Chagas. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na transcrição conferida dos três vídeos, na estruturação das tabelas e na conferência da rastreabilidade com a Etapa 6. A condução das sessões, a análise crítica dos dados e a responsabilidade pelo conteúdo pertencem integralmente a Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

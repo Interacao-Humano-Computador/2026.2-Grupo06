@@ -106,15 +106,15 @@ O Codex (OpenAI) apoiou a redação e a reformulação do roteiro, a organizaç�
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Storyboard com sete quadros, descrição textual e correspondência com a HTA/CTT da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.2 | 13/10/2026 | Amplia textos, esclarece retornos no QD06, simplifica o cenário, retira a versão da imagem e oferece visualização por quadro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.3 | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.4 | 23/10/2026 | Substitui o recorte da Oficina Legislativa pela sugestão de complementos, com Lucas como único protagonista, nova imagem, oito quadros e fundamentação revisada | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.5 | 23/10/2026 | Atualiza protagonista para Letícia, contexto da biblioteca, ilustração e rastreabilidade ao novo modelo de tarefas. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.6 | 24/10/2026 | Identifica a ilustração como referência para desenho no caderno e retira versão do corpo | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.7 | 24/10/2026 | Alinha QD02/QD03 à descoberta de como participar e à pesquisa de ideias; preserva o recorte anterior no histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.8 | 24/10/2026 | Simplifica os oito quadros para desenho no papel, mantém a biblioteca comunitária em toda a narrativa e acrescenta orientações de sequência, contexto e retornos | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 0.9 | 24/10/2026 | Acrescenta referência visual em preto e branco com oito quadros simplificados e prompt de geração | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Storyboard inicial em sete quadros com vínculo à HTA/CTT | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Ajuste de textos, retornos do QD06 e visualização por quadro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.2` | 13/10/2026 | Revisão de linguagem e padronização das contribuições | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 23/10/2026 | Mudança do recorte para sugestão de complementos em oito quadros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 23/10/2026 | Atualização da protagonista Letícia e vínculo ao modelo de tarefas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 24/10/2026 | Indicação da ilustração como referência para desenho manual | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.6` | 24/10/2026 | Alinhamento de QD02 e QD03 à pesquisa de ideias | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 24/10/2026 | Simplificação dos oito quadros para desenho em papel | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.8` | 24/10/2026 | Inclusão da referência em preto e branco e prompt de apoio | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 
 ## Referências
 

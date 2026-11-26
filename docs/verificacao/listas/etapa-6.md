@@ -534,7 +534,7 @@ Cada pergunta está ligada ao artefato ou procedimento que será conferido.
 
 ## Agradecimentos
 
-Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. A revisão dos critérios da V1 ficou a cargo de [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Codex (OpenAI) apoiou a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo.
 
 ## Histórico de versão
 

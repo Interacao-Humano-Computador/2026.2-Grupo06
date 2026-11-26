@@ -72,7 +72,7 @@ A sessão verifica no protótipo **AF-1.0** os requisitos derivados dos problema
 
 ## Agradecimentos
 
-Claude Code (Anthropic) apoiou a análise das gravações, a estruturação e a redação deste material. Luís Henrique Arruda Luna responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+Claude Code (Anthropic) apoiou a análise das gravações, a estruturação e a redação deste material. Luís Henrique Arruda Luna responde pelo conteúdo.
 
 ## Histórico de versão
 

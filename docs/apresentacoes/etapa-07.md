@@ -32,15 +32,16 @@ Cada pessoa incorpora a própria gravação na seção correspondente. A gravaç
 
 ### Bruno Ferreira Dornelas
 
-**Autor do item:** Bruno Ferreira Dornelas.
-
-**Recorte:** sugestão e acompanhamento de complementos de ideias legislativas.
-
-Categoria no YouTube: **não listado**.
+- Categoria no YouTube: **não listado**
+- Link: [https://youtu.be/ryII_o59Lwc](https://youtu.be/ryII_o59Lwc)
+- Data da gravação: 15/11/2026
+- Duração: 6 min 53 s
+- Participante: Bruno Ferreira Dornelas
+- Percurso: [relato consolidado de Bruno](../entrega-7/individual/bruno/relato-alta-fidelidade.md) e [protótipo HTML (`commit a389cd0`)](../prototipos/bruno/alta-fidelidade/index.html)
+- Avaliações presenciais com três participantes, distintas desta apresentação: [vídeos e evidências](../entrega-7/individual/bruno/evidencias.md)
 
 [Relato consolidado de Bruno](../entrega-7/individual/bruno/relato-alta-fidelidade.md){ .md-button .md-button--primary }
 [Vídeos e evidências](../entrega-7/individual/bruno/evidencias.md){ .md-button }
-
 [Assistir à apresentação](https://youtu.be/ryII_o59Lwc){ .md-button .md-button--primary }
 
 ??? note "Vídeo — Apresentação da Etapa 7, Bruno Ferreira Dornelas"
@@ -176,11 +177,7 @@ A Tabela 2 organiza os blocos da apresentação de cerca de 5 minutos com base n
 
 ## Agradecimentos
 
-Codex (OpenAI) e Grok (xAI) apoiaram a consulta das fontes e a preparação deste material. Caio Breno de Souza Bezerra responde pelo conteúdo. Revisor: [Bruno Ferreira Dornelas](https://github.com/brunnf).
-
-Na minha apresentação, utilizei o Codex (OpenAI) como apoio à organização da exposição dos resultados. Assumo a responsabilidade pelo conteúdo do meu recorte.
-
-Antigravity e Google Gemini apoiaram na estruturação da sequência e do roteiro de apresentação de Heitor Pinheiro Gonçalves das Chagas, que responde pelo conteúdo do próprio recorte.
+Codex (OpenAI), Grok (xAI), Antigravity e Google Gemini apoiaram a consulta das fontes, a preparação deste material e a organização das sequências e exposições individuais. Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra, Heitor Pinheiro Gonçalves das Chagas, Israel Soares de Paiva e Luís Henrique Arruda Luna respondem pelos respectivos recortes e conteúdos.
 
 ## Histórico de versão
 
@@ -207,6 +204,7 @@ A Tabela 3 registra o histórico deste artefato. A numeração das versões foi 
 | `1.16` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.17` | 15/11/2026 | Identificação do vídeo de apresentação de Bruno como não listado | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `1.18` | 15/11/2026 | Inclusão do link, duração (4 min 38 s) e embed do vídeo individual de apresentação de Heitor e remoção do roteiro de fala | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.19` | 25/11/2026 | Padronização dos metadados (data, duração de 6 min 53 s e percurso) na seção de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

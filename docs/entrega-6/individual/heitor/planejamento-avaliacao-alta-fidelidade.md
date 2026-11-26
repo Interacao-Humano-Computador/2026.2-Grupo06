@@ -203,7 +203,7 @@ Durante a execução, o observador preencherá a ficha por tarefa, cronometrando
 
 ## Agradecimentos
 
-O Antigravity e o Google Gemini apoiaram na estruturação das tabelas de métricas, na formatação Markdown e na revisão da coerência metodológica com o framework DECIDE. A formulação técnica das tarefas e a responsabilidade pelo planejamento são de Heitor Pinheiro Gonçalves das Chagas. Revisor técnico: [Bruno Ferreira Dornelas](https://github.com/brunnf).
+O Antigravity e o Google Gemini apoiaram na estruturação das tabelas de métricas, na formatação Markdown e na revisão da coerência metodológica com o framework DECIDE. A formulação técnica das tarefas e a responsabilidade pelo planejamento são de Heitor Pinheiro Gonçalves das Chagas.
 
 ## Histórico de versão
 

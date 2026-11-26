@@ -98,9 +98,7 @@ A Tabela 4 reúne o que precisa mudar nos artefatos e o que ainda depende de inf
 
 ## Agradecimentos
 
-O Codex (OpenAI) apoiou a atualização da referência ao planejamento de Bruno em 24/10/2026.
-
-O Claude (Anthropic) apoiou a redação, a organização e a conferência dos critérios contra o texto dos artefatos. A responsabilidade pelo conteúdo publicado é do autor.
+O Claude (Anthropic) apoiou a redação, a organização e a conferência dos critérios contra o texto dos artefatos, e o Codex (OpenAI) apoiou a atualização da referência ao planejamento de Bruno em 24/10/2026. A responsabilidade pelo conteúdo publicado é do autor.
 
 ## Histórico de versão
 
