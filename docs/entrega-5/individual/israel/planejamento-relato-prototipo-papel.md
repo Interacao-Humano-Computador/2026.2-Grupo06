@@ -11,6 +11,8 @@ A Tabela 1 identifica as contribuições neste artefato.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Estruturação do modelo de relato, fichas de evidência, consolidação e matriz de rastreabilidade | [Conteúdo](#estrutura-do-relato) |
 | Google Gemini | Apoio na estruturação das tabelas e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão de conformidade com a Etapa 5 e rastreabilidade | [Introdução](#introducao) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Correção da inspeção V2 da Etapa 5: coluna de recorrência na ficha de problemas | [Ficha de problemas](#ficha-de-problemas-identificados-e-controle-de-ciclos) |
+| Claude (Anthropic) | Apoio à redação da correção da versão 1.2 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições no planejamento do relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -103,13 +105,15 @@ A Tabela 4 estabelece o modelo de ficha individual que o observador preencherá 
 
 A Tabela 5 padroniza o registro dos problemas de usabilidade encontrados durante a avaliação, garantindo rastreabilidade com a literatura e o encaminhamento para o reprojeto.
 
-| ID | Tela / Cartão | Descrição do problema e evidência observada | Fator de usabilidade afetado | Prioridade de correção | Proposta de reprojeto | Status de resolução |
-| :---: | --- | --- | --- | :---: | --- | :---: |
-| PR01 | PP-S04 | *[Exemplo: Usuário não percebeu que o dia em vermelho significava esgotado]* | Facilidade de aprendizado | Média | Incluir legenda textual explícita abaixo do calendário | A preencher na Etapa 6 |
-| PR02 | | | | | | |
+| ID | Tela / Cartão | Descrição do problema e evidência observada | Fator de usabilidade afetado | Prioridade de correção | Proposta de reprojeto | Status de resolução | Recorrência |
+| :---: | --- | --- | --- | :---: | --- | :---: | --- |
+| PR01 | PP-S04 | *[Exemplo: Usuário não percebeu que o dia em vermelho significava esgotado]* | Facilidade de aprendizado | Média | Incluir legenda textual explícita abaixo do calendário | A preencher na Etapa 6 | A preencher na Etapa 6 |
+| PR02 | | | | | | | |
 
 <p class="caption">Tabela 5 — Ficha de registro de problemas de usabilidade.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
+
+**Status de resolução** usa dois valores: **corrigido**, quando a folha ou o cartão foi de fato alterado (registrar a versão, por exemplo PP-1.0 → PP-1.1), e **pendente**, quando a mudança ainda não foi feita. **Recorrência** registra o que aconteceu no teste seguinte à correção: **não recorreu**, **recorreu** (com o localizador da nova ocorrência) ou **não retestado**, quando não houve nova execução. Um problema só é dado como resolvido quando foi corrigido e não recorreu em um novo teste (BARBOSA; SILVA, 2010, p. 361–362).
 
 ### Critérios de prioridade operacional
 
@@ -136,7 +140,7 @@ A Tabela 6 servirá como síntese final do relato, confrontando as hipóteses de
 
 ## Agradecimentos
 
-Esta página contou com o apoio do Google Gemini na formatação Markdown e na elaboração dos modelos de tabelas de registro. A definição dos parâmetros e a responsabilidade pelo planejamento são do autor.
+Esta página contou com o apoio do Google Gemini na formatação Markdown e na elaboração dos modelos de tabelas de registro. O Claude (Anthropic) apoiou a redação da correção da versão 1.2. A definição dos parâmetros e a responsabilidade pelo planejamento são do autor.
 
 ## Histórico de versão
 
@@ -144,6 +148,7 @@ Esta página contou com o apoio do Google Gemini na formatação Markdown e na e
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 23/10/2026 | Criação do planejamento do relato dos resultados do protótipo de papel | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 02/11/2026 | Inclusão da matriz de rastreabilidade metodológica entre perguntas, evidências empíricas e o relato da Etapa 6 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/11/2026 | Corrige o achado E5-18 da inspeção V2 da Etapa 5: coluna “Recorrência” na Tabela 5 e definição dos estados corrigido, pendente e não retestado | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
 
 ## Referências
 
