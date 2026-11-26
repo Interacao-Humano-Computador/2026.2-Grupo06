@@ -24,7 +24,7 @@ Os critérios da etapa estão na [Lista de verificação da Etapa 6](../verifica
 
 ## Vídeos
 
-Cada pessoa incorpora a própria gravação na seção correspondente. Os vídeos de Bruno Ferreira Dornelas, Caio Breno de Souza Bezerra e Luís Henrique Luna de Arruda têm link nesta página. A gravação da avaliação com participante fica no relato do papel e não substitui esta apresentação.
+Cada pessoa incorpora a própria gravação na seção correspondente. A página reúne as apresentações de Bruno, Caio, Israel e Luís. A seção de Heitor aguarda o link da apresentação individual. Os vídeos de participantes estão nos relatos de avaliação do papel.
 
 ### Bruno Ferreira Dornelas
 
@@ -126,6 +126,7 @@ A Tabela 2 registra a versão deste artefato.
 | `0.3` | 03/11/2026 | Inclui a gravação individual de Caio e separa um espaço por integrante | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 03/11/2026 | Inclui a gravação individual de Luís | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.5` | 03/11/2026 | Inclusão do vídeo da apresentação individual de Bruno Ferreira Dornelas | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `0.6` | 26/11/2026 | Confere os quatro links publicados e explicita a pendência do vídeo individual de Heitor (D09) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>

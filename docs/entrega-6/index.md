@@ -93,7 +93,9 @@ Abra o nome do integrante para acessar seu recorte. Cada pessoa acrescentará su
 
 ## Verificação e continuidade
 
-[Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Etapa 5](../entrega-5/index.md) · [Etapa 7](../proximas/etapa-07.md).
+[Autoverificação do Grupo 06](../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 05](../verificacao/grupo-05/etapa-6/lista-verificacao.md) · [Ata da autoverificação](../atas/ata-06.md) · [Resultado atual da autoinspeção](../entrega-8/grupo-06/etapa-6.md) · [Histórico e mudanças](../entrega-8/grupo-06/historico-etapa-6.md).
+
+[Etapa 5](../entrega-5/index.md) · [Etapa 7](../entrega-7/index.md).
 
 ## Agradecimentos
 
@@ -114,6 +116,7 @@ A Tabela 2 registra a versão deste artefato.
 | `0.7` | 03/11/2026 | Inclusão dos artefatos individuais de Bruno Ferreira Dornelas na Etapa 6 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
 | `0.8` | 03/11/2026 | Inclusão do recorte individual de Israel Soares de Paiva na Etapa 6 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.9` | 10/11/2026 | Integração dos acessos ao protótipo e aos roteiros de alta fidelidade de Bruno | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.0` | 26/11/2026 | Vincula a ata da autoverificação e o acompanhamento das correções | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 <p class="caption">Tabela 2 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

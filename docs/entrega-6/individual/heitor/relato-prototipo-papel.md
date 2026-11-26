@@ -11,6 +11,8 @@ A Tabela 1 registra as contribuições na concepção, condução e documentaç�
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Concepção do kit de protótipo de papel, condução da simulação, compilação das fichas e redação do relato | [Conteúdo](#1-introducao-e-objetivos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica por pares | [Histórico de versão](#historico-de-versao) |
 | Antigravity e Google Gemini | Apoio na estruturação documental, padronização de tabelas e rastreabilidade | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Conferência da correspondência entre ajustes e sessões posteriores na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Conferência dos horários de publicação de cada vídeo | [Horários das publicações](#horarios-das-publicacoes) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -199,6 +201,8 @@ Os ciclos de teste permitiram aprimorar continuamente a dinâmica de avaliação
 - **Ciclo 2 (após a Sessão `PP-H02`):** reforço na sinalização de encaixe do post-it na janela vazada de revisão (`PP-S06`), permitindo reposicionamento mais ágil durante a tarefa de edição (T3);
 - **Ciclo 3 (após a Sessão `PP-H03`):** consolidação do fluxo. Na entrevista de encerramento da Sessão `PP-H03`, a participante declarou espontaneamente: *"achei bem prático, acho que até mais prático do que o próprio site!"*, validando a usabilidade da solução sem necessidade de novos ciclos no papel.
 
+A Tabela 7 registra a recorrência dos problemas `PPP-01` a `PPP-03`. Na sessão `PP-H03`, a [seleção do tipo e do orador](https://youtu.be/EqEhIsJWeV8?t=100) ocorreu sem a hesitação registrada no início da rodada. Depois do ajuste em `PP-M01`, o registro de `PP-H02` mostra a escolha do orador sem dificuldade de leitura ([T2](https://youtu.be/sqA_-ZWXmQY?t=75)). Na transição pelo gov.br, `PP-H03` seguiu para a confirmação e o rascunho foi preservado ([T3 na Tabela 6](#5-resultados-por-tarefa)). O ajuste de encaixe na `PP-S06` foi realizado após `PP-H02`, mas o registro de `PP-H03` descreve a preservação do texto e não isola a operação de reposicionar o post-it. O efeito desse ajuste específico ficou **sem reteste verificável**.
+
 ---
 
 ## 9. Limitações
@@ -229,20 +233,24 @@ As decisões consolidadas serão avaliadas nas tarefas `AF-T1` a `AF-T4` (onde o
 
 ## 11. Gravações e anexos
 
+### Horários das publicações
+
 Em respeito à privacidade dos voluntários e às normas éticas da Resolução CNS nº 510/2016:
 
 - Os Termos de Consentimento Livre e Esclarecido (TCLE) devidamente assinados estão sob a guarda do avaliador responsável e permanecem fora do repositório público;
 - As gravações audiovisuais foram restritas ao enquadramento estrito das mãos e das pranchas de papel sobre a mesa;
 - O registro audiovisual autorizado será publicado na plataforma YouTube sob a modalidade **Não Listado**:
 
-| Sessão | Participante | Duração total | Link da gravação (YouTube — Não Listado) | Minutagens das tarefas (T1 / T2 / T3 / T4) |
-| :---: | :---: | :---: | :---: | :---: |
-| Sessão 01 | `PP-H01` | 03 min 00 s | [Vídeo PP-H01 (YouTube)](https://youtu.be/OGwFM6_nzwM) | T1 a T4 gravadas na íntegra (00:00 a 03:00) |
-| Sessão 02 | `PP-H02` | 02 min 57 s | [Vídeo PP-H02 (YouTube)](https://youtu.be/sqA_-ZWXmQY) | T1 a T4 gravadas na íntegra (00:00 a 02:57) |
-| Sessão 03 | `PP-H03` | 04 min 55 s | [Vídeo PP-H03 (YouTube)](https://youtu.be/EqEhIsJWeV8) | T1 a T4 gravadas na íntegra (00:00 a 04:55) |
+| Sessão | Participante | Duração total | Publicação em 03/11 (Brasília) | Link da gravação (YouTube — Não Listado) | Minutagens das tarefas (T1 / T2 / T3 / T4) |
+| :---: | :---: | :---: | :---: | --- | --- |
+| Sessão 01 | `PP-H01` | 03 min 00 s | 20h07min14s | [Vídeo PP-H01 (YouTube)](https://youtu.be/OGwFM6_nzwM) | T1 a T4 gravadas na íntegra (00:00 a 03:00) |
+| Sessão 02 | `PP-H02` | 02 min 57 s | 20h07min54s | [Vídeo PP-H02 (YouTube)](https://youtu.be/sqA_-ZWXmQY) | T1 a T4 gravadas na íntegra (00:00 a 02:57) |
+| Sessão 03 | `PP-H03` | 04 min 55 s | 20h15min24s | [Vídeo PP-H03 (YouTube)](https://youtu.be/EqEhIsJWeV8) | T1 a T4 gravadas na íntegra (00:00 a 04:55) |
 
 <p class="caption">Tabela 9 — Gravações das sessões de prototipação em papel.</p>
 <p class="source">Fonte: registros de gravação da equipe (2026).</p>
+
+A Tabela 9 traz a duração e o horário de publicação de cada vídeo em 03/11/2026, conforme os metadados do YouTube. A publicação delimita até quando cada sessão já havia ocorrido. O relato foi incluído no repositório na mesma noite. O dia e a hora em que cada pessoa foi avaliada ainda precisam de confirmação. [Registro de inclusão do relato](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/4f6641b)
 
 ### Vídeos das sessões avaliadas
 
@@ -270,6 +278,8 @@ Em respeito à privacidade dos voluntários e às normas éticas da Resolução 
 
 O Antigravity e o Google Gemini apoiaram na formatação estrutural do relatório, na consistência de nomenclatura das tabelas e na consolidação das regras metodológicas. A condução dos testes, o registro dos dados empíricos e a redação crítica são de inteira responsabilidade de Heitor Pinheiro Gonçalves das Chagas.
 
+Codex (OpenAI) apoiou a conferência da correspondência entre ajustes e sessões posteriores na revisão de 26/11/2026.
+
 ## Histórico de versão
 
 A Tabela 10 registra o histórico deste artefato.
@@ -277,6 +287,9 @@ A Tabela 10 registra o histórico deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Estruturação formal do relato do protótipo de papel com 11 seções, fichas de tarefas, matriz de problemas e limitações | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 26/11/2026 | Relaciona os ajustes entre sessões à recorrência e ao reteste disponível (E6-04) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+| `0.3` | 26/11/2026 | Registra o horário confirmado das publicações e a lacuna das datas de realização das sessões (D06) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
+| `0.4` | 26/11/2026 | Individualiza os horários de publicação de PP-H01 a PP-H03 e documenta o limite da data de coleta (D06) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
 
 <p class="caption">Tabela 10 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

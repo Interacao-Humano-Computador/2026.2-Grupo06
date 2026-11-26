@@ -107,7 +107,7 @@ A Tabela 3 apresenta a avaliação dos **20 critérios específicos de conteúdo
 | [E6-C20](../../listas/etapa-6.md#e6-c20) | Cada item de conteúdo tem pergunta, autor, referência e imagem legível da fonte? | Sim | v1.0 · 04/11/2026 · vídeo 20:22 | Cada item tem pergunta, autor, referência e figura legível da fonte. |
 
 <p class="caption">Tabela 3 — Resultados da verificação dos critérios de conteúdo da Etapa 6 (Grupo 05).</p>
-<p class="source">Fonte: critérios elaborados por Caio Breno de Souza Bezerra na <a href="../../listas/etapa-6/">Lista de verificação da Etapa 6</a>; respostas consolidadas a partir da reunião de inspeção do Grupo 06 [6].</p>
+<p class="source" markdown="span">Fonte: critérios elaborados por Caio Breno de Souza Bezerra na [Lista de verificação da Etapa 6](../../listas/etapa-6.md) e respostas consolidadas a partir da reunião de inspeção do Grupo 06 [6].</p>
 
 ---
 

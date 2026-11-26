@@ -10,6 +10,8 @@ A Tabela 1 identifica as contribuições neste artefato.
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Consolidação das sessões, análise de usabilidade, triagem de Krug e decisões de reprojeto | [Conteúdo](#introducao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Histórico de versão](#historico-de-versao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Conferência dos vídeos, dos resultados por tarefa e dos desvios do procedimento | [Desempenho e opinião](#tarefas-desempenho-e-opiniao) |
+| Codex (OpenAI) | Apoio à conferência e à documentação dos ajustes | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -40,7 +42,7 @@ O objetivo geral foi avaliar empiricamente se a interface navegável AF-1.0 solu
 
 O recorte tem como base a [persona Marta Oliveira](../../../entrega-2/individual/israel/persona.md) e retoma diretamente os encaminhamentos **PAP-R01 a PAP-R06** formulados no [relato do protótipo de papel](../../../entrega-6/individual/israel/relato-prototipo-papel.md#analise-do-reprojeto).
 
-A abordagem metodológica seguiu o protocolo de **teste de usabilidade moderado formativo**, adotando a técnica enxuta de Steve Krug (2010) com *Thinking Aloud* (pensar em voz alta) e triagem imediata de problemas no mesmo dia. Os participantes operaram o protótipo em seus próprios computadores/navegadores, enquanto o moderador apresentou os cenários e observou as ações sem fornecer orientações de percurso.
+A abordagem metodológica seguiu o protocolo de **teste de usabilidade moderado formativo**, adotando a técnica enxuta de Steve Krug (2010) com *Thinking Aloud* (pensar em voz alta) e triagem imediata de problemas no mesmo dia. As pessoas operaram o protótipo no navegador, no mesmo ambiente que o moderador. O moderador apresentou um cenário contínuo de agendamento e conduziu a entrevista depois do uso.
 
 A organização deste relato segue a estrutura canônica recomendada por Barbosa e Silva (2010, p. 341–343): objetivos, método, participantes, desempenho nas tarefas, opiniões expressas, problemas encontrados e propostas de reprojeto.
 
@@ -54,11 +56,11 @@ A Tabela 2 descreve as condições operacionais, equipe, recursos, gravações e
 | **Observação / anotações** | Bruno Ferreira Dornelas, registrando erros, hesitações e falas espontâneas |
 | **Amostragem (Steve Krug)** | 2 participantes principais (`AF-P01` e `AF-P02`) com gravações integrais publicadas, mais 1 colaborador para calibração piloto prévia (`AF-PILOTO01`) |
 | **Gravações em vídeo** | `AF-P01` gravado em 4m 49s ([IHC Prot 1](https://www.youtube.com/watch?v=Ss59Jh5vNkw)); `AF-P02` gravado em 5m 37s ([IHC Prot 2](https://www.youtube.com/watch?v=_DLqNBgA2-w)) |
-| **Modalidade e ferramentas** | Remota via Google Meet com gravação de tela e áudio autorizada via TCLE |
+| **Modalidade e ferramentas** | Presencial, com participante e moderador na mesma bancada. Gravação de tela, áudio e duas perspectivas de câmera |
 | **Material avaliado** | Protótipo de alta fidelidade navegável **AF-1.0** (HTML/CSS/JavaScript puro, disponível no repositório) |
-| **Data e horários** | Novembro de 2026; sessões individuais com foco em identificação ágil de problemas |
-| **Aspectos éticos** | Apresentação e concordância prévia com o Termo de Consentimento Livre e Esclarecido (TCLE), garantindo anonimato, privacidade e liberdade de interrupção |
-| **Sessão piloto** | Realizada com `AF-PILOTO01` antes da coleta principal para calibrar o roteiro de tarefas, temporização e legibilidade do protótipo |
+| **Data e horários** | O [primeiro relato, registrado em 12/11/2026](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/02c7792/docs/entrega-7/individual/israel/relato-alta-fidelidade.md), situa a coleta entre 10 e 12/11. Os vídeos foram publicados em 15/11. O dia e o horário de cada sessão não aparecem nas gravações |
+| **Aspectos éticos** | O relato registra concordância com o TCLE antes da coleta. A abertura de [AF-P01, 00:09–00:17](https://youtu.be/Ss59Jh5vNkw?t=9), menciona autorização de gravação e divulgação. A de [AF-P02, 00:14–00:21](https://youtu.be/_DLqNBgA2-w?t=14), menciona a gravação e o uso de link não listado. Os termos assinados ficam sob guarda privada |
+| **Sessão piloto** | Realizada com `AF-PILOTO01` em 08/11, conforme o primeiro relato, para calibrar o roteiro de tarefas, temporização e legibilidade do protótipo |
 
 <p class="caption">Tabela 2 — Condições operacionais, pessoas e ambiente do teste de usabilidade.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -76,90 +78,91 @@ A Tabela 3 consolida o perfil e os metadados dos participantes avaliados.
 
 ### Diferenças em relação ao planejamento
 
-O planejamento original da Etapa 6 previa a execução presencial ou remota. A execução remota com compartilhamento de tela facilitou a participação das pessoas no perfil da persona Marta Oliveira. A amostragem iterativa de 2 a 3 usuários seguiu rigorosamente a diretriz de Steve Krug para identificação rápida dos problemas mais severos no mesmo dia, permitindo priorizar correções antes de ciclos subsequentes.
+O [plano da Etapa 6](../../../entrega-6/individual/israel/planejamento-avaliacao-alta-fidelidade.md#pessoas-local-e-recursos) previa **uma pessoa na sessão principal e outra no piloto**. O [modelo do relato](../../../entrega-6/individual/israel/planejamento-relato-alta-fidelidade.md#amostra-do-relato) considerava ampliar a rodada para três ou quatro pessoas. A execução teve **duas pessoas na avaliação principal**, `AF-P01` e `AF-P02`, com o piloto `AF-PILOTO01` em separado. Assim, as comparações das perguntas AF-Q1–AF-Q6 consideram somente as sessões principais e indicam a cobertura por tarefa. Com duas observações, as proporções da Tabela 6 descrevem a rodada e servem à triagem de problemas.
+
+O plano previa Google Meet na logística. Os vídeos mostram as duas sessões presenciais, com captura de tela e da sala. A equipe apresentou um cenário contínuo, sem cartões separados por tarefa. A entrevista colheu opiniões e sugestões. As gravações não registram uma nota numérica M6. Os intervalos abaixo localizam os episódios de cada tarefa dentro do percurso.
 
 ## Tarefas, desempenho e opinião
 
-Os participantes executaram as 5 tarefas sequenciais previstas no planejamento (AF-T1 a AF-T5). A Tabela 4 sintetiza as ações observadas, intervenções e o sucesso alcançado com base nas evidências em vídeo.
+A Tabela 4 identifica as cinco tarefas no percurso gravado. Cada intervalo aponta a um trecho de vídeo e serve para localizar a evidência.
 
-| Participante / Tarefa | Minutagem no Vídeo | Ações observadas e comportamento no protótipo | Conclusão / Ajuda |
-| --- | :---: | --- | :---: |
-| `AF-P01` / **AF-T1** | `00:40–01:30` | Localizou o card de agendamento na home; leu atentamente as regras de vestimenta e documentos antes de avançar. | Sucesso sem ajuda de percurso |
-| `AF-P01` / **AF-T2** | `01:30–02:25` | Selecionou 3 visitantes; observou a legenda do calendário e escolheu horário matutino disponível com vagas. | Sucesso sem ajuda de percurso |
-| `AF-P01` / **AF-T3** | `02:25–03:15` | Preencheu nome, CPF e telefone; localizou com facilidade a seção de acessibilidade e assinalou apoio para cadeira de rodas. | Sucesso sem ajuda de percurso |
-| `AF-P01` / **AF-T4** | `03:15–04:00` | Identificou o erro no telefone na tela de revisão; clicou em "Editar", corrigiu o número e confirmou com dados preservados. | Sucesso sem ajuda de percurso |
-| `AF-P01` / **AF-T5** | `04:00–04:30` | Visualizou a tela de sucesso, anotou o código gerado e observou as opções de emissão do comprovante em PDF. | Sucesso sem ajuda de percurso |
-| `AF-P02` / **AF-T1** | `00:45–01:40` | Identificou o agendamento; destacou a clareza do alerta quanto à obrigatoriedade de documento oficial com foto. | Sucesso sem ajuda de percurso |
-| `AF-P02` / **AF-T2** | `01:40–02:45` | Definiu 3 pessoas; hesitou brevemente em dia lotado, recuperou-se pelo aviso visual e selecionou data verde matutina. | Sucesso sem ajuda de percurso |
-| `AF-P02` / **AF-T3** | `02:45–03:45` | Digitou os dados solicitados; notou imediatamente o campo de necessidades especiais e selecionou a opção. | Sucesso sem ajuda de percurso |
-| `AF-P02` / **AF-T4** | `03:45–04:35` | Percebeu a falta de dígito no telefone na revisão; acionou a edição, retificou o campo e revalidou com segurança. | Sucesso sem ajuda de percurso |
-| `AF-P02` / **AF-T5** | `04:35–05:10` | Leu o código em destaque; compreendeu que receberá a confirmação por e-mail e que pode imprimir o PDF de confirmação. | Sucesso sem ajuda de percurso |
+| Participante / tarefa | Minutagem | Ações observadas e condições da execução |
+| --- | :---: | --- |
+| AF-P01 / AF-T1 | [00:50–01:01](https://youtu.be/Ss59Jh5vNkw?t=50) | Encontrou “Agendar visita” e passou pela página de regras. Não verbalizou requisitos específicos antes de iniciar |
+| AF-P01 / AF-T2 | [01:01–01:16](https://youtu.be/Ss59Jh5vNkw?t=61) | Escolheu grupo de três pessoas, dia 5 e horário das 9h. Considerou as 10h antes da seleção final |
+| AF-P01 / AF-T3 | [01:16–01:37](https://youtu.be/Ss59Jh5vNkw?t=76) | Usou os dados simulados e explorou as opções de acessibilidade. A revisão ficou sem apoio marcado após a exploração |
+| AF-P01 / AF-T4 | [01:37–01:45](https://youtu.be/Ss59Jh5vNkw?t=97) | A revisão mostrou o telefone incompleto. A pessoa abriu “Editar” e usou o controle para corrigir o telefone |
+| AF-P01 / AF-T5 | [01:45–01:57](https://youtu.be/Ss59Jh5vNkw?t=105) | Chegou à confirmação com código e PDF, comentou o comprovante e escolheu “Voltar ao início” |
+| AF-P02 / AF-T1 | [00:41–00:57](https://youtu.be/_DLqNBgA2-w?t=41) | Encontrou “Agendar visita”, viu as orientações e mencionou vestimenta e documento com foto |
+| AF-P02 / AF-T2 | [00:57–01:16](https://youtu.be/_DLqNBgA2-w?t=57) | Definiu três pessoas e escolheu o dia 5 às 9h, com 12 vagas |
+| AF-P02 / AF-T3 | [01:16–01:32](https://youtu.be/_DLqNBgA2-w?t=76) | Preencheu com dados fictícios e selecionou “Outro” na área de acessibilidade |
+| AF-P02 / AF-T4 | [01:32–01:57](https://youtu.be/_DLqNBgA2-w?t=92) | Identificou a mensagem de telefone incompleto, acionou “Editar”, usou o telefone corrigido e confirmou |
+| AF-P02 / AF-T5 | [01:57–02:15](https://youtu.be/_DLqNBgA2-w?t=117) | Identificou a confirmação, o botão de comprovante e o aviso de envio de cópia por e-mail |
 
-<p class="caption">Tabela 4 — Desempenho observado e localizadores de evidência na interface AF-1.0.</p>
-<p class="source">Fonte: registros em vídeo das sessões no YouTube [IHC Prot 1](https://www.youtube.com/watch?v=Ss59Jh5vNkw) e [IHC Prot 2](https://www.youtube.com/watch?v=_DLqNBgA2-w) (2026).</p>
+<p class="caption">Tabela 4 — Desempenho observado e localizadores na AF-1.0.</p>
+<p class="source">Fonte: gravações IHC Prot 1 e IHC Prot 2, conferidas em 26/11/2026.</p>
 
-A Tabela 5 consolida os relatos verbais colhidos pelo método *Thinking Aloud* e as avaliações de satisfação subjetiva (escala M6 de 1 a 5).
+A Tabela 5 sintetiza a entrevista de cada pessoa. Os relatos abaixo são paráfrases das falas vinculadas aos vídeos.
 
-| Participante / Vídeo | Minutagem | Verbalizações em voz alta (*Thinking Aloud*) | Escala M6 (1–5) | Percepção Geral |
-| :---: | :---: | --- | :---: | --- |
-| `AF-P01` ([IHC Prot 1](https://www.youtube.com/watch?v=Ss59Jh5vNkw)) | `04:30–04:49` | *"Achei ótimo avisar da roupa antes, porque ninguém quer chegar lá e ser barrado na portaria. No calendário ficou bem claro o que estava livre."* | **5 de 5** | Destacou a prevenção de erros e a presença da opção de acessibilidade sem burocracia. |
-| `AF-P02` ([IHC Prot 2](https://www.youtube.com/watch?v=_DLqNBgA2-w)) | `05:10–05:37` | *"Gostei muito de poder revisar tudo antes de confirmar de verdade. O botão de editar me devolveu os dados sem apagar o que eu já tinha feito."* | **5 de 5** | Elogiou a segurança do fluxo em etapas e a confirmação com código localizável. |
+| Participante | Minutagem | Percepção registrada | Nota M6 (1–5) |
+| --- | :---: | --- | --- |
+| AF-P01 | [02:09–04:29](https://youtu.be/Ss59Jh5vNkw?t=129) | Considerou a entrada fácil e o percurso intuitivo. Sugeriu dar mais destaque e melhorar a posição dos avisos de erro | Não aferida |
+| AF-P02 | [02:14–05:24](https://youtu.be/_DLqNBgA2-w?t=134) | Considerou as informações claras, mencionou a correção do telefone e explicou que o código e o comprovante dão segurança | Não aferida |
 
-<p class="caption">Tabela 5 — Síntese das verbalizações e satisfação dos participantes.</p>
-<p class="source">Fonte: entrevistas e falas registradas nas sessões de alta fidelidade (2026).</p>
+<p class="caption">Tabela 5 — Opiniões e cobertura da escala de satisfação.</p>
+<p class="source">Fonte: entrevistas das duas sessões de alta fidelidade (2026).</p>
 
 ## Indicadores e perguntas da avaliação
 
-A Tabela 6 confronta os resultados observados com as perguntas de pesquisa AF-Q1 a AF-Q6 e as metas de usabilidade estabelecidas no planejamento.
+A Tabela 6 confronta as perguntas AF-Q1–AF-Q6 com a cobertura da coleta. As proporções se referem às duas sessões principais. O piloto ficou fora das contagens.
 
-| Pergunta / Indicador | Resultado Apoiado nas Evidências em Vídeo | Atendimento às Metas | Limite Metodológico |
-| --- | --- | :---: | --- |
-| **AF-Q1 / M0:** Encontrabilidade e regras prévias | **2 de 2** participantes localizaram o serviço na home e leram as regras de vestimenta antes de avançar. | **Atingida** (Eficácia 100% ≥ 75%) | O teste partiu da página inicial do protótipo, que apresenta menor ruído visual que o portal oficial. |
-| **AF-Q2 / M0:** Calendário e interpretação de vagas | **2 de 2** interpretaram a legenda de cores e escolheram horário matutino com vagas para 3 pessoas. | **Atingida** (Eficácia 100% ≥ 75%) | O participante `AF-P02` clicou inicialmente em data lotada (`01:55`), recuperando-se prontamente. |
-| **AF-Q3 / M0:** Preenchimento e acessibilidade | **2 de 2** preencheram os dados do titular e assinalaram com sucesso o apoio de cadeira de rodas. | **Atingida** (Eficácia 100% ≥ 75%) | Campos com máscaras e validação imediata facilitaram a digitação rápida. |
-| **AF-Q4 / M2 e M3:** Revisão e correção de dados | **2 de 2** perceberam o erro no telefone na tela de revisão e corrigiram via "Editar" com dados preservados. | **Atingida** (Prevenção e recuperação de erros comprovadas) | O erro no telefone foi verificado pelo cenário proposto para validar a resiliência do formulário. |
-| **AF-Q5 / M0:** Confirmação e comprovante | **2 de 2** identificaram o código gerado, reconheceram as orientações finais e o botão do PDF. | **Atingida** (Eficácia 100% ≥ 75%) | O comprovante em PDF constitui um modelo demonstrativo integrado à interface. |
-| **AF-Q6 / M6:** Satisfação e facilidade percebida | Média de **5,0 de 5,0** na escala de satisfação M6, com elogios espontâneos à clareza e limpeza visual. | **Atingida** (Média 5,0 ≥ 4,0) | Amostra qualitativa enxuta (Krug, 2010); foco em atrito de interface e não em inferência estatística. |
+| Pergunta / indicador | Resultado observado | Alcance |
+| --- | --- | --- |
+| **AF-Q1 / M0** · Encontrar o serviço e ler as regras | 2 de 2 encontraram a entrada. AF-P02 verbalizou vestimenta e documento com foto | Encontrabilidade observada nos dois casos. Compreensão específica das regras confirmada em um |
+| **AF-Q2 / M0** · Calendário e vagas | 2 de 2 escolheram três pessoas e um horário matutino com vagas. Na entrevista, as duas pessoas indicaram que entenderam a legenda | Escolha bem-sucedida nas duas sessões. A rodada não aplicou um cenário separado de indisponibilidade |
+| **AF-Q3 / M0** · Dados e acessibilidade | 2 de 2 usaram a área de acessibilidade. As seleções finais não confirmaram o apoio de cadeira de rodas previsto no critério do plano | Cobertura parcial. Localizar e explorar o controle foi observado |
+| **AF-Q4 / M2 e M3** · Revisão e correção | 2 de 2 usaram “Editar” e corrigiram o telefone de demonstração antes de confirmar | Recuperação observada com o erro simulado. Conclusão restrita às condições do formulário demonstrativo |
+| **AF-Q5 / M0** · Confirmação e comprovante | 2 de 2 chegaram à confirmação. AF-P02 explicou na entrevista o uso do código, da data e do comprovante | Reconhecimento da confirmação observado. O aviso de e-mail representa uma simulação |
+| **AF-Q6 / M6** · Satisfação | As duas entrevistas registraram opiniões favoráveis. Não há notas de 1 a 5 nos registros consultados | Opinião qualitativa documentada. Meta numérica de M6 não aferida |
 
-<p class="caption">Tabela 6 — Respostas às perguntas de pesquisa e verificação das metas de usabilidade.</p>
-<p class="source">Fonte: consolidação dos dados empíricos da interface AF-1.0 (2026).</p>
+<p class="caption">Tabela 6 — Respostas às perguntas e limites por indicador.</p>
+<p class="source">Fonte: Tabelas 4 e 5 e critérios do plano da avaliação (2026).</p>
 
-## Problemas e decisões de reprojeto (Triagem de Steve Krug)
+## Problemas e decisões de reprojeto { #problemas-e-decisoes-de-reprojeto-triagem-de-steve-krug }
 
-Conforme a metodologia de triagem ágil no mesmo dia de Steve Krug (2010), a equipe priorizou os pontos de atrito identificados na sessão, classificando-os por severidade e traçando intervenções diretas para a versão **AF-1.1**, conforme apresentado na Tabela 7.
+A Tabela 7 organiza propostas de triagem para a próxima versão. As gravações mostram a AF-1.0 e nenhuma dessas mudanças foi retestada nelas.
 
-| ID / Ponto de Interface | Severidade (Krug) | Evidência no Vídeo / Fator de Uso | Decisão de Reprojeto para AF-1.1 | Responsável / Situação |
-| --- | :---: | --- | --- | :---: |
-| **AF-PR01:** Legenda do calendário (AF-T2) | **Baixa** | `AF-P02` hesitou brevemente ao clicar em data cinza (`01:50–02:05 do Vídeo 2`). | Reforçar o contraste das legendas abaixo do calendário e incluir rótulo de texto descritivo ao passar o cursor (*hover*). | Israel Soares / **Planejado para AF-1.1** |
-| **AF-PR02:** Destaque do botão "Baixar Comprovante" (AF-T5) | **Baixa** | `AF-P02` observou primeiro o código de confirmação antes de reparar no botão secundário de download do PDF (`04:45 do Vídeo 2`). | Alterar o botão de download para variante primária destacada na tela de desfecho. | Israel Soares / **Planejado para AF-1.1** |
-| **AF-L01:** Envio de confirmação por SMS/WhatsApp | **Sugestão** | Participante manifestou interesse em receber lembrete no celular além do e-mail cadastrado. | Avaliar viabilidade técnica de incluir checkbox "Desejo receber lembrete por WhatsApp/SMS". | Equipe / **Para ciclo futuro** |
+| ID / ponto | Evidência | Prioridade | Encaminhamento |
+| --- | --- | --- | --- |
+| AF-PR01 · Calendário | AF-P01 verbalizou dois horários antes de selecionar 9h ([01:07–01:16](https://youtu.be/Ss59Jh5vNkw?t=67)). Concluiu a escolha | Baixa | Manter horário, vagas e seleção em texto. Conferir contraste e leitura da legenda em uma tarefa de indisponibilidade |
+| AF-PR02 · Comprovante | Os dois participantes chegaram à tela com o botão de PDF. AF-P02 destacou seu valor na entrevista ([04:02](https://youtu.be/_DLqNBgA2-w?t=242)) | Baixa | Manter o acesso no mesmo bloco do localizador. Verificar se leitores diferentes o encontrariam sem explicação |
+| AF-PR03 · Aviso do telefone | AF-P01 relatou que um aviso periférico poderia passar despercebido e sugeriu uma posição mais destacada ([03:47–04:29](https://youtu.be/Ss59Jh5vNkw?t=227)) | Média | Associar a mensagem ao campo e dar destaque ao aviso na revisão. Testar legibilidade, ausência de dependência de cor e recuperação |
 
-<p class="caption">Tabela 7 — Matriz de triagem de problemas e decisões de reprojeto.</p>
-<p class="source">Fonte: debriefing pós-teste segundo a metodologia de Steve Krug (2026).</p>
+<p class="caption">Tabela 7 — Evidências e propostas para nova rodada.</p>
+<p class="source">Fonte: gravações das duas sessões e triagem formativa do recorte (2026).</p>
 
 ### Continuidade em relação ao protótipo de papel
 
-A Tabela 8 documenta como os encaminhamentos PAP-R01 a PAP-R06 formulados na Etapa 6 se comportaram na alta fidelidade.
+A Tabela 8 liga as decisões do [relato do papel](../../../entrega-6/individual/israel/relato-prototipo-papel.md) à AF-1.0.
 
-| Decisão Anterior (Papel) | Comportamento na Alta Fidelidade (AF-1.0) | Situação / Encaminhamento |
-| --- | --- | :---: |
-| **PAP-R01:** Regras visíveis antes do formulário | Regras de vestimenta e documentos apresentadas na etapa inicial; assimiladas por todos os participantes. | **Resolvido e consolidado** |
-| **PAP-R02:** Avisos de vestimenta destacados | Alerta com ícones de trajes permitidos e proibidos impediu dúvidas dos participantes. | **Resolvido e consolidado** |
-| **PAP-R03:** Calendário com vagas explícitas | Quantidade de visitantes limita dinamicamente os horários elegíveis. | **Resolvido**, com pequeno ajuste de legenda (AF-PR01). |
-| **PAP-R04:** Apoio de acessibilidade simplificado | Checkbox e campo de especificação localizados com 100% de sucesso. | **Resolvido e consolidado** |
-| **PAP-R05:** Tela de revisão com botão "Editar" | Participantes corrigiram dados incorretos sem perda de preenchimento. | **Resolvido e consolidado** |
-| **PAP-R06:** Confirmação com comprovante claro | Código identificador em caixa destacada com instrução do que levar no dia. | **Resolvido**, com ajuste de ênfase visual (AF-PR02). |
+| Decisão no papel | Resultado na AF-1.0 |
+| --- | --- |
+| PAP-R01 · Entrada do agendamento | As duas pessoas encontraram a entrada do serviço |
+| PAP-R02 · Regras antes do agendamento | A tela aparece nas duas sessões. AF-P02 verbalizou trajes e documento |
+| PAP-R03 · Vagas por data e horário | As duas pessoas escolheram uma opção com vagas. Falta observar um cenário em que a data desejada esteja lotada |
+| PAP-R04 · Seção de acessibilidade | As duas pessoas interagiram com a seção. A rodada não confirmou a escolha final do apoio de cadeira de rodas |
+| PAP-R05 · Correção na revisão | As duas pessoas corrigiram o telefone simulado pelo controle “Editar” |
+| PAP-R06 · Confirmação e comprovante | As duas chegaram à confirmação. AF-P02 explicou o uso do comprovante |
+| PAP-PR01 · Destino após a confirmação | A AF-1.0 mostra “Voltar ao início” separado de “Alterar / cancelar agendamento”. AF-P01 usou o retorno. O caminho de alteração ou cancelamento ficou fora do teste |
 
-<p class="caption">Tabela 8 — Confronto de continuidade entre protótipo de papel e alta fidelidade.</p>
-<p class="source">Fonte: histórico de evolução do design do Grupo 06 (2026).</p>
+<p class="caption">Tabela 8 — Continuidade do papel para a AF-1.0.</p>
+<p class="source">Fonte: relato do papel e gravações das duas sessões (2026).</p>
 
 ## Conclusões e próximos passos
 
-A avaliação de usabilidade de alta fidelidade demonstrou a maturidade da solução navegável **AF-1.0** para o agendamento de visitas ao Senado Federal. Os participantes concluíram com êxito as cinco tarefas propostas, alcançando índice de eficácia de 100% e satisfação máxima (5,0 de 5,0 na escala M6).
+As duas pessoas encontraram o serviço, selecionaram um horário com vagas, corrigiram o telefone de demonstração e chegaram à confirmação. As entrevistas indicaram facilidade de navegação. Em uma sessão, a pessoa pediu maior destaque nos avisos de erro. O resultado orienta o ajuste de legibilidade e a avaliação de um cenário explícito de indisponibilidade ou de necessidade de acessibilidade.
 
-As intervenções propostas pela metodologia de Steve Krug não demandam reformulação estrutural do fluxo, mas ajustes pontuais de hierarquia visual e contraste (AF-PR01 e AF-PR02). Esses ajustes serão contemplados na versão **AF-1.1** para o encerramento do ciclo.
-
-**Limitações do estudo:** Trata-se de uma avaliação qualitativa e formativa com amostra enxuta e dados simulados em memória; os resultados validam a experiência de interação e usabilidade da interface, não substituindo testes de carga, segurança e integração com as bases de dados reais do Senado Federal.
+A amostra de duas pessoas descreve o cenário gravado. Os dados e as confirmações foram simulados. A coleta não aferiu satisfação numérica, atendimento real, envio de e-mail ou recuperação em todos os tipos de erro. As propostas da Tabela 7 precisam de nova rodada para verificar recorrência.
 
 ## Fundamentação consultada
 
@@ -173,7 +176,7 @@ A estrutura deste relato e a análise das sessões apoiam-se na literatura de In
 
 ## Agradecimentos
 
-O relato apoia-se na fundamentação metodológica de Barbosa e Silva (2010) e Steve Krug (2010). Israel Soares de Paiva assume a responsabilidade integral pelo planejamento, pela condução da avaliação e pelo conteúdo deste relato.
+O relato apoia-se na fundamentação metodológica de Barbosa e Silva (2010) e Steve Krug (2010). Codex (OpenAI) e a transcrição local com Faster-Whisper apoiaram a comparação entre o plano, os vídeos e o relato para a versão 2.0. Israel Soares de Paiva conduziu a avaliação.
 
 ## Histórico de versão
 
@@ -181,6 +184,8 @@ O relato apoia-se na fundamentação metodológica de Barbosa e Silva (2010) e S
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 12/11/2026 | Consolidação dos resultados da avaliação da alta fidelidade, triagem de Krug e decisões de reprojeto | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Vinculação direta dos registros audiovisuais do YouTube (IHC Prot 1 e IHC Prot 2) e refinamento dos localizadores por tarefa | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Confere modalidade, localizadores, denominadores, opinião e diferenças entre o plano e as sessões realizadas (E7-07, E7-11 e E7-15) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
+| `2.1` | 26/11/2026 | Recupera a data do piloto e o intervalo indicado no primeiro relato da coleta (D06) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
 
 ## Referências
 

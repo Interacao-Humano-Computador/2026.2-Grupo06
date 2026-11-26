@@ -11,6 +11,9 @@ A Tabela 1 registra as contribuições neste artefato.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Preparação do relato, fichas, condução da sessão e decisões de reprojeto | [Conteúdo](#introducao) |
 | Claude (Anthropic) | Apoio à estruturação, redação e formatação Markdown | [Agradecimentos](#agradecimentos) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e alinhamento com o planejamento | [Introdução](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Conferência da gravação e registro das ações e limites por tarefa | [Resultados da sessão](#resultados-da-sessao) |
+| Codex (OpenAI) | Apoio à conferência documental e aos localizadores da gravação | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Caracterização da autonomia e do apoio observado na sessão | [Perfil observado](#perfil-observado-na-sessao) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -33,21 +36,26 @@ O objetivo é verificar: localização do serviço na página inicial; compreens
 
 ## Equipe e procedimento
 
-A Tabela 2 identifica os papéis previstos para a gravação.
+A Tabela 2 distingue as funções identificadas na gravação das que estavam previstas no planejamento.
 
 | Papel | Responsável / condição |
 | --- | --- |
 | Avaliador, moderador e operador das folhas | Israel Soares de Paiva |
-| Observadores | Caio Breno de Souza Bezerra e Bruno Ferreira Dornelas (a confirmar) |
-| Câmera, enquadramento e gravação no Meet | Luís Henrique Arruda Luna (a confirmar) |
-| Participante principal | PAP-VIS01; perfil e experiência com o serviço a registrar na sessão |
-| Piloto | PP-PILOTO01, pessoa distinta da principal; registrar separadamente |
+| Presentes no Meet | Caio Breno de Souza Bezerra, Bruno Ferreira Dornelas e Luís Henrique Arruda Luna estão identificados na [abertura da gravação](https://youtu.be/iHwOIBnKUUU?t=3). O plano previa observação por Caio e Bruno e apoio de gravação por Luís. A gravação confirma a presença e não registra a divisão dessas funções |
+| Participante principal | Uma pessoa, `PAP-VIS01`. [Caracterização e trechos da sessão](#perfil-observado-na-sessao) |
+| Piloto | `PP-PILOTO01` consta do plano. O vídeo consultado registra somente `PAP-VIS01` |
 | Modalidade e material | Google Meet, câmera superior mostrando folhas e cartões; PP-1.0 |
 
 <p class="caption">Tabela 2 — Papéis e condições da avaliação.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-No Meet, a pessoa aponta ou informa o controle escolhido e verbaliza seu entendimento (*think-aloud*). Israel apresenta os enunciados e troca folhas e cartões conforme as ações. Os observadores registram percurso, ajudas, comentários e dificuldades; a pessoa responsável pela câmera cuida do enquadramento e da gravação. A análise relaciona esses registros às perguntas PP-Q1–PP-Q6.
+No Meet, a pessoa indica verbalmente o controle escolhido e o que entendeu (*think aloud*). Israel apresenta o cenário, troca as folhas e provoca o cenário de correção do telefone. A análise relaciona ações, ajudas e opiniões registradas às perguntas PP-Q1–PP-Q6.
+
+### Perfil observado na sessão
+
+**`PAP-VIS01`.** Participou remotamente e indicou por voz as escolhas nas folhas em português. Encontrou a entrada do serviço sem direcionamento. Usou a legenda do calendário após a explicação do moderador e perguntou como sair da confirmação. [Entrada, 0:46–0:52](https://youtu.be/iHwOIBnKUUU?t=46) · [Calendário, 1:08–2:35](https://youtu.be/iHwOIBnKUUU?t=68) · [Dúvida no fechamento, 4:56–5:27](https://youtu.be/iHwOIBnKUUU?t=296).
+
+A condução confirma o que a pessoa conseguiu fazer de forma autônoma e com apoio. A experiência anterior com agendamentos e com o protótipo ficou sem registro.
 
 ### Organização do material
 
@@ -133,21 +141,21 @@ A Tabela 6 registra a conferência das soluções presentes na proposta antes da
 
 ## Resultados da sessão
 
-Em 03/11/2026, PAP-VIS01 executou o percurso no protótipo PP-1.0, pelo Google Meet. Segundo a síntese do moderador, a pessoa **compreendeu todo o fluxo**, **não teve dúvida sobre o tratamento de erro** e **concluiu a tarefa**. A única dúvida registrada foi sobre a tela final: não ficou claro se a ação disponível levava de volta ao menu inicial ou de volta à edição dos passos anteriores.
+Em 03/11/2026, `PAP-VIS01` percorreu o protótipo PP-1.0 pelo Google Meet e chegou à confirmação. Recebeu orientação sobre o calendário e um enunciado específico para editar o telefone. No fechamento, considerou o fluxo claro e perguntou se a confirmação levava automaticamente à página inicial.
 
-A Tabela 7 relaciona esses registros às perguntas de avaliação. Os localizadores de vídeo e a classificação de ajuda por tarefa (sem ajuda, com ajuda, não concluída) serão acrescentados na conferência das gravações.
+A Tabela 7 relaciona as perguntas às ações verbalizadas e distingue o que foi observado do que o vídeo não permite aferir.
 
 | Pergunta | Resultado observado | Localizador no vídeo |
 | --- | --- | --- |
-| PP-Q1 — localização do serviço | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
-| PP-Q2 — regras antes do preenchimento | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
-| PP-Q3 — calendário e vagas | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
-| PP-Q4 — dados e acessibilidade | Fluxo compreendido, sem dificuldade registrada na síntese | A anexar |
-| PP-Q5 — revisão e correção de erro | Sem dúvida sobre o tratamento de erro | A anexar |
-| PP-Q6 — confirmação e comprovante | Tarefa concluída; **dúvida sobre o destino da tela final** (menu inicial ou edição dos passos anteriores) | A anexar |
+| PP-Q1 · PP-T1 — localização do serviço | Indicou “Agendar visita” na primeira tela, sem orientação de caminho identificada | [00:46–00:52](https://youtu.be/iHwOIBnKUUU?t=46) |
+| PP-Q2 · PP-T1 — regras antes do preenchimento | Indicou “Iniciar agendamento”. A leitura e a interpretação das regras não foram verbalizadas nesse trecho | [00:52–01:08](https://youtu.be/iHwOIBnKUUU?t=52) |
+| PP-Q3 · PP-T2 — calendário e vagas | Escolheu três pessoas e o horário das 9h com 12 vagas. O moderador explicou o calendário e a legenda. A resposta à indisponibilidade ficou sem aferição | [01:08–02:35](https://youtu.be/iHwOIBnKUUU?t=68) |
+| PP-Q4 · PP-T3 — dados e acessibilidade | Indicou o preenchimento dos campos do responsável e que deixaria o apoio de acessibilidade desmarcado. O uso do apoio ficou sem aferição | [02:35–03:05](https://youtu.be/iHwOIBnKUUU?t=155) |
+| PP-Q5 · PP-T4 — revisão e correção de erro | Após o enunciado sobre o erro no telefone, apontou o controle de editar e seguiu à confirmação. A detecção espontânea e a preservação dos demais campos ficaram sem aferição | [03:24–03:59](https://youtu.be/iHwOIBnKUUU?t=204) |
+| PP-Q6 · PP-T5 — confirmação e comprovante | Chegou a S07. O moderador apresentou o PDF e as ações de saída. No fechamento, a pessoa perguntou se voltaria automaticamente ao início. A interpretação espontânea do comprovante ficou sem aferição | [03:59–04:22](https://youtu.be/iHwOIBnKUUU?t=239) · [04:56–05:27](https://youtu.be/iHwOIBnKUUU?t=296) |
 
 <p class="caption">Tabela 7 — Resultados da sessão por pergunta de avaliação.</p>
-<p class="source">Fonte: síntese do moderador após a sessão com PAP-VIS01 (2026).</p>
+<p class="source">Fonte: gravação da sessão de PAP-VIS01 em 03/11/2026, conferida em 26/11/2026.</p>
 
 ### Problema identificado e decisão de reprojeto
 
@@ -155,12 +163,14 @@ A Tabela 8 consolida o problema observado, conforme Barbosa e Silva (2010, p. 36
 
 | ID / tarefa / tela | Evidência | Descrição / fator / consequência | Hipótese de causa | Prioridade / frequência | Correção proposta | Reteste |
 | --- | --- | --- | --- | --- | --- | --- |
-| PAP-PR01 / PP-T5 / S07 | Dúvida verbalizada pelo participante; localizador no vídeo a anexar | A pessoa não soube se a ação da tela final voltava ao menu inicial ou à edição dos passos anteriores. Fator: clareza dos rótulos e do que acontece em seguida. Não impediu a conclusão, mas ocorre no fechamento do fluxo e pode levar a reabrir um agendamento já confirmado. | O destino das ações da tela final não está explícito (hipótese a confirmar no vídeo) | **Média** (proposta); 1 ocorrência em 1 execução de PP-T5, versão PP-1.0 | Em S07, separar dois controles com rótulos de destino: "Voltar ao início do portal" (principal) e "Alterar / cancelar agendamento" (secundário, com a explicação "use o código localizador"). Evitar setas ou botões "Voltar" sem destino. | Não retestado; observar em AF-T5 |
+| PAP-PR01 / PP-T5 / S07 | [04:56–05:27](https://youtu.be/iHwOIBnKUUU?t=296). A pessoa pergunta se a confirmação volta automaticamente ao início | A dúvida sobre a saída após confirmar não impediu a conclusão. O moderador precisou explicar as ações de retorno, alteração e cancelamento | O agrupamento das ações em S07 dificulta prever o destino | **Média**. Um caso em uma sessão que chegou a S07 | Separar “Voltar ao início do portal” de “Alterar ou cancelar agendamento” e indicar o uso do código localizador | Sem reteste no papel. Encaminhado a AF-T5 |
 
 <p class="caption">Tabela 8 — Problema, causa interpretada e correção proposta.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026), com base na sessão com PAP-VIS01.</p>
 
 A prioridade segue a consequência para a conclusão correta: o problema não impediu a tarefa, mas afeta a segurança percebida ao fim do fluxo. Uma correção sem nova execução permanece como **não retestada**. Esta decisão alimenta o critério de AF-T5 no [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md).
+
+A gravação mostra uma rodada com a PP-1.0. O esclarecimento verbal em S07 ocorreu durante essa rodada. A mudança de rótulos ficou para a alta fidelidade, sem alteração do papel ou novo teste documentado.
 
 ## Registro e vídeo
 
@@ -170,19 +180,19 @@ A Tabela 9 concentra os campos de fechamento, evitando repetir pendências pelo 
 
 | Campo | Registro da sessão |
 | --- | --- |
-| Data, início, fim e duração efetivos | 03/11/2026; horários e duração a registrar |
-| Perfil de PAP-VIS01 e exposição anterior ao material | A registrar sem identificação pessoal |
-| Piloto: data, pessoa distinta e ajustes do procedimento | A registrar, separado dos resultados principais |
-| Autorização para participar, gravar e disponibilizar | Conferir antes de disponibilizar; termo fora do repositório |
+| Data, início, fim e duração efetivos | 03/11/2026, das 21h18 às 21h23 pelo relógio do Meet. O arquivo tem 5 min 51 s |
+| Perfil de PAP-VIS01 e exposição anterior ao material | Uma pessoa verbalizou as ações no Meet. O vídeo não registra familiaridade com agendamento ou exposição anterior ao papel |
+| Piloto: data, pessoa distinta e ajustes do procedimento | O plano prevê piloto separado. O registro publicado é só da sessão principal |
+| Autorização para participar, gravar e disponibilizar | A gravação publicada não explicita o alcance da autorização. O termo fica fora do repositório |
 | Versão do material | PP-1.0 |
-| Link do vídeo | Anexado; localizadores de PP-T1–PP-T5 a acrescentar |
+| Link do vídeo | [Sessão PAP-VIS01](https://youtu.be/iHwOIBnKUUU) e localizadores por tarefa na [Tabela 7](#resultados-da-sessao) |
 
 <p class="caption">Tabela 9 — Identificação e fechamento da sessão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 ## Síntese e continuidade
 
-Na sessão com PAP-VIS01, o percurso foi compreendido de ponta a ponta, o tratamento de erro não gerou dúvida e a tarefa foi concluída. A proposta cobriu os cinco objetivos do recorte: localização do serviço, compreensão das regras, leitura do calendário, correção de erro antes do envio e confirmação com comprovante. O único ponto de melhoria registrado foi o destino das ações na tela final (PAP-PR01).
+`PAP-VIS01` encontrou a entrada do agendamento e chegou à confirmação. A equipe explicou a legenda e propôs a correção do telefone durante a sessão. A [opinião final](https://youtu.be/iHwOIBnKUUU?t=263) registra uma avaliação favorável da clareza, com uma dúvida sobre a saída da tela final (PAP-PR01). A cobertura parcial das outras perguntas aparece na Tabela 7.
 
 O relato diferencia a presença de uma solução na interface de sua eficácia durante o uso. Os encaminhamentos seguem para AF-T1–AF-T5 do [planejamento de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md), com atenção ao destino dos botões da tela final. Com um participante, a avaliação descreve este caso e suas condições; não estima a experiência de toda a população.
 
@@ -190,7 +200,7 @@ O estudo não mede recordação após dias, comparação de eficiência com o po
 
 ## Agradecimentos
 
-Claude (Anthropic) apoiou a estruturação e a formatação deste material. Israel Soares de Paiva responde pelo conteúdo.
+Claude (Anthropic) apoiou a estruturação e a formatação do relato original. Codex (OpenAI) e a transcrição local com Faster-Whisper apoiaram a conferência da gravação e dos localizadores na versão 2.0. Israel Soares de Paiva conduziu a sessão.
 
 ## Histórico de versão
 
@@ -200,6 +210,8 @@ A Tabela 10 registra as versões deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do relato e documentação do protótipo de papel do Agendamento de Visita | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.2` | 03/11/2026 | Inclusão do vídeo, dos resultados da sessão e do problema PAP-PR01 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Registra horários, papéis observáveis, localizadores e cobertura das tarefas e da rodada de papel (E6-02 a E6-04) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
+| `2.1` | 26/11/2026 | Descreve autonomia e apoio observados na sessão de PAP-VIS01 com localizadores (E6-02) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
 
 <p class="caption">Tabela 10 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

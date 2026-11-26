@@ -11,6 +11,7 @@ A Tabela 1 registra as contribuições neste artefato.
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Condução das sessões presenciais, gravação, consolidação dos dados observados e redação do relato | [Conteúdo](#1-introducao-objetivos-e-escopo) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica por pares | [Histórico de versão](#historico-de-versao) |
 | Antigravity e Google Gemini | Apoio na análise das transcrições e telas dos vídeos, estruturação das tabelas e conferência de rastreabilidade | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Conferência do denominador e da representação das tarefas sem exposição na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -85,7 +86,7 @@ A Tabela 3 identifica tecnicamente o protótipo avaliado a partir do observado n
 
 ### Referência permanente do protótipo
 
-A versão disponível no projeto corresponde ao [código preservado no commit `4ccc653`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/4ccc65364ee9465255cd1d7dd5e7f79f15b382b8/docs/prototipos/heitor/alta-fidelidade). A comparação com o diretório atual não apresenta alterações. O [protótipo navegável](../../../prototipos/heitor/alta-fidelidade/index.html) permite reproduzir o fluxo; o link permanente preserva o código de referência. O commit identifica a versão do repositório, mas não comprova, sozinho, qual cópia local foi aberta durante a coleta.
+A versão disponível no projeto corresponde ao [código preservado no commit `4ccc653`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/4ccc65364ee9465255cd1d7dd5e7f79f15b382b8/docs/prototipos/heitor/alta-fidelidade). A comparação com o diretório atual não apresenta alterações. O [protótipo navegável](../../../prototipos/heitor/alta-fidelidade/index.html) permite reproduzir o fluxo; o link permanente preserva o código de referência. A [sessão AF-H03](evidencias.md#af-h03-sessao-principal-3) mostra o mesmo evento ao vivo da CRA, o aviso de preservação do rascunho no gov.br e o comprovante `CRA-2026-0842`. A gravação permite reconhecer esse percurso, e a revisão exata da cópia local continua sem confirmação.
 
 ## 2. Método, ambiente, papéis e desvios
 
@@ -96,7 +97,7 @@ A Tabela 4 registra as condições efetivas de execução das sessões observada
 | Aspecto | Execução efetiva registrada |
 | --- | --- |
 | Status de realização das sessões | **3 sessões principais realizadas** (`AF-H01`, `AF-H02`, `AF-H03`). |
-| Datas e horários | Data e horários exatos da coleta presencial não informados nas gravações; vídeos publicados no YouTube em **15/11/2026**. |
+| Datas e horários | O piloto consta em **12/11/2026**. As três sessões principais ocorreram depois do piloto e até a publicação dos vídeos, entre **20h21 e 20h22 de 15/11/2026**, no horário de Brasília. A data e a hora de cada sessão não constam na gravação. |
 | Modalidade e local | **Presencial** (gravação por câmera de celular em formato vertical enquadrando a tela do notebook sobre carteira verde de sala de aula). |
 | Dispositivo e navegador utilizados | Notebook prata Windows (ASUS VivoBook) com **Google Chrome** em tela cheia/local (`127.0.0.1:5500`) nas três sessões. |
 | Papéis da equipe | **Moderador e cinegrafista:** Heitor Pinheiro Gonçalves das Chagas. Não há registro visual ou sonoro de observador/anotador distinto nas gravações. |
@@ -116,7 +117,7 @@ A Tabela 5 confronta o [planejamento da Etapa 6](../../../entrega-6/individual/h
 | Amostra principal | 2 a 3 participantes (`AF-H01` a `AF-H03`) | **3 participantes** (`AF-H01`, `AF-H02`, `AF-H03`), dentro da meta amostral. | Amostra qualitativa formativa completa para o escopo previsto. |
 | Modalidade e agenda | 10–11/11/2026, Google Meet ou FCTE/UnB | Presencial (câmera sobre notebook); vídeos publicados em 15/11/2026. | Preserva observação direta do uso real no navegador; data/hora exatas da gravação não constam no vídeo. |
 | Equipe de avaliação | Moderador (Heitor), observador e responsável técnico | Heitor atuou na moderação e gravação; sem observador distinto registrado. | Análise pós-teste apoiada integralmente nas gravações em vídeo. |
-| Apresentação das tarefas (`AF-T1`–`AF-T4`) | Cartões individuais por tarefa, incluindo cenário específico de erro para `AF-T3` (editar destinatário) | Enunciado unificado na abertura (entrar no evento ao vivo e enviar pergunta ao orador), sem cartão específico de `AF-T3`. | **`AF-T3` não foi executada por nenhum participante (`0/3`)**; não deve ser tratada como falha do usuário. |
+| Apresentação das tarefas (`AF-T1`–`AF-T4`) | Cartões individuais por tarefa, incluindo cenário específico de erro para `AF-T3` (editar destinatário) | Enunciado unificado na abertura (entrar no evento ao vivo e enviar pergunta ao orador), sem cartão específico de `AF-T3`. | **Zero pessoas expostas à `AF-T3`**. O teste não aferiu a edição do destinatário. |
 | Cronometragem e instrumento M6 | Tempo ativo isolado por cronômetro e nota M6 (1–5) | Intervalos extraídos das minutagens dos vídeos; entrevista final qualitativa sem pergunta numérica (1–5). | Tempos apresentados como intervalos aproximados de vídeo; **nota M6 registrada como "não coletado"**. |
 
 <p class="caption">Tabela 5 — Comparação entre o planejamento da Etapa 6 e a execução efetiva.</p>
@@ -176,22 +177,22 @@ A Tabela 8 detalha o desempenho observado por participante e tarefa a partir dos
 | `AF-H02` / **AF-T2** | Selecionou `Pergunta ao Orador`, escolheu o relator `Sen. Carlos Silva`, redigiu `"Como você pretende fiscalizar o uso do crédito?"` e entrou via gov.br como Letícia. | **Sem ajuda** | Nenhum erro crítico. | ~71 s (`01:17–02:28`) | [`01:17–02:28`](https://youtu.be/0ipF1z_tyuA?t=77) |
 | `AF-H02` / **AF-T3** | Conferiu os dados na revisão e clicou diretamente em `Confirmar e enviar`. | **Não executada** | Não se aplica (cenário de edição não aplicado). | ~8 s na revisão (`02:28–02:36`) | [`02:28–02:36`](https://youtu.be/0ipF1z_tyuA?t=148) |
 | `AF-H02` / **AF-T4** | Interpretou inicialmente `Em moderação` como não enviado (`02:36`); moderador esclareceu (`02:45–02:50`). Clicou em `Simular leitura`, depois em `Copiar link para o grupo` e testou abrir o link em outra aba. | **Com ajuda** (esclarecimento de `Em moderação`) | Confusão inicial no significado de `Em moderação`, corrigida após fala do moderador. | ~54 s (`02:36–03:30`) | [`02:36–03:30`](https://youtu.be/0ipF1z_tyuA?t=156) |
-| `AF-H03` / **AF-T1** | Clicou no card `Eventos Interativos` e entrou diretamente na audiência marcada como `Ao vivo agora`. | **Sem ajuda** | Nenhum erro de percurso. | ~18 s (`00:38–00:56`) | [`00:38–00:56`](https://www.youtube.com/watch?v=P8xakOufASA&t=38s) |
-| `AF-H03` / **AF-T2** | Observou os oradores e `Libras`, selecionou `Pergunta ao Orador`, escolheu `Sen. Carlos Silva`, escreveu `"o que você pensa sobre esse tema?"` e entrou pelo gov.br como Letícia Oliveira. | **Sem ajuda** | Nenhum erro crítico. | ~54 s (`00:56–01:50`) | [`00:56–01:50`](https://www.youtube.com/watch?v=P8xakOufASA&t=56s) |
-| `AF-H03` / **AF-T3** | Verificou destinatário e texto na revisão e clicou diretamente em `Confirmar`. | **Não executada** | Não se aplica (cenário de edição não aplicado). | ~11 s na revisão (`01:43–01:54`) | [`01:43–01:54`](https://www.youtube.com/watch?v=P8xakOufASA&t=103s) |
-| `AF-H03` / **AF-T4** | Explicou espontaneamente `Em moderação` (*"tá em aceitação pelos moderadores"*), clicou em `Simular leitura`, copiou o link para o grupo e testou enviar um `Comentário geral` adicional. | **Sem ajuda** | Nenhum erro. | ~27 s (`01:54–02:21`) | [`01:54–02:21`](https://www.youtube.com/watch?v=P8xakOufASA&t=114s) |
+| `AF-H03` / **AF-T1** | Clicou no card `Eventos Interativos` e entrou diretamente na audiência marcada como `Ao vivo agora`. | **Sem ajuda** | Nenhum erro de percurso. | ~20 s (`00:38–00:58`) | [`00:38–00:58`](https://www.youtube.com/watch?v=P8xakOufASA&t=38s) |
+| `AF-H03` / **AF-T2** | Observou os oradores e `Libras`, selecionou `Pergunta ao Orador`, escolheu `Sen. Carlos Silva`, escreveu `"o que você pensa sobre esse tema?"` e entrou pelo gov.br como Letícia Oliveira. | **Sem ajuda** | Nenhum erro crítico. | ~50 s (`00:58–01:48`) | [`00:58–01:48`](https://www.youtube.com/watch?v=P8xakOufASA&t=58s) |
+| `AF-H03` / **AF-T3** | Verificou destinatário e texto na revisão e clicou diretamente em `Confirmar`. | **Não executada** | Não se aplica (cenário de edição não aplicado). | ~4 s na revisão (`01:48–01:52`) | [`01:48–01:52`](https://www.youtube.com/watch?v=P8xakOufASA&t=108s) |
+| `AF-H03` / **AF-T4** | Explicou espontaneamente `Em moderação` (*"tá em aceitação pelos moderadores"*), clicou em `Simular leitura`, copiou o link para o grupo e testou enviar um `Comentário geral` adicional. | **Sem ajuda** | Nenhum erro. | ~29 s (`01:52–02:21`) | [`01:52–02:21`](https://www.youtube.com/watch?v=P8xakOufASA&t=112s) |
 
 <p class="caption">Tabela 8 — Desempenho individual observado nas tarefas `AF-T1` a `AF-T4`.</p>
 <p class="source">Fonte: análise direta das gravações `AF-H01`, `AF-H02` e `AF-H03` (2026).</p>
 
-A Tabela 9 consolida os resultados quantitativos por tarefa sempre com **denominador explícito**.
+A Tabela 9 divide cada contagem pelo número de pessoas que receberam a tarefa. A rodada teve três pessoas. Todas passaram pela tela de revisão, mas nenhuma recebeu a instrução de trocar o destinatário. Em `AF-T3`, a conclusão e os erros ficaram **não aferidos**. O tempo na tela de revisão da Tabela 8 apenas localiza o trecho de vídeo.
 
 | Tarefa | Pessoas expostas ($N$) | Conclusão sem ajuda ($x/N$) | Conclusão com ajuda ($x/N$) | Não executada ($x/N$) | Erros críticos M2 ($x/N$) | Intervalo observado no vídeo |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **AF-T1** | 3 | `3/3` (100%) | `0/3` | `0/3` | — | ~18 s a ~60 s (média ~38 s) |
-| **AF-T2** | 3 | `3/3` (100%) | `0/3` | `0/3` | `0/3` envios incorretos | ~54 s a ~71 s (média ~65 s) |
-| **AF-T3** | 0 (instrução não aplicada) | `0/3` | `0/3` | `3/3` | — | Não aplicável |
-| **AF-T4** | 3 | `1/3` integral (`AF-H03`); `1/3` parcial sem cópia de link (`AF-H01`) | `1/3` (`AF-H02`, esclarecimento de `Em moderação`) | `0/3` | — | ~27 s a ~54 s (média ~37 s) |
+| **AF-T1** | 3 | `3/3` (100%) | `0/3` | `0/3` | — | ~20 s a ~60 s (média ~39 s) |
+| **AF-T2** | 3 | `3/3` (100%) | `0/3` | `0/3` | `0/3` envios incorretos | ~50 s a ~71 s (média ~63 s) |
+| **AF-T3** | 0 (instrução não aplicada) | Não aferida | Não aferida | Não aplicável | Não aferidos | Não aplicável |
+| **AF-T4** | 3 | `1/3` integral (`AF-H03`); `1/3` parcial sem cópia de link (`AF-H01`) | `1/3` (`AF-H02`, esclarecimento de `Em moderação`) | `0/3` | — | ~29 s a ~54 s (média ~37 s) |
 
 <p class="caption">Tabela 9 — Síntese quantitativa por tarefa com denominador explícito.</p>
 <p class="source">Fonte: consolidação da Tabela 8 (2026).</p>
@@ -234,9 +235,9 @@ A Tabela 12 consolida os problemas identificados (`AF-PR01` a `AF-PR04`). Nenhum
 
 | ID | Local (tela / componente) | Tarefa | Evidência empírica e minutagem | Frequência ($x/N$) | Descrição e fator de usabilidade | Hipótese de causa | Severidade | Sugestão de correção | Situação pós-teste |
 | :---: | --- | :---: | --- | :---: | --- | --- | :---: | --- | :---: |
-| **AF-PR01** | `AF-S01` / Página inicial (atalho `Eventos Interativos` vs. bloco `Participe agora`) | `AF-T1` | `AF-H01` (`00:46`), `AF-H02` (`00:49–00:58`), `AF-H03` (`02:36–02:48`) | `3/3` | Hesitação inicial entre dois caminhos possíveis ou ausência de sinalização "AO VIVO" no card superior de `Eventos Interativos` (encontrabilidade e saliência visual). | O card superior não possui selo vermelho de transmissão ativa, enquanto o bloco inferior exibe o indicador. | **Baixa** | Incluir selo `● AO VIVO` dinâmico no card `Eventos Interativos` quando houver audiência ativa. | Pendente (**não retestado**) |
+| **AF-PR01** | `AF-S01` / Página inicial (atalho `Eventos Interativos` vs. bloco `Participe agora`) | `AF-T1` | Busca no menu superior por `AF-H01` (`00:46–01:06`) e dúvida entre dois atalhos em `AF-H02` (`00:49–00:58`). Na entrevista, `AF-H03` sugeriu sinalização ao vivo (`02:36–02:48`) | `2/3` com busca adicional ou dúvida no percurso | Priorizar a entrada para o evento ao vivo. A terceira pessoa localizou a sala diretamente e sugeriu o selo depois de concluir a tarefa. | O card superior não possui selo vermelho de transmissão ativa, enquanto o bloco inferior exibe o indicador. | **Baixa** | Incluir selo `● AO VIVO` dinâmico no card `Eventos Interativos` quando houver audiência ativa. | Pendente (**não retestado**) |
 | **AF-PR02** | `AF-S07` / Badge `Em moderação` no comprovante | `AF-T4` | `AF-H02` (`02:36–02:50`) | `1/3` | Participante interpretou `"Em moderação"` como *"não foi enviado ainda"*, exigindo esclarecimento do moderador (compreensão de estado e feedback). | O rótulo curto sem explicação imediata ao lado do selo permite ambiguidade entre "envio pendente" e "enviado aguardando leitura". | **Média** | Adicionar microtexto explicativo junto ao selo: *"Sua pergunta já foi registrada e aguarda conferência da mesa."* | Pendente (**não retestado**) |
-| **AF-PR03** | `AF-S06` / Botão `Editar destinatário ou texto` | `AF-T3` | `AF-H01` (`02:48`), `AF-H02` (`02:28`), `AF-H03` (`01:43`) | `3/3` não executaram | Nenhum participante acionou a edição na revisão porque o cenário específico de destinatário errado não foi apresentado separadamente (cobertura da meta `M3`). | Enunciado único na abertura da sessão, sem cartão isolado para `AF-T3`. | **Média** | Executar rodada complementar aplicando o cartão específico de `AF-T3` para validar a edição de destinatário. | Pendente (**não retestado**) |
+| **AF-PR03** | `AF-S06` / Botão `Editar destinatário ou texto` | `AF-T3` | `AF-H01` (`02:48`), `AF-H02` (`02:28`), `AF-H03` (`01:48`) | Sem exposição à tarefa | A rodada não avaliou a capacidade de corrigir o destinatário na revisão (meta `M3`). | Enunciado único na abertura da sessão, sem cartão isolado para `AF-T3`. | **Média** | Executar rodada complementar aplicando o cartão específico de `AF-T3` para validar a edição de destinatário. | Pendente (**não retestado**) |
 | **AF-PR04** | `AF-S07` / Botão `Copiar link para o grupo` | `AF-T4` | `AF-H01` (`03:05–03:24`) | `1/3` não acionou | `AF-H01` simulou a leitura pela mesa, mas encerrou sem clicar no botão de copiar link (clareza de próximo passo). | A instrução inicial focou apenas no envio da pergunta ao orador, sem mencionar compartilhamento com o coletivo. | **Baixa** | Manter destaque do botão e incluir explicitamente o compartilhamento do comprovante no cartão da tarefa `AF-T4`. | Pendente (**não retestado**) |
 
 <p class="caption">Tabela 12 — Matriz de problemas de usabilidade (`AF-PR01` a `AF-PR04`) e decisões de reprojeto.</p>
@@ -250,11 +251,11 @@ A Tabela 13 confronta os resultados observados (com denominador explícito) com 
 
 | Pergunta | Metas e faixas do planejamento | Resultado observado (com denominador) | Situação frente às metas |
 | --- | --- | --- | :---: |
-| **AF-Q1** — A participante localiza a audiência ao vivo da CRA sem ajuda operacional? | `M0` (aceitável $\ge 80\%$, ideal $100\%$); `M5` ($\le 180$ s) | **`3/3` (100%)** entraram na sala da CRA sem ajuda operacional; intervalos observados entre ~18 s e ~60 s (todos $\le 180$ s). | **Atingida** (`M0` e `M5` dentro da faixa ideal) |
+| **AF-Q1** — A participante localiza a audiência ao vivo da CRA sem ajuda operacional? | `M0` (aceitável $\ge 80\%$, ideal $100\%$). O plano previa medir o tempo ativo do percurso completo | **`3/3` (100%)** entraram na sala da CRA sem ajuda. Intervalos observados de ~20 s a ~60 s. | **`M0` atingida.** `M5` comparativa sem avaliação, pois o teste não mediu a mesma tarefa no portal oficial |
 | **AF-Q2** — A seleção obrigatória de "Pergunta a Orador" impede submissão como comentário comum? | `M0`; `M2` ($0$ envios incorretos) | **`3/3` (100%)** marcaram `Pergunta ao Orador` antes de digitar, com **`0/3`** envios incorretos como comentário geral. | **Atingida** (`M0` e `M2` na faixa ideal) |
-| **AF-Q3** — O menu suspenso permite selecionar e alterar o relator com facilidade? | `M0`; `M3` ($\ge 80\%$ de recuperação) | **`3/3`** selecionaram o orador no menu suspenso sem dificuldade em `AF-T2`; **`0/3`** executaram a edição na revisão (`AF-T3` não aplicada na condução). | **Parcial / Inconclusiva para `M3`** (seleção atingida; edição não avaliada) |
+| **AF-Q3** — O menu suspenso permite selecionar e alterar o relator com facilidade? | `M0`; `M3` ($\ge 80\%$ de recuperação) | **`3/3`** selecionaram o orador no menu suspenso sem dificuldade em `AF-T2`. A edição do destinatário na revisão ficou **não aferida**, pois `AF-T3` teve zero pessoas expostas. | **Parcial / Inconclusiva para `M3`** (seleção atingida; edição não avaliada) |
 | **AF-Q4** — A simulação gov.br mantém o texto redigido intacto sem perda ou hesitação? | `M0`; `M3` (preservação do contexto) | **`3/3` (100%)** atravessaram a tela gov.br mantendo destinatário e texto intactos na revisão, sem perda de dados nem hesitação bloqueante. | **Atingida** (`M0` e `M3` de retenção) |
-| **AF-Q5** — O protocolo e o status "Em moderação" transmitem segurança documental e satisfação? | `M0`; `M6` (média $\ge 3{,}5$) | **`2/3`** compreenderam ou validaram o comprovante com cópia de link (`AF-H03` autônomo; `AF-H02` após esclarecimento do moderador; `AF-H01` não copiou o link). **Nota numérica M6: não coletada (`0/3`)**; relatos qualitativos positivos nas 3 entrevistas. | **Parcial** (`M6` numérica não avaliada por falta de dado) |
+| **AF-Q5** — O protocolo e o status "Em moderação" transmitem segurança documental e satisfação? | `M0`; `M6` (média $\ge 3{,}5$) | **`3/3`** chegaram ao comprovante. **`1/3`** precisou de esclarecimento sobre “Em moderação”. **`2/3`** copiaram o link, uma pessoa de forma autônoma e a outra após o esclarecimento do status. **Nota numérica M6: não coletada (`0/3`)**; relatos qualitativos positivos nas 3 entrevistas. | **Parcial** (`M6` numérica não avaliada por falta de dado) |
 
 <p class="caption">Tabela 13 — Respostas às perguntas de avaliação comparadas às metas de usabilidade.</p>
 <p class="source">Fonte: consolidação analítica das sessões `AF-H01` a `AF-H03` (2026).</p>
@@ -283,13 +284,15 @@ A leitura dos achados deste relato deve respeitar os seguintes limites metodoló
 1. **Amostra pequena e qualitativa:** a avaliação contou com 3 participantes presenciais (`AF-H01` a `AF-H03`), sendo adequada para identificar problemas de interação e fluxo, mas insuficiente para generalização estatística populacional;
 2. **Dados fictícios e simulação em memória:** o protótipo utiliza persona e dados simulados (*Letícia Oliveira — Cidadã Teste*, protocolo fixo `CRA-2026-0842`), sem integração real com o portal e-Cidadania, moderação da CRA ou autenticação gov.br em produção;
 3. **Versão avaliada e ausência de reteste:** os resultados referem-se exclusivamente à versão HTML executada localmente nas gravações (Tabela 3). As quatro melhorias listadas na Tabela 12 (`AF-PR01` a `AF-PR04`) permanecem **não retestadas**;
-4. **Lacunas específicas da coleta:** (a) a tarefa `AF-T3` (edição de destinatário na revisão) não foi aplicada como cartão separado e teve `0/3` execuções; (b) a nota numérica da escala Likert `M6` (1–5) não foi solicitada nas entrevistas pós-teste; (c) o teste-piloto (`PP-AF-H01`) ocorreu presencialmente na FCTE/UnB em 12/11/2026 (`04:00`), mas não possui link de gravação publicado.
+4. **Lacunas específicas da coleta.** A edição de destinatário (`AF-T3`) ficou sem aferição porque ninguém recebeu o cenário. As entrevistas finais não pediram a nota numérica `M6` (1–5). O piloto `PP-AF-H01` ocorreu presencialmente na FCTE/UnB em 12/11/2026 e não tem link publicado.
 
 ---
 
 ## Agradecimentos
 
 O Antigravity e o Google Gemini apoiaram na transcrição conferida dos três vídeos, na estruturação das tabelas e na conferência da rastreabilidade com a Etapa 6. A condução das sessões, a análise crítica dos dados e a responsabilidade pelo conteúdo pertencem integralmente a Heitor Pinheiro Gonçalves das Chagas.
+
+Codex (OpenAI) apoiou a conferência dos denominadores, dos localizadores dos vídeos e da representação das tarefas sem exposição na revisão de 26/11/2026.
 
 ## Histórico de versão
 
@@ -299,6 +302,8 @@ A Tabela 15 registra o histórico deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Estruturação completa do relato da avaliação de alta fidelidade de Heitor conforme planejamento da Etapa 6 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Preenchimento integral dos resultados a partir da análise dos três vídeos (`AF-H01` a `AF-H03`), explicitando lacunas reais (`AF-T3`, `M6`, piloto e perfis não coletados) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Corrige o denominador de AF-T3 e distingue tarefa não aplicada de resultado negativo (E7-07) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
+| `2.1` | 26/11/2026 | Confere localizadores da terceira sessão, recalcula intervalos e distingue ações observadas de sugestões da entrevista (E7-06 a E7-08) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
 
 <p class="caption">Tabela 15 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

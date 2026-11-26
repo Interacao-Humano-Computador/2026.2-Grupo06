@@ -10,6 +10,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | --- | --- | --- |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Consolidação das sessões, resultados e decisões de reprojeto | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta do plano e do livro, análise audiovisual e organização documental | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Caracterização de cada pessoa e conferência dos registros de autorização | [Perfis observados](#perfis-observados-nas-sessoes) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -40,13 +41,13 @@ A Tabela 2 identifica as sessões. As duas pessoas participaram da avaliação p
 | Moderador / avaliador | Caio Breno de Souza Bezerra |
 | Observação | Bruno Ferreira Dornelas, nas duas sessões |
 | Gravação | Captura da tela do notebook e câmera da sala, uma de cada pessoa |
-| Participantes | AF-P01 e AF-P02, duas pessoas adultas. Os códigos substituem o nome |
+| Participantes | Duas pessoas adultas, `AF-P01` e `AF-P02`. [Perfis observados nas sessões](#perfis-observados-nas-sessoes) |
 | Modalidade / recursos | Presencial, na mesma sala; notebook Dell, mouse, navegador, captura da tela e câmera externa |
-| Material | [Protótipo AF-1.2](../../../prototipos/caio/alta-fidelidade/index.html), identificado na faixa superior |
+| Material | [Protótipo AF-1.2](../../../prototipos/caio/alta-fidelidade/index.html), identificado na faixa superior, com [código preservado no commit `bcd3466`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/bcd3466/docs/prototipos/caio/alta-fidelidade), de 10/11/2026 |
 | Data | **11/11/2026, às 9h**. As duas pessoas alternaram o uso |
 | Duração das cópias | AF-P01: tela 3 min 24 s; sala 3 min 32 s. AF-P02: tela 3 min 52 s; sala 3 min 53 s |
-| Consentimento | Participação e gravação autorizadas para a disciplina. Termos e contatos ficam fora do site |
-| Piloto | Feito antes da sessão principal. Os resultados abaixo são de AF-P01 e AF-P02 |
+| Consentimento | [Registro por sessão e alcance documentado](#consentimento-registrado) |
+| Piloto | Realizado em 11/11, antes das sessões das 9h. Horário exato, código da pessoa e ajustes do ensaio sem registro disponível. As contagens utilizam somente AF-P01 e AF-P02. [Roteiro e ficha do piloto](../../../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md#ficha-do-teste-piloto) |
 
 <p class="caption">Tabela 2 — Pessoas, material e condições efetivas.</p>
 <p class="source">Fonte: quatro arquivos audiovisuais e confirmação de Caio sobre data, horário, equipe e separação do piloto, em 11/11/2026.</p>
@@ -54,6 +55,22 @@ A Tabela 2 identifica as sessões. As duas pessoas participaram da avaliação p
 Os [vídeos de consulta](evidencias.md) mantêm as ações das sessões e retiram das capturas de tela a preparação anterior à apresentação e a conversa posterior ao encerramento. Os tempos abaixo usam **as cópias de tela incorporadas nessa página**. A câmera da sala é complementar, com início próprio; não somar as durações dos ângulos.
 
 A sessão segue o [planejamento](../../../entrega-6/individual/caio/planejamento-avaliacao-alta-fidelidade.md): presencial, AF-P01 e AF-P02, protótipo AF-1.2, rascunho depois do acesso e nota global ao final. As quatro tarefas ocorreram em sequência.
+
+### Perfis observados nas sessões
+
+As duas pessoas eram adultas e usaram o notebook, o mouse e o navegador sem ajuda operacional identificada. A caracterização abaixo usa o que cada pessoa demonstrou durante o teste.
+
+- **`AF-P01`.** Navegou pelo serviço apresentado, recuperou-se da tentativa de confirmar antes de marcar a caixa e localizou a mesma ideia no acompanhamento. [Revisão, 1:42–2:08](https://youtu.be/ULoXhwjfX54?t=102) · [Acompanhamento, 2:20–2:43](https://youtu.be/ULoXhwjfX54?t=140).
+- **`AF-P02`.** Navegou e concluiu o envio no primeiro percurso de revisão. No fim, explicou como o indicador de etapas a ajudou a entender sua posição no fluxo. [Revisão, 1:48–2:21](https://youtu.be/fb9sngTdH-c?t=108) · [Entrevista, 3:01–3:31](https://youtu.be/fb9sngTdH-c?t=181).
+
+A experiência anterior com o portal, a proposição de ideias e o protótipo de papel ficou sem registro. A caracterização vale para o cenário e o equipamento usados na sessão.
+
+### Consentimento registrado
+
+- **`AF-P01`.** A abertura localiza a autorização de gravação. [Câmera da sala, 1:03–1:12](https://youtu.be/rqQKK9hTjmE?t=63).
+- **`AF-P02`.** O relato da equipe registra a autorização para participar e gravar para a disciplina. [Abertura da sessão](evidencias.md#af-p02-camera-da-sala).
+
+O alcance da autorização para disponibilizar as duas sessões por link ficou sem confirmação na documentação consultada. Os termos e contatos ficam sob guarda privada.
 
 ## Tarefas, desempenho e opinião
 
@@ -133,6 +150,10 @@ A Tabela 7 confronta as decisões do papel com os resultados da alta fidelidade.
 
 As duas pessoas entraram, revisaram, enviaram e consultaram a mesma ideia sem ajuda de percurso. As duas deram nota 5, e AF-P02 destacou o indicador de etapas. Na revisão, AF-P01 viu a caixa de conferência na hora de confirmar, marcou e concluiu. O encaminhamento é dar mais destaque a essa caixa, mantendo o fluxo que as duas percorreram na AF-1.2.
 
+### Alcance dos resultados
+
+Duas pessoas percorreram o mesmo cenário presencial. Os resultados descrevem esses percursos e podem orientar a revisão da AF-1.2. Uma avaliação com outros perfis é necessária para saber se os mesmos problemas se repetem. O rascunho preenchido permitiu observar a conferência e a confirmação. A redação da ideia desde um formulário vazio ficou fora da avaliação. O acesso, o envio, o identificador e a atualização do estado eram simulados. A rodada não mediu autenticação, análise de conteúdo ou acompanhamento no portal oficial. A nota foi dada ao fim da sessão e os vídeos localizam as ações, sem uma medida de tempo ativo por tarefa.
+
 ## Fundamentação consultada
 
 A Figura 1 apresenta a fonte da estrutura do relato e da análise conjunta de desempenho e opinião.
@@ -155,6 +176,9 @@ Codex (OpenAI) apoiou a consulta bibliográfica, a análise das gravações e a 
 | `1.0` | 11/11/2026 | Consolidação das sessões, resultados e decisões de reprojeto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Alinha a versão AF-1.2 e o procedimento à sessão executada | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 15/11/2026 | Redige os resultados pelo percurso observado nas duas sessões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Explicita a caracterização disponível, o alcance documentado do consentimento, a revisão da AF-1.2 e os limites da rodada (E7-04, E7-11, E7-12 e E7-13) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+| `2.1` | 26/11/2026 | Corrige o localizador do aceite de gravação e explicita os dados disponíveis sobre o piloto | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+| `2.2` | 26/11/2026 | Descreve o perfil observado por pessoa e localiza o alcance do consentimento registrado (E7-04 e E7-11) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Referências
 

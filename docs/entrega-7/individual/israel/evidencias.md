@@ -10,6 +10,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | --- | --- | --- |
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Organização dos registros audiovisuais, incorporação dos vídeos e mapeamento de localizadores | [Conteúdo](#introducao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência | [Histórico de versão](#historico-de-versao) |
+| Codex (OpenAI) | Conferência dos localizadores no vídeo e da visibilidade das gravações na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -24,12 +25,14 @@ As sessões seguiram a metodologia enxuta de Steve Krug (2010), registrando a in
 
 Os códigos `AF-P01` e `AF-P02` são mantidos de forma idêntica entre este documento e o [relato da alta fidelidade](relato-alta-fidelidade.md), preservando a correspondência das evidências sem expor a identidade civil dos participantes, em estrito cumprimento às salvaguardas éticas do Termo de Consentimento Livre e Esclarecido (TCLE).
 
+Os dois vídeos da Tabela 2 estão na categoria **não listado**. A visibilidade foi conferida nas páginas dos vídeos no YouTube em 26/11/2026. A consulta requer o link.
+
 A Tabela 2 identifica a relação dos registros audiovisuais, autoria, perspectivas de captura e durações.
 
 | Código | Participante / Sessão | Registro / Plataforma | Duração | Acesso Direto |
 | :---: | --- | --- | :---: | :---: |
-| `AF-P01` | Participante 1 (Perfil Marta) | Captura de tela e áudio · YouTube (`IHC Prot 1`) | 4 min 49 s | [Acessar gravação AF-P01](#af-p01-sessao-de-teste-1) |
-| `AF-P02` | Participante 2 (Perfil Marta) | Captura de tela e áudio · YouTube (`IHC Prot 2`) | 5 min 37 s | [Acessar gravação AF-P02](#af-p02-sessao-de-teste-2) |
+| `AF-P01` | Participante 1 (Perfil Marta) | Captura de tela e áudio · YouTube, não listado (`IHC Prot 1`) | 4 min 49 s | [Acessar gravação AF-P01](#af-p01-sessao-de-teste-1) |
+| `AF-P02` | Participante 2 (Perfil Marta) | Captura de tela e áudio · YouTube, não listado (`IHC Prot 2`) | 5 min 37 s | [Acessar gravação AF-P02](#af-p02-sessao-de-teste-2) |
 
 <p class="caption">Tabela 2 — Correspondência e duração dos registros audiovisuais.</p>
 <p class="source">Fonte: acervo de avaliações de Israel Soares de Paiva (2026).</p>
@@ -72,13 +75,13 @@ A Tabela 3 apresenta os intervalos temporais (minutagens) correspondentes a cada
 
 | Episódio / Tarefa | AF-P01 (Vídeo 1 · 4m 49s) | AF-P02 (Vídeo 2 · 5m 37s) |
 | --- | :---: | :---: |
-| **Abertura, TCLE e contextualização** | `00:00–00:40` | `00:00–00:45` |
-| **AF-T1: Encontrabilidade e regras prévias** | `00:40–01:30` | `00:45–01:40` |
-| **AF-T2: Calendário e escolha de vagas matutinas** | `01:30–02:25` | `01:40–02:45` |
-| **AF-T3: Preenchimento de dados e acessibilidade** | `02:25–03:15` | `02:45–03:45` |
-| **AF-T4: Revisão e correção de telefone via "Editar"** | `03:15–04:00` | `03:45–04:35` |
-| **AF-T5: Confirmação e instruções do comprovante** | `04:00–04:30` | `04:35–05:10` |
-| **Entrevista final e percepção (Thinking Aloud)** | `04:30–04:49` | `05:10–05:37` |
+| Abertura e contextualização | [00:00–00:50](https://youtu.be/Ss59Jh5vNkw?t=0) | [00:00–00:41](https://youtu.be/_DLqNBgA2-w?t=0) |
+| AF-T1 · Encontrar o serviço e consultar as regras | [00:50–01:01](https://youtu.be/Ss59Jh5vNkw?t=50) | [00:41–00:57](https://youtu.be/_DLqNBgA2-w?t=41) |
+| AF-T2 · Escolher dia e horário | [01:01–01:16](https://youtu.be/Ss59Jh5vNkw?t=61) | [00:57–01:16](https://youtu.be/_DLqNBgA2-w?t=57) |
+| AF-T3 · Dados e acessibilidade | [01:16–01:37](https://youtu.be/Ss59Jh5vNkw?t=76) | [01:16–01:32](https://youtu.be/_DLqNBgA2-w?t=76) |
+| AF-T4 · Revisão e correção do telefone | [01:37–01:45](https://youtu.be/Ss59Jh5vNkw?t=97) | [01:32–01:57](https://youtu.be/_DLqNBgA2-w?t=92) |
+| AF-T5 · Confirmação e comprovante | [01:45–01:57](https://youtu.be/Ss59Jh5vNkw?t=105) | [01:57–02:15](https://youtu.be/_DLqNBgA2-w?t=117) |
+| Entrevista final | [01:57–04:49](https://youtu.be/Ss59Jh5vNkw?t=117) | [02:14–05:37](https://youtu.be/_DLqNBgA2-w?t=134) |
 
 <p class="caption">Tabela 3 — Localizadores temporais nas gravações por tarefa.</p>
 <p class="source">Fonte: análise dos registros das sessões do protótipo AF-1.0 (2026).</p>
@@ -89,12 +92,15 @@ Para consultar o vídeo institucional de apresentação da Etapa 7 com o resumo 
 
 O registro das evidências cumpre as diretrizes éticas estabelecidas na Etapa 2 e as recomendações de documentação audiovisual de Krug (2010) e Barbosa e Silva (2010). Israel Soares de Paiva responde pelo conteúdo.
 
+Codex (OpenAI) apoiou a conferência dos localizadores no vídeo e da visibilidade das gravações na revisão de 26/11/2026.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 12/11/2026 | Estruturação inicial das evidências e localizadores da alta fidelidade | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Inclusão dos links e embeds dos vídeos gravados no YouTube (IHC Prot 1 e IHC Prot 2) com minutagens reais | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/11/2026 | Registra a visibilidade e corrige os localizadores dos dois vídeos (E7-14 e E7-15) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
 
 ## Referências
 

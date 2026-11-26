@@ -60,6 +60,8 @@ Não executar envio no serviço oficial. O acesso de demonstração não pede cr
 
 A sessão principal tem **duas pessoas adultas, AF-P01 e AF-P02**, que alternam o uso. O piloto ocorre antes e não entra nos resultados. O convite é voluntário, por contato acadêmico ou comunitário, sem seleção por opinião política. As pessoas aparecem no relato só pelos códigos.
 
+O critério de inclusão para repetir o protocolo é ser adulto, navegar em páginas web sem orientação e conseguir assumir o cenário do [perfil Proponente](../../../entrega-2/individual/caio/perfil-2/perfil-usuario.md), como alguém que deseja apresentar e acompanhar uma sugestão de interesse coletivo. Experiência com o e-Cidadania é uma informação de caracterização, não um pré-requisito. Duas pessoas permitem observar mais de um percurso na mesma janela de coleta e comparar dificuldades antes de decidir o que reprojetar. A amostra é formativa e descreve apenas os casos observados.
+
 Equipe: Caio modera; Bruno observa. A gravação reúne a captura da tela do notebook e a câmera da sala. Local: mesma sala, presencial, **11/11/2026, às 9h**. Recursos: notebook Dell, mouse, navegador e protótipo AF-1.2. Orçamento adicional **R$ 0**.
 
 ### Tarefas e critérios
@@ -80,11 +82,20 @@ O rascunho usa o título “Orientações claras nos serviços” e a descriçã
 
 ### Condução e piloto
 
-A sessão observada é curta: apresentação do cenário, percurso das quatro tarefas em sequência e entrevista final. A pessoa pode parar antes. Durante o percurso, ouvir os pensamentos em voz alta e evitar perguntas a cada tela. Ao final, uma nota global de 1 (muito insatisfeito) a 5 (muito satisfeito), com justificativa. Essa nota não se reparte por tarefa. Não há cronômetro ativo; o minuto do vídeo localiza a evidência, sem virar tempo de desempenho.
+A sessão inclui apresentação do cenário, quatro tarefas em sequência e entrevista final. Para repetir o protocolo, reservar **10 minutos por pessoa** (2 para abertura e consentimento, 5 para as tarefas e 3 para a entrevista), além de tempo para reiniciar o protótipo entre as sessões. A estimativa foi documentada na revisão de 26/11. Os registros de tela de 11/11 duram **3 min 24 s** e **3 min 52 s**, conforme as [evidências da Etapa 7](../../../entrega-7/individual/caio/evidencias.md#como-consultar).
 
-O piloto é um ensaio do procedimento, feito antes da coleta; seus resultados não compõem a sessão principal (BARBOSA; SILVA, 2010, p. 307–308).
+A pessoa pode parar antes. Durante o percurso, ouvir os pensamentos em voz alta e evitar perguntas a cada tela. Ao final, pedir uma nota global de 1 (muito insatisfeito) a 5 (muito satisfeito), com justificativa. Não há cronômetro ativo. O minuto do vídeo localiza a evidência e a nota é da sessão inteira.
 
-### Agenda proposta
+O piloto serve para conferir se os enunciados são compreensíveis, se o rascunho aparece depois do acesso e se as duas gravações registram as ações. Reservar 10 minutos antes da coleta com uma pessoa voluntária do perfil previsto, identificada como `PP-AF01` e sem participação na amostra principal. Ensaiar a abertura, as quatro tarefas e a entrevista final. Entre o piloto e a coleta, aplicar os ajustes registrados, conferir o cenário inicial e fechar a versão a usar nas sessões principais. Os dados do piloto ficam fora das contagens, tempos e notas da avaliação principal (BARBOSA; SILVA, 2010, p. 307–308).
+
+#### Ficha do teste-piloto
+
+- **Sessão.** Data e horário, código `PP-AF01`, ambiente e versão ensaiada.
+- **Verificação.** Para cada ponto do protocolo, registrar o que funcionou e o que precisa mudar. Conferir enunciados, rascunho depois do acesso, captura da tela, áudio e câmera da sala.
+- **Ajustes e liberação.** Descrever cada ajuste, o responsável e a versão liberada para a coleta. Registrar explicitamente quando o ensaio terminar sem ajustes.
+- **Separação dos dados.** Salvar as notas e a gravação autorizada do piloto com o código `PP-AF01`. Iniciar a coleta principal com fichas vazias e códigos próprios.
+
+### Agenda executada { #agenda-proposta }
 
 A Tabela 4 usa horário de Brasília e registra o que foi executado.
 
@@ -92,7 +103,7 @@ A Tabela 4 usa horário de Brasília e registra o que foi executado.
 | --- | --- | --- |
 | Fixar o comportamento da AF-1.2 | 09/11/2026 | Caio; rascunho depois do acesso |
 | Ajuste visual da AF-1.2 | 10/11/2026 | Caio; identidade do e-Cidadania |
-| Piloto | antes da sessão principal | Caio; fora dos resultados |
+| Piloto | 11/11/2026, antes da sessão das 9h, conforme o [cronograma executado](../../../entrega-1/cronograma.md#cronograma-executado) | Caio. O relato confirma o ensaio e a separação dos resultados. O código da pessoa, o horário e os ajustes do ensaio não constam nos registros consultados |
 | Sessão de AF-P01 e AF-P02 | 11/11/2026, 9h, presencial | Caio modera; Bruno observa; tela e câmera da sala |
 | Análise e relato | 11/11/2026 | Caio; [relato da Etapa 7](../../../entrega-7/individual/caio/relato-alta-fidelidade.md) |
 | Entrega / inspeção / apresentação da Etapa 7 | 15/11 / 16/11 / 17/11 | Marcos do plano de ensino |
@@ -137,6 +148,8 @@ A Tabela 6 registra a versão deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Elaboração do planejamento da avaliação de alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 15/11/2026 | Alinha método, tarefas, agenda e indicadores à sessão presencial de 11/11 e à AF-1.2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Explicita a amostra formativa, a duração para replicação e o protocolo e registro disponível do piloto (E6-08, E6-10 e E6-11) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+| `2.1` | 26/11/2026 | Inclui a ficha do piloto, os pontos de verificação e a passagem do ensaio para a coleta principal (E6-11) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 
 <p class="caption">Tabela 6 — Histórico de versão.</p>

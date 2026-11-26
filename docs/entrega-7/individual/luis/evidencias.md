@@ -11,6 +11,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Organização dos registros audiovisuais e dos localizadores | [Conteúdo](#introducao) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Gravação da sessão | [Como consultar](#como-consultar) |
 | Claude Code (Anthropic) | Apoio à análise quadro a quadro da gravação de tela e à organização documental | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Conferência da visibilidade das três gravações na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -25,13 +26,15 @@ Esta página reúne os registros da avaliação do **protótipo AF-1.0 de solici
 
 Os dois vídeos da sessão principal são **duas perspectivas da mesma sessão com uma pessoa** (AF-P01), não duas avaliações. O código AF-P01 é usado também no [relato](relato-alta-fidelidade.md), sem expor a identidade civil da pessoa participante. **Os localizadores do relato apontam para o Vídeo 2 (tela com webcam).** A câmera da sala começa em outro instante e serve para conferir a condução e a operação do notebook.
 
+As três gravações da Tabela 2 estão na categoria **não listado**, conferida nas páginas dos vídeos no YouTube em 26/11/2026. A consulta requer o link.
+
 A Tabela 2 identifica os registros.
 
 | Código | Perspectiva | Plataforma | Duração |
 | --- | --- | --- | :---: |
-| AF-P01 | Câmera da sala | YouTube | 6 min 5 s |
-| AF-P01 | Tela do notebook com webcam | YouTube | 6 min 36 s |
-| PP-AF01 | Piloto | YouTube | 1 min 1 s |
+| AF-P01 | Câmera da sala | YouTube, não listado | 6 min 5 s |
+| AF-P01 | Tela do notebook com webcam | YouTube, não listado | 6 min 36 s |
+| PP-AF01 | Piloto | YouTube, não listado | 1 min 1 s |
 
 <p class="caption">Tabela 2 — Correspondência e duração dos registros.</p>
 <p class="source">Fonte: gravações da sessão de 12/11/2026.</p>
@@ -98,11 +101,14 @@ A [apresentação da Etapa 7](../../../apresentacoes/etapa-07.md#luis-henrique-a
 
 Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela e a organização deste material. Luís Henrique Arruda Luna responde pelo conteúdo.
 
+Codex (OpenAI) apoiou a conferência da visibilidade das três gravações na revisão de 26/11/2026.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Organização dos registros audiovisuais e localizadores | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 26/11/2026 | Registra a visibilidade conferida dos vídeos da sessão e do piloto (E7-14) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
 
 ## Referências
 

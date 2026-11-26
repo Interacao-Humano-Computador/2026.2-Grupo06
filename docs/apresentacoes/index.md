@@ -21,7 +21,7 @@ A Tabela 1 registra quem atuou neste artefato.
 
 ## Introdução
 
-Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). Nas etapas 1 a 4 há um vídeo coletivo, na categoria **não listado** do YouTube. Nas Etapas 5 e 6, cada integrante publica a própria gravação, também não listada. A Tabela 2 organiza esses vídeos. A apresentação em aula da Etapa 6 é em 05/11/2026.
+Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trabalhou aparecer no vídeo, o plano de ensino atribui zero à entrega do grupo (SALES, 2026). Nas etapas 1 a 4 há um vídeo coletivo, na categoria **não listado** do YouTube. Nas Etapas 5 a 7, cada integrante publica a própria gravação, também não listada. A Tabela 2 organiza esses vídeos. A apresentação em aula da Etapa 6 é em 05/11/2026.
 
 | Etapa | Data da apresentação | Vídeo | Participantes | Página |
 | :---: | :---: | --- | --- | --- |
@@ -30,15 +30,13 @@ Quem produziu o artefato apresenta o próprio artefato. Se alguém que não trab
 | 3 | 08/10/2026 | [YouTube](https://youtu.be/EXlnSLsEW94) | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luis Henrique | [Etapa 3](etapa-03.md) |
 | 4 | 15/10/2026 | [YouTube](https://www.youtube.com/watch?v=5DlHiLsX5bs) | Bruno Ferreira, Caio Breno, Heitor Pinheiro e Israel Soares | [Etapa 4](etapa-04.md) |
 | 5 | 27/10/2026 | [Bruno](https://youtu.be/etmz5FHORxE), [Caio](https://youtu.be/LI57pS_ZuLQ) e [Luís](https://youtu.be/NomecpK1sko); demais a publicar | Um vídeo por integrante | [Etapa 5](etapa-05.md) |
-| 6 | 05/11/2026 | [Caio](https://youtu.be/vaXEtY_bNgE); demais a publicar | Um vídeo por integrante | [Etapa 6](etapa-06.md) |
-| 7 | 17/11/2026 | [Caio](https://youtu.be/xpPGuxcD86I); demais a publicar | Um vídeo por integrante | [Etapa 7](etapa-07.md) |
+| 6 | 05/11/2026 | Quatro vídeos individuais não listados. Pendência identificada na [seção de Heitor](etapa-06.md#heitor-pinheiro-goncalves-das-chagas) | Bruno Ferreira, Caio Breno, Israel Soares e Luís Henrique | [Etapa 6](etapa-06.md) |
+| 7 | 17/11/2026 | Cinco vídeos individuais não listados | Bruno Ferreira, Caio Breno, Heitor Pinheiro, Israel Soares e Luís Henrique | [Etapa 7](etapa-07.md) |
 | 8 | 24/11/2026 | Nove gravações das inspeções — Grupo 06: [Etapa 1](https://youtu.be/W6Q3sFknr8w), [Etapa 2](https://youtu.be/EeMy9lV66Q8), [Etapa 3](https://youtu.be/FojGmm4kSGo), [Etapa 4](https://youtu.be/WXFuTJWdJW4), [Etapa 5](https://youtu.be/Xw5uybDebsc), [Etapa 6](https://youtu.be/MIcfm7qtJTg), [Etapa 7](https://youtu.be/g-zICSAWz3A) · Externas: [Grupo 05 (−1)](https://youtu.be/CuolulKrRGE) e [Grupo 07 (+1)](https://youtu.be/dd04ibyhJ_o) | Grupo 06 | [Etapa 8](etapa-08.md) |
-| Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | — |
+| Final | 01 a 08/12/2026 | 20 a 30 minutos | Grupo | [Apresentação final](../entrega-final/videos.md#apresentacao-final) |
 
 <p class="caption">Tabela 2 — Vídeos de apresentação do projeto.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
-
-A [apresentação da Etapa 6](etapa-06.md) e a [apresentação da Etapa 7](etapa-07.md) reúnem um espaço por integrante. A gravação de Caio Breno de Souza Bezerra já está publicada nas duas.
 
 ## Agradecimentos
 
@@ -66,6 +64,7 @@ O Codex (OpenAI) e o Grok (xAI) apoiaram a padronização dos participantes e a 
 | `1.6` | 15/11/2026 | Inclui o vídeo individual de Caio na apresentação da Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 22/11/2026 | Inclui a página da Etapa 8 com as sete gravações das inspeções | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.8` | 23/11/2026 | Adiciona os links das gravações das inspeções externas do Grupo 05 (−1) e do Grupo 07 (+1) na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.9` | 26/11/2026 | Atualiza a cobertura dos vídeos de apresentação das Etapas 6 e 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Referências
 

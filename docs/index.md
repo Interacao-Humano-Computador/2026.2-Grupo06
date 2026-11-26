@@ -15,8 +15,8 @@ hide:
 <p class="lede">Documentação do semestre. O grupo avalia e reprojeta o Portal do Senado Federal.</p>
 
 <p class="actions">
-<a class="btn btn-gold" href="entrega-8/">Abrir a Etapa 8</a>
-<a class="btn btn-ghost" href="equipe/">Ver a equipe</a>
+<a class="btn btn-gold" href="entrega-final/">Abrir a entrega final</a>
+<a class="btn btn-ghost" href="entrega-8/">Ver a Etapa 8</a>
 </p>
 
 </div>
@@ -30,11 +30,11 @@ hide:
 
 </section>
 
-<nav class="dates" aria-label="Datas da Etapa 8">
-  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Etapa 8</p>
-  <div><b>22/11</b><span>Entrega no Aprender e no GitHub Pages</span></div>
-  <div><b>23/11</b><span>Inspeção da entrega do Grupo +1</span></div>
-  <div><b>24/11</b><span>Apresentação em aula</span></div>
+<nav class="dates" aria-label="Datas da entrega final">
+  <p class="dates-label"><span class="ico" data-icon="calendar-month-outline" aria-hidden="true"></span>Entrega final</p>
+  <div><b>30/11</b><span>Entrega da apresentação</span></div>
+  <div><b>01, 03 e 08/12</b><span>Avaliação dos projetos</span></div>
+  <div><b>10/12</b><span>Resultado da avaliação</span></div>
 </nav>
 
 <nav class="map" aria-label="Mapa do site">
@@ -80,11 +80,16 @@ hide:
     <strong>Resultados da alta fidelidade</strong>
     <span>Relato da avaliação, vídeos, resultados e decisões de reprojeto.</span>
   </a>
-  <a class="tile tile-featured" href="entrega-8/">
+  <a class="tile" href="entrega-8/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
     <span class="tile-kicker">Etapa 8</span>
     <strong>Verificação dos artefatos</strong>
     <span>Listas V2, autoinspeção e inspeção externa por etapa, com gráficos.</span>
+  </a>
+  <a class="tile tile-featured" href="entrega-final/">
+    <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
+    <strong>Entrega final</strong>
+    <span>Checklist do professor, sínteses e tabelas do projeto.</span>
   </a>
   <a class="tile" href="verificacao/">
     <span class="tile-icon ico" data-icon="check-decagram-outline" aria-hidden="true"></span>
@@ -114,13 +119,13 @@ hide:
   <a class="tile" href="proximas/">
     <span class="tile-icon ico" data-icon="flag-checkered" aria-hidden="true"></span>
     <strong>Próximas etapas</strong>
-    <span>Calendário e entrega final.</span>
+    <span>Calendário de entregas.</span>
   </a>
 </nav>
 
 ## Introdução
 
-O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [Etapa 8](entrega-8/index.md) reúne as listas V2 e a verificação dos artefatos de papel e alta fidelidade. A [Etapa 7](entrega-7/index.md) reúne os resultados da avaliação da alta fidelidade. A [Etapa 6](entrega-6/index.md) mantém o relato do papel e os planejamentos. Consulte também o [histórico de verificação](verificacao/index.md) e as [apresentações](apresentacoes/index.md).
+O Grupo 06 avalia e reprojeta o Portal do Senado Federal. A [entrega final](entrega-final/index.md) reúne as sínteses e o checklist do projeto. A [Etapa 8](entrega-8/index.md) reúne as fichas V2 e o acompanhamento das correções. A [Etapa 7](entrega-7/index.md) reúne os resultados da alta fidelidade. A [Etapa 6](entrega-6/index.md) contém os relatos do papel e os planejamentos. Consulte também o [histórico de verificação](verificacao/index.md) e as [apresentações](apresentacoes/index.md).
 
 ## Tabela de contribuição
 
@@ -193,6 +198,7 @@ O Codex (OpenAI) apoiou a atualização da página inicial para a abertura da Et
 | `1.6` | 19/10/2026 | Atualiza datas e acessos para a Etapa 5, mantendo os planejamentos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.7` | 03/11/2026 | Atualização da página inicial e dos acessos à Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.8` | 11/11/2026 | Abre a Etapa 7, com datas e acesso aos resultados da alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.9` | 26/11/2026 | Integra o acesso à entrega final e atualiza os marcos na página inicial | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Bibliografia
 

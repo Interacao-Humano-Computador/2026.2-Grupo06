@@ -13,7 +13,7 @@ As [Etapas 1–5](../index.md) estão organizadas nas seções do site. A [Etapa
 | [6](../entrega-6/index.md) | 03/11/2026 | Relato do papel + planejamento da alta fidelidade |
 | [7, aberta](../entrega-7/index.md) | 15/11/2026 | Relato da alta fidelidade |
 | [8, aberta](../entrega-8/index.md) | 22/11/2026 | Listas V2 e reinspeção dos artefatos |
-| [Final](entrega-final.md) | 30/11/2026 | Sínteses, tabelas e vídeo de 20 a 30 minutos |
+| [Final](../entrega-final/index.md) | 30/11/2026 | Sínteses, tabelas e vídeo de 20 a 30 minutos |
 
 <p class="caption">Tabela 1 — Entregas seguintes ao planejamento.</p>
 <p class="source">Fonte: SALES (2026).</p>
@@ -49,6 +49,7 @@ O Codex (OpenAI) apoiou a atualização da abertura da Etapa 5 e a integração 
 | `1.5` | 19/10/2026 | Aponta a Etapa 5 para a seção própria com trabalhos individuais | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.6` | 03/11/2026 | Atualização dos artefatos e acessos da Etapa 6 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.7` | 11/11/2026 | Liga a Etapa 7 ao relato da alta fidelidade | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 26/11/2026 | Atualiza o acesso ao checklist e às páginas da entrega final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Referências
 

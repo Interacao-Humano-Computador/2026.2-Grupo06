@@ -2,7 +2,12 @@
 
 # Etapa 8 · Verificação dos artefatos
 
+[Resultados atuais](inspecao.md){ .md-button .md-button--primary }
+[Histórico e mudanças](historico.md){ .md-button }
+
 ## Tabela de contribuição
+
+A Tabela 1 registra as atividades neste artefato.
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
@@ -16,7 +21,9 @@
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
-A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (Etapas 1 a 7)**. Seguindo a regra de paridade da disciplina, a inspeção externa cobre os artefatos do **Grupo 07 (+1) nas Etapas 1, 3, 5 e 7** e os do **Grupo 05 (−1) nas Etapas 2, 4 e 6**. As **14 fichas V2** — integralmente consolidadas nos gráficos de [síntese](inspecao.md) — registram **410 respostas verificadas** (**236 Sim**, **157 Incompleto** e **17 Não**), distribuídas entre as Etapas 1 (48), 2 (54), 3 (60), 4 (80), 5 (62), 6 (54) e 7 (52), com critério, constatação, página e versão consultadas.
+## Introdução
+
+A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (Etapas 1 a 7)**. Seguindo a regra de paridade da disciplina, a inspeção externa cobre os artefatos do **Grupo 07 (+1) nas Etapas 1, 3, 5 e 7** e os do **Grupo 05 (−1) nas Etapas 2, 4 e 6**. As **14 fichas V2** — integralmente consolidadas nos gráficos de [síntese](inspecao.md) — registram **410 respostas verificadas** (**287 Sim**, **110 Incompleto** e **13 Não**), distribuídas entre as Etapas 1 (48), 2 (54), 3 (60), 4 (80), 5 (62), 6 (54) e 7 (52), com critério, constatação, página e versão consultadas. As contagens incluem a atualização de 26/11 nas Etapas 4 a 7 do Grupo 06.
 
 <div class="etapa8-acessos" markdown>
 
@@ -34,8 +41,6 @@ A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (E
   Relato do papel, planejamento da avaliação de alta fidelidade e planejamento do relato.
 - [**Lista V2 da Etapa 7**](lista-etapa-7.md)<br>
   Relato do teste de alta fidelidade, evidências e reprojeto.
-- [**Inspeções e gráficos**](inspecao.md)<br>
-  Respostas por grupo, resultados por etapa, gravações das inspeções e roteiro.
 - [**Apresentação da Etapa 8**](../apresentacoes/etapa-08.md)<br>
   Nove vídeos das sessões de inspeção (sete do Grupo 06 e dois dos Grupos 05 e 07).
 - [**Conferência das respostas V1**](conferencia-anterior.md)<br>
@@ -47,6 +52,8 @@ A reinspeção abrange a autoinspeção do Grupo 06 em **todas as sete etapas (E
 
 As listas usam os critérios de desenvolvimento do plano de ensino e fundamentam os critérios de conteúdo em Barbosa e Silva (2010), Vianna et al. (2012) e Preece, Rogers e Sharp (2005), adaptados aos artefatos de cada etapa. A V2 é a versão oficial para a Etapa 8. Cada critério explicita a evidência esperada e a regra de julgamento. As perguntas aceitam planos compartilhados com cobertura demonstrável e registros equivalentes quando a evidência pode ser localizada.
 
+A Tabela 2 reúne as listas e os artefatos de cada etapa.
+
 | Etapa | Artefatos | Lista V1 | Lista V2 oficial |
 | --- | --- | --- | --- |
 | 1 | Planejamento geral, sites avaliados, processo de design e ferramentas | [V1 da Etapa 1](../verificacao/listas/etapa-1.md) | [24 critérios](lista-etapa-1.md) |
@@ -57,15 +64,25 @@ As listas usam os critérios de desenvolvimento do plano de ensino e fundamentam
 | 6 | Relato do papel e dois planos para a alta fidelidade | [V1 da Etapa 6](../verificacao/listas/etapa-6.md) | [27 critérios](lista-etapa-6.md) |
 | 7 | Relatos da alta fidelidade e seus registros | [V1 da Etapa 7](../verificacao/listas/etapa-7.md) | [26 critérios](lista-etapa-7.md) |
 
+<p class="caption">Tabela 2 — Listas de verificação e artefatos por etapa.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
+
 A entrega da Etapa 8 está prevista para **22/11** e a apresentação para **24/11/2026**. Para **23/11**, o plano de ensino registra a inspeção da entrega da Etapa 8 do Grupo +1 (pp. 4–5).
 
-![Trecho grifado do plano com a entrega da Etapa 8 e a inspeção da entrega do Grupo +1.](../assets/img/entrega-8/fontes/etapa8.png){ loading=lazy }
+A Figura 1 mostra as datas previstas para a entrega e a inspeção.
+
+<figure markdown="span">
+  ![Trecho grifado do plano de ensino com os prazos da Etapa 8.](../assets/img/entrega-8/fontes/etapa8.png){ loading=lazy }
+  <figcaption>Figura 1 — Datas de entrega e inspeção no plano de ensino.</figcaption>
+</figure>
 
 <p class="source">Fonte: Sales (2026), p. 4 do PDF. Grifos nas datas de entrega e inspeção.</p>
 
 ## Método de inspeção
 
 A verificação adapta o processo de **Fagan (1976, especialmente Tabela 3 e pp. 190–193)** a documentos de IHC publicados em wiki. A preparação define escopo, versões e critérios. Durante a inspeção, o leitor percorre o artefato, o moderador mantém o foco nas constatações e o registro localiza a evidência. Fagan distingue a identificação dos problemas, o retrabalho e a conferência de cada solução. A classificação distingue a falta de uma informação de uma inconsistência entre registros, adaptação das categorias de Fagan para documentos. A equipe retomará os itens pendentes quando houver nova versão. [Artigo original](https://doi.org/10.1147/sj.153.0182).
+
+A Tabela 3 descreve as operações da inspeção.
 
 | Operação | Aplicação nesta entrega |
 | --- | --- |
@@ -74,6 +91,9 @@ A verificação adapta o processo de **Fagan (1976, especialmente Tabela 3 e pp.
 | Inspeção | Conferir o material publicado e registrar por ID a resposta, a evidência e o impacto da lacuna. Consolidar a frequência por bloco. |
 | Retrabalho | Encaminhar ao responsável do artefato as pendências identificadas na ficha do grupo. |
 | Acompanhamento | Reabrir o mesmo critério na nova versão, registrar data, evidência e resultado. Manter o estado pendente até a verificação. |
+
+<p class="caption">Tabela 3 — Aplicação do método de inspeção nesta entrega.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 Para classificar uma linha, **Sim** exige cobertura em todo o recorte aplicável, **Incompleto** indica evidência parcial ou contraditória, e **Não** indica requisito aplicável sem evidência essencial nos locais consultados. Em itens por integrante, um caso pendente impede Sim no agregado. A ficha indica qual artefato fundamenta a constatação. Nos itens de registro, a declaração pública informa consentimento e visibilidade. O conteúdo de termos assinados e as configurações privadas dos vídeos ficam fora do recorte.
 
@@ -91,11 +111,16 @@ A reinspeção externa segue a distribuição das fichas V1, com o Grupo −1 na
 
 O inventário foi levantado pelos menus e links de cada site. As fichas ligam as páginas renderizadas ao código-fonte na revisão de referência e indicam a versão de cada artefato quando ela está publicada. Identificar a versão testada exige cruzar o endereço do protótipo com a revisão indicada no relato. Autorização e versão são avaliadas pelos registros disponíveis.
 
+A Tabela 4 identifica as revisões de referência das sessões gravadas.
+
 | Grupo inspecionado | Projeto | Revisão de referência | Ficha |
 | --- | --- | --- | --- |
 | Grupo 06 (autoinspeção) | [Portal do Senado Federal](https://interacao-humano-computador.github.io/2026.2-Grupo06/) | [`5dfe10f`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/5dfe10f7661a6b839c87ced4f37f15a33e3a7d46) · Etapa 5: [`1c1da5c`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/tree/1c1da5c3dd5b465764cbeef07304a6c3ccc56b57) | [Etapa 1](grupo-06/etapa-1.md) · [Etapa 2](grupo-06/etapa-2.md) · [Etapa 3](grupo-06/etapa-3.md) · [Etapa 4](grupo-06/etapa-4.md) · [Etapa 5](grupo-06/etapa-5.md) · [Etapa 6](grupo-06/etapa-6.md) · [Etapa 7](grupo-06/etapa-7.md) |
 | Grupo 07 (+1) | [PCI Concursos](https://interacao-humano-computador.github.io/2026.2-Grupo07/) | [`12913da`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo07/tree/12913da5f0d83900ce91e500e26524987f0a9497) | [Etapa 1](grupo-07/etapa-1.md) · [Etapa 3](grupo-07/etapa-3.md) · [Etapa 5](grupo-07/etapa-5.md) · [Etapa 7](grupo-07/etapa-7.md) |
 | Grupo 05 (−1) | [SEMOB-DF](https://interacao-humano-computador.github.io/2026.2-Grupo05/) | [`48109ed`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/48109ede138038cc9e9e9d8a6723b0ad8696c734) (Etapas 2 e 4) · [`cad2b42`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo05/tree/cad2b42de633a5f997fb6a87942bd1cd4da33aa2) (Etapa 6) | [Etapa 2](grupo-05/etapa-2.md) · [Etapa 4](grupo-05/etapa-4.md) · [Etapa 6](grupo-05/etapa-6.md) |
+
+<p class="caption">Tabela 4 — Grupos e revisões de referência das sessões gravadas.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Agradecimentos
 
@@ -104,7 +129,9 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 
 ## Histórico de versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor designado |
+A Tabela 5 registra as versões do artefato.
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 19/11/2026 | Abertura da Etapa 8 e integração das listas V2, fichas e gráficos. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 19/11/2026 | Organiza listas, resultados e fichas por etapa e publica o vínculo entre V1 e V2. | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
@@ -116,6 +143,12 @@ Codex (OpenAI), Claude (Anthropic), Google Gemini e Antigravity (Google DeepMind
 | `1.7` | 22/11/2026 | Inclui o acesso às gravações das inspeções e à apresentação da Etapa 8. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.8` | 23/11/2026 | Vincula as listas V1 não preenchidas das Etapas 1, 2 e 3. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.9` | 25/11/2026 | Sincroniza as 14 fichas V2 (410 respostas nas Etapas 1 a 7) e as 14 fichas históricas da conferência V1 (369 respostas). | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.10` | 26/11/2026 | Liga o comparativo após as correções das Etapas 6 e 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.11` | 26/11/2026 | Atualiza a apresentação dos resultados e dá acesso ao histórico da inspeção V2 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
+| `1.12` | 26/11/2026 | Atualiza os totais das fichas e padroniza as tabelas e a figura do plano de ensino | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+
+<p class="caption">Tabela 5 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Referências
 

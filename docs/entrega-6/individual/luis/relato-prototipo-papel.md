@@ -10,6 +10,8 @@ A Tabela 1 registra a contribuição neste artefato.
 | --- | --- | --- |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Desenho das folhas, moderação da sessão, operação do protótipo e responsabilidade pelo conteúdo | [Método](#metodo-e-versao-avaliada), [execução](#execucao-da-sessao) |
 | Claude Code (Anthropic) | Conferência da legenda automática e dos quadros do vídeo, comparação das folhas com o plano e redação do relato | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Conferência dos encaminhamentos para a alta fidelidade na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Caracterização da interação e conferência dos trechos da sessão | [Perfil observado](#perfil-observado-na-sessao) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -66,13 +68,19 @@ A Tabela 3 reúne os dados da sessão.
 | Modalidade | Remota, com uma câmera voltada para as folhas |
 | Moderador e operador | Luís Henrique Arruda Luna, acumulando os dois papéis |
 | Presentes na sala | Caio Breno de Souza Bezerra, Bruno Ferreira Dornelas e Israel Soares de Paiva, entre outras contas. A gravação não mostra anotações de observação |
-| Participante | **PART-PP01**, uma pessoa. A gravação não informa idade, experiência com o portal ou recrutamento |
+| Participante | Uma pessoa, `PART-PP01`. [Caracterização e trechos da sessão](#perfil-observado-na-sessao) |
 | Consentimento | Autorização verbal para participar e gravar como vídeo não listado (0:58–1:15). A gravação não mostra termo assinado |
 | Piloto | Não aparece neste vídeo; os resultados são só de PART-PP01 |
 | Material | PP-1.0 |
 
 <p class="caption">Tabela 3 — Identificação da sessão.</p>
 <p class="source">Fonte: gravação da sessão, 03/11/2026.</p>
+
+### Perfil observado na sessão
+
+**`PART-PP01`.** Participou remotamente e descreveu por voz as escolhas nas folhas em português. Encontrou os detalhes da plenária e antecipou a passagem de formulário a revisão. Após o aviso, voltou à lista para explorar outra plenária e confirmou verbalmente o resultado quando o moderador perguntou. [Detalhes, 1:48](https://youtu.be/qLjQdD0aoNk?t=108) · [Antecipação da revisão, 2:26](https://youtu.be/qLjQdD0aoNk?t=146) · [Após a confirmação, 3:21–4:05](https://youtu.be/qLjQdD0aoNk?t=201).
+
+A gravação caracteriza como a pessoa leu e percorreu o serviço simulado. Idade, recrutamento e uso anterior do portal ficaram sem registro.
 
 ### Tarefas e resultados
 
@@ -131,7 +139,7 @@ A Tabela 5 separa o que foi dito ou feito da interpretação. As falas vêm da l
 <p class="caption">Tabela 6 — Problemas encontrados no papel.</p>
 <p class="source">Fonte: gravação da sessão e inspeção do material da Figura 1.</p>
 
-**Problemas corrigidos:** nenhum. Houve uma sessão e as folhas não foram alteradas, portanto não há recorrência a relatar.
+Houve uma sessão com o protótipo PP-1.0. As folhas permaneceram iguais durante a sessão e não houve nova rodada de papel. Os problemas P01–P05 da Tabela 6 seguem para o [plano de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md). Cada linha registra a recomendação e a ausência de reteste no papel.
 
 ## Respostas às perguntas de avaliação
 
@@ -187,6 +195,8 @@ O Vídeo 1 mostra a sessão completa. Categoria no YouTube: **não listado**. Li
 
 Claude Code (Anthropic) apoiou a conferência da legenda automática e dos quadros do vídeo, a comparação com o plano e a redação. Luís Henrique Arruda Luna responde pela sessão e pela validação do conteúdo.
 
+Codex (OpenAI) apoiou a conferência dos encaminhamentos para a alta fidelidade na revisão de 26/11/2026.
+
 ## Histórico de versão
 
 A Tabela 9 registra a versão deste artefato.
@@ -195,6 +205,8 @@ A Tabela 9 registra a versão deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Registra a sessão, o protótipo PP-1.0, os problemas e os encaminhamentos | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `0.2` | 03/11/2026 | Liga os encaminhamentos ao plano de alta fidelidade | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.3` | 26/11/2026 | Indica a ausência de nova rodada de papel e o destino de P01–P05 (E6-04) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
+| `0.4` | 26/11/2026 | Caracteriza a interação de PART-PP01 pelo percurso e pela fala da sessão (E6-02) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
 
 <p class="caption">Tabela 9 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

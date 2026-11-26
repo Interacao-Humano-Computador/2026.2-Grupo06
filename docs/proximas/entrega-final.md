@@ -2,18 +2,16 @@
 
 ## Introdução
 
+O checklist e as páginas por item estão na seção [Entrega final](../entrega-final/index.md). O plano de ensino prevê a entrega da apresentação em **30/11/2026**, com duração de **20 a 30 minutos**.
 
-Entrega em 30/11/2026. Apresentação entre 20 e 30 minutos.
-
-O plano de ensino pede, entre outros pontos: site e justificativa; ciclo de vida; cronograma planejado e executado; execução e resultados; tabelas de ferramentas, técnicas, artefatos por integrante, avaliações e vídeos.
-
-As páginas específicas serão criadas no fim do semestre, reutilizando o [template](../guia/template-artefato.md).
+[Abrir a entrega final](../entrega-final/index.md){ .md-button .md-button--primary }
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 04/09/2026 | Âncora da entrega final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 26/11/2026 | Encaminha para a seção da entrega final | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Referências
 
