@@ -49,9 +49,35 @@ Cada evidência empírica coletada durante a validação da HTA receberá um ide
 
 Os dados do teste piloto serão categorizados separadamente e descartados do cômputo dos resultados substantivos da avaliação, sendo empregados unicamente para relatar os ajustes procedimentais implementados.
 
+### Ficha de evidências localizadas e matriz de questões do DECIDE
+
+A Tabela 2 estrutura a ficha individual de registro de cada evidência `AT-EV`, vinculando participante (`P1–P3`), nó/plano da HTA, pergunta do roteiro, **localizador temporal exato na gravação (`mm:ss`) ou número de nota** e distinção estrita entre a fala observada (espontânea ou após esclarecimento) e a interpretação do avaliador (BARBOSA; SILVA, 2010, p. 310).
+
+| ID Evidência | Participante | Nó / Plano da HTA | Questão / Roteiro | Localizador (`mm:ss` / nota) | Natureza e condição (`Espontânea` / `Após esclarecimento`) | Dado empírico observado | Interpretação técnica separada |
+| :---: | :---: | :---: | :---: | :---: | --- | --- | --- |
+| `AT-EV01` | `[P1..P3]` | `[ex.: 1.4 / 2.2]` | `[AT-Q1..Q5 / P01–P05]` | `[00:00–00:00]` | `[Confirmação / Divergência / Lacuna]` | `[ ]` | `[ ]` |
+
+<p class="caption">Tabela 2 — Ficha individual de evidências da HTA com localizador temporal.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 310).</p>
+
+A partir das fichas `AT-EV` por participante, a Tabela 3 consolida as respostas às questões norteadoras `AT-Q1` a `AT-Q5` do [Planejamento da avaliação da HTA](planejamento-avaliacao-analise-tarefas.md#e-explorar-as-perguntas).
+
+**Regra explícita para questões inconclusivas (BARBOSA; SILVA, 2010, p. 312):** cada questão `AT-Q1`–`AT-Q5` será julgada como **Validada**, **Parcial / Com divergências** ou **Inconclusiva / Dados insuficientes**. Sempre que os relatos obtidos não fornecerem evidência suficiente para responder conclusivamente a uma pergunta planejada, o avaliador deverá assinalar **Inconclusiva**, explicar a razão objetiva da lacuna e indicar o encaminhamento de coleta ou verificação no protótipo de papel na Etapa 5.
+
+| Questão DECIDE | Síntese analítica intraparticipante e consolidada | Evidências e localizadores (`AT-EV` · `mm:ss`) | Status (`Validada` / `Parcial` / `Inconclusiva`) | Justificativa de inconclusão ou encaminhamento |
+| :---: | --- | --- | :---: | --- |
+| `AT-Q1` | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `AT-Q2` | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `AT-Q3` | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `AT-Q4` | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+| `AT-Q5` | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
+
+<p class="caption">Tabela 3 — Matriz de fechamento das questões específicas do DECIDE para a HTA.</p>
+<p class="source">Fonte: elaboração do autor (2026), com base em Barbosa e Silva (2010, p. 310, 312).</p>
+
 ## Estrutura prevista do relato da HTA
 
-A Tabela 2 apresenta os 8 componentes obrigatórios que serão preenchidos após a realização das sessões de avaliação, integrando estritamente os critérios do Plano de Ensino da FCTE/UnB.
+A Tabela 4 apresenta os 8 componentes obrigatórios que serão preenchidos após a realização das sessões de avaliação, integrando estritamente os critérios do Plano de Ensino da FCTE/UnB.
 
 | Nº | Componente do relato | Descrição do conteúdo a ser apresentado na Etapa 5 | Fonte dos dados |
 | :---: | :--- | --- | --- |
@@ -64,32 +90,39 @@ A Tabela 2 apresenta os 8 componentes obrigatórios que serão preenchidos após
 | **7** | **Lista de problemas classificados por severidade** | Tabela ordenada de barreiras de usabilidade e inadequações do modelo, categorizadas segundo a escala clássica de gravidade de Nielsen (1994):<br>• 0 = Não é considerado problema de usabilidade;<br>• 1 = Problema cosmético (baixo impacto);<br>• 2 = Problema simples (atrasa mas não bloqueia);<br>• 3 = Problema grave (dificulta muito a conclusão);<br>• 4 = Catastrófico (impede a conclusão da tarefa). | Matriz de severidade e consenso da equipe |
 | **8** | **Planejamento do reprojeto** | Definição das correções prioritárias a serem incorporadas nas árvores de tarefas e especificação direta dos requisitos ergonômicos (campos dedicados para orador e acompanhamento de status) que nortearão a construção do protótipo de papel na Etapa 5. | Encaminhamentos de design para a Etapa 5 |
 
-<p class="caption">Tabela 2 — Estrutura de consolidação do relato da análise de tarefas.</p>
+<p class="caption">Tabela 4 — Estrutura de consolidação do relato da análise de tarefas.</p>
 <p class="source">Fonte: elaboração do autor com base em Barbosa e Silva (2010, p. 311–312) e SALES (2026).</p>
 
 ## Avaliação da qualidade e validades da avaliação
 
-O relato dedicará uma seção específica para discutir a qualidade científica dos achados à luz dos quatro critérios de validação propostos por Barbosa e Silva (2010, p. 313):
+O relato dedicará uma seção específica para discutir a qualidade científica dos achados à luz dos critérios de validação propostos por Barbosa e Silva (2010, p. 312–313):
 
-1. **Confiabilidade:** discussão sobre se a repetição da sessão com outros membros de coletivos sociais nas mesmas condições produziria achados convergentes;
-2. **Validade interna:** verificação do isolamento de variáveis e garantia de que o avaliador manteve postura neutra, sem induzir concordância com o modelo ou com as hipóteses de reprojeto (2.2, 2.3 e 4.1);
-3. **Validade externa:** reflexão sobre em que medida os resultados obtidos com os 3 participantes do DF podem ser extrapolados para a diversidade de cidadãos brasileiros que acessam o e-Cidadania;
-4. **Validade ecológica:** avaliação de como o ambiente de teste presencial no Laboratório de Informática da FCTE/UnB se aproximou das condições reais em que o cidadão participa de audiências públicas (usualmente em casa ou no trabalho comunitário, em momentos de mobilização).
+1. **Confiabilidade:** discussão sobre se a repetição da sessão com outros membros de coletivos sociais nas mesmas condições produziria achados convergentes, apoiada na minutagem verificável (`mm:ss`);
+2. **Validade interna:** verificação do isolamento de variáveis e garantia de que o avaliador manteve postura neutra, distinguindo falas espontâneas daquelas emitidas após explicação das hipóteses de reprojeto (2.2, 2.3 e 4.1);
+3. **Validade externa:** reflexão sobre em que medida os resultados obtidos com amostra qualitativa reduzida no DF podem orientar o design sem extrapolação estatística indevida para todo o público do e-Cidadania;
+4. **Validade ecológica:** avaliação de como o ambiente de entrevista se aproximou das condições reais em que o cidadão participa de audiências públicas ao vivo;
+5. **Limites de representações estáticas:** ressalva expressa de que a confirmação verbal da árvore HTA não comprova usabilidade operacional da interface, exigindo validação interativa a partir do protótipo de papel na Etapa 5.
 
 ## Agradecimentos
 
-Em atenção às recomendações de integridade acadêmica da Sociedade Brasileira de Computação (SBC) e aos critérios do Plano de Ensino da FCTE/UnB, registra-se a declaração formal do uso de ferramentas de Inteligência Artificial Generativa (Google Gemini e Claude, da Anthropic):
-- **Onde as ferramentas foram empregadas:** na estruturação e organização dos tópicos de relato e na diagramação de tabelas Markdown padronizadas;
+Em atenção às recomendações de integridade acadêmica da Sociedade Brasileira de Computação (SBC) e aos critérios do Plano de Ensino da FCTE/UnB, registra-se a declaração formal do uso de ferramentas de Inteligência Artificial Generativa (Google Gemini, Claude da Anthropic e Antigravity da Google DeepMind):
+- **Onde as ferramentas foram empregadas:** na estruturação e organização dos tópicos de relato, fichas localizadas e diagramação de tabelas Markdown padronizadas;
 - **Facilidades:** agilidade na redação técnica e na conformação estética às diretrizes do tema MkDocs Material do Grupo 06;
 - **Dificuldades e controle de qualidade:** propensão dos modelos generativos a inventar dados empíricos simulados, exigindo rigorosa supervisão do autor para assegurar que este artefato mantivesse exclusivamente a natureza de planejamento futuro do relato.
 
 ## Histórico de versão
 
+A Tabela 5 registra o histórico de versões deste planejamento do relato.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato da HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.0 | 13/10/2026 | Conclusão do planejamento do relato conforme os 7 componentes de Barbosa e Silva (2010), severidades de Nielsen e validades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 2.0 | 24/10/2026 | Refatoração do escopo do relato para a tarefa de Participação em Evento Interativo (e-Cidadania) e integração das propostas de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `0.1` | 13/10/2026 | Estruturação inicial dos tópicos e instrumentos do planejamento do relato da HTA | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.0` | 13/10/2026 | Conclusão do planejamento do relato conforme os 7 componentes de Barbosa e Silva (2010), severidades de Nielsen e validades | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.0` | 24/10/2026 | Refatoração do escopo do relato para a tarefa de Participação em Evento Interativo (e-Cidadania) e integração das propostas de reprojeto | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `2.1` | 26/11/2026 | Inclusão da ficha `AT-EV` com localizador temporal (`mm:ss`), matriz `AT-Q1..Q5` com regra para questões inconclusivas e limites de representações estáticas | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+
+<p class="caption">Tabela 5 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
 
 
 ## Referências

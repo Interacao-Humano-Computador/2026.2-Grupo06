@@ -11,8 +11,9 @@ A Tabela 1 registra as atividades e os responsáveis neste índice da Etapa 4.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Estruturação inicial do índice e storyboard da autoria de ideia | [Introdução](#introducao) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Mapeamento dos artefatos individuais e storyboard de Letícia | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Planejamentos de complementos de ideias legislativas | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Storyboard de agendamento de visita ao Senado e quatro planejamentos da avaliação e dos relatos | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Recorte de plenárias: storyboard, roteiro dos quadros e planejamento da avaliação | [Artefatos individuais da etapa](#artefatos-individuais-da-etapa) |
-| Codex (OpenAI) | Apoio à atualização dos recortes de Caio e Bruno e dos vínculos dos artefatos | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) e Antigravity (Google DeepMind) | Apoio à atualização dos recortes e à padronização dos vínculos dos artefatos | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Desenho SVG da versão anterior do storyboard de Camila | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição no índice da Etapa 4.</p>
@@ -35,7 +36,7 @@ Bruno, Caio, Heitor e Israel publicaram os planejamentos da avaliação e do rel
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Complementos de ideias legislativas (Perfil participante — Letícia Oliveira) | • [Storyboard](individual/bruno/storyboard.md)<br>• [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-storyboard.md) | • [Modelo](individual/bruno/analise-tarefas.md)<br>• [Planejamento da avaliação](individual/bruno/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/bruno/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/bruno/conferencia-planejamentos.md) |
 | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | Participação em Evento Interativo: Audiência Pública sobre o PL 1215/2025 (Persona Letícia Oliveira) | • [Storyboard](individual/heitor/storyboard.md)<br>• [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-storyboard.md) | • [Análise de tarefas (HTA)](individual/heitor/analise-tarefas.md)<br>• [Planejamento da avaliação](individual/heitor/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/heitor/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](individual/heitor/conferencia-planejamentos.md) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Melhoria do envio e acompanhamento de ideia legislativa (Persona Camila Nogueira) | • [Storyboard](caio/storyboard.md)<br>• [Planejamento da avaliação](caio/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](caio/planejamento-relato-storyboard.md) | • [Planejamento da avaliação](caio/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](caio/planejamento-relato-analise-tarefas.md) | [Conferência dos planejamentos](caio/conferencia-planejamentos.md) |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Agendamento de visita ao Senado | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-storyboard.md) | • [Planejamento da avaliação](individual/israel/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-analise-tarefas.md) | [Conferência dos planejamentos](individual/israel/conferencia-planejamentos.md) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Agendamento de visita ao Senado (Persona Marta Oliveira) | • [Storyboard](individual/israel/storyboard.md)<br>• [Planejamento da avaliação](individual/israel/planejamento-avaliacao-storyboard.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-storyboard.md) | • [Análise de tarefas (Etapa 2)](../entrega-2/individual/israel/analise-tarefas.md)<br>• [Planejamento da avaliação](individual/israel/planejamento-avaliacao-analise-tarefas.md)<br>• [Planejamento do relato](individual/israel/planejamento-relato-resultados-analise-tarefas.md) | [Conferência dos planejamentos](individual/israel/conferencia-planejamentos.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Agendamento de participação em plenárias | • [Storyboard manual](individual/luis.md#storyboard-manual)<br>• [Roteiro dos quadros](individual/luis.md#roteiro-dos-quadros)<br>• [Planejamento da avaliação e do relato](individual/luis.md#planejamento-da-avaliacao-e-do-relato)<br>• [Relato da entrevista](../entrega-5/individual/luis/relato-storyboard.md) | [Modelagem HTA/CTT](../entrega-5/individual/luis/modelagem-tarefas.md) e [relato da entrevista](../entrega-5/individual/luis/relato-analise-tarefas.md) | [Inspeção documental](../entrega-5/individual/luis/inspecao-modelos.md) |
 
 <p class="caption">Tabela 2 — Trabalhos individuais da Etapa 4 do Grupo 06.</p>
@@ -49,24 +50,30 @@ Na **Etapa 8**, esta entrega foi reinspecionada com a [Lista V2 oficial da Etapa
 
 ## Agradecimentos
 
-Heitor Pinheiro organizou o índice e desenvolveu o storyboard e a HTA de Letícia. Grok (xAI) desenhou os SVG da versão anterior de Camila, substituídos em 22/10 pelo storyboard manual fornecido por Caio. Codex (OpenAI) apoiou o esclarecimento do escopo e a integração da atualização. A responsabilidade pelo conteúdo permanece com os autores.
+Heitor Pinheiro organizou o índice e desenvolveu o storyboard e a HTA de Letícia. Grok (xAI) desenhou os SVG da versão anterior de Camila, substituídos em 22/10 pelo storyboard manual fornecido por Caio. Codex (OpenAI) e Antigravity (Google DeepMind) apoiaram o esclarecimento do escopo e a integração dos vínculos de todos os integrantes. A responsabilidade pelo conteúdo permanece com os autores.
 
 ## Histórico de versão
 
+A Tabela 3 registra o histórico de versões deste índice.
+
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 0.1 | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.0 | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.1 | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.2 | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
-| 1.3 | 22/10/2026 | Atualiza o recorte de Caio para o storyboard manual e a melhoria da experiência existente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.4 | 23/10/2026 | Atualiza recorte e vínculos de Bruno para complementos com Letícia | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.5 | 24/10/2026 | Indica que as sessões gravadas de Caio estão nos relatos da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.6 | 25/10/2026 | Preenche o índice individual de Luís, incorpora seu storyboard manual e referencia os relatos da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.6 | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo (e-Cidadania) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.7 | 24/10/2026 | Integração das páginas dedicadas de Storyboard (versão manual) e Análise de Tarefas (HTA) de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.8 | 21/11/2026 | Vinculação do índice à Lista V2 e às reinspeções da Etapa 4 na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
-| 1.9 | 26/11/2026 | Inclui Luís na Tabela 1 e liga o roteiro dos quadros e o planejamento da avaliação de plenárias | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.1` | 04/09/2026 | Âncora da etapa | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 13/10/2026 | Estruturação do índice da Etapa 4 e inclusão dos links para os artefatos de Bruno Ferreira e Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.1` | 13/10/2026 | Inclui o recorte de Camila, o storyboard em SVG e o recorte de Israel no índice | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) |
+| `1.3` | 22/10/2026 | Atualiza o recorte de Caio para o storyboard manual e a melhoria da experiência existente | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.4` | 23/10/2026 | Atualiza recorte e vínculos de Bruno para complementos com Letícia | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.5` | 24/10/2026 | Indica que as sessões gravadas de Caio estão nos relatos da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 24/10/2026 | Atualiza escopo de Heitor Pinheiro para Participação em Evento Interativo (e-Cidadania) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.7` | 24/10/2026 | Integração das páginas dedicadas de Storyboard (versão manual) e Análise de Tarefas (HTA) de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.8` | 25/10/2026 | Preenche o índice individual de Luís, incorpora seu storyboard manual e referencia os relatos da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.9` | 21/11/2026 | Vinculação do índice à Lista V2 e às reinspeções da Etapa 4 na Etapa 8 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.10` | 26/11/2026 | Inclui Luís na Tabela 1 e liga o roteiro dos quadros e o planejamento da avaliação de plenárias | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.11` | 26/11/2026 | Inclui Israel Soares na Tabela 1, adiciona vínculo direto ao storyboard e à HTA de visitação na Tabela 2 e regulariza numeração do histórico | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+
+<p class="caption">Tabela 3 — Histórico de versão.</p>
+<p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
 
 ## Referências
 

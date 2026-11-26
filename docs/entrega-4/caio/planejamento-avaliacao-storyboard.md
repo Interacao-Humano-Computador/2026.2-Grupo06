@@ -220,6 +220,30 @@ Caio custodiará os dados em pasta privada com acesso limitado aos avaliadores e
 
 Como política proposta do estudo, registros brutos e chave de identificação serão excluídos até 30 dias após o encerramento da disciplina, prazo a informar no TCLE. Solicitações de retirada serão atendidas enquanto os dados forem identificáveis.
 
+??? note "Minuta do Termo de Consentimento Livre e Esclarecido (TCLE) — Avaliação do Storyboard (Etapa 4)"
+
+    **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO (TCLE)**
+
+    **Projeto acadêmico:** Avaliação e Reprojeto de IHC do Portal e-Cidadania (Senado Federal) — Envio e Acompanhamento de Ideia Legislativa (Grupo 06)  
+    **Instituição e disciplina:** Universidade de Brasília (FCTE/UnB) — Interação Humano-Computador (`2026.2`), Prof. Dr. André Barros de Sales  
+    **Avaliador responsável:** Caio Breno de Souza Bezerra (canal de contato direto informado na via entregue à pessoa participante)
+
+    **1. Objetivo, duração e procedimentos:** Você está sendo convidado(a) a participar voluntariamente de uma avaliação formativa conceitual sobre o **Storyboard de envio e acompanhamento de ideia legislativa (`QD01–QD06`)**. A atividade consiste na leitura guiada de seis quadros desenhados à mão seguida de entrevista semiestruturada sobre clareza do percurso, revisão antes do envio e acompanhamento da proposta, com duração estimada de **35 a 40 minutos**. Avalia-se exclusivamente a representação conceitual elaborada pela equipe, sem testar competências pessoais nem realizar operações reais no portal do Senado. Os dados destinam-se apenas a fins acadêmicos nesta disciplina.
+
+    **2. Autonomia e liberdade de recusa ou desistência sem ônus:** Sua participação é livre e não remunerada. Você pode deixar de responder a qualquer pergunta, solicitar pausas ou **interromper a sessão e retirar seu consentimento em qualquer fase, sem sofrer qualquer penalização, constrangimento ou prejuízo**.
+
+    **3. Confidencialidade, anonimato em todas as mídias e guarda dos dados:** Sua identidade civil será preservada em todos os textos, tabelas, transcrições, áudios, imagens ou vídeos publicados na documentação pública do projeto, sendo substituída pelo código anônimo **`PROP01`** (ou **`PP-PROP01`** no teste-piloto, cujos dados são descartados). A via assinada deste termo e os arquivos brutos ficarão sob guarda privada restrita ao avaliador e ao revisor designado e serão excluídos até **30 dias após o encerramento da disciplina** (dezembro de 2026).
+
+    **4. Permissão prévia e específica para gravação:** Nenhum registro de áudio, imagem ou tela será iniciado sem sua autorização prévia e independente abaixo:  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **áudio (voz)** durante a entrevista.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a gravação de **imagem/vídeo e/ou tela** durante a sessão.  
+    - `[ ] AUTORIZO` · `[ ] NÃO AUTORIZO` a disponibilização acadêmica do registro desidentificado como vídeo **não listado** no YouTube vinculado ao repositório da disciplina.
+
+    **Declaração de consentimento:** Declaro que fui esclarecido(a) sobre os objetivos, duração, procedimentos e garantias éticas deste estudo, recebi cópia deste termo e concordo voluntariamente em participar.  
+    Local e data: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_/\_\_\_\_/2026.  
+    Assinatura da pessoa participante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+    Assinatura do avaliador responsável (Caio Breno de Souza Bezerra): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## E — Avaliar, interpretar e apresentar os dados
 
 ### Registro e interpretação
@@ -240,18 +264,19 @@ O relato seguirá os sete componentes de Barbosa e Silva (2010, p. 311–312): o
 
 ## Agradecimentos
 
-Grok (xAI) apoiou a redação e a organização deste planejamento, no molde histórico dos documentos da Oficina Legislativa, e o Codex (OpenAI) apoiou a atualização de 22/10/2026 e a atualização das referências ao recorte de Bruno em 24/10/2026. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
+Grok (xAI) apoiou a redação e a organização deste planejamento, no molde histórico dos documentos da Oficina Legislativa, o Codex (OpenAI) apoiou a atualização de 22/10/2026 e das referências em 24/10/2026, e o Antigravity (Google DeepMind) apoiou a explicitação da minuta específica de TCLE da Etapa 4. Caio Breno de Souza Bezerra definiu o recorte e permanece responsável pela revisão e pelo conteúdo do artefato.
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
-| 1.0 | 13/10/2026 | Planejamento DECIDE da avaliação do storyboard de Camila, com os seis quadros QD01–QD06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.0` | 13/10/2026 | Planejamento DECIDE da avaliação do storyboard de Camila, com os seis quadros QD01–QD06 e agendamentos a confirmar | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/10/2026 | Corrige inconsistências de conteúdo, autoria e estado dos registros | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.2` | 22/10/2026 | Vincula storyboard manual, escopo do reprojeto, agenda reagendada e roteiro didático da Etapa 5 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.3` | 22/10/2026 | Simplifica títulos, rótulos e avisos; concentra o procedimento nos relatos e preserva os campos de conferência | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
-| 1.4 | 24/10/2026 | Atualiza a referência ao storyboard de Bruno para complementos e distingue o uso histórico da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.4` | 24/10/2026 | Atualiza a referência ao storyboard de Bruno para complementos e distingue o uso histórico da Oficina Legislativa | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 24/10/2026 | Registra o piloto de 22/10 e a sessão presencial de 24/10, 13h28–14h00. Revisão de Bruno Ferreira Dornelas | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.6` | 26/11/2026 | Incorpora minuta específica do TCLE parametrizada para a avaliação do Storyboard da Etapa 4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
