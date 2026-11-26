@@ -7,7 +7,9 @@
 | Integrante / ferramenta | Contribuição | Artefato / atividade |
 | --- | --- | --- |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro no site das 40 respostas da autoinspeção dos storyboards, das análises de tarefas e dos planejamentos da avaliação e dos relatos do Grupo 06 | [Critérios e respostas](#etapa-4) |
+| [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Reinspeção das correções do recorte de Luís e registro da Ata 05 | [Reinspeção](#reinspecao-das-correcoes-de-luis-26112026) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Levantamento do inventário das versões consultadas no commit de referência, seleção dos recortes de evidência e definição dos encaminhamentos de acompanhamento | [Artefatos consultados](#artefatos-consultados) · [Recortes das evidências](#recortes-das-evidencias) · [Acompanhamento](#acompanhamento) |
+| Claude (Anthropic) | Apoio à redação da reinspeção de 26/11/2026 | [Agradecimentos](../index.md#agradecimentos) |
 | Google Gemini e Antigravity | Apoio à conferência de linhas no commit de referência, à geração dos recortes das evidências e à edição da ficha | [Agradecimentos](../index.md#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
@@ -121,10 +123,32 @@ A tabela abaixo indica os achados prioritários que merecem voltar à pauta na p
 
 | Achado | Ajuste a registrar | Evidência para encerrar |
 | --- | --- | --- |
-| [E4-02](#etapa-4-e4-02) Alinhar quadros e tarefas | Incluir em `individual/luis.md` a tabela de correspondência entre os 8 quadros de plenárias e as operações da HTA/CTT, e alinhar a Tabela 3 de `israel/storyboard.md` aos quadros `QD01–QD07` efetivamente desenhados na fotografia (corrigindo legenda e fonte de `D04`). | Confrontar quadro a quadro as duas imagens publicadas com suas tabelas de transcrição e com os nós das análises de tarefas vinculadas. |
+| [E4-02](#etapa-4-e4-02) Alinhar quadros e tarefas | Incluir em `individual/luis.md` a tabela de correspondência entre os 8 quadros de plenárias e as operações da HTA/CTT, e alinhar a Tabela 3 de `israel/storyboard.md` aos quadros `QD01–QD07` efetivamente desenhados na fotografia (corrigindo legenda e fonte de `D04`). | Confrontar quadro a quadro as duas imagens publicadas com suas tabelas de transcrição e com os nós das análises de tarefas vinculadas. Parte de Luís encerrada em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-de-luis-26112026)); a de Israel segue aberta. |
 | [E4-14](#etapa-4-e4-14) · [E4-17](#etapa-4-e4-17) · [E4-18](#etapa-4-e4-18) Fechar logística e piloto nos planos de Israel | Substituir `[Nome do integrante]` e `[presencial... ou remoto...]`, justificar a amostra, declarar orçamento zero, incluir definição e recorte bibliográfico do teste-piloto (Barbosa e Silva, 2010, p. 307) e explicitar o descarte de seus dados. | Verificar nos dois planos de avaliação de Israel o preenchimento nominal dos papéis, o horário/local fechado coerente com `israel.md`, a imagem da fonte e a cláusula de exclusão do piloto. |
-| [E4-19](#etapa-4-e4-19) Completar escopo documental de plenárias e HTA de visita | Documentar retroativamente o plano sintético de avaliação/relato do recorte de Luís (ou vincular formalmente o protocolo adotado) e explicitar no plano de HTA de Israel o caráter formativo e o recorte da tarefa 7. | Conferir acesso em `entrega-4/` ao protocolo completo dos cinco fluxos com delimitação explícita do que entra e do que fica fora da avaliação conceitual. |
+| [E4-19](#etapa-4-e4-19) Completar escopo documental de plenárias e HTA de visita | Documentar retroativamente o plano sintético de avaliação/relato do recorte de Luís (ou vincular formalmente o protocolo adotado) e explicitar no plano de HTA de Israel o caráter formativo e o recorte da tarefa 7. | Conferir acesso em `entrega-4/` ao protocolo completo dos cinco fluxos com delimitação explícita do que entra e do que fica fora da avaliação conceitual. Parte de Luís encerrada em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-de-luis-26112026)); a de Israel segue aberta. |
 | [D03](#etapa-4-d03) · [E4-24](#etapa-4-e4-24) Regularizar citações e minutas específicas de TCLE | Substituir os marcadores `(SOBRENOME, ano, p. X)` no plano de relato de Israel, completar Barbosa e Silva (2010) nas referências da HTA e disponibilizar minuta de TCLE parametrizada para as entrevistas de Storyboard/Tarefas da Etapa 4. | Inspecionar a renderização sem marcadores pendentes nem tags `</figure>` órfãs e conferir as quatro garantias éticas na minuta de TCLE vinculada aos planos. |
+| [D07](#etapa-4-d07) Ata da Etapa 4 | Publicar a ata da reunião da etapa. | Encerrado em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-de-luis-26112026)). |
+| [D04](#etapa-4-d04) · [D06](#etapa-4-d06) · [D10](#etapa-4-d10) · [D11](#etapa-4-d11) · [E4-04](#etapa-4-e4-04) · [E4-05](#etapa-4-e4-05) · [E4-06](#etapa-4-e4-06) · [E4-29](#etapa-4-e4-29) Recorte de Luís | Legendas, cronograma, contribuição, agradecimentos, finalidade, roteiro e plano do relato em `individual/luis.md`. | Parte de Luís encerrada em 26/11/2026 ([reinspeção](#reinspecao-das-correcoes-de-luis-26112026)); os critérios seguem abertos para os demais integrantes citados. |
+
+### Reinspeção das correções de Luís · 26/11/2026 { #reinspecao-das-correcoes-de-luis-26112026 }
+
+A página de Luís (`individual/luis.md`, versão 0.4) foi corrigida no [PR #80](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/pull/80) (commit [`a9a95bc`](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/commit/a9a95bc)), e a Ata 05 foi publicada em seguida. A tabela registra o resultado da reinspeção **apenas da parte de Luís** em cada critério. Vários desses critérios também cobram Israel, Heitor ou o índice e, por isso, continuam **Incompleto** no agregado.
+
+| Critério | Antes (parte de Luís) | Depois (parte de Luís) | Evidência na nova versão | Situação do critério |
+| --- | :---: | :---: | --- | --- |
+| [D04](#etapa-4-d04) Tabelas | Incompleto | Sim | Tabelas 1–5 numeradas, com legenda, fonte e chamada no texto | Aberto: storyboard e plano do relato de Israel |
+| [D06](#etapa-4-d06) Cronograma | Incompleto | Sim | Linha do storyboard de plenárias (25/10/2026) no [cronograma executado](../../entrega-1/cronograma.md#cronograma-executado), versão 2.13 | Aberto: Caio, Heitor e Israel na Etapa 4 |
+| [D07](#etapa-4-d07) Ata | Não | Sim | [Ata 05](../../atas/ata-05.md): reunião de 13/10/2026, das 22h54 às 23h04, com presentes, pauta, decisões e gravação | Encerrado |
+| [D10](#etapa-4-d10) Contribuição | Incompleto | Sim | Tabela 1 no início de `luis.md`; Luís incluído na Tabela 1 do [índice da Etapa 4](../../entrega-4/index.md) | Aberto: `heitor.md`, `israel.md` e Israel na Tabela 1 do índice |
+| [D11](#etapa-4-d11) Declaração de IA | Incompleto | Sim | Seção de agradecimentos com Codex (versão 0.1) e Claude (versão 0.4) | Aberto: `heitor.md` e `israel.md` |
+| [E4-02](#etapa-4-e4-02) Quadros e tarefas | Incompleto | Sim | [Tabela 2](../../entrega-4/individual/luis.md#roteiro-dos-quadros): oito quadros ligados à HTA e à CTT, com a lacuna do caso sem vagas antes do formulário | Aberto: storyboard de Israel |
+| [E4-04](#etapa-4-e4-04) Finalidade | Incompleto | Sim | Finalidade comunicativa e exploratória do storyboard, com Barbosa e Silva (2010, p. 294, 301) | Encerrado |
+| [E4-05](#etapa-4-e4-05) Hipóteses e roteiro | Incompleto | Sim | Hipóteses H1–H4 e roteiro escrito de cada quadro | Aberto: storyboard de Israel |
+| [E4-06](#etapa-4-e4-06) Ambiente e enquadramento | Incompleto | Sim | Ambiente, personagens e enquadramento por quadro na Tabela 2 | Aberto: storyboard de Israel |
+| [E4-19](#etapa-4-e4-19) Avaliação formativa e escopo | Incompleto | Sim | [Planejamento da avaliação](../../entrega-4/individual/luis.md#planejamento-da-avaliacao-e-do-relato), marcado como registro retroativo: DECIDE, caráter formativo e o que entra e fica fora | Aberto: plano de HTA de Israel |
+| [E4-29](#etapa-4-e4-29) Limitações do relato | Incompleto | Sim | Confiabilidade, validades interna, externa e ecológica e limite da representação estática | Aberto: planos do relato de Israel |
+
+O planejamento de Luís foi escrito em 26/11/2026, depois das entrevistas, e está marcado como retroativo na página. A contagem oficial acima não foi alterada, para preservar o registro da versão inspecionada.
 
 ## Recortes das evidências
 
@@ -149,6 +173,7 @@ A tabela abaixo indica os achados prioritários que merecem voltar à pauta na p
 | `1.0` | 21/11/2026 | Registro da autoinspeção da Etapa 4 no Grupo 06 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.1` | 22/11/2026 | Vincula a gravação da sessão de inspeção da Etapa 4. | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.2` | 25/11/2026 | Explicita artefatos, versões e vídeo recolhível. | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
+| `1.3` | 26/11/2026 | Registra a reinspeção das correções do recorte de Luís (D04, D06, D10, D11, E4-02, E4-04, E4-05, E4-06, E4-19, E4-29) e a Ata 05 (D07). | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 
 ## Referências
 
