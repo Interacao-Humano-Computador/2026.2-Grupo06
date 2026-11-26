@@ -49,6 +49,10 @@ exclude_docs: |
   includes/**
   entrega-8/proposta-complementacao-etapas-1-2.md
 
+not_in_nav: |
+  proximas/entrega-final.md
+  entrega-8/grupo-06/historico-etapa-*.md
+
 plugins:
   - search:
       lang: pt
@@ -329,6 +333,7 @@ nav:
           - Etapa 5: entrega-8/resultados/etapa-5.md
           - Etapa 6: entrega-8/resultados/etapa-6.md
           - Etapa 7: entrega-8/resultados/etapa-7.md
+      - Histórico e mudanças: entrega-8/historico.md
       - Inspeções:
           - Grupo 06 · Autoinspeção:
               - entrega-8/grupo-06/index.md
@@ -351,6 +356,18 @@ nav:
               - Etapa 4: entrega-8/grupo-05/etapa-4.md
               - Etapa 6: entrega-8/grupo-05/etapa-6.md
       - Conferência das respostas V1: entrega-8/conferencia-anterior.md
+  - Entrega final:
+      - entrega-final/index.md
+      - 1 · Site escolhido: entrega-final/site-escolhido.md
+      - 2 · Ciclo de vida: entrega-final/ciclo-de-vida.md
+      - 3 e 4 · Planejamento e execução: entrega-final/planejamento-execucao.md
+      - 5 · Resultados alcançados: entrega-final/resultados.md
+      - 6 e 11 · Ferramentas: entrega-final/ferramentas.md
+      - 7 · Técnicas: entrega-final/tecnicas.md
+      - 8 · Contribuições: entrega-final/contribuicoes.md
+      - 9 · Avaliações dos protótipos: entrega-final/avaliacoes-prototipos.md
+      - 10 e 12 · Vídeos: entrega-final/videos.md
+      - 13 e 14 · Facilidades, dificuldades e IA: entrega-final/facilidades-dificuldades-ia.md
   - Verificação:
       - verificacao/index.md
       - Listas de verificação:
@@ -387,6 +404,8 @@ nav:
           - Ata 03: atas/ata-03.md
           - Ata 04: atas/ata-04.md
           - Ata 05: atas/ata-05.md
+          - Ata 06 · Autoverificação da Etapa 6: atas/ata-06.md
+          - Ata 07 · Autoverificação da Etapa 7: atas/ata-07.md
       - Apresentações:
           - apresentacoes/index.md
           - Etapa 1: apresentacoes/etapa-01.md
@@ -413,4 +432,3 @@ nav:
       - Etapa 6: proximas/etapa-06.md
       - Etapa 7: proximas/etapa-07.md
       - Etapa 8: proximas/etapa-08.md
-      - Entrega final: proximas/entrega-final.md

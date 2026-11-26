@@ -78,10 +78,10 @@ A Tabela 3 mapeia os intervalos de tempo no vídeo para cada episódio observado
 | Episódio / Tarefa | `AF-H01` (`03:45`) | `AF-H02` (`03:50`) | `AF-H03` (`02:51`) |
 | --- | :---: | :---: | :---: |
 | **Abertura, TCLE e contextualização** | [`00:00–00:38`](https://youtu.be/jldUpuqbMEw?t=0) | [`00:00–00:41`](https://youtu.be/0ipF1z_tyuA?t=0) | [`00:00–00:38`](https://www.youtube.com/watch?v=P8xakOufASA&t=0s) |
-| **AF-T1 — Localizar e entrar na sala da CRA** | [`00:38–01:38`](https://youtu.be/jldUpuqbMEw?t=38) | [`00:41–01:17`](https://youtu.be/0ipF1z_tyuA?t=41) | [`00:38–00:56`](https://www.youtube.com/watch?v=P8xakOufASA&t=38s) |
-| **AF-T2 — Diferenciar tipo, escolher relator, gov.br e enviar** | [`01:39–02:48`](https://youtu.be/jldUpuqbMEw?t=99) | [`01:17–02:28`](https://youtu.be/0ipF1z_tyuA?t=77) | [`00:56–01:50`](https://www.youtube.com/watch?v=P8xakOufASA&t=56s) |
-| **AF-T3 — Editar destinatário na revisão sem perder o texto** | Revisão direta sem edição ([`02:48–02:55`](https://youtu.be/jldUpuqbMEw?t=168)) — tarefa não executada | Revisão direta sem edição ([`02:28–02:36`](https://youtu.be/0ipF1z_tyuA?t=148)) — tarefa não executada | Revisão direta sem edição ([`01:43–01:54`](https://www.youtube.com/watch?v=P8xakOufASA&t=103s)) — tarefa não executada |
-| **AF-T4 — Interpretar protocolo/status e copiar link** | [`02:55–03:24`](https://youtu.be/jldUpuqbMEw?t=175) | [`02:36–03:30`](https://youtu.be/0ipF1z_tyuA?t=156) | [`01:54–02:21`](https://www.youtube.com/watch?v=P8xakOufASA&t=114s) |
+| **AF-T1 — Localizar e entrar na sala da CRA** | [`00:38–01:38`](https://youtu.be/jldUpuqbMEw?t=38) | [`00:41–01:17`](https://youtu.be/0ipF1z_tyuA?t=41) | [`00:38–00:58`](https://www.youtube.com/watch?v=P8xakOufASA&t=38s) |
+| **AF-T2 — Diferenciar tipo, escolher relator, gov.br e enviar** | [`01:39–02:48`](https://youtu.be/jldUpuqbMEw?t=99) | [`01:17–02:28`](https://youtu.be/0ipF1z_tyuA?t=77) | [`00:58–01:48`](https://www.youtube.com/watch?v=P8xakOufASA&t=58s) |
+| **AF-T3 — Editar destinatário na revisão sem perder o texto** | Revisão direta sem edição ([`02:48–02:55`](https://youtu.be/jldUpuqbMEw?t=168)) — tarefa não executada | Revisão direta sem edição ([`02:28–02:36`](https://youtu.be/0ipF1z_tyuA?t=148)) — tarefa não executada | Revisão direta sem edição ([`01:48–01:52`](https://www.youtube.com/watch?v=P8xakOufASA&t=108s)) — tarefa não executada |
+| **AF-T4 — Interpretar protocolo/status e copiar link** | [`02:55–03:24`](https://youtu.be/jldUpuqbMEw?t=175) | [`02:36–03:30`](https://youtu.be/0ipF1z_tyuA?t=156) | [`01:52–02:21`](https://www.youtube.com/watch?v=P8xakOufASA&t=112s) |
 | **Entrevista pós-teste (sem nota numérica M6)** | [`03:24–03:45`](https://youtu.be/jldUpuqbMEw?t=204) | [`03:30–03:50`](https://youtu.be/0ipF1z_tyuA?t=210) | [`02:21–02:51`](https://www.youtube.com/watch?v=P8xakOufASA&t=141s) |
 
 <p class="caption">Tabela 3 — Localizadores temporais nas gravações por tarefa e participante.</p>
@@ -101,6 +101,7 @@ A Tabela 4 registra o histórico deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Criação da página de vídeos e localizadores por tarefa da alta fidelidade | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Incorporação dos três vídeos Não Listados no YouTube (`AF-H01` a `AF-H03`) com durações, embeds `youtube-nocookie` e minutagens reais | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/11/2026 | Corrige os limites dos trechos de localização, preenchimento, revisão e confirmação da sessão AF-H03 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
 
 <p class="caption">Tabela 4 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

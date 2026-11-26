@@ -62,11 +62,11 @@ Para orientar a leitura da documentação e garantir rastreabilidade entre as et
 - **Protótipo de papel:** conjunto navegável e gabarito físico disponível em [docs/prototipos/heitor/papel/index.html](../../../prototipos/heitor/papel/index.html). O kit é composto por 7 pranchas fixas em A4 paisagem (`PP-S01` a `PP-S07`), 3 componentes recortáveis/móveis (`PP-M01` a `PP-M03`), 4 cartões de tarefas (`T1` a `T4`), simulador de sessão e ficha de observação. A fotografia das pranchas físicas desenhadas à mão está registrada no [relato do papel](relato-prototipo-papel.md#registro-fotografico-das-pranchas-fisicas) e armazenada em `docs/assets/img/entrega-6/heitor/foto-prototipo-papel.jpg`.
 - **Protótipo de alta fidelidade:** implementação navegável interativa prevista para a Etapa 7 no endereço relativo [docs/prototipos/heitor/alta-fidelidade/index.html](../../../prototipos/heitor/alta-fidelidade/index.html) (A preencher na Etapa 7).
 - **Avaliações com participantes:** as sessões com o protótipo de papel foram realizadas e gravadas com três participantes, disponíveis sob a modalidade Não Listado no YouTube: [PP-H01 (03 min 00 s)](https://youtu.be/OGwFM6_nzwM), [PP-H02 (02 min 57 s)](https://youtu.be/sqA_-ZWXmQY) e [PP-H03 (04 min 55 s)](https://youtu.be/EqEhIsJWeV8). Os vídeos e o detalhamento metodológico estão disponíveis na [Seção 11 do relato](relato-prototipo-papel.md#11-gravacoes-e-anexos).
-- **Apresentação da etapa:** gravação em vídeo da apresentação da Etapa 6 disponibilizada na [página de apresentações do grupo](../../../apresentacoes/etapa-06.md).
+- **Apresentação da etapa:** o link da apresentação individual está pendente na [seção de Heitor](../../../apresentacoes/etapa-06.md#heitor-pinheiro-goncalves-das-chagas).
 
 ## Conferência da entrega
 
-[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Autoverificação do Grupo 06](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 07](../../../verificacao/grupo-05/etapa-6/lista-verificacao.md).
+[Lista de verificação da Etapa 6](../../../verificacao/listas/etapa-6.md) · [Autoverificação do Grupo 06](../../../verificacao/grupo-06/etapa-6/lista-verificacao.md) · [Inspeção do Grupo 05](../../../verificacao/grupo-05/etapa-6/lista-verificacao.md).
 
 Pelo plano de ensino [1], os marcos da Etapa 6 são: **entrega em 03/11 · inspeção em 04/11 · apresentação em 05/11/2026**. Os resultados da avaliação de alta fidelidade serão relatados na **Etapa 7**, com entrega prevista para **15/11/2026**.
 
@@ -81,6 +81,7 @@ A Tabela 3 registra a versão deste artefato.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Estruturação inicial do índice individual da Etapa 6 e vinculação dos artefatos de Heitor Pinheiro | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.2` | 26/11/2026 | Corrige a situação do vídeo de apresentação e o nome do grupo inspecionado | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) (designado) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>

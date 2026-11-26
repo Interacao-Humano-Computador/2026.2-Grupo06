@@ -121,8 +121,21 @@
   width: 6rem;
 }
 
-.etapa8-resultados th:last-child {
+.etapa8-resultados th:nth-child(4) {
   width: 32%;
+}
+
+.md-typeset .ihc-table--comparison table {
+  min-width: 34rem;
+}
+
+.ihc-table--comparison th:first-child {
+  width: 23%;
+}
+
+.ihc-table--comparison th:nth-child(2),
+.ihc-table--comparison th:nth-child(3) {
+  width: 6rem;
 }
 
 .etapa8-historico th:first-child {

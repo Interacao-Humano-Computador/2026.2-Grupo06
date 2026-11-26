@@ -12,6 +12,7 @@ A Tabela 1 identifica as contribuições neste artefato.
 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Observação da sessão | [Pessoas, material e condições](#pessoas-material-e-condicoes) |
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Gravação da sessão | [Pessoas, material e condições](#pessoas-material-e-condicoes) |
 | Claude Code (Anthropic) | Apoio à análise da gravação de tela, à estruturação e à redação | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Localização do trecho de consentimento e conferência da referência do protótipo na revisão de 26/11 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -38,6 +39,8 @@ Barbosa e Silva [1, p. 341–343] orientam relacionar objetivos, método, pessoa
 O protótipo avaliado é a versão **AF-1.0**, navegável no Figma. Ele simula a consulta às plenárias, a solicitação de vaga em duas etapas (formulário e revisão), a confirmação com código e o estado da inscrição na lista e nos detalhes. Todo o conteúdo é fictício.
 
 [Abrir o protótipo AF-1.0 no Figma](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3){ .md-button .md-button--primary target="_blank" rel="noopener" }
+
+O link do Figma aponta para o arquivo de trabalho da AF-1.0, no nó inicial `4:3`. A captura de 12/11 identifica a combinação de telas usada no teste: [lista de plenárias, 2:24](https://youtu.be/iDoxulY9tNM?t=144), [revisão com e-mail ocultado em parte, 4:51](https://youtu.be/iDoxulY9tNM?t=291) e [comprovante PL-000123, 5:08](https://youtu.be/iDoxulY9tNM?t=308). A [gravação completa](evidencias.md#af-p01-tela-e-webcam) preserva o percurso. O link do Figma segue o arquivo de trabalho, cuja revisão específica no dia da coleta não está identificada.
 
 A Tabela 2 apresenta as telas que podem ser percorridas.
 
@@ -85,7 +88,7 @@ A Tabela 4 identifica a sessão. O código AF-P01 distingue a pessoa participant
 | Material | Protótipo AF-1.0 no [Figma](https://www.figma.com/proto/WpUoWGQ3gN8b8hftT3u27f/IHC-%E2%80%94-Plen%C3%A1rias-Senado-Federal-%7C-Lu%C3%ADs-Henrique?node-id=4-3&p=f&t=pEBXmYVvmmSRJuus-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A3) |
 | Data e horário | 12/11/2026, às 9h30 |
 | Duração dos registros | Câmera da sala: 6 min 5 s; tela com webcam: 6 min 36 s. Os inícios são diferentes |
-| Consentimento | TCLE assinado antes da sessão. O termo fica fora do site |
+| Consentimento | TCLE assinado antes da sessão. A pessoa aceitou participar da gravação para a disciplina e sua disponibilização como vídeo não listado na [câmera da sala, 1:53–2:03](https://youtu.be/g0Q_NK2fXzA?t=113). O termo fica fora do site |
 | Piloto | PP-AF01, no mesmo dia, cerca de 20 minutos antes. Nenhum ajuste foi necessário. Seus dados não entram nos resultados |
 
 <p class="caption">Tabela 4 — Pessoa, material e condições efetivas.</p>
@@ -203,12 +206,16 @@ A Figura 1 apresenta a fonte da estrutura do relato.
 
 Claude Code (Anthropic) apoiou a análise quadro a quadro da gravação de tela, a estruturação e a redação. Os localizadores foram identificados pelas mudanças de tela; as opiniões são paráfrases do registro do moderador. Luís Henrique Arruda Luna responde pelo conteúdo.
 
+Codex (OpenAI) apoiou a localização do trecho de consentimento e conferência da referência do protótipo na revisão de 26/11/2026.
+
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 15/11/2026 | Consolidação da sessão, resultados e decisões de reprojeto | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.1` | 15/11/2026 | Registro da nota geral 5/5 e seção de acesso ao protótipo | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.2` | 26/11/2026 | Localiza a autorização de disponibilização e identifica a referência da AF-1.0 e o limite do histórico do Figma (E7-11 e E7-12) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
+| `1.3` | 26/11/2026 | Relaciona o nó do Figma às telas gravadas e identifica a revisão que falta confirmar (E7-12) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) (designado) |
 
 ## Referências
 

@@ -11,6 +11,7 @@ A Tabela 1 registra a contribuição neste artefato.
 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Preparação do relato, fichas e decisões de reprojeto | [Conteúdo](#introducao) |
 | Codex (OpenAI) | Apoio à consulta bibliográfica, redação, telas e organização | [Agradecimentos](#agradecimentos) |
 | Grok (xAI) | Conferência das falas com a gravação e preenchimento dos localizadores | [Agradecimentos](#agradecimentos) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Caracterização desidentificada da pessoa e conferência das minutagens | [Perfil observado](#perfil-observado-na-sessao) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -44,7 +45,7 @@ A Tabela 2 identifica os papéis confirmados para a gravação.
 | Observadores | Bruno Ferreira Dornelas e Israel Soares de Paiva |
 | Câmera das folhas | Caio Breno de Souza Bezerra, no próprio enquadramento do Meet |
 | Gravação e presença de Luís | Luís Henrique Arruda Luna está na sala. O arquivo publicado é esta gravação |
-| Participante principal | PAP-P01. Nome e contato ficam fora do site. A gravação não informa experiência anterior com o serviço |
+| Participante principal | Uma pessoa, `PAP-P01`. [Caracterização e trechos da sessão](#perfil-observado-na-sessao) |
 | Piloto | PP-PAP01 não aparece neste arquivo. Os resultados abaixo são só da sessão com PAP-P01 |
 | Modalidade e material | Google Meet, 03/11/2026, 21h28–21h33, 5 min 8 s. A câmera de Caio mostra as bases e os cartões; PP-2.0 |
 
@@ -52,6 +53,12 @@ A Tabela 2 identifica os papéis confirmados para a gravação.
 <p class="source">Fonte: gravação com PAP-P01, 03/11/2026.</p>
 
 No Meet, PAP-P01 diz onde clicaria e o que entendeu. Caio abre a sessão, avisa que não vai indicar o caminho (0:28) e troca as folhas na própria câmera. Bruno, Israel e Luís estão na sala. Israel permanece com a câmera desligada. A análise abaixo usa o que se ouve no vídeo. Por volta de 1:08, PAP-P01 autoriza a participação e a gravação para a disciplina. O termo fica fora do repositório.
+
+### Perfil observado na sessão
+
+**`PAP-P01`.** Participou remotamente, interpretou rótulos em português e indicou por voz os controles nas folhas. Localizou o envio e retomou o acompanhamento por conta própria. Distinguiu o recebimento de uma lei aprovada durante a tarefa e usou “aprovação” no fechamento, o que delimita a interpretação da terminologia. [Entrada, 1:12–1:54](https://youtu.be/MYhU_5oUe8M?t=72) · [Recebimento e acompanhamento, 2:45–4:09](https://youtu.be/MYhU_5oUe8M?t=165) · [Fechamento, 4:23–4:56](https://youtu.be/MYhU_5oUe8M?t=263).
+
+O registro permite caracterizar a compreensão durante a sessão. Idade, uso anterior do e-Cidadania e exposição anterior ao material ficaram sem registro.
 
 ### Organização do material
 
@@ -119,6 +126,10 @@ Nenhuma das quatro tarefas ficou sem conclusão nem pediu ajuda de percurso. O t
 
 No fecho (4:23–4:56), PAP-P01 diz que deu para seguir o caminho sem dificuldade, que a confirmação do envio ficou clara e que encontrou onde acompanhar. Na mesma fala, descreve o andamento como “essa aprovação”. A tarefa já tinha separado publicação e lei. O uso dessa palavra fica pendente, prioridade baixa, sem correção de folha e sem novo teste neste arquivo.
 
+### Correções e reteste no papel
+
+A sessão inteira com PAP-P01 usou a PP-2.0. As decisões da Tabela 4 já estavam nas folhas antes do teste, vindas do storyboard e da análise de tarefas. A dúvida de vocabulário no fechamento foi encaminhada a AF-T4. Para esse achado, não houve alteração das folhas nem nova sessão de papel. O [relato da alta fidelidade](../../../entrega-7/individual/caio/relato-alta-fidelidade.md#relacao-com-as-etapas-anteriores) registra o que foi observado no protótipo seguinte.
+
 ## Registro e vídeo
 
 O Vídeo 1 é a sessão inteira, da apresentação ao encerramento. Categoria no YouTube: **não listado**. Link: [https://youtu.be/MYhU_5oUe8M](https://youtu.be/MYhU_5oUe8M). Duração: 5 min 8 s.
@@ -176,6 +187,8 @@ A Tabela 7 registra a versão deste artefato.
 | `0.2` | 03/11/2026 | Incorpora a gravação com PAP-P01, a duração e os localizadores de PP-T1–PP-T4 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.3` | 03/11/2026 | Substitui o gabarito impresso pelas fotografias do papel usado na sessão | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `0.4` | 15/11/2026 | Atualiza o reprojeto citado de AF-1.1 para a AF-1.2 avaliada na Etapa 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `0.5` | 26/11/2026 | Distingue as decisões anteriores à sessão dos encaminhamentos e do reteste após o papel (E6-04) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
+| `0.6` | 26/11/2026 | Caracteriza a interação de PAP-P01 com trechos verificáveis da sessão de papel (E6-02) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 
 <p class="caption">Tabela 7 — Histórico de versão.</p>

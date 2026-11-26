@@ -186,7 +186,7 @@ html {
 /* As seções continuam visíveis quando a largura ou a fonte exigem outra linha. */
 .md-tabs__list {
   flex-wrap: wrap;
-  gap: 0.1rem 0.2rem;
+  gap: 0.1rem 0.12rem;
   margin: 0;
   overflow: visible;
   contain: none;
@@ -208,7 +208,7 @@ html {
   align-items: center;
   min-height: 2.5rem;
   margin: 0;
-  padding: 0.55rem 0.65rem;
+  padding: 0.55rem 0.4rem;
   border-radius: 0.25rem 0.25rem 0 0;
   overflow-wrap: anywhere;
 }
@@ -829,6 +829,29 @@ html {
 
 .md-typeset table:not([class]) td {
   border-top: 1px solid var(--line);
+}
+
+.md-typeset .ihc-table--wide table {
+  min-width: 40rem;
+}
+
+.ihc-table--evaluations th:nth-child(2) {
+  width: 20%;
+}
+
+.ihc-table--evaluations th:nth-child(3) {
+  width: 12%;
+}
+
+.md-typeset :is(.ihc-table--wide, .ihc-table--comparison) .md-typeset__scrollwrap {
+  margin: 0;
+  overflow: visible;
+}
+
+.ihc-table--wide:focus-visible,
+.ihc-table--comparison:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: -2px;
 }
 
 .hm-l,

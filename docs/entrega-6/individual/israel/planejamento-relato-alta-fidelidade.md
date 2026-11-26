@@ -8,8 +8,11 @@ A Tabela 1 registra as contribuições na elaboração e revisão deste artefato
 
 | Integrante | Contribuição | Artefato / atividade |
 | --- | --- | --- |
-| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Estruturação do modelo de relato para 3 a 4 participantes, fichas por tarefa, matriz de triagem de Krug e rastreabilidade | [Conteúdo](#introducao) |
+| [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | Estruturação do modelo de relato, fichas por tarefa, matriz de triagem de Krug e rastreabilidade | [Conteúdo](#introducao) |
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Revisão técnica de consistência e alinhamento com o planejamento da avaliação de alta fidelidade | [Introdução](#introducao) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Conferência da amostra prevista e da amostra que fundamenta as conclusões | [Amostra do relato](#amostra-do-relato) |
+| Claude (Anthropic) | Apoio à estruturação, à redação e à formatação registrado na versão 0.1 | [Agradecimentos](#agradecimentos) |
+| Codex (OpenAI) | Apoio à conferência dos planos e à edição da versão 2.0 | [Agradecimentos](#agradecimentos) |
 
 <p class="caption">Tabela 1 — Contribuições neste planejamento de relato.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
@@ -18,7 +21,11 @@ A Tabela 1 registra as contribuições na elaboração e revisão deste artefato
 
 Este documento estabelece o modelo e a estrutura sistemática para a elaboração do **Relato dos Resultados da Avaliação de Alta Fidelidade** do protótipo navegável AF-1.0 (Agendamento de visita ao Senado Federal), cuja entrega e consolidação final ocorrerão na **Etapa 7**.
 
-O relato responderá empiricamente às questões de pesquisa **AF-Q1 a AF-Q6** definidas no [Planejamento da avaliação de alta fidelidade](planejamento-avaliacao-alta-fidelidade.md), estruturando os dados de desempenho, erros, verbalizações (*Thinking Aloud*) e graus de satisfação colhidos durante a execução das tarefas **AF-T1 a AF-T5** com uma amostra iterativa de **3 a 4 participantes** (alinhada à metodologia enxuta de Steve Krug, 2010), além da sessão piloto.
+O relato organiza as evidências das tarefas **AF-T1 a AF-T5** para responder às perguntas **AF-Q1 a AF-Q6** do planejamento, com desempenho, erros, falas e opinião das pessoas participantes.
+
+### Amostra do relato
+
+O [plano da avaliação](planejamento-avaliacao-alta-fidelidade.md#pessoas-local-e-recursos) previa uma pessoa principal e outra para o piloto. A versão 1.0 deste modelo considerava uma ampliação para três ou quatro pessoas. Na [avaliação da Etapa 7](../../../entrega-7/individual/israel/relato-alta-fidelidade.md#pessoas-material-e-condicoes), houve **duas sessões principais** (`AF-P01` e `AF-P02`) e um piloto distinto (`AF-PILOTO01`). Para cada pergunta, usar como denominador somente as pessoas expostas à tarefa e usar somente os registros das sessões principais. Informar medidas ausentes e explicitar o desvio de amostra e seus limites antes de propor correções ou retestes.
 
 ---
 
@@ -30,7 +37,7 @@ A estrutura do relato final segue os preceitos de Barbosa e Silva (2010, p. 343)
 | --- | --- | --- |
 | **1. Objetivos e Escopo** | Hipóteses avaliadas, escopo da interface AF-1.0 e perguntas AF-Q1–AF-Q6 | [Planejamento da avaliação](planejamento-avaliacao-alta-fidelidade.md) |
 | **2. Método e Execução** | Protocolo enxuto (Krug), ambiente Google Meet/OBS, datas, horários e equipe | Ficha de registro das sessões |
-| **3. Perfil dos Participantes** | Caracterização de `AF-P01` a `AF-P04` (idade, familiaridade, alinhamento à persona Marta) | Questionário de perfil sociodemográfico e TCLE |
+| **3. Perfil dos Participantes** | Caracterização por código das pessoas que participaram (familiaridade, agendamentos prévios e aderência ao perfil Marta) | Questionário de perfil e registro da sessão |
 | **4. Desempenho nas Tarefas** | Ações observadas, taxas de sucesso, hesitações e tempo decorrido por tarefa | Planilha de observação em tempo real e vídeos gravados |
 | **5. Protocolo Thinking Aloud** | Citações verbais literais dos usuários, dúvidas expressas e reações às telas | Transcrição comentada com localizadores de vídeo |
 | **6. Matriz de Triagem de Problemas** | Problemas classificados por severidade (Alta, Média, Baixa) segundo Steve Krug | Matriz de debriefing e priorização no mesmo dia |
@@ -44,7 +51,7 @@ A estrutura do relato final segue os preceitos de Barbosa e Silva (2010, p. 343)
 
 ## Ficha de Registro das Sessões
 
-A Tabela 3 apresenta o modelo de ficha para registrar a realização de cada uma das sessões de teste com os 3 a 4 participantes e o piloto.
+A Tabela 3 apresenta a ficha de registro. As duas primeiras colunas de sessão correspondem à rodada documentada na Etapa 7. As colunas 3 e 4 ficam disponíveis para outras rodadas.
 
 | Campo de Registro | Sessão Piloto | Sessão 1 | Sessão 2 | Sessão 3 | Sessão 4 (Reserva) |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -53,8 +60,8 @@ A Tabela 3 apresenta o modelo de ficha para registrar a realização de cada uma
 | **Duração Total da Sessão** | _minutos_ | _minutos_ | _minutos_ | _minutos_ | _minutos_ |
 | **Dispositivo e Navegador Utilizado** | _Desktop/Chrome_ | _Notebook/Edge_ | _Desktop/Chrome_ | _Notebook/Firefox_ | _Desktop/Chrome_ |
 | **Moderador e Observadores** | Israel (Mod.) | Israel (Mod.) | Israel (Mod.) | Israel (Mod.) | Israel (Mod.) |
-| **Contato Prévio com o Projeto** | Colaborador interno | Participou do papel (`PAP-VIS01`) | Nenhum (Usuário virgem) | Nenhum (Usuária virgem) | Nenhum (Usuário virgem) |
-| **Conformidade Ética e TCLE** | Assinado | Assinado | Assinado | Assinado | Assinado |
+| **Contato Prévio com o Projeto** | _Registrar_ | _Registrar_ | _Registrar_ | _Registrar se houver sessão_ | _Registrar se houver sessão_ |
+| **Conformidade Ética e TCLE** | _Verificar_ | _Verificar_ | _Verificar_ | _Verificar se houver sessão_ | _Verificar se houver sessão_ |
 | **Link do Vídeo Autorizado** | _Não listado YouTube_ | _Não listado YouTube_ | _Não listado YouTube_ | _Não listado YouTube_ | _Não listado YouTube_ |
 
 <p class="caption">Tabela 3 — Ficha de identificação e metadados das sessões de teste.</p>
@@ -108,7 +115,7 @@ A Tabela 6 sintetiza as respostas fundamentadas para as questões de pesquisa ap
 
 | Questão de Pesquisa | Dados e Indicadores Utilizados | Resposta Qualitativa Apoiada nos Dados | Meta Alcançada? |
 | --- | --- | --- | :---: |
-| **AF-Q1 (Encontrabilidade e Regras)** | Desempenho em AF-T1, tempo de busca e assimilação das regras | _Apresentar síntese das falas e percurso dos 3 a 4 participantes_ | M0: $\ge 75\%$ |
+| **AF-Q1 (Encontrabilidade e Regras)** | Desempenho em AF-T1, tempo de busca e assimilação das regras | _Sintetizar o percurso, as falas e a ajuda das pessoas que executaram AF-T1_ | M0: $\ge 75\%$ |
 | **AF-Q2 (Disponibilidade e Vagas)** | Desempenho em AF-T2, leitura da legenda e seleção de horários | _Apresentar síntese das reações ao calendário_ | M0: $\ge 75\%$ |
 | **AF-Q3 (Formulário e Acessibilidade)** | Desempenho em AF-T3, preenchimento e localização do apoio | _Apresentar facilidade na marcação de cadeira de rodas_ | M0: $\ge 75\%$ |
 | **AF-Q4 (Recuperação de Erro)** | Desempenho em AF-T4, uso da edição modular sem perda de dados | _Apresentar taxa de recuperação e preservação do formulário_ | M3: 100% |
@@ -142,7 +149,7 @@ A Tabela 7 detalha a rastreabilidade completa deste planejamento de relato com o
 
 ## Agradecimentos
 
-Este documento foi estruturado por Israel Soares de Paiva com a colaboração do Grupo 06 e apoio de IA na redação e formatação Markdown.
+Israel Soares de Paiva estruturou o plano com a colaboração do Grupo 06. Claude (Anthropic) apoiou a estruturação, a redação e a formatação Markdown, conforme o [registro da versão 0.1](https://github.com/Interacao-Humano-Computador/2026.2-Grupo06/blob/9f5fa51/docs/entrega-6/individual/israel/planejamento-relato-alta-fidelidade.md). Codex (OpenAI) apoiou a conferência dos dois planejamentos e do relato da Etapa 7 e a redação dos ajustes da versão 2.0.
 
 ---
 
@@ -154,6 +161,7 @@ A Tabela 8 documenta a evolução deste artefato.
 | :---: | :---: | --- | --- | --- |
 | `0.1` | 03/11/2026 | Estruturação inicial do planejamento de relato da alta fidelidade | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.0` | 11/11/2026 | Atualização metodológica: ampliação da amostragem para 3 a 4 participantes (metodologia Steve Krug), fichas de coleta multiusuário, matriz de triagem de problemas no mesmo dia e interligação de rastreabilidade | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `2.0` | 26/11/2026 | Restaura a declaração nominal de IA e distingue a amostra planejada das sessões efetivas (D11 e E6-15) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
 
 <p class="caption">Tabela 8 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração do autor (2026).</p>

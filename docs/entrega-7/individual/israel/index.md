@@ -32,8 +32,8 @@ A Tabela 2 organiza os materiais para leitura e conferência deste recorte indiv
 
 | Material | Conteúdo |
 | --- | --- |
-| [Relato da alta fidelidade](relato-alta-fidelidade.md) | Objetivos, execução presencial e remota com metodologia enxuta de Steve Krug (3 a 4 participantes e piloto), desempenho nas tarefas AF-T1–AF-T5, thinking aloud, limites e matriz de triagem de problemas |
-| [Evidências das sessões](evidencias.md) | Registros em vídeo de tela e áudio das sessões, identificadores de participantes e localizadores por tarefa |
+| [Relato da alta fidelidade](relato-alta-fidelidade.md) | Duas sessões principais presenciais e um piloto separado, percurso AF-T1–AF-T5, entrevistas e propostas de reprojeto |
+| [Evidências das sessões](evidencias.md) | Vídeos de tela e sala, com códigos de participantes e localizadores por tarefa |
 | [Plano da avaliação](../../../entrega-6/individual/israel/planejamento-avaliacao-alta-fidelidade.md) | Perguntas AF-Q1–AF-Q6, tarefas AF-T1–AF-T5, amostragem lean de Steve Krug e critérios definidos antes da coleta |
 | [Planejamento do relato](../../../entrega-6/individual/israel/planejamento-relato-alta-fidelidade.md) | Estrutura padronizada, modelo de fichas por tarefa, regras de severidade e limites de interpretação |
 | [Conferência](../../../verificacao/listas/etapa-7.md) | Critérios do livro-texto e do plano de ensino para a Etapa 7 |
@@ -59,6 +59,7 @@ O trabalho baseia-se na fundamentação metodológica de Barbosa e Silva (2010) 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | --- | --- | --- |
 | `1.0` | 12/11/2026 | Estruturação inicial do índice individual da Etapa 7 | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.1` | 26/11/2026 | Atualiza a síntese da avaliação conforme os registros das duas sessões | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Israel Soares de Paiva](https://github.com/IsraelSoares-25) (designado) |
 
 ## Referências
 

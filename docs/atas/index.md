@@ -13,6 +13,7 @@ A Tabela 1 registra quem atuou neste artefato.
 | [Bruno Ferreira Dornelas](https://github.com/brunnf) | Registro da Ata 03 | [Ata 03](ata-03.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Registro da Ata 04 | [Ata 04](ata-04.md) |
 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | Registro da Ata 05 | [Ata 05](ata-05.md) |
+| [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | Registro das atas das autoverificações das Etapas 6 e 7 | [Ata 06](ata-06.md) · [Ata 07](ata-07.md) |
 
 <p class="caption">Tabela 1 — Contribuição neste artefato.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -32,6 +33,8 @@ A Tabela 2 lista as reuniões registradas até o momento.
 | 03 | 03/10/2026 | 20:00 | 20:40 | Apresentar e conferir plataforma, princípios, metas de usabilidade e guia de estilo da Etapa 3 | [Vídeos](ata-03.md#gravacao) | [Ata 03](ata-03.md) |
 | 04 | 25/10/2026 | 20:02 | 20:18 | Autoverificação da Etapa 5 e definição das correções | [Vídeo](ata-04.md#gravacao) | [Ata 04](ata-04.md) |
 | 05 | 13/10/2026 | 22:54 | 23:04 | Autoverificação da Etapa 4 | [Vídeo](ata-05.md#gravacao) | [Ata 05](ata-05.md) |
+| 06 | 03/11/2026 | 23:28 | 23:41 | Autoverificação da Etapa 6 | [Vídeo](ata-06.md#gravacao) | [Ata 06](ata-06.md) |
+| 07 | 15/11/2026 | 21:33 | 21:44 | Autoverificação da Etapa 7 | [Vídeo](ata-07.md#gravacao) | [Ata 07](ata-07.md) |
 
 <p class="caption">Tabela 2 — Índice das atas do Grupo 06.</p>
 <p class="source">Fonte: elaboração do Grupo 06 (2026).</p>
@@ -55,6 +58,7 @@ A Tabela 2 lista as reuniões registradas até o momento.
 | `1.4` | 25/11/2026 | Atualiza horários verificados da Ata 02 no índice | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) |
 | `1.5` | 26/11/2026 | Inclui a Ata 04, sobre a autoverificação da Etapa 5 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.6` | 26/11/2026 | Inclui a Ata 05, sobre a autoverificação da Etapa 4 | [Luís Henrique Arruda Luna](https://github.com/Donnk61) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
+| `1.7` | 26/11/2026 | Inclui as atas das autoverificações das Etapas 6 e 7 | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 ## Referências
 

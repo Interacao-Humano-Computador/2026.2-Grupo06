@@ -42,7 +42,7 @@ Os recortes individuais estruturam os testes com usuários dos protótipos naveg
 * **Bruno Ferreira:** Resultados consolidados e revisados de três sessões presenciais sobre complementos de ideias legislativas, com seis vídeos, notas gerais confirmadas, problemas, propostas de melhoria e diferenças em relação ao planejamento;
 * **Caio Breno:** Avaliação de envio e acompanhamento de ideia legislativa com duas pessoas e duas perspectivas de registro (tela e câmera da sala);
 * **Heitor Pinheiro:** Consolidação de três sessões presenciais gravadas (`AF-H01` a `AF-H03`) sobre participação em audiência pública interativa (e-Cidadania, CRA, PL 1215/2025), com localizadores por tarefa, matriz `AF-PR01`–`AF-PR04`, respostas a `AF-Q1`–`AF-Q5` e registro explícito de lacunas (`AF-T3` não aplicada e M6 numérica não coletada);
-* **Israel Soares:** Avaliação do agendamento de visita ao Senado com metodologia enxuta de Steve Krug (3 a 4 participantes e piloto), Thinking Aloud e triagem no mesmo dia;
+* **Israel Soares:** Avaliação presencial do agendamento de visita ao Senado com duas pessoas na rodada principal e um piloto separado. O relato vincula as ações e as entrevistas aos vídeos e registra os limites das medições.
 * **Luís Henrique:** Avaliação da solicitação de vaga em plenária com uma pessoa, teste moderado presencial, piloto no mesmo dia e dois registros (câmera da sala e tela com webcam).
 
 ## Entrega e conferência
@@ -59,6 +59,8 @@ A Tabela 2 relaciona o que precisa ser consultado nesta etapa.
 
 <p class="caption">Tabela 2 — Acessos da Etapa 7.</p>
 <p class="source">Fonte: plano de ensino e organização do Grupo 06 (2026).</p>
+
+[Ata da autoverificação](../atas/ata-07.md) · [Resultado atual da autoinspeção](../entrega-8/grupo-06/etapa-7.md) · [Histórico e mudanças](../entrega-8/grupo-06/historico-etapa-7.md).
 
 ## Agradecimentos
 
@@ -81,6 +83,7 @@ A Tabela 3 reúne as alterações das duas linhas de trabalho, com numeração c
 | `1.8` | 15/11/2026 | Atualização do resumo de Heitor Pinheiro após análise dos três vídeos das sessões presenciais | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.9` | 15/11/2026 | Atualização do link de apresentação de Heitor Pinheiro com vídeo publicado | [Heitor Pinheiro Gonçalves das Chagas](https://github.com/Heitorovski01) | [Bruno Ferreira Dornelas](https://github.com/brunnf) |
 | `1.10` | 15/11/2026 | Inclusão do vídeo de apresentação de Bruno e substituição dos acessos ao roteiro | [Bruno Ferreira Dornelas](https://github.com/brunnf) | [Luís Henrique Arruda Luna](https://github.com/Donnk61) |
+| `1.11` | 26/11/2026 | Atualiza a síntese de agendamento e vincula a ata e a reinspeção | [Caio Breno de Souza Bezerra](https://github.com/CaioBezerra-Dev) | [Bruno Ferreira Dornelas](https://github.com/brunnf) (designado) |
 
 <p class="caption">Tabela 3 — Histórico de versão.</p>
 <p class="source">Fonte: elaboração para o Grupo 06 (2026).</p>
